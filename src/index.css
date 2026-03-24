@@ -344,7 +344,7 @@ h1 {
 
 .layout {
   display: grid;
-  grid-template-columns: 300px minmax(0, 1fr);
+  grid-template-columns: 280px minmax(0, 1fr) 320px;
   gap: 0.72rem;
   align-items: start;
 }
@@ -979,7 +979,9 @@ button.ghost {
   display: grid;
   gap: 0.8rem;
   align-content: start;
-  max-height: calc(36vh + 2rem);
+  max-height: calc(78vh + 1rem);
+  position: sticky;
+  top: 0.72rem;
 }
 
 .detail-panel.empty p {
@@ -1120,8 +1122,10 @@ button.ghost {
   }
 
   .detail-panel {
+    grid-column: 2;
     min-height: auto;
     max-height: calc(34vh + 1.5rem);
+    position: static;
   }
 }
 
