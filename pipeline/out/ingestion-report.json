@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-24T08:17:48.639Z",
+  "generated_at": "2026-03-24T09:41:15.754Z",
   "sources_considered": 10,
   "records_received": 3658,
   "records_processed": 3658,
@@ -9,7 +9,11 @@
   "records_skipped_semantic_duplicate": 0,
   "corroboration_edges_created": 23,
   "location_nodes_created": 3,
-  "relationship_edges_created": 3006,
+  "country_location_nodes_created": 19,
+  "country_location_edges_created": 3290,
+  "entity_nodes_created": 25,
+  "statement_media_edges_created": 145,
+  "relationship_edges_created": 6567,
   "source_breakdown": {
     "nuforc": 2,
     "national-archives-foia": 2,

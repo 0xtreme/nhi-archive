@@ -117,9 +117,27 @@ function isNoisyCategory(rawCategory) {
 
 function guessNodeType(title, summary, categoryNames) {
   const haystack = `${title} ${summary} ${categoryNames.join(' ')}`.toLowerCase();
+  const categoryHaystack = categoryNames.join(' ').toLowerCase();
   const incidentSignal =
     /\b(sighting|incident|encounter|abduction|ufo|uap|phenomenon|case)\b/.test(haystack) ||
     /\b(flap|wave)\b/.test(haystack);
+  const personCategorySignal =
+    /\b(living people|ufologists|aviators|journalists|politicians|witnesses)\b/.test(categoryHaystack) ||
+    /\b(18|19|20)\d{2}\s+(births|deaths)\b/.test(categoryHaystack);
+  const looksLikePersonName = /^[A-Z][a-z.'-]+(?:\s+(?:[A-Z]\.|[A-Z][a-z.'-]+)){1,3}$/.test(title);
+  const personBiographySignal =
+    /\b(is|was)\s+an?\s+(american|british|french|canadian|russian|australian|argentinian|mexican|chilean|ufo|ufologist|journalist|pilot|researcher|author|writer|politician|astronomer|physicist|actor|director|attorney|lawyer)\b/.test(
+      summary.toLowerCase().slice(0, 220),
+    );
+  const listOrProgramSignal = /\b(list|project|operation|committee|task force)\b/.test(haystack);
+
+  if (
+    (personCategorySignal || (looksLikePersonName && personBiographySignal)) &&
+    !incidentSignal &&
+    !listOrProgramSignal
+  ) {
+    return 'person';
+  }
 
   if (/\b(project|office|committee|organization|network)\b/.test(haystack)) {
     return 'organization';

@@ -122,6 +122,119 @@ const extractionScore = {
   low: 0.05,
 };
 
+const COUNTRY_NAMES = {
+  US: 'United States',
+  CA: 'Canada',
+  GB: 'United Kingdom',
+  AU: 'Australia',
+  NZ: 'New Zealand',
+  BR: 'Brazil',
+  AR: 'Argentina',
+  CL: 'Chile',
+  PE: 'Peru',
+  UY: 'Uruguay',
+  MX: 'Mexico',
+  RU: 'Russia',
+  FI: 'Finland',
+  BE: 'Belgium',
+  IR: 'Iran',
+  ZW: 'Zimbabwe',
+  IT: 'Italy',
+  DE: 'Germany',
+  FR: 'France',
+  ZA: 'South Africa',
+};
+
+const ENTITY_PATTERN_SETS = {
+  person: [
+    { id: 'person-j-allen-hynek', label: 'J. Allen Hynek', patterns: [/\bhynek\b/i] },
+    { id: 'person-jacques-vallee', label: 'Jacques Vallée', patterns: [/\bjacques vall[ée]e\b/i] },
+    { id: 'person-luis-elizondo', label: 'Luis Elizondo', patterns: [/\b(luis|lou|lue) elizondo\b/i] },
+    { id: 'person-david-grusch', label: 'David Grusch', patterns: [/\bdavid grusch\b/i] },
+    { id: 'person-david-fravor', label: 'David Fravor', patterns: [/\bdavid fravor\b/i] },
+    { id: 'person-alex-dietrich', label: 'Alex Dietrich', patterns: [/\balex dietrich\b/i] },
+    { id: 'person-bob-lazar', label: 'Bob Lazar', patterns: [/\bbob lazar\b/i] },
+    { id: 'person-travis-walton', label: 'Travis Walton', patterns: [/\btravis walton\b/i] },
+    { id: 'person-stanton-friedman', label: 'Stanton Friedman', patterns: [/\bstanton friedman\b/i] },
+    { id: 'person-christopher-mellon', label: 'Christopher Mellon', patterns: [/\bchristopher mellon\b/i] },
+    { id: 'person-harry-reid', label: 'Harry Reid', patterns: [/\bharry reid\b/i] },
+    { id: 'person-ryan-graves', label: 'Ryan Graves', patterns: [/\bryan graves\b/i] },
+    { id: 'person-karl-nell', label: 'Karl Nell', patterns: [/\bkarl nell\b/i] },
+    { id: 'person-george-knapp', label: 'George Knapp', patterns: [/\bgeorge knapp\b/i] },
+    { id: 'person-jeremy-corbell', label: 'Jeremy Corbell', patterns: [/\bjeremy corbell\b/i] },
+    { id: 'person-john-podesta', label: 'John Podesta', patterns: [/\bjohn podesta\b/i] },
+    { id: 'person-steven-greer', label: 'Steven Greer', patterns: [/\bsteven greer\b/i] },
+    { id: 'person-nick-pope', label: 'Nick Pope', patterns: [/\bnick pope\b/i] },
+    { id: 'person-kenneth-arnold', label: 'Kenneth Arnold', patterns: [/\bkenneth arnold\b/i] },
+    { id: 'person-betty-hill', label: 'Betty Hill', patterns: [/\bbetty hill\b/i] },
+    { id: 'person-barney-hill', label: 'Barney Hill', patterns: [/\bbarney hill\b/i] },
+    { id: 'person-whitley-strieber', label: 'Whitley Strieber', patterns: [/\bwhitley strieber\b/i] },
+    { id: 'person-john-mack', label: 'John Mack', patterns: [/\bjohn mack\b/i] },
+    { id: 'person-charles-halt', label: 'Charles Halt', patterns: [/\bcharles halt\b/i] },
+    { id: 'person-robert-salas', label: 'Robert Salas', patterns: [/\brobert salas\b/i] },
+    { id: 'person-gary-nolan', label: 'Gary Nolan', patterns: [/\bgary nolan\b/i] },
+    { id: 'person-barack-obama', label: 'Barack Obama', patterns: [/\bbarack obama\b/i] },
+    { id: 'person-donald-trump', label: 'Donald Trump', patterns: [/\bdonald trump\b/i] },
+    { id: 'person-bill-clinton', label: 'Bill Clinton', patterns: [/\bbill clinton\b/i] },
+    { id: 'person-jimmy-carter', label: 'Jimmy Carter', patterns: [/\bjimmy carter\b/i] },
+    { id: 'person-hillary-clinton', label: 'Hillary Clinton', patterns: [/\bhillary clinton\b/i] },
+    { id: 'person-paul-hellyer', label: 'Paul Hellyer', patterns: [/\bpaul hellyer\b/i] },
+  ],
+  organization: [
+    { id: 'org-project-blue-book', label: 'Project Blue Book', patterns: [/\bproject blue book\b/i] },
+    { id: 'org-aatip', label: 'AATIP', patterns: [/\baatip\b/i, /advanced aerospace threat identification program/i] },
+    { id: 'org-aaro', label: 'AARO', patterns: [/\baaro\b/i, /all-domain anomaly resolution office/i] },
+    { id: 'org-uaptf', label: 'UAP Task Force', patterns: [/\buap task force\b/i, /\buaptf\b/i] },
+    { id: 'org-mufon', label: 'MUFON', patterns: [/\bmufon\b/i] },
+    { id: 'org-nuforc', label: 'NUFORC', patterns: [/\bnuforc\b/i] },
+    { id: 'org-nasa', label: 'NASA', patterns: [/\bnasa\b/i] },
+    { id: 'org-dod', label: 'US Department of Defense', patterns: [/\bdepartment of defense\b/i, /\bdod\b/i, /\bpentagon\b/i] },
+    { id: 'org-usaf', label: 'US Air Force', patterns: [/\b(usaf|u\.s\. air force|united states air force)\b/i] },
+    { id: 'org-us-navy', label: 'US Navy', patterns: [/\b(us navy|u\.s\. navy|united states navy)\b/i] },
+    { id: 'org-cia', label: 'CIA', patterns: [/\bcia\b/i] },
+    { id: 'org-fbi', label: 'FBI', patterns: [/\bfbi\b/i] },
+    { id: 'org-dia', label: 'DIA', patterns: [/\bdia\b/i, /defense intelligence agency/i] },
+    { id: 'org-norad', label: 'NORAD', patterns: [/\bnorad\b/i] },
+    { id: 'org-condon-committee', label: 'Condon Committee', patterns: [/\bcondon committee\b/i] },
+    { id: 'org-nicap', label: 'NICAP', patterns: [/\bnicap\b/i] },
+    { id: 'org-to-the-stars-academy', label: 'To The Stars Academy', patterns: [/\bto the stars academy\b/i, /\bttsa\b/i] },
+  ],
+  event: [
+    { id: 'event-1947-wave', label: '1947 US Sighting Wave', patterns: [/\b1947\b/i, /\bwave of 1947\b/i] },
+    { id: 'event-congress-hearing-2023', label: 'US Congressional UAP Hearing 2023', patterns: [/\bcongressional uap hearing\b/i, /\bhearing\b.*\b2023\b/i] },
+    { id: 'event-house-hearing-2024', label: 'US Congressional UAP Hearing 2024', patterns: [/\bhearing\b.*\b2024\b/i] },
+  ],
+  statement: [
+    {
+      id: 'statement-odni-2021',
+      label: 'ODNI Preliminary Assessment (2021)',
+      patterns: [/\bodni\b/i, /\bpreliminary assessment\b/i],
+    },
+    {
+      id: 'statement-grusch-2023',
+      label: 'Grusch Congressional Testimony (2023)',
+      patterns: [/\bgrusch\b.*\btestimony\b/i, /\btestimony\b.*\bgrusch\b/i],
+    },
+  ],
+  media: [
+    { id: 'media-the-phenomenon-2020', label: 'The Phenomenon (2020)', patterns: [/\bthe phenomenon\b/i] },
+    { id: 'media-unidentified-2019', label: 'Unidentified (2019)', patterns: [/\bunidentified\b/i] },
+    { id: 'media-the-program-2015', label: 'The Program (2015)', patterns: [/\bthe program\b/i] },
+  ],
+};
+
+const ENTITY_CATALOG = new Map(
+  Object.entries(ENTITY_PATTERN_SETS).flatMap(([nodeType, entities]) =>
+    entities.map((entity) => [
+      entity.id,
+      {
+        node_type: nodeType,
+        label: entity.label,
+      },
+    ]),
+  ),
+);
+
 function normalizeText(value) {
   return value
     .toLowerCase()
@@ -171,6 +284,90 @@ function buildEdgeId(prefix, from, to, relationship) {
 
 function ensureArrayUnique(values) {
   return Array.from(new Set(values));
+}
+
+function toTitleCase(value) {
+  return String(value)
+    .split(/\s+/g)
+    .filter(Boolean)
+    .map((token) => token.charAt(0).toUpperCase() + token.slice(1))
+    .join(' ');
+}
+
+function buildEntityLabelFromId(entityId, fallbackType) {
+  const fromCatalog = ENTITY_CATALOG.get(entityId)?.label;
+  if (fromCatalog) {
+    return fromCatalog;
+  }
+
+  const prefix = `${fallbackType}-`;
+  const raw = entityId.startsWith(prefix) ? entityId.slice(prefix.length) : entityId;
+  const spaced = raw.replace(/[_-]+/g, ' ').trim();
+  return toTitleCase(spaced || entityId);
+}
+
+function inferEntityMentions(node) {
+  const haystack = `${node.label ?? ''} ${node.summary ?? ''} ${(node.tags ?? []).join(' ')}`.toLowerCase();
+  const picked = {
+    persons: [],
+    organizations: [],
+    events: [],
+    designations: [],
+    statements: [],
+    media: [],
+  };
+
+  for (const entity of ENTITY_PATTERN_SETS.person) {
+    if (entity.patterns.some((pattern) => pattern.test(haystack))) {
+      picked.persons.push(entity.id);
+    }
+  }
+  for (const entity of ENTITY_PATTERN_SETS.organization) {
+    if (entity.patterns.some((pattern) => pattern.test(haystack))) {
+      picked.organizations.push(entity.id);
+    }
+  }
+  for (const entity of ENTITY_PATTERN_SETS.event) {
+    if (entity.patterns.some((pattern) => pattern.test(haystack))) {
+      picked.events.push(entity.id);
+    }
+  }
+  for (const entity of ENTITY_PATTERN_SETS.statement) {
+    if (entity.patterns.some((pattern) => pattern.test(haystack))) {
+      picked.statements.push(entity.id);
+    }
+  }
+  for (const entity of ENTITY_PATTERN_SETS.media) {
+    if (entity.patterns.some((pattern) => pattern.test(haystack))) {
+      picked.media.push(entity.id);
+    }
+  }
+
+  return {
+    persons: ensureArrayUnique(picked.persons),
+    organizations: ensureArrayUnique(picked.organizations),
+    events: ensureArrayUnique(picked.events),
+    designations: ensureArrayUnique(picked.designations),
+    statements: ensureArrayUnique(picked.statements),
+    media: ensureArrayUnique(picked.media),
+  };
+}
+
+function extractCountryCode(tags) {
+  for (const tag of tags ?? []) {
+    if (typeof tag !== 'string' || !tag.startsWith('country:')) {
+      continue;
+    }
+    const code = tag.slice('country:'.length).trim().toUpperCase();
+    if (code.length === 2) {
+      return code;
+    }
+  }
+  return null;
+}
+
+function makeCountryLocationId(countryCode) {
+  return `location-country-${countryCode.toLowerCase()}`;
 }
 
 function sanitizeSummary(record) {
@@ -224,6 +421,41 @@ function inferOrganizationRelationship(nodeType) {
     return 'REFERENCES';
   }
   return 'AFFILIATED_WITH';
+}
+
+function ensureMentionNode({
+  nodesById,
+  nodeBuckets,
+  entityId,
+  fallbackType,
+  sourceUrl,
+  contextNode,
+}) {
+  if (!entityId || nodesById.has(entityId)) {
+    return false;
+  }
+
+  const catalog = ENTITY_CATALOG.get(entityId);
+  const nodeType = catalog?.node_type ?? fallbackType;
+  const label = catalog?.label ?? buildEntityLabelFromId(entityId, fallbackType);
+  const confidence = catalog ? 'medium' : 'low';
+  const mentionNode = {
+    id: entityId,
+    node_type: nodeType,
+    label,
+    summary: `${label} entity extracted from cross-source archival records.`,
+    tags: ['pipeline-generated', 'entity-extracted'],
+    date_start: contextNode?.date_start,
+    confidence,
+    sources: [sourceUrl],
+  };
+
+  nodesById.set(mentionNode.id, mentionNode);
+  const key = bucketKey(mentionNode);
+  const entries = nodeBuckets.get(key) ?? [];
+  entries.push(mentionNode);
+  nodeBuckets.set(key, entries);
+  return true;
 }
 
 function computePipelineScore({ source, record, hasCorroboration, schemaPassed }) {
@@ -322,6 +554,10 @@ async function main() {
     records_skipped_semantic_duplicate: 0,
     corroboration_edges_created: 0,
     location_nodes_created: 0,
+    country_location_nodes_created: 0,
+    country_location_edges_created: 0,
+    entity_nodes_created: 0,
+    statement_media_edges_created: 0,
     relationship_edges_created: 0,
     source_breakdown: {},
   };
@@ -425,6 +661,76 @@ async function main() {
     }
     report.records_auto_ingested += 1;
 
+    const inferredMentions = inferEntityMentions(nodeToIngest);
+    const personMentions = ensureArrayUnique([
+      ...record.mentions.persons,
+      ...inferredMentions.persons,
+    ]);
+    const organizationMentions = ensureArrayUnique([
+      ...record.mentions.organizations,
+      ...inferredMentions.organizations,
+    ]);
+    const eventMentions = ensureArrayUnique([
+      ...record.mentions.events,
+      ...inferredMentions.events,
+    ]);
+    const designationMentions = ensureArrayUnique([
+      ...record.mentions.designations,
+      ...inferredMentions.designations,
+    ]);
+    const statementMentions = inferredMentions.statements;
+    const mediaMentions = inferredMentions.media;
+
+    const countryCode = extractCountryCode(nodeToIngest.tags);
+    if (nodeToIngest.node_type === 'incident' && countryCode) {
+      const countryLocationId = makeCountryLocationId(countryCode);
+      const countryLabel = COUNTRY_NAMES[countryCode] ?? countryCode;
+      if (!nodesById.has(countryLocationId)) {
+        const countryNode = {
+          id: countryLocationId,
+          node_type: 'location',
+          label: countryLabel,
+          summary: `Country-level grouping node for incidents tagged to ${countryLabel}.`,
+          tags: ['country-aggregate', 'pipeline-generated'],
+          date_start: nodeToIngest.date_start,
+          confidence: 'medium',
+          sources: [record.url],
+          location_name: countryLabel,
+          lat: nodeToIngest.lat,
+          lng: nodeToIngest.lng,
+        };
+        nodesById.set(countryLocationId, countryNode);
+        const key = bucketKey(countryNode);
+        const entries = nodeBuckets.get(key) ?? [];
+        entries.push(countryNode);
+        nodeBuckets.set(key, entries);
+        report.country_location_nodes_created += 1;
+      } else {
+        const countryNode = nodesById.get(countryLocationId);
+        if (countryNode) {
+          countryNode.sources = ensureArrayUnique([...(countryNode.sources ?? []), record.url]);
+          if (typeof nodeToIngest.lat === 'number' && typeof nodeToIngest.lng === 'number') {
+            const currentLat = typeof countryNode.lat === 'number' ? countryNode.lat : nodeToIngest.lat;
+            const currentLng = typeof countryNode.lng === 'number' ? countryNode.lng : nodeToIngest.lng;
+            countryNode.lat = Number(((currentLat + nodeToIngest.lat) / 2).toFixed(5));
+            countryNode.lng = Number(((currentLng + nodeToIngest.lng) / 2).toFixed(5));
+          }
+          nodesById.set(countryNode.id, countryNode);
+        }
+      }
+
+      edges.push({
+        id: buildEdgeId('edge', nodeToIngest.id, countryLocationId, 'LOCATED_IN_COUNTRY'),
+        from_node_id: nodeToIngest.id,
+        to_node_id: countryLocationId,
+        relationship: 'LOCATED_IN_COUNTRY',
+        confidence: 'medium',
+        sources: [record.url],
+      });
+      report.country_location_edges_created += 1;
+      report.relationship_edges_created += 1;
+    }
+
     for (const location of record.mentions.locations) {
       if (!nodesById.has(location.id)) {
         const locationNode = {
@@ -464,9 +770,20 @@ async function main() {
       report.relationship_edges_created += 1;
     }
 
-    for (const personId of record.mentions.persons) {
-      if (!nodesById.has(personId)) {
+    for (const personId of personMentions) {
+      if (!personId || personId === nodeToIngest.id) {
         continue;
+      }
+      const created = ensureMentionNode({
+        nodesById,
+        nodeBuckets,
+        entityId: personId,
+        fallbackType: 'person',
+        sourceUrl: record.url,
+        contextNode: nodeToIngest,
+      });
+      if (created) {
+        report.entity_nodes_created += 1;
       }
 
       edges.push({
@@ -480,9 +797,20 @@ async function main() {
       report.relationship_edges_created += 1;
     }
 
-    for (const organizationId of record.mentions.organizations) {
-      if (!nodesById.has(organizationId)) {
+    for (const organizationId of organizationMentions) {
+      if (!organizationId || organizationId === nodeToIngest.id) {
         continue;
+      }
+      const created = ensureMentionNode({
+        nodesById,
+        nodeBuckets,
+        entityId: organizationId,
+        fallbackType: 'organization',
+        sourceUrl: record.url,
+        contextNode: nodeToIngest,
+      });
+      if (created) {
+        report.entity_nodes_created += 1;
       }
 
       edges.push({
@@ -501,9 +829,20 @@ async function main() {
       report.relationship_edges_created += 1;
     }
 
-    for (const eventId of record.mentions.events) {
-      if (!nodesById.has(eventId)) {
+    for (const eventId of eventMentions) {
+      if (!eventId || eventId === nodeToIngest.id) {
         continue;
+      }
+      const created = ensureMentionNode({
+        nodesById,
+        nodeBuckets,
+        entityId: eventId,
+        fallbackType: 'event',
+        sourceUrl: record.url,
+        contextNode: nodeToIngest,
+      });
+      if (created) {
+        report.entity_nodes_created += 1;
       }
 
       edges.push({
@@ -517,9 +856,20 @@ async function main() {
       report.relationship_edges_created += 1;
     }
 
-    for (const designationId of record.mentions.designations) {
-      if (!nodesById.has(designationId)) {
+    for (const designationId of designationMentions) {
+      if (!designationId || designationId === nodeToIngest.id) {
         continue;
+      }
+      const created = ensureMentionNode({
+        nodesById,
+        nodeBuckets,
+        entityId: designationId,
+        fallbackType: 'designation',
+        sourceUrl: record.url,
+        contextNode: nodeToIngest,
+      });
+      if (created) {
+        report.entity_nodes_created += 1;
       }
 
       edges.push({
@@ -530,6 +880,62 @@ async function main() {
         confidence: 'low',
         sources: [record.url],
       });
+      report.relationship_edges_created += 1;
+    }
+
+    for (const statementId of statementMentions) {
+      if (!statementId || statementId === nodeToIngest.id) {
+        continue;
+      }
+      const created = ensureMentionNode({
+        nodesById,
+        nodeBuckets,
+        entityId: statementId,
+        fallbackType: 'statement',
+        sourceUrl: record.url,
+        contextNode: nodeToIngest,
+      });
+      if (created) {
+        report.entity_nodes_created += 1;
+      }
+
+      edges.push({
+        id: buildEdgeId('edge', statementId, nodeToIngest.id, 'REFERENCES'),
+        from_node_id: statementId,
+        to_node_id: nodeToIngest.id,
+        relationship: 'REFERENCES',
+        confidence: 'medium',
+        sources: [record.url],
+      });
+      report.statement_media_edges_created += 1;
+      report.relationship_edges_created += 1;
+    }
+
+    for (const mediaId of mediaMentions) {
+      if (!mediaId || mediaId === nodeToIngest.id) {
+        continue;
+      }
+      const created = ensureMentionNode({
+        nodesById,
+        nodeBuckets,
+        entityId: mediaId,
+        fallbackType: 'media',
+        sourceUrl: record.url,
+        contextNode: nodeToIngest,
+      });
+      if (created) {
+        report.entity_nodes_created += 1;
+      }
+
+      edges.push({
+        id: buildEdgeId('edge', mediaId, nodeToIngest.id, 'REFERENCES'),
+        from_node_id: mediaId,
+        to_node_id: nodeToIngest.id,
+        relationship: 'REFERENCES',
+        confidence: 'low',
+        sources: [record.url],
+      });
+      report.statement_media_edges_created += 1;
       report.relationship_edges_created += 1;
     }
 

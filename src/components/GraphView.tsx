@@ -240,22 +240,22 @@ export function GraphView({ nodes, edges, selectedNodeId, onSelectNode }: GraphV
           strength?: (value: number) => void;
         }
       | undefined;
-    linkForce?.distance?.(20);
-    linkForce?.strength?.(0.38);
+    linkForce?.distance?.(18);
+    linkForce?.strength?.(0.42);
 
     const chargeForce = graphRef.current.d3Force('charge') as
       | {
           strength?: (value: number) => void;
         }
       | undefined;
-    chargeForce?.strength?.(-26);
+    chargeForce?.strength?.(-17);
 
     const centerForce = graphRef.current.d3Force('center') as
       | {
           strength?: (value: number) => void;
         }
       | undefined;
-    centerForce?.strength?.(0.56);
+    centerForce?.strength?.(0.9);
 
     graphRef.current.d3ReheatSimulation();
   }, [edges.length, nodes.length]);
@@ -348,12 +348,12 @@ export function GraphView({ nodes, edges, selectedNodeId, onSelectNode }: GraphV
             width={size.width}
             height={size.height}
             graphData={graphData}
-            backgroundColor="#050505"
+            backgroundColor="#081726"
             warmupTicks={24}
             cooldownTicks={92}
             cooldownTime={4200}
             d3AlphaDecay={0.058}
-            d3VelocityDecay={0.34}
+            d3VelocityDecay={0.36}
             enableNodeDrag
             enablePointerInteraction
             linkCurvature={0}
@@ -365,7 +365,7 @@ export function GraphView({ nodes, edges, selectedNodeId, onSelectNode }: GraphV
               isHighlightedLink(link, selectedNodeIdRef.current)
                 ? (link.color ?? '#3F5876')
                 : selectedNodeIdRef.current
-                  ? 'rgba(72, 95, 129, 0.16)'
+                  ? 'rgba(96, 136, 186, 0.28)'
                   : (link.color ?? '#3F5876')
             }
             linkWidth={(link) => {
@@ -414,7 +414,7 @@ export function GraphView({ nodes, edges, selectedNodeId, onSelectNode }: GraphV
               const isSelected = selectedId === node.id;
               const isNeighbor = selectedId ? neighborSetRef.current.has(node.id) : false;
               const isActive = selectedId ? isSelected || isNeighbor : true;
-              const alpha = isActive ? 1 : isTransformingRef.current ? 0.08 : 0.14;
+              const alpha = isActive ? 1 : isTransformingRef.current ? 0.14 : 0.28;
               const sizeScale = isSelected ? node.size * 2.25 : node.size;
               const x = node.x ?? 0;
               const y = node.y ?? 0;
@@ -461,8 +461,8 @@ export function GraphView({ nodes, edges, selectedNodeId, onSelectNode }: GraphV
               ctx.globalAlpha = 1;
 
               if (isSelected) {
-                const fontSize = Math.max(8.6, 13 / globalScale);
-                ctx.font = `600 ${fontSize}px ui-monospace`;
+                const fontSize = Math.max(7.2, 10 / globalScale);
+                ctx.font = `600 ${fontSize}px "Inter", "Avenir Next", "Segoe UI", sans-serif`;
                 ctx.textAlign = 'center';
                 ctx.textBaseline = 'bottom';
                 ctx.fillStyle = '#EAF9FF';
@@ -516,6 +516,7 @@ export function GraphView({ nodes, edges, selectedNodeId, onSelectNode }: GraphV
               <h4>How To Use</h4>
               <p>Click a node to focus and reveal its label.</p>
               <p>Use search to jump to entities like AATIP/AARO, then inspect connected records.</p>
+              <p>Low-link entities can drift farther from the core; selecting/searching them pulls focus in.</p>
               <p>Use the Graph Density slider in filters if the graph feels heavy.</p>
             </div>
           </div>

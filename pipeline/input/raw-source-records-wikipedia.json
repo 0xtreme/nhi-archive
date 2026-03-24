@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-24T07:34:51.762Z",
+  "generated_at": "2026-03-24T09:41:09.523Z",
   "records": [
     {
       "record_id": "wiki-375217",
@@ -8494,10 +8494,10 @@
       "url": "https://en.wikipedia.org/wiki/Fife_Symington",
       "extraction_confidence": "medium",
       "date_resolved": true,
-      "geocoded": true,
+      "geocoded": false,
       "node": {
-        "id": "incident-fife-symington-1301974",
-        "node_type": "incident",
+        "id": "person-fife-symington-1301974",
+        "node_type": "person",
         "label": "Fife Symington",
         "summary": "John Fife Symington III (born August 12, 1945) is an American businessman and politician who served as the 19th governor of Arizona from 1991 until his resignation in 1997 following convictions on charges of extortion and bank fraud, which were later overturned. A member of the Republican Party, Symington served in the United States Air Force and was stationed at Luke Air Force Base in Glendale, Arizona prior to entering politics. Linked to the Symington family, He is the son of J. Fife Symington Jr., the United...",
         "tags": [
@@ -8512,18 +8512,13 @@
           "people appearing on c-span",
           "people associated with ufology",
           "people pardoned by bill clinton",
-          "country:us",
-          "country-centroid-estimate"
+          "country:us"
         ],
         "confidence": "medium",
         "sources": [
           "https://en.wikipedia.org/wiki/Fife_Symington"
         ],
-        "date_start": "1945",
-        "case_status": "unexplained",
-        "lat": 39.58817,
-        "lng": -98.27561,
-        "location_name": "United States"
+        "date_start": "1945"
       },
       "mentions": {
         "persons": [],
@@ -8720,10 +8715,10 @@
       "url": "https://en.wikipedia.org/wiki/Daniel_Sheehan_(attorney)",
       "extraction_confidence": "medium",
       "date_resolved": true,
-      "geocoded": true,
+      "geocoded": false,
       "node": {
-        "id": "incident-daniel-sheehan-attorney-40304359",
-        "node_type": "incident",
+        "id": "person-daniel-sheehan-attorney-40304359",
+        "node_type": "person",
         "label": "Daniel Sheehan (attorney)",
         "summary": "Daniel Peter Sheehan (born April 9, 1945) is a constitutional and public interest lawyer, public speaker, political activist and educator.",
         "tags": [
@@ -8735,18 +8730,13 @@
           "harvard divinity school alumni",
           "harvard law school alumni",
           "people associated with ufology",
-          "country:us",
-          "country-centroid-estimate"
+          "country:us"
         ],
         "confidence": "medium",
         "sources": [
           "https://en.wikipedia.org/wiki/Daniel_Sheehan_(attorney)"
         ],
-        "date_start": "1945",
-        "case_status": "unexplained",
-        "lat": 40.32004,
-        "lng": -99.15738,
-        "location_name": "United States"
+        "date_start": "1945"
       },
       "mentions": {
         "persons": [],
@@ -8838,8 +8828,8 @@
       "date_resolved": true,
       "geocoded": false,
       "node": {
-        "id": "incident-mauro-biglino-46414271",
-        "node_type": "incident",
+        "id": "person-mauro-biglino-46414271",
+        "node_type": "person",
         "label": "Mauro Biglino",
         "summary": "Mauro Biglino (born 13 September 1950) is an Italian author, essayist, and translator. Much of his work focuses on the translation of original Hebrew texts and the intended linguistic meaning vs. the many revisions of the Bible and church history, including conspiracy theories, ufology, and the speculation of ancient astronauts. As he himself declared, his ideas are mostly based on the literary works of fringe theorists Erich von Däniken and Zecharia Sitchin. Biglino has also been involved in producing Italian i...",
         "tags": [
@@ -8859,8 +8849,7 @@
         "sources": [
           "https://en.wikipedia.org/wiki/Mauro_Biglino"
         ],
-        "date_start": "1950",
-        "case_status": "unexplained"
+        "date_start": "1950"
       },
       "mentions": {
         "persons": [],
@@ -8961,10 +8950,10 @@
       "url": "https://en.wikipedia.org/wiki/Kevin_Knuth",
       "extraction_confidence": "medium",
       "date_resolved": true,
-      "geocoded": true,
+      "geocoded": false,
       "node": {
-        "id": "incident-kevin-knuth-71356162",
-        "node_type": "incident",
+        "id": "person-kevin-knuth-71356162",
+        "node_type": "person",
         "label": "Kevin Knuth",
         "summary": "Kevin Hunter Knuth (born 1965) is a Professor of Physics at the University at Albany (SUNY). Knuth conducts research in information physics, foundations of quantum mechanics, and Bayesian analysis with applications towards various problems in physics. He also conducts research into UFOs.",
         "tags": [
@@ -8979,18 +8968,13 @@
           "people from fond du lac, wisconsin",
           "quantum physicists",
           "theoretical physicists",
-          "country:us",
-          "country-centroid-estimate"
+          "country:us"
         ],
         "confidence": "medium",
         "sources": [
           "https://en.wikipedia.org/wiki/Kevin_Knuth"
         ],
-        "date_start": "1965",
-        "case_status": "unexplained",
-        "lat": 40.25335,
-        "lng": -98.48345,
-        "location_name": "United States"
+        "date_start": "1965"
       },
       "mentions": {
         "persons": [],
@@ -9119,8 +9103,8 @@
       "date_resolved": true,
       "geocoded": false,
       "node": {
-        "id": "organization-brandon-fugal-80731248",
-        "node_type": "organization",
+        "id": "person-brandon-fugal-80731248",
+        "node_type": "person",
         "label": "Brandon Fugal",
         "summary": "Brandon Daniel Fugal (born April 3, 1973) is an American businessman, real estate developer, venture capitalist, philanthropist, and entrepreneur. He is chairman and co-owner of the Utah office of Colliers International. He owns the 512-acre rural property in Utah known as Skinwalker Ranch and is executive producer and cast member of two History cable and streaming series The Secret of Skinwalker Ranch and Beyond Skinwalker Ranch.",
         "tags": [
@@ -13835,10 +13819,10 @@
       "url": "https://en.wikipedia.org/wiki/Art_Bell",
       "extraction_confidence": "medium",
       "date_resolved": true,
-      "geocoded": true,
+      "geocoded": false,
       "node": {
-        "id": "incident-art-bell-309935",
-        "node_type": "incident",
+        "id": "person-art-bell-309935",
+        "node_type": "person",
         "label": "Art Bell",
         "summary": "Arthur William Bell III (June 17, 1945 – April 13, 2018) was an American broadcaster and author. He was the founder and the original host of the paranormal-themed radio program Coast to Coast AM, which is syndicated on hundreds of radio stations in the United States and Canada. He also created and hosted its companion show Dreamland. Coast to Coast still airs nightly, now hosted weeknights by George Noory. Bell's past shows from 1994 to 2002 are repeated on Premiere Networks on Saturday evenings. They are retitl...",
         "tags": [
@@ -13853,18 +13837,13 @@
           "businesspeople from monterey, california",
           "businesspeople from nevada",
           "coast to coast am",
-          "country:us",
-          "country-centroid-estimate"
+          "country:us"
         ],
         "confidence": "medium",
         "sources": [
           "https://en.wikipedia.org/wiki/Art_Bell"
         ],
-        "date_start": "1945",
-        "case_status": "unexplained",
-        "lat": 39.89673,
-        "lng": -98.83276,
-        "location_name": "United States"
+        "date_start": "1945"
       },
       "mentions": {
         "persons": [],
@@ -14084,8 +14063,8 @@
       "date_resolved": true,
       "geocoded": false,
       "node": {
-        "id": "incident-jacques-bergier-11330290",
-        "node_type": "incident",
+        "id": "person-jacques-bergier-11330290",
+        "node_type": "person",
         "label": "Jacques Bergier",
         "summary": "Jacques Bergier (French: [bɛʁʒje]; maybe born Yakov Mikhailovich Berger (Russian: Я́ков Миха́йлович Бéргер); Odessa, 21 August [O.S. 8 August] 1912 – Paris, 23 November 1978) was a chemical engineer, member of the French resistance, spy, journalist and writer. He co-wrote the best-seller The Morning of the Magicians with Louis Pauwels as a work of \"fantastic realism\" (a term coined by the authors).",
         "tags": [
@@ -14105,8 +14084,7 @@
         "sources": [
           "https://en.wikipedia.org/wiki/Jacques_Bergier"
         ],
-        "date_start": "1912",
-        "case_status": "unexplained"
+        "date_start": "1912"
       },
       "mentions": {
         "persons": [],
@@ -14209,8 +14187,8 @@
       "date_resolved": true,
       "geocoded": false,
       "node": {
-        "id": "incident-dan-apostol-30234194",
-        "node_type": "incident",
+        "id": "person-dan-apostol-30234194",
+        "node_type": "person",
         "label": "Dan Apostol",
         "summary": "Dan Apostol (12 July 1957, Bucharest – 4 March 2013, Bucharest) was a Romanian writer and researcher, specialized in several aspects of aviation, history, archeology, ancient civilisations, art, biology, anthropology, paleontology, and cryptozoology.",
         "tags": [
@@ -14223,8 +14201,7 @@
         "sources": [
           "https://en.wikipedia.org/wiki/Dan_Apostol"
         ],
-        "date_start": "1957",
-        "case_status": "unexplained"
+        "date_start": "1957"
       },
       "mentions": {
         "persons": [],
@@ -14323,10 +14300,10 @@
       "url": "https://en.wikipedia.org/wiki/Gabe_Valdez",
       "extraction_confidence": "medium",
       "date_resolved": true,
-      "geocoded": true,
+      "geocoded": false,
       "node": {
-        "id": "incident-gabe-valdez-73016844",
-        "node_type": "incident",
+        "id": "person-gabe-valdez-73016844",
+        "node_type": "person",
         "label": "Gabe Valdez",
         "summary": "Gabriel L. \"Gabe\" Valdez (c. 1944 — August 7, 2011) was a long-time New Mexico State Police officer and New Mexico Gaming Control Board investigator. Valdez is most remembered for leading the criminal investigation into unsolved livestock mutilations in 1970s New Mexico.",
         "tags": [
@@ -14337,18 +14314,13 @@
           "cattle mutilation",
           "people from rio arriba county, new mexico",
           "year of birth uncertain",
-          "country:us",
-          "country-centroid-estimate"
+          "country:us"
         ],
         "confidence": "medium",
         "sources": [
           "https://en.wikipedia.org/wiki/Gabe_Valdez"
         ],
-        "date_start": "1944",
-        "case_status": "unexplained",
-        "lat": 39.51789,
-        "lng": -98.42482,
-        "location_name": "United States"
+        "date_start": "1944"
       },
       "mentions": {
         "persons": [],
@@ -14404,10 +14376,10 @@
       "url": "https://en.wikipedia.org/wiki/Ted_Bloecher",
       "extraction_confidence": "medium",
       "date_resolved": true,
-      "geocoded": true,
+      "geocoded": false,
       "node": {
-        "id": "incident-ted-bloecher-75926981",
-        "node_type": "incident",
+        "id": "person-ted-bloecher-75926981",
+        "node_type": "person",
         "label": "Ted Bloecher",
         "summary": "Theodore Bloecher (August 22, 1929 – January 22, 2024) was an American ufologist, singer, actor, and author who performed on Broadway and toured with productions of Oliver!, Hello Dolly and My Fair Lady. Bloecher was a pioneering member of New York City gay culture, singing with the New York City Gay Men's Chorus from the 1980s.",
         "tags": [
@@ -14421,18 +14393,13 @@
           "male actors from union county, new jersey",
           "singers from new jersey",
           "ufologists",
-          "country:us",
-          "country-centroid-estimate"
+          "country:us"
         ],
         "confidence": "medium",
         "sources": [
           "https://en.wikipedia.org/wiki/Ted_Bloecher"
         ],
-        "date_start": "1929",
-        "case_status": "unexplained",
-        "lat": 40.0276,
-        "lng": -99.25307,
-        "location_name": "United States"
+        "date_start": "1929"
       },
       "mentions": {
         "persons": [],
@@ -14450,8 +14417,8 @@
       "date_resolved": true,
       "geocoded": false,
       "node": {
-        "id": "incident-gildas-bourdais-77303432",
-        "node_type": "incident",
+        "id": "person-gildas-bourdais-77303432",
+        "node_type": "person",
         "label": "Gildas Bourdais",
         "summary": "Gildas Bourdais (13 June 1939 – 25 September 2024) was a publishing executive, painter, and French ufologist writer, supporter of the \"extraterrestrial hypothesis\" (HET).",
         "tags": [
@@ -14470,8 +14437,7 @@
         "sources": [
           "https://en.wikipedia.org/wiki/Gildas_Bourdais"
         ],
-        "date_start": "1939",
-        "case_status": "unexplained"
+        "date_start": "1939"
       },
       "mentions": {
         "persons": [],
@@ -14487,10 +14453,10 @@
       "url": "https://en.wikipedia.org/wiki/Stephen_Bassett_(lobbyist)",
       "extraction_confidence": "medium",
       "date_resolved": true,
-      "geocoded": true,
+      "geocoded": false,
       "node": {
-        "id": "incident-stephen-bassett-lobbyist-80153894",
-        "node_type": "incident",
+        "id": "person-stephen-bassett-lobbyist-80153894",
+        "node_type": "person",
         "label": "Stephen Bassett (lobbyist)",
         "summary": "Stephen Bassett (born 1946) is an American political activist and lobbyist. As of 2021, he was the first and only person registered to lobby about UFOs in the United States. In the 1990s, after working as a tennis pro and business consultant, Bassett became intrigued by ufology and devoted himself to lobbying the United States Congress about UFOs. Due to the skeptical reception he's received from elected officeholders, Bassett has focused on public relations tactics.",
         "tags": [
@@ -14498,18 +14464,13 @@
           "american lobbyists",
           "eckerd college alumni",
           "ufologists",
-          "country:us",
-          "country-centroid-estimate"
+          "country:us"
         ],
         "confidence": "medium",
         "sources": [
           "https://en.wikipedia.org/wiki/Stephen_Bassett_(lobbyist)"
         ],
-        "date_start": "1946",
-        "case_status": "unexplained",
-        "lat": 39.7506,
-        "lng": -97.81778,
-        "location_name": "United States"
+        "date_start": "1946"
       },
       "mentions": {
         "persons": [],
@@ -14566,8 +14527,8 @@
       "date_resolved": true,
       "geocoded": false,
       "node": {
-        "id": "incident-erich-von-d-niken-191325",
-        "node_type": "incident",
+        "id": "person-erich-von-d-niken-191325",
+        "node_type": "person",
         "label": "Erich von Däniken",
         "summary": "Erich Anton Paul von Däniken (; German: [ˈeːrɪç fɔn ˈdɛːnɪkən]; 14 April 1935 – 10 January 2026) was a Swiss author of several pseudoscientific books which made claims about extraterrestrial influences on early human culture, including the best-selling Chariots of the Gods?, published in 1968. Däniken was one of the main figures responsible for popularizing the \"paleo-contact\" and ancient astronauts hypotheses. The ideas put forth in his books are rejected by virtually all scientists and academics, who categoriz...",
         "tags": [
@@ -14587,8 +14548,7 @@
         "sources": [
           "https://en.wikipedia.org/wiki/Erich_von_D%C3%A4niken"
         ],
-        "date_start": "1935",
-        "case_status": "unexplained"
+        "date_start": "1935"
       },
       "mentions": {
         "persons": [],
@@ -14604,10 +14564,10 @@
       "url": "https://en.wikipedia.org/wiki/Dave_Foley",
       "extraction_confidence": "medium",
       "date_resolved": true,
-      "geocoded": true,
+      "geocoded": false,
       "node": {
-        "id": "incident-dave-foley-657523",
-        "node_type": "incident",
+        "id": "person-dave-foley-657523",
+        "node_type": "person",
         "label": "Dave Foley",
         "summary": "David Scott Foley (born January 4, 1963) is a Canadian stand-up comedian, actor, director, producer, and writer. He is known as a co-founder of the comedy group The Kids in the Hall, who have appeared together in a number of television, stage and film productions, most notably the 1988–1995 TV sketch comedy show of the same name, as well as the 1996 film Brain Candy. Foley is also known for his roles as Dave Nelson in the sitcom NewsRadio, Flik in A Bug's Life, Troy in Blast from the Past, Dr. Fulton in The Midd...",
         "tags": [
@@ -14622,18 +14582,13 @@
           "canadian male comedians",
           "canadian male film actors",
           "canadian male television actors",
-          "country:us",
-          "country-centroid-estimate"
+          "country:us"
         ],
         "confidence": "medium",
         "sources": [
           "https://en.wikipedia.org/wiki/Dave_Foley"
         ],
-        "date_start": "1963",
-        "case_status": "unexplained",
-        "lat": 39.31412,
-        "lng": -98.06579,
-        "location_name": "United States"
+        "date_start": "1963"
       },
       "mentions": {
         "persons": [],
@@ -14649,10 +14604,10 @@
       "url": "https://en.wikipedia.org/wiki/Lionel_Fanthorpe",
       "extraction_confidence": "medium",
       "date_resolved": true,
-      "geocoded": true,
+      "geocoded": false,
       "node": {
-        "id": "incident-lionel-fanthorpe-1126038",
-        "node_type": "incident",
+        "id": "person-lionel-fanthorpe-1126038",
+        "node_type": "person",
         "label": "Lionel Fanthorpe",
         "summary": "Robert Lionel Fanthorpe (born 9 February 1935) is a retired British priest and entertainer. Fanthorpe also worked as a dental technician, journalist, teacher, television presenter, author and lecturer. Born in Dereham in Norfolk, he lives in Cardiff in South Wales, where he served as Director of Media Studies and tutor/lecturer in Religious Studies at the Cardiff Academy Sixth form college.",
         "tags": [
@@ -14667,18 +14622,13 @@
           "people educated at barnard castle school",
           "people from dereham",
           "ufologists",
-          "country:gb",
-          "country-centroid-estimate"
+          "country:gb"
         ],
         "confidence": "medium",
         "sources": [
           "https://en.wikipedia.org/wiki/Lionel_Fanthorpe"
         ],
-        "date_start": "1935",
-        "case_status": "unexplained",
-        "lat": 55.13576,
-        "lng": -4.12682,
-        "location_name": "United Kingdom"
+        "date_start": "1935"
       },
       "mentions": {
         "persons": [],
@@ -14694,10 +14644,10 @@
       "url": "https://en.wikipedia.org/wiki/Tom_DeLonge",
       "extraction_confidence": "medium",
       "date_resolved": true,
-      "geocoded": true,
+      "geocoded": false,
       "node": {
-        "id": "incident-tom-delonge-1413814",
-        "node_type": "incident",
+        "id": "person-tom-delonge-1413814",
+        "node_type": "person",
         "label": "Tom DeLonge",
         "summary": "Thomas Matthew DeLonge (; born December 13, 1975) is an American musician best known as the co-founder, co-lead vocalist, and guitarist of the rock band Blink-182 across three stints (1992–2005, 2009–2015, and since 2022). He is also the lead vocalist and guitarist of the rock band Angels & Airwaves, which he formed in 2005 after his first departure from Blink-182. DeLonge is noted for his distinctive nasal singing voice. DeLonge received his first guitar as a child and later began writing punk rock songs. While...",
         "tags": [
@@ -14712,18 +14662,13 @@
           "american male guitarists",
           "american male singer-songwriters",
           "american music video directors",
-          "country:us",
-          "country-centroid-estimate"
+          "country:us"
         ],
         "confidence": "medium",
         "sources": [
           "https://en.wikipedia.org/wiki/Tom_DeLonge"
         ],
-        "date_start": "1975",
-        "case_status": "unexplained",
-        "lat": 39.93517,
-        "lng": -99.2789,
-        "location_name": "United States"
+        "date_start": "1975"
       },
       "mentions": {
         "persons": [],
@@ -14826,8 +14771,8 @@
       "date_resolved": true,
       "geocoded": false,
       "node": {
-        "id": "incident-brinsley-trench-8th-earl-of-clancarty-3231525",
-        "node_type": "incident",
+        "id": "person-brinsley-trench-8th-earl-of-clancarty-3231525",
+        "node_type": "person",
         "label": "Brinsley Trench, 8th Earl of Clancarty",
         "summary": "William Francis Brinsley Le Poer Trench, 8th Earl of Clancarty, 7th Marquess of Heusden (18 September 1911 – 18 May 1995), was a prominent ufologist. He was an Irish peer, as well as a nobleman in the Dutch nobility.",
         "tags": [
@@ -14847,8 +14792,7 @@
         "sources": [
           "https://en.wikipedia.org/wiki/Brinsley_Trench%2C_8th_Earl_of_Clancarty"
         ],
-        "date_start": "1911",
-        "case_status": "unexplained"
+        "date_start": "1911"
       },
       "mentions": {
         "persons": [],
@@ -14864,10 +14808,10 @@
       "url": "https://en.wikipedia.org/wiki/Susan_Clancy",
       "extraction_confidence": "medium",
       "date_resolved": false,
-      "geocoded": true,
+      "geocoded": false,
       "node": {
-        "id": "incident-susan-clancy-3325126",
-        "node_type": "incident",
+        "id": "person-susan-clancy-3325126",
+        "node_type": "person",
         "label": "Susan Clancy",
         "summary": "Susan A. Clancy is a cognitive psychologist and associate professor in Consumer behaviour at INCAE as well as a post-doctoral fellow at Harvard University. She is best known for her controversial work on repressed and recovered memories in her books Abducted and The Trauma Myth.",
         "tags": [
@@ -14882,17 +14826,12 @@
           "place of birth missing (living people)",
           "ufologists",
           "year of birth missing (living people)",
-          "country:us",
-          "country-centroid-estimate"
+          "country:us"
         ],
         "confidence": "medium",
         "sources": [
           "https://en.wikipedia.org/wiki/Susan_Clancy"
-        ],
-        "case_status": "unexplained",
-        "lat": 39.82985,
-        "lng": -98.72404,
-        "location_name": "United States"
+        ]
       },
       "mentions": {
         "persons": [],
@@ -14943,10 +14882,10 @@
       "url": "https://en.wikipedia.org/wiki/Danielle_Egnew",
       "extraction_confidence": "medium",
       "date_resolved": true,
-      "geocoded": true,
+      "geocoded": false,
       "node": {
-        "id": "incident-danielle-egnew-7963285",
-        "node_type": "incident",
+        "id": "person-danielle-egnew-7963285",
+        "node_type": "person",
         "label": "Danielle Egnew",
         "summary": "Danielle Egnew is an American psychic medium, musician, media personality, and activist. Egnew currently resides in Billings with her wife Rebecca Douglas, who she married on November 20, 2014.",
         "tags": [
@@ -14961,18 +14900,13 @@
           "american documentary film directors",
           "american film score composers",
           "american lesbian musicians",
-          "country:us",
-          "country-centroid-estimate"
+          "country:us"
         ],
         "confidence": "medium",
         "sources": [
           "https://en.wikipedia.org/wiki/Danielle_Egnew"
         ],
-        "date_start": "2014",
-        "case_status": "unexplained",
-        "lat": 40.0581,
-        "lng": -98.39785,
-        "location_name": "United States"
+        "date_start": "2014"
       },
       "mentions": {
         "persons": [],
@@ -14990,8 +14924,8 @@
       "date_resolved": true,
       "geocoded": false,
       "node": {
-        "id": "statement-robert-dean-ufologist-13352859",
-        "node_type": "statement",
+        "id": "person-robert-dean-ufologist-13352859",
+        "node_type": "person",
         "label": "Robert Dean (ufologist)",
         "summary": "Robert Orel Dean (March 2, 1929 – October 11, 2018) was an American ufologist from Tucson, Arizona. Dean retired from the U.S. Army as a Command Sergeant Major after a 28-year career. He appeared on radio programs, TV documentaries and at conferences discussing the subject of UFOs and a government cover up of alien visitations to Earth. Dean claimed to have viewed a classified government document called \"The Assessment\" that allegedly discussed threats posed by alien activity on Earth, and concluded that no such...",
         "tags": [
@@ -15022,8 +14956,8 @@
       "date_resolved": true,
       "geocoded": false,
       "node": {
-        "id": "incident-hilary-evans-20850741",
-        "node_type": "incident",
+        "id": "person-hilary-evans-20850741",
+        "node_type": "person",
         "label": "Hilary Evans",
         "summary": "Hilary Agard Evans (6 March 1929 – 27 July 2011) was a British pictorial archivist, author, and researcher into UFOs and other paranormal phenomena.",
         "tags": [
@@ -15039,8 +14973,7 @@
         "sources": [
           "https://en.wikipedia.org/wiki/Hilary_Evans"
         ],
-        "date_start": "1929",
-        "case_status": "unexplained"
+        "date_start": "1929"
       },
       "mentions": {
         "persons": [],
@@ -15217,8 +15150,8 @@
       "date_resolved": true,
       "geocoded": false,
       "node": {
-        "id": "incident-luc-b-rgin-41855047",
-        "node_type": "incident",
+        "id": "person-luc-b-rgin-41855047",
+        "node_type": "person",
         "label": "Luc Bürgin",
         "summary": "Luc Bürgin (19 August 1970 – 11 May 2024) was a Swiss writer, publicist, and journalist. From 1996 to 2002, Bürgin studied German literature, folklore, musicology, media studies and sociology at the University of Basel. He has served as a journalist for Basler Zeitung Medien and as editor in chief of Baslerstab. He is best known for his writings on fringe science and popular science. Bürgin died on 11 May 2024, at the age of 53.",
         "tags": [
@@ -15235,8 +15168,7 @@
         "sources": [
           "https://en.wikipedia.org/wiki/Luc_B%C3%BCrgin"
         ],
-        "date_start": "1970",
-        "case_status": "unexplained"
+        "date_start": "1970"
       },
       "mentions": {
         "persons": [],
@@ -15252,10 +15184,10 @@
       "url": "https://en.wikipedia.org/wiki/Manfred_Cassirer",
       "extraction_confidence": "medium",
       "date_resolved": true,
-      "geocoded": true,
+      "geocoded": false,
       "node": {
-        "id": "incident-manfred-cassirer-52951691",
-        "node_type": "incident",
+        "id": "person-manfred-cassirer-52951691",
+        "node_type": "person",
         "label": "Manfred Cassirer",
         "summary": "Manfred Cassirer (12 July 1920 – 18 December 2003) was a British Egyptologist and parapsychologist. Cassirer was born in Berlin. Being half-Jewish he moved to Paris to stay with a relative when he was a child. He was psychologically disturbed during his youth. He later moved to Oxford where he studied theology. He obtained a degree in Egyptology and studied at St Peter's College, Oxford. He was a member of the Society for Psychical Research which he joined in 1975.",
         "tags": [
@@ -15269,18 +15201,13 @@
           "parapsychology stubs",
           "ufologists",
           "writers from berlin",
-          "country:gb",
-          "country-centroid-estimate"
+          "country:gb"
         ],
         "confidence": "medium",
         "sources": [
           "https://en.wikipedia.org/wiki/Manfred_Cassirer"
         ],
-        "date_start": "1920",
-        "case_status": "unexplained",
-        "lat": 55.32769,
-        "lng": -3.77774,
-        "location_name": "United Kingdom"
+        "date_start": "1920"
       },
       "mentions": {
         "persons": [],
@@ -15417,10 +15344,10 @@
       "url": "https://en.wikipedia.org/wiki/Eric_Gairy",
       "extraction_confidence": "medium",
       "date_resolved": true,
-      "geocoded": true,
+      "geocoded": false,
       "node": {
-        "id": "incident-eric-gairy-435568",
-        "node_type": "incident",
+        "id": "person-eric-gairy-435568",
+        "node_type": "person",
         "label": "Eric Gairy",
         "summary": "Sir Eric Matthew Gairy PC (18 February 1922 – 23 August 1997) was the first Prime Minister of Grenada, serving from his country's independence in 1974 until his overthrow in a coup by Maurice Bishop in 1979. Gairy also served as head of government in pre-independence Grenada as Chief Minister from 1961 to 1962 and as Premier from 1967 to 1974.",
         "tags": [
@@ -15435,18 +15362,13 @@
           "leaders ousted by a coup",
           "members of the house of representatives of grenada",
           "members of the privy council of the united kingdom",
-          "country:gb",
-          "country-centroid-estimate"
+          "country:gb"
         ],
         "confidence": "medium",
         "sources": [
           "https://en.wikipedia.org/wiki/Eric_Gairy"
         ],
-        "date_start": "1922",
-        "case_status": "unexplained",
-        "lat": 55.03072,
-        "lng": -4.05534,
-        "location_name": "United Kingdom"
+        "date_start": "1922"
       },
       "mentions": {
         "persons": [],
@@ -15632,8 +15554,8 @@
       "date_resolved": true,
       "geocoded": false,
       "node": {
-        "id": "incident-james-harder-4402680",
-        "node_type": "incident",
+        "id": "person-james-harder-4402680",
+        "node_type": "person",
         "label": "James Harder",
         "summary": "James Albert Harder, Ph.D., (December 2, 1926 – December 30, 2006) was a professor of civil and hydraulic engineering at the University of California, Berkeley. He was a professor emeritus there. Harder also had interest in ufology.",
         "tags": [
@@ -15648,8 +15570,7 @@
         "sources": [
           "https://en.wikipedia.org/wiki/James_Harder"
         ],
-        "date_start": "1926",
-        "case_status": "unexplained"
+        "date_start": "1926"
       },
       "mentions": {
         "persons": [],
@@ -15705,10 +15626,10 @@
       "url": "https://en.wikipedia.org/wiki/Bernard_Haisch",
       "extraction_confidence": "medium",
       "date_resolved": true,
-      "geocoded": true,
+      "geocoded": false,
       "node": {
-        "id": "incident-bernard-haisch-5377527",
-        "node_type": "incident",
+        "id": "person-bernard-haisch-5377527",
+        "node_type": "person",
         "label": "Bernard Haisch",
         "summary": "Bernard Michael Haisch is a German-born American astrophysicist who has researched solar-stellar astrophysics, quantum electrodynamics (QED), observational X-ray and ultraviolet astronomy, and stochastic electrodynamics. Haisch, with Alfonso Rueda, developed a quantum vacuum inertia hypothesis proposing that the electromagnetic zero-point field contributes to inertial mass. In 2002, Haisch became Chief Science Officer of ManyOne Networks. Since 2004, he has served as president of the Digital Universe Foundation,...",
         "tags": [
@@ -15719,18 +15640,13 @@
           "place of birth missing (living people)",
           "ufologists",
           "year of birth missing (living people)",
-          "country:us",
-          "country-centroid-estimate"
+          "country:us"
         ],
         "confidence": "medium",
         "sources": [
           "https://en.wikipedia.org/wiki/Bernard_Haisch"
         ],
-        "date_start": "2002",
-        "case_status": "unexplained",
-        "lat": 39.43094,
-        "lng": -98.46307,
-        "location_name": "United States"
+        "date_start": "2002"
       },
       "mentions": {
         "persons": [],
@@ -15825,8 +15741,8 @@
       "date_resolved": true,
       "geocoded": false,
       "node": {
-        "id": "incident-ion-hobana-15742596",
-        "node_type": "incident",
+        "id": "person-ion-hobana-15742596",
+        "node_type": "person",
         "label": "Ion Hobana",
         "summary": "Ion Hobana, first name also Ioan, last name also Hobană (born Aurelian Mantaroșie or Manta-Roșie; 25 January 1931 – 22 February 2011) was a Romanian science fiction writer, literary critic and ufologist. His debut as a journalist, novelist and children's poet coincided with the early stages of Romanian communism, when he was also employed as an editor and translator; at that stage, Hobana adhered to Marxism-Leninism and socialist realism, which influenced his literary output. His participation in the local field...",
         "tags": [
@@ -15846,8 +15762,7 @@
         "sources": [
           "https://en.wikipedia.org/wiki/Ion_Hobana"
         ],
-        "date_start": "1931",
-        "case_status": "unexplained"
+        "date_start": "1931"
       },
       "mentions": {
         "persons": [],
@@ -15901,8 +15816,8 @@
       "date_resolved": true,
       "geocoded": false,
       "node": {
-        "id": "incident-jan-udo-holey-30873669",
-        "node_type": "incident",
+        "id": "person-jan-udo-holey-30873669",
+        "node_type": "person",
         "label": "Jan Udo Holey",
         "summary": "Jan Udo Holey (born 22 March 1967 in Dinkelsbühl), and often known by his pen name Jan van Helsing, is a controversial German author who embraces conspiracy theories involving subjects such as world domination plots by freemasons, Hitler's continuing survival in Antarctica following World War II, the structure of the earth as hollow, and others. His theories draw from sources such as The Protocols of the Elders of Zion. His books Geheimgesellschaften (Secret Societies) and Geheimgesellschaften 2 have been banned...",
         "tags": [
@@ -15917,8 +15832,7 @@
         "sources": [
           "https://en.wikipedia.org/wiki/Jan_Udo_Holey"
         ],
-        "date_start": "1967",
-        "case_status": "unexplained"
+        "date_start": "1967"
       },
       "mentions": {
         "persons": [],
@@ -15934,10 +15848,10 @@
       "url": "https://en.wikipedia.org/wiki/Paul_R._Hill",
       "extraction_confidence": "medium",
       "date_resolved": true,
-      "geocoded": true,
+      "geocoded": false,
       "node": {
-        "id": "incident-paul-r-hill-34275017",
-        "node_type": "incident",
+        "id": "person-paul-r-hill-34275017",
+        "node_type": "person",
         "label": "Paul R. Hill",
         "summary": "Paul Richard Hill (1909–1990) was a mid–twentieth-century American aerodynamicist. He was a leading research and development engineer and manager for NASA (National Aeronautics and Space Administration) and its predecessor, NACA (the National Advisory Council for Aeronautics) between 1939 and 1970, retiring as Associate Chief, Applied Materials and Physics Division at the NASA Langley Research Center. He is arguably most widely known today as the author of Unconventional Flying Objects: a Scientific Analysis.",
         "tags": [
@@ -15947,18 +15861,13 @@
           "scientists from iowa",
           "uc berkeley college of engineering alumni",
           "ufologists",
-          "country:us",
-          "country-centroid-estimate"
+          "country:us"
         ],
         "confidence": "medium",
         "sources": [
           "https://en.wikipedia.org/wiki/Paul_R._Hill"
         ],
-        "date_start": "1909",
-        "case_status": "unexplained",
-        "lat": 39.77351,
-        "lng": -98.78088,
-        "location_name": "United States"
+        "date_start": "1909"
       },
       "mentions": {
         "persons": [],
@@ -16427,10 +16336,10 @@
       "url": "https://en.wikipedia.org/wiki/Alexander_Kazantsev",
       "extraction_confidence": "medium",
       "date_resolved": true,
-      "geocoded": true,
+      "geocoded": false,
       "node": {
-        "id": "incident-alexander-kazantsev-3410262",
-        "node_type": "incident",
+        "id": "person-alexander-kazantsev-3410262",
+        "node_type": "person",
         "label": "Alexander Kazantsev",
         "summary": "Alexander Petrovich Kazantsev (Russian: Алекса́ндр Петро́вич Каза́нцев; 2 September 1906 – 13 September 2002) was a popular Soviet and Russian science fiction writer, ufologist and chess composer.",
         "tags": [
@@ -16445,18 +16354,13 @@
           "recipients of the order of the red banner of labour",
           "recipients of the order of the red star",
           "russian people of kazakhstani descent",
-          "country:ru",
-          "country-centroid-estimate"
+          "country:ru"
         ],
         "confidence": "medium",
         "sources": [
           "https://en.wikipedia.org/wiki/Alexander_Kazantsev"
         ],
-        "date_start": "1906",
-        "case_status": "unexplained",
-        "lat": 61.51685,
-        "lng": 105.09856,
-        "location_name": "Russia"
+        "date_start": "1906"
       },
       "mentions": {
         "persons": [],
@@ -16515,8 +16419,8 @@
       "date_resolved": true,
       "geocoded": false,
       "node": {
-        "id": "incident-iker-jim-nez-4745434",
-        "node_type": "incident",
+        "id": "person-iker-jim-nez-4745434",
+        "node_type": "person",
         "label": "Iker Jiménez",
         "summary": "Iker Jiménez Elizari (born 10 January 1973) is a Spanish journalist and television host. He is a graduate in sciences of information from the Complutense University of Madrid and the European University of Madrid, and gained prominence directing and presenting, along with his wife and collaborator Carmen Porter, mystery investigation program Milenio 3 in Cadena SER, after which they moved to television with the program Cuarto Milenio in Cuatro. In 2020 he created the YouTube podcast La Estirpe de los Libres, and...",
         "tags": [
@@ -16536,8 +16440,7 @@
         "sources": [
           "https://en.wikipedia.org/wiki/Iker_Jim%C3%A9nez"
         ],
-        "date_start": "1973",
-        "case_status": "unexplained"
+        "date_start": "1973"
       },
       "mentions": {
         "persons": [],
@@ -16555,8 +16458,8 @@
       "date_resolved": true,
       "geocoded": false,
       "node": {
-        "id": "statement-avi-loeb-5021087",
-        "node_type": "statement",
+        "id": "person-avi-loeb-5021087",
+        "node_type": "person",
         "label": "Avi Loeb",
         "summary": "Abraham \"Avi\" Loeb (Hebrew: אברהם (אבי) לייב; born February 26, 1962) is an Israeli and American theoretical physicist who works on astrophysics and cosmology. Loeb is the Frank B. Baird Jr. Professor of Science at Harvard University. He chaired the Department of Astronomy from 2011 to 2020, and founded the Black Hole Initiative in 2016. Loeb is a fellow of the American Academy of Arts and Sciences, the American Physical Society, and the International Academy of Astronautics. In 2015, he was appointed as the sci...",
         "tags": [
@@ -16683,10 +16586,10 @@
       "url": "https://en.wikipedia.org/wiki/Lincoln_LaPaz",
       "extraction_confidence": "medium",
       "date_resolved": true,
-      "geocoded": true,
+      "geocoded": false,
       "node": {
-        "id": "incident-lincoln-lapaz-13603608",
-        "node_type": "incident",
+        "id": "person-lincoln-lapaz-13603608",
+        "node_type": "person",
         "label": "Lincoln LaPaz",
         "summary": "Lincoln LaPaz (February 12, 1897 – October 19, 1985) was an American astronomer from the University of New Mexico and a pioneer in the study of meteors.",
         "tags": [
@@ -16700,18 +16603,13 @@
           "university of chicago alumni",
           "university of new mexico faculty",
           "wichita state university alumni",
-          "country:us",
-          "country-centroid-estimate"
+          "country:us"
         ],
         "confidence": "medium",
         "sources": [
           "https://en.wikipedia.org/wiki/Lincoln_LaPaz"
         ],
-        "date_start": "1897",
-        "case_status": "unexplained",
-        "lat": 40.0108,
-        "lng": -98.4488,
-        "location_name": "United States"
+        "date_start": "1897"
       },
       "mentions": {
         "persons": [],
@@ -16814,10 +16712,10 @@
       "url": "https://en.wikipedia.org/wiki/Meade_Layne",
       "extraction_confidence": "medium",
       "date_resolved": true,
-      "geocoded": true,
+      "geocoded": false,
       "node": {
-        "id": "incident-meade-layne-27320998",
-        "node_type": "incident",
+        "id": "person-meade-layne-27320998",
+        "node_type": "person",
         "label": "Meade Layne",
         "summary": "Meade Layne (September 8, 1882 – May 12, 1961) was an American academic and early researcher of ufology and parapsychology, best known for proposing an early version of the interdimensional hypothesis to explain flying saucer sightings.",
         "tags": [
@@ -16825,18 +16723,13 @@
           "american parapsychologists",
           "ufologists",
           "university of southern california faculty",
-          "country:us",
-          "country-centroid-estimate"
+          "country:us"
         ],
         "confidence": "medium",
         "sources": [
           "https://en.wikipedia.org/wiki/Meade_Layne"
         ],
-        "date_start": "1882",
-        "case_status": "unexplained",
-        "lat": 39.91745,
-        "lng": -98.16724,
-        "location_name": "United States"
+        "date_start": "1882"
       },
       "mentions": {
         "persons": [],
@@ -16852,10 +16745,10 @@
       "url": "https://en.wikipedia.org/wiki/Roger_Leir",
       "extraction_confidence": "medium",
       "date_resolved": true,
-      "geocoded": true,
+      "geocoded": false,
       "node": {
-        "id": "incident-roger-leir-36743779",
-        "node_type": "incident",
+        "id": "person-roger-leir-36743779",
+        "node_type": "person",
         "label": "Roger Leir",
         "summary": "Roger Krevin Leir (March 20, 1935 – March 14, 2014) was an American podiatric surgeon and ufologist best known as an investigator of alleged alien implants. Leir wrote books such as The Aliens and the Scalpel, and appeared on various radio and television shows, including Coast to Coast AM, claiming he had discovered proof of \"non-terrestrial experimentation on man\".",
         "tags": [
@@ -16864,18 +16757,13 @@
           "ufologists",
           "university of southern california alumni",
           "writers from san francisco",
-          "country:us",
-          "country-centroid-estimate"
+          "country:us"
         ],
         "confidence": "medium",
         "sources": [
           "https://en.wikipedia.org/wiki/Roger_Leir"
         ],
-        "date_start": "1935",
-        "case_status": "unexplained",
-        "lat": 39.59495,
-        "lng": -98.38076,
-        "location_name": "United States"
+        "date_start": "1935"
       },
       "mentions": {
         "persons": [],
@@ -16893,8 +16781,8 @@
       "date_resolved": true,
       "geocoded": false,
       "node": {
-        "id": "incident-paul-kimball-40463929",
-        "node_type": "incident",
+        "id": "person-paul-kimball-40463929",
+        "node_type": "person",
         "label": "Paul Kimball",
         "summary": "Paul Andrew Kimball (born January 2, 1967) is a Canadian film and television producer, writer and director, and politician, who resides in Halifax, Nova Scotia. Kimball's projects include several documentary films about UFOs.",
         "tags": [
@@ -16914,8 +16802,7 @@
         "sources": [
           "https://en.wikipedia.org/wiki/Paul_Kimball"
         ],
-        "date_start": "1967",
-        "case_status": "unexplained"
+        "date_start": "1967"
       },
       "mentions": {
         "persons": [],
@@ -16931,10 +16818,10 @@
       "url": "https://en.wikipedia.org/wiki/Neil_McCasland",
       "extraction_confidence": "medium",
       "date_resolved": true,
-      "geocoded": true,
+      "geocoded": false,
       "node": {
-        "id": "incident-neil-mccasland-65905900",
-        "node_type": "incident",
+        "id": "person-neil-mccasland-65905900",
+        "node_type": "person",
         "label": "Neil McCasland",
         "summary": "William Neil McCasland (c. 1957-disappeared February 27, 2026) is an astronautical engineer, retired United States Air Force major general, and former commander of Air Force Research Laboratory. He is currently the director of technology at Applied Technology Associates. Following his disappearance in February 2026, a silver alert was issued by the Bernalillo County. The New Mexico Search and Rescue was reportedly assisting with the investigation.",
         "tags": [
@@ -16946,18 +16833,13 @@
           "missing american people",
           "ufologists",
           "united states air force academy alumni",
-          "country:us",
-          "country-centroid-estimate"
+          "country:us"
         ],
         "confidence": "medium",
         "sources": [
           "https://en.wikipedia.org/wiki/Neil_McCasland"
         ],
-        "date_start": "1957",
-        "case_status": "unexplained",
-        "lat": 39.30012,
-        "lng": -97.89263,
-        "location_name": "United States"
+        "date_start": "1957"
       },
       "mentions": {
         "persons": [],
@@ -17018,10 +16900,10 @@
       "url": "https://en.wikipedia.org/wiki/Michael_Persinger",
       "extraction_confidence": "medium",
       "date_resolved": true,
-      "geocoded": true,
+      "geocoded": false,
       "node": {
-        "id": "incident-michael-persinger-423938",
-        "node_type": "incident",
+        "id": "person-michael-persinger-423938",
+        "node_type": "person",
         "label": "Michael Persinger",
         "summary": "Michael A. Persinger (June 26, 1945 – August 14, 2018) was an American-Canadian professor of psychology at Laurentian University, a position he had held from 1971 until his death in 2018. His best-known hypotheses include the temporal lobes of the human brain as the central correlate for mystical experiences, subtle changes in geomagnetic activity as mediators of parapsychological phenomena, the tectonic strain within the Earth's crust as the source of luminous phenomena attributed to unidentified aerial objects...",
         "tags": [
@@ -17036,18 +16918,13 @@
           "psychonautics researchers",
           "ufologists",
           "university of manitoba alumni",
-          "country:us",
-          "country-centroid-estimate"
+          "country:us"
         ],
         "confidence": "medium",
         "sources": [
           "https://en.wikipedia.org/wiki/Michael_Persinger"
         ],
-        "date_start": "1945",
-        "case_status": "unexplained",
-        "lat": 39.97536,
-        "lng": -99.13934,
-        "location_name": "United States"
+        "date_start": "1945"
       },
       "mentions": {
         "persons": [],
@@ -17258,8 +17135,8 @@
       "date_resolved": true,
       "geocoded": false,
       "node": {
-        "id": "incident-paul-misraki-6524610",
-        "node_type": "incident",
+        "id": "person-paul-misraki-6524610",
+        "node_type": "person",
         "label": "Paul Misraki",
         "summary": "Paul Misraki (28 January 1908 – 29 October 1998) was a French composer of popular music and film scores. Over the course of over 60 years, Misraki wrote the music to 130 films, scoring works by directors like Jean Renoir, Claude Chabrol, Jacques Becker, Jean-Pierre Melville, Jean-Luc Godard, Henri-Georges Clouzot, Orson Welles, Luis Buñuel and Roger Vadim. For his work, he was made a Chevalier de la Legion d'Honneur.",
         "tags": [
@@ -17279,8 +17156,7 @@
         "sources": [
           "https://en.wikipedia.org/wiki/Paul_Misraki"
         ],
-        "date_start": "1908",
-        "case_status": "unexplained"
+        "date_start": "1908"
       },
       "mentions": {
         "persons": [],
@@ -17423,8 +17299,8 @@
       "date_resolved": true,
       "geocoded": false,
       "node": {
-        "id": "organization-sean-david-morton-26897281",
-        "node_type": "organization",
+        "id": "person-sean-david-morton-26897281",
+        "node_type": "person",
         "label": "Sean David Morton",
         "summary": "Sean David Morton was a self-described psychic, ufologist and alleged remote viewer who referred to himself as \"America's Prophet.\" Until legal troubles led to his incarceration in federal prison, he also hosted radio shows, authored books, and made documentary films about the paranormal. In 2010, Morton was charged with civil securities fraud. The director of the New York regional office of the U.S. Securities and Exchange Commission (SEC) stated that \"Morton's self-proclaimed psychic powers were nothing more t...",
         "tags": [
@@ -17663,10 +17539,10 @@
       "url": "https://en.wikipedia.org/wiki/Garry_Nolan",
       "extraction_confidence": "medium",
       "date_resolved": true,
-      "geocoded": true,
+      "geocoded": false,
       "node": {
-        "id": "incident-garry-nolan-69696055",
-        "node_type": "incident",
+        "id": "person-garry-nolan-69696055",
+        "node_type": "person",
         "label": "Garry Nolan",
         "summary": "Garry P. Nolan (born c. 1961) is a British-American immunologist, academic, inventor, and business executive. He holds the Rachford and Carlota A. Harris Professor Endowed Chair in the Department of Pathology at Stanford University School of Medicine. Nolan has founded biotechnology companies. Since 2022, most of his public appearances have been related to his support for ufology and his belief that extraterrestrial intelligence has visited or resides on Earth.",
         "tags": [
@@ -17681,18 +17557,13 @@
           "pages with broken reference names",
           "pages with reference errors",
           "serologists",
-          "country:us",
-          "country-centroid-estimate"
+          "country:us"
         ],
         "confidence": "medium",
         "sources": [
           "https://en.wikipedia.org/wiki/Garry_Nolan"
         ],
-        "date_start": "1961",
-        "case_status": "unexplained",
-        "lat": 39.47322,
-        "lng": -98.4355,
-        "location_name": "United States"
+        "date_start": "1961"
       },
       "mentions": {
         "persons": [],
@@ -17786,10 +17657,10 @@
       "url": "https://en.wikipedia.org/wiki/Robert_Salas",
       "extraction_confidence": "medium",
       "date_resolved": true,
-      "geocoded": true,
+      "geocoded": false,
       "node": {
-        "id": "incident-robert-salas-80177325",
-        "node_type": "incident",
+        "id": "person-robert-salas-80177325",
+        "node_type": "person",
         "label": "Robert Salas",
         "summary": "Robert L. Salas is a ufologist and former United States Air Force officer. A graduate of the U.S. Air Force Academy, Salas served on active duty in the continental United States for seven years before resigning his commission. He later worked for the Federal Aviation Administration (FAA) and ran for United States Congress. Beginning in the late 1990s, Salas received widespread publicity for his claims that UFOs disabled a missile flight he was crewing in 1967. Later investigations confirmed that Salas' missile f...",
         "tags": [
@@ -17800,18 +17671,13 @@
           "ufologists",
           "united states air force academy alumni",
           "year of birth missing (living people)",
-          "country:us",
-          "country-centroid-estimate"
+          "country:us"
         ],
         "confidence": "medium",
         "sources": [
           "https://en.wikipedia.org/wiki/Robert_Salas"
         ],
-        "date_start": "1967",
-        "case_status": "unexplained",
-        "lat": 39.47846,
-        "lng": -97.95725,
-        "location_name": "United States"
+        "date_start": "1967"
       },
       "mentions": {
         "persons": [],
@@ -17997,10 +17863,10 @@
       "url": "https://en.wikipedia.org/wiki/Peter_A._Sturrock",
       "extraction_confidence": "medium",
       "date_resolved": true,
-      "geocoded": true,
+      "geocoded": false,
       "node": {
-        "id": "incident-peter-a-sturrock-2502767",
-        "node_type": "incident",
+        "id": "person-peter-a-sturrock-2502767",
+        "node_type": "person",
         "label": "Peter A. Sturrock",
         "summary": "Peter Andrew Sturrock (20 March 1924 – 12 August 2024) was a British-American physicist. A professor of applied physics at Stanford University, much of Sturrock's career was devoted to astrophysics, plasma physics, and solar physics, but Sturrock was interested in other fields, including ufology, scientific inference, the history of science, and the philosophy of science. Sturrock was awarded many prizes and honors, and wrote or co-authored many scientific papers and textbooks.",
         "tags": [
@@ -18015,18 +17881,13 @@
           "people associated with cern",
           "people from stifford",
           "plasma physicists",
-          "country:us",
-          "country-centroid-estimate"
+          "country:us"
         ],
         "confidence": "medium",
         "sources": [
           "https://en.wikipedia.org/wiki/Peter_A._Sturrock"
         ],
-        "date_start": "1924",
-        "case_status": "unexplained",
-        "lat": 40.1772,
-        "lng": -98.5193,
-        "location_name": "United States"
+        "date_start": "1924"
       },
       "mentions": {
         "persons": [],
@@ -18203,8 +18064,8 @@
       "date_resolved": true,
       "geocoded": false,
       "node": {
-        "id": "incident-paul-vigay-22214123",
-        "node_type": "incident",
+        "id": "person-paul-vigay-22214123",
+        "node_type": "person",
         "label": "Paul Vigay",
         "summary": "Paul Vigay (24 October 1964 – 20 February 2009) was a British computer consultant, notable for work in developing and supporting RISC OS software and named as a leading expert on UFOs and crop circles.",
         "tags": [
@@ -18217,8 +18078,7 @@
         "sources": [
           "https://en.wikipedia.org/wiki/Paul_Vigay"
         ],
-        "date_start": "1964",
-        "case_status": "unexplained"
+        "date_start": "1964"
       },
       "mentions": {
         "persons": [],
@@ -18234,10 +18094,10 @@
       "url": "https://en.wikipedia.org/wiki/Giorgio_A._Tsoukalos",
       "extraction_confidence": "medium",
       "date_resolved": true,
-      "geocoded": true,
+      "geocoded": false,
       "node": {
-        "id": "incident-giorgio-a-tsoukalos-27132507",
-        "node_type": "incident",
+        "id": "person-giorgio-a-tsoukalos-27132507",
+        "node_type": "person",
         "label": "Giorgio A. Tsoukalos",
         "summary": "Giorgio A. Tsoukalos (; Greek: Γεώργιος Τσούκαλος; born 1978) is an American writer, and television presenter and producer. He is a ufologist and a promoter of the ancient astronauts hypothesis. He is host and producer of Ancient Aliens, a History Channel series.",
         "tags": [
@@ -18252,18 +18112,13 @@
           "swiss conspiracy theorists",
           "swiss editors",
           "swiss emigrants to the united states",
-          "country:us",
-          "country-centroid-estimate"
+          "country:us"
         ],
         "confidence": "medium",
         "sources": [
           "https://en.wikipedia.org/wiki/Giorgio_A._Tsoukalos"
         ],
-        "date_start": "1978",
-        "case_status": "unexplained",
-        "lat": 40.21793,
-        "lng": -98.42589,
-        "location_name": "United States"
+        "date_start": "1978"
       },
       "mentions": {
         "persons": [],
@@ -18281,8 +18136,8 @@
       "date_resolved": true,
       "geocoded": false,
       "node": {
-        "id": "incident-yves-sillard-37196773",
-        "node_type": "incident",
+        "id": "person-yves-sillard-37196773",
+        "node_type": "person",
         "label": "Yves Sillard",
         "summary": "Yves Sillard (January 5, 1936 – April 12, 2023) was a French aerospace engineer and high-ranking public servant who played a major role in the development of the French space program (Ariane). He headed the CNES, IFREMER, and the Délégation générale pour l'armement (General Directorate for Armament).",
         "tags": [
@@ -18302,8 +18157,7 @@
         "sources": [
           "https://en.wikipedia.org/wiki/Yves_Sillard"
         ],
-        "date_start": "1936",
-        "case_status": "unexplained"
+        "date_start": "1936"
       },
       "mentions": {
         "persons": [],
@@ -18352,10 +18206,10 @@
       "url": "https://en.wikipedia.org/wiki/Gardner_Soule",
       "extraction_confidence": "medium",
       "date_resolved": true,
-      "geocoded": true,
+      "geocoded": false,
       "node": {
-        "id": "incident-gardner-soule-53221038",
-        "node_type": "incident",
+        "id": "person-gardner-soule-53221038",
+        "node_type": "person",
         "label": "Gardner Soule",
         "summary": "Gardner Soule (December 16, 1913 – October 26, 2000) was an American writer known for his books on cryptozoology and marine life.",
         "tags": [
@@ -18365,18 +18219,13 @@
           "american nature writers",
           "cryptozoologists",
           "ufologists",
-          "country:us",
-          "country-centroid-estimate"
+          "country:us"
         ],
         "confidence": "medium",
         "sources": [
           "https://en.wikipedia.org/wiki/Gardner_Soule"
         ],
-        "date_start": "1913",
-        "case_status": "unexplained",
-        "lat": 40.18636,
-        "lng": -98.46584,
-        "location_name": "United States"
+        "date_start": "1913"
       },
       "mentions": {
         "persons": [],
@@ -18468,8 +18317,8 @@
       "date_resolved": true,
       "geocoded": false,
       "node": {
-        "id": "incident-emil-str-inu-68698287",
-        "node_type": "incident",
+        "id": "person-emil-str-inu-68698287",
+        "node_type": "person",
         "label": "Emil Străinu",
         "summary": "Emil Străinu (born 30 April 1957 in Bucharest, Romania) is a Romanian army general in reserve, writer, journalist, ufologist, and politician. He was the leader of the Greater Romania Party (PRM) between 2015 and 2016. He is a founding member of ASFAN (Asociația pentru Studiul Fenomenelor Aerospațiale Neidentificate; Association for the Study of Unidentified Aerospace Phenomena). He is an author of specialized books and radiolocation specialist. He has published numerous books, articles and studies in the field o...",
         "tags": [
@@ -18488,8 +18337,7 @@
         "sources": [
           "https://en.wikipedia.org/wiki/Emil_Str%C4%83inu"
         ],
-        "date_start": "1957",
-        "case_status": "unexplained"
+        "date_start": "1957"
       },
       "mentions": {
         "persons": [],
@@ -18505,10 +18353,10 @@
       "url": "https://en.wikipedia.org/wiki/Chan_Thomas",
       "extraction_confidence": "medium",
       "date_resolved": true,
-      "geocoded": true,
+      "geocoded": false,
       "node": {
-        "id": "incident-chan-thomas-74628513",
-        "node_type": "incident",
+        "id": "person-chan-thomas-74628513",
+        "node_type": "person",
         "label": "Chan Thomas",
         "summary": "Chan Thomas (1920–1998) was an American engineer, ufologist, writer on ancient cataclysms, and self-proclaimed polymath whose ideas have influenced conspiracy theorists in the 21st century.",
         "tags": [
@@ -18516,18 +18364,13 @@
           "20th-century american engineers",
           "mcdonnell douglas people",
           "ufologists",
-          "country:us",
-          "country-centroid-estimate"
+          "country:us"
         ],
         "confidence": "medium",
         "sources": [
           "https://en.wikipedia.org/wiki/Chan_Thomas"
         ],
-        "date_start": "1920",
-        "case_status": "unexplained",
-        "lat": 40.18863,
-        "lng": -97.83602,
-        "location_name": "United States"
+        "date_start": "1920"
       },
       "mentions": {
         "persons": [],
@@ -18545,8 +18388,8 @@
       "date_resolved": true,
       "geocoded": false,
       "node": {
-        "id": "incident-wilbert-brockhouse-smith-75575833",
-        "node_type": "incident",
+        "id": "person-wilbert-brockhouse-smith-75575833",
+        "node_type": "person",
         "label": "Wilbert Brockhouse Smith",
         "summary": "William Brockhouse Smith (1910 – December 27, 1962) was a Canadian engineer, government scientist, ufologist, and author of various patents and technical papers.",
         "tags": [
@@ -18566,8 +18409,7 @@
         "sources": [
           "https://en.wikipedia.org/wiki/Wilbert_Brockhouse_Smith"
         ],
-        "date_start": "1910",
-        "case_status": "unexplained"
+        "date_start": "1910"
       },
       "mentions": {
         "persons": [],
@@ -19392,8 +19234,8 @@
       "date_resolved": true,
       "geocoded": false,
       "node": {
-        "id": "incident-zoe-wassilko-serecki-76867606",
-        "node_type": "incident",
+        "id": "person-zoe-wassilko-serecki-76867606",
+        "node_type": "person",
         "label": "Zoe Wassilko-Serecki",
         "summary": "Zoe Wassilko-Serecki (born July 11, 1897, in Czernowitz, died November 26, 1978, in Vienna) was an Austrian occultist and astrologer.",
         "tags": [
@@ -19412,8 +19254,7 @@
         "sources": [
           "https://en.wikipedia.org/wiki/Zoe_Wassilko-Serecki"
         ],
-        "date_start": "1897",
-        "case_status": "unexplained"
+        "date_start": "1897"
       },
       "mentions": {
         "persons": [],
@@ -21067,10 +20908,10 @@
       "url": "https://en.wikipedia.org/wiki/Charles_Berlitz",
       "extraction_confidence": "medium",
       "date_resolved": true,
-      "geocoded": true,
+      "geocoded": false,
       "node": {
-        "id": "incident-charles-berlitz-291926",
-        "node_type": "incident",
+        "id": "person-charles-berlitz-291926",
+        "node_type": "person",
         "label": "Charles Berlitz",
         "summary": "Charles Frambach Berlitz (November 22, 1914 – December 18, 2003) was an American polyglot, language teacher and writer, known for his language-learning courses and his books on paranormal phenomena.",
         "tags": [
@@ -21085,18 +20926,13 @@
           "atlantis proponents",
           "bermuda triangle",
           "pseudohistorians",
-          "country:us",
-          "country-centroid-estimate"
+          "country:us"
         ],
         "confidence": "medium",
         "sources": [
           "https://en.wikipedia.org/wiki/Charles_Berlitz"
         ],
-        "date_start": "1914",
-        "case_status": "unexplained",
-        "lat": 39.7545,
-        "lng": -98.26065,
-        "location_name": "United States"
+        "date_start": "1914"
       },
       "mentions": {
         "persons": [],
@@ -21112,10 +20948,10 @@
       "url": "https://en.wikipedia.org/wiki/Marshall_Applewhite",
       "extraction_confidence": "medium",
       "date_resolved": true,
-      "geocoded": true,
+      "geocoded": false,
       "node": {
-        "id": "incident-marshall-applewhite-379359",
-        "node_type": "incident",
+        "id": "person-marshall-applewhite-379359",
+        "node_type": "person",
         "label": "Marshall Applewhite",
         "summary": "Marshall Herff Applewhite Jr. (May 17, 1931 – March 26, 1997), also known as Do, among other names, was an American religious leader who founded and led the Heaven's Gate new religious movement (often described as a cult), and organized their mass suicide in 1997. The suicide is the largest mass suicide to occur inside the United States. As a young man, Applewhite attended several universities and served in the United States Army. He initially pursued a career in education until he resigned from the University o...",
         "tags": [
@@ -21130,18 +20966,13 @@
           "american members of the clergy convicted of crimes",
           "american music educators",
           "american people convicted of theft",
-          "country:us",
-          "country-centroid-estimate"
+          "country:us"
         ],
         "confidence": "medium",
         "sources": [
           "https://en.wikipedia.org/wiki/Marshall_Applewhite"
         ],
-        "date_start": "1931",
-        "case_status": "unexplained",
-        "lat": 39.39936,
-        "lng": -99.25789,
-        "location_name": "United States"
+        "date_start": "1931"
       },
       "mentions": {
         "persons": [],
@@ -21159,8 +20990,8 @@
       "date_resolved": true,
       "geocoded": false,
       "node": {
-        "id": "incident-burak-eldem-498227",
-        "node_type": "incident",
+        "id": "person-burak-eldem-498227",
+        "node_type": "person",
         "label": "Burak Eldem",
         "summary": "Burak Eldem (born 1961) is a Turkish writer/researcher, a former radio and TV programmer, web developer and journalist. He is the author of \"2012: Rendez-vous With Marduk\" (also known as 2012: Appointment With Marduk - 2003), Fraternis: Lost Books, Secret Brotherhood (2006) and Talismans Protect Thee (2004). The first two titles belong to a trilogy about the history of civilization, which he named \"The Hidden History\". The latter is a science-fiction novel on immortality, ancient secrets and international conspi...",
         "tags": [
@@ -21174,8 +21005,7 @@
         "sources": [
           "https://en.wikipedia.org/wiki/Burak_Eldem"
         ],
-        "date_start": "1961",
-        "case_status": "unexplained"
+        "date_start": "1961"
       },
       "mentions": {
         "persons": [],
@@ -21236,10 +21066,10 @@
       "url": "https://en.wikipedia.org/wiki/Matest_M._Agrest",
       "extraction_confidence": "medium",
       "date_resolved": true,
-      "geocoded": true,
+      "geocoded": false,
       "node": {
-        "id": "incident-matest-m-agrest-1963956",
-        "node_type": "incident",
+        "id": "person-matest-m-agrest-1963956",
+        "node_type": "person",
         "label": "Matest M. Agrest",
         "summary": "Mates (Matest) Mendelevich Agrest (20 July 1915 – 20 September 2005) was a Russian-born mathematician and a proponent of the ancient astronaut theory.",
         "tags": [
@@ -21252,18 +21082,13 @@
           "soviet jews",
           "soviet emigrants to the united states",
           "soviet scientists",
-          "country:us",
-          "country-centroid-estimate"
+          "country:us"
         ],
         "confidence": "medium",
         "sources": [
           "https://en.wikipedia.org/wiki/Matest_M._Agrest"
         ],
-        "date_start": "1915",
-        "case_status": "unexplained",
-        "lat": 39.92401,
-        "lng": -99.30521,
-        "location_name": "United States"
+        "date_start": "1915"
       },
       "mentions": {
         "persons": [],
@@ -21326,8 +21151,8 @@
       "date_resolved": true,
       "geocoded": false,
       "node": {
-        "id": "incident-robert-charroux-5010020",
-        "node_type": "incident",
+        "id": "person-robert-charroux-5010020",
+        "node_type": "person",
         "label": "Robert Charroux",
         "summary": "Robert Charroux was the best-known pen-name of Robert Joseph Grugeau (April 7, 1909 – June 24, 1978). He was a French author known for his writings on the ancient astronaut theme.",
         "tags": [
@@ -21347,8 +21172,7 @@
         "sources": [
           "https://en.wikipedia.org/wiki/Robert_Charroux"
         ],
-        "date_start": "1909",
-        "case_status": "unexplained"
+        "date_start": "1909"
       },
       "mentions": {
         "persons": [],
@@ -21366,8 +21190,8 @@
       "date_resolved": true,
       "geocoded": false,
       "node": {
-        "id": "incident-james-herbert-brennan-5020764",
-        "node_type": "incident",
+        "id": "person-james-herbert-brennan-5020764",
+        "node_type": "person",
         "label": "James Herbert Brennan",
         "summary": "James Herbert Brennan (5 July 1940 – 1 January 2024) was an Irish lecturer and the author of over 100 fiction and non-fiction books for adults, teens and children, as well as several role-playing games.",
         "tags": [
@@ -21385,8 +21209,7 @@
         "sources": [
           "https://en.wikipedia.org/wiki/James_Herbert_Brennan"
         ],
-        "date_start": "1940",
-        "case_status": "unexplained"
+        "date_start": "1940"
       },
       "mentions": {
         "persons": [],
@@ -21402,10 +21225,10 @@
       "url": "https://en.wikipedia.org/wiki/Vincent_Gaddis",
       "extraction_confidence": "medium",
       "date_resolved": true,
-      "geocoded": true,
+      "geocoded": false,
       "node": {
-        "id": "incident-vincent-gaddis-5561206",
-        "node_type": "incident",
+        "id": "person-vincent-gaddis-5561206",
+        "node_type": "person",
         "label": "Vincent Gaddis",
         "summary": "Vincent Hayes Gaddis (December 28, 1913 – February 26, 1997) was an American author who invented the phrase \"Bermuda Triangle\", which he used first in the cover article for the 1964 February issue of the magazine Argosy. He popularized many stories about anomalous and paranormal phenomena in a style similar to that of Charles Fort.",
         "tags": [
@@ -21417,18 +21240,13 @@
           "bermuda triangle",
           "people from eureka, california",
           "pseudohistorians",
-          "country:us",
-          "country-centroid-estimate"
+          "country:us"
         ],
         "confidence": "medium",
         "sources": [
           "https://en.wikipedia.org/wiki/Vincent_Gaddis"
         ],
-        "date_start": "1913",
-        "case_status": "unexplained",
-        "lat": 40.22224,
-        "lng": -99.19656,
-        "location_name": "United States"
+        "date_start": "1913"
       },
       "mentions": {
         "persons": [],
@@ -21446,8 +21264,8 @@
       "date_resolved": true,
       "geocoded": false,
       "node": {
-        "id": "incident-peter-kolosimo-5636221",
-        "node_type": "incident",
+        "id": "person-peter-kolosimo-5636221",
+        "node_type": "person",
         "label": "Peter Kolosimo",
         "summary": "Peter Kolosimo, pseudonym of Pier Domenico Colosimo (Modena, 15 December 1922 – Milan, 23 March 1984), was an Italian journalist and writer. He is ranked amongst the founders of pseudoarchaeology (in Italian: fantarcheologia), a controversial topic in which interpretations of the past are made that are not accepted by the archaeological science community, which rejects the accepted data-gathering and analytical methods of the discipline. He also popularised ancient astronaut theories of contact between extraterr...",
         "tags": [
@@ -21467,8 +21285,7 @@
         "sources": [
           "https://en.wikipedia.org/wiki/Peter_Kolosimo"
         ],
-        "date_start": "1922",
-        "case_status": "unexplained"
+        "date_start": "1922"
       },
       "mentions": {
         "persons": [],
@@ -21484,10 +21301,10 @@
       "url": "https://en.wikipedia.org/wiki/David_Hatcher_Childress",
       "extraction_confidence": "medium",
       "date_resolved": true,
-      "geocoded": true,
+      "geocoded": false,
       "node": {
-        "id": "incident-david-hatcher-childress-8481795",
-        "node_type": "incident",
+        "id": "person-david-hatcher-childress-8481795",
+        "node_type": "person",
         "label": "David Hatcher Childress",
         "summary": "David Hatcher Childress (born June 1, 1957) is an American author, and the owner of Adventures Unlimited Press, a publishing house established in 1984 specializing in books on unusual topics such as ancient mysteries, unexplained phenomena, pseudohistory, and historical revisionism. His own works primarily concentrate on pseudoarchaeological and pseudoscientific topics such as \"UFOs, secret societies, suppressed technology, cryptozoology [and] conspiracy theory.\" Childress, having no degree, refers to himself as...",
         "tags": [
@@ -21502,18 +21319,13 @@
           "official website not in wikidata",
           "people from ford county, illinois",
           "pseudohistorians",
-          "country:us",
-          "country-centroid-estimate"
+          "country:us"
         ],
         "confidence": "medium",
         "sources": [
           "https://en.wikipedia.org/wiki/David_Hatcher_Childress"
         ],
-        "date_start": "1957",
-        "case_status": "unexplained",
-        "lat": 39.54207,
-        "lng": -98.9003,
-        "location_name": "United States"
+        "date_start": "1957"
       },
       "mentions": {
         "persons": [],
@@ -21569,10 +21381,10 @@
       "url": "https://en.wikipedia.org/wiki/Alan_F._Alford",
       "extraction_confidence": "medium",
       "date_resolved": true,
-      "geocoded": true,
+      "geocoded": false,
       "node": {
-        "id": "incident-alan-f-alford-17405975",
-        "node_type": "incident",
+        "id": "person-alan-f-alford-17405975",
+        "node_type": "person",
         "label": "Alan F. Alford",
         "summary": "Alan F. Alford (1961 – 14 November 2011) was a British writer and speaker on the subjects of ancient religion, mythology, and Egyptology. His first book Gods of the New Millennium (1996) drew on the ancient astronaut theory of Zecharia Sitchin and became a number 11 non-fiction bestseller in the UK. In his subsequent writings, however, he admitted to serious faults in his use of Sitchin's theory and proposed an alternative, cataclysm theory of ancient myth: \"I am now firmly of the opinion that these gods personi...",
         "tags": [
@@ -21584,18 +21396,13 @@
           "british conspiracy theorists",
           "british writers",
           "mythographers",
-          "country:gb",
-          "country-centroid-estimate"
+          "country:gb"
         ],
         "confidence": "medium",
         "sources": [
           "https://en.wikipedia.org/wiki/Alan_F._Alford"
         ],
-        "date_start": "1961",
-        "case_status": "unexplained",
-        "lat": 55.83515,
-        "lng": -3.30081,
-        "location_name": "United Kingdom"
+        "date_start": "1961"
       },
       "mentions": {
         "persons": [],
@@ -21696,10 +21503,10 @@
       "url": "https://en.wikipedia.org/wiki/Serge_Hutin",
       "extraction_confidence": "medium",
       "date_resolved": true,
-      "geocoded": true,
+      "geocoded": false,
       "node": {
-        "id": "incident-serge-hutin-31896477",
-        "node_type": "incident",
+        "id": "person-serge-hutin-31896477",
+        "node_type": "person",
         "label": "Serge Hutin",
         "summary": "Serge Hutin (1927 – 1 November 1997) was a French author of books on esoterica and the occult. He was born in France.",
         "tags": [
@@ -21709,18 +21516,13 @@
           "atlantis proponents",
           "french male non-fiction writers",
           "french occult writers",
-          "country:fr",
-          "country-centroid-estimate"
+          "country:fr"
         ],
         "confidence": "medium",
         "sources": [
           "https://en.wikipedia.org/wiki/Serge_Hutin"
         ],
-        "date_start": "1927",
-        "case_status": "unexplained",
-        "lat": 45.80319,
-        "lng": 2.60218,
-        "location_name": "France"
+        "date_start": "1927"
       },
       "mentions": {
         "persons": [],
@@ -21736,10 +21538,10 @@
       "url": "https://en.wikipedia.org/wiki/John_Philip_Cohane",
       "extraction_confidence": "medium",
       "date_resolved": false,
-      "geocoded": true,
+      "geocoded": false,
       "node": {
-        "id": "incident-john-philip-cohane-32071271",
-        "node_type": "incident",
+        "id": "person-john-philip-cohane-32071271",
+        "node_type": "person",
         "label": "John Philip Cohane",
         "summary": "John Philip Cohane, born in New Haven, Connecticut, was an American author. He later moved to Ireland where he wrote books on etymology and ancient astronaut themes.",
         "tags": [
@@ -21749,17 +21551,12 @@
           "ancient astronauts proponents",
           "pseudohistorians",
           "writers from new haven, connecticut",
-          "country:us",
-          "country-centroid-estimate"
+          "country:us"
         ],
         "confidence": "medium",
         "sources": [
           "https://en.wikipedia.org/wiki/John_Philip_Cohane"
-        ],
-        "case_status": "unexplained",
-        "lat": 39.78582,
-        "lng": -99.0355,
-        "location_name": "United States"
+        ]
       },
       "mentions": {
         "persons": [],
@@ -21775,10 +21572,10 @@
       "url": "https://en.wikipedia.org/wiki/Philip_Coppens_(author)",
       "extraction_confidence": "medium",
       "date_resolved": true,
-      "geocoded": true,
+      "geocoded": false,
       "node": {
-        "id": "incident-philip-coppens-author-38076943",
-        "node_type": "incident",
+        "id": "person-philip-coppens-author-38076943",
+        "node_type": "person",
         "label": "Philip Coppens (author)",
         "summary": "Philip Coppens (25 January 1971 – 30 December 2012) was a Belgian author, radio host, and commentator whose writings, speeches and television appearances focused on areas of fringe science and alternative history. Coppens was born in Sint-Niklaas, Belgium. He was a cohost of the Spirit Revolution radio show, his writing was featured in Nexus and Atlantis Rising magazines, and he appeared in 56 episodes of the History Channel's Ancient Aliens television series. He was married to Kathleen McGowan on 22 September 2...",
         "tags": [
@@ -21793,18 +21590,13 @@
           "belgian radio presenters",
           "burials at forest lawn memorial park (glendale)",
           "deaths from angiosarcoma",
-          "country:us",
-          "country-centroid-estimate"
+          "country:us"
         ],
         "confidence": "medium",
         "sources": [
           "https://en.wikipedia.org/wiki/Philip_Coppens_(author)"
         ],
-        "date_start": "1971",
-        "case_status": "unexplained",
-        "lat": 40.04904,
-        "lng": -98.555,
-        "location_name": "United States"
+        "date_start": "1971"
       },
       "mentions": {
         "persons": [],
@@ -21865,10 +21657,10 @@
       "url": "https://en.wikipedia.org/wiki/Amy_Carlson_(religious_leader)",
       "extraction_confidence": "medium",
       "date_resolved": true,
-      "geocoded": true,
+      "geocoded": false,
       "node": {
-        "id": "incident-amy-carlson-religious-leader-75415710",
-        "node_type": "incident",
+        "id": "person-amy-carlson-religious-leader-75415710",
+        "node_type": "person",
         "label": "Amy Carlson (religious leader)",
         "summary": "Amy Carlson (November 30, 1975 – c. April 16, 2021), also known by her followers as Mother God, was an American religious leader and the co-founder of the new religious movement Love Has Won. Carlson and her followers believed that she was God, a 19-billion-year-old being, and a reincarnation of Jesus Christ, and that she could heal people with cancer \"with the power of love\". Her group has been described as a cult and Carlson as a cult leader by many, including ex-members and media outlets. Carlson's body was f...",
         "tags": [
@@ -21883,18 +21675,13 @@
           "atlantis proponents",
           "autism pseudoscience",
           "clergy from dallas",
-          "country:us",
-          "country-centroid-estimate"
+          "country:us"
         ],
         "confidence": "medium",
         "sources": [
           "https://en.wikipedia.org/wiki/Amy_Carlson_(religious_leader)"
         ],
-        "date_start": "1975",
-        "case_status": "unexplained",
-        "lat": 40.16886,
-        "lng": -97.88846,
-        "location_name": "United States"
+        "date_start": "1975"
       },
       "mentions": {
         "persons": [],
@@ -21910,10 +21697,10 @@
       "url": "https://en.wikipedia.org/wiki/Zecharia_Sitchin",
       "extraction_confidence": "medium",
       "date_resolved": true,
-      "geocoded": true,
+      "geocoded": false,
       "node": {
-        "id": "incident-zecharia-sitchin-137788",
-        "node_type": "incident",
+        "id": "person-zecharia-sitchin-137788",
+        "node_type": "person",
         "label": "Zecharia Sitchin",
         "summary": "Zecharia Sitchin (11 July 1920 – 9 October 2010) was an author of a number of books proposing an explanation for human origins involving ancient astronauts. Sitchin attributed the creation of the ancient Sumerian culture to the Anunnaki, which he claimed was a race of extraterrestrials from a planet beyond Neptune called Nibiru. He claimed that Sumerian mythology suggests that this hypothetical planet of Nibiru is in an elongated, 3,600-year-long elliptical orbit around the Sun. Sitchin's books have sold million...",
         "tags": [
@@ -21928,18 +21715,13 @@
           "pseudoarchaeologists",
           "pseudohistorians",
           "soviet emigrants to mandatory palestine",
-          "country:us",
-          "country-centroid-estimate"
+          "country:us"
         ],
         "confidence": "medium",
         "sources": [
           "https://en.wikipedia.org/wiki/Zecharia_Sitchin"
         ],
-        "date_start": "1920",
-        "case_status": "unexplained",
-        "lat": 39.29657,
-        "lng": -97.81024,
-        "location_name": "United States"
+        "date_start": "1920"
       },
       "mentions": {
         "persons": [],
@@ -21957,8 +21739,8 @@
       "date_resolved": true,
       "geocoded": false,
       "node": {
-        "id": "organization-louis-farrakhan-154191",
-        "node_type": "organization",
+        "id": "person-louis-farrakhan-154191",
+        "node_type": "person",
         "label": "Louis Farrakhan",
         "summary": "Louis Farrakhan (born Louis Eugene Walcott, later Louis X; May 11, 1933) is an American religious leader who has been the head of the Nation of Islam (NOI) since 1981, an organization which combines black nationalism and Islamic teachings. Prior to the NOI, Farrakhan was a calypso singer who used the stage name Calypso Gene from 1950 to 1955 and a violinist from 1939 to 1955. The longest-serving NOI leader, he also served as minister of several mosques in Boston and Harlem in the 1950s under the leadership of El...",
         "tags": [
@@ -22112,10 +21894,10 @@
       "url": "https://en.wikipedia.org/wiki/Riley_Martin",
       "extraction_confidence": "medium",
       "date_resolved": true,
-      "geocoded": true,
+      "geocoded": false,
       "node": {
-        "id": "incident-riley-martin-4773911",
-        "node_type": "incident",
+        "id": "person-riley-martin-4773911",
+        "node_type": "person",
         "label": "Riley Martin",
         "summary": "Riley Lee Martin (May 9, 1946 – December 22, 2015) was an American self-described alien contactee, author and radio host. Martin was the author of the book The Coming of Tan, which describes his life and his alleged alien visitation. He hosted The Riley Martin Show on the Sirius XM Radio channel Howard 101. He appeared on The Howard Stern Show and was considered part of the Wack Pack.",
         "tags": [
@@ -22127,18 +21909,13 @@
           "american people who self-identify as being of native american descent",
           "contactees",
           "people from natchez, mississippi",
-          "country:us",
-          "country-centroid-estimate"
+          "country:us"
         ],
         "confidence": "medium",
         "sources": [
           "https://en.wikipedia.org/wiki/Riley_Martin"
         ],
-        "date_start": "1946",
-        "case_status": "unexplained",
-        "lat": 39.48646,
-        "lng": -98.40785,
-        "location_name": "United States"
+        "date_start": "1946"
       },
       "mentions": {
         "persons": [],
@@ -22319,10 +22096,10 @@
       "url": "https://en.wikipedia.org/wiki/John_Michell_(writer)",
       "extraction_confidence": "medium",
       "date_resolved": true,
-      "geocoded": true,
+      "geocoded": false,
       "node": {
-        "id": "incident-john-michell-writer-6908822",
-        "node_type": "incident",
+        "id": "person-john-michell-writer-6908822",
+        "node_type": "person",
         "label": "John Michell (writer)",
         "summary": "John Frederick Carden Michell (9 February 1933 – 24 April 2009) was an English author and esotericist who was a prominent figure in the development of the Earth mysteries movement. Over the course of his life he published over forty books on an array of different subjects, being a proponent of the Traditionalist school of esoteric thought. Born in London to a wealthy family, Michell was educated at Cheam School and Eton College before serving as a Russian translator in the Royal Navy for two years. After failing...",
         "tags": [
@@ -22337,18 +22114,13 @@
           "far-right politics in the united kingdom",
           "fortean writers",
           "new age writers",
-          "country:gb",
-          "country-centroid-estimate"
+          "country:gb"
         ],
         "confidence": "medium",
         "sources": [
           "https://en.wikipedia.org/wiki/John_Michell_(writer)"
         ],
-        "date_start": "1933",
-        "case_status": "unexplained",
-        "lat": 54.88777,
-        "lng": -3.27155,
-        "location_name": "United Kingdom"
+        "date_start": "1933"
       },
       "mentions": {
         "persons": [],
@@ -22364,10 +22136,10 @@
       "url": "https://en.wikipedia.org/wiki/Alan_Landsburg",
       "extraction_confidence": "medium",
       "date_resolved": true,
-      "geocoded": true,
+      "geocoded": false,
       "node": {
-        "id": "incident-alan-landsburg-8850725",
-        "node_type": "incident",
+        "id": "person-alan-landsburg-8850725",
+        "node_type": "person",
         "label": "Alan Landsburg",
         "summary": "Alan William Landsburg (May 10, 1933 – August 13, 2014) was an American television writer, producer, and director. He was the founder and CEO of Alan Landsburg Productions and the Landsburg Company and was involved in producing over fifty movies of the week. He had over 2,000 hours of television production experience.",
         "tags": [
@@ -22382,18 +22154,13 @@
           "television producers from california",
           "television producers from new york city",
           "writers from white plains, new york",
-          "country:us",
-          "country-centroid-estimate"
+          "country:us"
         ],
         "confidence": "medium",
         "sources": [
           "https://en.wikipedia.org/wiki/Alan_Landsburg"
         ],
-        "date_start": "1933",
-        "case_status": "unexplained",
-        "lat": 39.55857,
-        "lng": -99.17593,
-        "location_name": "United States"
+        "date_start": "1933"
       },
       "mentions": {
         "persons": [],
@@ -22455,8 +22222,8 @@
       "date_resolved": true,
       "geocoded": false,
       "node": {
-        "id": "incident-alexandru-mironov-15704208",
-        "node_type": "incident",
+        "id": "person-alexandru-mironov-15704208",
+        "node_type": "person",
         "label": "Alexandru Mironov",
         "summary": "Alexandru Mironov (born 27 January 1942) is a Romanian science-fiction writer, journalist, and left-wing politician. A former member of the Social Democratic Party (PSD) and Counsel for President Ion Iliescu, Mironov was Minister for Youth and Sport in 1993-1996. Since 2008, he is a member of the minor Romanian Socialist Party (PSR). He is also known as a radio and television presenter and a documentary filmmaker.",
         "tags": [
@@ -22476,8 +22243,7 @@
         "sources": [
           "https://en.wikipedia.org/wiki/Alexandru_Mironov"
         ],
-        "date_start": "1942",
-        "case_status": "unexplained"
+        "date_start": "1942"
       },
       "mentions": {
         "persons": [],
@@ -22495,8 +22261,8 @@
       "date_resolved": true,
       "geocoded": false,
       "node": {
-        "id": "incident-henri-lhote-19106974",
-        "node_type": "incident",
+        "id": "person-henri-lhote-19106974",
+        "node_type": "person",
         "label": "Henri Lhote",
         "summary": "Henri Lhote (16 March 1903 – 26 March 1991) was a French explorer, ethnographer, and discoverer of prehistoric cave art. He is credited with the discovery of an assembly of 800 or more works of primitive art in a remote region of Algeria on the edge of the Sahara desert. He was aided by the local Tuareg guide Jebrine Ag Mohamed Machar. Lhote came to believe the paintings testified to ancient contact with extraterrestrial beings and is considered one of the early proponents of paleocontact.",
         "tags": [
@@ -22509,8 +22275,7 @@
         "sources": [
           "https://en.wikipedia.org/wiki/Henri_Lhote"
         ],
-        "date_start": "1903",
-        "case_status": "unexplained"
+        "date_start": "1903"
       },
       "mentions": {
         "persons": [],
@@ -22526,10 +22291,10 @@
       "url": "https://en.wikipedia.org/wiki/Warren_Smith_(author)",
       "extraction_confidence": "medium",
       "date_resolved": true,
-      "geocoded": true,
+      "geocoded": false,
       "node": {
-        "id": "incident-warren-smith-author-31926269",
-        "node_type": "incident",
+        "id": "person-warren-smith-author-31926269",
+        "node_type": "person",
         "label": "Warren Smith (author)",
         "summary": "Warren Billy Smith, (Iowa, 1931–2003) was an American author best known for his books on cryptozoology, UFOs and the Hollow Earth theory. In addition he authored a large number of historical romance and western novels.",
         "tags": [
@@ -22542,18 +22307,13 @@
           "hollow earth proponents",
           "pseudohistorians",
           "writers from clinton, iowa",
-          "country:us",
-          "country-centroid-estimate"
+          "country:us"
         ],
         "confidence": "medium",
         "sources": [
           "https://en.wikipedia.org/wiki/Warren_Smith_(author)"
         ],
-        "date_start": "1931",
-        "case_status": "unexplained",
-        "lat": 40.25274,
-        "lng": -99.36123,
-        "location_name": "United States"
+        "date_start": "1931"
       },
       "mentions": {
         "persons": [],
@@ -22569,10 +22329,10 @@
       "url": "https://en.wikipedia.org/wiki/Nikolai_Levashov",
       "extraction_confidence": "medium",
       "date_resolved": true,
-      "geocoded": true,
+      "geocoded": false,
       "node": {
-        "id": "incident-nikolai-levashov-32352873",
-        "node_type": "incident",
+        "id": "person-nikolai-levashov-32352873",
+        "node_type": "person",
         "label": "Nikolai Levashov",
         "summary": "Nicolai or Nikolai Levashov (Russian: Никола́й Ви́кторович Левашо́в; February 8, 1961 – June 11, 2012) was a Russian occultist and psychic healer who wrote several books on life in the universe, Slavic history, the origin of mankind on Earth and other topics. From 1991 to 2005 he was known in the United States for several causes célèbres involving his patients. One of his books is classified as antisemitic and extreme and banned in Russia. He was a leader of a public organisation \"Renaissance. The Golden Age\" wh...",
         "tags": [
@@ -22587,18 +22347,13 @@
           "proponents of alternative chronologies",
           "pseudohistorians",
           "russian modern pagans",
-          "country:us",
-          "country-centroid-estimate"
+          "country:us"
         ],
         "confidence": "medium",
         "sources": [
           "https://en.wikipedia.org/wiki/Nikolai_Levashov"
         ],
-        "date_start": "1961",
-        "case_status": "unexplained",
-        "lat": 39.42605,
-        "lng": -98.67617,
-        "location_name": "United States"
+        "date_start": "1961"
       },
       "mentions": {
         "persons": [],
@@ -22614,10 +22369,10 @@
       "url": "https://en.wikipedia.org/wiki/George_King_(religious_leader)",
       "extraction_confidence": "medium",
       "date_resolved": true,
-      "geocoded": true,
+      "geocoded": false,
       "node": {
-        "id": "incident-george-king-religious-leader-77101762",
-        "node_type": "incident",
+        "id": "person-george-king-religious-leader-77101762",
+        "node_type": "person",
         "label": "George King (religious leader)",
         "summary": "George King (23 January 1919, Wellington, Shropshire – 12 July 1997, Santa Barbara, California) was a British author, esotericist, and spiritual figure who founded the Aetherius Society, a new religious movement, during the mid-1950s.",
         "tags": [
@@ -22630,18 +22385,13 @@
           "english religious writers",
           "founders of new religious movements",
           "people from wellington, shropshire",
-          "country:us",
-          "country-centroid-estimate"
+          "country:us"
         ],
         "confidence": "medium",
         "sources": [
           "https://en.wikipedia.org/wiki/George_King_(religious_leader)"
         ],
-        "date_start": "1919",
-        "case_status": "unexplained",
-        "lat": 39.63553,
-        "lng": -99.14006,
-        "location_name": "United States"
+        "date_start": "1919"
       },
       "mentions": {
         "persons": [],
@@ -23947,10 +23697,10 @@
       "url": "https://en.wikipedia.org/wiki/The_Last_Halloween",
       "extraction_confidence": "medium",
       "date_resolved": true,
-      "geocoded": true,
+      "geocoded": false,
       "node": {
-        "id": "incident-the-last-halloween-17269928",
-        "node_type": "incident",
+        "id": "person-the-last-halloween-17269928",
+        "node_type": "person",
         "label": "The Last Halloween",
         "summary": "The Last Halloween is an American Halloween television special produced by Hanna-Barbera. It premiered and first aired on CBS on October 28, 1991. The visual effects and animation were provided by Industrial Light & Magic and Pacific Data Images.",
         "tags": [
@@ -23965,18 +23715,13 @@
           "films scored by bruce broughton",
           "halloween television specials",
           "hanna-barbera television specials",
-          "country:us",
-          "country-centroid-estimate"
+          "country:us"
         ],
         "confidence": "medium",
         "sources": [
           "https://en.wikipedia.org/wiki/The_Last_Halloween"
         ],
-        "date_start": "1991",
-        "case_status": "unexplained",
-        "lat": 39.82097,
-        "lng": -98.81822,
-        "location_name": "United States"
+        "date_start": "1991"
       },
       "mentions": {
         "persons": [],
@@ -24274,10 +24019,10 @@
       "url": "https://en.wikipedia.org/wiki/Kid_Cosmic",
       "extraction_confidence": "medium",
       "date_resolved": true,
-      "geocoded": true,
+      "geocoded": false,
       "node": {
-        "id": "incident-kid-cosmic-59130691",
-        "node_type": "incident",
+        "id": "person-kid-cosmic-59130691",
+        "node_type": "person",
         "label": "Kid Cosmic",
         "summary": "Kid Cosmic is an American animated superhero television series created by Craig McCracken and developed by McCracken, his wife Lauren Faust and Francisco Angones for Netflix. The series was based on his 2009 comic The Kid from Planet Earth. Produced in-house by Netflix Animation, the show is McCracken's first to have a serialized format, as well as his second foray into the superhero genre, having previously created The Powerpuff Girls. Illustrated in a \"retro 2D\" style inspired by comics such as Dennis the Mena...",
         "tags": [
@@ -24292,18 +24037,13 @@
           "american children's animated action television series",
           "american children's animated adventure television series",
           "american children's animated comic science fiction television series",
-          "country:us",
-          "country-centroid-estimate"
+          "country:us"
         ],
         "confidence": "medium",
         "sources": [
           "https://en.wikipedia.org/wiki/Kid_Cosmic"
         ],
-        "date_start": "2009",
-        "case_status": "unexplained",
-        "lat": 39.46761,
-        "lng": -98.75585,
-        "location_name": "United States"
+        "date_start": "2009"
       },
       "mentions": {
         "persons": [],
@@ -25593,10 +25333,10 @@
       "url": "https://en.wikipedia.org/wiki/Love_Has_Won",
       "extraction_confidence": "medium",
       "date_resolved": true,
-      "geocoded": true,
+      "geocoded": false,
       "node": {
-        "id": "incident-love-has-won-67579749",
-        "node_type": "incident",
+        "id": "person-love-has-won-67579749",
+        "node_type": "person",
         "label": "Love Has Won",
         "summary": "Love Has Won (LHW), also known as the Galactic Federation of Light, is an American new religious movement that was led by Amy Carlson until her death in 2021. Carlson was referred to within the group as \"Mother God\", who described herself as, among other things, the creator of the universe, with the movement combining New Age spirituality, ideas from Abrahamic religions, conspiracy theories, and popular culture more broadly. The group has been described as a cult by many, including ex-members and media outlets. ...",
         "tags": [
@@ -25611,18 +25351,13 @@
           "qanon",
           "religious belief systems founded in the united states",
           "religious controversies in the united states",
-          "country:us",
-          "country-centroid-estimate"
+          "country:us"
         ],
         "confidence": "medium",
         "sources": [
           "https://en.wikipedia.org/wiki/Love_Has_Won"
         ],
-        "date_start": "2021",
-        "case_status": "unexplained",
-        "lat": 39.54823,
-        "lng": -98.07962,
-        "location_name": "United States"
+        "date_start": "2021"
       },
       "mentions": {
         "persons": [],
