@@ -52,10 +52,10 @@ const NODE_LEGEND: Array<{
 ];
 
 const EDGE_LEGEND: Array<{ label: string; color: string; dashed?: boolean }> = [
-  { label: 'WITNESSED', color: RELATION_COLORS.WITNESSED ?? '#00C8FF' },
-  { label: 'INVESTIGATED', color: RELATION_COLORS.INVESTIGATED ?? '#FFB800' },
-  { label: 'CORROBORATES', color: RELATION_COLORS.CORROBORATES ?? '#00E5A0', dashed: true },
-  { label: 'CONTRADICTS', color: RELATION_COLORS.CONTRADICTS ?? '#FF4444', dashed: true },
+  { label: 'WITNESSED', color: RELATION_COLORS.WITNESSED ?? '#94C6B8' },
+  { label: 'INVESTIGATED', color: RELATION_COLORS.INVESTIGATED ?? '#C5B08D' },
+  { label: 'CORROBORATES', color: RELATION_COLORS.CORROBORATES ?? '#7FC3AB', dashed: true },
+  { label: 'CONTRADICTS', color: RELATION_COLORS.CONTRADICTS ?? '#CC7B7B', dashed: true },
 ];
 
 function drawPolygon(
@@ -161,15 +161,15 @@ function drawShape(
 
 function confidenceRing(node: RenderNode): { color: string; width: number; dashed?: boolean } {
   if (node.confidence === 'high') {
-    return { color: '#00E5A0', width: 1.65 };
+    return { color: '#7CC79B', width: 1.65 };
   }
   if (node.confidence === 'medium') {
-    return { color: '#FFB800', width: 1.3 };
+    return { color: '#C4A777', width: 1.3 };
   }
   if (node.confidence === 'low') {
-    return { color: '#9AB3CB', width: 1.1 };
+    return { color: '#8E959E', width: 1.1 };
   }
-  return { color: '#FF5454', width: 1.3, dashed: true };
+  return { color: '#CC7B7B', width: 1.3, dashed: true };
 }
 
 function endpointId(endpoint: RenderNode | string | number | undefined): string | null {
@@ -311,7 +311,7 @@ export function GraphView({ nodes, edges, selectedNodeId, onSelectNode }: GraphV
         source: edge.from_node_id,
         target: edge.to_node_id,
         relationship: edge.relationship,
-        color: RELATION_COLORS[edge.relationship] ?? '#3F5876',
+        color: RELATION_COLORS[edge.relationship] ?? '#8D97A1',
         width: 0.72 * confidenceWeight,
         dashed,
       };
@@ -348,7 +348,7 @@ export function GraphView({ nodes, edges, selectedNodeId, onSelectNode }: GraphV
             width={size.width}
             height={size.height}
             graphData={graphData}
-            backgroundColor="#081726"
+            backgroundColor="#161b22"
             warmupTicks={24}
             cooldownTicks={92}
             cooldownTime={4200}
@@ -363,10 +363,10 @@ export function GraphView({ nodes, edges, selectedNodeId, onSelectNode }: GraphV
             linkDirectionalParticles={0}
             linkColor={(link) =>
               isHighlightedLink(link, selectedNodeIdRef.current)
-                ? (link.color ?? '#3F5876')
+                ? (link.color ?? '#8D97A1')
                 : selectedNodeIdRef.current
-                  ? 'rgba(96, 136, 186, 0.28)'
-                  : (link.color ?? '#3F5876')
+                  ? 'rgba(158, 165, 172, 0.24)'
+                  : (link.color ?? '#8D97A1')
             }
             linkWidth={(link) => {
               const highlighted = isHighlightedLink(link, selectedNodeIdRef.current);
@@ -452,7 +452,7 @@ export function GraphView({ nodes, edges, selectedNodeId, onSelectNode }: GraphV
               if (isSelected) {
                 ctx.beginPath();
                 ctx.arc(x, y, sizeScale + 5, 0, Math.PI * 2);
-                ctx.strokeStyle = '#E9FAFF';
+                ctx.strokeStyle = '#F2F4F5';
                 ctx.lineWidth = 1.2;
                 ctx.stroke();
               }
@@ -461,11 +461,11 @@ export function GraphView({ nodes, edges, selectedNodeId, onSelectNode }: GraphV
               ctx.globalAlpha = 1;
 
               if (isSelected) {
-                const fontSize = Math.max(7.2, 10 / globalScale);
-                ctx.font = `600 ${fontSize}px "Inter", "Avenir Next", "Segoe UI", sans-serif`;
+                const fontSize = Math.max(6.4, 8.6 / globalScale);
+                ctx.font = `600 ${fontSize}px "Manrope", "Avenir Next", "Segoe UI", sans-serif`;
                 ctx.textAlign = 'center';
                 ctx.textBaseline = 'bottom';
-                ctx.fillStyle = '#EAF9FF';
+                ctx.fillStyle = '#eef2f5';
                 ctx.fillText(node.label, x, y - sizeScale - 4);
               }
 

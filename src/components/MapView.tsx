@@ -12,17 +12,17 @@ interface MapViewProps {
 function classificationColor(classification?: string): string {
   switch (classification) {
     case 'CE1':
-      return '#33cfff';
+      return '#58c7b0';
     case 'CE2':
-      return '#4f8fff';
+      return '#76a8cd';
     case 'CE3':
-      return '#7d86ff';
+      return '#999ece';
     case 'CE4':
-      return '#2fd8ad';
+      return '#89c9a2';
     case 'CE5':
-      return '#ffb44a';
+      return '#cba17a';
     default:
-      return '#9fb6ce';
+      return '#a6b1bc';
   }
 }
 
@@ -127,7 +127,7 @@ export function MapView({ nodes, selectedNodeId, onSelectNode }: MapViewProps) {
                   center={[incident.lat, incident.lng]}
                   radius={markerRadius}
                   pathOptions={{
-                    color: selected ? '#EAF8FF' : '#05121F',
+                    color: selected ? '#f3f6f8' : '#161b21',
                     weight: selected ? 2.4 : 1.6,
                     fillColor: classificationColor(incident.classification),
                     fillOpacity: selected ? 0.95 : 0.78,
