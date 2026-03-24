@@ -5,16 +5,16 @@ NHI Archive is a public UFO/UAP intelligence platform MVP built from `docs/UFO_A
 It includes:
 
 - Graph view (progressive skeleton loading)
-- Map view (clustered geospatial incident markers)
-- Timeline view (chronological lane cards)
+- Map view (dark basemap + geospatial incident markers)
+- Timeline view (density bars + interactive rail)
 - Shared search/filter/detail workflow
 - Automated ingestion pipeline scaffold for graph growth
 
 ## Tech stack
 
 - Frontend: React + TypeScript + Vite
-- Graph rendering: Sigma.js + Graphology
-- Map rendering: MapLibre GL
+- Graph rendering: react-force-graph-2d
+- Map rendering: Leaflet + OpenStreetMap/CARTO
 - Pipeline validation: Zod
 - Hosting: GitHub Pages via Actions
 
@@ -45,6 +45,11 @@ To refresh with bulk internet data (Wikipedia category ingestion + pipeline merg
 ```bash
 npm run refresh:data
 ```
+
+This refresh now includes:
+
+- `ingest:wikipedia`: expanded UFO/UAP category crawl with tag-noise filtering and country centroid fallback for missing article coordinates
+- `ingest:global`: Scrubbed global sightings feed (Hugging Face mirror of NUFORC-derived records) with country-balanced selection
 
 Inputs:
 

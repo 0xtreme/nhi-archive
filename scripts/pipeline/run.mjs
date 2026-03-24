@@ -13,6 +13,7 @@ const PATHS = {
   baseline: path.join(ROOT, 'pipeline/input/baseline-entities.json'),
   rawRecords: path.join(ROOT, 'pipeline/input/raw-source-records.json'),
   rawRecordsWikipedia: path.join(ROOT, 'pipeline/input/raw-source-records-wikipedia.json'),
+  rawRecordsGlobal: path.join(ROOT, 'pipeline/input/raw-source-records-global.json'),
   outReport: path.join(ROOT, 'pipeline/out/ingestion-report.json'),
   outReviewQueue: path.join(ROOT, 'pipeline/out/review-queue.json'),
   outGraph: path.join(ROOT, 'public/data/graph.seed.json'),
@@ -152,12 +153,36 @@ function semanticSignature(node) {
   return [node.label, node.summary, node.date_start ?? '', node.location_name ?? ''].join(' ');
 }
 
+function recordYear(value) {
+  if (!value) {
+    return 'unknown';
+  }
+  const match = String(value).match(/\b(18|19|20)\d{2}\b/);
+  return match ? match[0] : 'unknown';
+}
+
+function bucketKey(node) {
+  return `${node.node_type}:${recordYear(node.date_start)}`;
+}
+
 function buildEdgeId(prefix, from, to, relationship) {
   return `${prefix}-${from}-${to}-${relationship}`.replace(/[^a-zA-Z0-9_-]/g, '_').slice(0, 180);
 }
 
 function ensureArrayUnique(values) {
   return Array.from(new Set(values));
+}
+
+function sanitizeSummary(record) {
+  const rawSummary = typeof record?.node?.summary === 'string' ? record.node.summary : '';
+  const compact = rawSummary.replace(/\s+/g, ' ').trim();
+  if (compact.length >= 10) {
+    return compact;
+  }
+
+  const label = typeof record?.node?.label === 'string' ? record.node.label : 'Incident';
+  const sourceId = typeof record?.source_id === 'string' ? record.source_id : 'unknown-source';
+  return `${label} record imported from ${sourceId}.`;
 }
 
 async function readJson(filePath) {
@@ -239,24 +264,48 @@ function sortEdges(edges) {
 }
 
 async function main() {
-  const [sourceRegistryRaw, baselineRaw, rawRecordsPayload, rawRecordsWikipediaPayload] = await Promise.all([
-    readJson(PATHS.registry),
-    readJson(PATHS.baseline),
-    readJson(PATHS.rawRecords),
-    readJsonIfExists(PATHS.rawRecordsWikipedia, { records: [] }),
-  ]);
+  const [sourceRegistryRaw, baselineRaw, rawRecordsPayload, rawRecordsWikipediaPayload, rawRecordsGlobalPayload] =
+    await Promise.all([
+      readJson(PATHS.registry),
+      readJson(PATHS.baseline),
+      readJson(PATHS.rawRecords),
+      readJsonIfExists(PATHS.rawRecordsWikipedia, { records: [] }),
+      readJsonIfExists(PATHS.rawRecordsGlobal, { records: [] }),
+    ]);
 
   const sources = z.array(sourceSchema).parse(sourceRegistryRaw).filter((source) => source.active);
   const sourceLookup = new Map(sources.map((source) => [source.source_id, source]));
 
   const baselineNodes = z.array(nodeSchema).parse(baselineRaw.nodes);
   const baselineEdges = z.array(edgeSchema).parse(baselineRaw.edges);
-  const records = z.array(recordSchema).parse([
+  const mergedRecords = [
     ...(rawRecordsPayload.records ?? []),
     ...(rawRecordsWikipediaPayload.records ?? []),
-  ]);
+    ...(rawRecordsGlobalPayload.records ?? []),
+  ].map((record) => {
+    if (!record || typeof record !== 'object' || !('node' in record) || !record.node) {
+      return record;
+    }
+
+    return {
+      ...record,
+      node: {
+        ...record.node,
+        summary: sanitizeSummary(record),
+      },
+    };
+  });
+
+  const records = z.array(recordSchema).parse(mergedRecords);
 
   const nodesById = new Map(baselineNodes.map((node) => [node.id, structuredClone(node)]));
+  const nodeBuckets = new Map();
+  for (const node of nodesById.values()) {
+    const key = bucketKey(node);
+    const entries = nodeBuckets.get(key) ?? [];
+    entries.push(node);
+    nodeBuckets.set(key, entries);
+  }
   const edges = [...baselineEdges.map((edge) => structuredClone(edge))];
 
   const processedUrlSet = new Set();
@@ -298,9 +347,11 @@ async function main() {
     }
     processedUrlSet.add(record.url);
 
-    const existingNodeList = Array.from(nodesById.values()).filter(
-      (node) => node.node_type === record.node.node_type,
-    );
+    const bucketEntries = nodeBuckets.get(bucketKey(record.node)) ?? [];
+    const existingNodeList =
+      bucketEntries.length > 0
+        ? bucketEntries
+        : Array.from(nodesById.values()).filter((node) => node.node_type === record.node.node_type);
 
     let bestMatch = null;
     let bestScore = 0;
@@ -366,11 +417,17 @@ async function main() {
     };
 
     nodesById.set(nodeToIngest.id, nodeToIngest);
+    {
+      const key = bucketKey(nodeToIngest);
+      const entries = nodeBuckets.get(key) ?? [];
+      entries.push(nodeToIngest);
+      nodeBuckets.set(key, entries);
+    }
     report.records_auto_ingested += 1;
 
     for (const location of record.mentions.locations) {
       if (!nodesById.has(location.id)) {
-        nodesById.set(location.id, {
+        const locationNode = {
           id: location.id,
           node_type: 'location',
           label: location.label,
@@ -382,7 +439,17 @@ async function main() {
           lat: location.lat,
           lng: location.lng,
           location_name: location.location_name,
-        });
+        };
+        nodesById.set(location.id, locationNode);
+        {
+          const key = bucketKey({
+            node_type: 'location',
+            date_start: nodeToIngest.date_start,
+          });
+          const entries = nodeBuckets.get(key) ?? [];
+          entries.push(locationNode);
+          nodeBuckets.set(key, entries);
+        }
         report.location_nodes_created += 1;
       }
 

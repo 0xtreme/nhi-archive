@@ -6,13 +6,15 @@
   "scripts": {
     "dev": "vite",
     "ingest:wikipedia": "node scripts/pipeline/fetch-wikipedia-ufo-data.mjs",
+    "ingest:global": "node scripts/pipeline/fetch-global-ufo-data.mjs",
     "ingest": "node scripts/pipeline/run.mjs",
-    "refresh:data": "npm run ingest:wikipedia && npm run ingest",
+    "refresh:data": "npm run ingest:wikipedia && npm run ingest:global && npm run ingest",
     "build": "npm run ingest && tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview"
   },
   "dependencies": {
+    "csv-parse": "^6.2.1",
     "leaflet": "^1.9.4",
     "react": "^19.2.4",
     "react-dom": "^19.2.4",

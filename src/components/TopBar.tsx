@@ -39,7 +39,7 @@ export function TopBar({
   return (
     <header className="topbar">
       <div className="brand">
-        <p className="eyebrow">UFO Archive</p>
+        <p className="eyebrow">NHI Archive</p>
         <h1>Knowledge Graph Intelligence Platform</h1>
         <p className="subtitle">{subtitle}</p>
       </div>

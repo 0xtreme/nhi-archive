@@ -99,16 +99,19 @@ export function MapView({ nodes, selectedNodeId, onSelectNode }: MapViewProps) {
 
             {incidents.map((incident) => {
               const selected = selectedNodeId === incident.id;
+              const markerRadius = selected
+                ? 9.5
+                : Math.min(8, Math.max(5.6, Math.log2((incident.witness_count ?? 1) + 2)));
               return (
                 <CircleMarker
                   key={incident.id}
                   center={[incident.lat, incident.lng]}
-                  radius={selected ? 9 : 5.5}
+                  radius={markerRadius}
                   pathOptions={{
-                    color: selected ? '#EAF8FF' : '#0D1B2A',
-                    weight: selected ? 2 : 1.4,
+                    color: selected ? '#EAF8FF' : '#05121F',
+                    weight: selected ? 2.4 : 1.6,
                     fillColor: classificationColor(incident.classification),
-                    fillOpacity: selected ? 0.96 : 0.82,
+                    fillOpacity: selected ? 0.95 : 0.78,
                   }}
                   eventHandlers={{
                     click: () => {
@@ -130,6 +133,10 @@ export function MapView({ nodes, selectedNodeId, onSelectNode }: MapViewProps) {
                       <div className="map-popup">
                         <strong>{incident.label}</strong>
                         <p>{incident.location_name ?? 'Unknown location'}</p>
+                        <small>
+                          {incident.date_start ?? 'Unknown date'} •{' '}
+                          {incident.classification ?? 'Unclassified'}
+                        </small>
                       </div>
                     </Popup>
                   )}

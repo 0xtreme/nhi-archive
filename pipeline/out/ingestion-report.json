@@ -1,23 +1,24 @@
 {
-  "generated_at": "2026-03-24T06:07:28.518Z",
-  "sources_considered": 9,
-  "records_received": 466,
-  "records_processed": 466,
-  "records_auto_ingested": 459,
+  "generated_at": "2026-03-24T07:09:56.750Z",
+  "sources_considered": 10,
+  "records_received": 3658,
+  "records_processed": 3658,
+  "records_auto_ingested": 3651,
   "records_review_queue": 3,
   "records_skipped_url_duplicate": 4,
   "records_skipped_semantic_duplicate": 0,
-  "corroboration_edges_created": 21,
+  "corroboration_edges_created": 23,
   "location_nodes_created": 3,
-  "relationship_edges_created": 41,
+  "relationship_edges_created": 3006,
   "source_breakdown": {
     "nuforc": 2,
     "national-archives-foia": 2,
     "black-vault": 1,
-    "wikipedia-uap": 455,
+    "wikipedia-uap": 684,
     "uk-national-archives": 1,
     "aaro": 3,
     "reddit-ufos": 1,
-    "mufon": 1
+    "mufon": 1,
+    "global-ufo-scrubbed": 2963
   }
 }

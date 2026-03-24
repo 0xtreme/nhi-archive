@@ -131,6 +131,25 @@ export function FilterPanel({
           </div>
         </section>
       )}
+
+      <section className="glossary">
+        <h3>Legend / Glossary</h3>
+        <p>
+          <strong>CE1:</strong> distant visual encounter
+        </p>
+        <p>
+          <strong>CE2:</strong> physical effects near sighting
+        </p>
+        <p>
+          <strong>CE3:</strong> reported occupant entity encounter
+        </p>
+        <p>
+          <strong>NL:</strong> nocturnal light report
+        </p>
+        <p>
+          <strong>Tag cleanup:</strong> birth/death/year taxonomy tags are now suppressed from bulk imports.
+        </p>
+      </section>
     </aside>
   );
 }

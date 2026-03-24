@@ -12,15 +12,44 @@ const API_URL = 'https://en.wikipedia.org/w/api.php';
 
 const START_CATEGORIES = [
   'Category:UFO_sightings',
+  'Category:UFO_sightings_by_country',
   'Category:Ufology',
   'Category:Alleged_alien_abduction_incidents',
   'Category:Lists_of_UFO_incidents',
+  'Category:UFO_sightings_in_Australia',
+  'Category:UFO_sightings_in_Brazil',
+  'Category:UFO_sightings_in_Russia',
+  'Category:UFO_sightings_in_Mexico',
+  'Category:UFO_sightings_in_the_United_Kingdom',
 ];
 
-const MAX_CATEGORY_DEPTH = 2;
-const MAX_PAGES = 450;
+const MAX_CATEGORY_DEPTH = 3;
+const MAX_PAGES = 700;
 const PAGE_BATCH_SIZE = 20;
 const REQUEST_DELAY_MS = 120;
+
+const COUNTRY_HINTS = [
+  { code: 'US', label: 'United States', lat: 39.8283, lng: -98.5795, pattern: /\b(united states|u\.s\.|usa|american)\b/ },
+  { code: 'CA', label: 'Canada', lat: 56.1304, lng: -106.3468, pattern: /\bcanada\b/ },
+  { code: 'GB', label: 'United Kingdom', lat: 55.3781, lng: -3.436, pattern: /\b(united kingdom|uk|england|scotland|wales)\b/ },
+  { code: 'AU', label: 'Australia', lat: -25.2744, lng: 133.7751, pattern: /\baustralia\b/ },
+  { code: 'NZ', label: 'New Zealand', lat: -40.9006, lng: 174.886, pattern: /\bnew zealand\b/ },
+  { code: 'BR', label: 'Brazil', lat: -14.235, lng: -51.9253, pattern: /\bbrazil\b/ },
+  { code: 'AR', label: 'Argentina', lat: -38.4161, lng: -63.6167, pattern: /\bargentina\b/ },
+  { code: 'CL', label: 'Chile', lat: -35.6751, lng: -71.543, pattern: /\bchile\b/ },
+  { code: 'PE', label: 'Peru', lat: -9.19, lng: -75.0152, pattern: /\bperu\b/ },
+  { code: 'UY', label: 'Uruguay', lat: -32.5228, lng: -55.7658, pattern: /\buruguay\b/ },
+  { code: 'MX', label: 'Mexico', lat: 23.6345, lng: -102.5528, pattern: /\bmexico\b/ },
+  { code: 'RU', label: 'Russia', lat: 61.524, lng: 105.3188, pattern: /\b(russia|soviet|ussr)\b/ },
+  { code: 'FI', label: 'Finland', lat: 61.9241, lng: 25.7482, pattern: /\bfinland\b/ },
+  { code: 'BE', label: 'Belgium', lat: 50.5039, lng: 4.4699, pattern: /\bbelgium\b/ },
+  { code: 'IR', label: 'Iran', lat: 32.4279, lng: 53.688, pattern: /\biran\b/ },
+  { code: 'ZW', label: 'Zimbabwe', lat: -19.0154, lng: 29.1549, pattern: /\bzimbabwe\b/ },
+  { code: 'IT', label: 'Italy', lat: 41.8719, lng: 12.5674, pattern: /\bitaly\b/ },
+  { code: 'DE', label: 'Germany', lat: 51.1657, lng: 10.4515, pattern: /\bgermany\b/ },
+  { code: 'FR', label: 'France', lat: 46.2276, lng: 2.2137, pattern: /\bfrance\b/ },
+  { code: 'ZA', label: 'South Africa', lat: -30.5595, lng: 22.9375, pattern: /\bsouth africa\b/ },
+];
 
 function sleep(ms) {
   return new Promise((resolve) => {
@@ -59,39 +88,76 @@ function categoryTag(rawCategory) {
   return rawCategory.replace(/^Category:/, '').replace(/_/g, ' ').toLowerCase();
 }
 
+function isNoisyCategory(rawCategory) {
+  const normalized = categoryTag(rawCategory);
+  const patterns = [
+    /^\d{3,4} births$/,
+    /^\d{3,4} deaths$/,
+    /^\d{3,4} in .+/,
+    /^living people$/,
+    /articles/,
+    /wikipedia/,
+    /all pages/,
+    /cs1/,
+    /short description/,
+    /use dmy dates/,
+    /use mdy dates/,
+    /coordinates on wikidata/,
+    /pages using/,
+    /template/,
+    /commons category link/,
+    /use [a-z ]+ english/,
+    /written from/,
+    /engvarb/,
+    /harv and sfn/,
+  ];
+
+  return patterns.some((pattern) => pattern.test(normalized));
+}
+
 function guessNodeType(title, summary, categoryNames) {
   const haystack = `${title} ${summary} ${categoryNames.join(' ')}`.toLowerCase();
+  const incidentSignal =
+    /\b(sighting|incident|encounter|abduction|ufo|uap|phenomenon|case)\b/.test(haystack) ||
+    /\b(flap|wave)\b/.test(haystack);
 
-  if (
-    haystack.includes('project ') ||
-    haystack.includes('office') ||
-    haystack.includes('committee') ||
-    haystack.includes('organization') ||
-    haystack.includes('network')
-  ) {
+  if (/\b(project|office|committee|organization|network)\b/.test(haystack)) {
     return 'organization';
   }
 
-  if (
-    haystack.includes('hearing') ||
-    haystack.includes('wave') ||
-    haystack.includes('flap') ||
-    haystack.includes('event') ||
-    haystack.includes('list of')
-  ) {
+  if (/\b(hearing|event)\b/.test(haystack) || haystack.includes('list of')) {
     return 'event';
   }
 
   if (
-    haystack.includes('testimony') ||
-    haystack.includes('report') ||
-    haystack.includes('assessment') ||
-    haystack.includes('press release')
+    /\b(testimony|assessment|press release|statement|memo|declaration)\b/.test(haystack) ||
+    (/\breport\b/.test(haystack) && !incidentSignal)
   ) {
     return 'statement';
   }
 
   return 'incident';
+}
+
+function inferCountryFromText(text) {
+  if (!text) {
+    return null;
+  }
+
+  const normalized = String(text).toLowerCase();
+  for (const country of COUNTRY_HINTS) {
+    if (country.pattern.test(normalized)) {
+      return country;
+    }
+  }
+
+  return null;
+}
+
+function deterministicJitter(seed, scale) {
+  const numeric = Number.parseInt(String(seed), 10) || 0;
+  const sine = Math.sin(numeric * 12.9898) * 43758.5453;
+  return (sine - Math.floor(sine) - 0.5) * scale;
 }
 
 function inferMentions(summary) {
@@ -247,13 +313,18 @@ function toRecord(page) {
   const title = page.title;
   const summary = trimSummary(page.extract ?? '');
   const categories = (page.categories ?? []).map((entry) => entry.title);
+  const cleanCategoryTags = categories
+    .filter((entry) => !isNoisyCategory(entry))
+    .map((entry) => categoryTag(entry))
+    .slice(0, 10);
+  const locationSignal = `${title} ${summary} ${cleanCategoryTags.join(' ')}`;
+  const inferredCountry = inferCountryFromText(locationSignal);
   const tags = Array.from(
-    new Set(
-      [
-        'wikipedia',
-        ...categories.slice(0, 8).map((entry) => categoryTag(entry)),
-      ].filter(Boolean),
-    ),
+    new Set([
+      'wikipedia',
+      ...cleanCategoryTags,
+      ...(inferredCountry ? [`country:${inferredCountry.code.toLowerCase()}`] : []),
+    ]),
   );
 
   const nodeType = guessNodeType(title, summary, categories);
@@ -263,7 +334,9 @@ function toRecord(page) {
   const mentions = inferMentions(summary);
 
   const coordinates = Array.isArray(page.coordinates) ? page.coordinates[0] : null;
-  const hasCoordinates = Boolean(coordinates?.lat && coordinates?.lon);
+  const hasCoordinates =
+    typeof coordinates?.lat === 'number' && Number.isFinite(coordinates.lat) &&
+    typeof coordinates?.lon === 'number' && Number.isFinite(coordinates.lon);
 
   const nodeId = `${nodeType}-${slugify(title)}-${page.pageid}`;
   const baseNode = {
@@ -284,11 +357,24 @@ function toRecord(page) {
     baseNode.case_status = 'unexplained';
   }
 
-  if (nodeType === 'incident' && hasCoordinates) {
-    baseNode.lat = coordinates.lat;
-    baseNode.lng = coordinates.lon;
-    baseNode.location_name = title;
+  if (nodeType === 'incident') {
+    if (hasCoordinates) {
+      baseNode.lat = coordinates.lat;
+      baseNode.lng = coordinates.lon;
+      baseNode.location_name = title;
+    } else if (inferredCountry) {
+      // Country-centroid fallback keeps global incidents visible on map when article-level coordinates are absent.
+      baseNode.lat = Number((inferredCountry.lat + deterministicJitter(page.pageid, 1.1)).toFixed(5));
+      baseNode.lng = Number((inferredCountry.lng + deterministicJitter(page.pageid + 47, 1.6)).toFixed(5));
+      baseNode.location_name = inferredCountry.label;
+      baseNode.tags = Array.from(new Set([...(baseNode.tags ?? []), 'country-centroid-estimate']));
+    }
   }
+
+  const geocoded =
+    nodeType === 'incident' &&
+    typeof baseNode.lat === 'number' &&
+    typeof baseNode.lng === 'number';
 
   return {
     record_id: `wiki-${page.pageid}`,
@@ -296,7 +382,7 @@ function toRecord(page) {
     url: sourceUrl,
     extraction_confidence: 'medium',
     date_resolved: Boolean(year),
-    geocoded: Boolean(hasCoordinates),
+    geocoded,
     node: baseNode,
     mentions,
   };

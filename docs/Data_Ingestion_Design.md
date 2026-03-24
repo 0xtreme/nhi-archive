@@ -59,6 +59,7 @@ The repo now includes a working MVP pipeline in `scripts/pipeline/run.mjs` with 
 
 ```bash
 npm run ingest:wikipedia
+npm run ingest:global
 npm run ingest
 npm run build
 ```

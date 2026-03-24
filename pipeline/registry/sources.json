@@ -81,6 +81,17 @@
     "active": true
   },
   {
+    "source_id": "global-ufo-scrubbed",
+    "name": "Scrubbed Global UFO Sightings",
+    "url": "https://huggingface.co/datasets/ferinsharaf19/Ufo_data_clustered/resolve/main/source/scrubbed.csv",
+    "source_type": "structured_db",
+    "trust_level": "secondary",
+    "crawl_frequency": "monthly",
+    "extraction_method": "structured_scrape",
+    "auto_ingest_min_score": 0.5,
+    "active": true
+  },
+  {
     "source_id": "reddit-ufos",
     "name": "Reddit r/UFOs",
     "url": "https://www.reddit.com/r/UFOs/",

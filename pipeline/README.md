@@ -22,6 +22,7 @@ Bulk internet enrichment (Wikipedia categories + subcategories):
 
 ```bash
 npm run ingest:wikipedia
+npm run ingest:global
 npm run ingest
 ```
 

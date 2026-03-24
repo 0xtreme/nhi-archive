@@ -1,5 +1,5 @@
-import { useMemo } from 'react';
-import { getYear } from '../lib/archive';
+import { type CSSProperties, useMemo } from 'react';
+import { getYear, NODE_COLORS } from '../lib/archive';
 import type { ArchiveNode } from '../types';
 
 interface TimelineViewProps {
@@ -8,66 +8,159 @@ interface TimelineViewProps {
   onSelectNode: (nodeId: string) => void;
 }
 
-interface TimelineGroup {
+interface MarkerRecord {
+  id: string;
+  label: string;
+  node_type: ArchiveNode['node_type'];
+  date_start: string | undefined;
   year: number;
-  records: ArchiveNode[];
+}
+
+function clamp(value: number, min: number, max: number): number {
+  return Math.min(max, Math.max(min, value));
 }
 
 export function TimelineView({ nodes, selectedNodeId, onSelectNode }: TimelineViewProps) {
-  const groups = useMemo<TimelineGroup[]>(() => {
-    const map = new Map<number, ArchiveNode[]>();
+  const timeline = useMemo(() => {
+    const sorted = nodes
+      .map((node) => ({
+        id: node.id,
+        label: node.label,
+        node_type: node.node_type,
+        date_start: node.date_start,
+        year: getYear(node.date_start),
+      }))
+      .filter((node): node is MarkerRecord => node.year !== null)
+      .sort((left, right) => {
+        if (left.year !== right.year) {
+          return left.year - right.year;
+        }
+        return (left.date_start ?? '').localeCompare(right.date_start ?? '');
+      });
 
-    for (const node of nodes) {
-      const year = getYear(node.date_start);
-      if (year === null) {
-        continue;
-      }
-
-      const existing = map.get(year) ?? [];
-      existing.push(node);
-      map.set(year, existing);
+    if (sorted.length === 0) {
+      return {
+        minYear: 1900,
+        maxYear: new Date().getFullYear(),
+        markers: [] as MarkerRecord[],
+        density: [] as Array<{ decade: number; count: number }>,
+        focusList: [] as MarkerRecord[],
+      };
     }
 
-    return Array.from(map.entries())
+    const minYear = sorted[0].year;
+    const maxYear = sorted[sorted.length - 1].year;
+    const markerBudgetPerYear = 4;
+
+    const byYear = new Map<number, MarkerRecord[]>();
+    for (const row of sorted) {
+      const entries = byYear.get(row.year) ?? [];
+      if (entries.length < markerBudgetPerYear) {
+        entries.push(row);
+      }
+      byYear.set(row.year, entries);
+    }
+
+    const markers = Array.from(byYear.values()).flat();
+    const decadeMap = new Map<number, number>();
+    for (const row of sorted) {
+      const decade = Math.floor(row.year / 10) * 10;
+      decadeMap.set(decade, (decadeMap.get(decade) ?? 0) + 1);
+    }
+
+    const density = Array.from(decadeMap.entries())
       .sort(([a], [b]) => a - b)
-      .map(([year, records]) => ({
-        year,
-        records: records.sort((left, right) => {
-          const leftDate = left.date_start ?? '';
-          const rightDate = right.date_start ?? '';
-          return leftDate.localeCompare(rightDate);
-        }),
-      }));
+      .map(([decade, count]) => ({ decade, count }));
+
+    const focusList = sorted.slice(Math.max(0, sorted.length - 180));
+
+    return {
+      minYear,
+      maxYear,
+      markers,
+      density,
+      focusList,
+    };
   }, [nodes]);
+
+  const maxDensity = useMemo(() => {
+    if (timeline.density.length === 0) {
+      return 1;
+    }
+    return Math.max(...timeline.density.map((entry) => entry.count));
+  }, [timeline.density]);
 
   return (
     <section className="view timeline-view">
       <div className="view-header">
         <h2>Timeline View</h2>
-        <p>Chronological swimlane by node type. Click a card for full detail.</p>
+        <p>
+          Density graph + interactive rail. Click any marker to inspect details and keep filters in
+          sync.
+        </p>
       </div>
 
-      <div className="timeline-scroll" role="list" aria-label="Timeline records">
-        {groups.map((group) => (
-          <div key={group.year} className="timeline-group">
-            <div className="timeline-year">{group.year}</div>
-            <div className="timeline-records">
-              {group.records.map((record) => (
+      <div className="timeline-scroll visual">
+        <div className="timeline-density">
+          {timeline.density.map((entry) => (
+            <div key={entry.decade} className="timeline-density-bar-wrap">
+              <div
+                className="timeline-density-bar"
+                style={{
+                  height: `${clamp((entry.count / maxDensity) * 100, 8, 100)}%`,
+                }}
+                title={`${entry.decade}s • ${entry.count} records`}
+              />
+              <small>{entry.decade}</small>
+            </div>
+          ))}
+        </div>
+
+        <div className="timeline-rail-wrap">
+          <div className="timeline-rail-labels">
+            <span>{timeline.minYear}</span>
+            <span>{timeline.maxYear}</span>
+          </div>
+
+          <div className="timeline-rail">
+            {timeline.markers.map((record) => {
+              const range = Math.max(1, timeline.maxYear - timeline.minYear);
+              const pct = ((record.year - timeline.minYear) / range) * 100;
+              const selected = selectedNodeId === record.id;
+
+              return (
                 <button
                   key={record.id}
-                  className={selectedNodeId === record.id ? 'timeline-card active' : 'timeline-card'}
+                  className={`timeline-marker ${selected ? 'active' : ''}`}
+                  style={{
+                    left: `${pct}%`,
+                    '--marker-color': NODE_COLORS[record.node_type],
+                  } as CSSProperties}
+                  title={`${record.label} (${record.date_start ?? record.year})`}
                   onClick={() => onSelectNode(record.id)}
-                >
-                  <span className="timeline-card-type">{record.node_type}</span>
-                  <strong>{record.label}</strong>
-                  <small>{record.date_start ?? 'unknown date'}</small>
-                </button>
-              ))}
-            </div>
+                />
+              );
+            })}
           </div>
-        ))}
+        </div>
 
-        {groups.length === 0 && <p className="timeline-empty">No records in this date range.</p>}
+        <div className="timeline-focus-list">
+          {timeline.focusList.map((record) => (
+            <button
+              key={record.id}
+              className={selectedNodeId === record.id ? 'timeline-card active' : 'timeline-card'}
+              onClick={() => onSelectNode(record.id)}
+            >
+              <span className="timeline-card-type">{record.node_type}</span>
+              <strong>{record.label}</strong>
+              <small>{record.date_start ?? `${record.year}`}</small>
+            </button>
+          ))}
+
+          {timeline.focusList.length === 0 && (
+            <p className="timeline-empty">No records in this date range.</p>
+          )}
+        </div>
       </div>
     </section>
   );
