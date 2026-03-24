@@ -10,6 +10,8 @@ interface TopBarProps {
   onSuggestionSelect: (node: ArchiveNode) => void;
   activeFilterCount: number;
   loadedCounter: string;
+  isLoading: boolean;
+  loadingProgress: number;
 }
 
 const VIEW_OPTIONS: Array<{ id: ViewMode; label: string }> = [
@@ -27,6 +29,8 @@ export function TopBar({
   onSuggestionSelect,
   activeFilterCount,
   loadedCounter,
+  isLoading,
+  loadingProgress,
 }: TopBarProps) {
   const subtitle = useMemo(() => {
     if (activeFilterCount === 0) {
@@ -40,9 +44,21 @@ export function TopBar({
     <header className="topbar">
       <div className="brand">
         <p className="eyebrow">NHI Archive</p>
-        <h1>Knowledge Graph Intelligence Platform</h1>
+        <h1>NHI Incident Explorer</h1>
         <p className="subtitle">{subtitle}</p>
       </div>
+
+      {isLoading && (
+        <div className="loading-progress" role="status" aria-live="polite">
+          <div className="loading-progress-track">
+            <div
+              className="loading-progress-fill"
+              style={{ width: `${Math.max(0, Math.min(100, loadingProgress))}%` }}
+            />
+          </div>
+          <small>Loading archive data... {Math.max(0, Math.min(100, loadingProgress))}%</small>
+        </div>
+      )}
 
       <div className="toolbar">
         <div className="view-toggle" role="tablist" aria-label="View mode">
@@ -83,6 +99,11 @@ export function TopBar({
             </div>
           )}
         </div>
+      </div>
+
+      <div className="quick-guide" aria-label="Usage guide">
+        <span>How to use:</span>
+        <p>Graph: click a node to focus. Map: click a dot for details. Timeline: adjust year window and select events.</p>
       </div>
     </header>
   );

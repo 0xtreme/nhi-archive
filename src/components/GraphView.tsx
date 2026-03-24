@@ -213,6 +213,37 @@ export function GraphView({ nodes, edges, selectedNodeId, onSelectNode }: GraphV
     };
   }, []);
 
+  useEffect(() => {
+    if (!graphRef.current) {
+      return;
+    }
+
+    const linkForce = graphRef.current.d3Force('link') as
+      | {
+          distance?: (distance: number) => void;
+          strength?: (value: number) => void;
+        }
+      | undefined;
+    linkForce?.distance?.(30);
+    linkForce?.strength?.(0.3);
+
+    const chargeForce = graphRef.current.d3Force('charge') as
+      | {
+          strength?: (value: number) => void;
+        }
+      | undefined;
+    chargeForce?.strength?.(-52);
+
+    const centerForce = graphRef.current.d3Force('center') as
+      | {
+          strength?: (value: number) => void;
+        }
+      | undefined;
+    centerForce?.strength?.(0.32);
+
+    graphRef.current.d3ReheatSimulation();
+  }, [edges.length, nodes.length]);
+
   const neighborSet = useMemo(() => {
     if (!selectedNodeId) {
       return new Set<string>();
@@ -296,7 +327,7 @@ export function GraphView({ nodes, edges, selectedNodeId, onSelectNode }: GraphV
     <section className="view graph-view">
       <div className="view-header">
         <h2>Graph View</h2>
-        <p>Force graph with typed geometry, confidence rings, curved semantic edges, and smooth camera focus.</p>
+        <p>Click any node to focus and inspect details. Labels stay hidden until selection for a cleaner canvas.</p>
       </div>
 
       <div className="graph-canvas modern" ref={containerRef}>
@@ -393,7 +424,7 @@ export function GraphView({ nodes, edges, selectedNodeId, onSelectNode }: GraphV
               ctx.shadowBlur = 0;
               ctx.globalAlpha = 1;
 
-              if (globalScale > 1.85 || node.isSelected) {
+              if (node.isSelected) {
                 const fontSize = Math.max(8.6, 13 / globalScale);
                 ctx.font = `600 ${fontSize}px "Space Mono"`;
                 ctx.textAlign = 'center';

@@ -1,4 +1,5 @@
 import { useMemo } from 'react';
+import { decodeHtmlEntities } from '../lib/archive';
 import type { ArchiveEdge, ArchiveNode } from '../types';
 
 interface DetailPanelProps {
@@ -83,7 +84,7 @@ export function DetailPanel({ node, edges, nodeLookup, onSelectNode }: DetailPan
         )}
       </div>
 
-      <p className="detail-summary">{node.summary}</p>
+      <p className="detail-summary">{decodeHtmlEntities(node.summary)}</p>
 
       {node.tags.length > 0 && (
         <div className="detail-tags">

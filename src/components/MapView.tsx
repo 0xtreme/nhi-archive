@@ -1,4 +1,4 @@
-import { useEffect, useMemo } from 'react';
+import { type CSSProperties, useEffect, useMemo } from 'react';
 import { latLngBounds, type LatLngExpression } from 'leaflet';
 import { CircleMarker, MapContainer, Popup, TileLayer, Tooltip, useMap } from 'react-leaflet';
 import type { ArchiveNode } from '../types';
@@ -12,19 +12,21 @@ interface MapViewProps {
 function classificationColor(classification?: string): string {
   switch (classification) {
     case 'CE1':
-      return '#59C3FF';
+      return '#f4f7fb';
     case 'CE2':
-      return '#9C66FF';
+      return '#d5deea';
     case 'CE3':
-      return '#D854EF';
+      return '#b1bfce';
     case 'CE4':
-      return '#FF5EAD';
+      return '#8c9cae';
     case 'CE5':
-      return '#FFC857';
+      return '#68798c';
     default:
-      return '#D8EBFF';
+      return '#e2eaf3';
   }
 }
+
+const MAP_LEGEND_ITEMS = ['CE1', 'CE2', 'CE3', 'CE4', 'CE5', 'NL'] as const;
 
 function FitBounds({
   points,
@@ -88,10 +90,17 @@ export function MapView({ nodes, selectedNodeId, onSelectNode }: MapViewProps) {
             minZoom={2}
             maxZoom={12}
             zoomControl
+            worldCopyJump={false}
+            maxBounds={[
+              [-85, -180],
+              [85, 180],
+            ]}
+            maxBoundsViscosity={1}
             style={{ height: '100%', width: '100%' }}
           >
             <TileLayer
               url="https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png"
+              noWrap
               attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>'
             />
 
@@ -144,6 +153,22 @@ export function MapView({ nodes, selectedNodeId, onSelectNode }: MapViewProps) {
               );
             })}
           </MapContainer>
+
+          <div className="map-legend" aria-label="Map marker legend">
+            <h4>Marker Legend</h4>
+            <div className="map-legend-grid">
+              {MAP_LEGEND_ITEMS.map((classification) => (
+                <div key={classification} className="map-legend-item">
+                  <span
+                    className="map-legend-dot"
+                    style={{ '--dot-color': classificationColor(classification) } as CSSProperties}
+                  />
+                  <span>{classification}</span>
+                </div>
+              ))}
+            </div>
+            <small>Dot size reflects witness count where available.</small>
+          </div>
         </div>
       )}
     </section>

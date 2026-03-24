@@ -1,4 +1,11 @@
-import type { ArchiveEdge, ArchiveNode, Confidence, FilterState, NodeType } from '../types';
+import type {
+  ArchiveEdge,
+  ArchiveGraph,
+  ArchiveNode,
+  Confidence,
+  FilterState,
+  NodeType,
+} from '../types';
 
 export const NODE_TYPE_ORDER: NodeType[] = [
   'incident',
@@ -57,6 +64,68 @@ export function getYear(dateValue?: string | null): number | null {
 
 export function summarizeLoadedNodes(total: number, loaded: number): string {
   return `${loaded.toLocaleString()} of ${total.toLocaleString()} nodes loaded`;
+}
+
+function decodeHtmlEntity(match: string, entity: string): string {
+  const namedEntities: Record<string, string> = {
+    amp: '&',
+    lt: '<',
+    gt: '>',
+    quot: '"',
+    apos: "'",
+    nbsp: ' ',
+  };
+
+  if (entity.startsWith('#x') || entity.startsWith('#X')) {
+    const value = Number.parseInt(entity.slice(2), 16);
+    return Number.isFinite(value) && value >= 0 && value <= 0x10ffff
+      ? String.fromCodePoint(value)
+      : match;
+  }
+
+  if (entity.startsWith('#')) {
+    const value = Number.parseInt(entity.slice(1), 10);
+    return Number.isFinite(value) && value >= 0 && value <= 0x10ffff
+      ? String.fromCodePoint(value)
+      : match;
+  }
+
+  return namedEntities[entity.toLowerCase()] ?? match;
+}
+
+export function decodeHtmlEntities(input: string): string {
+  let output = input;
+
+  for (let index = 0; index < 3; index += 1) {
+    const next = output.replace(/&([a-zA-Z]+|#[0-9]+|#x[0-9a-fA-F]+);?/g, decodeHtmlEntity);
+    if (next === output) {
+      break;
+    }
+    output = next;
+  }
+
+  return output;
+}
+
+function normalizeText(input?: string): string | undefined {
+  if (typeof input !== 'string') {
+    return input;
+  }
+
+  return decodeHtmlEntities(input).replace(/\s+/g, ' ').trim();
+}
+
+export function normalizeGraphData(graph: ArchiveGraph): ArchiveGraph {
+  return {
+    ...graph,
+    nodes: graph.nodes.map((node) => ({
+      ...node,
+      label: normalizeText(node.label) ?? node.label,
+      summary: normalizeText(node.summary) ?? node.summary,
+      location_name: normalizeText(node.location_name),
+      tags: node.tags.map((tag) => normalizeText(tag) ?? tag),
+    })),
+  };
 }
 
 export function buildDefaultFilters(nodes: ArchiveNode[]): FilterState {

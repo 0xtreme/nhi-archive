@@ -54,6 +54,47 @@ function toInt(value) {
   return Number.isFinite(numeric) ? numeric : null;
 }
 
+function decodeHtmlEntity(match, entity) {
+  const namedEntities = {
+    amp: '&',
+    lt: '<',
+    gt: '>',
+    quot: '"',
+    apos: "'",
+    nbsp: ' ',
+  };
+
+  if (entity.startsWith('#x') || entity.startsWith('#X')) {
+    const value = Number.parseInt(entity.slice(2), 16);
+    return Number.isFinite(value) && value >= 0 && value <= 0x10ffff
+      ? String.fromCodePoint(value)
+      : match;
+  }
+
+  if (entity.startsWith('#')) {
+    const value = Number.parseInt(entity.slice(1), 10);
+    return Number.isFinite(value) && value >= 0 && value <= 0x10ffff
+      ? String.fromCodePoint(value)
+      : match;
+  }
+
+  return namedEntities[entity.toLowerCase()] ?? match;
+}
+
+function decodeHtmlEntities(input) {
+  let output = String(input ?? '');
+
+  for (let index = 0; index < 3; index += 1) {
+    const next = output.replace(/&([a-zA-Z]+|#[0-9]+|#x[0-9a-fA-F]+);?/g, decodeHtmlEntity);
+    if (next === output) {
+      break;
+    }
+    output = next;
+  }
+
+  return output;
+}
+
 function parseDateParts(value) {
   const cleaned = trimText(value);
   const match = cleaned.match(/^(\d{1,2})\/(\d{1,2})\/(\d{2,4})/);
@@ -93,9 +134,7 @@ function normalizeCountry(value, city = '') {
 }
 
 function sanitizeDescription(value, context) {
-  const cleaned = trimText(value)
-    .replaceAll('&#44;', ',')
-    .replaceAll('&#39;', "'");
+  const cleaned = trimText(decodeHtmlEntities(value));
   if (!cleaned) {
     return `Global ${context.shape} sighting reported near ${context.city}, ${context.country} (${context.year}).`;
   }
@@ -162,10 +201,10 @@ function toRecords(rows) {
   const records = [];
 
   rows.forEach((row, index) => {
-    const city = trimText(row.city ?? row['Location.City']);
-    const state = trimText(row.state ?? row['Location.State']);
-    const country = normalizeCountry(row.country ?? row['Location.Country'], city);
-    const shape = normalizeShape(row.shape ?? row['Data.Shape']);
+    const city = trimText(decodeHtmlEntities(row.city ?? row['Location.City']));
+    const state = trimText(decodeHtmlEntities(row.state ?? row['Location.State']));
+    const country = normalizeCountry(decodeHtmlEntities(row.country ?? row['Location.Country']), city);
+    const shape = normalizeShape(decodeHtmlEntities(row.shape ?? row['Data.Shape']));
 
     const fromDatetime = parseDateParts(row.datetime);
     const year = fromDatetime.year ?? toInt(row['Dates.Sighted.Year']);

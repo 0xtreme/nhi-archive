@@ -10,12 +10,14 @@ import {
   buildDefaultFilters,
   filterGraph,
   getYear,
+  normalizeGraphData,
   NODE_TYPE_ORDER,
   summarizeLoadedNodes,
 } from './lib/archive';
 import type { ArchiveGraph, ArchiveNode, Confidence, FilterState, NodeType, ViewMode } from './types';
 
 const GRAPH_SKELETON_SIZE = 350;
+const normalizedFallbackGraph = normalizeGraphData(fallbackGraph);
 
 function toggle<T>(values: T[], value: T, allValues: T[]): T[] {
   if (values.includes(value)) {
@@ -41,35 +43,96 @@ function textMatch(node: ArchiveNode, query: string): boolean {
 }
 
 export default function App() {
-  const [graphData, setGraphData] = useState<ArchiveGraph>(fallbackGraph);
+  const [graphData, setGraphData] = useState<ArchiveGraph>(normalizedFallbackGraph);
   const [viewMode, setViewMode] = useState<ViewMode>('graph');
   const [query, setQuery] = useState('');
   const [selectedNodeId, setSelectedNodeId] = useState<string | null>(null);
-  const [filters, setFilters] = useState<FilterState>(() => buildDefaultFilters(fallbackGraph.nodes));
+  const [filters, setFilters] = useState<FilterState>(() =>
+    buildDefaultFilters(normalizedFallbackGraph.nodes),
+  );
+  const [isLoadingDataset, setIsLoadingDataset] = useState(true);
+  const [loadingProgress, setLoadingProgress] = useState(0);
 
   useEffect(() => {
     let isMounted = true;
+    const controller = new AbortController();
 
-    fetch('./data/graph.seed.json')
-      .then((response) => {
+    const loadGraph = async () => {
+      try {
+        const response = await fetch('./data/graph.seed.json', {
+          signal: controller.signal,
+          cache: 'no-store',
+        });
+
         if (!response.ok) {
           throw new Error(`Dataset load failed: ${response.status}`);
         }
-        return response.json() as Promise<ArchiveGraph>;
-      })
-      .then((dataset) => {
+
+        const totalBytes = Number(response.headers.get('content-length') ?? '0');
+        let payload: ArchiveGraph;
+
+        if (response.body && totalBytes > 0) {
+          const reader = response.body.getReader();
+          const chunks: Uint8Array[] = [];
+          let receivedBytes = 0;
+
+          while (true) {
+            const { done, value } = await reader.read();
+            if (done) {
+              break;
+            }
+
+            if (value) {
+              chunks.push(value);
+              receivedBytes += value.byteLength;
+              if (isMounted) {
+                const progress = Math.max(1, Math.min(98, Math.round((receivedBytes / totalBytes) * 100)));
+                setLoadingProgress(progress);
+              }
+            }
+          }
+
+          const merged = new Uint8Array(receivedBytes);
+          let offset = 0;
+          for (const chunk of chunks) {
+            merged.set(chunk, offset);
+            offset += chunk.byteLength;
+          }
+
+          payload = JSON.parse(new TextDecoder().decode(merged)) as ArchiveGraph;
+        } else {
+          payload = (await response.json()) as ArchiveGraph;
+          if (isMounted) {
+            setLoadingProgress(95);
+          }
+        }
+
         if (!isMounted) {
           return;
         }
-        setGraphData(dataset);
-        setFilters(buildDefaultFilters(dataset.nodes));
-      })
-      .catch(() => {
+
+        const normalized = normalizeGraphData(payload);
+        setGraphData(normalized);
+        setFilters(buildDefaultFilters(normalized.nodes));
+        setLoadingProgress(100);
+      } catch {
         // Falls back to bundled seed data when external data file is unavailable.
-      });
+      } finally {
+        if (isMounted) {
+          setTimeout(() => {
+            if (isMounted) {
+              setIsLoadingDataset(false);
+            }
+          }, 220);
+        }
+      }
+    };
+
+    loadGraph();
 
     return () => {
       isMounted = false;
+      controller.abort();
     };
   }, []);
 
@@ -310,6 +373,8 @@ export default function App() {
         onSuggestionSelect={onSelectSearchSuggestion}
         activeFilterCount={activeFilterCount}
         loadedCounter={loadedCounter}
+        isLoading={isLoadingDataset}
+        loadingProgress={loadingProgress}
       />
 
       <div className="active-chips" aria-live="polite">
