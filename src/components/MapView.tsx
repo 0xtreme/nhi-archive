@@ -12,17 +12,17 @@ interface MapViewProps {
 function classificationColor(classification?: string): string {
   switch (classification) {
     case 'CE1':
-      return '#58c7b0';
+      return '#2d8f79';
     case 'CE2':
-      return '#76a8cd';
+      return '#4f8bbd';
     case 'CE3':
-      return '#999ece';
+      return '#9f7bb5';
     case 'CE4':
-      return '#89c9a2';
+      return '#6fba8e';
     case 'CE5':
-      return '#cba17a';
+      return '#c0874f';
     default:
-      return '#a6b1bc';
+      return '#8a98aa';
   }
 }
 
