@@ -56,10 +56,10 @@ const NODE_LEGEND: Array<{
 ];
 
 const EDGE_LEGEND: Array<{ label: string; color: string; dashed?: boolean }> = [
-  { label: 'WITNESSED', color: RELATION_COLORS.WITNESSED ?? '#00C8FF' },
-  { label: 'INVESTIGATED', color: RELATION_COLORS.INVESTIGATED ?? '#FFB800' },
-  { label: 'CORROBORATES', color: RELATION_COLORS.CORROBORATES ?? '#00E5A0', dashed: true },
-  { label: 'CONTRADICTS', color: RELATION_COLORS.CONTRADICTS ?? '#FF4444', dashed: true },
+  { label: 'WITNESSED', color: RELATION_COLORS.WITNESSED ?? '#bfbfbf' },
+  { label: 'INVESTIGATED', color: RELATION_COLORS.INVESTIGATED ?? '#a7a7a7' },
+  { label: 'CORROBORATES', color: RELATION_COLORS.CORROBORATES ?? '#929292', dashed: true },
+  { label: 'CONTRADICTS', color: RELATION_COLORS.CONTRADICTS ?? '#6f6f6f', dashed: true },
 ];
 
 function hash01(value: string): number {
@@ -174,15 +174,15 @@ function drawShape(
 
 function confidenceRing(node: RenderNode): { color: string; width: number; dashed?: boolean } {
   if (node.confidence === 'high') {
-    return { color: '#00E5A0', width: 1.65 };
+    return { color: '#e2e2e2', width: 1.65 };
   }
   if (node.confidence === 'medium') {
-    return { color: '#FFB800', width: 1.3 };
+    return { color: '#bfbfbf', width: 1.3 };
   }
   if (node.confidence === 'low') {
-    return { color: '#9AB3CB', width: 1.1 };
+    return { color: '#969696', width: 1.1 };
   }
-  return { color: '#FF5454', width: 1.3, dashed: true };
+  return { color: '#7d7d7d', width: 1.3, dashed: true };
 }
 
 export function GraphView({ nodes, edges, selectedNodeId, onSelectNode }: GraphViewProps) {
@@ -337,25 +337,18 @@ export function GraphView({ nodes, edges, selectedNodeId, onSelectNode }: GraphV
             width={size.width}
             height={size.height}
             graphData={graphData}
-            backgroundColor="#050F19"
-            warmupTicks={40}
-            cooldownTicks={220}
-            d3AlphaDecay={0.028}
-            d3VelocityDecay={0.22}
+            backgroundColor="#050505"
+            warmupTicks={24}
+            cooldownTicks={140}
+            d3AlphaDecay={0.038}
+            d3VelocityDecay={0.28}
             enableNodeDrag
             linkCurvature={(link) => link.curvature}
             linkLineDash={(link) => (link.dashed ? [5, 4] : null)}
-            linkDirectionalArrowLength={(link) => (link.isHighlighted ? 5.2 : 3.1)}
-            linkDirectionalArrowRelPos={1}
-            linkDirectionalArrowColor={(link) =>
-              selectedNodeId && !link.isHighlighted ? 'rgba(120, 144, 178, 0.35)' : (link.color ?? '#3F5876')
-            }
-            linkDirectionalParticles={(link) => (link.isHighlighted ? 2 : 0)}
-            linkDirectionalParticleSpeed={(link) => (link.isHighlighted ? 0.008 : 0.0032)}
-            linkDirectionalParticleWidth={(link) => (link.isHighlighted ? 2 : 1.1)}
-            linkDirectionalParticleColor={(link) => link.color}
+            linkDirectionalArrowLength={0}
+            linkDirectionalParticles={0}
             linkColor={(link) =>
-              selectedNodeId && !link.isHighlighted ? 'rgba(72, 95, 129, 0.16)' : (link.color ?? '#3F5876')
+              selectedNodeId && !link.isHighlighted ? 'rgba(125, 125, 125, 0.18)' : (link.color ?? '#5f5f5f')
             }
             linkWidth={(link) => link.width}
             nodeLabel={(node) => `${node.label} (${node.nodeType})`}
@@ -426,7 +419,7 @@ export function GraphView({ nodes, edges, selectedNodeId, onSelectNode }: GraphV
 
               if (node.isSelected) {
                 const fontSize = Math.max(8.6, 13 / globalScale);
-                ctx.font = `600 ${fontSize}px "Space Mono"`;
+                ctx.font = `600 ${fontSize}px ui-monospace`;
                 ctx.textAlign = 'center';
                 ctx.textBaseline = 'bottom';
                 ctx.fillStyle = node.isSelected ? '#EAF9FF' : '#9AB9D9';
