@@ -257,6 +257,20 @@ export function GraphView({ nodes, edges, selectedNodeId, onSelectNode }: GraphV
       | undefined;
     centerForce?.strength?.(1.05);
 
+    const forceX = graphRef.current.d3Force('x') as
+      | {
+          strength?: (value: number) => void;
+        }
+      | undefined;
+    forceX?.strength?.(0.08);
+
+    const forceY = graphRef.current.d3Force('y') as
+      | {
+          strength?: (value: number) => void;
+        }
+      | undefined;
+    forceY?.strength?.(0.08);
+
     graphRef.current.d3ReheatSimulation();
   }, [edges.length, nodes.length]);
 
