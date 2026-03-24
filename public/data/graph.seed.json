@@ -1,0 +1,794 @@
+{
+  "generated_at": "2026-03-24T05:31:29.391Z",
+  "metadata": {
+    "pipeline": "automated-web-intelligence-mvp",
+    "records_processed": 16,
+    "auto_ingested": 8,
+    "review_queue": 8,
+    "total_nodes": 26,
+    "total_edges": 31
+  },
+  "nodes": [
+    {
+      "id": "event-1947-wave",
+      "node_type": "event",
+      "label": "1947 US Sighting Wave",
+      "summary": "Early modern wave including Arnold and Roswell incidents.",
+      "tags": [
+        "1947 wave",
+        "historical"
+      ],
+      "date_start": "1947",
+      "confidence": "high",
+      "sources": [
+        "https://www.archives.gov/research/military/air-force/ufos"
+      ]
+    },
+    {
+      "id": "org-aaro",
+      "node_type": "organization",
+      "label": "AARO",
+      "summary": "All-domain Anomaly Resolution Office handling current anomaly reports.",
+      "tags": [
+        "DoD",
+        "modern office"
+      ],
+      "date_start": "2022",
+      "confidence": "high",
+      "sources": [
+        "https://www.aaro.mil/"
+      ]
+    },
+    {
+      "id": "org-aatip",
+      "node_type": "organization",
+      "label": "AATIP",
+      "summary": "Advanced Aerospace Threat Identification Program.",
+      "tags": [
+        "DoD",
+        "program"
+      ],
+      "date_start": "2007",
+      "confidence": "medium",
+      "sources": [
+        "https://www.defense.gov/"
+      ]
+    },
+    {
+      "id": "person-alex-dietrich",
+      "node_type": "person",
+      "label": "Alex Dietrich",
+      "summary": "Retired US Navy aviator and eyewitness to the Nimitz event.",
+      "tags": [
+        "Nimitz",
+        "US Navy",
+        "witness"
+      ],
+      "date_start": "1970",
+      "confidence": "high",
+      "sources": [
+        "https://www.navy.mil/"
+      ]
+    },
+    {
+      "id": "designation-blue-book-7918",
+      "node_type": "designation",
+      "label": "Blue Book Case #7918",
+      "summary": "Example Project Blue Book case designation pattern used for archival indexing.",
+      "tags": [
+        "designation",
+        "Blue Book"
+      ],
+      "date_start": "1952",
+      "confidence": "medium",
+      "sources": [
+        "https://www.archives.gov/research/military/air-force/ufos"
+      ]
+    },
+    {
+      "id": "person-david-fravor",
+      "node_type": "person",
+      "label": "David Fravor",
+      "summary": "Retired US Navy commander and eyewitness to the Nimitz event.",
+      "tags": [
+        "Nimitz",
+        "US Navy",
+        "witness"
+      ],
+      "date_start": "1965",
+      "confidence": "high",
+      "sources": [
+        "https://www.navy.mil/"
+      ]
+    },
+    {
+      "id": "person-david-grusch",
+      "node_type": "person",
+      "label": "David Grusch",
+      "summary": "Former intelligence officer and whistleblower who testified before Congress in 2023.",
+      "tags": [
+        "whistleblower",
+        "Congress"
+      ],
+      "date_start": "1987",
+      "confidence": "medium",
+      "sources": [
+        "https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/"
+      ]
+    },
+    {
+      "id": "person-j-allen-hynek",
+      "node_type": "person",
+      "label": "J. Allen Hynek",
+      "summary": "Astronomer and Project Blue Book scientific advisor; created the close-encounter framework.",
+      "tags": [
+        "Blue Book",
+        "astronomer",
+        "classification"
+      ],
+      "date_start": "1910-05-01",
+      "confidence": "high",
+      "sources": [
+        "https://www.britannica.com/biography/J-Allen-Hynek"
+      ]
+    },
+    {
+      "id": "person-jacques-vallee",
+      "node_type": "person",
+      "label": "Jacques Vallée",
+      "summary": "Computer scientist and UFO researcher with long-running historical case analysis.",
+      "tags": [
+        "researcher",
+        "Hynek"
+      ],
+      "date_start": "1939-09-24",
+      "confidence": "high",
+      "sources": [
+        "https://www.goodreads.com/author/show/126455.Jacques_Vallee"
+      ]
+    },
+    {
+      "id": "incident-kenneth-arnold-1947",
+      "node_type": "incident",
+      "label": "Kenneth Arnold Sighting",
+      "summary": "Pilot Kenneth Arnold reported nine unusual objects near Mount Rainier in June 1947.",
+      "tags": [
+        "1947 wave",
+        "civilian pilot",
+        "Mt Rainier"
+      ],
+      "date_start": "1947-06-24",
+      "confidence": "high",
+      "sources": [
+        "https://nuforc.org/case/1947-06-24-arnold"
+      ],
+      "lat": 46.8523,
+      "lng": -121.7603,
+      "location_name": "Mount Rainier, Washington, USA",
+      "classification": "NL",
+      "witness_count": 1,
+      "case_status": "unexplained",
+      "pipeline_source": "nuforc",
+      "pipeline_confidence": 0.85,
+      "status": "auto_ingested",
+      "crawled_at": "2026-03-24T05:31:29.368Z"
+    },
+    {
+      "id": "person-luis-elizondo",
+      "node_type": "person",
+      "label": "Luis Elizondo",
+      "summary": "Former intelligence official associated with AATIP and public UAP policy debates.",
+      "tags": [
+        "AATIP",
+        "policy"
+      ],
+      "date_start": "1972",
+      "confidence": "medium",
+      "sources": [
+        "https://www.history.com/news/aatip-luis-elizondo-ufo-investigation"
+      ]
+    },
+    {
+      "id": "org-mufon",
+      "node_type": "organization",
+      "label": "MUFON",
+      "summary": "Mutual UFO Network civilian reporting and investigation organization.",
+      "tags": [
+        "civilian",
+        "database"
+      ],
+      "date_start": "1969",
+      "confidence": "medium",
+      "sources": [
+        "https://www.mufon.com/"
+      ]
+    },
+    {
+      "id": "incident-nimitz-2004",
+      "node_type": "incident",
+      "label": "Nimitz / Tic-Tac Incident",
+      "summary": "USS Nimitz strike group tracked anomalous objects using radar and electro-optical systems.",
+      "tags": [
+        "Nimitz",
+        "FLIR",
+        "carrier strike group"
+      ],
+      "date_start": "2004-11-14",
+      "confidence": "high",
+      "sources": [
+        "https://www.aaro.mil/nimitz-2004-summary"
+      ],
+      "lat": 30,
+      "lng": -117,
+      "location_name": "Pacific Ocean training area",
+      "classification": "CE1",
+      "case_status": "unexplained",
+      "pipeline_source": "aaro",
+      "pipeline_confidence": 0.85,
+      "status": "auto_ingested",
+      "crawled_at": "2026-03-24T05:31:29.373Z"
+    },
+    {
+      "id": "org-nuforc",
+      "node_type": "organization",
+      "label": "NUFORC",
+      "summary": "National UFO Reporting Center witness archive.",
+      "tags": [
+        "archive",
+        "reporting"
+      ],
+      "date_start": "1974",
+      "confidence": "high",
+      "sources": [
+        "https://nuforc.org/"
+      ]
+    },
+    {
+      "id": "statement-odni-2021",
+      "node_type": "statement",
+      "label": "ODNI UAP Preliminary Assessment",
+      "summary": "Official 2021 assessment noting most military UAP reports remained unresolved and required further analysis.",
+      "tags": [
+        "ODNI",
+        "official report",
+        "2021"
+      ],
+      "date_start": "2021-06-25",
+      "confidence": "high",
+      "sources": [
+        "https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/item/2214-preliminary-assessment-unidentified-aerial-phenomena"
+      ],
+      "pipeline_source": "aaro",
+      "pipeline_confidence": 0.75,
+      "status": "auto_ingested",
+      "crawled_at": "2026-03-24T05:31:29.375Z"
+    },
+    {
+      "id": "location-pacific-training-area",
+      "node_type": "location",
+      "label": "Pacific Training Area",
+      "summary": "Geocoded location for Nimitz / Tic-Tac Incident",
+      "tags": [
+        "geocoded",
+        "pipeline-generated"
+      ],
+      "date_start": "2004-11-14",
+      "confidence": "medium",
+      "sources": [
+        "https://www.aaro.mil/nimitz-2004-summary"
+      ],
+      "lat": 30,
+      "lng": -117,
+      "location_name": "Pacific Ocean training area"
+    },
+    {
+      "id": "incident-phoenix-lights-1997",
+      "node_type": "incident",
+      "label": "Phoenix Lights",
+      "summary": "Large number of witnesses reported structured lights over Arizona in March 1997.",
+      "tags": [
+        "Arizona",
+        "mass sighting",
+        "thousands of witnesses"
+      ],
+      "date_start": "1997-03-13",
+      "confidence": "high",
+      "sources": [
+        "https://nuforc.org/case/1997-03-13-phoenix"
+      ],
+      "lat": 33.4484,
+      "lng": -112.074,
+      "location_name": "Phoenix, Arizona, USA",
+      "classification": "NL",
+      "case_status": "unexplained",
+      "pipeline_source": "nuforc",
+      "pipeline_confidence": 0.85,
+      "status": "auto_ingested",
+      "crawled_at": "2026-03-24T05:31:29.372Z"
+    },
+    {
+      "id": "org-project-blue-book",
+      "node_type": "organization",
+      "label": "Project Blue Book",
+      "summary": "USAF UFO investigation program active from 1952 to 1969.",
+      "tags": [
+        "USAF",
+        "official program"
+      ],
+      "date_start": "1952",
+      "date_end": "1969",
+      "confidence": "high",
+      "sources": [
+        "https://www.archives.gov/research/military/air-force/ufos"
+      ]
+    },
+    {
+      "id": "location-rendlesham-uk",
+      "node_type": "location",
+      "label": "Rendlesham Forest",
+      "summary": "Geocoded location for Rendlesham Forest Incident",
+      "tags": [
+        "geocoded",
+        "pipeline-generated"
+      ],
+      "date_start": "1980-12-26",
+      "confidence": "medium",
+      "sources": [
+        "https://www.nationalarchives.gov.uk/ufos/rendlesham"
+      ],
+      "lat": 52.093,
+      "lng": 1.431,
+      "location_name": "Rendlesham Forest, Suffolk, UK"
+    },
+    {
+      "id": "incident-rendlesham-1980",
+      "node_type": "incident",
+      "label": "Rendlesham Forest Incident",
+      "summary": "USAF personnel near RAF Bentwaters reported unusual lights and a landed-object event over multiple nights.",
+      "tags": [
+        "UK",
+        "USAF personnel",
+        "RAF Bentwaters"
+      ],
+      "date_start": "1980-12-26",
+      "confidence": "high",
+      "sources": [
+        "https://www.nationalarchives.gov.uk/ufos/rendlesham"
+      ],
+      "lat": 52.093,
+      "lng": 1.431,
+      "location_name": "Rendlesham Forest, Suffolk, UK",
+      "classification": "CE2",
+      "case_status": "unexplained",
+      "pipeline_source": "uk-national-archives",
+      "pipeline_confidence": 0.85,
+      "status": "auto_ingested",
+      "crawled_at": "2026-03-24T05:31:29.372Z"
+    },
+    {
+      "id": "incident-roswell-1947",
+      "node_type": "incident",
+      "label": "Roswell Incident",
+      "summary": "Debris recovery near Roswell led to a brief flying disc press claim and immediate retraction.",
+      "tags": [
+        "crash retrieval",
+        "1947 wave",
+        "USAF",
+        "debris"
+      ],
+      "date_start": "1947-07-08",
+      "confidence": "high",
+      "sources": [
+        "https://www.archives.gov/research/military/air-force/ufos/roswell"
+      ],
+      "lat": 33.3943,
+      "lng": -104.523,
+      "location_name": "Roswell, New Mexico, USA",
+      "classification": "CE2",
+      "witness_count": 12,
+      "official_explanation": "Weather balloon / Project Mogul",
+      "case_status": "unexplained",
+      "pipeline_source": "national-archives-foia",
+      "pipeline_confidence": 0.85,
+      "status": "auto_ingested",
+      "crawled_at": "2026-03-24T05:31:29.370Z"
+    },
+    {
+      "id": "location-roswell-nm",
+      "node_type": "location",
+      "label": "Roswell, New Mexico",
+      "summary": "Geocoded location for Roswell Incident",
+      "tags": [
+        "geocoded",
+        "pipeline-generated"
+      ],
+      "date_start": "1947-07-08",
+      "confidence": "medium",
+      "sources": [
+        "https://www.archives.gov/research/military/air-force/ufos/roswell"
+      ],
+      "lat": 33.3943,
+      "lng": -104.523,
+      "location_name": "Roswell, New Mexico, USA"
+    },
+    {
+      "id": "incident-stephenville-2008",
+      "node_type": "incident",
+      "label": "Stephenville Incident",
+      "summary": "Multiple witnesses in Texas reported a large craft with unusual motion characteristics.",
+      "tags": [
+        "Texas",
+        "police witnesses"
+      ],
+      "date_start": "2008-01-08",
+      "confidence": "medium",
+      "sources": [
+        "https://www.mufon.com/case/stephenville-2008"
+      ],
+      "lat": 32.2207,
+      "lng": -98.2023,
+      "location_name": "Stephenville, Texas, USA",
+      "classification": "CE1",
+      "case_status": "unexplained",
+      "pipeline_source": "mufon",
+      "pipeline_confidence": 0.85,
+      "status": "auto_ingested",
+      "crawled_at": "2026-03-24T05:31:29.374Z"
+    },
+    {
+      "id": "media-the-phenomenon-2020",
+      "node_type": "media",
+      "label": "The Phenomenon (2020)",
+      "summary": "Documentary covering historical and modern UFO/UAP cases.",
+      "tags": [
+        "documentary",
+        "media"
+      ],
+      "date_start": "2020",
+      "confidence": "medium",
+      "sources": [
+        "https://www.imdb.com/title/tt13095604/"
+      ]
+    },
+    {
+      "id": "event-congress-hearing-2023",
+      "node_type": "event",
+      "label": "US Congressional UAP Hearing 2023",
+      "summary": "House hearing on UAP implications for national security and transparency.",
+      "tags": [
+        "Congress",
+        "oversight"
+      ],
+      "date_start": "2023-07-26",
+      "confidence": "high",
+      "sources": [
+        "https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/"
+      ]
+    },
+    {
+      "id": "incident-dc-flyover-1952",
+      "node_type": "incident",
+      "label": "Washington DC Flyover Wave",
+      "summary": "Radar and visual UAP incidents over Washington in July 1952 led to military interception attempts.",
+      "tags": [
+        "radar confirmation",
+        "Capitol",
+        "jet interception"
+      ],
+      "date_start": "1952-07-19",
+      "confidence": "high",
+      "sources": [
+        "https://www.archives.gov/research/military/air-force/ufos/washington-1952"
+      ],
+      "lat": 38.9072,
+      "lng": -77.0369,
+      "location_name": "Washington, DC, USA",
+      "classification": "NL",
+      "case_status": "unexplained",
+      "pipeline_source": "national-archives-foia",
+      "pipeline_confidence": 0.85,
+      "status": "auto_ingested",
+      "crawled_at": "2026-03-24T05:31:29.370Z"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge-incident-dc-flyover-1952-incident-rendlesham-1980-PRECEDED",
+      "from_node_id": "incident-dc-flyover-1952",
+      "to_node_id": "incident-rendlesham-1980",
+      "relationship": "PRECEDED",
+      "confidence": "medium",
+      "sources": [
+        "https://www.archives.gov/research/military/air-force/ufos/washington-1952"
+      ]
+    },
+    {
+      "id": "edge-incident-kenneth-arnold-1947-event-1947-wave-PART_OF",
+      "from_node_id": "incident-kenneth-arnold-1947",
+      "to_node_id": "event-1947-wave",
+      "relationship": "PART_OF",
+      "confidence": "medium",
+      "sources": [
+        "https://nuforc.org/case/1947-06-24-arnold"
+      ]
+    },
+    {
+      "id": "edge-incident-kenneth-arnold-1947-incident-roswell-1947-PRECEDED",
+      "from_node_id": "incident-kenneth-arnold-1947",
+      "to_node_id": "incident-roswell-1947",
+      "relationship": "PRECEDED",
+      "confidence": "medium",
+      "sources": [
+        "https://nuforc.org/case/1947-06-24-arnold"
+      ]
+    },
+    {
+      "id": "edge-incident-nimitz-2004-incident-stephenville-2008-PRECEDED",
+      "from_node_id": "incident-nimitz-2004",
+      "to_node_id": "incident-stephenville-2008",
+      "relationship": "PRECEDED",
+      "confidence": "medium",
+      "sources": [
+        "https://www.aaro.mil/nimitz-2004-summary"
+      ]
+    },
+    {
+      "id": "edge-incident-nimitz-2004-location-pacific-training-area-LOCATED_AT",
+      "from_node_id": "incident-nimitz-2004",
+      "to_node_id": "location-pacific-training-area",
+      "relationship": "LOCATED_AT",
+      "confidence": "high",
+      "sources": [
+        "https://www.aaro.mil/nimitz-2004-summary"
+      ]
+    },
+    {
+      "id": "edge-incident-phoenix-lights-1997-incident-nimitz-2004-PRECEDED",
+      "from_node_id": "incident-phoenix-lights-1997",
+      "to_node_id": "incident-nimitz-2004",
+      "relationship": "PRECEDED",
+      "confidence": "medium",
+      "sources": [
+        "https://nuforc.org/case/1997-03-13-phoenix"
+      ]
+    },
+    {
+      "id": "edge-incident-rendlesham-1980-incident-phoenix-lights-1997-PRECEDED",
+      "from_node_id": "incident-rendlesham-1980",
+      "to_node_id": "incident-phoenix-lights-1997",
+      "relationship": "PRECEDED",
+      "confidence": "medium",
+      "sources": [
+        "https://www.nationalarchives.gov.uk/ufos/rendlesham"
+      ]
+    },
+    {
+      "id": "edge-incident-rendlesham-1980-location-rendlesham-uk-LOCATED_AT",
+      "from_node_id": "incident-rendlesham-1980",
+      "to_node_id": "location-rendlesham-uk",
+      "relationship": "LOCATED_AT",
+      "confidence": "high",
+      "sources": [
+        "https://www.nationalarchives.gov.uk/ufos/rendlesham"
+      ]
+    },
+    {
+      "id": "edge-incident-roswell-1947-designation-blue-book-7918-ASSIGNED_DESIGNATION",
+      "from_node_id": "incident-roswell-1947",
+      "to_node_id": "designation-blue-book-7918",
+      "relationship": "ASSIGNED_DESIGNATION",
+      "confidence": "low",
+      "sources": [
+        "https://www.archives.gov/research/military/air-force/ufos/roswell"
+      ]
+    },
+    {
+      "id": "edge-incident-roswell-1947-event-1947-wave-PART_OF",
+      "from_node_id": "incident-roswell-1947",
+      "to_node_id": "event-1947-wave",
+      "relationship": "PART_OF",
+      "confidence": "medium",
+      "sources": [
+        "https://www.archives.gov/research/military/air-force/ufos/roswell"
+      ]
+    },
+    {
+      "id": "edge-incident-roswell-1947-incident-dc-flyover-1952-PRECEDED",
+      "from_node_id": "incident-roswell-1947",
+      "to_node_id": "incident-dc-flyover-1952",
+      "relationship": "PRECEDED",
+      "confidence": "medium",
+      "sources": [
+        "https://www.archives.gov/research/military/air-force/ufos/roswell"
+      ]
+    },
+    {
+      "id": "edge-incident-roswell-1947-location-roswell-nm-LOCATED_AT",
+      "from_node_id": "incident-roswell-1947",
+      "to_node_id": "location-roswell-nm",
+      "relationship": "LOCATED_AT",
+      "confidence": "high",
+      "sources": [
+        "https://www.archives.gov/research/military/air-force/ufos/roswell"
+      ]
+    },
+    {
+      "id": "edge-media-references-phoenix",
+      "from_node_id": "media-the-phenomenon-2020",
+      "to_node_id": "incident-phoenix-lights-1997",
+      "relationship": "REFERENCES",
+      "confidence": "medium",
+      "sources": [
+        "https://www.imdb.com/title/tt13095604/"
+      ]
+    },
+    {
+      "id": "edge-media-references-rendlesham",
+      "from_node_id": "media-the-phenomenon-2020",
+      "to_node_id": "incident-rendlesham-1980",
+      "relationship": "REFERENCES",
+      "confidence": "medium",
+      "sources": [
+        "https://www.imdb.com/title/tt13095604/"
+      ]
+    },
+    {
+      "id": "edge-org-aaro-incident-nimitz-2004-INVESTIGATED",
+      "from_node_id": "org-aaro",
+      "to_node_id": "incident-nimitz-2004",
+      "relationship": "INVESTIGATED",
+      "confidence": "medium",
+      "sources": [
+        "https://www.aaro.mil/nimitz-2004-summary"
+      ]
+    },
+    {
+      "id": "edge-org-aaro-statement-odni-2021-REFERENCES",
+      "from_node_id": "org-aaro",
+      "to_node_id": "statement-odni-2021",
+      "relationship": "REFERENCES",
+      "confidence": "medium",
+      "sources": [
+        "https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/item/2214-preliminary-assessment-unidentified-aerial-phenomena"
+      ]
+    },
+    {
+      "id": "edge-org-aatip-incident-nimitz-2004-INVESTIGATED",
+      "from_node_id": "org-aatip",
+      "to_node_id": "incident-nimitz-2004",
+      "relationship": "INVESTIGATED",
+      "confidence": "medium",
+      "sources": [
+        "https://www.aaro.mil/nimitz-2004-summary"
+      ]
+    },
+    {
+      "id": "edge-org-mufon-incident-stephenville-2008-INVESTIGATED",
+      "from_node_id": "org-mufon",
+      "to_node_id": "incident-stephenville-2008",
+      "relationship": "INVESTIGATED",
+      "confidence": "medium",
+      "sources": [
+        "https://www.mufon.com/case/stephenville-2008"
+      ]
+    },
+    {
+      "id": "edge-org-nuforc-incident-kenneth-arnold-1947-INVESTIGATED",
+      "from_node_id": "org-nuforc",
+      "to_node_id": "incident-kenneth-arnold-1947",
+      "relationship": "INVESTIGATED",
+      "confidence": "medium",
+      "sources": [
+        "https://nuforc.org/case/1947-06-24-arnold"
+      ]
+    },
+    {
+      "id": "edge-org-nuforc-incident-phoenix-lights-1997-INVESTIGATED",
+      "from_node_id": "org-nuforc",
+      "to_node_id": "incident-phoenix-lights-1997",
+      "relationship": "INVESTIGATED",
+      "confidence": "medium",
+      "sources": [
+        "https://nuforc.org/case/1997-03-13-phoenix"
+      ]
+    },
+    {
+      "id": "edge-org-project-blue-book-incident-dc-flyover-1952-INVESTIGATED",
+      "from_node_id": "org-project-blue-book",
+      "to_node_id": "incident-dc-flyover-1952",
+      "relationship": "INVESTIGATED",
+      "confidence": "medium",
+      "sources": [
+        "https://www.archives.gov/research/military/air-force/ufos/washington-1952"
+      ]
+    },
+    {
+      "id": "edge-org-project-blue-book-incident-roswell-1947-INVESTIGATED",
+      "from_node_id": "org-project-blue-book",
+      "to_node_id": "incident-roswell-1947",
+      "relationship": "INVESTIGATED",
+      "confidence": "medium",
+      "sources": [
+        "https://www.archives.gov/research/military/air-force/ufos/roswell"
+      ]
+    },
+    {
+      "id": "edge-person-alex-dietrich-incident-nimitz-2004-WITNESSED",
+      "from_node_id": "person-alex-dietrich",
+      "to_node_id": "incident-nimitz-2004",
+      "relationship": "WITNESSED",
+      "confidence": "medium",
+      "sources": [
+        "https://www.aaro.mil/nimitz-2004-summary"
+      ]
+    },
+    {
+      "id": "edge-person-david-fravor-incident-nimitz-2004-WITNESSED",
+      "from_node_id": "person-david-fravor",
+      "to_node_id": "incident-nimitz-2004",
+      "relationship": "WITNESSED",
+      "confidence": "medium",
+      "sources": [
+        "https://www.aaro.mil/nimitz-2004-summary"
+      ]
+    },
+    {
+      "id": "edge-person-elizondo-affiliated-aatip",
+      "from_node_id": "person-luis-elizondo",
+      "to_node_id": "org-aatip",
+      "relationship": "AFFILIATED_WITH",
+      "confidence": "medium"
+    },
+    {
+      "id": "edge-person-grusch-affiliated-aaro",
+      "from_node_id": "person-david-grusch",
+      "to_node_id": "org-aaro",
+      "relationship": "AFFILIATED_WITH",
+      "confidence": "low"
+    },
+    {
+      "id": "edge-person-hynek-affiliated-bluebook",
+      "from_node_id": "person-j-allen-hynek",
+      "to_node_id": "org-project-blue-book",
+      "relationship": "AFFILIATED_WITH",
+      "confidence": "high"
+    },
+    {
+      "id": "edge-person-j-allen-hynek-incident-dc-flyover-1952-WITNESSED",
+      "from_node_id": "person-j-allen-hynek",
+      "to_node_id": "incident-dc-flyover-1952",
+      "relationship": "WITNESSED",
+      "confidence": "medium",
+      "sources": [
+        "https://www.archives.gov/research/military/air-force/ufos/washington-1952"
+      ]
+    },
+    {
+      "id": "edge-person-j-allen-hynek-incident-roswell-1947-WITNESSED",
+      "from_node_id": "person-j-allen-hynek",
+      "to_node_id": "incident-roswell-1947",
+      "relationship": "WITNESSED",
+      "confidence": "medium",
+      "sources": [
+        "https://www.archives.gov/research/military/air-force/ufos/roswell"
+      ]
+    },
+    {
+      "id": "edge-person-vallee-affiliated-hynek",
+      "from_node_id": "person-jacques-vallee",
+      "to_node_id": "person-j-allen-hynek",
+      "relationship": "AFFILIATED_WITH",
+      "confidence": "medium"
+    },
+    {
+      "id": "edge-statement-odni-references-nimitz",
+      "from_node_id": "statement-odni-2021",
+      "to_node_id": "incident-nimitz-2004",
+      "relationship": "REFERENCES",
+      "confidence": "high",
+      "sources": [
+        "https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/item/2214-preliminary-assessment-unidentified-aerial-phenomena"
+      ]
+    }
+  ]
+}

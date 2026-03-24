@@ -1,0 +1,23 @@
+{
+  "generated_at": "2026-03-24T05:31:29.355Z",
+  "sources_considered": 9,
+  "records_received": 16,
+  "records_processed": 16,
+  "records_auto_ingested": 8,
+  "records_review_queue": 8,
+  "records_skipped_url_duplicate": 0,
+  "records_skipped_semantic_duplicate": 0,
+  "corroboration_edges_created": 0,
+  "location_nodes_created": 3,
+  "relationship_edges_created": 18,
+  "source_breakdown": {
+    "nuforc": 2,
+    "national-archives-foia": 2,
+    "black-vault": 1,
+    "wikipedia-uap": 5,
+    "uk-national-archives": 1,
+    "aaro": 3,
+    "reddit-ufos": 1,
+    "mufon": 1
+  }
+}

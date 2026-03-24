@@ -1,0 +1,185 @@
+{
+  "nodes": [
+    {
+      "id": "person-j-allen-hynek",
+      "node_type": "person",
+      "label": "J. Allen Hynek",
+      "summary": "Astronomer and Project Blue Book scientific advisor; created the close-encounter framework.",
+      "tags": ["Blue Book", "astronomer", "classification"],
+      "date_start": "1910-05-01",
+      "confidence": "high",
+      "sources": ["https://www.britannica.com/biography/J-Allen-Hynek"]
+    },
+    {
+      "id": "person-jacques-vallee",
+      "node_type": "person",
+      "label": "Jacques Vallée",
+      "summary": "Computer scientist and UFO researcher with long-running historical case analysis.",
+      "tags": ["researcher", "Hynek"],
+      "date_start": "1939-09-24",
+      "confidence": "high",
+      "sources": ["https://www.goodreads.com/author/show/126455.Jacques_Vallee"]
+    },
+    {
+      "id": "person-luis-elizondo",
+      "node_type": "person",
+      "label": "Luis Elizondo",
+      "summary": "Former intelligence official associated with AATIP and public UAP policy debates.",
+      "tags": ["AATIP", "policy"],
+      "date_start": "1972",
+      "confidence": "medium",
+      "sources": ["https://www.history.com/news/aatip-luis-elizondo-ufo-investigation"]
+    },
+    {
+      "id": "person-david-grusch",
+      "node_type": "person",
+      "label": "David Grusch",
+      "summary": "Former intelligence officer and whistleblower who testified before Congress in 2023.",
+      "tags": ["whistleblower", "Congress"],
+      "date_start": "1987",
+      "confidence": "medium",
+      "sources": ["https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/"]
+    },
+    {
+      "id": "person-david-fravor",
+      "node_type": "person",
+      "label": "David Fravor",
+      "summary": "Retired US Navy commander and eyewitness to the Nimitz event.",
+      "tags": ["Nimitz", "US Navy", "witness"],
+      "date_start": "1965",
+      "confidence": "high",
+      "sources": ["https://www.navy.mil/"]
+    },
+    {
+      "id": "person-alex-dietrich",
+      "node_type": "person",
+      "label": "Alex Dietrich",
+      "summary": "Retired US Navy aviator and eyewitness to the Nimitz event.",
+      "tags": ["Nimitz", "US Navy", "witness"],
+      "date_start": "1970",
+      "confidence": "high",
+      "sources": ["https://www.navy.mil/"]
+    },
+    {
+      "id": "org-project-blue-book",
+      "node_type": "organization",
+      "label": "Project Blue Book",
+      "summary": "USAF UFO investigation program active from 1952 to 1969.",
+      "tags": ["USAF", "official program"],
+      "date_start": "1952",
+      "date_end": "1969",
+      "confidence": "high",
+      "sources": ["https://www.archives.gov/research/military/air-force/ufos"]
+    },
+    {
+      "id": "org-aatip",
+      "node_type": "organization",
+      "label": "AATIP",
+      "summary": "Advanced Aerospace Threat Identification Program.",
+      "tags": ["DoD", "program"],
+      "date_start": "2007",
+      "confidence": "medium",
+      "sources": ["https://www.defense.gov/"]
+    },
+    {
+      "id": "org-aaro",
+      "node_type": "organization",
+      "label": "AARO",
+      "summary": "All-domain Anomaly Resolution Office handling current anomaly reports.",
+      "tags": ["DoD", "modern office"],
+      "date_start": "2022",
+      "confidence": "high",
+      "sources": ["https://www.aaro.mil/"]
+    },
+    {
+      "id": "org-mufon",
+      "node_type": "organization",
+      "label": "MUFON",
+      "summary": "Mutual UFO Network civilian reporting and investigation organization.",
+      "tags": ["civilian", "database"],
+      "date_start": "1969",
+      "confidence": "medium",
+      "sources": ["https://www.mufon.com/"]
+    },
+    {
+      "id": "org-nuforc",
+      "node_type": "organization",
+      "label": "NUFORC",
+      "summary": "National UFO Reporting Center witness archive.",
+      "tags": ["archive", "reporting"],
+      "date_start": "1974",
+      "confidence": "high",
+      "sources": ["https://nuforc.org/"]
+    },
+    {
+      "id": "event-1947-wave",
+      "node_type": "event",
+      "label": "1947 US Sighting Wave",
+      "summary": "Early modern wave including Arnold and Roswell incidents.",
+      "tags": ["1947 wave", "historical"],
+      "date_start": "1947",
+      "confidence": "high",
+      "sources": ["https://www.archives.gov/research/military/air-force/ufos"]
+    },
+    {
+      "id": "event-congress-hearing-2023",
+      "node_type": "event",
+      "label": "US Congressional UAP Hearing 2023",
+      "summary": "House hearing on UAP implications for national security and transparency.",
+      "tags": ["Congress", "oversight"],
+      "date_start": "2023-07-26",
+      "confidence": "high",
+      "sources": ["https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/"]
+    },
+    {
+      "id": "designation-blue-book-7918",
+      "node_type": "designation",
+      "label": "Blue Book Case #7918",
+      "summary": "Example Project Blue Book case designation pattern used for archival indexing.",
+      "tags": ["designation", "Blue Book"],
+      "date_start": "1952",
+      "confidence": "medium",
+      "sources": ["https://www.archives.gov/research/military/air-force/ufos"]
+    },
+    {
+      "id": "media-the-phenomenon-2020",
+      "node_type": "media",
+      "label": "The Phenomenon (2020)",
+      "summary": "Documentary covering historical and modern UFO/UAP cases.",
+      "tags": ["documentary", "media"],
+      "date_start": "2020",
+      "confidence": "medium",
+      "sources": ["https://www.imdb.com/title/tt13095604/"]
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge-person-hynek-affiliated-bluebook",
+      "from_node_id": "person-j-allen-hynek",
+      "to_node_id": "org-project-blue-book",
+      "relationship": "AFFILIATED_WITH",
+      "confidence": "high"
+    },
+    {
+      "id": "edge-person-vallee-affiliated-hynek",
+      "from_node_id": "person-jacques-vallee",
+      "to_node_id": "person-j-allen-hynek",
+      "relationship": "AFFILIATED_WITH",
+      "confidence": "medium"
+    },
+    {
+      "id": "edge-person-elizondo-affiliated-aatip",
+      "from_node_id": "person-luis-elizondo",
+      "to_node_id": "org-aatip",
+      "relationship": "AFFILIATED_WITH",
+      "confidence": "medium"
+    },
+    {
+      "id": "edge-person-grusch-affiliated-aaro",
+      "from_node_id": "person-david-grusch",
+      "to_node_id": "org-aaro",
+      "relationship": "AFFILIATED_WITH",
+      "confidence": "low"
+    }
+  ]
+}

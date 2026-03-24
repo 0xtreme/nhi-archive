@@ -1,0 +1,504 @@
+{
+  "records": [
+    {
+      "record_id": "rec-arnold-1947-nuforc",
+      "source_id": "nuforc",
+      "url": "https://nuforc.org/case/1947-06-24-arnold",
+      "extraction_confidence": "high",
+      "date_resolved": true,
+      "geocoded": true,
+      "node": {
+        "id": "incident-kenneth-arnold-1947",
+        "node_type": "incident",
+        "label": "Kenneth Arnold Sighting",
+        "summary": "Pilot Kenneth Arnold reported nine unusual objects near Mount Rainier in June 1947.",
+        "tags": ["1947 wave", "civilian pilot", "Mt Rainier"],
+        "date_start": "1947-06-24",
+        "confidence": "high",
+        "sources": ["https://nuforc.org/case/1947-06-24-arnold"],
+        "lat": 46.8523,
+        "lng": -121.7603,
+        "location_name": "Mount Rainier, Washington, USA",
+        "classification": "NL",
+        "witness_count": 1,
+        "case_status": "unexplained"
+      },
+      "mentions": {
+        "persons": [],
+        "organizations": ["org-nuforc"],
+        "events": ["event-1947-wave"],
+        "designations": [],
+        "locations": []
+      }
+    },
+    {
+      "record_id": "rec-roswell-1947-archives",
+      "source_id": "national-archives-foia",
+      "url": "https://www.archives.gov/research/military/air-force/ufos/roswell",
+      "extraction_confidence": "high",
+      "date_resolved": true,
+      "geocoded": true,
+      "node": {
+        "id": "incident-roswell-1947",
+        "node_type": "incident",
+        "label": "Roswell Incident",
+        "summary": "Debris recovery near Roswell led to a brief flying disc press claim and immediate retraction.",
+        "tags": ["crash retrieval", "1947 wave", "USAF", "debris"],
+        "date_start": "1947-07-08",
+        "confidence": "high",
+        "sources": ["https://www.archives.gov/research/military/air-force/ufos/roswell"],
+        "lat": 33.3943,
+        "lng": -104.523,
+        "location_name": "Roswell, New Mexico, USA",
+        "classification": "CE2",
+        "witness_count": 12,
+        "official_explanation": "Weather balloon / Project Mogul",
+        "case_status": "unexplained"
+      },
+      "mentions": {
+        "persons": ["person-j-allen-hynek"],
+        "organizations": ["org-project-blue-book"],
+        "events": ["event-1947-wave"],
+        "designations": ["designation-blue-book-7918"],
+        "locations": [
+          {
+            "id": "location-roswell-nm",
+            "label": "Roswell, New Mexico",
+            "lat": 33.3943,
+            "lng": -104.523,
+            "location_name": "Roswell, New Mexico, USA"
+          }
+        ]
+      }
+    },
+    {
+      "record_id": "rec-roswell-1947-blackvault",
+      "source_id": "black-vault",
+      "url": "https://www.theblackvault.com/casefiles/roswell-incident/",
+      "extraction_confidence": "medium",
+      "date_resolved": true,
+      "geocoded": true,
+      "node": {
+        "id": "incident-roswell-1947-alt",
+        "node_type": "incident",
+        "label": "Roswell Incident",
+        "summary": "Secondary archive summary of the Roswell debris retrieval narrative and document history.",
+        "tags": ["crash retrieval", "1947 wave", "USAF"],
+        "date_start": "1947-07-08",
+        "confidence": "medium",
+        "sources": ["https://www.theblackvault.com/casefiles/roswell-incident/"],
+        "lat": 33.3943,
+        "lng": -104.523,
+        "location_name": "Roswell, New Mexico, USA",
+        "classification": "CE2",
+        "case_status": "unexplained"
+      },
+      "mentions": {
+        "persons": [],
+        "organizations": ["org-project-blue-book"],
+        "events": ["event-1947-wave"],
+        "designations": [],
+        "locations": []
+      }
+    },
+    {
+      "record_id": "rec-dc-1952-archives",
+      "source_id": "national-archives-foia",
+      "url": "https://www.archives.gov/research/military/air-force/ufos/washington-1952",
+      "extraction_confidence": "high",
+      "date_resolved": true,
+      "geocoded": true,
+      "node": {
+        "id": "incident-dc-flyover-1952",
+        "node_type": "incident",
+        "label": "Washington DC Flyover Wave",
+        "summary": "Radar and visual UAP incidents over Washington in July 1952 led to military interception attempts.",
+        "tags": ["radar confirmation", "Capitol", "jet interception"],
+        "date_start": "1952-07-19",
+        "confidence": "high",
+        "sources": ["https://www.archives.gov/research/military/air-force/ufos/washington-1952"],
+        "lat": 38.9072,
+        "lng": -77.0369,
+        "location_name": "Washington, DC, USA",
+        "classification": "NL",
+        "case_status": "unexplained"
+      },
+      "mentions": {
+        "persons": ["person-j-allen-hynek"],
+        "organizations": ["org-project-blue-book"],
+        "events": [],
+        "designations": [],
+        "locations": []
+      }
+    },
+    {
+      "record_id": "rec-levelland-1957-nicap",
+      "source_id": "wikipedia-uap",
+      "url": "https://en.wikipedia.org/wiki/Levelland_UFO_case",
+      "extraction_confidence": "medium",
+      "date_resolved": true,
+      "geocoded": true,
+      "node": {
+        "id": "incident-levelland-1957",
+        "node_type": "incident",
+        "label": "Levelland Incident",
+        "summary": "Vehicle electrical interference reports and bright object sightings near Levelland in Texas.",
+        "tags": ["EM interference", "Texas", "multiple witnesses"],
+        "date_start": "1957-11-02",
+        "confidence": "medium",
+        "sources": ["https://en.wikipedia.org/wiki/Levelland_UFO_case"],
+        "lat": 33.5873,
+        "lng": -102.3777,
+        "location_name": "Levelland, Texas, USA",
+        "classification": "CE2",
+        "witness_count": 15,
+        "case_status": "unexplained"
+      },
+      "mentions": {
+        "persons": [],
+        "organizations": ["org-project-blue-book"],
+        "events": [],
+        "designations": [],
+        "locations": []
+      }
+    },
+    {
+      "record_id": "rec-kecksburg-1965-wiki",
+      "source_id": "wikipedia-uap",
+      "url": "https://en.wikipedia.org/wiki/Kecksburg_UFO_incident",
+      "extraction_confidence": "medium",
+      "date_resolved": true,
+      "geocoded": true,
+      "node": {
+        "id": "incident-kecksburg-1965",
+        "node_type": "incident",
+        "label": "Kecksburg Incident",
+        "summary": "Fireball and alleged acorn-shaped object reports near Kecksburg followed by claimed military response.",
+        "tags": ["Pennsylvania", "crash retrieval"],
+        "date_start": "1965-12-09",
+        "confidence": "medium",
+        "sources": ["https://en.wikipedia.org/wiki/Kecksburg_UFO_incident"],
+        "lat": 40.1848,
+        "lng": -79.4606,
+        "location_name": "Kecksburg, Pennsylvania, USA",
+        "classification": "CE2",
+        "case_status": "unexplained"
+      },
+      "mentions": {
+        "persons": [],
+        "organizations": ["org-project-blue-book"],
+        "events": [],
+        "designations": [],
+        "locations": []
+      }
+    },
+    {
+      "record_id": "rec-shag-1967-wiki",
+      "source_id": "wikipedia-uap",
+      "url": "https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident",
+      "extraction_confidence": "medium",
+      "date_resolved": true,
+      "geocoded": true,
+      "node": {
+        "id": "incident-shag-harbour-1967",
+        "node_type": "incident",
+        "label": "Shag Harbour Incident",
+        "summary": "Witnesses observed an object enter the water; Canadian authorities conducted investigation efforts.",
+        "tags": ["Canada", "crash into water"],
+        "date_start": "1967-10-04",
+        "confidence": "high",
+        "sources": ["https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident"],
+        "lat": 43.513,
+        "lng": -65.738,
+        "location_name": "Shag Harbour, Nova Scotia, Canada",
+        "classification": "CE2",
+        "case_status": "unexplained"
+      },
+      "mentions": {
+        "persons": [],
+        "organizations": ["org-project-blue-book"],
+        "events": [],
+        "designations": [],
+        "locations": []
+      }
+    },
+    {
+      "record_id": "rec-rendlesham-1980-ukna",
+      "source_id": "uk-national-archives",
+      "url": "https://www.nationalarchives.gov.uk/ufos/rendlesham",
+      "extraction_confidence": "high",
+      "date_resolved": true,
+      "geocoded": true,
+      "node": {
+        "id": "incident-rendlesham-1980",
+        "node_type": "incident",
+        "label": "Rendlesham Forest Incident",
+        "summary": "USAF personnel near RAF Bentwaters reported unusual lights and a landed-object event over multiple nights.",
+        "tags": ["UK", "USAF personnel", "RAF Bentwaters"],
+        "date_start": "1980-12-26",
+        "confidence": "high",
+        "sources": ["https://www.nationalarchives.gov.uk/ufos/rendlesham"],
+        "lat": 52.093,
+        "lng": 1.431,
+        "location_name": "Rendlesham Forest, Suffolk, UK",
+        "classification": "CE2",
+        "case_status": "unexplained"
+      },
+      "mentions": {
+        "persons": [],
+        "organizations": [],
+        "events": [],
+        "designations": [],
+        "locations": [
+          {
+            "id": "location-rendlesham-uk",
+            "label": "Rendlesham Forest",
+            "lat": 52.093,
+            "lng": 1.431,
+            "location_name": "Rendlesham Forest, Suffolk, UK"
+          }
+        ]
+      }
+    },
+    {
+      "record_id": "rec-jal-1986-wiki",
+      "source_id": "wikipedia-uap",
+      "url": "https://en.wikipedia.org/wiki/Japan_Air_Lines_Cargo_Flight_1628_incident",
+      "extraction_confidence": "medium",
+      "date_resolved": true,
+      "geocoded": true,
+      "node": {
+        "id": "incident-jal1628-1986",
+        "node_type": "incident",
+        "label": "JAL1628 Incident",
+        "summary": "JAL cargo crew encountered large anomalous objects over Alaska with reported radar support.",
+        "tags": ["airline", "radar", "Alaska"],
+        "date_start": "1986-11-17",
+        "confidence": "high",
+        "sources": ["https://en.wikipedia.org/wiki/Japan_Air_Lines_Cargo_Flight_1628_incident"],
+        "lat": 64.2008,
+        "lng": -149.4937,
+        "location_name": "Alaska airspace, USA",
+        "classification": "NL",
+        "duration_minutes": 50,
+        "case_status": "unexplained"
+      },
+      "mentions": {
+        "persons": [],
+        "organizations": [],
+        "events": [],
+        "designations": [],
+        "locations": []
+      }
+    },
+    {
+      "record_id": "rec-belgian-wave-1989",
+      "source_id": "wikipedia-uap",
+      "url": "https://en.wikipedia.org/wiki/Belgian_UFO_wave",
+      "extraction_confidence": "medium",
+      "date_resolved": false,
+      "geocoded": true,
+      "node": {
+        "id": "incident-belgian-wave-1989",
+        "node_type": "incident",
+        "label": "Belgian UFO Wave",
+        "summary": "Mass sightings in Belgium during 1989-1990 with recurring triangle craft reports.",
+        "tags": ["Belgium", "mass sightings", "F-16"],
+        "date_start": "1989-11",
+        "date_end": "1990-04",
+        "confidence": "high",
+        "sources": ["https://en.wikipedia.org/wiki/Belgian_UFO_wave"],
+        "lat": 50.8503,
+        "lng": 4.3517,
+        "location_name": "Belgium",
+        "classification": "NL",
+        "case_status": "unexplained"
+      },
+      "mentions": {
+        "persons": [],
+        "organizations": [],
+        "events": [],
+        "designations": [],
+        "locations": []
+      }
+    },
+    {
+      "record_id": "rec-phoenix-1997-nuforc",
+      "source_id": "nuforc",
+      "url": "https://nuforc.org/case/1997-03-13-phoenix",
+      "extraction_confidence": "high",
+      "date_resolved": true,
+      "geocoded": true,
+      "node": {
+        "id": "incident-phoenix-lights-1997",
+        "node_type": "incident",
+        "label": "Phoenix Lights",
+        "summary": "Large number of witnesses reported structured lights over Arizona in March 1997.",
+        "tags": ["Arizona", "mass sighting", "thousands of witnesses"],
+        "date_start": "1997-03-13",
+        "confidence": "high",
+        "sources": ["https://nuforc.org/case/1997-03-13-phoenix"],
+        "lat": 33.4484,
+        "lng": -112.074,
+        "location_name": "Phoenix, Arizona, USA",
+        "classification": "NL",
+        "case_status": "unexplained"
+      },
+      "mentions": {
+        "persons": [],
+        "organizations": ["org-nuforc"],
+        "events": [],
+        "designations": [],
+        "locations": []
+      }
+    },
+    {
+      "record_id": "rec-nimitz-2004-aaro",
+      "source_id": "aaro",
+      "url": "https://www.aaro.mil/nimitz-2004-summary",
+      "extraction_confidence": "high",
+      "date_resolved": true,
+      "geocoded": true,
+      "node": {
+        "id": "incident-nimitz-2004",
+        "node_type": "incident",
+        "label": "Nimitz / Tic-Tac Incident",
+        "summary": "USS Nimitz strike group tracked anomalous objects using radar and electro-optical systems.",
+        "tags": ["Nimitz", "FLIR", "carrier strike group"],
+        "date_start": "2004-11-14",
+        "confidence": "high",
+        "sources": ["https://www.aaro.mil/nimitz-2004-summary"],
+        "lat": 30.0,
+        "lng": -117.0,
+        "location_name": "Pacific Ocean training area",
+        "classification": "CE1",
+        "case_status": "unexplained"
+      },
+      "mentions": {
+        "persons": ["person-david-fravor", "person-alex-dietrich"],
+        "organizations": ["org-aaro", "org-aatip"],
+        "events": [],
+        "designations": [],
+        "locations": [
+          {
+            "id": "location-pacific-training-area",
+            "label": "Pacific Training Area",
+            "lat": 30,
+            "lng": -117,
+            "location_name": "Pacific Ocean training area"
+          }
+        ]
+      }
+    },
+    {
+      "record_id": "rec-ohare-2006-reddit",
+      "source_id": "reddit-ufos",
+      "url": "https://www.reddit.com/r/UFOs/comments/ohare_2006_case_summary",
+      "extraction_confidence": "low",
+      "date_resolved": true,
+      "geocoded": true,
+      "node": {
+        "id": "incident-ohare-2006",
+        "node_type": "incident",
+        "label": "O'Hare Airport Incident",
+        "summary": "Airport staff and pilots described a disc above O'Hare with conflicting follow-up interpretations.",
+        "tags": ["Chicago", "airport", "anecdotal"],
+        "date_start": "2006-11-07",
+        "confidence": "low",
+        "sources": ["https://www.reddit.com/r/UFOs/comments/ohare_2006_case_summary"],
+        "lat": 41.9742,
+        "lng": -87.9073,
+        "location_name": "Chicago O'Hare Airport, Illinois, USA",
+        "classification": "NL",
+        "case_status": "unexplained"
+      },
+      "mentions": {
+        "persons": [],
+        "organizations": ["org-nuforc"],
+        "events": [],
+        "designations": [],
+        "locations": []
+      }
+    },
+    {
+      "record_id": "rec-stephenville-2008-mufon",
+      "source_id": "mufon",
+      "url": "https://www.mufon.com/case/stephenville-2008",
+      "extraction_confidence": "high",
+      "date_resolved": true,
+      "geocoded": true,
+      "node": {
+        "id": "incident-stephenville-2008",
+        "node_type": "incident",
+        "label": "Stephenville Incident",
+        "summary": "Multiple witnesses in Texas reported a large craft with unusual motion characteristics.",
+        "tags": ["Texas", "police witnesses"],
+        "date_start": "2008-01-08",
+        "confidence": "medium",
+        "sources": ["https://www.mufon.com/case/stephenville-2008"],
+        "lat": 32.2207,
+        "lng": -98.2023,
+        "location_name": "Stephenville, Texas, USA",
+        "classification": "CE1",
+        "case_status": "unexplained"
+      },
+      "mentions": {
+        "persons": [],
+        "organizations": ["org-mufon"],
+        "events": [],
+        "designations": [],
+        "locations": []
+      }
+    },
+    {
+      "record_id": "rec-odni-2021",
+      "source_id": "aaro",
+      "url": "https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/item/2214-preliminary-assessment-unidentified-aerial-phenomena",
+      "extraction_confidence": "high",
+      "date_resolved": true,
+      "geocoded": false,
+      "node": {
+        "id": "statement-odni-2021",
+        "node_type": "statement",
+        "label": "ODNI UAP Preliminary Assessment",
+        "summary": "Official 2021 assessment noting most military UAP reports remained unresolved and required further analysis.",
+        "tags": ["ODNI", "official report", "2021"],
+        "date_start": "2021-06-25",
+        "confidence": "high",
+        "sources": ["https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/item/2214-preliminary-assessment-unidentified-aerial-phenomena"]
+      },
+      "mentions": {
+        "persons": [],
+        "organizations": ["org-aaro"],
+        "events": [],
+        "designations": [],
+        "locations": []
+      }
+    },
+    {
+      "record_id": "rec-grusch-2023-hearing",
+      "source_id": "aaro",
+      "url": "https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/",
+      "extraction_confidence": "medium",
+      "date_resolved": true,
+      "geocoded": false,
+      "node": {
+        "id": "statement-grusch-2023",
+        "node_type": "statement",
+        "label": "David Grusch Testimony",
+        "summary": "Congressional testimony describing alleged crash retrieval and reverse engineering activities.",
+        "tags": ["Congress", "whistleblower", "retrieval claims"],
+        "date_start": "2023-07-26",
+        "confidence": "disputed",
+        "sources": ["https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/"]
+      },
+      "mentions": {
+        "persons": ["person-david-grusch"],
+        "organizations": ["org-aaro"],
+        "events": ["event-congress-hearing-2023"],
+        "designations": [],
+        "locations": []
+      }
+    }
+  ]
+}

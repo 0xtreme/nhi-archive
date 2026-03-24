@@ -1,0 +1,92 @@
+[
+  {
+    "source_id": "nuforc",
+    "name": "NUFORC Online Database",
+    "url": "https://nuforc.org/",
+    "source_type": "structured_db",
+    "trust_level": "primary",
+    "crawl_frequency": "daily",
+    "extraction_method": "structured_scrape",
+    "active": true
+  },
+  {
+    "source_id": "mufon",
+    "name": "MUFON Case Management System",
+    "url": "https://www.mufon.com/",
+    "source_type": "structured_db",
+    "trust_level": "primary",
+    "crawl_frequency": "daily",
+    "extraction_method": "api",
+    "active": true
+  },
+  {
+    "source_id": "national-archives-foia",
+    "name": "US National Archives FOIA UAP",
+    "url": "https://www.archives.gov/research/military/air-force/ufos",
+    "source_type": "government_foia",
+    "trust_level": "primary",
+    "crawl_frequency": "weekly",
+    "extraction_method": "pdf_parse",
+    "active": true
+  },
+  {
+    "source_id": "aaro",
+    "name": "AARO Official Releases",
+    "url": "https://www.aaro.mil/",
+    "source_type": "government_foia",
+    "trust_level": "primary",
+    "crawl_frequency": "weekly",
+    "extraction_method": "structured_scrape",
+    "active": true
+  },
+  {
+    "source_id": "cia-foia",
+    "name": "CIA FOIA Reading Room",
+    "url": "https://www.cia.gov/readingroom/",
+    "source_type": "government_foia",
+    "trust_level": "primary",
+    "crawl_frequency": "monthly",
+    "extraction_method": "pdf_parse",
+    "active": true
+  },
+  {
+    "source_id": "uk-national-archives",
+    "name": "UK National Archives UFO Files",
+    "url": "https://www.nationalarchives.gov.uk/ufos/",
+    "source_type": "government_foia",
+    "trust_level": "primary",
+    "crawl_frequency": "monthly",
+    "extraction_method": "pdf_parse",
+    "active": true
+  },
+  {
+    "source_id": "black-vault",
+    "name": "The Black Vault",
+    "url": "https://www.theblackvault.com/",
+    "source_type": "news_archive",
+    "trust_level": "secondary",
+    "crawl_frequency": "weekly",
+    "extraction_method": "structured_scrape",
+    "active": true
+  },
+  {
+    "source_id": "wikipedia-uap",
+    "name": "Wikipedia UAP Articles",
+    "url": "https://en.wikipedia.org/wiki/UFO",
+    "source_type": "wiki",
+    "trust_level": "secondary",
+    "crawl_frequency": "weekly",
+    "extraction_method": "api",
+    "active": true
+  },
+  {
+    "source_id": "reddit-ufos",
+    "name": "Reddit r/UFOs",
+    "url": "https://www.reddit.com/r/UFOs/",
+    "source_type": "forum",
+    "trust_level": "tertiary",
+    "crawl_frequency": "daily",
+    "extraction_method": "api",
+    "active": true
+  }
+]
