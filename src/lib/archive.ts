@@ -20,6 +20,7 @@ export const NODE_TYPE_ORDER: NodeType[] = [
 ];
 
 export const CONFIDENCE_ORDER: Confidence[] = ['high', 'medium', 'low', 'disputed'];
+export const DEFAULT_GRAPH_NODE_CAP = 260;
 
 export const NODE_COLORS: Record<NodeType, string> = {
   incident: '#FF6A3D',
@@ -115,6 +116,30 @@ function normalizeText(input?: string): string | undefined {
   return decodeHtmlEntities(input).replace(/\s+/g, ' ').trim();
 }
 
+function isNoisyTag(tag: string): boolean {
+  const normalized = tag.toLowerCase();
+  const patterns = [
+    /^\d{3,4} births$/,
+    /^\d{3,4} deaths$/,
+    /^\d{3,4} in .+/,
+    /\bliving people\b/,
+    /\bshort stories\b/,
+    /\bfilms?\b/,
+    /\bworks\b/,
+    /\bhoax(es)?\b/,
+    /\bfiction\b/,
+    /\bnovels?\b/,
+    /\bbooks?\b/,
+    /\bcharacters?\b/,
+    /\btelevision\b/,
+    /\bepisodes?\b/,
+    /\bamerican writers\b/,
+    /\bscience fiction\b/,
+    /\bwikipedia\b/,
+  ];
+  return patterns.some((pattern) => pattern.test(normalized));
+}
+
 export function normalizeGraphData(graph: ArchiveGraph): ArchiveGraph {
   return {
     ...graph,
@@ -123,7 +148,13 @@ export function normalizeGraphData(graph: ArchiveGraph): ArchiveGraph {
       label: normalizeText(node.label) ?? node.label,
       summary: normalizeText(node.summary) ?? node.summary,
       location_name: normalizeText(node.location_name),
-      tags: node.tags.map((tag) => normalizeText(tag) ?? tag),
+      tags: Array.from(
+        new Set(
+          node.tags
+            .map((tag) => normalizeText(tag) ?? tag)
+            .filter((tag) => !isNoisyTag(tag)),
+        ),
+      ),
     })),
   };
 }
@@ -143,6 +174,7 @@ export function buildDefaultFilters(nodes: ArchiveNode[]): FilterState {
     dateTo: maxYear,
     classifications: [],
     tags: [],
+    graphNodeCap: DEFAULT_GRAPH_NODE_CAP,
   };
 }
 
@@ -178,8 +210,8 @@ export function filterGraph(
     }
 
     if (filters.tags.length > 0) {
-      const hasAllTags = filters.tags.every((tag) => node.tags.includes(tag));
-      if (!hasAllTags) {
+      const hasAnyTag = filters.tags.some((tag) => node.tags.includes(tag));
+      if (!hasAnyTag) {
         return false;
       }
     }

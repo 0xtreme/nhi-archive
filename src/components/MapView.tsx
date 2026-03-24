@@ -34,6 +34,10 @@ function FitBounds({
   points: Array<{ lat: number; lng: number }>;
 }) {
   const map = useMap();
+  const boundsKey = useMemo(
+    () => points.map((point) => `${point.lat.toFixed(3)},${point.lng.toFixed(3)}`).join('|'),
+    [points],
+  );
 
   useEffect(() => {
     if (points.length === 0) {
@@ -41,8 +45,8 @@ function FitBounds({
     }
 
     const bounds = latLngBounds(points.map((point) => [point.lat, point.lng]));
-    map.fitBounds(bounds, { padding: [24, 24], maxZoom: 6 });
-  }, [map, points]);
+    map.fitBounds(bounds, { padding: [20, 20], maxZoom: 6 });
+  }, [boundsKey, map, points]);
 
   return null;
 }
@@ -73,6 +77,11 @@ export function MapView({ nodes, selectedNodeId, onSelectNode }: MapViewProps) {
     return [totals.lat / incidents.length, totals.lng / incidents.length];
   }, [incidents]);
 
+  const fitPoints = useMemo(
+    () => incidents.map((incident) => ({ lat: incident.lat, lng: incident.lng })),
+    [incidents],
+  );
+
   return (
     <section className="view map-view">
       <div className="view-header">
@@ -86,16 +95,17 @@ export function MapView({ nodes, selectedNodeId, onSelectNode }: MapViewProps) {
         <div className="map-canvas modern">
           <MapContainer
             center={initialCenter}
-            zoom={2}
-            minZoom={2}
+            zoom={2.5}
+            minZoom={2.25}
             maxZoom={12}
+            zoomSnap={0.25}
             zoomControl
             worldCopyJump={false}
             maxBounds={[
               [-85, -180],
               [85, 180],
             ]}
-            maxBoundsViscosity={1}
+            maxBoundsViscosity={0.92}
             style={{ height: '100%', width: '100%' }}
           >
             <TileLayer
@@ -104,7 +114,7 @@ export function MapView({ nodes, selectedNodeId, onSelectNode }: MapViewProps) {
               attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>'
             />
 
-            <FitBounds points={incidents.map((incident) => ({ lat: incident.lat, lng: incident.lng }))} />
+            <FitBounds points={fitPoints} />
 
             {incidents.map((incident) => {
               const selected = selectedNodeId === incident.id;

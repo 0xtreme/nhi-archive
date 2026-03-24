@@ -13,6 +13,7 @@ interface FilterPanelProps {
   onToggleTag: (tag: string) => void;
   onDateFromChange: (year: number) => void;
   onDateToChange: (year: number) => void;
+  onGraphNodeCapChange: (value: number) => void;
   onReset: () => void;
 }
 
@@ -28,6 +29,7 @@ export function FilterPanel({
   onToggleTag,
   onDateFromChange,
   onDateToChange,
+  onGraphNodeCapChange,
   onReset,
 }: FilterPanelProps) {
   return (
@@ -96,6 +98,24 @@ export function FilterPanel({
         </div>
       </section>
 
+      <section>
+        <h3>Graph Density</h3>
+        <div className="range-group">
+          <label>
+            <span>Node cap: {filters.graphNodeCap}</span>
+            <input
+              type="range"
+              min={80}
+              max={900}
+              step={20}
+              value={filters.graphNodeCap}
+              onChange={(event) => onGraphNodeCapChange(Number(event.target.value))}
+            />
+          </label>
+          <small>Limits visible graph nodes to keep navigation responsive.</small>
+        </div>
+      </section>
+
       {availableClassifications.length > 0 && (
         <section>
           <h3>Classification</h3>
@@ -148,6 +168,9 @@ export function FilterPanel({
         </p>
         <p>
           <strong>Tag cleanup:</strong> birth/death/year taxonomy tags are now suppressed from bulk imports.
+        </p>
+        <p>
+          <strong>Tag matching:</strong> selecting multiple tags now matches any selected tag.
         </p>
       </section>
     </aside>

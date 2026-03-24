@@ -61,4 +61,5 @@ export interface FilterState {
   dateTo: number;
   classifications: string[];
   tags: string[];
+  graphNodeCap: number;
 }

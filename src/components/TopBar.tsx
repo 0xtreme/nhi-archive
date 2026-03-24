@@ -44,7 +44,7 @@ export function TopBar({
     <header className="topbar">
       <div className="brand">
         <p className="eyebrow">NHI Archive</p>
-        <h1>NHI Incident Explorer</h1>
+        <h1>NHI Archive Explorer</h1>
         <p className="subtitle">{subtitle}</p>
       </div>
 
@@ -75,35 +75,37 @@ export function TopBar({
           ))}
         </div>
 
-        <div className="search-wrapper">
-          <input
-            aria-label="Search nodes"
-            placeholder="Search label, summary, tags, location, sources..."
-            value={query}
-            onChange={(event) => onQueryChange(event.target.value)}
-          />
+        <div className="toolbar-right">
+          <div className="search-wrapper">
+            <input
+              aria-label="Search nodes"
+              placeholder="Search label, summary, tags, location, sources..."
+              value={query}
+              onChange={(event) => onQueryChange(event.target.value)}
+            />
 
-          {query.trim().length > 0 && (
-            <div className="search-results" role="listbox" aria-label="Search results">
-              {suggestions.length === 0 && <p className="search-empty">No matching nodes</p>}
-              {suggestions.map((node) => (
-                <button
-                  key={node.id}
-                  className="search-result-item"
-                  onClick={() => onSuggestionSelect(node)}
-                >
-                  <span>{node.label}</span>
-                  <small>{node.node_type}</small>
-                </button>
-              ))}
-            </div>
-          )}
+            {query.trim().length > 0 && (
+              <div className="search-results" role="listbox" aria-label="Search results">
+                {suggestions.length === 0 && <p className="search-empty">No matching nodes</p>}
+                {suggestions.map((node) => (
+                  <button
+                    key={node.id}
+                    className="search-result-item"
+                    onClick={() => onSuggestionSelect(node)}
+                  >
+                    <span>{node.label}</span>
+                    <small>{node.node_type}</small>
+                  </button>
+                ))}
+              </div>
+            )}
+          </div>
+
+          <div className="quick-guide inline" aria-label="Usage guide">
+            <span>How to use</span>
+            <p>Graph: click node. Map: click dot. Timeline: adjust years.</p>
+          </div>
         </div>
-      </div>
-
-      <div className="quick-guide" aria-label="Usage guide">
-        <span>How to use:</span>
-        <p>Graph: click a node to focus. Map: click a dot for details. Timeline: adjust year window and select events.</p>
       </div>
     </header>
   );

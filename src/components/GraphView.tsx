@@ -224,22 +224,22 @@ export function GraphView({ nodes, edges, selectedNodeId, onSelectNode }: GraphV
           strength?: (value: number) => void;
         }
       | undefined;
-    linkForce?.distance?.(30);
-    linkForce?.strength?.(0.3);
+    linkForce?.distance?.(24);
+    linkForce?.strength?.(0.34);
 
     const chargeForce = graphRef.current.d3Force('charge') as
       | {
           strength?: (value: number) => void;
         }
       | undefined;
-    chargeForce?.strength?.(-52);
+    chargeForce?.strength?.(-34);
 
     const centerForce = graphRef.current.d3Force('center') as
       | {
           strength?: (value: number) => void;
         }
       | undefined;
-    centerForce?.strength?.(0.32);
+    centerForce?.strength?.(0.48);
 
     graphRef.current.d3ReheatSimulation();
   }, [edges.length, nodes.length]);

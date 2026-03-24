@@ -15,6 +15,8 @@ interface RelatedGroup {
 }
 
 export function DetailPanel({ node, edges, nodeLookup, onSelectNode }: DetailPanelProps) {
+  const dateLabel = node?.node_type === 'person' ? 'Birth Year (if known)' : 'Date';
+
   const relatedGroups = useMemo<RelatedGroup[]>(() => {
     if (!node) {
       return [];
@@ -68,7 +70,7 @@ export function DetailPanel({ node, edges, nodeLookup, onSelectNode }: DetailPan
         </p>
         {node.date_start && (
           <p>
-            <strong>Date:</strong> {node.date_start}
+            <strong>{dateLabel}:</strong> {node.date_start}
             {node.date_end ? ` to ${node.date_end}` : ''}
           </p>
         )}

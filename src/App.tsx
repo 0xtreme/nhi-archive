@@ -8,6 +8,7 @@ import { TopBar } from './components/TopBar';
 import { fallbackGraph } from './data/fallbackGraph';
 import {
   buildDefaultFilters,
+  DEFAULT_GRAPH_NODE_CAP,
   filterGraph,
   getYear,
   normalizeGraphData,
@@ -16,7 +17,6 @@ import {
 } from './lib/archive';
 import type { ArchiveGraph, ArchiveNode, Confidence, FilterState, NodeType, ViewMode } from './types';
 
-const GRAPH_SKELETON_SIZE = 350;
 const normalizedFallbackGraph = normalizeGraphData(fallbackGraph);
 
 function toggle<T>(values: T[], value: T, allValues: T[]): T[] {
@@ -155,6 +155,9 @@ export default function App() {
   const availableTags = useMemo(() => {
     const tags = new Set<string>();
     for (const node of graphData.nodes) {
+      if (node.node_type !== 'incident') {
+        continue;
+      }
       node.tags.forEach((tag) => tags.add(tag));
     }
     return Array.from(tags).sort((left, right) => left.localeCompare(right));
@@ -192,7 +195,9 @@ export default function App() {
   }, [filteredGraph.edges, filteredGraph.nodes]);
 
   const graphSkeletonIds = useMemo(() => {
-    const initial = new Set(degreeOrderedNodeIds.slice(0, GRAPH_SKELETON_SIZE));
+    const initial = new Set(
+      degreeOrderedNodeIds.slice(0, Math.max(80, Math.min(1000, filters.graphNodeCap))),
+    );
 
     if (!selectedNodeId) {
       return initial;
@@ -209,7 +214,7 @@ export default function App() {
     }
 
     return initial;
-  }, [degreeOrderedNodeIds, filteredGraph.edges, selectedNodeId]);
+  }, [degreeOrderedNodeIds, filteredGraph.edges, filters.graphNodeCap, selectedNodeId]);
 
   const graphNodes = useMemo(
     () => filteredGraph.nodes.filter((node) => graphSkeletonIds.has(node.id)),
@@ -250,6 +255,9 @@ export default function App() {
       count += 1;
     }
     if (filters.dateFrom !== minYear || filters.dateTo !== maxYear) {
+      count += 1;
+    }
+    if (filters.graphNodeCap !== DEFAULT_GRAPH_NODE_CAP) {
       count += 1;
     }
     if (query.trim().length > 0) {
@@ -313,6 +321,13 @@ export default function App() {
   const onResetFilters = () => {
     setFilters(buildDefaultFilters(graphData.nodes));
     setQuery('');
+  };
+
+  const onGraphNodeCapChange = (graphNodeCap: number) => {
+    setFilters((previous) => ({
+      ...previous,
+      graphNodeCap,
+    }));
   };
 
   const onSelectNode = (nodeId: string) => {
@@ -391,20 +406,21 @@ export default function App() {
       </div>
 
       <main className="layout">
-        <FilterPanel
-          filters={filters}
-          minYear={minYear}
-          maxYear={maxYear}
-          availableTags={availableTags}
-          availableClassifications={availableClassifications}
+      <FilterPanel
+        filters={filters}
+        minYear={minYear}
+        maxYear={maxYear}
+        availableTags={availableTags}
+        availableClassifications={availableClassifications}
           onToggleNodeType={onToggleNodeType}
           onToggleConfidence={onToggleConfidence}
           onToggleClassification={onToggleClassification}
-          onToggleTag={onToggleTag}
-          onDateFromChange={onDateFromChange}
-          onDateToChange={onDateToChange}
-          onReset={onResetFilters}
-        />
+        onToggleTag={onToggleTag}
+        onDateFromChange={onDateFromChange}
+        onDateToChange={onDateToChange}
+        onGraphNodeCapChange={onGraphNodeCapChange}
+        onReset={onResetFilters}
+      />
 
         {renderView()}
 
