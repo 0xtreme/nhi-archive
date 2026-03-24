@@ -216,7 +216,7 @@ export default function App() {
     return initial;
   }, [degreeOrderedNodeIds, filteredGraph.edges, filters.graphNodeCap, selectedNodeId]);
 
-  const graphNodes = useMemo(
+  const provisionalGraphNodes = useMemo(
     () => filteredGraph.nodes.filter((node) => graphSkeletonIds.has(node.id)),
     [filteredGraph.nodes, graphSkeletonIds],
   );
@@ -228,6 +228,18 @@ export default function App() {
       ),
     [filteredGraph.edges, graphSkeletonIds],
   );
+
+  const graphNodes = useMemo(() => {
+    const connectedIds = new Set<string>();
+    for (const edge of graphEdges) {
+      connectedIds.add(edge.from_node_id);
+      connectedIds.add(edge.to_node_id);
+    }
+
+    return provisionalGraphNodes.filter(
+      (node) => connectedIds.has(node.id) || (selectedNodeId !== null && node.id === selectedNodeId),
+    );
+  }, [graphEdges, provisionalGraphNodes, selectedNodeId]);
 
   const selectedNode = selectedNodeId ? nodeLookup.get(selectedNodeId) ?? null : null;
 

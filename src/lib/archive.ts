@@ -20,33 +20,33 @@ export const NODE_TYPE_ORDER: NodeType[] = [
 ];
 
 export const CONFIDENCE_ORDER: Confidence[] = ['high', 'medium', 'low', 'disputed'];
-export const DEFAULT_GRAPH_NODE_CAP = 260;
+export const DEFAULT_GRAPH_NODE_CAP = 180;
 
 export const NODE_COLORS: Record<NodeType, string> = {
-  incident: '#f4f4f4',
-  person: '#d8d8d8',
-  organization: '#bfbfbf',
-  location: '#a6a6a6',
-  statement: '#8f8f8f',
-  artifact: '#797979',
-  designation: '#646464',
-  event: '#525252',
-  media: '#3f3f3f',
+  incident: '#FF6A3D',
+  person: '#00C8FF',
+  organization: '#4E63D8',
+  location: '#00E5A0',
+  statement: '#FFB800',
+  artifact: '#C0C8D0',
+  designation: '#B782FF',
+  event: '#FFE45C',
+  media: '#00D4C4',
 };
 
 export const RELATION_COLORS: Record<string, string> = {
-  WITNESSED: '#d7d7d7',
-  INVESTIGATED: '#bdbdbd',
-  MADE_STATEMENT: '#ababab',
-  LOCATED_AT: '#999',
-  PART_OF: '#878787',
-  ASSIGNED_DESIGNATION: '#777',
-  RECOVERED: '#676767',
-  AFFILIATED_WITH: '#585858',
-  REFERENCES: '#4b4b4b',
-  CORROBORATES: '#9f9f9f',
-  CONTRADICTS: '#6a6a6a',
-  PRECEDED: '#888',
+  WITNESSED: '#00C8FF',
+  INVESTIGATED: '#FFB800',
+  MADE_STATEMENT: '#FFE45C',
+  LOCATED_AT: '#00E5A0',
+  PART_OF: '#7B2FBE',
+  ASSIGNED_DESIGNATION: '#B782FF',
+  RECOVERED: '#C0C8D0',
+  AFFILIATED_WITH: '#4E63D8',
+  REFERENCES: '#00D4C4',
+  CORROBORATES: '#00E5A0',
+  CONTRADICTS: '#FF4444',
+  PRECEDED: '#9EC5FF',
 };
 
 export function getYear(dateValue?: string | null): number | null {

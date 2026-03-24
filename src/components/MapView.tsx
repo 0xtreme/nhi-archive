@@ -95,8 +95,8 @@ export function MapView({ nodes, selectedNodeId, onSelectNode }: MapViewProps) {
         <div className="map-canvas modern">
           <MapContainer
             center={initialCenter}
-            zoom={2.5}
-            minZoom={2.25}
+            zoom={2.9}
+            minZoom={2.8}
             maxZoom={12}
             zoomSnap={0.25}
             zoomControl

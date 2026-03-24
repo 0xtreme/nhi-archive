@@ -100,11 +100,6 @@ export function TopBar({
               </div>
             )}
           </div>
-
-          <div className="quick-guide inline" aria-label="Usage guide">
-            <span>How to use</span>
-            <p>Graph: click node. Map: click dot. Timeline: adjust years.</p>
-          </div>
         </div>
       </div>
     </header>

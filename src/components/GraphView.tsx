@@ -56,10 +56,10 @@ const NODE_LEGEND: Array<{
 ];
 
 const EDGE_LEGEND: Array<{ label: string; color: string; dashed?: boolean }> = [
-  { label: 'WITNESSED', color: RELATION_COLORS.WITNESSED ?? '#bfbfbf' },
-  { label: 'INVESTIGATED', color: RELATION_COLORS.INVESTIGATED ?? '#a7a7a7' },
-  { label: 'CORROBORATES', color: RELATION_COLORS.CORROBORATES ?? '#929292', dashed: true },
-  { label: 'CONTRADICTS', color: RELATION_COLORS.CONTRADICTS ?? '#6f6f6f', dashed: true },
+  { label: 'WITNESSED', color: RELATION_COLORS.WITNESSED ?? '#00C8FF' },
+  { label: 'INVESTIGATED', color: RELATION_COLORS.INVESTIGATED ?? '#FFB800' },
+  { label: 'CORROBORATES', color: RELATION_COLORS.CORROBORATES ?? '#00E5A0', dashed: true },
+  { label: 'CONTRADICTS', color: RELATION_COLORS.CONTRADICTS ?? '#FF4444', dashed: true },
 ];
 
 function hash01(value: string): number {
@@ -174,15 +174,15 @@ function drawShape(
 
 function confidenceRing(node: RenderNode): { color: string; width: number; dashed?: boolean } {
   if (node.confidence === 'high') {
-    return { color: '#e2e2e2', width: 1.65 };
+    return { color: '#00E5A0', width: 1.65 };
   }
   if (node.confidence === 'medium') {
-    return { color: '#bfbfbf', width: 1.3 };
+    return { color: '#FFB800', width: 1.3 };
   }
   if (node.confidence === 'low') {
-    return { color: '#969696', width: 1.1 };
+    return { color: '#9AB3CB', width: 1.1 };
   }
-  return { color: '#7d7d7d', width: 1.3, dashed: true };
+  return { color: '#FF5454', width: 1.3, dashed: true };
 }
 
 export function GraphView({ nodes, edges, selectedNodeId, onSelectNode }: GraphViewProps) {
@@ -224,22 +224,22 @@ export function GraphView({ nodes, edges, selectedNodeId, onSelectNode }: GraphV
           strength?: (value: number) => void;
         }
       | undefined;
-    linkForce?.distance?.(24);
-    linkForce?.strength?.(0.34);
+    linkForce?.distance?.(20);
+    linkForce?.strength?.(0.38);
 
     const chargeForce = graphRef.current.d3Force('charge') as
       | {
           strength?: (value: number) => void;
         }
       | undefined;
-    chargeForce?.strength?.(-34);
+    chargeForce?.strength?.(-26);
 
     const centerForce = graphRef.current.d3Force('center') as
       | {
           strength?: (value: number) => void;
         }
       | undefined;
-    centerForce?.strength?.(0.48);
+    centerForce?.strength?.(0.56);
 
     graphRef.current.d3ReheatSimulation();
   }, [edges.length, nodes.length]);
@@ -319,8 +319,8 @@ export function GraphView({ nodes, edges, selectedNodeId, onSelectNode }: GraphV
       return;
     }
 
-    graphRef.current.centerAt(focusNode.x, focusNode.y, 560);
-    graphRef.current.zoom(4.2, 620);
+    graphRef.current.centerAt(focusNode.x, focusNode.y, 240);
+    graphRef.current.zoom(2.8, 280);
   }, [graphData.nodes, selectedNodeId]);
 
   return (
@@ -343,12 +343,12 @@ export function GraphView({ nodes, edges, selectedNodeId, onSelectNode }: GraphV
             d3AlphaDecay={0.038}
             d3VelocityDecay={0.28}
             enableNodeDrag
-            linkCurvature={(link) => link.curvature}
+            linkCurvature={0}
             linkLineDash={(link) => (link.dashed ? [5, 4] : null)}
             linkDirectionalArrowLength={0}
             linkDirectionalParticles={0}
             linkColor={(link) =>
-              selectedNodeId && !link.isHighlighted ? 'rgba(125, 125, 125, 0.18)' : (link.color ?? '#5f5f5f')
+              selectedNodeId && !link.isHighlighted ? 'rgba(72, 95, 129, 0.16)' : (link.color ?? '#3F5876')
             }
             linkWidth={(link) => link.width}
             nodeLabel={(node) => `${node.label} (${node.nodeType})`}
@@ -367,7 +367,7 @@ export function GraphView({ nodes, edges, selectedNodeId, onSelectNode }: GraphV
             }}
             onBackgroundClick={() => {
               if (graphRef.current) {
-                graphRef.current.zoomToFit(550, 66);
+                graphRef.current.zoomToFit(220, 56);
               }
             }}
             nodePointerAreaPaint={(node, color, ctx) => {
@@ -392,7 +392,7 @@ export function GraphView({ nodes, edges, selectedNodeId, onSelectNode }: GraphV
               ctx.beginPath();
               drawShape(ctx, node.nodeType, x, y, sizeScale);
               ctx.fillStyle = node.color;
-              ctx.shadowBlur = node.isSelected ? 24 : node.isNeighbor ? 12 : 3;
+              ctx.shadowBlur = node.isSelected ? 7 : node.isNeighbor ? 2 : 0;
               ctx.shadowColor = node.color;
               ctx.fill();
 
@@ -467,6 +467,13 @@ export function GraphView({ nodes, edges, selectedNodeId, onSelectNode }: GraphV
                   </div>
                 ))}
               </div>
+            </div>
+
+            <div className="graph-usage" aria-label="How to use graph">
+              <h4>How To Use</h4>
+              <p>Click a node to focus and reveal its label.</p>
+              <p>Use search to jump to entities like AATIP/AARO, then inspect connected records.</p>
+              <p>Use the Graph Density slider in filters if the graph feels heavy.</p>
             </div>
           </div>
         </div>
