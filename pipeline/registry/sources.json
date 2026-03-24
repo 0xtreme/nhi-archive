@@ -2,11 +2,22 @@
   {
     "source_id": "nuforc",
     "name": "NUFORC Online Database",
-    "url": "https://nuforc.org/",
+    "url": "https://nuforc.org/databank/",
     "source_type": "structured_db",
     "trust_level": "primary",
     "crawl_frequency": "daily",
     "extraction_method": "structured_scrape",
+    "active": true
+  },
+  {
+    "source_id": "kaggle-nuforc-ufo-sightings",
+    "name": "Kaggle NUFORC UFO Sightings",
+    "url": "https://www.kaggle.com/datasets/NUFORC/ufo-sightings",
+    "source_type": "structured_db",
+    "trust_level": "primary",
+    "crawl_frequency": "monthly",
+    "extraction_method": "api",
+    "auto_ingest_min_score": 0.5,
     "active": true
   },
   {

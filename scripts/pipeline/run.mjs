@@ -17,6 +17,7 @@ const PATHS = {
   outReport: path.join(ROOT, 'pipeline/out/ingestion-report.json'),
   outReviewQueue: path.join(ROOT, 'pipeline/out/review-queue.json'),
   outGraph: path.join(ROOT, 'public/data/graph.seed.json'),
+  outSourceList: path.join(ROOT, 'public/data/source-list.json'),
 };
 
 const sourceSchema = z.object({
@@ -507,6 +508,18 @@ async function main() {
 
   const sources = z.array(sourceSchema).parse(sourceRegistryRaw).filter((source) => source.active);
   const sourceLookup = new Map(sources.map((source) => [source.source_id, source]));
+  const sourceStats = new Map(
+    sources.map((source) => [
+      source.source_id,
+      {
+        records_processed: 0,
+        records_auto_ingested: 0,
+        records_review_queue: 0,
+        records_url_duplicate: 0,
+        records_semantic_duplicate: 0,
+      },
+    ]),
+  );
 
   const baselineNodes = z.array(nodeSchema).parse(baselineRaw.nodes);
   const baselineEdges = z.array(edgeSchema).parse(baselineRaw.edges);
@@ -576,9 +589,19 @@ async function main() {
 
     report.records_processed += 1;
     report.source_breakdown[source.source_id] = (report.source_breakdown[source.source_id] ?? 0) + 1;
+    {
+      const stat = sourceStats.get(source.source_id);
+      if (stat) {
+        stat.records_processed += 1;
+      }
+    }
 
     if (processedUrlSet.has(record.url)) {
       report.records_skipped_url_duplicate += 1;
+      const stat = sourceStats.get(source.source_id);
+      if (stat) {
+        stat.records_url_duplicate += 1;
+      }
       continue;
     }
     processedUrlSet.add(record.url);
@@ -605,6 +628,10 @@ async function main() {
       bestMatch.sources = mergedSources;
       nodesById.set(bestMatch.id, bestMatch);
       report.records_skipped_semantic_duplicate += 1;
+      const stat = sourceStats.get(source.source_id);
+      if (stat) {
+        stat.records_semantic_duplicate += 1;
+      }
       continue;
     }
 
@@ -617,6 +644,10 @@ async function main() {
         record,
       });
       report.records_review_queue += 1;
+      const stat = sourceStats.get(source.source_id);
+      if (stat) {
+        stat.records_review_queue += 1;
+      }
       continue;
     }
 
@@ -640,6 +671,10 @@ async function main() {
         node: record.node,
       });
       report.records_review_queue += 1;
+      const stat = sourceStats.get(source.source_id);
+      if (stat) {
+        stat.records_review_queue += 1;
+      }
       continue;
     }
 
@@ -660,6 +695,12 @@ async function main() {
       nodeBuckets.set(key, entries);
     }
     report.records_auto_ingested += 1;
+    {
+      const stat = sourceStats.get(source.source_id);
+      if (stat) {
+        stat.records_auto_ingested += 1;
+      }
+    }
 
     const inferredMentions = inferEntityMentions(nodeToIngest);
     const personMentions = ensureArrayUnique([
@@ -1037,8 +1078,30 @@ async function main() {
     edges: finalEdges,
   };
 
+  const sourceListPayload = {
+    generated_at: new Date().toISOString(),
+    total_sources: sources.length,
+    notes: 'Generated from pipeline registry and ingestion run statistics.',
+    sources: sources
+      .map((source) => {
+        const stats = sourceStats.get(source.source_id) ?? {
+          records_processed: 0,
+          records_auto_ingested: 0,
+          records_review_queue: 0,
+          records_url_duplicate: 0,
+          records_semantic_duplicate: 0,
+        };
+        return {
+          ...source,
+          ...stats,
+        };
+      })
+      .sort((left, right) => left.name.localeCompare(right.name)),
+  };
+
   await Promise.all([
     writeJson(PATHS.outGraph, graphPayload),
+    writeJson(PATHS.outSourceList, sourceListPayload),
     writeJson(PATHS.outReport, report),
     writeJson(PATHS.outReviewQueue, {
       generated_at: new Date().toISOString(),

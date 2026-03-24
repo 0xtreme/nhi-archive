@@ -13,6 +13,7 @@ The repo now includes a working MVP pipeline in `scripts/pipeline/run.mjs` with 
 - Config file: `pipeline/registry/sources.json`
 - Defines trust level, crawl frequency, and extraction method per source
 - Supports primary/secondary/tertiary scoring in confidence policy
+- Includes explicit `nuforc` (`https://nuforc.org/databank/`) and `kaggle-nuforc-ufo-sightings` source records for NUFORC-backed intake planning
 
 ### Stage 2: Intake / Fetch Boundary
 
@@ -41,6 +42,7 @@ The repo now includes a working MVP pipeline in `scripts/pipeline/run.mjs` with 
 - Auto-ingest threshold: `pipeline_confidence >= 0.70`
 - Below threshold -> review queue
 - Output graph artifact: `public/data/graph.seed.json`
+- Output source catalog: `public/data/source-list.json`
 - Monitoring artifacts:
   - `pipeline/out/ingestion-report.json`
   - `pipeline/out/review-queue.json`

@@ -91,6 +91,32 @@ h1 {
   line-height: 1.2;
 }
 
+.brand-title-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.5rem;
+}
+
+.topbar-link {
+  display: inline-flex;
+  align-items: center;
+  border: 1px solid rgba(109, 149, 189, 0.42);
+  border-radius: 999px;
+  background: rgba(16, 31, 48, 0.9);
+  color: #cae3fb;
+  text-decoration: none;
+  font-size: 0.72rem;
+  line-height: 1;
+  padding: 0.28rem 0.54rem;
+  white-space: nowrap;
+}
+
+.topbar-link:hover {
+  border-color: rgba(79, 168, 255, 0.78);
+  color: #f0f8ff;
+}
+
 .eyebrow {
   margin: 0;
   color: #9ec8ff;

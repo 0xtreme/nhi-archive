@@ -44,7 +44,17 @@ export function TopBar({
     <header className="topbar">
       <div className="brand">
         <p className="eyebrow">NHI Archive</p>
-        <h1>NHI Archive Explorer</h1>
+        <div className="brand-title-row">
+          <h1>NHI Archive Explorer</h1>
+          <a
+            className="topbar-link"
+            href="./source-list.html"
+            target="_blank"
+            rel="noreferrer noopener"
+          >
+            Source List
+          </a>
+        </div>
         <p className="subtitle">{subtitle}</p>
       </div>
 
