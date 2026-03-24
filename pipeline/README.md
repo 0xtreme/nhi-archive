@@ -18,6 +18,13 @@ This folder contains a runnable ingestion pipeline scaffold aligned to Section 1
 npm run ingest
 ```
 
+Bulk internet enrichment (Wikipedia categories + subcategories):
+
+```bash
+npm run ingest:wikipedia
+npm run ingest
+```
+
 ## Outputs
 
 - `public/data/graph.seed.json`: UI-ready nodes and edges

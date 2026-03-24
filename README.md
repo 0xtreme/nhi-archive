@@ -22,7 +22,7 @@ It includes:
 
 ```bash
 npm install
-npm run ingest
+npm run refresh:data
 npm run dev
 ```
 
@@ -38,6 +38,12 @@ Build runs ingestion first, then generates static assets in `dist/`.
 
 ```bash
 npm run ingest
+```
+
+To refresh with bulk internet data (Wikipedia category ingestion + pipeline merge):
+
+```bash
+npm run refresh:data
 ```
 
 Inputs:

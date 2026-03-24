@@ -15,7 +15,7 @@ import {
 } from './lib/archive';
 import type { ArchiveGraph, ArchiveNode, Confidence, FilterState, NodeType, ViewMode } from './types';
 
-const GRAPH_SKELETON_SIZE = 200;
+const GRAPH_SKELETON_SIZE = 350;
 
 function toggle<T>(values: T[], value: T, allValues: T[]): T[] {
   if (values.includes(value)) {

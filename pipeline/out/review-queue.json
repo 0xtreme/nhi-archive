@@ -1,10 +1,11 @@
 {
-  "generated_at": "2026-03-24T05:31:29.392Z",
+  "generated_at": "2026-03-24T06:07:29.572Z",
   "review_queue": [
     {
       "record_id": "rec-roswell-1947-blackvault",
       "reason": "Pipeline confidence below threshold",
       "pipeline_confidence": 0.6,
+      "min_score_required": 0.7,
       "source": "black-vault",
       "node": {
         "id": "incident-roswell-1947-alt",
@@ -29,145 +30,10 @@
       }
     },
     {
-      "record_id": "rec-levelland-1957-nicap",
-      "reason": "Pipeline confidence below threshold",
-      "pipeline_confidence": 0.6,
-      "source": "wikipedia-uap",
-      "node": {
-        "id": "incident-levelland-1957",
-        "node_type": "incident",
-        "label": "Levelland Incident",
-        "summary": "Vehicle electrical interference reports and bright object sightings near Levelland in Texas.",
-        "tags": [
-          "EM interference",
-          "Texas",
-          "multiple witnesses"
-        ],
-        "date_start": "1957-11-02",
-        "confidence": "medium",
-        "sources": [
-          "https://en.wikipedia.org/wiki/Levelland_UFO_case"
-        ],
-        "lat": 33.5873,
-        "lng": -102.3777,
-        "location_name": "Levelland, Texas, USA",
-        "classification": "CE2",
-        "witness_count": 15,
-        "case_status": "unexplained"
-      }
-    },
-    {
-      "record_id": "rec-kecksburg-1965-wiki",
-      "reason": "Pipeline confidence below threshold",
-      "pipeline_confidence": 0.6,
-      "source": "wikipedia-uap",
-      "node": {
-        "id": "incident-kecksburg-1965",
-        "node_type": "incident",
-        "label": "Kecksburg Incident",
-        "summary": "Fireball and alleged acorn-shaped object reports near Kecksburg followed by claimed military response.",
-        "tags": [
-          "Pennsylvania",
-          "crash retrieval"
-        ],
-        "date_start": "1965-12-09",
-        "confidence": "medium",
-        "sources": [
-          "https://en.wikipedia.org/wiki/Kecksburg_UFO_incident"
-        ],
-        "lat": 40.1848,
-        "lng": -79.4606,
-        "location_name": "Kecksburg, Pennsylvania, USA",
-        "classification": "CE2",
-        "case_status": "unexplained"
-      }
-    },
-    {
-      "record_id": "rec-shag-1967-wiki",
-      "reason": "Pipeline confidence below threshold",
-      "pipeline_confidence": 0.6,
-      "source": "wikipedia-uap",
-      "node": {
-        "id": "incident-shag-harbour-1967",
-        "node_type": "incident",
-        "label": "Shag Harbour Incident",
-        "summary": "Witnesses observed an object enter the water; Canadian authorities conducted investigation efforts.",
-        "tags": [
-          "Canada",
-          "crash into water"
-        ],
-        "date_start": "1967-10-04",
-        "confidence": "high",
-        "sources": [
-          "https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident"
-        ],
-        "lat": 43.513,
-        "lng": -65.738,
-        "location_name": "Shag Harbour, Nova Scotia, Canada",
-        "classification": "CE2",
-        "case_status": "unexplained"
-      }
-    },
-    {
-      "record_id": "rec-jal-1986-wiki",
-      "reason": "Pipeline confidence below threshold",
-      "pipeline_confidence": 0.6,
-      "source": "wikipedia-uap",
-      "node": {
-        "id": "incident-jal1628-1986",
-        "node_type": "incident",
-        "label": "JAL1628 Incident",
-        "summary": "JAL cargo crew encountered large anomalous objects over Alaska with reported radar support.",
-        "tags": [
-          "airline",
-          "radar",
-          "Alaska"
-        ],
-        "date_start": "1986-11-17",
-        "confidence": "high",
-        "sources": [
-          "https://en.wikipedia.org/wiki/Japan_Air_Lines_Cargo_Flight_1628_incident"
-        ],
-        "lat": 64.2008,
-        "lng": -149.4937,
-        "location_name": "Alaska airspace, USA",
-        "classification": "NL",
-        "duration_minutes": 50,
-        "case_status": "unexplained"
-      }
-    },
-    {
-      "record_id": "rec-belgian-wave-1989",
-      "reason": "Pipeline confidence below threshold",
-      "pipeline_confidence": 0.5,
-      "source": "wikipedia-uap",
-      "node": {
-        "id": "incident-belgian-wave-1989",
-        "node_type": "incident",
-        "label": "Belgian UFO Wave",
-        "summary": "Mass sightings in Belgium during 1989-1990 with recurring triangle craft reports.",
-        "tags": [
-          "Belgium",
-          "mass sightings",
-          "F-16"
-        ],
-        "date_start": "1989-11",
-        "date_end": "1990-04",
-        "confidence": "high",
-        "sources": [
-          "https://en.wikipedia.org/wiki/Belgian_UFO_wave"
-        ],
-        "lat": 50.8503,
-        "lng": 4.3517,
-        "location_name": "Belgium",
-        "classification": "NL",
-        "case_status": "unexplained"
-      }
-    },
-    {
       "record_id": "rec-ohare-2006-reddit",
       "reason": "Pipeline confidence below threshold",
       "pipeline_confidence": 0.4,
+      "min_score_required": 0.7,
       "source": "reddit-ufos",
       "node": {
         "id": "incident-ohare-2006",
@@ -195,6 +61,7 @@
       "record_id": "rec-grusch-2023-hearing",
       "reason": "Pipeline confidence below threshold",
       "pipeline_confidence": 0.65,
+      "min_score_required": 0.7,
       "source": "aaro",
       "node": {
         "id": "statement-grusch-2023",

@@ -1,5 +1,6 @@
-import { useEffect, useMemo, useRef } from 'react';
-import maplibregl, { type GeoJSONSource, type MapLayerMouseEvent } from 'maplibre-gl';
+import { useEffect, useMemo } from 'react';
+import { latLngBounds, type LatLngExpression } from 'leaflet';
+import { CircleMarker, MapContainer, Popup, TileLayer, Tooltip, useMap } from 'react-leaflet';
 import type { ArchiveNode } from '../types';
 
 interface MapViewProps {
@@ -11,24 +12,40 @@ interface MapViewProps {
 function classificationColor(classification?: string): string {
   switch (classification) {
     case 'CE1':
-      return '#4DB4FF';
+      return '#59C3FF';
     case 'CE2':
-      return '#9B5CFF';
+      return '#9C66FF';
     case 'CE3':
-      return '#D845E9';
+      return '#D854EF';
     case 'CE4':
-      return '#FF4DA8';
+      return '#FF5EAD';
     case 'CE5':
-      return '#FFC700';
+      return '#FFC857';
     default:
-      return '#E2F0FF';
+      return '#D8EBFF';
   }
 }
 
-export function MapView({ nodes, selectedNodeId, onSelectNode }: MapViewProps) {
-  const mapContainerRef = useRef<HTMLDivElement | null>(null);
-  const mapRef = useRef<maplibregl.Map | null>(null);
+function FitBounds({
+  points,
+}: {
+  points: Array<{ lat: number; lng: number }>;
+}) {
+  const map = useMap();
 
+  useEffect(() => {
+    if (points.length === 0) {
+      return;
+    }
+
+    const bounds = latLngBounds(points.map((point) => [point.lat, point.lng]));
+    map.fitBounds(bounds, { padding: [24, 24], maxZoom: 6 });
+  }, [map, points]);
+
+  return null;
+}
+
+export function MapView({ nodes, selectedNodeId, onSelectNode }: MapViewProps) {
   const incidents = useMemo(
     () =>
       nodes.filter(
@@ -38,196 +55,90 @@ export function MapView({ nodes, selectedNodeId, onSelectNode }: MapViewProps) {
     [nodes],
   );
 
-  useEffect(() => {
-    if (!mapContainerRef.current || mapRef.current) {
-      return;
+  const initialCenter = useMemo<LatLngExpression>(() => {
+    if (incidents.length === 0) {
+      return [15, 0];
     }
 
-    const map = new maplibregl.Map({
-      container: mapContainerRef.current,
-      style: 'https://demotiles.maplibre.org/style.json',
-      center: [0, 20],
-      zoom: 1.25,
-      attributionControl: {},
-    });
+    const totals = incidents.reduce(
+      (acc, current) => ({
+        lat: acc.lat + current.lat,
+        lng: acc.lng + current.lng,
+      }),
+      { lat: 0, lng: 0 },
+    );
 
-    mapRef.current = map;
-    map.addControl(new maplibregl.NavigationControl({ showCompass: false }), 'top-right');
-
-    map.on('load', () => {
-      map.addSource('incidents', {
-        type: 'geojson',
-        data: {
-          type: 'FeatureCollection',
-          features: [],
-        },
-        cluster: true,
-        clusterMaxZoom: 7,
-        clusterRadius: 45,
-      });
-
-      map.addLayer({
-        id: 'incident-clusters',
-        type: 'circle',
-        source: 'incidents',
-        filter: ['has', 'point_count'],
-        paint: {
-          'circle-color': '#21466F',
-          'circle-stroke-color': '#00C8FF',
-          'circle-stroke-width': 1.2,
-          'circle-opacity': 0.72,
-          'circle-radius': ['step', ['get', 'point_count'], 15, 10, 18, 25, 24, 75, 31],
-        },
-      });
-
-      map.addLayer({
-        id: 'incident-cluster-count',
-        type: 'symbol',
-        source: 'incidents',
-        filter: ['has', 'point_count'],
-        layout: {
-          'text-field': ['get', 'point_count_abbreviated'],
-          'text-font': ['Open Sans Bold', 'Arial Unicode MS Bold'],
-          'text-size': 11,
-        },
-        paint: {
-          'text-color': '#D6E9FF',
-        },
-      });
-
-      map.addLayer({
-        id: 'incident-points',
-        type: 'circle',
-        source: 'incidents',
-        filter: ['!', ['has', 'point_count']],
-        paint: {
-          'circle-color': ['coalesce', ['get', 'markerColor'], '#E2F0FF'],
-          'circle-radius': 6,
-          'circle-stroke-width': 1.3,
-          'circle-stroke-color': '#0A1520',
-          'circle-opacity': 0.95,
-        },
-      });
-
-      map.addLayer({
-        id: 'incident-selected',
-        type: 'circle',
-        source: 'incidents',
-        filter: ['all', ['!', ['has', 'point_count']], ['==', ['get', 'nodeId'], '']],
-        paint: {
-          'circle-color': '#FFFFFF',
-          'circle-radius': 10,
-          'circle-opacity': 0.18,
-          'circle-stroke-color': '#00C8FF',
-          'circle-stroke-width': 1.5,
-        },
-      });
-
-      map.on('click', 'incident-clusters', (event: MapLayerMouseEvent) => {
-        const feature = event.features?.[0];
-        if (!feature) {
-          return;
-        }
-
-        const clusterId = feature.properties?.cluster_id;
-        const source = map.getSource('incidents') as GeoJSONSource;
-
-        source
-          .getClusterExpansionZoom(Number(clusterId))
-          .then((zoom) => {
-            if (!feature.geometry || feature.geometry.type !== 'Point') {
-              return;
-            }
-
-            map.easeTo({
-              center: feature.geometry.coordinates as [number, number],
-              zoom,
-              duration: 500,
-            });
-          })
-          .catch(() => {
-            // Ignore invalid cluster responses and keep map stable.
-          });
-      });
-
-      map.on('click', 'incident-points', (event: MapLayerMouseEvent) => {
-        const feature = event.features?.[0];
-        const nodeId = feature?.properties?.nodeId;
-        if (typeof nodeId === 'string') {
-          onSelectNode(nodeId);
-        }
-      });
-
-      map.on('mouseenter', 'incident-clusters', () => {
-        map.getCanvas().style.cursor = 'pointer';
-      });
-      map.on('mouseleave', 'incident-clusters', () => {
-        map.getCanvas().style.cursor = '';
-      });
-      map.on('mouseenter', 'incident-points', () => {
-        map.getCanvas().style.cursor = 'pointer';
-      });
-      map.on('mouseleave', 'incident-points', () => {
-        map.getCanvas().style.cursor = '';
-      });
-    });
-
-    return () => {
-      map.remove();
-      mapRef.current = null;
-    };
-  }, [onSelectNode]);
-
-  useEffect(() => {
-    const map = mapRef.current;
-    if (!map || !map.isStyleLoaded()) {
-      return;
-    }
-
-    const source = map.getSource('incidents') as GeoJSONSource | undefined;
-    if (!source) {
-      return;
-    }
-
-    source.setData({
-      type: 'FeatureCollection',
-      features: incidents.map((incident) => ({
-        type: 'Feature',
-        properties: {
-          nodeId: incident.id,
-          label: incident.label,
-          markerColor: classificationColor(incident.classification),
-          classification: incident.classification ?? 'unknown',
-          date: incident.date_start ?? 'unknown',
-        },
-        geometry: {
-          type: 'Point',
-          coordinates: [incident.lng, incident.lat],
-        },
-      })),
-    });
+    return [totals.lat / incidents.length, totals.lng / incidents.length];
   }, [incidents]);
-
-  useEffect(() => {
-    const map = mapRef.current;
-    if (!map || !map.getLayer('incident-selected')) {
-      return;
-    }
-
-    map.setFilter('incident-selected', [
-      'all',
-      ['!', ['has', 'point_count']],
-      ['==', ['get', 'nodeId'], selectedNodeId ?? ''],
-    ]);
-  }, [selectedNodeId]);
 
   return (
     <section className="view map-view">
       <div className="view-header">
         <h2>Map View</h2>
-        <p>Viewport-clustered incident map. Click marker to open details.</p>
+        <p>Dark raster basemap with clickable incident points and persistent detail linking.</p>
       </div>
-      <div ref={mapContainerRef} className="map-canvas" aria-label="Map canvas" />
+
+      {incidents.length === 0 ? (
+        <div className="map-empty">No geo-coded incidents available for the current filters.</div>
+      ) : (
+        <div className="map-canvas modern">
+          <MapContainer
+            center={initialCenter}
+            zoom={2}
+            minZoom={2}
+            maxZoom={12}
+            zoomControl
+            style={{ height: '100%', width: '100%' }}
+          >
+            <TileLayer
+              url="https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png"
+              attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>'
+            />
+
+            <FitBounds points={incidents.map((incident) => ({ lat: incident.lat, lng: incident.lng }))} />
+
+            {incidents.map((incident) => {
+              const selected = selectedNodeId === incident.id;
+              return (
+                <CircleMarker
+                  key={incident.id}
+                  center={[incident.lat, incident.lng]}
+                  radius={selected ? 9 : 5.5}
+                  pathOptions={{
+                    color: selected ? '#EAF8FF' : '#0D1B2A',
+                    weight: selected ? 2 : 1.4,
+                    fillColor: classificationColor(incident.classification),
+                    fillOpacity: selected ? 0.96 : 0.82,
+                  }}
+                  eventHandlers={{
+                    click: () => {
+                      onSelectNode(incident.id);
+                    },
+                  }}
+                >
+                  <Tooltip direction="top" offset={[0, -4]} opacity={0.95}>
+                    <div className="map-tooltip">
+                      <strong>{incident.label}</strong>
+                      <small>
+                        {incident.date_start ?? 'Unknown date'} • {incident.classification ?? 'Unclassified'}
+                      </small>
+                    </div>
+                  </Tooltip>
+
+                  {selected && (
+                    <Popup>
+                      <div className="map-popup">
+                        <strong>{incident.label}</strong>
+                        <p>{incident.location_name ?? 'Unknown location'}</p>
+                      </div>
+                    </Popup>
+                  )}
+                </CircleMarker>
+              );
+            })}
+          </MapContainer>
+        </div>
+      )}
     </section>
   );
 }

@@ -12,6 +12,7 @@ const PATHS = {
   registry: path.join(ROOT, 'pipeline/registry/sources.json'),
   baseline: path.join(ROOT, 'pipeline/input/baseline-entities.json'),
   rawRecords: path.join(ROOT, 'pipeline/input/raw-source-records.json'),
+  rawRecordsWikipedia: path.join(ROOT, 'pipeline/input/raw-source-records-wikipedia.json'),
   outReport: path.join(ROOT, 'pipeline/out/ingestion-report.json'),
   outReviewQueue: path.join(ROOT, 'pipeline/out/review-queue.json'),
   outGraph: path.join(ROOT, 'public/data/graph.seed.json'),
@@ -33,6 +34,7 @@ const sourceSchema = z.object({
   trust_level: z.enum(['primary', 'secondary', 'tertiary']),
   crawl_frequency: z.enum(['daily', 'weekly', 'monthly', 'on_demand']),
   extraction_method: z.enum(['structured_scrape', 'llm_extract', 'rss_feed', 'api', 'pdf_parse']),
+  auto_ingest_min_score: z.number().min(0).max(1).optional(),
   active: z.boolean(),
 });
 
@@ -163,6 +165,17 @@ async function readJson(filePath) {
   return JSON.parse(content);
 }
 
+async function readJsonIfExists(filePath, fallbackValue) {
+  try {
+    return await readJson(filePath);
+  } catch (error) {
+    if (error && typeof error === 'object' && 'code' in error && error.code === 'ENOENT') {
+      return fallbackValue;
+    }
+    throw error;
+  }
+}
+
 async function writeJson(filePath, payload) {
   await fs.mkdir(path.dirname(filePath), { recursive: true });
   await fs.writeFile(filePath, `${JSON.stringify(payload, null, 2)}\n`, 'utf8');
@@ -226,10 +239,11 @@ function sortEdges(edges) {
 }
 
 async function main() {
-  const [sourceRegistryRaw, baselineRaw, rawRecordsPayload] = await Promise.all([
+  const [sourceRegistryRaw, baselineRaw, rawRecordsPayload, rawRecordsWikipediaPayload] = await Promise.all([
     readJson(PATHS.registry),
     readJson(PATHS.baseline),
     readJson(PATHS.rawRecords),
+    readJsonIfExists(PATHS.rawRecordsWikipedia, { records: [] }),
   ]);
 
   const sources = z.array(sourceSchema).parse(sourceRegistryRaw).filter((source) => source.active);
@@ -237,7 +251,10 @@ async function main() {
 
   const baselineNodes = z.array(nodeSchema).parse(baselineRaw.nodes);
   const baselineEdges = z.array(edgeSchema).parse(baselineRaw.edges);
-  const records = z.array(recordSchema).parse(rawRecordsPayload.records);
+  const records = z.array(recordSchema).parse([
+    ...(rawRecordsPayload.records ?? []),
+    ...(rawRecordsWikipediaPayload.records ?? []),
+  ]);
 
   const nodesById = new Map(baselineNodes.map((node) => [node.id, structuredClone(node)]));
   const edges = [...baselineEdges.map((edge) => structuredClone(edge))];
@@ -324,11 +341,14 @@ async function main() {
       schemaPassed: true,
     });
 
-    if (pipelineConfidence < 0.7) {
+    const minScore = source.auto_ingest_min_score ?? 0.7;
+
+    if (pipelineConfidence < minScore) {
       reviewQueue.push({
         record_id: record.record_id,
         reason: 'Pipeline confidence below threshold',
         pipeline_confidence: pipelineConfidence,
+        min_score_required: minScore,
         source: source.source_id,
         node: record.node,
       });
