@@ -17,8 +17,6 @@ interface RenderNode {
   confidence: ArchiveNode['confidence'];
   color: string;
   size: number;
-  isSelected: boolean;
-  isNeighbor: boolean;
   x?: number;
   y?: number;
   fx?: number;
@@ -32,9 +30,7 @@ interface RenderLink {
   relationship: string;
   color: string;
   width: number;
-  isHighlighted: boolean;
   dashed: boolean;
-  curvature: number;
 }
 
 const DASHED_RELATIONSHIPS = new Set(['CORROBORATES', 'CONTRADICTS', 'PRECEDED']);
@@ -61,15 +57,6 @@ const EDGE_LEGEND: Array<{ label: string; color: string; dashed?: boolean }> = [
   { label: 'CORROBORATES', color: RELATION_COLORS.CORROBORATES ?? '#00E5A0', dashed: true },
   { label: 'CONTRADICTS', color: RELATION_COLORS.CONTRADICTS ?? '#FF4444', dashed: true },
 ];
-
-function hash01(value: string): number {
-  let hash = 0;
-  for (let index = 0; index < value.length; index += 1) {
-    hash = (hash << 5) - hash + value.charCodeAt(index);
-    hash |= 0;
-  }
-  return (Math.abs(hash) % 10_000) / 10_000;
-}
 
 function drawPolygon(
   ctx: CanvasRenderingContext2D,
@@ -185,11 +172,36 @@ function confidenceRing(node: RenderNode): { color: string; width: number; dashe
   return { color: '#FF5454', width: 1.3, dashed: true };
 }
 
+function endpointId(endpoint: RenderNode | string | number | undefined): string | null {
+  if (endpoint === undefined || endpoint === null) {
+    return null;
+  }
+
+  if (typeof endpoint === 'string' || typeof endpoint === 'number') {
+    return String(endpoint);
+  }
+
+  return endpoint.id;
+}
+
+function isHighlightedLink(link: RenderLink, selectedNodeId: string | null): boolean {
+  if (!selectedNodeId) {
+    return false;
+  }
+
+  const sourceId = endpointId(link.source);
+  const targetId = endpointId(link.target);
+  return sourceId === selectedNodeId || targetId === selectedNodeId;
+}
+
 export function GraphView({ nodes, edges, selectedNodeId, onSelectNode }: GraphViewProps) {
   const graphRef = useRef<ForceGraphMethods<RenderNode, RenderLink> | undefined>(undefined);
   const containerRef = useRef<HTMLDivElement | null>(null);
   const [size, setSize] = useState({ width: 0, height: 0 });
   const initialFitDoneRef = useRef(false);
+  const selectedNodeIdRef = useRef<string | null>(selectedNodeId);
+  const neighborSetRef = useRef<Set<string>>(new Set<string>());
+  const isTransformingRef = useRef(false);
 
   useEffect(() => {
     if (!containerRef.current) {
@@ -212,6 +224,10 @@ export function GraphView({ nodes, edges, selectedNodeId, onSelectNode }: GraphV
       observer.disconnect();
     };
   }, []);
+
+  useEffect(() => {
+    selectedNodeIdRef.current = selectedNodeId;
+  }, [selectedNodeId]);
 
   useEffect(() => {
     if (!graphRef.current) {
@@ -261,6 +277,10 @@ export function GraphView({ nodes, edges, selectedNodeId, onSelectNode }: GraphV
     return result;
   }, [edges, selectedNodeId]);
 
+  useEffect(() => {
+    neighborSetRef.current = neighborSet;
+  }, [neighborSet]);
+
   const graphData = useMemo<{ nodes: RenderNode[]; links: RenderLink[] }>(() => {
     const degrees = new Map<string, number>();
     for (const edge of edges) {
@@ -270,8 +290,6 @@ export function GraphView({ nodes, edges, selectedNodeId, onSelectNode }: GraphV
 
     const renderNodes: RenderNode[] = nodes.map((node) => {
       const degree = degrees.get(node.id) ?? 0;
-      const isSelected = selectedNodeId === node.id;
-      const isNeighbor = neighborSet.has(node.id);
       return {
         id: node.id,
         label: node.label,
@@ -279,15 +297,10 @@ export function GraphView({ nodes, edges, selectedNodeId, onSelectNode }: GraphV
         confidence: node.confidence,
         color: NODE_COLORS[node.node_type],
         size: 3.4 + Math.log2(degree + 2) * 1.55,
-        isSelected,
-        isNeighbor,
       };
     });
 
     const renderLinks: RenderLink[] = edges.map((edge) => {
-      const isHighlighted =
-        selectedNodeId !== null &&
-        (edge.from_node_id === selectedNodeId || edge.to_node_id === selectedNodeId);
       const dashed = DASHED_RELATIONSHIPS.has(edge.relationship);
 
       const confidenceWeight =
@@ -299,15 +312,13 @@ export function GraphView({ nodes, edges, selectedNodeId, onSelectNode }: GraphV
         target: edge.to_node_id,
         relationship: edge.relationship,
         color: RELATION_COLORS[edge.relationship] ?? '#3F5876',
-        width: (isHighlighted ? 1.95 : 0.75) * confidenceWeight,
-        isHighlighted,
+        width: 0.72 * confidenceWeight,
         dashed,
-        curvature: (hash01(edge.id) - 0.5) * 0.34,
       };
     });
 
     return { nodes: renderNodes, links: renderLinks };
-  }, [edges, neighborSet, nodes, selectedNodeId]);
+  }, [edges, nodes]);
 
   useEffect(() => {
     if (!selectedNodeId || !graphRef.current) {
@@ -339,19 +350,38 @@ export function GraphView({ nodes, edges, selectedNodeId, onSelectNode }: GraphV
             graphData={graphData}
             backgroundColor="#050505"
             warmupTicks={24}
-            cooldownTicks={140}
-            d3AlphaDecay={0.038}
-            d3VelocityDecay={0.28}
+            cooldownTicks={92}
+            cooldownTime={4200}
+            d3AlphaDecay={0.058}
+            d3VelocityDecay={0.34}
             enableNodeDrag
+            enablePointerInteraction
             linkCurvature={0}
-            linkLineDash={(link) => (link.dashed ? [5, 4] : null)}
+            linkVisibility={(link) => !isTransformingRef.current || isHighlightedLink(link, selectedNodeIdRef.current)}
+            linkLineDash={(link) => (isTransformingRef.current ? null : link.dashed ? [5, 4] : null)}
             linkDirectionalArrowLength={0}
             linkDirectionalParticles={0}
             linkColor={(link) =>
-              selectedNodeId && !link.isHighlighted ? 'rgba(72, 95, 129, 0.16)' : (link.color ?? '#3F5876')
+              isHighlightedLink(link, selectedNodeIdRef.current)
+                ? (link.color ?? '#3F5876')
+                : selectedNodeIdRef.current
+                  ? 'rgba(72, 95, 129, 0.16)'
+                  : (link.color ?? '#3F5876')
             }
-            linkWidth={(link) => link.width}
+            linkWidth={(link) => {
+              const highlighted = isHighlightedLink(link, selectedNodeIdRef.current);
+              if (highlighted) {
+                return 1.9;
+              }
+              return isTransformingRef.current ? 0.42 : link.width;
+            }}
             nodeLabel={(node) => `${node.label} (${node.nodeType})`}
+            onZoom={() => {
+              isTransformingRef.current = true;
+            }}
+            onZoomEnd={() => {
+              isTransformingRef.current = false;
+            }}
             onEngineStop={() => {
               if (!initialFitDoneRef.current && graphRef.current) {
                 graphRef.current.zoomToFit(850, 78);
@@ -373,32 +403,45 @@ export function GraphView({ nodes, edges, selectedNodeId, onSelectNode }: GraphV
             nodePointerAreaPaint={(node, color, ctx) => {
               const x = node.x ?? 0;
               const y = node.y ?? 0;
-              const hitSize = Math.max(node.size * 2.6, 12);
+              const hitSize = Math.max(node.size * 2.25, 11);
               ctx.beginPath();
               ctx.arc(x, y, hitSize, 0, Math.PI * 2);
               ctx.fillStyle = color;
               ctx.fill();
             }}
             nodeCanvasObject={(node, ctx, globalScale) => {
-              const isActive = selectedNodeId ? node.isSelected || node.isNeighbor : true;
-              const alpha = isActive ? 1 : 0.14;
-              const sizeScale = node.isSelected ? node.size * 2.25 : node.size;
+              const selectedId = selectedNodeIdRef.current;
+              const isSelected = selectedId === node.id;
+              const isNeighbor = selectedId ? neighborSetRef.current.has(node.id) : false;
+              const isActive = selectedId ? isSelected || isNeighbor : true;
+              const alpha = isActive ? 1 : isTransformingRef.current ? 0.08 : 0.14;
+              const sizeScale = isSelected ? node.size * 2.25 : node.size;
               const x = node.x ?? 0;
               const y = node.y ?? 0;
               const ring = confidenceRing(node);
 
               ctx.save();
               ctx.globalAlpha = alpha;
+
+              if (isTransformingRef.current) {
+                ctx.beginPath();
+                drawShape(ctx, node.nodeType, x, y, sizeScale);
+                ctx.fillStyle = node.color;
+                ctx.fill();
+                ctx.restore();
+                return;
+              }
+
               ctx.beginPath();
               drawShape(ctx, node.nodeType, x, y, sizeScale);
               ctx.fillStyle = node.color;
-              ctx.shadowBlur = node.isSelected ? 7 : node.isNeighbor ? 2 : 0;
+              ctx.shadowBlur = isSelected ? 7 : isNeighbor ? 2 : 0;
               ctx.shadowColor = node.color;
               ctx.fill();
 
               ctx.beginPath();
               drawShape(ctx, node.nodeType, x, y, sizeScale + 1.7);
-              ctx.lineWidth = node.isSelected ? ring.width + 0.7 : ring.width;
+              ctx.lineWidth = isSelected ? ring.width + 0.7 : ring.width;
               ctx.strokeStyle = ring.color;
               if (ring.dashed) {
                 ctx.setLineDash([3, 2]);
@@ -406,7 +449,7 @@ export function GraphView({ nodes, edges, selectedNodeId, onSelectNode }: GraphV
               ctx.stroke();
               ctx.setLineDash([]);
 
-              if (node.isSelected) {
+              if (isSelected) {
                 ctx.beginPath();
                 ctx.arc(x, y, sizeScale + 5, 0, Math.PI * 2);
                 ctx.strokeStyle = '#E9FAFF';
@@ -417,12 +460,12 @@ export function GraphView({ nodes, edges, selectedNodeId, onSelectNode }: GraphV
               ctx.shadowBlur = 0;
               ctx.globalAlpha = 1;
 
-              if (node.isSelected) {
+              if (isSelected) {
                 const fontSize = Math.max(8.6, 13 / globalScale);
                 ctx.font = `600 ${fontSize}px ui-monospace`;
                 ctx.textAlign = 'center';
                 ctx.textBaseline = 'bottom';
-                ctx.fillStyle = node.isSelected ? '#EAF9FF' : '#9AB9D9';
+                ctx.fillStyle = '#EAF9FF';
                 ctx.fillText(node.label, x, y - sizeScale - 4);
               }
 

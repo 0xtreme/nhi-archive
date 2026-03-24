@@ -194,27 +194,30 @@ export default function App() {
       .map((entry) => entry.id);
   }, [filteredGraph.edges, filteredGraph.nodes]);
 
-  const graphSkeletonIds = useMemo(() => {
-    const initial = new Set(
-      degreeOrderedNodeIds.slice(0, Math.max(80, Math.min(1000, filters.graphNodeCap))),
-    );
+  const baseGraphSkeletonIds = useMemo(
+    () =>
+      new Set(degreeOrderedNodeIds.slice(0, Math.max(80, Math.min(1000, filters.graphNodeCap)))),
+    [degreeOrderedNodeIds, filters.graphNodeCap],
+  );
 
-    if (!selectedNodeId) {
-      return initial;
+  const graphSkeletonIds = useMemo(() => {
+    if (!selectedNodeId || baseGraphSkeletonIds.has(selectedNodeId)) {
+      return baseGraphSkeletonIds;
     }
 
-    initial.add(selectedNodeId);
+    const focused = new Set(baseGraphSkeletonIds);
+    focused.add(selectedNodeId);
     for (const edge of filteredGraph.edges) {
       if (edge.from_node_id === selectedNodeId) {
-        initial.add(edge.to_node_id);
+        focused.add(edge.to_node_id);
       }
       if (edge.to_node_id === selectedNodeId) {
-        initial.add(edge.from_node_id);
+        focused.add(edge.from_node_id);
       }
     }
 
-    return initial;
-  }, [degreeOrderedNodeIds, filteredGraph.edges, filters.graphNodeCap, selectedNodeId]);
+    return focused;
+  }, [baseGraphSkeletonIds, filteredGraph.edges, selectedNodeId]);
 
   const provisionalGraphNodes = useMemo(
     () => filteredGraph.nodes.filter((node) => graphSkeletonIds.has(node.id)),
@@ -229,17 +232,31 @@ export default function App() {
     [filteredGraph.edges, graphSkeletonIds],
   );
 
-  const graphNodes = useMemo(() => {
-    const connectedIds = new Set<string>();
+  const connectedIds = useMemo(() => {
+    const ids = new Set<string>();
     for (const edge of graphEdges) {
-      connectedIds.add(edge.from_node_id);
-      connectedIds.add(edge.to_node_id);
+      ids.add(edge.from_node_id);
+      ids.add(edge.to_node_id);
+    }
+    return ids;
+  }, [graphEdges]);
+
+  const forceIncludeNodeId = useMemo(() => {
+    if (!selectedNodeId || !graphSkeletonIds.has(selectedNodeId)) {
+      return null;
+    }
+    return connectedIds.has(selectedNodeId) ? null : selectedNodeId;
+  }, [connectedIds, graphSkeletonIds, selectedNodeId]);
+
+  const graphNodes = useMemo(() => {
+    if (forceIncludeNodeId === null) {
+      return provisionalGraphNodes.filter((node) => connectedIds.has(node.id));
     }
 
     return provisionalGraphNodes.filter(
-      (node) => connectedIds.has(node.id) || (selectedNodeId !== null && node.id === selectedNodeId),
+      (node) => connectedIds.has(node.id) || node.id === forceIncludeNodeId,
     );
-  }, [graphEdges, provisionalGraphNodes, selectedNodeId]);
+  }, [connectedIds, forceIncludeNodeId, provisionalGraphNodes]);
 
   const selectedNode = selectedNodeId ? nodeLookup.get(selectedNodeId) ?? null : null;
 
