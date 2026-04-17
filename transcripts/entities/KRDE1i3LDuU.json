@@ -1,0 +1,1384 @@
+{
+  "video_id": "KRDE1i3LDuU",
+  "nodes": [
+    {
+      "id": "video-KRDE1i3LDuU",
+      "node_type": "video",
+      "label": "Plato’s Cave & UFOs: Consciousness Is Key (ft. James Madden)",
+      "summary": "Are UFOs matrix-shaping machines responsible for simulating reality itself? Do they exist outside the “cave” of our epistemological filters? Philosopher James Madden argues that the UFO...",
+      "tags": [
+        "video",
+        "american-alchemy"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:58.327494+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KRDE1i3LDuU",
+          "timestamp_start": 0,
+          "timestamp_end": 7647.0,
+          "quote": "Video: Plato’s Cave & UFOs: Consciousness Is Key (ft. James Madden)"
+        }
+      ],
+      "type_specific": {
+        "video_id": "KRDE1i3LDuU",
+        "title": "Plato’s Cave & UFOs: Consciousness Is Key (ft. James Madden)",
+        "url": "https://www.youtube.com/watch?v=KRDE1i3LDuU",
+        "view_count": 237721,
+        "duration_seconds": 7647.0,
+        "host_id": "person-jesse-michels"
+      }
+    },
+    {
+      "id": "person-jesse-michels",
+      "node_type": "person",
+      "label": "Jesse Michels",
+      "summary": "Host of American Alchemy podcast/show. Independent journalist and UFO/NHI researcher.",
+      "tags": [
+        "journalist",
+        "interviewer",
+        "researcher",
+        "host"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:58.327507+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KRDE1i3LDuU",
+          "timestamp_start": 0,
+          "quote": "Host of American Alchemy podcast/show."
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Jesse",
+          "Michels"
+        ],
+        "profession": "journalist",
+        "notability_tags": [
+          "journalist",
+          "interviewer",
+          "researcher",
+          "host"
+        ]
+      }
+    },
+    {
+      "id": "person-bob-oppenheimer",
+      "node_type": "person",
+      "label": "Bob Oppenheimer",
+      "summary": "",
+      "tags": [
+        "physicist",
+        "Manhattan Project"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:59.024081+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KRDE1i3LDuU",
+          "timestamp_start": 0,
+          "quote": "he film Oenheimer like you get three different answers from Oppenheimer why he wants to do this. It's like it's who's running this "
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "J. Robert Oppenheimer",
+          "Oppenheimer"
+        ],
+        "notability_tags": [
+          "physicist",
+          "Manhattan Project"
+        ]
+      }
+    },
+    {
+      "id": "person-eric-weinstein",
+      "node_type": "person",
+      "label": "Eric Weinstein",
+      "summary": "",
+      "tags": [
+        "mathematician",
+        "physicist"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:59.024099+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KRDE1i3LDuU",
+          "timestamp_start": 0,
+          "quote": "estions the more microscopic you get. Like my old colleague Eric Weinstein likes to talk  about he talks about and you write about thi"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Weinstein"
+        ],
+        "notability_tags": [
+          "mathematician",
+          "physicist"
+        ]
+      }
+    },
+    {
+      "id": "person-alex-dietrich",
+      "node_type": "person",
+      "label": "Alex Dietrich",
+      "summary": "Retired US Navy aviator and eyewitness to the Nimitz event.",
+      "tags": [
+        "Nimitz",
+        "US Navy",
+        "witness"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:59.024104+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KRDE1i3LDuU",
+          "timestamp_start": 0,
+          "quote": " air force pilot and you know said and Alex [clears throat] Dietrich and David Fra they've said these things right systems yeah "
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "ALEX DIETRICH",
+          "Dietrich",
+          "alex dietrich"
+        ],
+        "notability_tags": [
+          "Nimitz",
+          "US Navy",
+          "witness"
+        ]
+      }
+    },
+    {
+      "id": "person-chuck-schumer",
+      "node_type": "person",
+      "label": "Chuck Schumer",
+      "summary": "",
+      "tags": [
+        "politician",
+        "senator"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:59.024109+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KRDE1i3LDuU",
+          "timestamp_start": 0,
+          "quote": "it's like you could just say like New York Times, Congress, Schumer amendment. you know, you say these things, somebody who hol"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Schumer",
+          "Senator Schumer"
+        ],
+        "notability_tags": [
+          "politician",
+          "senator"
+        ]
+      }
+    },
+    {
+      "id": "person-james-harder",
+      "node_type": "person",
+      "label": "James Harder",
+      "summary": "James Albert Harder, Ph.D., (December 2, 1926 – December 30, 2006) was a professor of civil and hydraulic engineering at the University of California, Berkeley. He was a professor emeritus there. Harder also had interest in ufology.",
+      "tags": [
+        "wikipedia",
+        "california institute of technology alumni",
+        "people from fullerton, california",
+        "uc berkeley college of engineering faculty",
+        "ufologists",
+        "university of california, berkeley alumni"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:59.024113+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KRDE1i3LDuU",
+          "timestamp_start": 0,
+          "quote": "of it. And then as the book goes on, it's like it's getting harder for him to dismiss it though. And if you've read it like at"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Harder",
+          "JAMES HARDER",
+          "james harder"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "california institute of technology alumni",
+          "people from fullerton, california",
+          "uc berkeley college of engineering faculty",
+          "ufologists",
+          "university of california, berkeley alumni"
+        ]
+      }
+    },
+    {
+      "id": "person-love-has-won",
+      "node_type": "person",
+      "label": "Love Has Won",
+      "summary": "Love Has Won (LHW), also known as the Galactic Federation of Light, is an American new religious movement that was led by Amy Carlson until her death in 2021. Carlson was referred to within the group as \"Mother God\", who described herself as, among other things, the creator of the universe, with the",
+      "tags": [
+        "wikipedia",
+        "2007 establishments in colorado",
+        "ancient astronaut speculation",
+        "covid-19 vaccine misinformation and hesitancy",
+        "climate change denial in the united states",
+        "holocaust denial in the united states",
+        "new age organizations",
+        "new religious movements established in the 2000s",
+        "qanon",
+        "religious belief systems founded in the united states",
+        "religious controversies in the united states",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:59.024117+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KRDE1i3LDuU",
+          "timestamp_start": 0,
+          "quote": "ome weird surprising thing. and if it's if it's not that it won't hit people epistemically in the right way. Yeah. Cuz thin"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "LOVE HAS WON",
+          "Won",
+          "love has won"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "2007 establishments in colorado",
+          "ancient astronaut speculation",
+          "covid-19 vaccine misinformation and hesitancy",
+          "climate change denial in the united states",
+          "holocaust denial in the united states",
+          "new age organizations",
+          "new religious movements established in the 2000s",
+          "qanon",
+          "religious belief systems founded in the united states",
+          "religious controversies in the united states",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "person-timothy-good",
+      "node_type": "person",
+      "label": "Timothy Good",
+      "summary": "",
+      "tags": [
+        "researcher",
+        "author"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:59.024122+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KRDE1i3LDuU",
+          "timestamp_start": 0,
+          "quote": "hers sufficient to run a city. But no, you'd have to have a good city first to have those to produce those philosophers in t"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Tim Good",
+          "Good"
+        ],
+        "notability_tags": [
+          "researcher",
+          "author"
+        ]
+      }
+    },
+    {
+      "id": "person-kid-cosmic",
+      "node_type": "person",
+      "label": "Kid Cosmic",
+      "summary": "Kid Cosmic is an American animated superhero television series created by Craig McCracken and developed by McCracken, his wife Lauren Faust and Francisco Angones for Netflix. The series was based on his 2009 comic The Kid from Planet Earth. Produced in-house by Netflix Animation, the show is McCrack",
+      "tags": [
+        "wikipedia",
+        "2020s american animated comedy television series",
+        "2020s american children's comedy television series",
+        "2020s american science fiction comedy television series",
+        "2020s american superhero comedy television series",
+        "2021 american animated television series debuts",
+        "2022 american television series endings",
+        "american english-language television shows",
+        "american children's animated action television series",
+        "american children's animated adventure television series",
+        "american children's animated comic science fiction television series",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:59.024126+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KRDE1i3LDuU",
+          "timestamp_start": 0,
+          "quote": "us and does that just unravel reality and think of like the cosmic meaning of like humanity discovering that we could take our"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Cosmic",
+          "KID COSMIC",
+          "kid cosmic"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "2020s american animated comedy television series",
+          "2020s american children's comedy television series",
+          "2020s american science fiction comedy television series",
+          "2020s american superhero comedy television series",
+          "2021 american animated television series debuts",
+          "2022 american television series endings",
+          "american english-language television shows",
+          "american children's animated action television series",
+          "american children's animated adventure television series",
+          "american children's animated comic science fiction television series",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "organization-the-report-on-unidentified-flying-objects",
+      "node_type": "organization",
+      "label": "The Report on Unidentified Flying Objects",
+      "summary": "The Report on Unidentified Flying Objects is a 1956 book by then-retired Air Force UFO investigator Edward J. Ruppelt, detailing his experience running Project Blue Book. The book was noted for its suggestion that a few UFO sightings might be linked to spikes of atomic radiation. Contemporary media ",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:59.024132+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KRDE1i3LDuU",
+          "timestamp_start": 0,
+          "quote": "k to reconcile that with UFOs this sort of  modern craze of objects in the sky we can't identify? Yeah that's interesting quest"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-ufo-sightings-in-the-united-kingdom",
+      "node_type": "organization",
+      "label": "UFO sightings in the United Kingdom",
+      "summary": "This is a list of notable alleged sightings of unidentified flying objects (UFOs) in the United Kingdom. Many more sightings have become known since the gradual release, between 2008 and 2013, of the Ministry of Defence's UFO sighting reports by the National Archives. In recent years, there have bee",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:59.024137+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KRDE1i3LDuU",
+          "timestamp_start": 0,
+          "quote": "there's other stuff out there, you know, and like maybe the kingdom of heaven is real, but it was this extremely on the flip si"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-identification-studies-of-ufos",
+      "node_type": "organization",
+      "label": "Identification studies of UFOs",
+      "summary": "Identifying unidentified flying objects (UFOs) is a difficult task due to the normally poor quality of the evidence provided by those who report sighting the unknown object. Observations and subsequent reporting are often made by those untrained in astronomy, atmospheric phenomena, aeronautics, phys",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:59.024142+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KRDE1i3LDuU",
+          "timestamp_start": 0,
+          "quote": "# Plato’s Cave & UFOs: Consciousness Is Key (ft. James Madden) https://www.youtub"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-chiles-whitted-ufo-encounter",
+      "node_type": "organization",
+      "label": "Chiles-Whitted UFO encounter",
+      "summary": "The Chiles-Whitted UFO encounter occurred at approximately 2:45 AM on July 24, 1948, in the skies near Montgomery, Alabama, United States. Two commercial pilots, Clarence S. Chiles and John B. Whitted, claimed to have observed a \"glowing object\" pass by their plane before it appeared to pull up into",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:59.024146+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KRDE1i3LDuU",
+          "timestamp_start": 0,
+          "quote": "I think what Plato's getting at is there are things that we encounter in this life that are utterly unlike the ultimate truth, bu"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-flying-saucer-working-party",
+      "node_type": "organization",
+      "label": "Flying Saucer Working Party",
+      "summary": "Flying Saucer Working Party (or FSWP) was the name of the United Kingdom Ministry of Defence’s (MOD) first \"official study into UFOs\", which has its roots in a study commissioned in 1950 by the MOD’s then Chief Scientific Adviser, the eminent radar scientist Sir Henry Tizard. As a result of his insi",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:59.024151+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KRDE1i3LDuU",
+          "timestamp_start": 0,
+          "quote": "or this religious festival and they're they're invited to a party., and you know, there's going to be torch races and it's go"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-the-flying-saucers-are-real",
+      "node_type": "organization",
+      "label": "The Flying Saucers Are Real",
+      "summary": "The Flying Saucers Are Real, by Donald Keyhoe, is a book that investigated reports of UFOs by United States Air Force fighters, personnel, and other aircraft, between 1947 and 1950.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:59.024155+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KRDE1i3LDuU",
+          "timestamp_start": 0,
+          "quote": " Republic?  Sure. Well, first, thanks for having me. It's a real honor to be here. Yeah, I appreciate I think the only thing"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-archives-of-the-impossible",
+      "node_type": "organization",
+      "label": "Archives of the Impossible",
+      "summary": "The Archives of the Impossible (AOTI), sometimes called the Center for the Impossible, is a special collection at Rice University in Houston, Texas, United States. Founded in 2014 by Jeffrey J. Kripal, AOTI is based at the Woodson Research Center in the Fondren Library. It stewards collections on UF",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:59.024160+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KRDE1i3LDuU",
+          "timestamp_start": 0,
+          "quote": "s tricks on you, blah.\" And you end up in this sort of like impossible to resolve argument. Yeah. Anaporia is like the classic. Ye"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-unidentified-flying-object",
+      "node_type": "organization",
+      "label": "Unidentified flying object",
+      "summary": "An unidentified flying object (UFO) is an object or phenomenon seen in the sky but not yet identified or explained. The term was coined when United States Air Force (USAF) investigations into flying saucers found too broad a range of shapes reported to consider them all saucers or discs. UFOs are al",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:59.024164+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KRDE1i3LDuU",
+          "timestamp_start": 0,
+          "quote": " brilliant way in this great book unidentified flying hyper object which I recommend  everybody go out and read, and so I want"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-roswell-that-ends-well",
+      "node_type": "organization",
+      "label": "Roswell That Ends Well",
+      "summary": "\"Roswell That Ends Well\" is the nineteenth episode in the third season of the American animated television series Futurama, and the 51st episode of the series overall. It originally aired on the Fox network in the United States on December 9, 2001. The plot centers on an accidental time travel event",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:59.024168+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KRDE1i3LDuU",
+          "timestamp_start": 0,
+          "quote": "ro. Who is Plato, and why did he write the Republic?  Sure. Well, first, thanks for having me. It's a real honor to be here."
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-the-galileo-project",
+      "node_type": "organization",
+      "label": "The Galileo Project",
+      "summary": "The Galileo Project is an international scientific research project to search for extraterrestrial intelligence or extraterrestrial technology on and near Earth and to identify the nature of anomalous Unidentified Flying Objects/Unidentified Aerial Phenomena (UFOs/UAP). It was launched in 2021 by Ha",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:59.024172+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KRDE1i3LDuU",
+          "timestamp_start": 0,
+          "quote": "I think like I would even look at things like the Manhattan Project where you had this thing this like technological hyper obje"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-thornton-leigh-page",
+      "node_type": "organization",
+      "label": "Thornton Leigh Page",
+      "summary": "Thornton Leigh Page was an American professor of astronomy at the University of Chicago and at Wesleyan University. He became embroiled in the controversy over unidentified flying objects (UFOs) after serving briefly on the Robertson Panel, a Central Intelligence Agency–sponsored committee of scient",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:59.024176+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KRDE1i3LDuU",
+          "timestamp_start": 0,
+          "quote": "ral? People know what they're getting. I do I do have a web page, jdmadden.com. has a bunch of papers and podcasts and stuff"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-project-blue-book",
+      "node_type": "organization",
+      "label": "Project Blue Book",
+      "summary": "USAF UFO investigation program active from 1952 to 1969.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:59.024181+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KRDE1i3LDuU",
+          "timestamp_start": 0,
+          "quote": "ave you. I've been   kind of mulling over the ideas in your book for a while now. you're a professor of philosophy who has d"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-world-contact-day",
+      "node_type": "organization",
+      "label": "World Contact Day",
+      "summary": "World Contact Day was first declared in March 1953 by an organization called the International Flying Saucer Bureau (IFSB), as a day on which all IFSB members would attempt to send a telepathic message into space. The IFSB voted to hold such a day in 1953, theorising that if both telepathy and alien",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:59.024185+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KRDE1i3LDuU",
+          "timestamp_start": 0,
+          "quote": "h is sort of a sequel to the republic, right? It's like the day after the party and Socrates says, \"Hey, I'm troubled that "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-manhattan-project",
+      "node_type": "organization",
+      "label": "Manhattan Project",
+      "summary": "",
+      "tags": [
+        "government_agency"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:59.024189+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KRDE1i3LDuU",
+          "timestamp_start": 0,
+          "quote": "ne 80 You I think like I would even look at things like the Manhattan Project where you had this thing this like technological hyper obje"
+        }
+      ],
+      "type_specific": {
+        "org_type": "government_agency"
+      }
+    },
+    {
+      "id": "organization-us-air-force",
+      "node_type": "organization",
+      "label": "US Air Force",
+      "summary": "US Air Force entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:59.024194+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KRDE1i3LDuU",
+          "timestamp_start": 0,
+          "quote": "he is bound by technology  right and in Sophocles's version force who speaks for Zeus interesting he's just pure blind force "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-big-sur-ufo",
+      "node_type": "organization",
+      "label": "Big Sur UFO",
+      "summary": "The Big Sur UFO is a reported UFO incident that took place during a 1964 Air Force deployment to a mountaintop near Big Sur, California. The deployment was a mission was to film Atlas missile tests from Vandenberg Air Force Base. Since 1982, Robert Jacobs, who had overseen the mountaintop team, has ",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:59.024198+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KRDE1i3LDuU",
+          "timestamp_start": 0,
+          "quote": "s a push and a pull outside of the cave or whatever. Is the UFO some sort of pulling technology because you talk about  thi"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "location-pacific-training-area",
+      "node_type": "location",
+      "label": "Pacific Training Area",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:59.024203+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KRDE1i3LDuU",
+          "timestamp_start": 0,
+          "quote": " always strikes me whenever I fly into a major metropolitan area how small and minor it looks on the landscape as you come i"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-rendlesham-forest",
+      "node_type": "location",
+      "label": "Rendlesham Forest",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:59.024207+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KRDE1i3LDuU",
+          "timestamp_start": 0,
+          "quote": "ou know, this the three body problem, you know, in the Dark Forest trilogy, this, you know, Chinese science fiction novel invo"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-united-kingdom",
+      "node_type": "location",
+      "label": "United Kingdom",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:59.024210+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KRDE1i3LDuU",
+          "timestamp_start": 0,
+          "quote": "there's other stuff out there, you know, and like maybe the kingdom of heaven is real, but it was this extremely on the flip si"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-united-states",
+      "node_type": "location",
+      "label": "United States",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:59.024215+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KRDE1i3LDuU",
+          "timestamp_start": 0,
+          "quote": "like if you have a Schroinger's cat of you know possibility states of you know mankind there's probably a whole wave function "
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "claim-KRDE1i3LDuU-discussion-summary",
+      "node_type": "claim",
+      "label": "Video KRDE1i3LDuU features extended discussion of Bob Oppenheimer, Eric Weinstein, Alex Dietrich and",
+      "summary": "Video KRDE1i3LDuU features extended discussion of Bob Oppenheimer, Eric Weinstein, Alex Dietrich and related UAP research topics, hosted by Jesse Michels.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:59.024225+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KRDE1i3LDuU",
+          "timestamp_start": 0,
+          "quote": "Episode title: Plato’s Cave & UFOs: Consciousness Is Key (ft. James Madden)"
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Video KRDE1i3LDuU features extended discussion of Bob Oppenheimer, Eric Weinstein, Alex Dietrich and related UAP research topics, hosted by Jesse Michels.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "KRDE1i3LDuU",
+        "timestamp_start_seconds": 0,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-bob-oppenheimer",
+          "person-eric-weinstein",
+          "person-alex-dietrich",
+          "video-KRDE1i3LDuU"
+        ]
+      }
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge-video-KRDE1i3LDuU-HOSTED_BY-person-jesse-michels",
+      "from_node_id": "video-KRDE1i3LDuU",
+      "to_node_id": "person-jesse-michels",
+      "relationship": "HOSTED_BY",
+      "confidence": 0.99,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KRDE1i3LDuU",
+          "timestamp_start": 0,
+          "quote": "Jesse hosting"
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-APPEARED_IN-video-KRDE1i3LDuU",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "video-KRDE1i3LDuU",
+      "relationship": "APPEARED_IN",
+      "confidence": 0.99,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KRDE1i3LDuU",
+          "timestamp_start": 0,
+          "quote": "Host"
+        }
+      ],
+      "properties": {
+        "appearance_type": "host"
+      }
+    },
+    {
+      "id": "edge-video-KRDE1i3LDuU-MENTIONS-person-bob-oppenheimer",
+      "from_node_id": "video-KRDE1i3LDuU",
+      "to_node_id": "person-bob-oppenheimer",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KRDE1i3LDuU",
+          "timestamp_start": 0,
+          "quote": "he film Oenheimer like you get three different answers from Oppenheimer why he wants to do this. It's like it's who's running this "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-KRDE1i3LDuU-MENTIONS-person-eric-weinstein",
+      "from_node_id": "video-KRDE1i3LDuU",
+      "to_node_id": "person-eric-weinstein",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KRDE1i3LDuU",
+          "timestamp_start": 0,
+          "quote": "estions the more microscopic you get. Like my old colleague Eric Weinstein likes to talk  about he talks about and you write about thi"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-KRDE1i3LDuU-MENTIONS-person-alex-dietrich",
+      "from_node_id": "video-KRDE1i3LDuU",
+      "to_node_id": "person-alex-dietrich",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KRDE1i3LDuU",
+          "timestamp_start": 0,
+          "quote": " air force pilot and you know said and Alex [clears throat] Dietrich and David Fra they've said these things right systems yeah "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-KRDE1i3LDuU-MENTIONS-person-chuck-schumer",
+      "from_node_id": "video-KRDE1i3LDuU",
+      "to_node_id": "person-chuck-schumer",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KRDE1i3LDuU",
+          "timestamp_start": 0,
+          "quote": "it's like you could just say like New York Times, Congress, Schumer amendment. you know, you say these things, somebody who hol"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-KRDE1i3LDuU-MENTIONS-person-james-harder",
+      "from_node_id": "video-KRDE1i3LDuU",
+      "to_node_id": "person-james-harder",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KRDE1i3LDuU",
+          "timestamp_start": 0,
+          "quote": "of it. And then as the book goes on, it's like it's getting harder for him to dismiss it though. And if you've read it like at"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-KRDE1i3LDuU-MENTIONS-person-love-has-won",
+      "from_node_id": "video-KRDE1i3LDuU",
+      "to_node_id": "person-love-has-won",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KRDE1i3LDuU",
+          "timestamp_start": 0,
+          "quote": "ome weird surprising thing. and if it's if it's not that it won't hit people epistemically in the right way. Yeah. Cuz thin"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-KRDE1i3LDuU-MENTIONS-person-timothy-good",
+      "from_node_id": "video-KRDE1i3LDuU",
+      "to_node_id": "person-timothy-good",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KRDE1i3LDuU",
+          "timestamp_start": 0,
+          "quote": "hers sufficient to run a city. But no, you'd have to have a good city first to have those to produce those philosophers in t"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-KRDE1i3LDuU-MENTIONS-person-kid-cosmic",
+      "from_node_id": "video-KRDE1i3LDuU",
+      "to_node_id": "person-kid-cosmic",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KRDE1i3LDuU",
+          "timestamp_start": 0,
+          "quote": "us and does that just unravel reality and think of like the cosmic meaning of like humanity discovering that we could take our"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-KRDE1i3LDuU-MENTIONS-organization-the-report-on-unidentified-flying-objects",
+      "from_node_id": "video-KRDE1i3LDuU",
+      "to_node_id": "organization-the-report-on-unidentified-flying-objects",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KRDE1i3LDuU",
+          "timestamp_start": 0,
+          "quote": "k to reconcile that with UFOs this sort of  modern craze of objects in the sky we can't identify? Yeah that's interesting quest"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-KRDE1i3LDuU-MENTIONS-organization-ufo-sightings-in-the-united-kingdom",
+      "from_node_id": "video-KRDE1i3LDuU",
+      "to_node_id": "organization-ufo-sightings-in-the-united-kingdom",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KRDE1i3LDuU",
+          "timestamp_start": 0,
+          "quote": "there's other stuff out there, you know, and like maybe the kingdom of heaven is real, but it was this extremely on the flip si"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-KRDE1i3LDuU-MENTIONS-organization-identification-studies-of-ufos",
+      "from_node_id": "video-KRDE1i3LDuU",
+      "to_node_id": "organization-identification-studies-of-ufos",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KRDE1i3LDuU",
+          "timestamp_start": 0,
+          "quote": "# Plato’s Cave & UFOs: Consciousness Is Key (ft. James Madden) https://www.youtub"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-KRDE1i3LDuU-MENTIONS-organization-chiles-whitted-ufo-encounter",
+      "from_node_id": "video-KRDE1i3LDuU",
+      "to_node_id": "organization-chiles-whitted-ufo-encounter",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KRDE1i3LDuU",
+          "timestamp_start": 0,
+          "quote": "I think what Plato's getting at is there are things that we encounter in this life that are utterly unlike the ultimate truth, bu"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-KRDE1i3LDuU-MENTIONS-organization-flying-saucer-working-party",
+      "from_node_id": "video-KRDE1i3LDuU",
+      "to_node_id": "organization-flying-saucer-working-party",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KRDE1i3LDuU",
+          "timestamp_start": 0,
+          "quote": "or this religious festival and they're they're invited to a party., and you know, there's going to be torch races and it's go"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-KRDE1i3LDuU-MENTIONS-organization-the-flying-saucers-are-real",
+      "from_node_id": "video-KRDE1i3LDuU",
+      "to_node_id": "organization-the-flying-saucers-are-real",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KRDE1i3LDuU",
+          "timestamp_start": 0,
+          "quote": " Republic?  Sure. Well, first, thanks for having me. It's a real honor to be here. Yeah, I appreciate I think the only thing"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-KRDE1i3LDuU-MENTIONS-organization-archives-of-the-impossible",
+      "from_node_id": "video-KRDE1i3LDuU",
+      "to_node_id": "organization-archives-of-the-impossible",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KRDE1i3LDuU",
+          "timestamp_start": 0,
+          "quote": "s tricks on you, blah.\" And you end up in this sort of like impossible to resolve argument. Yeah. Anaporia is like the classic. Ye"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-KRDE1i3LDuU-MENTIONS-organization-unidentified-flying-object",
+      "from_node_id": "video-KRDE1i3LDuU",
+      "to_node_id": "organization-unidentified-flying-object",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KRDE1i3LDuU",
+          "timestamp_start": 0,
+          "quote": " brilliant way in this great book unidentified flying hyper object which I recommend  everybody go out and read, and so I want"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-KRDE1i3LDuU-MENTIONS-organization-roswell-that-ends-well",
+      "from_node_id": "video-KRDE1i3LDuU",
+      "to_node_id": "organization-roswell-that-ends-well",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KRDE1i3LDuU",
+          "timestamp_start": 0,
+          "quote": "ro. Who is Plato, and why did he write the Republic?  Sure. Well, first, thanks for having me. It's a real honor to be here."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-KRDE1i3LDuU-MENTIONS-organization-the-galileo-project",
+      "from_node_id": "video-KRDE1i3LDuU",
+      "to_node_id": "organization-the-galileo-project",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KRDE1i3LDuU",
+          "timestamp_start": 0,
+          "quote": "I think like I would even look at things like the Manhattan Project where you had this thing this like technological hyper obje"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-KRDE1i3LDuU-MENTIONS-organization-thornton-leigh-page",
+      "from_node_id": "video-KRDE1i3LDuU",
+      "to_node_id": "organization-thornton-leigh-page",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KRDE1i3LDuU",
+          "timestamp_start": 0,
+          "quote": "ral? People know what they're getting. I do I do have a web page, jdmadden.com. has a bunch of papers and podcasts and stuff"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-KRDE1i3LDuU-MENTIONS-organization-project-blue-book",
+      "from_node_id": "video-KRDE1i3LDuU",
+      "to_node_id": "organization-project-blue-book",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KRDE1i3LDuU",
+          "timestamp_start": 0,
+          "quote": "ave you. I've been   kind of mulling over the ideas in your book for a while now. you're a professor of philosophy who has d"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-KRDE1i3LDuU-MENTIONS-organization-world-contact-day",
+      "from_node_id": "video-KRDE1i3LDuU",
+      "to_node_id": "organization-world-contact-day",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KRDE1i3LDuU",
+          "timestamp_start": 0,
+          "quote": "h is sort of a sequel to the republic, right? It's like the day after the party and Socrates says, \"Hey, I'm troubled that "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-KRDE1i3LDuU-MENTIONS-organization-manhattan-project",
+      "from_node_id": "video-KRDE1i3LDuU",
+      "to_node_id": "organization-manhattan-project",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KRDE1i3LDuU",
+          "timestamp_start": 0,
+          "quote": "ne 80 You I think like I would even look at things like the Manhattan Project where you had this thing this like technological hyper obje"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-KRDE1i3LDuU-MENTIONS-organization-us-air-force",
+      "from_node_id": "video-KRDE1i3LDuU",
+      "to_node_id": "organization-us-air-force",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KRDE1i3LDuU",
+          "timestamp_start": 0,
+          "quote": "he is bound by technology  right and in Sophocles's version force who speaks for Zeus interesting he's just pure blind force "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-KRDE1i3LDuU-MENTIONS-organization-big-sur-ufo",
+      "from_node_id": "video-KRDE1i3LDuU",
+      "to_node_id": "organization-big-sur-ufo",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KRDE1i3LDuU",
+          "timestamp_start": 0,
+          "quote": "s a push and a pull outside of the cave or whatever. Is the UFO some sort of pulling technology because you talk about  thi"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-KRDE1i3LDuU-MENTIONS-location-pacific-training-area",
+      "from_node_id": "video-KRDE1i3LDuU",
+      "to_node_id": "location-pacific-training-area",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KRDE1i3LDuU",
+          "timestamp_start": 0,
+          "quote": " always strikes me whenever I fly into a major metropolitan area how small and minor it looks on the landscape as you come i"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-KRDE1i3LDuU-MENTIONS-location-rendlesham-forest",
+      "from_node_id": "video-KRDE1i3LDuU",
+      "to_node_id": "location-rendlesham-forest",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KRDE1i3LDuU",
+          "timestamp_start": 0,
+          "quote": "ou know, this the three body problem, you know, in the Dark Forest trilogy, this, you know, Chinese science fiction novel invo"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-KRDE1i3LDuU-MENTIONS-location-united-kingdom",
+      "from_node_id": "video-KRDE1i3LDuU",
+      "to_node_id": "location-united-kingdom",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KRDE1i3LDuU",
+          "timestamp_start": 0,
+          "quote": "there's other stuff out there, you know, and like maybe the kingdom of heaven is real, but it was this extremely on the flip si"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-KRDE1i3LDuU-MENTIONS-location-united-states",
+      "from_node_id": "video-KRDE1i3LDuU",
+      "to_node_id": "location-united-states",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KRDE1i3LDuU",
+          "timestamp_start": 0,
+          "quote": "like if you have a Schroinger's cat of you know possibility states of you know mankind there's probably a whole wave function "
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-KRDE1i3LDuU-discussion-summary",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-KRDE1i3LDuU-discussion-summary",
+      "relationship": "ASSERTED",
+      "confidence": 0.9,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KRDE1i3LDuU",
+          "timestamp_start": 0,
+          "quote": "Episode: Plato’s Cave & UFOs: Consciousness Is Key (ft. James Madden)"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-KRDE1i3LDuU-REFERENCES-claim-KRDE1i3LDuU-discussion-summary",
+      "from_node_id": "video-KRDE1i3LDuU",
+      "to_node_id": "claim-KRDE1i3LDuU-discussion-summary",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KRDE1i3LDuU",
+          "timestamp_start": 0
+        }
+      ]
+    }
+  ],
+  "extracted_at": "2026-04-17T11:04:59.024256+00:00",
+  "extractor_version": "v1-inline-claude"
+}

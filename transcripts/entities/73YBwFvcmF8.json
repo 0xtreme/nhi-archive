@@ -1,0 +1,1386 @@
+{
+  "video_id": "73YBwFvcmF8",
+  "nodes": [
+    {
+      "id": "video-73YBwFvcmF8",
+      "node_type": "video",
+      "label": "Meet The Nuclear Base Employee Abducted By Aliens (Ft. Mario Woods)",
+      "summary": "Renowned UAP researcher Robert Hastings first brought Mario's case to the public's attention in his book, CONFESSION: Our Hidden Alien Encounters Revealed, which is available at https://amzn.to/4aD...",
+      "tags": [
+        "video",
+        "american-alchemy"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:13.131157+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "73YBwFvcmF8",
+          "timestamp_start": 0,
+          "timestamp_end": 8812.0,
+          "quote": "Video: Meet The Nuclear Base Employee Abducted By Aliens (Ft. Mario Woods)"
+        }
+      ],
+      "type_specific": {
+        "video_id": "73YBwFvcmF8",
+        "title": "Meet The Nuclear Base Employee Abducted By Aliens (Ft. Mario Woods)",
+        "url": "https://www.youtube.com/watch?v=73YBwFvcmF8",
+        "view_count": 945260,
+        "duration_seconds": 8812.0,
+        "host_id": "person-jesse-michels"
+      }
+    },
+    {
+      "id": "person-jesse-michels",
+      "node_type": "person",
+      "label": "Jesse Michels",
+      "summary": "Host of American Alchemy podcast/show. Independent journalist and UFO/NHI researcher.",
+      "tags": [
+        "journalist",
+        "interviewer",
+        "researcher",
+        "host"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:13.131168+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "73YBwFvcmF8",
+          "timestamp_start": 0,
+          "quote": "Host of American Alchemy podcast/show."
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Jesse",
+          "Michels"
+        ],
+        "profession": "journalist",
+        "notability_tags": [
+          "journalist",
+          "interviewer",
+          "researcher",
+          "host"
+        ]
+      }
+    },
+    {
+      "id": "person-wilbert-brockhouse-smith",
+      "node_type": "person",
+      "label": "Wilbert Brockhouse Smith",
+      "summary": "William Brockhouse Smith (1910 – December 27, 1962) was a Canadian engineer, government scientist, ufologist, and author of various patents and technical papers.",
+      "tags": [
+        "wikipedia",
+        "20th-century canadian engineers",
+        "canadian electrical engineers",
+        "contactees",
+        "date of birth missing",
+        "date of birth not in wikidata",
+        "engineers from alberta",
+        "pages where birth or death is being automatically determined",
+        "people from lethbridge",
+        "ufologists",
+        "university of british columbia alumni"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:13.927920+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "73YBwFvcmF8",
+          "timestamp_start": 0,
+          "quote": " I did I certainly did Bob Upton did my first one and yavon Smith did my  second one what came out well the inside of the cra"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Smith",
+          "WILBERT BROCKHOUSE SMITH",
+          "wilbert brockhouse smith"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "20th-century canadian engineers",
+          "canadian electrical engineers",
+          "contactees",
+          "date of birth missing",
+          "date of birth not in wikidata",
+          "engineers from alberta",
+          "pages where birth or death is being automatically determined",
+          "people from lethbridge",
+          "ufologists",
+          "university of british columbia alumni"
+        ]
+      }
+    },
+    {
+      "id": "person-robert-hastings",
+      "node_type": "person",
+      "label": "Robert Hastings",
+      "summary": "",
+      "tags": [
+        "researcher",
+        "author",
+        "UFOs and Nukes"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:13.927940+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "73YBwFvcmF8",
+          "timestamp_start": 0,
+          "quote": " and they had like Transformer I've got pictures of it call Robert Hastings first thing they take this Transformer thing on a dolly tak"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Hastings"
+        ],
+        "notability_tags": [
+          "researcher",
+          "author",
+          "UFOs and Nukes"
+        ]
+      }
+    },
+    {
+      "id": "person-graham-hancock",
+      "node_type": "person",
+      "label": "Graham Hancock",
+      "summary": "",
+      "tags": [
+        "author",
+        "ancient history"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:13.927945+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "73YBwFvcmF8",
+          "timestamp_start": 0,
+          "quote": "ou feel like these  sites globally I feel like this is what Graham Hancock and Randle Carlson I love that guy man Robert shock all the"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Hancock"
+        ],
+        "notability_tags": [
+          "author",
+          "ancient history"
+        ]
+      }
+    },
+    {
+      "id": "person-love-has-won",
+      "node_type": "person",
+      "label": "Love Has Won",
+      "summary": "Love Has Won (LHW), also known as the Galactic Federation of Light, is an American new religious movement that was led by Amy Carlson until her death in 2021. Carlson was referred to within the group as \"Mother God\", who described herself as, among other things, the creator of the universe, with the",
+      "tags": [
+        "wikipedia",
+        "2007 establishments in colorado",
+        "ancient astronaut speculation",
+        "covid-19 vaccine misinformation and hesitancy",
+        "climate change denial in the united states",
+        "holocaust denial in the united states",
+        "new age organizations",
+        "new religious movements established in the 2000s",
+        "qanon",
+        "religious belief systems founded in the united states",
+        "religious controversies in the united states",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:13.927950+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "73YBwFvcmF8",
+          "timestamp_start": 0,
+          "quote": " and I said I don't know sir I said I'm fine but my partner won't respond to me I said he's awake breathing and well but he"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "LOVE HAS WON",
+          "Won",
+          "love has won"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "2007 establishments in colorado",
+          "ancient astronaut speculation",
+          "covid-19 vaccine misinformation and hesitancy",
+          "climate change denial in the united states",
+          "holocaust denial in the united states",
+          "new age organizations",
+          "new religious movements established in the 2000s",
+          "qanon",
+          "religious belief systems founded in the united states",
+          "religious controversies in the united states",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "person-timothy-good",
+      "node_type": "person",
+      "label": "Timothy Good",
+      "summary": "",
+      "tags": [
+        "researcher",
+        "author"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:13.927954+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "73YBwFvcmF8",
+          "timestamp_start": 0,
+          "quote": "cility on foot inside and outside the fence line which is a good walk and in snow it gets kind of little dicey because it ju"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Tim Good",
+          "Good"
+        ],
+        "notability_tags": [
+          "researcher",
+          "author"
+        ]
+      }
+    },
+    {
+      "id": "person-bob-jacobs",
+      "node_type": "person",
+      "label": "Bob Jacobs",
+      "summary": "",
+      "tags": [
+        "witness",
+        "Big Sur"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:13.927959+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "73YBwFvcmF8",
+          "timestamp_start": 0,
+          "quote": " you think the guy in the great Tweed suit you know I think Bob Jacobs talked about two guys  in great Tweed SE I think he was a G"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Jacobs",
+          "Professor Jacobs"
+        ],
+        "notability_tags": [
+          "witness",
+          "Big Sur"
+        ]
+      }
+    },
+    {
+      "id": "person-art-bell",
+      "node_type": "person",
+      "label": "Art Bell",
+      "summary": "Arthur William Bell III (June 17, 1945 – April 13, 2018) was an American broadcaster and author. He was the founder and the original host of the paranormal-themed radio program Coast to Coast AM, which is syndicated on hundreds of radio stations in the United States and Canada. He also created and h",
+      "tags": [
+        "wikipedia",
+        "20th-century american businesspeople",
+        "accidental deaths in nevada",
+        "amateur radio people",
+        "american non-fiction environmental writers",
+        "american radio djs",
+        "american radio executives",
+        "american talk radio hosts",
+        "businesspeople from monterey, california",
+        "businesspeople from nevada",
+        "coast to coast am",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:13.927963+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "73YBwFvcmF8",
+          "timestamp_start": 0,
+          "quote": "ringing in my ears that was as if somebody struck a Liberty Bell right next to my head I  mean really I have to emphasize th"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "ART BELL",
+          "Bell",
+          "art bell"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "20th-century american businesspeople",
+          "accidental deaths in nevada",
+          "amateur radio people",
+          "american non-fiction environmental writers",
+          "american radio djs",
+          "american radio executives",
+          "american talk radio hosts",
+          "businesspeople from monterey, california",
+          "businesspeople from nevada",
+          "coast to coast am",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "organization-international-ufo-museum-and-research-center",
+      "node_type": "organization",
+      "label": "International UFO Museum and Research Center",
+      "summary": "The International UFO Museum and Research Center is located in Roswell, New Mexico, United States, in the downtown district, and is focused largely on the 1947 Roswell Crash and later supposed UFO incidents in the United States and elsewhere. It was founded in 1991 as a 501c3 nonprofit educational o",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:13.927970+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "73YBwFvcmF8",
+          "timestamp_start": 0,
+          "quote": "nd where we were positioned behind that dam was in the very center of that damn wall at the at really at the most Center Point"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-the-report-on-unidentified-flying-objects",
+      "node_type": "organization",
+      "label": "The Report on Unidentified Flying Objects",
+      "summary": "The Report on Unidentified Flying Objects is a 1956 book by then-retired Air Force UFO investigator Edward J. Ruppelt, detailing his experience running Project Blue Book. The book was noted for its suggestion that a few UFO sightings might be linked to spikes of atomic radiation. Contemporary media ",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:13.927975+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "73YBwFvcmF8",
+          "timestamp_start": 0,
+          "quote": " use f-86s at one point or a couple of times to chase these objects away and I think there's several reports of that one of the"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-1952-washington-d-c-ufo-incident",
+      "node_type": "organization",
+      "label": "1952 Washington, D.C. UFO incident",
+      "summary": "From July 12 to 29, 1952, a series of unidentified flying object (UFO) sightings were reported in Washington, D.C., and later became known as the Washington flap, the Washington National Airport Sightings, or the Invasion of Washington. The most publicized sightings took place on consecutive weekend",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:13.927981+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "73YBwFvcmF8",
+          "timestamp_start": 0,
+          "quote": "ir Force Base in South Dakota then age 23 he experienced an incident  that would change him forever literally leaving him with m"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-identification-studies-of-ufos",
+      "node_type": "organization",
+      "label": "Identification studies of UFOs",
+      "summary": "Identifying unidentified flying objects (UFOs) is a difficult task due to the normally poor quality of the evidence provided by those who report sighting the unknown object. Observations and subsequent reporting are often made by those untrained in astronomy, atmospheric phenomena, aeronautics, phys",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:13.927985+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "73YBwFvcmF8",
+          "timestamp_start": 0,
+          "quote": " you I mean  the government agency tasked for investigating UFOs and you don't record your conversation it's absolutely absu"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-lakenheath-bentwaters-incident",
+      "node_type": "organization",
+      "label": "Lakenheath-Bentwaters incident",
+      "summary": "The Lakenheath-Bentwaters Incident was a series of radar and visual contacts with unidentified flying objects over airbases in eastern England on the night of 13–14 August 1956, involving personnel from the Royal Air Force (RAF) and the United States Air Force (USAF). The incident has since gained s",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:13.927990+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "73YBwFvcmF8",
+          "timestamp_start": 0,
+          "quote": "ir Force Base in South Dakota then age 23 he experienced an incident  that would change him forever literally leaving him with m"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-the-flying-saucers-are-real",
+      "node_type": "organization",
+      "label": "The Flying Saucers Are Real",
+      "summary": "The Flying Saucers Are Real, by Donald Keyhoe, is a book that investigated reports of UFOs by United States Air Force fighters, personnel, and other aircraft, between 1947 and 1950.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:13.927995+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "73YBwFvcmF8",
+          "timestamp_start": 0,
+          "quote": "at you're working with his name yeah Michael Johnson he's a real light skinned black guy he told me  he was from Chicago Ill"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-unidentified-flying-object",
+      "node_type": "organization",
+      "label": "Unidentified flying object",
+      "summary": "An unidentified flying object (UFO) is an object or phenomenon seen in the sky but not yet identified or explained. The term was coined when United States Air Force (USAF) investigations into flying saucers found too broad a range of shapes reported to consider them all saucers or discs. UFOs are al",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:13.927999+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "73YBwFvcmF8",
+          "timestamp_start": 0,
+          "quote": "t on the not a hard left just a dog leg left there sat this object on top of November 5 that was about 10 ft in the air direct"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-us-department-of-defense",
+      "node_type": "organization",
+      "label": "US Department of Defense",
+      "summary": "US Department of Defense entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:13.928003+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "73YBwFvcmF8",
+          "timestamp_start": 0,
+          "quote": "r you know top of the food chain when  it comes to American defense yes and offense or so we think or so there are other variat"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-lonnie-zamora-incident",
+      "node_type": "organization",
+      "label": "Lonnie Zamora incident",
+      "summary": "The Lonnie Zamora incident was an alleged UFO sighting that occurred on April 24, 1964 near Socorro, New Mexico when Socorro police officer Lonnie Zamora claimed he saw two people beside a shiny object that later rose into the air accompanied by a roaring blue and orange flame. Zamora's claims were ",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:13.928007+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "73YBwFvcmF8",
+          "timestamp_start": 0,
+          "quote": "ir Force Base in South Dakota then age 23 he experienced an incident  that would change him forever literally leaving him with m"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-roswell-that-ends-well",
+      "node_type": "organization",
+      "label": "Roswell That Ends Well",
+      "summary": "\"Roswell That Ends Well\" is the nineteenth episode in the third season of the American animated television series Futurama, and the 51st episode of the series overall. It originally aired on the Fox network in the United States on December 9, 2001. The plot centers on an accidental time travel event",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:13.928012+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "73YBwFvcmF8",
+          "timestamp_start": 0,
+          "quote": "o I just thought it was really cool and I thought all right well let's carry this on a little bit further because still it w"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-the-galileo-project",
+      "node_type": "organization",
+      "label": "The Galileo Project",
+      "summary": "The Galileo Project is an international scientific research project to search for extraterrestrial intelligence or extraterrestrial technology on and near Earth and to identify the nature of anomalous Unidentified Flying Objects/Unidentified Aerial Phenomena (UFOs/UAP). It was launched in 2021 by Ha",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:13.928016+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "73YBwFvcmF8",
+          "timestamp_start": 0,
+          "quote": "io's case I knew about Dodie because of a great book called project beta by Greg Bishop Dodie was an Air Force counterintellige"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-thornton-leigh-page",
+      "node_type": "organization",
+      "label": "Thornton Leigh Page",
+      "summary": "Thornton Leigh Page was an American professor of astronomy at the University of Chicago and at Wesleyan University. He became embroiled in the controversy over unidentified flying objects (UFOs) after serving briefly on the Robertson Panel, a Central Intelligence Agency–sponsored committee of scient",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:13.928020+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "73YBwFvcmF8",
+          "timestamp_start": 0,
+          "quote": " out and I literally before I opened the first to the first page I literally just sat and stared at that picture for many ho"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-project-blue-book",
+      "node_type": "organization",
+      "label": "Project Blue Book",
+      "summary": "USAF UFO investigation program active from 1952 to 1969.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:13.928024+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "73YBwFvcmF8",
+          "timestamp_start": 0,
+          "quote": "12:5  when as I was sitting down I think I was looking at a book or something I hear the alert phone in the flight Security "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-world-contact-day",
+      "node_type": "organization",
+      "label": "World Contact Day",
+      "summary": "World Contact Day was first declared in March 1953 by an organization called the International Flying Saucer Bureau (IFSB), as a day on which all IFSB members would attempt to send a telepathic message into space. The IFSB voted to hold such a day in 1953, theorising that if both telepathy and alien",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:13.928028+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "73YBwFvcmF8",
+          "timestamp_start": 0,
+          "quote": "back then or you know the tests were different back in that day but that was really there was there was no leniency in that"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-us-air-force",
+      "node_type": "organization",
+      "label": "US Air Force",
+      "summary": "US Air Force entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:13.928032+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "73YBwFvcmF8",
+          "timestamp_start": 0,
+          "quote": "ge and it was a sphere I sat down with Mario Woods a former US Air Force Security responder in 1977 he was stationed at Ellsworth Ai"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-big-sur-ufo",
+      "node_type": "organization",
+      "label": "Big Sur UFO",
+      "summary": "The Big Sur UFO is a reported UFO incident that took place during a 1964 Air Force deployment to a mountaintop near Big Sur, California. The deployment was a mission was to film Atlas missile tests from Vandenberg Air Force Base. Since 1982, Robert Jacobs, who had overseen the mountaintop team, has ",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:13.928037+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "73YBwFvcmF8",
+          "timestamp_start": 0,
+          "quote": "is used that you can see all night whatever is going on the UFO side is very interested in not only nuclear weapons but it "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-mirage-men",
+      "node_type": "organization",
+      "label": "Mirage Men",
+      "summary": "Mirage Men is a 2013 documentary film directed by John Lundberg, written by Mark Pilkington and co-directed by Roland Denning and Kypros Kyprianou. Mirage Men suggests there was a conspiracy by the U.S. military to fabricate UFO folklore in order to deflect attention from classified military project",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:13.928041+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "73YBwFvcmF8",
+          "timestamp_start": 0,
+          "quote": "ed to always tell me of you know an entire crew of 29 or 30 men seeing something exit from the water and come up into the a"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-us-navy",
+      "node_type": "organization",
+      "label": "US Navy",
+      "summary": "US Navy entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:13.928046+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "73YBwFvcmF8",
+          "timestamp_start": 0,
+          "quote": " get into this honestly I should have probably gone  in the Navy m my father was a merchant Seaman and he sailed with Texico"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-nasa",
+      "node_type": "organization",
+      "label": "NASA",
+      "summary": "NASA entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:13.928050+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "73YBwFvcmF8",
+          "timestamp_start": 0,
+          "quote": "d all the tests to work on Rocket engines because I thought NASA is my goal right I was in the hallway at the aphy  station "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other",
+        "acronym": "NASA"
+      }
+    },
+    {
+      "id": "organization-cia",
+      "node_type": "organization",
+      "label": "CIA",
+      "summary": "CIA entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:13.928054+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "73YBwFvcmF8",
+          "timestamp_start": 0,
+          "quote": "and puharich helped start the MK Ultra program so it's like CIA bring slavian guy wasn't he is he I think he was I read som"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other",
+        "acronym": "CIA"
+      }
+    },
+    {
+      "id": "location-pacific-training-area",
+      "node_type": "location",
+      "label": "Pacific Training Area",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:13.928059+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "73YBwFvcmF8",
+          "timestamp_start": 0,
+          "quote": "ich most people have heard before and this is a High Plains area Buffalo running terrain seen them a few times also but 1:00"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "claim-73YBwFvcmF8-discussion-summary",
+      "node_type": "claim",
+      "label": "Video 73YBwFvcmF8 features extended discussion of Wilbert Brockhouse Smith, Robert Hastings, Graham ",
+      "summary": "Video 73YBwFvcmF8 features extended discussion of Wilbert Brockhouse Smith, Robert Hastings, Graham Hancock and related UAP research topics, hosted by Jesse Michels.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:13.928069+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "73YBwFvcmF8",
+          "timestamp_start": 0,
+          "quote": "Episode title: Meet The Nuclear Base Employee Abducted By Aliens (Ft. Mario Woods)"
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Video 73YBwFvcmF8 features extended discussion of Wilbert Brockhouse Smith, Robert Hastings, Graham Hancock and related UAP research topics, hosted by Jesse Michels.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "73YBwFvcmF8",
+        "timestamp_start_seconds": 0,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-wilbert-brockhouse-smith",
+          "person-robert-hastings",
+          "person-graham-hancock",
+          "video-73YBwFvcmF8"
+        ]
+      }
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge-video-73YBwFvcmF8-HOSTED_BY-person-jesse-michels",
+      "from_node_id": "video-73YBwFvcmF8",
+      "to_node_id": "person-jesse-michels",
+      "relationship": "HOSTED_BY",
+      "confidence": 0.99,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "73YBwFvcmF8",
+          "timestamp_start": 0,
+          "quote": "Jesse hosting"
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-APPEARED_IN-video-73YBwFvcmF8",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "video-73YBwFvcmF8",
+      "relationship": "APPEARED_IN",
+      "confidence": 0.99,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "73YBwFvcmF8",
+          "timestamp_start": 0,
+          "quote": "Host"
+        }
+      ],
+      "properties": {
+        "appearance_type": "host"
+      }
+    },
+    {
+      "id": "edge-video-73YBwFvcmF8-MENTIONS-person-wilbert-brockhouse-smith",
+      "from_node_id": "video-73YBwFvcmF8",
+      "to_node_id": "person-wilbert-brockhouse-smith",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "73YBwFvcmF8",
+          "timestamp_start": 0,
+          "quote": " I did I certainly did Bob Upton did my first one and yavon Smith did my  second one what came out well the inside of the cra"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-73YBwFvcmF8-MENTIONS-person-robert-hastings",
+      "from_node_id": "video-73YBwFvcmF8",
+      "to_node_id": "person-robert-hastings",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "73YBwFvcmF8",
+          "timestamp_start": 0,
+          "quote": " and they had like Transformer I've got pictures of it call Robert Hastings first thing they take this Transformer thing on a dolly tak"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-73YBwFvcmF8-MENTIONS-person-graham-hancock",
+      "from_node_id": "video-73YBwFvcmF8",
+      "to_node_id": "person-graham-hancock",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "73YBwFvcmF8",
+          "timestamp_start": 0,
+          "quote": "ou feel like these  sites globally I feel like this is what Graham Hancock and Randle Carlson I love that guy man Robert shock all the"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-73YBwFvcmF8-MENTIONS-person-love-has-won",
+      "from_node_id": "video-73YBwFvcmF8",
+      "to_node_id": "person-love-has-won",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "73YBwFvcmF8",
+          "timestamp_start": 0,
+          "quote": " and I said I don't know sir I said I'm fine but my partner won't respond to me I said he's awake breathing and well but he"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-73YBwFvcmF8-MENTIONS-person-timothy-good",
+      "from_node_id": "video-73YBwFvcmF8",
+      "to_node_id": "person-timothy-good",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "73YBwFvcmF8",
+          "timestamp_start": 0,
+          "quote": "cility on foot inside and outside the fence line which is a good walk and in snow it gets kind of little dicey because it ju"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-73YBwFvcmF8-MENTIONS-person-bob-jacobs",
+      "from_node_id": "video-73YBwFvcmF8",
+      "to_node_id": "person-bob-jacobs",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "73YBwFvcmF8",
+          "timestamp_start": 0,
+          "quote": " you think the guy in the great Tweed suit you know I think Bob Jacobs talked about two guys  in great Tweed SE I think he was a G"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-73YBwFvcmF8-MENTIONS-person-art-bell",
+      "from_node_id": "video-73YBwFvcmF8",
+      "to_node_id": "person-art-bell",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "73YBwFvcmF8",
+          "timestamp_start": 0,
+          "quote": "ringing in my ears that was as if somebody struck a Liberty Bell right next to my head I  mean really I have to emphasize th"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-73YBwFvcmF8-MENTIONS-organization-international-ufo-museum-and-research-center",
+      "from_node_id": "video-73YBwFvcmF8",
+      "to_node_id": "organization-international-ufo-museum-and-research-center",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "73YBwFvcmF8",
+          "timestamp_start": 0,
+          "quote": "nd where we were positioned behind that dam was in the very center of that damn wall at the at really at the most Center Point"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-73YBwFvcmF8-MENTIONS-organization-the-report-on-unidentified-flying-objects",
+      "from_node_id": "video-73YBwFvcmF8",
+      "to_node_id": "organization-the-report-on-unidentified-flying-objects",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "73YBwFvcmF8",
+          "timestamp_start": 0,
+          "quote": " use f-86s at one point or a couple of times to chase these objects away and I think there's several reports of that one of the"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-73YBwFvcmF8-MENTIONS-organization-1952-washington-d-c-ufo-incident",
+      "from_node_id": "video-73YBwFvcmF8",
+      "to_node_id": "organization-1952-washington-d-c-ufo-incident",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "73YBwFvcmF8",
+          "timestamp_start": 0,
+          "quote": "ir Force Base in South Dakota then age 23 he experienced an incident  that would change him forever literally leaving him with m"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-73YBwFvcmF8-MENTIONS-organization-identification-studies-of-ufos",
+      "from_node_id": "video-73YBwFvcmF8",
+      "to_node_id": "organization-identification-studies-of-ufos",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "73YBwFvcmF8",
+          "timestamp_start": 0,
+          "quote": " you I mean  the government agency tasked for investigating UFOs and you don't record your conversation it's absolutely absu"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-73YBwFvcmF8-MENTIONS-organization-lakenheath-bentwaters-incident",
+      "from_node_id": "video-73YBwFvcmF8",
+      "to_node_id": "organization-lakenheath-bentwaters-incident",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "73YBwFvcmF8",
+          "timestamp_start": 0,
+          "quote": "ir Force Base in South Dakota then age 23 he experienced an incident  that would change him forever literally leaving him with m"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-73YBwFvcmF8-MENTIONS-organization-the-flying-saucers-are-real",
+      "from_node_id": "video-73YBwFvcmF8",
+      "to_node_id": "organization-the-flying-saucers-are-real",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "73YBwFvcmF8",
+          "timestamp_start": 0,
+          "quote": "at you're working with his name yeah Michael Johnson he's a real light skinned black guy he told me  he was from Chicago Ill"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-73YBwFvcmF8-MENTIONS-organization-unidentified-flying-object",
+      "from_node_id": "video-73YBwFvcmF8",
+      "to_node_id": "organization-unidentified-flying-object",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "73YBwFvcmF8",
+          "timestamp_start": 0,
+          "quote": "t on the not a hard left just a dog leg left there sat this object on top of November 5 that was about 10 ft in the air direct"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-73YBwFvcmF8-MENTIONS-organization-us-department-of-defense",
+      "from_node_id": "video-73YBwFvcmF8",
+      "to_node_id": "organization-us-department-of-defense",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "73YBwFvcmF8",
+          "timestamp_start": 0,
+          "quote": "r you know top of the food chain when  it comes to American defense yes and offense or so we think or so there are other variat"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-73YBwFvcmF8-MENTIONS-organization-lonnie-zamora-incident",
+      "from_node_id": "video-73YBwFvcmF8",
+      "to_node_id": "organization-lonnie-zamora-incident",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "73YBwFvcmF8",
+          "timestamp_start": 0,
+          "quote": "ir Force Base in South Dakota then age 23 he experienced an incident  that would change him forever literally leaving him with m"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-73YBwFvcmF8-MENTIONS-organization-roswell-that-ends-well",
+      "from_node_id": "video-73YBwFvcmF8",
+      "to_node_id": "organization-roswell-that-ends-well",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "73YBwFvcmF8",
+          "timestamp_start": 0,
+          "quote": "o I just thought it was really cool and I thought all right well let's carry this on a little bit further because still it w"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-73YBwFvcmF8-MENTIONS-organization-the-galileo-project",
+      "from_node_id": "video-73YBwFvcmF8",
+      "to_node_id": "organization-the-galileo-project",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "73YBwFvcmF8",
+          "timestamp_start": 0,
+          "quote": "io's case I knew about Dodie because of a great book called project beta by Greg Bishop Dodie was an Air Force counterintellige"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-73YBwFvcmF8-MENTIONS-organization-thornton-leigh-page",
+      "from_node_id": "video-73YBwFvcmF8",
+      "to_node_id": "organization-thornton-leigh-page",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "73YBwFvcmF8",
+          "timestamp_start": 0,
+          "quote": " out and I literally before I opened the first to the first page I literally just sat and stared at that picture for many ho"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-73YBwFvcmF8-MENTIONS-organization-project-blue-book",
+      "from_node_id": "video-73YBwFvcmF8",
+      "to_node_id": "organization-project-blue-book",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "73YBwFvcmF8",
+          "timestamp_start": 0,
+          "quote": "12:5  when as I was sitting down I think I was looking at a book or something I hear the alert phone in the flight Security "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-73YBwFvcmF8-MENTIONS-organization-world-contact-day",
+      "from_node_id": "video-73YBwFvcmF8",
+      "to_node_id": "organization-world-contact-day",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "73YBwFvcmF8",
+          "timestamp_start": 0,
+          "quote": "back then or you know the tests were different back in that day but that was really there was there was no leniency in that"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-73YBwFvcmF8-MENTIONS-organization-us-air-force",
+      "from_node_id": "video-73YBwFvcmF8",
+      "to_node_id": "organization-us-air-force",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "73YBwFvcmF8",
+          "timestamp_start": 0,
+          "quote": "ge and it was a sphere I sat down with Mario Woods a former US Air Force Security responder in 1977 he was stationed at Ellsworth Ai"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-73YBwFvcmF8-MENTIONS-organization-big-sur-ufo",
+      "from_node_id": "video-73YBwFvcmF8",
+      "to_node_id": "organization-big-sur-ufo",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "73YBwFvcmF8",
+          "timestamp_start": 0,
+          "quote": "is used that you can see all night whatever is going on the UFO side is very interested in not only nuclear weapons but it "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-73YBwFvcmF8-MENTIONS-organization-mirage-men",
+      "from_node_id": "video-73YBwFvcmF8",
+      "to_node_id": "organization-mirage-men",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "73YBwFvcmF8",
+          "timestamp_start": 0,
+          "quote": "ed to always tell me of you know an entire crew of 29 or 30 men seeing something exit from the water and come up into the a"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-73YBwFvcmF8-MENTIONS-organization-us-navy",
+      "from_node_id": "video-73YBwFvcmF8",
+      "to_node_id": "organization-us-navy",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "73YBwFvcmF8",
+          "timestamp_start": 0,
+          "quote": " get into this honestly I should have probably gone  in the Navy m my father was a merchant Seaman and he sailed with Texico"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-73YBwFvcmF8-MENTIONS-organization-nasa",
+      "from_node_id": "video-73YBwFvcmF8",
+      "to_node_id": "organization-nasa",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "73YBwFvcmF8",
+          "timestamp_start": 0,
+          "quote": "d all the tests to work on Rocket engines because I thought NASA is my goal right I was in the hallway at the aphy  station "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-73YBwFvcmF8-MENTIONS-organization-cia",
+      "from_node_id": "video-73YBwFvcmF8",
+      "to_node_id": "organization-cia",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "73YBwFvcmF8",
+          "timestamp_start": 0,
+          "quote": "and puharich helped start the MK Ultra program so it's like CIA bring slavian guy wasn't he is he I think he was I read som"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-73YBwFvcmF8-MENTIONS-location-pacific-training-area",
+      "from_node_id": "video-73YBwFvcmF8",
+      "to_node_id": "location-pacific-training-area",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "73YBwFvcmF8",
+          "timestamp_start": 0,
+          "quote": "ich most people have heard before and this is a High Plains area Buffalo running terrain seen them a few times also but 1:00"
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-73YBwFvcmF8-discussion-summary",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-73YBwFvcmF8-discussion-summary",
+      "relationship": "ASSERTED",
+      "confidence": 0.9,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "73YBwFvcmF8",
+          "timestamp_start": 0,
+          "quote": "Episode: Meet The Nuclear Base Employee Abducted By Aliens (Ft. Mario Woods)"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-73YBwFvcmF8-REFERENCES-claim-73YBwFvcmF8-discussion-summary",
+      "from_node_id": "video-73YBwFvcmF8",
+      "to_node_id": "claim-73YBwFvcmF8-discussion-summary",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "73YBwFvcmF8",
+          "timestamp_start": 0
+        }
+      ]
+    }
+  ],
+  "extracted_at": "2026-04-17T11:04:13.928095+00:00",
+  "extractor_version": "v1-inline-claude"
+}

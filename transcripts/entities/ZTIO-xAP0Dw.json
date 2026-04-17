@@ -1,0 +1,1069 @@
+{
+  "video_id": "ZTIO-xAP0Dw",
+  "nodes": [
+    {
+      "id": "video-ZTIO-xAP0Dw",
+      "node_type": "video",
+      "label": "Eric Weinstein Reveals UFO Physics! (Exclusive Interview)",
+      "summary": "Eric Weinstein is a mathematician, cultural commentator and Managing Director of Thiel Capital. He has a theory in physics, called Geometric Unity, which attempts to reconcile quantum field...",
+      "tags": [
+        "video",
+        "american-alchemy"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:06.045985+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ZTIO-xAP0Dw",
+          "timestamp_start": 0,
+          "timestamp_end": 2667.0,
+          "quote": "Video: Eric Weinstein Reveals UFO Physics! (Exclusive Interview)"
+        }
+      ],
+      "type_specific": {
+        "video_id": "ZTIO-xAP0Dw",
+        "title": "Eric Weinstein Reveals UFO Physics! (Exclusive Interview)",
+        "url": "https://www.youtube.com/watch?v=ZTIO-xAP0Dw",
+        "view_count": 160860,
+        "duration_seconds": 2667.0,
+        "host_id": "person-jesse-michels",
+        "guest_ids": [
+          "person-eric-weinstein"
+        ]
+      }
+    },
+    {
+      "id": "person-jesse-michels",
+      "node_type": "person",
+      "label": "Jesse Michels",
+      "summary": "Host of American Alchemy podcast/show. Independent journalist and UFO/NHI researcher.",
+      "tags": [
+        "journalist",
+        "interviewer",
+        "researcher",
+        "host"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:06.045997+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ZTIO-xAP0Dw",
+          "timestamp_start": 0,
+          "quote": "Host of American Alchemy podcast/show."
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Jesse",
+          "Michels"
+        ],
+        "profession": "journalist",
+        "notability_tags": [
+          "journalist",
+          "interviewer",
+          "researcher",
+          "host"
+        ]
+      }
+    },
+    {
+      "id": "person-eric-weinstein",
+      "node_type": "person",
+      "label": "Eric Weinstein",
+      "summary": "",
+      "tags": [
+        "mathematician",
+        "physicist"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:06.287583+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ZTIO-xAP0Dw",
+          "timestamp_start": 0,
+          "quote": "# Eric Weinstein Reveals UFO Physics! (Exclusive Interview) https://www.yout"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Weinstein"
+        ],
+        "notability_tags": [
+          "mathematician",
+          "physicist"
+        ]
+      }
+    },
+    {
+      "id": "person-james-harder",
+      "node_type": "person",
+      "label": "James Harder",
+      "summary": "James Albert Harder, Ph.D., (December 2, 1926 – December 30, 2006) was a professor of civil and hydraulic engineering at the University of California, Berkeley. He was a professor emeritus there. Harder also had interest in ufology.",
+      "tags": [
+        "wikipedia",
+        "california institute of technology alumni",
+        "people from fullerton, california",
+        "uc berkeley college of engineering faculty",
+        "ufologists",
+        "university of california, berkeley alumni"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:06.287599+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ZTIO-xAP0Dw",
+          "timestamp_start": 0,
+          "quote": " think a line I have on AI is it's like the Daff Puck song. harder, better, faster, stronger. And that's all it can do. It can"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Harder",
+          "JAMES HARDER",
+          "james harder"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "california institute of technology alumni",
+          "people from fullerton, california",
+          "uc berkeley college of engineering faculty",
+          "ufologists",
+          "university of california, berkeley alumni"
+        ]
+      }
+    },
+    {
+      "id": "person-love-has-won",
+      "node_type": "person",
+      "label": "Love Has Won",
+      "summary": "Love Has Won (LHW), also known as the Galactic Federation of Light, is an American new religious movement that was led by Amy Carlson until her death in 2021. Carlson was referred to within the group as \"Mother God\", who described herself as, among other things, the creator of the universe, with the",
+      "tags": [
+        "wikipedia",
+        "2007 establishments in colorado",
+        "ancient astronaut speculation",
+        "covid-19 vaccine misinformation and hesitancy",
+        "climate change denial in the united states",
+        "holocaust denial in the united states",
+        "new age organizations",
+        "new religious movements established in the 2000s",
+        "qanon",
+        "religious belief systems founded in the united states",
+        "religious controversies in the united states",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:06.287604+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ZTIO-xAP0Dw",
+          "timestamp_start": 0,
+          "quote": "story is off one. The greatest generation, which supposedly won World War II by fighting the Germans handtoh hand and blah,"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "LOVE HAS WON",
+          "Won",
+          "love has won"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "2007 establishments in colorado",
+          "ancient astronaut speculation",
+          "covid-19 vaccine misinformation and hesitancy",
+          "climate change denial in the united states",
+          "holocaust denial in the united states",
+          "new age organizations",
+          "new religious movements established in the 2000s",
+          "qanon",
+          "religious belief systems founded in the united states",
+          "religious controversies in the united states",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "person-timothy-good",
+      "node_type": "person",
+      "label": "Timothy Good",
+      "summary": "",
+      "tags": [
+        "researcher",
+        "author"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:06.287609+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ZTIO-xAP0Dw",
+          "timestamp_start": 0,
+          "quote": " you may have an idea that it's really important that we be good kind stewards of the planet. But you want your burger, don'"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Tim Good",
+          "Good"
+        ],
+        "notability_tags": [
+          "researcher",
+          "author"
+        ]
+      }
+    },
+    {
+      "id": "person-art-bell",
+      "node_type": "person",
+      "label": "Art Bell",
+      "summary": "Arthur William Bell III (June 17, 1945 – April 13, 2018) was an American broadcaster and author. He was the founder and the original host of the paranormal-themed radio program Coast to Coast AM, which is syndicated on hundreds of radio stations in the United States and Canada. He also created and h",
+      "tags": [
+        "wikipedia",
+        "20th-century american businesspeople",
+        "accidental deaths in nevada",
+        "amateur radio people",
+        "american non-fiction environmental writers",
+        "american radio djs",
+        "american radio executives",
+        "american talk radio hosts",
+        "businesspeople from monterey, california",
+        "businesspeople from nevada",
+        "coast to coast am",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:06.287615+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ZTIO-xAP0Dw",
+          "timestamp_start": 0,
+          "quote": "orithms that break your  heart. You don't realize that Paco Bell is emotional because it's not even music. It's math. So, th"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "ART BELL",
+          "Bell",
+          "art bell"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "20th-century american businesspeople",
+          "accidental deaths in nevada",
+          "amateur radio people",
+          "american non-fiction environmental writers",
+          "american radio djs",
+          "american radio executives",
+          "american talk radio hosts",
+          "businesspeople from monterey, california",
+          "businesspeople from nevada",
+          "coast to coast am",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "organization-international-ufo-museum-and-research-center",
+      "node_type": "organization",
+      "label": "International UFO Museum and Research Center",
+      "summary": "The International UFO Museum and Research Center is located in Roswell, New Mexico, United States, in the downtown district, and is focused largely on the 1947 Roswell Crash and later supposed UFO incidents in the United States and elsewhere. It was founded in 1991 as a 501c3 nonprofit educational o",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:06.287620+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ZTIO-xAP0Dw",
+          "timestamp_start": 0,
+          "quote": "migrants in the US. went to Boston, which I thought was the center of academics and science. Moved to New York, which was hot "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-identification-studies-of-ufos",
+      "node_type": "organization",
+      "label": "Identification studies of UFOs",
+      "summary": "Identifying unidentified flying objects (UFOs) is a difficult task due to the normally poor quality of the evidence provided by those who report sighting the unknown object. Observations and subsequent reporting are often made by those untrained in astronomy, atmospheric phenomena, aeronautics, phys",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:06.287626+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ZTIO-xAP0Dw",
+          "timestamp_start": 0,
+          "quote": " in this country, artificial general intelligence, and even UFOs. What was that? Please enjoy this special long- form interv"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-the-flying-saucers-are-real",
+      "node_type": "organization",
+      "label": "The Flying Saucers Are Real",
+      "summary": "The Flying Saucers Are Real, by Donald Keyhoe, is a book that investigated reports of UFOs by United States Air Force fighters, personnel, and other aircraft, between 1947 and 1950.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:06.287630+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ZTIO-xAP0Dw",
+          "timestamp_start": 0,
+          "quote": ".8% of the  wealth in this country. Look at a city like LA. Real wages have basically stagnated, maybe risen slightly, and t"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-archives-of-the-impossible",
+      "node_type": "organization",
+      "label": "Archives of the Impossible",
+      "summary": "The Archives of the Impossible (AOTI), sometimes called the Center for the Impossible, is a special collection at Rice University in Houston, Texas, United States. Founded in 2014 by Jeffrey J. Kripal, AOTI is based at the Woodson Research Center in the Fondren Library. It stewards collections on UF",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:06.287635+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ZTIO-xAP0Dw",
+          "timestamp_start": 0,
+          "quote": "That's a great segue into You've attempted to almost do the impossible, which is to coalesce these  sort of atomized truthteller g"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-roswell-that-ends-well",
+      "node_type": "organization",
+      "label": "Roswell That Ends Well",
+      "summary": "\"Roswell That Ends Well\" is the nineteenth episode in the third season of the American animated television series Futurama, and the 51st episode of the series overall. It originally aired on the Fox network in the United States on December 9, 2001. The plot centers on an accidental time travel event",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:06.287640+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ZTIO-xAP0Dw",
+          "timestamp_start": 0,
+          "quote": "phone calls. I'd get messages from you that would be like, \"Well, it's 3 days later and you still don't have a podcast.\" The"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-thornton-leigh-page",
+      "node_type": "organization",
+      "label": "Thornton Leigh Page",
+      "summary": "Thornton Leigh Page was an American professor of astronomy at the University of Chicago and at Wesleyan University. He became embroiled in the controversy over unidentified flying objects (UFOs) after serving briefly on the Robertson Panel, a Central Intelligence Agency–sponsored committee of scient",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:06.287644+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ZTIO-xAP0Dw",
+          "timestamp_start": 0,
+          "quote": "ant. Three, I think, you know, it's like a cover and a back page. I don't know what it is. And it's very clear in that repor"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-world-contact-day",
+      "node_type": "organization",
+      "label": "World Contact Day",
+      "summary": "World Contact Day was first declared in March 1953 by an organization called the International Flying Saucer Bureau (IFSB), as a day on which all IFSB members would attempt to send a telepathic message into space. The IFSB voted to hold such a day in 1953, theorising that if both telepathy and alien",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:06.287648+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ZTIO-xAP0Dw",
+          "timestamp_start": 0,
+          "quote": "? And I want to be insulated so I don't need to worry every day. But it's the ideas. If the ideas in GU  are wrong, then th"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-grant-morrison",
+      "node_type": "organization",
+      "label": "Grant Morrison",
+      "summary": "Grant Morrison (born 31 January 1960) is a Scottish comic book writer, screenwriter, and producer. Their work is known for its nonlinear narratives, humanist philosophy and countercultural leanings. Morrison has written extensively for the American comic book publisher DC Comics, penning lengthy run",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:06.287652+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ZTIO-xAP0Dw",
+          "timestamp_start": 0,
+          "quote": " energy. It was such a weird place, too. I mean, I know Jim Morrison's dad, Rear Admiral Steven Morrison was in the Navy and in "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-scp-foundation",
+      "node_type": "organization",
+      "label": "SCP Foundation",
+      "summary": "The SCP Foundation is a fictional organization featured in stories created by contributors on the SCP Wiki, a wiki-based collaborative writing project, launched in 2008. Within the project's shared universe, the SCP (Special Containment Procedures) Foundation is a secret organization that is respons",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:06.287656+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ZTIO-xAP0Dw",
+          "timestamp_start": 0,
+          "quote": "on't know how it's working. We don't understand the bedrock foundation. I agree with you, sir.  Okay, let's go eat. Let's go eat. "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-us-air-force",
+      "node_type": "organization",
+      "label": "US Air Force",
+      "summary": "US Air Force entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:06.287660+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ZTIO-xAP0Dw",
+          "timestamp_start": 0,
+          "quote": "ood as humans. But that is different than innovation. Brute force is different than innovation. Whenever I see a startup that"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-big-sur-ufo",
+      "node_type": "organization",
+      "label": "Big Sur UFO",
+      "summary": "The Big Sur UFO is a reported UFO incident that took place during a 1964 Air Force deployment to a mountaintop near Big Sur, California. The deployment was a mission was to film Atlas missile tests from Vandenberg Air Force Base. Since 1982, Robert Jacobs, who had overseen the mountaintop team, has ",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:06.287664+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ZTIO-xAP0Dw",
+          "timestamp_start": 0,
+          "quote": "# Eric Weinstein Reveals UFO Physics! (Exclusive Interview) https://www.youtube.com/watc"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-us-navy",
+      "node_type": "organization",
+      "label": "US Navy",
+      "summary": "US Navy entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:06.287668+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ZTIO-xAP0Dw",
+          "timestamp_start": 0,
+          "quote": "Jim Morrison's dad, Rear Admiral Steven Morrison was in the Navy and in charge of the Gulf of Talin. Really crazy. That's a "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-cia",
+      "node_type": "organization",
+      "label": "CIA",
+      "summary": "CIA entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:06.287673+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ZTIO-xAP0Dw",
+          "timestamp_start": 0,
+          "quote": " strange one., and as  you point out, Lookout Mountain is a CIA facility in Laurel Canyon and the whole history of drugs an"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other",
+        "acronym": "CIA"
+      }
+    },
+    {
+      "id": "organization-nsa",
+      "node_type": "organization",
+      "label": "NSA",
+      "summary": "",
+      "tags": [
+        "intelligence_agency"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:06.287677+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ZTIO-xAP0Dw",
+          "timestamp_start": 0,
+          "quote": "ese revelations. You had Prism, Buller Run, Heartbeat.  The NSA has a back door into everything was the revelation. and the"
+        }
+      ],
+      "type_specific": {
+        "org_type": "intelligence_agency",
+        "acronym": "NSA",
+        "full_name": "National Security Agency"
+      }
+    },
+    {
+      "id": "location-pacific-training-area",
+      "node_type": "location",
+      "label": "Pacific Training Area",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:06.287682+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ZTIO-xAP0Dw",
+          "timestamp_start": 0,
+          "quote": "ou do realize that you're selling your  daughters into gray area prostitution through sugar dating?\" And they don't even hea"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "claim-ZTIO-xAP0Dw-discussion-summary",
+      "node_type": "claim",
+      "label": "Video ZTIO-xAP0Dw features extended discussion of Eric Weinstein, James Harder, Love Has Won and rel",
+      "summary": "Video ZTIO-xAP0Dw features extended discussion of Eric Weinstein, James Harder, Love Has Won and related UAP research topics, hosted by Jesse Michels.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:06.287693+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ZTIO-xAP0Dw",
+          "timestamp_start": 0,
+          "quote": "Episode title: Eric Weinstein Reveals UFO Physics! (Exclusive Interview)"
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Video ZTIO-xAP0Dw features extended discussion of Eric Weinstein, James Harder, Love Has Won and related UAP research topics, hosted by Jesse Michels.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "ZTIO-xAP0Dw",
+        "timestamp_start_seconds": 0,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-eric-weinstein",
+          "person-james-harder",
+          "person-love-has-won",
+          "video-ZTIO-xAP0Dw"
+        ]
+      }
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge-video-ZTIO-xAP0Dw-HOSTED_BY-person-jesse-michels",
+      "from_node_id": "video-ZTIO-xAP0Dw",
+      "to_node_id": "person-jesse-michels",
+      "relationship": "HOSTED_BY",
+      "confidence": 0.99,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ZTIO-xAP0Dw",
+          "timestamp_start": 0,
+          "quote": "Jesse hosting"
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-APPEARED_IN-video-ZTIO-xAP0Dw",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "video-ZTIO-xAP0Dw",
+      "relationship": "APPEARED_IN",
+      "confidence": 0.99,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ZTIO-xAP0Dw",
+          "timestamp_start": 0,
+          "quote": "Host"
+        }
+      ],
+      "properties": {
+        "appearance_type": "host"
+      }
+    },
+    {
+      "id": "edge-person-eric-weinstein-APPEARED_IN-video-ZTIO-xAP0Dw",
+      "from_node_id": "person-eric-weinstein",
+      "to_node_id": "video-ZTIO-xAP0Dw",
+      "relationship": "APPEARED_IN",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ZTIO-xAP0Dw",
+          "timestamp_start": 0,
+          "quote": "# Eric Weinstein Reveals UFO Physics! (Exclusive Interview) https://www.yout"
+        }
+      ],
+      "properties": {
+        "appearance_type": "guest"
+      }
+    },
+    {
+      "id": "edge-video-ZTIO-xAP0Dw-DISCUSSES-person-eric-weinstein",
+      "from_node_id": "video-ZTIO-xAP0Dw",
+      "to_node_id": "person-eric-weinstein",
+      "relationship": "DISCUSSES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ZTIO-xAP0Dw",
+          "timestamp_start": 0,
+          "quote": "# Eric Weinstein Reveals UFO Physics! (Exclusive Interview) https://www.yout"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ZTIO-xAP0Dw-MENTIONS-person-james-harder",
+      "from_node_id": "video-ZTIO-xAP0Dw",
+      "to_node_id": "person-james-harder",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ZTIO-xAP0Dw",
+          "timestamp_start": 0,
+          "quote": " think a line I have on AI is it's like the Daff Puck song. harder, better, faster, stronger. And that's all it can do. It can"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ZTIO-xAP0Dw-MENTIONS-person-love-has-won",
+      "from_node_id": "video-ZTIO-xAP0Dw",
+      "to_node_id": "person-love-has-won",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ZTIO-xAP0Dw",
+          "timestamp_start": 0,
+          "quote": "story is off one. The greatest generation, which supposedly won World War II by fighting the Germans handtoh hand and blah,"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ZTIO-xAP0Dw-MENTIONS-person-timothy-good",
+      "from_node_id": "video-ZTIO-xAP0Dw",
+      "to_node_id": "person-timothy-good",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ZTIO-xAP0Dw",
+          "timestamp_start": 0,
+          "quote": " you may have an idea that it's really important that we be good kind stewards of the planet. But you want your burger, don'"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ZTIO-xAP0Dw-MENTIONS-person-art-bell",
+      "from_node_id": "video-ZTIO-xAP0Dw",
+      "to_node_id": "person-art-bell",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ZTIO-xAP0Dw",
+          "timestamp_start": 0,
+          "quote": "orithms that break your  heart. You don't realize that Paco Bell is emotional because it's not even music. It's math. So, th"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ZTIO-xAP0Dw-MENTIONS-organization-international-ufo-museum-and-research-center",
+      "from_node_id": "video-ZTIO-xAP0Dw",
+      "to_node_id": "organization-international-ufo-museum-and-research-center",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ZTIO-xAP0Dw",
+          "timestamp_start": 0,
+          "quote": "migrants in the US. went to Boston, which I thought was the center of academics and science. Moved to New York, which was hot "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ZTIO-xAP0Dw-MENTIONS-organization-identification-studies-of-ufos",
+      "from_node_id": "video-ZTIO-xAP0Dw",
+      "to_node_id": "organization-identification-studies-of-ufos",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ZTIO-xAP0Dw",
+          "timestamp_start": 0,
+          "quote": " in this country, artificial general intelligence, and even UFOs. What was that? Please enjoy this special long- form interv"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ZTIO-xAP0Dw-MENTIONS-organization-the-flying-saucers-are-real",
+      "from_node_id": "video-ZTIO-xAP0Dw",
+      "to_node_id": "organization-the-flying-saucers-are-real",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ZTIO-xAP0Dw",
+          "timestamp_start": 0,
+          "quote": ".8% of the  wealth in this country. Look at a city like LA. Real wages have basically stagnated, maybe risen slightly, and t"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ZTIO-xAP0Dw-MENTIONS-organization-archives-of-the-impossible",
+      "from_node_id": "video-ZTIO-xAP0Dw",
+      "to_node_id": "organization-archives-of-the-impossible",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ZTIO-xAP0Dw",
+          "timestamp_start": 0,
+          "quote": "That's a great segue into You've attempted to almost do the impossible, which is to coalesce these  sort of atomized truthteller g"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ZTIO-xAP0Dw-MENTIONS-organization-roswell-that-ends-well",
+      "from_node_id": "video-ZTIO-xAP0Dw",
+      "to_node_id": "organization-roswell-that-ends-well",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ZTIO-xAP0Dw",
+          "timestamp_start": 0,
+          "quote": "phone calls. I'd get messages from you that would be like, \"Well, it's 3 days later and you still don't have a podcast.\" The"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ZTIO-xAP0Dw-MENTIONS-organization-thornton-leigh-page",
+      "from_node_id": "video-ZTIO-xAP0Dw",
+      "to_node_id": "organization-thornton-leigh-page",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ZTIO-xAP0Dw",
+          "timestamp_start": 0,
+          "quote": "ant. Three, I think, you know, it's like a cover and a back page. I don't know what it is. And it's very clear in that repor"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ZTIO-xAP0Dw-MENTIONS-organization-world-contact-day",
+      "from_node_id": "video-ZTIO-xAP0Dw",
+      "to_node_id": "organization-world-contact-day",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ZTIO-xAP0Dw",
+          "timestamp_start": 0,
+          "quote": "? And I want to be insulated so I don't need to worry every day. But it's the ideas. If the ideas in GU  are wrong, then th"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ZTIO-xAP0Dw-MENTIONS-organization-grant-morrison",
+      "from_node_id": "video-ZTIO-xAP0Dw",
+      "to_node_id": "organization-grant-morrison",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ZTIO-xAP0Dw",
+          "timestamp_start": 0,
+          "quote": " energy. It was such a weird place, too. I mean, I know Jim Morrison's dad, Rear Admiral Steven Morrison was in the Navy and in "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ZTIO-xAP0Dw-MENTIONS-organization-scp-foundation",
+      "from_node_id": "video-ZTIO-xAP0Dw",
+      "to_node_id": "organization-scp-foundation",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ZTIO-xAP0Dw",
+          "timestamp_start": 0,
+          "quote": "on't know how it's working. We don't understand the bedrock foundation. I agree with you, sir.  Okay, let's go eat. Let's go eat. "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ZTIO-xAP0Dw-MENTIONS-organization-us-air-force",
+      "from_node_id": "video-ZTIO-xAP0Dw",
+      "to_node_id": "organization-us-air-force",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ZTIO-xAP0Dw",
+          "timestamp_start": 0,
+          "quote": "ood as humans. But that is different than innovation. Brute force is different than innovation. Whenever I see a startup that"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ZTIO-xAP0Dw-MENTIONS-organization-big-sur-ufo",
+      "from_node_id": "video-ZTIO-xAP0Dw",
+      "to_node_id": "organization-big-sur-ufo",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ZTIO-xAP0Dw",
+          "timestamp_start": 0,
+          "quote": "# Eric Weinstein Reveals UFO Physics! (Exclusive Interview) https://www.youtube.com/watc"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ZTIO-xAP0Dw-MENTIONS-organization-us-navy",
+      "from_node_id": "video-ZTIO-xAP0Dw",
+      "to_node_id": "organization-us-navy",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ZTIO-xAP0Dw",
+          "timestamp_start": 0,
+          "quote": "Jim Morrison's dad, Rear Admiral Steven Morrison was in the Navy and in charge of the Gulf of Talin. Really crazy. That's a "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ZTIO-xAP0Dw-MENTIONS-organization-cia",
+      "from_node_id": "video-ZTIO-xAP0Dw",
+      "to_node_id": "organization-cia",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ZTIO-xAP0Dw",
+          "timestamp_start": 0,
+          "quote": " strange one., and as  you point out, Lookout Mountain is a CIA facility in Laurel Canyon and the whole history of drugs an"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ZTIO-xAP0Dw-MENTIONS-organization-nsa",
+      "from_node_id": "video-ZTIO-xAP0Dw",
+      "to_node_id": "organization-nsa",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ZTIO-xAP0Dw",
+          "timestamp_start": 0,
+          "quote": "ese revelations. You had Prism, Buller Run, Heartbeat.  The NSA has a back door into everything was the revelation. and the"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ZTIO-xAP0Dw-MENTIONS-location-pacific-training-area",
+      "from_node_id": "video-ZTIO-xAP0Dw",
+      "to_node_id": "location-pacific-training-area",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ZTIO-xAP0Dw",
+          "timestamp_start": 0,
+          "quote": "ou do realize that you're selling your  daughters into gray area prostitution through sugar dating?\" And they don't even hea"
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-ZTIO-xAP0Dw-discussion-summary",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-ZTIO-xAP0Dw-discussion-summary",
+      "relationship": "ASSERTED",
+      "confidence": 0.9,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ZTIO-xAP0Dw",
+          "timestamp_start": 0,
+          "quote": "Episode: Eric Weinstein Reveals UFO Physics! (Exclusive Interview)"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ZTIO-xAP0Dw-REFERENCES-claim-ZTIO-xAP0Dw-discussion-summary",
+      "from_node_id": "video-ZTIO-xAP0Dw",
+      "to_node_id": "claim-ZTIO-xAP0Dw-discussion-summary",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ZTIO-xAP0Dw",
+          "timestamp_start": 0
+        }
+      ]
+    }
+  ],
+  "extracted_at": "2026-04-17T11:05:06.287715+00:00",
+  "extractor_version": "v1-inline-claude"
+}

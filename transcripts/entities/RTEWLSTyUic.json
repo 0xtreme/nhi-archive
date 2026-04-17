@@ -1,0 +1,2197 @@
+{
+  "video_id": "RTEWLSTyUic",
+  "nodes": [
+    {
+      "id": "video-RTEWLSTyUic",
+      "node_type": "video",
+      "label": "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) ",
+      "summary": "Please buy The Man Who Mastered Gravity by Paul Schatzkin -- Schatzkin's incredible biography of Townsend Brown: https://shorturl.at/hkmx1 \n\nAnd The Hunt for Zero Point from Nick Cook -- the...",
+      "tags": [
+        "video",
+        "american-alchemy"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:12.319318+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "timestamp_end": 6565.0,
+          "quote": "Video: The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) "
+        }
+      ],
+      "type_specific": {
+        "video_id": "RTEWLSTyUic",
+        "title": "The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) ",
+        "url": "https://www.youtube.com/watch?v=RTEWLSTyUic",
+        "view_count": 1026947,
+        "duration_seconds": 6565.0,
+        "host_id": "person-jesse-michels",
+        "guest_ids": [
+          "person-bob-lazar"
+        ]
+      }
+    },
+    {
+      "id": "person-jesse-michels",
+      "node_type": "person",
+      "label": "Jesse Michels",
+      "summary": "Host of American Alchemy podcast/show. Independent journalist and UFO/NHI researcher.",
+      "tags": [
+        "journalist",
+        "interviewer",
+        "researcher",
+        "host"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:12.319333+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": "Host of American Alchemy podcast/show."
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Jesse",
+          "Michels"
+        ],
+        "profession": "journalist",
+        "notability_tags": [
+          "journalist",
+          "interviewer",
+          "researcher",
+          "host"
+        ]
+      }
+    },
+    {
+      "id": "person-robert-hastings",
+      "node_type": "person",
+      "label": "Robert Hastings",
+      "summary": "",
+      "tags": [
+        "researcher",
+        "author",
+        "UFOs and Nukes"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:12.622553+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": "s responsible for Chasing in the United States according to Robert Hastings well over 100 very credible eyewitnesses working radar oper"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Hastings"
+        ],
+        "notability_tags": [
+          "researcher",
+          "author",
+          "UFOs and Nukes"
+        ]
+      }
+    },
+    {
+      "id": "person-bob-oppenheimer",
+      "node_type": "person",
+      "label": "Bob Oppenheimer",
+      "summary": "",
+      "tags": [
+        "physicist",
+        "Manhattan Project"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:12.622571+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": "ntum 50s and 60s you had all these top physicists  Robert J Oppenheimer Who David grush claims reportedly involved in the standup o"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "J. Robert Oppenheimer",
+          "Oppenheimer"
+        ],
+        "notability_tags": [
+          "physicist",
+          "Manhattan Project"
+        ]
+      }
+    },
+    {
+      "id": "person-eric-weinstein",
+      "node_type": "person",
+      "label": "Eric Weinstein",
+      "summary": "",
+      "tags": [
+        "mathematician",
+        "physicist"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:12.622576+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": "the dark at solutions for experimental work in the back lab Weinstein fascinating the highbrow version of this doesn't  so far as"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Weinstein"
+        ],
+        "notability_tags": [
+          "mathematician",
+          "physicist"
+        ]
+      }
+    },
+    {
+      "id": "person-jacques-vallee",
+      "node_type": "person",
+      "label": "Jacques Vallee",
+      "summary": "",
+      "tags": [
+        "researcher",
+        "computer scientist"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:12.622581+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": " looked sightings very astonishingly similar to that Jacque Vallee's book about UFO misinformation liquid he was made to drink"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Jacques Vallée",
+          "Vallee",
+          "Vallée"
+        ],
+        "notability_tags": [
+          "researcher",
+          "computer scientist"
+        ]
+      }
+    },
+    {
+      "id": "person-e-howard-hunt",
+      "node_type": "person",
+      "label": "E. Howard Hunt",
+      "summary": "",
+      "tags": [
+        "CIA",
+        "Watergate"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:12.622585+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": "duction in named but very prominent British physicist that  hunt for zero points when Marcus searched for American Institute"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Howard Hunt",
+          "Hunt"
+        ],
+        "notability_tags": [
+          "CIA",
+          "Watergate"
+        ]
+      }
+    },
+    {
+      "id": "person-chuck-schumer",
+      "node_type": "person",
+      "label": "Chuck Schumer",
+      "summary": "",
+      "tags": [
+        "politician",
+        "senator"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:12.622594+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": "ly represents Dayton Ohio's congressional in it to kill the Schumer bill but perhaps to potential motivations we have to go all"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Schumer",
+          "Senator Schumer"
+        ],
+        "notability_tags": [
+          "politician",
+          "senator"
+        ]
+      }
+    },
+    {
+      "id": "person-george-knapp",
+      "node_type": "person",
+      "label": "George Knapp",
+      "summary": "George Knapp entity extracted from cross-source archival records.",
+      "tags": [
+        "pipeline-generated",
+        "entity-extracted"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:12.622598+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": "ed him the Billy Meier's tapes John Lear introducing him to George Knapp  exactly like Billy Meier's sports model it looked sighting"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "GEORGE KNAPP",
+          "Knapp",
+          "george knapp"
+        ],
+        "notability_tags": [
+          "pipeline-generated",
+          "entity-extracted"
+        ]
+      }
+    },
+    {
+      "id": "person-love-has-won",
+      "node_type": "person",
+      "label": "Love Has Won",
+      "summary": "Love Has Won (LHW), also known as the Galactic Federation of Light, is an American new religious movement that was led by Amy Carlson until her death in 2021. Carlson was referred to within the group as \"Mother God\", who described herself as, among other things, the creator of the universe, with the",
+      "tags": [
+        "wikipedia",
+        "2007 establishments in colorado",
+        "ancient astronaut speculation",
+        "covid-19 vaccine misinformation and hesitancy",
+        "climate change denial in the united states",
+        "holocaust denial in the united states",
+        "new age organizations",
+        "new religious movements established in the 2000s",
+        "qanon",
+        "religious belief systems founded in the united states",
+        "religious controversies in the united states",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:12.622603+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": "t  Interstellar travel which is much as Elon Musk it simply won't with conventional combustion the nearest star system Prox"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "LOVE HAS WON",
+          "Won",
+          "love has won"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "2007 establishments in colorado",
+          "ancient astronaut speculation",
+          "covid-19 vaccine misinformation and hesitancy",
+          "climate change denial in the united states",
+          "holocaust denial in the united states",
+          "new age organizations",
+          "new religious movements established in the 2000s",
+          "qanon",
+          "religious belief systems founded in the united states",
+          "religious controversies in the united states",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "person-paul-r-hill",
+      "node_type": "person",
+      "label": "Paul R. Hill",
+      "summary": "Paul Richard Hill (1909–1990) was a mid–twentieth-century American aerodynamicist. He was a leading research and development engineer and manager for NASA (National Aeronautics and Space Administration) and its predecessor, NACA (the National Advisory Council for Aeronautics) between 1939 and 1970, ",
+      "tags": [
+        "wikipedia",
+        "aerodynamicists",
+        "nasa people",
+        "scientists from iowa",
+        "uc berkeley college of engineering alumni",
+        "ufologists",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:12.622608+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": "rhaps the epicenter of all UFO others have noted the Chapel Hill conference ends complete deadend culdesac by establishing q"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Hill",
+          "PAUL R. HILL",
+          "Paul Hill",
+          "paul r. hill"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "aerodynamicists",
+          "nasa people",
+          "scientists from iowa",
+          "uc berkeley college of engineering alumni",
+          "ufologists",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "person-riley-martin",
+      "node_type": "person",
+      "label": "Riley Martin",
+      "summary": "Riley Lee Martin (May 9, 1946 – December 22, 2015) was an American self-described alien contactee, author and radio host. Martin was the author of the book The Coming of Tan, which describes his life and his alleged alien visitation. He hosted The Riley Martin Show on the Sirius XM Radio channel How",
+      "tags": [
+        "wikipedia",
+        "20th-century african-american people",
+        "african-american radio personalities",
+        "american conspiracy theorists",
+        "american outsider artists",
+        "american people who self-identify as being of native american descent",
+        "contactees",
+        "people from natchez, mississippi",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:12.622612+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": "ther of the hydrogen bomb and  of the Air Force Brown is at Martin Corporation goes into Nazi Germany in 1945 to retrieve exot"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Martin",
+          "RILEY MARTIN",
+          "riley martin"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "20th-century african-american people",
+          "african-american radio personalities",
+          "american conspiracy theorists",
+          "american outsider artists",
+          "american people who self-identify as being of native american descent",
+          "contactees",
+          "people from natchez, mississippi",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "person-timothy-good",
+      "node_type": "person",
+      "label": "Timothy Good",
+      "summary": "",
+      "tags": [
+        "researcher",
+        "author"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:12.622616+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": "adelphia to the Navy at Norfolk and he stalled says for the good of the Navy and to avoid Court to California as shatkin bel"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Tim Good",
+          "Good"
+        ],
+        "notability_tags": [
+          "researcher",
+          "author"
+        ]
+      }
+    },
+    {
+      "id": "person-chan-thomas",
+      "node_type": "person",
+      "label": "Chan Thomas",
+      "summary": "Chan Thomas (1920–1998) was an American engineer, ufologist, writer on ancient cataclysms, and self-proclaimed polymath whose ideas have influenced conspiracy theorists in the 21st century.",
+      "tags": [
+        "wikipedia",
+        "20th-century american engineers",
+        "mcdonnell douglas people",
+        "ufologists",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:12.622620+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": "le with this week's American and the original UFO architect Thomas Townsen different activities but you know that don't you pe"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "CHAN THOMAS",
+          "Thomas",
+          "chan thomas"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "20th-century american engineers",
+          "mcdonnell douglas people",
+          "ufologists",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "person-betty-hill",
+      "node_type": "person",
+      "label": "Betty Hill",
+      "summary": "Betty Hill entity extracted from cross-source archival records.",
+      "tags": [
+        "pipeline-generated",
+        "entity-extracted"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:12.622624+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": "rhaps the epicenter of all UFO others have noted the Chapel Hill conference ends complete deadend culdesac by establishing q"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "BETTY HILL",
+          "Hill",
+          "betty hill"
+        ],
+        "notability_tags": [
+          "pipeline-generated",
+          "entity-extracted"
+        ]
+      }
+    },
+    {
+      "id": "person-bob-lazar",
+      "node_type": "person",
+      "label": "Bob Lazar",
+      "summary": "Bob Lazar entity extracted from cross-source archival records.",
+      "tags": [
+        "pipeline-generated",
+        "entity-extracted"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:12.622628+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": "# The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary)  https://www.youtube.com/watch"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "BOB LAZAR",
+          "Lazar",
+          "bob lazar"
+        ],
+        "notability_tags": [
+          "pipeline-generated",
+          "entity-extracted"
+        ]
+      }
+    },
+    {
+      "id": "person-art-bell",
+      "node_type": "person",
+      "label": "Art Bell",
+      "summary": "Arthur William Bell III (June 17, 1945 – April 13, 2018) was an American broadcaster and author. He was the founder and the original host of the paranormal-themed radio program Coast to Coast AM, which is syndicated on hundreds of radio stations in the United States and Canada. He also created and h",
+      "tags": [
+        "wikipedia",
+        "20th-century american businesspeople",
+        "accidental deaths in nevada",
+        "amateur radio people",
+        "american non-fiction environmental writers",
+        "american radio djs",
+        "american radio executives",
+        "american talk radio hosts",
+        "businesspeople from monterey, california",
+        "businesspeople from nevada",
+        "coast to coast am",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:12.622634+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": "'s of Brown's work is time travel the way this might or the Bell was described in Nazi Germany an SS  magnetic field separat"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "ART BELL",
+          "Bell",
+          "art bell"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "20th-century american businesspeople",
+          "accidental deaths in nevada",
+          "amateur radio people",
+          "american non-fiction environmental writers",
+          "american radio djs",
+          "american radio executives",
+          "american talk radio hosts",
+          "businesspeople from monterey, california",
+          "businesspeople from nevada",
+          "coast to coast am",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "organization-international-ufo-museum-and-research-center",
+      "node_type": "organization",
+      "label": "International UFO Museum and Research Center",
+      "summary": "The International UFO Museum and Research Center is located in Roswell, New Mexico, United States, in the downtown district, and is focused largely on the 1947 Roswell Crash and later supposed UFO incidents in the United States and elsewhere. It was founded in 1991 as a 501c3 nonprofit educational o",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:12.622640+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": " doesn't fully vindicate Brown's NASA Marshall space flight center patent a barrel-shaped asymmetrical capacitor naturally bro"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-the-report-on-unidentified-flying-objects",
+      "node_type": "organization",
+      "label": "The Report on Unidentified Flying Objects",
+      "summary": "The Report on Unidentified Flying Objects is a 1956 book by then-retired Air Force UFO investigator Edward J. Ruppelt, detailing his experience running Project Blue Book. The book was noted for its suggestion that a few UFO sightings might be linked to spikes of atomic radiation. Contemporary media ",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:12.622645+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": "ce Program PE analogy where you have all this insane little objects in space most of the fuel in a  the fuel off the launch pad"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-identification-studies-of-ufos",
+      "node_type": "organization",
+      "label": "Identification studies of UFOs",
+      "summary": "Identifying unidentified flying objects (UFOs) is a difficult task due to the normally poor quality of the evidence provided by those who report sighting the unknown object. Observations and subsequent reporting are often made by those untrained in astronomy, atmospheric phenomena, aeronautics, phys",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:12.622650+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": "# The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary)  https://www."
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-flying-saucer-working-party",
+      "node_type": "organization",
+      "label": "Flying Saucer Working Party",
+      "summary": "Flying Saucer Working Party (or FSWP) was the name of the United Kingdom Ministry of Defence’s (MOD) first \"official study into UFOs\", which has its roots in a study commissioned in 1950 by the MOD’s then Chief Scientific Adviser, the eminent radar scientist Sir Henry Tizard. As a result of his insi",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:12.622655+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": "del of a flying saucer I thought my getting in there by the party that took me and that it is being held or conducted by a pr"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-the-flying-saucers-are-real",
+      "node_type": "organization",
+      "label": "The Flying Saucers Are Real",
+      "summary": "The Flying Saucers Are Real, by Donald Keyhoe, is a book that investigated reports of UFOs by United States Air Force fighters, personnel, and other aircraft, between 1947 and 1950.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:12.622660+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": "hey were putting safety guard fascinating clue to where the real vital off the  in a conversation he has with Joe Rogan abou"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-archives-of-the-impossible",
+      "node_type": "organization",
+      "label": "Archives of the Impossible",
+      "summary": "The Archives of the Impossible (AOTI), sometimes called the Center for the Impossible, is a special collection at Rice University in Houston, Texas, United States. Founded in 2014 by Jeffrey J. Kripal, AOTI is based at the Woodson Research Center in the Fondren Library. It stewards collections on UF",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:12.622664+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": "recruited by the Navy do you the is now classified cuz it's impossible to find to it Townsen Brown scientific paper which we do  w"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-us-department-of-defense",
+      "node_type": "organization",
+      "label": "US Department of Defense",
+      "summary": "US Department of Defense entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:12.622669+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": " spoke to you now we're getting some  of brown a resounding defense of his work one was proven experimentally and witnessed by "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-roswell-that-ends-well",
+      "node_type": "organization",
+      "label": "Roswell That Ends Well",
+      "summary": "\"Roswell That Ends Well\" is the nineteenth episode in the third season of the American animated television series Futurama, and the 51st episode of the series overall. It originally aired on the Fox network in the United States on December 9, 2001. The plot centers on an accidental time travel event",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:12.622677+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": "e people in France are writing to so to see a demonstration well each of those they're getting some reaction they're getting"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-the-galileo-project",
+      "node_type": "organization",
+      "label": "The Galileo Project",
+      "summary": "The Galileo Project is an international scientific research project to search for extraterrestrial intelligence or extraterrestrial technology on and near Earth and to identify the nature of anomalous Unidentified Flying Objects/Unidentified Aerial Phenomena (UFOs/UAP). It was launched in 2021 by Ha",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:12.622681+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": " seen in countless DIY YouTube an eighth grade science fair project it wears the is attributed to the ionic wind the tin foil l"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-project-blue-book",
+      "node_type": "organization",
+      "label": "Project Blue Book",
+      "summary": "USAF UFO investigation program active from 1952 to 1969.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:12.622685+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": "ightings very astonishingly similar to that Jacque Vallee's book about UFO misinformation liquid he was made to drink and th"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-world-contact-day",
+      "node_type": "organization",
+      "label": "World Contact Day",
+      "summary": "World Contact Day was first declared in March 1953 by an organization called the International Flying Saucer Bureau (IFSB), as a day on which all IFSB members would attempt to send a telepathic message into space. The IFSB voted to hold such a day in 1953, theorising that if both telepathy and alien",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:12.622690+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": "cargo planes for the CIA and set all sorts of John le was a day in 1987 into the studio comes bobazar to Legendary UFO jour"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-manhattan-project",
+      "node_type": "organization",
+      "label": "Manhattan Project",
+      "summary": "",
+      "tags": [
+        "government_agency"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:12.622694+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": " 100 very credible eyewitnesses working radar operators the Manhattan Project seemed were kind of the first Blue Book you know they some "
+        }
+      ],
+      "type_specific": {
+        "org_type": "government_agency"
+      }
+    },
+    {
+      "id": "organization-condon-committee",
+      "node_type": "organization",
+      "label": "Condon Committee",
+      "summary": "Condon Committee entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:12.622698+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": "a when Brown returned from the international investigations committee on aerial phenomena it investigating UFO sightings former C"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-scp-foundation",
+      "node_type": "organization",
+      "label": "SCP Foundation",
+      "summary": "The SCP Foundation is a fictional organization featured in stories created by contributors on the SCP Wiki, a wiki-based collaborative writing project, launched in 2008. Within the project's shared universe, the SCP (Special Containment Procedures) Foundation is a secret organization that is respons",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:12.622703+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": "in right Airfield brandus gravitator at the towns and Brown Foundation in or not I saw a model of a flying saucer I thought my get"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-us-air-force",
+      "node_type": "organization",
+      "label": "US Air Force",
+      "summary": "US Air Force entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:12.622707+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": "ward Teller the father of the hydrogen bomb and  of the Air Force Brown is at Martin Corporation goes into Nazi Germany in 19"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-big-sur-ufo",
+      "node_type": "organization",
+      "label": "Big Sur UFO",
+      "summary": "The Big Sur UFO is a reported UFO incident that took place during a 1964 Air Force deployment to a mountaintop near Big Sur, California. The deployment was a mission was to film Atlas missile tests from Vandenberg Air Force Base. Since 1982, Robert Jacobs, who had overseen the mountaintop team, has ",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:12.622712+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": "sicist who towards the end of his life admitted surrounding UFO crashes are substantially correct publicly stated that Robe"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-mirage-men",
+      "node_type": "organization",
+      "label": "Mirage Men",
+      "summary": "Mirage Men is a 2013 documentary film directed by John Lundberg, written by Mark Pilkington and co-directed by Roland Denning and Kypros Kyprianou. Mirage Men suggests there was a conspiracy by the U.S. military to fabricate UFO folklore in order to deflect attention from classified military project",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:12.622716+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": "e ship it flicked off instead of flicking on Jan thinks the men got showered with hexafluoride something Philadelphia Exper"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-bob-lazar",
+      "node_type": "organization",
+      "label": "Bob Lazar",
+      "summary": "Robert Scott Lazar () is an American who, since 1989, has claimed to have been part of a classified US government project concerned with the reverse engineering of extraterrestrial technology; he also purported to have read government briefing documents that described alien involvement in human affa",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:12.622720+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": "# The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary)  https://www.youtube.com/watch"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-us-navy",
+      "node_type": "organization",
+      "label": "US Navy",
+      "summary": "US Navy entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:12.622724+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": "t shotkin has recently detection than any individual in the US Navy I'm gravity manipulation experiments worked but I am hack q"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-nasa",
+      "node_type": "organization",
+      "label": "NASA",
+      "summary": "NASA entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:12.622729+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": "2 stealth  work and if that doesn't fully vindicate Brown's NASA Marshall space flight center patent a barrel-shaped asymmet"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other",
+        "acronym": "NASA"
+      }
+    },
+    {
+      "id": "organization-cia",
+      "node_type": "organization",
+      "label": "CIA",
+      "summary": "CIA entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:12.622733+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": "# The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown D"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other",
+        "acronym": "CIA"
+      }
+    },
+    {
+      "id": "organization-fbi",
+      "node_type": "organization",
+      "label": "FBI",
+      "summary": "FBI entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:12.622737+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": " camouflage it was file begets more questions why would the FBI even right after The Philadelphia Experiment supposedly and"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other",
+        "acronym": "FBI"
+      }
+    },
+    {
+      "id": "location-pacific-training-area",
+      "node_type": "location",
+      "label": "Pacific Training Area",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:12.622743+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": " of the tens of podcast with Joe Rogan Bob Lazar claimed he Area 51 called S4 in the Nevada desert reverse  I went into the "
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-united-states",
+      "node_type": "location",
+      "label": "United States",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:12.622747+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": "he saying well my father was responsible for Chasing in the United States according to Robert Hastings well over 100 very credible ey"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-germany",
+      "node_type": "location",
+      "label": "Germany",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:12.622751+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": "the Air Force Brown is at Martin Corporation goes into Nazi Germany in 1945 to retrieve exotic close Confidant and colleag of R"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-roswell",
+      "node_type": "location",
+      "label": "Roswell",
+      "summary": "",
+      "tags": [
+        "city"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:12.622755+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": "stigating UFO sightings former CIA director involved in the Roswell crash became a board  information on UFOs but he told Linda"
+        }
+      ],
+      "type_specific": {
+        "location_type": "city",
+        "country": "US",
+        "state_or_region": "New Mexico"
+      }
+    },
+    {
+      "id": "location-area-51",
+      "node_type": "location",
+      "label": "Area 51",
+      "summary": "",
+      "tags": [
+        "military_base"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:12.622759+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": " of the tens of podcast with Joe Rogan Bob Lazar claimed he Area 51 called S4 in the Nevada desert reverse  I went into the han"
+        }
+      ],
+      "type_specific": {
+        "location_type": "military_base",
+        "country": "US",
+        "state_or_region": "Nevada"
+      }
+    },
+    {
+      "id": "location-canada",
+      "node_type": "location",
+      "label": "Canada",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:12.622763+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": "aita one of the key aerospace engineers captured ends up in Canada working on the avoc and Canada run by a guy named John Fros"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-france",
+      "node_type": "location",
+      "label": "France",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:12.622766+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": "tnessed with his charged discs  by ionic wind the people in France are writing to so to see a demonstration well each of those"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-russia",
+      "node_type": "location",
+      "label": "Russia",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:12.622770+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": " National travel around and set up these what we would call Russia when Brown returned from the international investigations c"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "program-project-blue-book",
+      "node_type": "program",
+      "label": "Project Blue Book",
+      "summary": "",
+      "tags": [
+        "program"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:12.622775+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": "in what exact credentials did towns and stiff arm Blue Book Project Blue Book was the they had a real project going on that was secret di"
+        }
+      ],
+      "type_specific": {
+        "acronym": "Blue Book"
+      }
+    },
+    {
+      "id": "claim-RTEWLSTyUic-discussion-summary",
+      "node_type": "claim",
+      "label": "Video RTEWLSTyUic features extended discussion of Robert Hastings, Bob Oppenheimer, Eric Weinstein a",
+      "summary": "Video RTEWLSTyUic features extended discussion of Robert Hastings, Bob Oppenheimer, Eric Weinstein and related UAP research topics, hosted by Jesse Michels.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:12.622785+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": "Episode title: The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) "
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Video RTEWLSTyUic features extended discussion of Robert Hastings, Bob Oppenheimer, Eric Weinstein and related UAP research topics, hosted by Jesse Michels.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "RTEWLSTyUic",
+        "timestamp_start_seconds": 0,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-robert-hastings",
+          "person-bob-oppenheimer",
+          "person-eric-weinstein",
+          "video-RTEWLSTyUic"
+        ]
+      }
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge-video-RTEWLSTyUic-HOSTED_BY-person-jesse-michels",
+      "from_node_id": "video-RTEWLSTyUic",
+      "to_node_id": "person-jesse-michels",
+      "relationship": "HOSTED_BY",
+      "confidence": 0.99,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": "Jesse hosting"
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-APPEARED_IN-video-RTEWLSTyUic",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "video-RTEWLSTyUic",
+      "relationship": "APPEARED_IN",
+      "confidence": 0.99,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": "Host"
+        }
+      ],
+      "properties": {
+        "appearance_type": "host"
+      }
+    },
+    {
+      "id": "edge-video-RTEWLSTyUic-MENTIONS-person-robert-hastings",
+      "from_node_id": "video-RTEWLSTyUic",
+      "to_node_id": "person-robert-hastings",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": "s responsible for Chasing in the United States according to Robert Hastings well over 100 very credible eyewitnesses working radar oper"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-RTEWLSTyUic-MENTIONS-person-bob-oppenheimer",
+      "from_node_id": "video-RTEWLSTyUic",
+      "to_node_id": "person-bob-oppenheimer",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": "ntum 50s and 60s you had all these top physicists  Robert J Oppenheimer Who David grush claims reportedly involved in the standup o"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-RTEWLSTyUic-MENTIONS-person-eric-weinstein",
+      "from_node_id": "video-RTEWLSTyUic",
+      "to_node_id": "person-eric-weinstein",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": "the dark at solutions for experimental work in the back lab Weinstein fascinating the highbrow version of this doesn't  so far as"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-RTEWLSTyUic-MENTIONS-person-jacques-vallee",
+      "from_node_id": "video-RTEWLSTyUic",
+      "to_node_id": "person-jacques-vallee",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": " looked sightings very astonishingly similar to that Jacque Vallee's book about UFO misinformation liquid he was made to drink"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-RTEWLSTyUic-MENTIONS-person-e-howard-hunt",
+      "from_node_id": "video-RTEWLSTyUic",
+      "to_node_id": "person-e-howard-hunt",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": "duction in named but very prominent British physicist that  hunt for zero points when Marcus searched for American Institute"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-RTEWLSTyUic-MENTIONS-person-chuck-schumer",
+      "from_node_id": "video-RTEWLSTyUic",
+      "to_node_id": "person-chuck-schumer",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": "ly represents Dayton Ohio's congressional in it to kill the Schumer bill but perhaps to potential motivations we have to go all"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-RTEWLSTyUic-MENTIONS-person-george-knapp",
+      "from_node_id": "video-RTEWLSTyUic",
+      "to_node_id": "person-george-knapp",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": "ed him the Billy Meier's tapes John Lear introducing him to George Knapp  exactly like Billy Meier's sports model it looked sighting"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-RTEWLSTyUic-MENTIONS-person-love-has-won",
+      "from_node_id": "video-RTEWLSTyUic",
+      "to_node_id": "person-love-has-won",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": "t  Interstellar travel which is much as Elon Musk it simply won't with conventional combustion the nearest star system Prox"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-RTEWLSTyUic-MENTIONS-person-paul-r-hill",
+      "from_node_id": "video-RTEWLSTyUic",
+      "to_node_id": "person-paul-r-hill",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": "rhaps the epicenter of all UFO others have noted the Chapel Hill conference ends complete deadend culdesac by establishing q"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-RTEWLSTyUic-MENTIONS-person-riley-martin",
+      "from_node_id": "video-RTEWLSTyUic",
+      "to_node_id": "person-riley-martin",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": "ther of the hydrogen bomb and  of the Air Force Brown is at Martin Corporation goes into Nazi Germany in 1945 to retrieve exot"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-RTEWLSTyUic-MENTIONS-person-timothy-good",
+      "from_node_id": "video-RTEWLSTyUic",
+      "to_node_id": "person-timothy-good",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": "adelphia to the Navy at Norfolk and he stalled says for the good of the Navy and to avoid Court to California as shatkin bel"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-RTEWLSTyUic-MENTIONS-person-chan-thomas",
+      "from_node_id": "video-RTEWLSTyUic",
+      "to_node_id": "person-chan-thomas",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": "le with this week's American and the original UFO architect Thomas Townsen different activities but you know that don't you pe"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-RTEWLSTyUic-MENTIONS-person-betty-hill",
+      "from_node_id": "video-RTEWLSTyUic",
+      "to_node_id": "person-betty-hill",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": "rhaps the epicenter of all UFO others have noted the Chapel Hill conference ends complete deadend culdesac by establishing q"
+        }
+      ]
+    },
+    {
+      "id": "edge-person-bob-lazar-APPEARED_IN-video-RTEWLSTyUic",
+      "from_node_id": "person-bob-lazar",
+      "to_node_id": "video-RTEWLSTyUic",
+      "relationship": "APPEARED_IN",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": "# The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary)  https://www.youtube.com/watch"
+        }
+      ],
+      "properties": {
+        "appearance_type": "guest"
+      }
+    },
+    {
+      "id": "edge-video-RTEWLSTyUic-DISCUSSES-person-bob-lazar",
+      "from_node_id": "video-RTEWLSTyUic",
+      "to_node_id": "person-bob-lazar",
+      "relationship": "DISCUSSES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": "# The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary)  https://www.youtube.com/watch"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-RTEWLSTyUic-MENTIONS-person-art-bell",
+      "from_node_id": "video-RTEWLSTyUic",
+      "to_node_id": "person-art-bell",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": "'s of Brown's work is time travel the way this might or the Bell was described in Nazi Germany an SS  magnetic field separat"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-RTEWLSTyUic-MENTIONS-organization-international-ufo-museum-and-research-center",
+      "from_node_id": "video-RTEWLSTyUic",
+      "to_node_id": "organization-international-ufo-museum-and-research-center",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": " doesn't fully vindicate Brown's NASA Marshall space flight center patent a barrel-shaped asymmetrical capacitor naturally bro"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-RTEWLSTyUic-MENTIONS-organization-the-report-on-unidentified-flying-objects",
+      "from_node_id": "video-RTEWLSTyUic",
+      "to_node_id": "organization-the-report-on-unidentified-flying-objects",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": "ce Program PE analogy where you have all this insane little objects in space most of the fuel in a  the fuel off the launch pad"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-RTEWLSTyUic-MENTIONS-organization-identification-studies-of-ufos",
+      "from_node_id": "video-RTEWLSTyUic",
+      "to_node_id": "organization-identification-studies-of-ufos",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": "# The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary)  https://www."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-RTEWLSTyUic-MENTIONS-organization-flying-saucer-working-party",
+      "from_node_id": "video-RTEWLSTyUic",
+      "to_node_id": "organization-flying-saucer-working-party",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": "del of a flying saucer I thought my getting in there by the party that took me and that it is being held or conducted by a pr"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-RTEWLSTyUic-MENTIONS-organization-the-flying-saucers-are-real",
+      "from_node_id": "video-RTEWLSTyUic",
+      "to_node_id": "organization-the-flying-saucers-are-real",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": "hey were putting safety guard fascinating clue to where the real vital off the  in a conversation he has with Joe Rogan abou"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-RTEWLSTyUic-MENTIONS-organization-archives-of-the-impossible",
+      "from_node_id": "video-RTEWLSTyUic",
+      "to_node_id": "organization-archives-of-the-impossible",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": "recruited by the Navy do you the is now classified cuz it's impossible to find to it Townsen Brown scientific paper which we do  w"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-RTEWLSTyUic-MENTIONS-organization-us-department-of-defense",
+      "from_node_id": "video-RTEWLSTyUic",
+      "to_node_id": "organization-us-department-of-defense",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": " spoke to you now we're getting some  of brown a resounding defense of his work one was proven experimentally and witnessed by "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-RTEWLSTyUic-MENTIONS-organization-roswell-that-ends-well",
+      "from_node_id": "video-RTEWLSTyUic",
+      "to_node_id": "organization-roswell-that-ends-well",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": "e people in France are writing to so to see a demonstration well each of those they're getting some reaction they're getting"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-RTEWLSTyUic-MENTIONS-organization-the-galileo-project",
+      "from_node_id": "video-RTEWLSTyUic",
+      "to_node_id": "organization-the-galileo-project",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": " seen in countless DIY YouTube an eighth grade science fair project it wears the is attributed to the ionic wind the tin foil l"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-RTEWLSTyUic-MENTIONS-organization-project-blue-book",
+      "from_node_id": "video-RTEWLSTyUic",
+      "to_node_id": "organization-project-blue-book",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": "ightings very astonishingly similar to that Jacque Vallee's book about UFO misinformation liquid he was made to drink and th"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-RTEWLSTyUic-MENTIONS-organization-world-contact-day",
+      "from_node_id": "video-RTEWLSTyUic",
+      "to_node_id": "organization-world-contact-day",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": "cargo planes for the CIA and set all sorts of John le was a day in 1987 into the studio comes bobazar to Legendary UFO jour"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-RTEWLSTyUic-MENTIONS-organization-manhattan-project",
+      "from_node_id": "video-RTEWLSTyUic",
+      "to_node_id": "organization-manhattan-project",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": " 100 very credible eyewitnesses working radar operators the Manhattan Project seemed were kind of the first Blue Book you know they some "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-RTEWLSTyUic-MENTIONS-organization-condon-committee",
+      "from_node_id": "video-RTEWLSTyUic",
+      "to_node_id": "organization-condon-committee",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": "a when Brown returned from the international investigations committee on aerial phenomena it investigating UFO sightings former C"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-RTEWLSTyUic-MENTIONS-organization-scp-foundation",
+      "from_node_id": "video-RTEWLSTyUic",
+      "to_node_id": "organization-scp-foundation",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": "in right Airfield brandus gravitator at the towns and Brown Foundation in or not I saw a model of a flying saucer I thought my get"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-RTEWLSTyUic-MENTIONS-organization-us-air-force",
+      "from_node_id": "video-RTEWLSTyUic",
+      "to_node_id": "organization-us-air-force",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": "ward Teller the father of the hydrogen bomb and  of the Air Force Brown is at Martin Corporation goes into Nazi Germany in 19"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-RTEWLSTyUic-MENTIONS-organization-big-sur-ufo",
+      "from_node_id": "video-RTEWLSTyUic",
+      "to_node_id": "organization-big-sur-ufo",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": "sicist who towards the end of his life admitted surrounding UFO crashes are substantially correct publicly stated that Robe"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-RTEWLSTyUic-MENTIONS-organization-mirage-men",
+      "from_node_id": "video-RTEWLSTyUic",
+      "to_node_id": "organization-mirage-men",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": "e ship it flicked off instead of flicking on Jan thinks the men got showered with hexafluoride something Philadelphia Exper"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-RTEWLSTyUic-MENTIONS-organization-bob-lazar",
+      "from_node_id": "video-RTEWLSTyUic",
+      "to_node_id": "organization-bob-lazar",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": "# The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary)  https://www.youtube.com/watch"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-RTEWLSTyUic-MENTIONS-organization-us-navy",
+      "from_node_id": "video-RTEWLSTyUic",
+      "to_node_id": "organization-us-navy",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": "t shotkin has recently detection than any individual in the US Navy I'm gravity manipulation experiments worked but I am hack q"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-RTEWLSTyUic-MENTIONS-organization-nasa",
+      "from_node_id": "video-RTEWLSTyUic",
+      "to_node_id": "organization-nasa",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": "2 stealth  work and if that doesn't fully vindicate Brown's NASA Marshall space flight center patent a barrel-shaped asymmet"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-RTEWLSTyUic-MENTIONS-organization-cia",
+      "from_node_id": "video-RTEWLSTyUic",
+      "to_node_id": "organization-cia",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": "# The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown D"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-RTEWLSTyUic-MENTIONS-organization-fbi",
+      "from_node_id": "video-RTEWLSTyUic",
+      "to_node_id": "organization-fbi",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": " camouflage it was file begets more questions why would the FBI even right after The Philadelphia Experiment supposedly and"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-RTEWLSTyUic-MENTIONS-location-pacific-training-area",
+      "from_node_id": "video-RTEWLSTyUic",
+      "to_node_id": "location-pacific-training-area",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": " of the tens of podcast with Joe Rogan Bob Lazar claimed he Area 51 called S4 in the Nevada desert reverse  I went into the "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-RTEWLSTyUic-MENTIONS-location-united-states",
+      "from_node_id": "video-RTEWLSTyUic",
+      "to_node_id": "location-united-states",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": "he saying well my father was responsible for Chasing in the United States according to Robert Hastings well over 100 very credible ey"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-RTEWLSTyUic-MENTIONS-location-germany",
+      "from_node_id": "video-RTEWLSTyUic",
+      "to_node_id": "location-germany",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": "the Air Force Brown is at Martin Corporation goes into Nazi Germany in 1945 to retrieve exotic close Confidant and colleag of R"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-RTEWLSTyUic-MENTIONS-location-roswell",
+      "from_node_id": "video-RTEWLSTyUic",
+      "to_node_id": "location-roswell",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": "stigating UFO sightings former CIA director involved in the Roswell crash became a board  information on UFOs but he told Linda"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-RTEWLSTyUic-MENTIONS-location-area-51",
+      "from_node_id": "video-RTEWLSTyUic",
+      "to_node_id": "location-area-51",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": " of the tens of podcast with Joe Rogan Bob Lazar claimed he Area 51 called S4 in the Nevada desert reverse  I went into the han"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-RTEWLSTyUic-MENTIONS-location-canada",
+      "from_node_id": "video-RTEWLSTyUic",
+      "to_node_id": "location-canada",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": "aita one of the key aerospace engineers captured ends up in Canada working on the avoc and Canada run by a guy named John Fros"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-RTEWLSTyUic-MENTIONS-location-france",
+      "from_node_id": "video-RTEWLSTyUic",
+      "to_node_id": "location-france",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": "tnessed with his charged discs  by ionic wind the people in France are writing to so to see a demonstration well each of those"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-RTEWLSTyUic-MENTIONS-location-russia",
+      "from_node_id": "video-RTEWLSTyUic",
+      "to_node_id": "location-russia",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": " National travel around and set up these what we would call Russia when Brown returned from the international investigations c"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-RTEWLSTyUic-MENTIONS-program-project-blue-book",
+      "from_node_id": "video-RTEWLSTyUic",
+      "to_node_id": "program-project-blue-book",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": "in what exact credentials did towns and stiff arm Blue Book Project Blue Book was the they had a real project going on that was secret di"
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-RTEWLSTyUic-discussion-summary",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-RTEWLSTyUic-discussion-summary",
+      "relationship": "ASSERTED",
+      "confidence": 0.9,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0,
+          "quote": "Episode: The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary) "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-RTEWLSTyUic-REFERENCES-claim-RTEWLSTyUic-discussion-summary",
+      "from_node_id": "video-RTEWLSTyUic",
+      "to_node_id": "claim-RTEWLSTyUic-discussion-summary",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 0
+        }
+      ]
+    }
+  ],
+  "extracted_at": "2026-04-17T11:04:12.622812+00:00",
+  "extractor_version": "v1-inline-claude"
+}

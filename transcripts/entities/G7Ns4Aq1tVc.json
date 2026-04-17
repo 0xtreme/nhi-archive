@@ -1,0 +1,2029 @@
+{
+  "video_id": "G7Ns4Aq1tVc",
+  "nodes": [
+    {
+      "id": "video-G7Ns4Aq1tVc",
+      "node_type": "video",
+      "label": "“We Have Antigravity UFOs!” (ft. Nick Cook)",
+      "summary": "Our incredible guest today is Nick Cook. In the 1990s, Cook was the aviation editor of Jane's Defence Weekly, the UK based international defense journal. He was also an aerospace consultant...",
+      "tags": [
+        "video",
+        "american-alchemy"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:23.958914+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 0,
+          "timestamp_end": 4820.0,
+          "quote": "Video: “We Have Antigravity UFOs!” (ft. Nick Cook)"
+        }
+      ],
+      "type_specific": {
+        "video_id": "G7Ns4Aq1tVc",
+        "title": "“We Have Antigravity UFOs!” (ft. Nick Cook)",
+        "url": "https://www.youtube.com/watch?v=G7Ns4Aq1tVc",
+        "view_count": 637901,
+        "duration_seconds": 4820.0,
+        "host_id": "person-jesse-michels"
+      }
+    },
+    {
+      "id": "person-jesse-michels",
+      "node_type": "person",
+      "label": "Jesse Michels",
+      "summary": "Host of American Alchemy podcast/show. Independent journalist and UFO/NHI researcher.",
+      "tags": [
+        "journalist",
+        "interviewer",
+        "researcher",
+        "host"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:23.958926+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 0,
+          "quote": "Host of American Alchemy podcast/show."
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Jesse",
+          "Michels"
+        ],
+        "profession": "journalist",
+        "notability_tags": [
+          "journalist",
+          "interviewer",
+          "researcher",
+          "host"
+        ]
+      }
+    },
+    {
+      "id": "person-bob-oppenheimer",
+      "node_type": "person",
+      "label": "Bob Oppenheimer",
+      "summary": "",
+      "tags": [
+        "physicist",
+        "Manhattan Project"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:24.337031+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 0,
+          "quote": "so lists top physicists you have all heard of even Robert J Oppenheimer as being actively and deeply involved in anti-gravity resea"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "J. Robert Oppenheimer",
+          "Oppenheimer"
+        ],
+        "notability_tags": [
+          "physicist",
+          "Manhattan Project"
+        ]
+      }
+    },
+    {
+      "id": "person-eric-weinstein",
+      "node_type": "person",
+      "label": "Eric Weinstein",
+      "summary": "",
+      "tags": [
+        "mathematician",
+        "physicist"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:24.337048+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 0,
+          "quote": " that you and how had that very interesting discussion with Eric Weinstein about which was the  physics piece uhhuh it would only be i"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Weinstein"
+        ],
+        "notability_tags": [
+          "mathematician",
+          "physicist"
+        ]
+      }
+    },
+    {
+      "id": "person-james-mcdonald",
+      "node_type": "person",
+      "label": "James McDonald",
+      "summary": "",
+      "tags": [
+        "physicist",
+        "researcher"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:24.337053+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 0,
+          "quote": "Aerospace and like this interest in mind over matter I mean James McDonald is a famous Patron obviously was very interested in parapsy"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Dr. McDonald",
+          "McDonald"
+        ],
+        "notability_tags": [
+          "physicist",
+          "researcher"
+        ]
+      }
+    },
+    {
+      "id": "person-e-howard-hunt",
+      "node_type": "person",
+      "label": "E. Howard Hunt",
+      "summary": "",
+      "tags": [
+        "CIA",
+        "Watergate"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:24.337058+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 0,
+          "quote": " those were  real life moments from his incredible book The Hunt for zero point the book is the most comprehensive documenta"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Howard Hunt",
+          "Hunt"
+        ],
+        "notability_tags": [
+          "CIA",
+          "Watergate"
+        ]
+      }
+    },
+    {
+      "id": "person-love-has-won",
+      "node_type": "person",
+      "label": "Love Has Won",
+      "summary": "Love Has Won (LHW), also known as the Galactic Federation of Light, is an American new religious movement that was led by Amy Carlson until her death in 2021. Carlson was referred to within the group as \"Mother God\", who described herself as, among other things, the creator of the universe, with the",
+      "tags": [
+        "wikipedia",
+        "2007 establishments in colorado",
+        "ancient astronaut speculation",
+        "covid-19 vaccine misinformation and hesitancy",
+        "climate change denial in the united states",
+        "holocaust denial in the united states",
+        "new age organizations",
+        "new religious movements established in the 2000s",
+        "qanon",
+        "religious belief systems founded in the united states",
+        "religious controversies in the united states",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:24.337064+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 0,
+          "quote": "he says you know I don't I don't know who this man is but I won't speak to him now or ever and I suggest you drop it you kn"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "LOVE HAS WON",
+          "Won",
+          "love has won"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "2007 establishments in colorado",
+          "ancient astronaut speculation",
+          "covid-19 vaccine misinformation and hesitancy",
+          "climate change denial in the united states",
+          "holocaust denial in the united states",
+          "new age organizations",
+          "new religious movements established in the 2000s",
+          "qanon",
+          "religious belief systems founded in the united states",
+          "religious controversies in the united states",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "person-paul-r-hill",
+      "node_type": "person",
+      "label": "Paul R. Hill",
+      "summary": "Paul Richard Hill (1909–1990) was a mid–twentieth-century American aerodynamicist. He was a leading research and development engineer and manager for NASA (National Aeronautics and Space Administration) and its predecessor, NACA (the National Advisory Council for Aeronautics) between 1939 and 1970, ",
+      "tags": [
+        "wikipedia",
+        "aerodynamicists",
+        "nasa people",
+        "scientists from iowa",
+        "uc berkeley college of engineering alumni",
+        "ufologists",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:24.337068+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 0,
+          "quote": "und an Institute at the University of North Carolina Chapel Hill right and then there's a famous gravity conference at the U"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Hill",
+          "PAUL R. HILL",
+          "Paul Hill",
+          "paul r. hill"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "aerodynamicists",
+          "nasa people",
+          "scientists from iowa",
+          "uc berkeley college of engineering alumni",
+          "ufologists",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "person-riley-martin",
+      "node_type": "person",
+      "label": "Riley Martin",
+      "summary": "Riley Lee Martin (May 9, 1946 – December 22, 2015) was an American self-described alien contactee, author and radio host. Martin was the author of the book The Coming of Tan, which describes his life and his alleged alien visitation. He hosted The Riley Martin Show on the Sirius XM Radio channel How",
+      "tags": [
+        "wikipedia",
+        "20th-century african-american people",
+        "african-american radio personalities",
+        "american conspiracy theorists",
+        "american outsider artists",
+        "american people who self-identify as being of native american descent",
+        "contactees",
+        "people from natchez, mississippi",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:24.337073+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 0,
+          "quote": "the top aerospace companies of the day Lear conver Bell the Martin Corporation before its merger with locked all expressing ex"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Martin",
+          "RILEY MARTIN",
+          "riley martin"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "20th-century african-american people",
+          "african-american radio personalities",
+          "american conspiracy theorists",
+          "american outsider artists",
+          "american people who self-identify as being of native american descent",
+          "contactees",
+          "people from natchez, mississippi",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "person-timothy-good",
+      "node_type": "person",
+      "label": "Timothy Good",
+      "summary": "",
+      "tags": [
+        "researcher",
+        "author"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:24.337078+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 0,
+          "quote": "t got you into aviation in the first  place that's a really good question so I did a completely unrelated degree at Universi"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Tim Good",
+          "Good"
+        ],
+        "notability_tags": [
+          "researcher",
+          "author"
+        ]
+      }
+    },
+    {
+      "id": "person-allen-dulles",
+      "node_type": "person",
+      "label": "Allen Dulles",
+      "summary": "",
+      "tags": [
+        "CIA",
+        "historical"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:24.337082+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 0,
+          "quote": "e who went on to  become the third director of the CIA Alan Dulles and this is what he told his grandson son and my grandfathe"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Dulles"
+        ],
+        "notability_tags": [
+          "CIA",
+          "historical"
+        ]
+      }
+    },
+    {
+      "id": "person-chan-thomas",
+      "node_type": "person",
+      "label": "Chan Thomas",
+      "summary": "Chan Thomas (1920–1998) was an American engineer, ufologist, writer on ancient cataclysms, and self-proclaimed polymath whose ideas have influenced conspiracy theorists in the 21st century.",
+      "tags": [
+        "wikipedia",
+        "20th-century american engineers",
+        "mcdonnell douglas people",
+        "ufologists",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:24.337086+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 0,
+          "quote": "mics who reported anti-gravitational effects Victor shurger Thomas Townsen brown john Hutchinson Eugene Petna and many others "
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "CHAN THOMAS",
+          "Thomas",
+          "chan thomas"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "20th-century american engineers",
+          "mcdonnell douglas people",
+          "ufologists",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "person-betty-hill",
+      "node_type": "person",
+      "label": "Betty Hill",
+      "summary": "Betty Hill entity extracted from cross-source archival records.",
+      "tags": [
+        "pipeline-generated",
+        "entity-extracted"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:24.337090+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 0,
+          "quote": "und an Institute at the University of North Carolina Chapel Hill right and then there's a famous gravity conference at the U"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "BETTY HILL",
+          "Hill",
+          "betty hill"
+        ],
+        "notability_tags": [
+          "pipeline-generated",
+          "entity-extracted"
+        ]
+      }
+    },
+    {
+      "id": "person-art-bell",
+      "node_type": "person",
+      "label": "Art Bell",
+      "summary": "Arthur William Bell III (June 17, 1945 – April 13, 2018) was an American broadcaster and author. He was the founder and the original host of the paranormal-themed radio program Coast to Coast AM, which is syndicated on hundreds of radio stations in the United States and Canada. He also created and h",
+      "tags": [
+        "wikipedia",
+        "20th-century american businesspeople",
+        "accidental deaths in nevada",
+        "amateur radio people",
+        "american non-fiction environmental writers",
+        "american radio djs",
+        "american radio executives",
+        "american talk radio hosts",
+        "businesspeople from monterey, california",
+        "businesspeople from nevada",
+        "coast to coast am",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:24.337095+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 0,
+          "quote": "it lists the top aerospace companies of the day Lear conver Bell the Martin Corporation before its merger with locked all ex"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "ART BELL",
+          "Bell",
+          "art bell"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "20th-century american businesspeople",
+          "accidental deaths in nevada",
+          "amateur radio people",
+          "american non-fiction environmental writers",
+          "american radio djs",
+          "american radio executives",
+          "american talk radio hosts",
+          "businesspeople from monterey, california",
+          "businesspeople from nevada",
+          "coast to coast am",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "organization-international-ufo-museum-and-research-center",
+      "node_type": "organization",
+      "label": "International UFO Museum and Research Center",
+      "summary": "The International UFO Museum and Research Center is located in Roswell, New Mexico, United States, in the downtown district, and is focused largely on the 1947 Roswell Crash and later supposed UFO incidents in the United States and elsewhere. It was founded in 1991 as a 501c3 nonprofit educational o",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:24.337100+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 0,
+          "quote": "finally it lists six top academic institutions as being the center of gravity research in the US Princeton Institute for advan"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-the-report-on-unidentified-flying-objects",
+      "node_type": "organization",
+      "label": "The Report on Unidentified Flying Objects",
+      "summary": "The Report on Unidentified Flying Objects is a 1956 book by then-retired Air Force UFO investigator Edward J. Ruppelt, detailing his experience running Project Blue Book. The book was noted for its suggestion that a few UFO sightings might be linked to spikes of atomic radiation. Contemporary media ",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:24.337106+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 0,
+          "quote": "real and not Visionary or fictitious he continued there are objects approximating the shape of a dis of such appreciable size a"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-ufo-sightings-in-the-united-kingdom",
+      "node_type": "organization",
+      "label": "UFO sightings in the United Kingdom",
+      "summary": "This is a list of notable alleged sightings of unidentified flying objects (UFOs) in the United Kingdom. Many more sightings have become known since the gradual release, between 2008 and 2013, of the Ministry of Defence's UFO sighting reports by the National Archives. In recent years, there have bee",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:24.337111+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 0,
+          "quote": "are all places which I'd already mapped on the in the camer Kingdom these secret Laboratories and outposts and underground faci"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-1952-washington-d-c-ufo-incident",
+      "node_type": "organization",
+      "label": "1952 Washington, D.C. UFO incident",
+      "summary": "From July 12 to 29, 1952, a series of unidentified flying object (UFO) sightings were reported in Washington, D.C., and later became known as the Washington flap, the Washington National Airport Sightings, or the Invasion of Washington. The most publicized sightings took place on consecutive weekend",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:24.337116+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 0,
+          "quote": "at have you one of them I sat down and talked to about that incident I said are you aware of you know that Astra incident and wh"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-identification-studies-of-ufos",
+      "node_type": "organization",
+      "label": "Identification studies of UFOs",
+      "summary": "Identifying unidentified flying objects (UFOs) is a difficult task due to the normally poor quality of the evidence provided by those who report sighting the unknown object. Observations and subsequent reporting are often made by those untrained in astronomy, atmospheric phenomena, aeronautics, phys",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:24.337120+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 0,
+          "quote": "# “We Have Antigravity UFOs!” (ft. Nick Cook) https://www.youtube.com/watch?v=G7Ns4Aq1t"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-lakenheath-bentwaters-incident",
+      "node_type": "organization",
+      "label": "Lakenheath-Bentwaters incident",
+      "summary": "The Lakenheath-Bentwaters Incident was a series of radar and visual contacts with unidentified flying objects over airbases in eastern England on the night of 13–14 August 1956, involving personnel from the Royal Air Force (RAF) and the United States Air Force (USAF). The incident has since gained s",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:24.337125+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 0,
+          "quote": "at have you one of them I sat down and talked to about that incident I said are you aware of you know that Astra incident and wh"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-chiles-whitted-ufo-encounter",
+      "node_type": "organization",
+      "label": "Chiles-Whitted UFO encounter",
+      "summary": "The Chiles-Whitted UFO encounter occurred at approximately 2:45 AM on July 24, 1948, in the skies near Montgomery, Alabama, United States. Two commercial pilots, Clarence S. Chiles and John B. Whitted, claimed to have observed a \"glowing object\" pass by their plane before it appeared to pull up into",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:24.337129+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 0,
+          "quote": "asn't interested before I am now yeah and then what did you encounter next in your anti-gravity Journey well what I did was I did"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-the-flying-saucers-are-real",
+      "node_type": "organization",
+      "label": "The Flying Saucers Are Real",
+      "summary": "The Flying Saucers Are Real, by Donald Keyhoe, is a book that investigated reports of UFOs by United States Air Force fighters, personnel, and other aircraft, between 1947 and 1950.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:24.337134+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 0,
+          "quote": "ested before I am now yeah that's Nick cook and those were  real life moments from his incredible book The Hunt for zero poi"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-unidentified-flying-object",
+      "node_type": "organization",
+      "label": "Unidentified flying object",
+      "summary": "An unidentified flying object (UFO) is an object or phenomenon seen in the sky but not yet identified or explained. The term was coined when United States Air Force (USAF) investigations into flying saucers found too broad a range of shapes reported to consider them all saucers or discs. UFOs are al",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:24.337138+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 0,
+          "quote": "hieving weight loss or any gravity reduction on a suspended object  through the simple input of alternating current electricit"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-us-department-of-defense",
+      "node_type": "organization",
+      "label": "US Department of Defense",
+      "summary": "US Department of Defense entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:24.337143+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 0,
+          "quote": "ne the year is 1994 Nick cook the aviation editor for James defense weekly walks into his office and notices someone has placed"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-lonnie-zamora-incident",
+      "node_type": "organization",
+      "label": "Lonnie Zamora incident",
+      "summary": "The Lonnie Zamora incident was an alleged UFO sighting that occurred on April 24, 1964 near Socorro, New Mexico when Socorro police officer Lonnie Zamora claimed he saw two people beside a shiny object that later rose into the air accompanied by a roaring blue and orange flame. Zamora's claims were ",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:24.337147+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 0,
+          "quote": "at have you one of them I sat down and talked to about that incident I said are you aware of you know that Astra incident and wh"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-roswell-that-ends-well",
+      "node_type": "organization",
+      "label": "Roswell That Ends Well",
+      "summary": "\"Roswell That Ends Well\" is the nineteenth episode in the third season of the American animated television series Futurama, and the 51st episode of the series overall. It originally aired on the Fox network in the United States on December 9, 2001. The plot centers on an accidental time travel event",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:24.337152+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 0,
+          "quote": "led it away until I ran into a locked PR exec I knew pretty well and I said I'd like to interview George Trimble because it "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-to-the-stars-academy",
+      "node_type": "organization",
+      "label": "To The Stars Academy",
+      "summary": "",
+      "tags": [
+        "research_org"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:24.337156+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 0,
+          "quote": " get involved in Tom Dong's  public facing UFO organization to the Stars Academy these are all good questions very worthy of followup you kn"
+        }
+      ],
+      "type_specific": {
+        "org_type": "research_org"
+      }
+    },
+    {
+      "id": "organization-the-galileo-project",
+      "node_type": "organization",
+      "label": "The Galileo Project",
+      "summary": "The Galileo Project is an international scientific research project to search for extraterrestrial intelligence or extraterrestrial technology on and near Earth and to identify the nature of anomalous Unidentified Flying Objects/Unidentified Aerial Phenomena (UFOs/UAP). It was launched in 2021 by Ha",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:24.337160+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 0,
+          "quote": " before you know working maybe on this sort of exotic crazy project do you have any reason to believe that this existed well ye"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-project-blue-book",
+      "node_type": "organization",
+      "label": "Project Blue Book",
+      "summary": "USAF UFO investigation program active from 1952 to 1969.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:24.337164+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 0,
+          "quote": " cook and those were  real life moments from his incredible book The Hunt for zero point the book is the most comprehensive "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-world-contact-day",
+      "node_type": "organization",
+      "label": "World Contact Day",
+      "summary": "World Contact Day was first declared in March 1953 by an organization called the International Flying Saucer Bureau (IFSB), as a day on which all IFSB members would attempt to send a telepathic message into space. The IFSB voted to hold such a day in 1953, theorising that if both telepathy and alien",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:24.337169+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 0,
+          "quote": " are coming and it lists the top aerospace companies of the day Lear conver Bell the Martin Corporation before its merger w"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-scp-foundation",
+      "node_type": "organization",
+      "label": "SCP Foundation",
+      "summary": "The SCP Foundation is a fictional organization featured in stories created by contributors on the SCP Wiki, a wiki-based collaborative writing project, launched in 2008. Within the project's shared universe, the SCP (Special Containment Procedures) Foundation is a secret organization that is respons",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:24.337173+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 0,
+          "quote": "itons in their 1954 winning essay for the Gravity Research  Foundation yes there was a gravity essay contest involving the top the"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-us-air-force",
+      "node_type": "organization",
+      "label": "US Air Force",
+      "summary": "US Air Force entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:24.337177+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 0,
+          "quote": "er coming out of it over a dry lake bed and  a pilot an Air Force pilot climbing out of this thing it's titled the G engines "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-big-sur-ufo",
+      "node_type": "organization",
+      "label": "Big Sur UFO",
+      "summary": "The Big Sur UFO is a reported UFO incident that took place during a 1964 Air Force deployment to a mountaintop near Big Sur, California. The deployment was a mission was to film Atlas missile tests from Vandenberg Air Force Base. Since 1982, Robert Jacobs, who had overseen the mountaintop team, has ",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:24.337181+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 0,
+          "quote": "956 on his desk what it showed was it sort of looked like a UFO kind of with a ladder coming out of it over a dry lake bed "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-us-navy",
+      "node_type": "organization",
+      "label": "US Navy",
+      "summary": "US Navy entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:24.337185+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 0,
+          "quote": "why the Philadelphia Experiment was a long rumored supposed Navy experiment in 1943 that turned the USS Eldridge invisible a"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-nasa",
+      "node_type": "organization",
+      "label": "NASA",
+      "summary": "NASA entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:24.337190+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 0,
+          "quote": "ome white World lab test experiments which were going on in NASA at the time NASA had exhibited weirdly an interest in anti-"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other",
+        "acronym": "NASA"
+      }
+    },
+    {
+      "id": "organization-cia",
+      "node_type": "organization",
+      "label": "CIA",
+      "summary": "CIA entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:24.337194+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 0,
+          "quote": "about his grandfather Paul melon one of the founders of the CIA melan was in Czechoslovakia on a top secret trip at the end"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other",
+        "acronym": "CIA"
+      }
+    },
+    {
+      "id": "organization-fbi",
+      "node_type": "organization",
+      "label": "FBI",
+      "summary": "FBI entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:24.337197+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 0,
+          "quote": "s were just greatly exaggerated this also explains the 1943 FBI file on  Brown saying that he knew more about radar than an"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other",
+        "acronym": "FBI"
+      }
+    },
+    {
+      "id": "organization-dod",
+      "node_type": "organization",
+      "label": "DoD",
+      "summary": "",
+      "tags": [
+        "government_agency"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:24.337201+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 0,
+          "quote": " her company with SMY AC gravity LLC they immediately win a DOD contract Lee gets a security clearance and she seems to go "
+        }
+      ],
+      "type_specific": {
+        "org_type": "government_agency",
+        "full_name": "Department of Defense"
+      }
+    },
+    {
+      "id": "location-pacific-training-area",
+      "node_type": "location",
+      "label": "Pacific Training Area",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:24.337206+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 0,
+          "quote": "oms Sonic  booms coming in from the Pacific heading towards Area 51 in Nevada because that you could the sensors you could t"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-united-kingdom",
+      "node_type": "location",
+      "label": "United Kingdom",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:24.337210+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 0,
+          "quote": "are all places which I'd already mapped on the in the camer Kingdom these secret Laboratories and outposts and underground faci"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-united-states",
+      "node_type": "location",
+      "label": "United States",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:24.337214+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 0,
+          "quote": "rass conceding the reality of UFOs yeah in the memo Twining States in his  considered opinion quotes that the rash of UFO sigh"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-finland",
+      "node_type": "location",
+      "label": "Finland",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:24.337218+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 0,
+          "quote": "d ketov who' been  working out of the University of Tamp in Finland had noticed a weight loss effect in objects suspended above"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-germany",
+      "node_type": "location",
+      "label": "Germany",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:24.337222+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 0,
+          "quote": "journey in the hunt for zero point from Skunk Works to Nazi Germany which had its own reported anti-gravity programs under SS o"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-area-51",
+      "node_type": "location",
+      "label": "Area 51",
+      "summary": "",
+      "tags": [
+        "military_base"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:24.337226+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 0,
+          "quote": "oms Sonic  booms coming in from the Pacific heading towards Area 51 in Nevada because that you could the sensors you could the "
+        }
+      ],
+      "type_specific": {
+        "location_type": "military_base",
+        "country": "US",
+        "state_or_region": "Nevada"
+      }
+    },
+    {
+      "id": "program-project-blue-book",
+      "node_type": "program",
+      "label": "Project Blue Book",
+      "summary": "",
+      "tags": [
+        "program"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:24.337230+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 0,
+          "quote": "ere systematically downplaying and  marginalizing the topic Project Blue Book was the best they could do at the time because they felt th"
+        }
+      ],
+      "type_specific": {
+        "acronym": "Blue Book"
+      }
+    },
+    {
+      "id": "claim-G7Ns4Aq1tVc-discussion-summary",
+      "node_type": "claim",
+      "label": "Video G7Ns4Aq1tVc features extended discussion of Bob Oppenheimer, Eric Weinstein, James McDonald an",
+      "summary": "Video G7Ns4Aq1tVc features extended discussion of Bob Oppenheimer, Eric Weinstein, James McDonald and related UAP research topics, hosted by Jesse Michels.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:24.337241+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 0,
+          "quote": "Episode title: “We Have Antigravity UFOs!” (ft. Nick Cook)"
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Video G7Ns4Aq1tVc features extended discussion of Bob Oppenheimer, Eric Weinstein, James McDonald and related UAP research topics, hosted by Jesse Michels.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "G7Ns4Aq1tVc",
+        "timestamp_start_seconds": 0,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-bob-oppenheimer",
+          "person-eric-weinstein",
+          "person-james-mcdonald",
+          "video-G7Ns4Aq1tVc"
+        ]
+      }
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge-video-G7Ns4Aq1tVc-HOSTED_BY-person-jesse-michels",
+      "from_node_id": "video-G7Ns4Aq1tVc",
+      "to_node_id": "person-jesse-michels",
+      "relationship": "HOSTED_BY",
+      "confidence": 0.99,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 0,
+          "quote": "Jesse hosting"
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-APPEARED_IN-video-G7Ns4Aq1tVc",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "video-G7Ns4Aq1tVc",
+      "relationship": "APPEARED_IN",
+      "confidence": 0.99,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 0,
+          "quote": "Host"
+        }
+      ],
+      "properties": {
+        "appearance_type": "host"
+      }
+    },
+    {
+      "id": "edge-video-G7Ns4Aq1tVc-MENTIONS-person-bob-oppenheimer",
+      "from_node_id": "video-G7Ns4Aq1tVc",
+      "to_node_id": "person-bob-oppenheimer",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 0,
+          "quote": "so lists top physicists you have all heard of even Robert J Oppenheimer as being actively and deeply involved in anti-gravity resea"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-G7Ns4Aq1tVc-MENTIONS-person-eric-weinstein",
+      "from_node_id": "video-G7Ns4Aq1tVc",
+      "to_node_id": "person-eric-weinstein",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 0,
+          "quote": " that you and how had that very interesting discussion with Eric Weinstein about which was the  physics piece uhhuh it would only be i"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-G7Ns4Aq1tVc-MENTIONS-person-james-mcdonald",
+      "from_node_id": "video-G7Ns4Aq1tVc",
+      "to_node_id": "person-james-mcdonald",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 0,
+          "quote": "Aerospace and like this interest in mind over matter I mean James McDonald is a famous Patron obviously was very interested in parapsy"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-G7Ns4Aq1tVc-MENTIONS-person-e-howard-hunt",
+      "from_node_id": "video-G7Ns4Aq1tVc",
+      "to_node_id": "person-e-howard-hunt",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 0,
+          "quote": " those were  real life moments from his incredible book The Hunt for zero point the book is the most comprehensive documenta"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-G7Ns4Aq1tVc-MENTIONS-person-love-has-won",
+      "from_node_id": "video-G7Ns4Aq1tVc",
+      "to_node_id": "person-love-has-won",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 0,
+          "quote": "he says you know I don't I don't know who this man is but I won't speak to him now or ever and I suggest you drop it you kn"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-G7Ns4Aq1tVc-MENTIONS-person-paul-r-hill",
+      "from_node_id": "video-G7Ns4Aq1tVc",
+      "to_node_id": "person-paul-r-hill",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 0,
+          "quote": "und an Institute at the University of North Carolina Chapel Hill right and then there's a famous gravity conference at the U"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-G7Ns4Aq1tVc-MENTIONS-person-riley-martin",
+      "from_node_id": "video-G7Ns4Aq1tVc",
+      "to_node_id": "person-riley-martin",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 0,
+          "quote": "the top aerospace companies of the day Lear conver Bell the Martin Corporation before its merger with locked all expressing ex"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-G7Ns4Aq1tVc-MENTIONS-person-timothy-good",
+      "from_node_id": "video-G7Ns4Aq1tVc",
+      "to_node_id": "person-timothy-good",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 0,
+          "quote": "t got you into aviation in the first  place that's a really good question so I did a completely unrelated degree at Universi"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-G7Ns4Aq1tVc-MENTIONS-person-allen-dulles",
+      "from_node_id": "video-G7Ns4Aq1tVc",
+      "to_node_id": "person-allen-dulles",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 0,
+          "quote": "e who went on to  become the third director of the CIA Alan Dulles and this is what he told his grandson son and my grandfathe"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-G7Ns4Aq1tVc-MENTIONS-person-chan-thomas",
+      "from_node_id": "video-G7Ns4Aq1tVc",
+      "to_node_id": "person-chan-thomas",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 0,
+          "quote": "mics who reported anti-gravitational effects Victor shurger Thomas Townsen brown john Hutchinson Eugene Petna and many others "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-G7Ns4Aq1tVc-MENTIONS-person-betty-hill",
+      "from_node_id": "video-G7Ns4Aq1tVc",
+      "to_node_id": "person-betty-hill",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 0,
+          "quote": "und an Institute at the University of North Carolina Chapel Hill right and then there's a famous gravity conference at the U"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-G7Ns4Aq1tVc-MENTIONS-person-art-bell",
+      "from_node_id": "video-G7Ns4Aq1tVc",
+      "to_node_id": "person-art-bell",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 0,
+          "quote": "it lists the top aerospace companies of the day Lear conver Bell the Martin Corporation before its merger with locked all ex"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-G7Ns4Aq1tVc-MENTIONS-organization-international-ufo-museum-and-research-center",
+      "from_node_id": "video-G7Ns4Aq1tVc",
+      "to_node_id": "organization-international-ufo-museum-and-research-center",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 0,
+          "quote": "finally it lists six top academic institutions as being the center of gravity research in the US Princeton Institute for advan"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-G7Ns4Aq1tVc-MENTIONS-organization-the-report-on-unidentified-flying-objects",
+      "from_node_id": "video-G7Ns4Aq1tVc",
+      "to_node_id": "organization-the-report-on-unidentified-flying-objects",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 0,
+          "quote": "real and not Visionary or fictitious he continued there are objects approximating the shape of a dis of such appreciable size a"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-G7Ns4Aq1tVc-MENTIONS-organization-ufo-sightings-in-the-united-kingdom",
+      "from_node_id": "video-G7Ns4Aq1tVc",
+      "to_node_id": "organization-ufo-sightings-in-the-united-kingdom",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 0,
+          "quote": "are all places which I'd already mapped on the in the camer Kingdom these secret Laboratories and outposts and underground faci"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-G7Ns4Aq1tVc-MENTIONS-organization-1952-washington-d-c-ufo-incident",
+      "from_node_id": "video-G7Ns4Aq1tVc",
+      "to_node_id": "organization-1952-washington-d-c-ufo-incident",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 0,
+          "quote": "at have you one of them I sat down and talked to about that incident I said are you aware of you know that Astra incident and wh"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-G7Ns4Aq1tVc-MENTIONS-organization-identification-studies-of-ufos",
+      "from_node_id": "video-G7Ns4Aq1tVc",
+      "to_node_id": "organization-identification-studies-of-ufos",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 0,
+          "quote": "# “We Have Antigravity UFOs!” (ft. Nick Cook) https://www.youtube.com/watch?v=G7Ns4Aq1t"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-G7Ns4Aq1tVc-MENTIONS-organization-lakenheath-bentwaters-incident",
+      "from_node_id": "video-G7Ns4Aq1tVc",
+      "to_node_id": "organization-lakenheath-bentwaters-incident",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 0,
+          "quote": "at have you one of them I sat down and talked to about that incident I said are you aware of you know that Astra incident and wh"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-G7Ns4Aq1tVc-MENTIONS-organization-chiles-whitted-ufo-encounter",
+      "from_node_id": "video-G7Ns4Aq1tVc",
+      "to_node_id": "organization-chiles-whitted-ufo-encounter",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 0,
+          "quote": "asn't interested before I am now yeah and then what did you encounter next in your anti-gravity Journey well what I did was I did"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-G7Ns4Aq1tVc-MENTIONS-organization-the-flying-saucers-are-real",
+      "from_node_id": "video-G7Ns4Aq1tVc",
+      "to_node_id": "organization-the-flying-saucers-are-real",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 0,
+          "quote": "ested before I am now yeah that's Nick cook and those were  real life moments from his incredible book The Hunt for zero poi"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-G7Ns4Aq1tVc-MENTIONS-organization-unidentified-flying-object",
+      "from_node_id": "video-G7Ns4Aq1tVc",
+      "to_node_id": "organization-unidentified-flying-object",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 0,
+          "quote": "hieving weight loss or any gravity reduction on a suspended object  through the simple input of alternating current electricit"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-G7Ns4Aq1tVc-MENTIONS-organization-us-department-of-defense",
+      "from_node_id": "video-G7Ns4Aq1tVc",
+      "to_node_id": "organization-us-department-of-defense",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 0,
+          "quote": "ne the year is 1994 Nick cook the aviation editor for James defense weekly walks into his office and notices someone has placed"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-G7Ns4Aq1tVc-MENTIONS-organization-lonnie-zamora-incident",
+      "from_node_id": "video-G7Ns4Aq1tVc",
+      "to_node_id": "organization-lonnie-zamora-incident",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 0,
+          "quote": "at have you one of them I sat down and talked to about that incident I said are you aware of you know that Astra incident and wh"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-G7Ns4Aq1tVc-MENTIONS-organization-roswell-that-ends-well",
+      "from_node_id": "video-G7Ns4Aq1tVc",
+      "to_node_id": "organization-roswell-that-ends-well",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 0,
+          "quote": "led it away until I ran into a locked PR exec I knew pretty well and I said I'd like to interview George Trimble because it "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-G7Ns4Aq1tVc-MENTIONS-organization-to-the-stars-academy",
+      "from_node_id": "video-G7Ns4Aq1tVc",
+      "to_node_id": "organization-to-the-stars-academy",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 0,
+          "quote": " get involved in Tom Dong's  public facing UFO organization to the Stars Academy these are all good questions very worthy of followup you kn"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-G7Ns4Aq1tVc-MENTIONS-organization-the-galileo-project",
+      "from_node_id": "video-G7Ns4Aq1tVc",
+      "to_node_id": "organization-the-galileo-project",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 0,
+          "quote": " before you know working maybe on this sort of exotic crazy project do you have any reason to believe that this existed well ye"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-G7Ns4Aq1tVc-MENTIONS-organization-project-blue-book",
+      "from_node_id": "video-G7Ns4Aq1tVc",
+      "to_node_id": "organization-project-blue-book",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 0,
+          "quote": " cook and those were  real life moments from his incredible book The Hunt for zero point the book is the most comprehensive "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-G7Ns4Aq1tVc-MENTIONS-organization-world-contact-day",
+      "from_node_id": "video-G7Ns4Aq1tVc",
+      "to_node_id": "organization-world-contact-day",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 0,
+          "quote": " are coming and it lists the top aerospace companies of the day Lear conver Bell the Martin Corporation before its merger w"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-G7Ns4Aq1tVc-MENTIONS-organization-scp-foundation",
+      "from_node_id": "video-G7Ns4Aq1tVc",
+      "to_node_id": "organization-scp-foundation",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 0,
+          "quote": "itons in their 1954 winning essay for the Gravity Research  Foundation yes there was a gravity essay contest involving the top the"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-G7Ns4Aq1tVc-MENTIONS-organization-us-air-force",
+      "from_node_id": "video-G7Ns4Aq1tVc",
+      "to_node_id": "organization-us-air-force",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 0,
+          "quote": "er coming out of it over a dry lake bed and  a pilot an Air Force pilot climbing out of this thing it's titled the G engines "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-G7Ns4Aq1tVc-MENTIONS-organization-big-sur-ufo",
+      "from_node_id": "video-G7Ns4Aq1tVc",
+      "to_node_id": "organization-big-sur-ufo",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 0,
+          "quote": "956 on his desk what it showed was it sort of looked like a UFO kind of with a ladder coming out of it over a dry lake bed "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-G7Ns4Aq1tVc-MENTIONS-organization-us-navy",
+      "from_node_id": "video-G7Ns4Aq1tVc",
+      "to_node_id": "organization-us-navy",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 0,
+          "quote": "why the Philadelphia Experiment was a long rumored supposed Navy experiment in 1943 that turned the USS Eldridge invisible a"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-G7Ns4Aq1tVc-MENTIONS-organization-nasa",
+      "from_node_id": "video-G7Ns4Aq1tVc",
+      "to_node_id": "organization-nasa",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 0,
+          "quote": "ome white World lab test experiments which were going on in NASA at the time NASA had exhibited weirdly an interest in anti-"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-G7Ns4Aq1tVc-MENTIONS-organization-cia",
+      "from_node_id": "video-G7Ns4Aq1tVc",
+      "to_node_id": "organization-cia",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 0,
+          "quote": "about his grandfather Paul melon one of the founders of the CIA melan was in Czechoslovakia on a top secret trip at the end"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-G7Ns4Aq1tVc-MENTIONS-organization-fbi",
+      "from_node_id": "video-G7Ns4Aq1tVc",
+      "to_node_id": "organization-fbi",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 0,
+          "quote": "s were just greatly exaggerated this also explains the 1943 FBI file on  Brown saying that he knew more about radar than an"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-G7Ns4Aq1tVc-MENTIONS-organization-dod",
+      "from_node_id": "video-G7Ns4Aq1tVc",
+      "to_node_id": "organization-dod",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 0,
+          "quote": " her company with SMY AC gravity LLC they immediately win a DOD contract Lee gets a security clearance and she seems to go "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-G7Ns4Aq1tVc-MENTIONS-location-pacific-training-area",
+      "from_node_id": "video-G7Ns4Aq1tVc",
+      "to_node_id": "location-pacific-training-area",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 0,
+          "quote": "oms Sonic  booms coming in from the Pacific heading towards Area 51 in Nevada because that you could the sensors you could t"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-G7Ns4Aq1tVc-MENTIONS-location-united-kingdom",
+      "from_node_id": "video-G7Ns4Aq1tVc",
+      "to_node_id": "location-united-kingdom",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 0,
+          "quote": "are all places which I'd already mapped on the in the camer Kingdom these secret Laboratories and outposts and underground faci"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-G7Ns4Aq1tVc-MENTIONS-location-united-states",
+      "from_node_id": "video-G7Ns4Aq1tVc",
+      "to_node_id": "location-united-states",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 0,
+          "quote": "rass conceding the reality of UFOs yeah in the memo Twining States in his  considered opinion quotes that the rash of UFO sigh"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-G7Ns4Aq1tVc-MENTIONS-location-finland",
+      "from_node_id": "video-G7Ns4Aq1tVc",
+      "to_node_id": "location-finland",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 0,
+          "quote": "d ketov who' been  working out of the University of Tamp in Finland had noticed a weight loss effect in objects suspended above"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-G7Ns4Aq1tVc-MENTIONS-location-germany",
+      "from_node_id": "video-G7Ns4Aq1tVc",
+      "to_node_id": "location-germany",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 0,
+          "quote": "journey in the hunt for zero point from Skunk Works to Nazi Germany which had its own reported anti-gravity programs under SS o"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-G7Ns4Aq1tVc-MENTIONS-location-area-51",
+      "from_node_id": "video-G7Ns4Aq1tVc",
+      "to_node_id": "location-area-51",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 0,
+          "quote": "oms Sonic  booms coming in from the Pacific heading towards Area 51 in Nevada because that you could the sensors you could the "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-G7Ns4Aq1tVc-MENTIONS-program-project-blue-book",
+      "from_node_id": "video-G7Ns4Aq1tVc",
+      "to_node_id": "program-project-blue-book",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 0,
+          "quote": "ere systematically downplaying and  marginalizing the topic Project Blue Book was the best they could do at the time because they felt th"
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-G7Ns4Aq1tVc-discussion-summary",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-G7Ns4Aq1tVc-discussion-summary",
+      "relationship": "ASSERTED",
+      "confidence": 0.9,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 0,
+          "quote": "Episode: “We Have Antigravity UFOs!” (ft. Nick Cook)"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-G7Ns4Aq1tVc-REFERENCES-claim-G7Ns4Aq1tVc-discussion-summary",
+      "from_node_id": "video-G7Ns4Aq1tVc",
+      "to_node_id": "claim-G7Ns4Aq1tVc-discussion-summary",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 0
+        }
+      ]
+    }
+  ],
+  "extracted_at": "2026-04-17T11:04:24.337272+00:00",
+  "extractor_version": "v1-inline-claude"
+}

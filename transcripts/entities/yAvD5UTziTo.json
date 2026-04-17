@@ -1,0 +1,2720 @@
+{
+  "video_id": "yAvD5UTziTo",
+  "nodes": [
+    {
+      "id": "video-yAvD5UTziTo",
+      "node_type": "video",
+      "label": "Meet The DARPA Scientist Abducted By an Alien ",
+      "summary": "Join Jesse Michels on today's episode of American Alchemy as he sits down with Lt. Colonel John Blitch—a former Green Beret, Special Forces officer, DARPA scientist, and cognitive psychologist—...",
+      "tags": [
+        "video",
+        "american-alchemy"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:43.592168+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "timestamp_end": 11475.0,
+          "quote": "Video: Meet The DARPA Scientist Abducted By an Alien "
+        }
+      ],
+      "type_specific": {
+        "video_id": "yAvD5UTziTo",
+        "title": "Meet The DARPA Scientist Abducted By an Alien ",
+        "url": "https://www.youtube.com/watch?v=yAvD5UTziTo",
+        "view_count": 393878,
+        "duration_seconds": 11475.0,
+        "host_id": "person-jesse-michels"
+      }
+    },
+    {
+      "id": "person-jesse-michels",
+      "node_type": "person",
+      "label": "Jesse Michels",
+      "summary": "Host of American Alchemy podcast/show. Independent journalist and UFO/NHI researcher.",
+      "tags": [
+        "journalist",
+        "interviewer",
+        "researcher",
+        "host"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:43.592187+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": "Host of American Alchemy podcast/show."
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Jesse",
+          "Michels"
+        ],
+        "profession": "journalist",
+        "notability_tags": [
+          "journalist",
+          "interviewer",
+          "researcher",
+          "host"
+        ]
+      }
+    },
+    {
+      "id": "person-wilbert-brockhouse-smith",
+      "node_type": "person",
+      "label": "Wilbert Brockhouse Smith",
+      "summary": "William Brockhouse Smith (1910 – December 27, 1962) was a Canadian engineer, government scientist, ufologist, and author of various patents and technical papers.",
+      "tags": [
+        "wikipedia",
+        "20th-century canadian engineers",
+        "canadian electrical engineers",
+        "contactees",
+        "date of birth missing",
+        "date of birth not in wikidata",
+        "engineers from alberta",
+        "pages where birth or death is being automatically determined",
+        "people from lethbridge",
+        "ufologists",
+        "university of british columbia alumni"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:44.418976+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": " literature so if you read any of Kathy Martin's books yvon Smith all of John Max stuff right A lot of  these these folks tha"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Smith",
+          "WILBERT BROCKHOUSE SMITH",
+          "wilbert brockhouse smith"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "20th-century canadian engineers",
+          "canadian electrical engineers",
+          "contactees",
+          "date of birth missing",
+          "date of birth not in wikidata",
+          "engineers from alberta",
+          "pages where birth or death is being automatically determined",
+          "people from lethbridge",
+          "ufologists",
+          "university of british columbia alumni"
+        ]
+      }
+    },
+    {
+      "id": "person-robert-hastings",
+      "node_type": "person",
+      "label": "Robert Hastings",
+      "summary": "",
+      "tags": [
+        "researcher",
+        "author",
+        "UFOs and Nukes"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:44.418992+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": "too and so well this is one of the most powerful aspects of Robert Hastings book UFO and nukes yeah great book  that you know he and Bo"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Hastings"
+        ],
+        "notability_tags": [
+          "researcher",
+          "author",
+          "UFOs and Nukes"
+        ]
+      }
+    },
+    {
+      "id": "person-john-f-kennedy",
+      "node_type": "person",
+      "label": "John F. Kennedy",
+      "summary": "",
+      "tags": [
+        "president",
+        "historical"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:44.418998+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": "ike my walk and talk with Danny shean on who exactly killed JFK or a remote viewing debate between Hal put off and Eric Wei"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "JFK",
+          "Kennedy"
+        ],
+        "notability_tags": [
+          "president",
+          "historical"
+        ]
+      }
+    },
+    {
+      "id": "person-eric-weinstein",
+      "node_type": "person",
+      "label": "Eric Weinstein",
+      "summary": "",
+      "tags": [
+        "mathematician",
+        "physicist"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:44.419002+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": "lled JFK or a remote viewing debate between Hal put off and Eric Weinstein then please join our [ __ ] Community today we've been sitt"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Weinstein"
+        ],
+        "notability_tags": [
+          "mathematician",
+          "physicist"
+        ]
+      }
+    },
+    {
+      "id": "person-james-mcdonald",
+      "node_type": "person",
+      "label": "James McDonald",
+      "summary": "",
+      "tags": [
+        "physicist",
+        "researcher"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:44.419006+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": "ther way you had a repeatable yes effect and you had Gordon McDonald you know space admin under Eisenhower  saying the only thin"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Dr. McDonald",
+          "McDonald"
+        ],
+        "notability_tags": [
+          "physicist",
+          "researcher"
+        ]
+      }
+    },
+    {
+      "id": "person-travis-walton",
+      "node_type": "person",
+      "label": "Travis Walton",
+      "summary": "Travis Walton entity extracted from cross-source archival records.",
+      "tags": [
+        "pipeline-generated",
+        "entity-extracted"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:44.419011+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": "s does not explain five hours of absence it doesn't explain Travis Walton coming back five days later M with a full beard it doesn't "
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "TRAVIS WALTON",
+          "Walton",
+          "travis walton"
+        ],
+        "notability_tags": [
+          "pipeline-generated",
+          "entity-extracted"
+        ]
+      }
+    },
+    {
+      "id": "person-bill-clinton",
+      "node_type": "person",
+      "label": "Bill Clinton",
+      "summary": "Bill Clinton entity extracted from cross-source archival records.",
+      "tags": [
+        "pipeline-generated",
+        "entity-extracted"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:44.419016+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": "ld and so there was a lot of rumors about when the when the Clinton Administration left the White House they had trashed it and"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "BILL CLINTON",
+          "Clinton",
+          "bill clinton"
+        ],
+        "notability_tags": [
+          "pipeline-generated",
+          "entity-extracted"
+        ]
+      }
+    },
+    {
+      "id": "person-love-has-won",
+      "node_type": "person",
+      "label": "Love Has Won",
+      "summary": "Love Has Won (LHW), also known as the Galactic Federation of Light, is an American new religious movement that was led by Amy Carlson until her death in 2021. Carlson was referred to within the group as \"Mother God\", who described herself as, among other things, the creator of the universe, with the",
+      "tags": [
+        "wikipedia",
+        "2007 establishments in colorado",
+        "ancient astronaut speculation",
+        "covid-19 vaccine misinformation and hesitancy",
+        "climate change denial in the united states",
+        "holocaust denial in the united states",
+        "new age organizations",
+        "new religious movements established in the 2000s",
+        "qanon",
+        "religious belief systems founded in the united states",
+        "religious controversies in the united states",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:44.419023+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": " in many cases we are told don't worry about this don't you won't need to remember this and I think it's an act of compassi"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "LOVE HAS WON",
+          "Won",
+          "love has won"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "2007 establishments in colorado",
+          "ancient astronaut speculation",
+          "covid-19 vaccine misinformation and hesitancy",
+          "climate change denial in the united states",
+          "holocaust denial in the united states",
+          "new age organizations",
+          "new religious movements established in the 2000s",
+          "qanon",
+          "religious belief systems founded in the united states",
+          "religious controversies in the united states",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "person-paul-r-hill",
+      "node_type": "person",
+      "label": "Paul R. Hill",
+      "summary": "Paul Richard Hill (1909–1990) was a mid–twentieth-century American aerodynamicist. He was a leading research and development engineer and manager for NASA (National Aeronautics and Space Administration) and its predecessor, NACA (the National Advisory Council for Aeronautics) between 1939 and 1970, ",
+      "tags": [
+        "wikipedia",
+        "aerodynamicists",
+        "nasa people",
+        "scientists from iowa",
+        "uc berkeley college of engineering alumni",
+        "ufologists",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:44.419028+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": "t super common in fact even going  back to Betty and Barney Hill one of the kind of proverbial famous cases in the US I thin"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Hill",
+          "PAUL R. HILL",
+          "Paul Hill",
+          "paul r. hill"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "aerodynamicists",
+          "nasa people",
+          "scientists from iowa",
+          "uc berkeley college of engineering alumni",
+          "ufologists",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "person-riley-martin",
+      "node_type": "person",
+      "label": "Riley Martin",
+      "summary": "Riley Lee Martin (May 9, 1946 – December 22, 2015) was an American self-described alien contactee, author and radio host. Martin was the author of the book The Coming of Tan, which describes his life and his alleged alien visitation. He hosted The Riley Martin Show on the Sirius XM Radio channel How",
+      "tags": [
+        "wikipedia",
+        "20th-century african-american people",
+        "african-american radio personalities",
+        "american conspiracy theorists",
+        "american outsider artists",
+        "american people who self-identify as being of native american descent",
+        "contactees",
+        "people from natchez, mississippi",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:44.419032+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": "s very common in the literature so if you read any of Kathy Martin's books yvon Smith all of John Max stuff right A lot of  th"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Martin",
+          "RILEY MARTIN",
+          "riley martin"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "20th-century african-american people",
+          "african-american radio personalities",
+          "american conspiracy theorists",
+          "american outsider artists",
+          "american people who self-identify as being of native american descent",
+          "contactees",
+          "people from natchez, mississippi",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "person-timothy-good",
+      "node_type": "person",
+      "label": "Timothy Good",
+      "summary": "",
+      "tags": [
+        "researcher",
+        "author"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:44.419036+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": " would say is that I've made a lot of mistakes and that's a good path to  learning so you really came on the public scene ar"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Tim Good",
+          "Good"
+        ],
+        "notability_tags": [
+          "researcher",
+          "author"
+        ]
+      }
+    },
+    {
+      "id": "person-philip-corso",
+      "node_type": "person",
+      "label": "Philip Corso",
+      "summary": "",
+      "tags": [
+        "military",
+        "author",
+        "Roswell"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:44.419040+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": " two- word answer yeah ontological relief do you think that Philip Corso's narrative is correct where like you have these meta mater"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Corso"
+        ],
+        "notability_tags": [
+          "military",
+          "author",
+          "Roswell"
+        ]
+      }
+    },
+    {
+      "id": "person-chan-thomas",
+      "node_type": "person",
+      "label": "Chan Thomas",
+      "summary": "Chan Thomas (1920–1998) was an American engineer, ufologist, writer on ancient cataclysms, and self-proclaimed polymath whose ideas have influenced conspiracy theorists in the 21st century.",
+      "tags": [
+        "wikipedia",
+        "20th-century american engineers",
+        "mcdonnell douglas people",
+        "ufologists",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:44.419044+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": "rt star bacher's name just keeps popping up it pops up with Thomas Townsen Brown and anti-gravity experiments in the 40s 50s a"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "CHAN THOMAS",
+          "Thomas",
+          "chan thomas"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "20th-century american engineers",
+          "mcdonnell douglas people",
+          "ufologists",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "person-garry-nolan",
+      "node_type": "person",
+      "label": "Garry Nolan",
+      "summary": "Garry P. Nolan (born c. 1961) is a British-American immunologist, academic, inventor, and business executive. He holds the Rachford and Carlota A. Harris Professor Endowed Chair in the Department of Pathology at Stanford University School of Medicine. Nolan has founded biotechnology companies. Since",
+      "tags": [
+        "wikipedia",
+        "1960s births",
+        "american cancer researchers",
+        "american immunologists",
+        "american pathologists",
+        "british cancer researchers",
+        "british immunologists",
+        "cornell university alumni",
+        "pages with broken reference names",
+        "pages with reference errors",
+        "serologists",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:44.419048+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": "king up with the little gray guys in my room just like Gary Nolan said now he has assured me he has no abduction memories at "
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "GARRY NOLAN",
+          "Nolan",
+          "garry nolan"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "1960s births",
+          "american cancer researchers",
+          "american immunologists",
+          "american pathologists",
+          "british cancer researchers",
+          "british immunologists",
+          "cornell university alumni",
+          "pages with broken reference names",
+          "pages with reference errors",
+          "serologists",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "person-ed-mitchell",
+      "node_type": "person",
+      "label": "Ed Mitchell",
+      "summary": "",
+      "tags": [
+        "astronaut",
+        "Apollo 14"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:44.419051+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": "'s this probably hard thing to process you look at the free Edgar Mitchell studies on abduction so you know some of these larger datab"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Edgar Mitchell",
+          "Mitchell"
+        ],
+        "notability_tags": [
+          "astronaut",
+          "Apollo 14"
+        ]
+      }
+    },
+    {
+      "id": "person-betty-hill",
+      "node_type": "person",
+      "label": "Betty Hill",
+      "summary": "Betty Hill entity extracted from cross-source archival records.",
+      "tags": [
+        "pipeline-generated",
+        "entity-extracted"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:44.419055+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": "t super common in fact even going  back to Betty and Barney Hill one of the kind of proverbial famous cases in the US I thin"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "BETTY HILL",
+          "Hill",
+          "betty hill"
+        ],
+        "notability_tags": [
+          "pipeline-generated",
+          "entity-extracted"
+        ]
+      }
+    },
+    {
+      "id": "person-kid-cosmic",
+      "node_type": "person",
+      "label": "Kid Cosmic",
+      "summary": "Kid Cosmic is an American animated superhero television series created by Craig McCracken and developed by McCracken, his wife Lauren Faust and Francisco Angones for Netflix. The series was based on his 2009 comic The Kid from Planet Earth. Produced in-house by Netflix Animation, the show is McCrack",
+      "tags": [
+        "wikipedia",
+        "2020s american animated comedy television series",
+        "2020s american children's comedy television series",
+        "2020s american science fiction comedy television series",
+        "2020s american superhero comedy television series",
+        "2021 american animated television series debuts",
+        "2022 american television series endings",
+        "american english-language television shows",
+        "american children's animated action television series",
+        "american children's animated adventure television series",
+        "american children's animated comic science fiction television series",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:44.419059+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": "y flawed assumption which is okay if there's really is this Cosmic Galactic Society where are they right why aren't they landi"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Cosmic",
+          "KID COSMIC",
+          "kid cosmic"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "2020s american animated comedy television series",
+          "2020s american children's comedy television series",
+          "2020s american science fiction comedy television series",
+          "2020s american superhero comedy television series",
+          "2021 american animated television series debuts",
+          "2022 american television series endings",
+          "american english-language television shows",
+          "american children's animated action television series",
+          "american children's animated adventure television series",
+          "american children's animated comic science fiction television series",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "person-bob-jacobs",
+      "node_type": "person",
+      "label": "Bob Jacobs",
+      "summary": "",
+      "tags": [
+        "witness",
+        "Big Sur"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:44.419063+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": "gs book UFO and nukes yeah great book  that you know he and Bob Jacobs and Terry and Mario woods and Jeff Goodrich who still hasn'"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Jacobs",
+          "Professor Jacobs"
+        ],
+        "notability_tags": [
+          "witness",
+          "Big Sur"
+        ]
+      }
+    },
+    {
+      "id": "person-bob-lazar",
+      "node_type": "person",
+      "label": "Bob Lazar",
+      "summary": "Bob Lazar entity extracted from cross-source archival records.",
+      "tags": [
+        "pipeline-generated",
+        "entity-extracted"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:44.419067+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": "yes that he described in the sphere totally consistent with Bob lazar's story from 1988 why is the glove I didn't know is the glo"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "BOB LAZAR",
+          "Lazar",
+          "bob lazar"
+        ],
+        "notability_tags": [
+          "pipeline-generated",
+          "entity-extracted"
+        ]
+      }
+    },
+    {
+      "id": "person-john-mack",
+      "node_type": "person",
+      "label": "John Mack",
+      "summary": "",
+      "tags": [
+        "psychiatrist",
+        "Harvard",
+        "abduction research"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:44.419071+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": "kay cool right yeah and so I want to invoke real scientists John Mack Don dere David Spiel senior and Junior who came up with thi"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Dr. Mack",
+          "Mack"
+        ],
+        "notability_tags": [
+          "psychiatrist",
+          "Harvard",
+          "abduction research"
+        ]
+      }
+    },
+    {
+      "id": "person-art-bell",
+      "node_type": "person",
+      "label": "Art Bell",
+      "summary": "Arthur William Bell III (June 17, 1945 – April 13, 2018) was an American broadcaster and author. He was the founder and the original host of the paranormal-themed radio program Coast to Coast AM, which is syndicated on hundreds of radio stations in the United States and Canada. He also created and h",
+      "tags": [
+        "wikipedia",
+        "20th-century american businesspeople",
+        "accidental deaths in nevada",
+        "amateur radio people",
+        "american non-fiction environmental writers",
+        "american radio djs",
+        "american radio executives",
+        "american talk radio hosts",
+        "businesspeople from monterey, california",
+        "businesspeople from nevada",
+        "coast to coast am",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:44.419075+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": "pollo 10 I believe took off and then it sort of rang like a bell 12 Apollo 12 no was it 12 I thought it was it was 12 becaus"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "ART BELL",
+          "Bell",
+          "art bell"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "20th-century american businesspeople",
+          "accidental deaths in nevada",
+          "amateur radio people",
+          "american non-fiction environmental writers",
+          "american radio djs",
+          "american radio executives",
+          "american talk radio hosts",
+          "businesspeople from monterey, california",
+          "businesspeople from nevada",
+          "coast to coast am",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "organization-international-ufo-museum-and-research-center",
+      "node_type": "organization",
+      "label": "International UFO Museum and Research Center",
+      "summary": "The International UFO Museum and Research Center is located in Roswell, New Mexico, United States, in the downtown district, and is focused largely on the 1947 Roswell Crash and later supposed UFO incidents in the United States and elsewhere. It was founded in 1991 as a 501c3 nonprofit educational o",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:44.419081+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": "e was friction between the astronaut Folks at Johnson Space Center and the scientists there the pro robot  guys MH we can only"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-1952-washington-d-c-ufo-incident",
+      "node_type": "organization",
+      "label": "1952 Washington, D.C. UFO incident",
+      "summary": "From July 12 to 29, 1952, a series of unidentified flying object (UFO) sightings were reported in Washington, D.C., and later became known as the Washington flap, the Washington National Airport Sightings, or the Invasion of Washington. The most publicized sightings took place on consecutive weekend",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:44.419086+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": "riences I was on the skeptical side until the mountain bike incident that was 1995 oh okay and after that point we kind of flipp"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-identification-studies-of-ufos",
+      "node_type": "organization",
+      "label": "Identification studies of UFOs",
+      "summary": "Identifying unidentified flying objects (UFOs) is a difficult task due to the normally poor quality of the evidence provided by those who report sighting the unknown object. Observations and subsequent reporting are often made by those untrained in astronomy, atmospheric phenomena, aeronautics, phys",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:44.419091+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": "ecific company generic company but really he was retrieving UFOs and he has come out with the story via me and Ross Kart and"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-lakenheath-bentwaters-incident",
+      "node_type": "organization",
+      "label": "Lakenheath-Bentwaters incident",
+      "summary": "The Lakenheath-Bentwaters Incident was a series of radar and visual contacts with unidentified flying objects over airbases in eastern England on the night of 13–14 August 1956, involving personnel from the Royal Air Force (RAF) and the United States Air Force (USAF). The incident has since gained s",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:44.419095+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": "riences I was on the skeptical side until the mountain bike incident that was 1995 oh okay and after that point we kind of flipp"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-chiles-whitted-ufo-encounter",
+      "node_type": "organization",
+      "label": "Chiles-Whitted UFO encounter",
+      "summary": "The Chiles-Whitted UFO encounter occurred at approximately 2:45 AM on July 24, 1948, in the skies near Montgomery, Alabama, United States. Two commercial pilots, Clarence S. Chiles and John B. Whitted, claimed to have observed a \"glowing object\" pass by their plane before it appeared to pull up into",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:44.419099+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": "who get spooked by really crazy you know entities that they encounter a drop lands on my hand as I'm on my handlebars and then I "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-flying-saucer-working-party",
+      "node_type": "organization",
+      "label": "Flying Saucer Working Party",
+      "summary": "Flying Saucer Working Party (or FSWP) was the name of the United Kingdom Ministry of Defence’s (MOD) first \"official study into UFOs\", which has its roots in a study commissioned in 1950 by the MOD’s then Chief Scientific Adviser, the eminent radar scientist Sir Henry Tizard. As a result of his insi",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:44.419104+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": "so and then at one point we had a we had a St Patrick's Day party at DARPA at our office it was the obviously 17 March I thin"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-the-flying-saucers-are-real",
+      "node_type": "organization",
+      "label": "The Flying Saucers Are Real",
+      "summary": "The Flying Saucers Are Real, by Donald Keyhoe, is a book that investigated reports of UFOs by United States Air Force fighters, personnel, and other aircraft, between 1947 and 1950.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:44.419109+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": "nscious memory okay cool right yeah and so I want to invoke real scientists John Mack Don dere David Spiel senior and Junior"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-archives-of-the-impossible",
+      "node_type": "organization",
+      "label": "Archives of the Impossible",
+      "summary": "The Archives of the Impossible (AOTI), sometimes called the Center for the Impossible, is a special collection at Rice University in Houston, Texas, United States. Founded in 2014 by Jeffrey J. Kripal, AOTI is based at the Woodson Research Center in the Fondren Library. It stewards collections on UF",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:44.419113+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": "to put them at risk right kind of like you know the mission impossible thing the knock list gets out right so there's there's this"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-unidentified-flying-object",
+      "node_type": "organization",
+      "label": "Unidentified flying object",
+      "summary": "An unidentified flying object (UFO) is an object or phenomenon seen in the sky but not yet identified or explained. The term was coined when United States Air Force (USAF) investigations into flying saucers found too broad a range of shapes reported to consider them all saucers or discs. UFOs are al",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:44.419117+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": "can bend SpaceTime you can bend photons to  come around the object and exit the same exact way and that's your invisibility cl"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-us-department-of-defense",
+      "node_type": "organization",
+      "label": "US Department of Defense",
+      "summary": "US Department of Defense entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:44.419121+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": " to the gorillas that survived or the in a foreign internal defense you're kind of trying to do counter gorill but one way or a"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-leonard-h-stringfield",
+      "node_type": "organization",
+      "label": "Leonard H. Stringfield",
+      "summary": "Leonard Stringfield (1920–1994) was an American ufologist who took particular interest in crashed flying saucer stories. Stringfield was director of Civilian Research, Interplanetary Flying Objects (CRIFO), and published a monthly newsletter, ORBIT. In 1957 he became public relations adviser for the",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:44.419125+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": "re of that story and a lot of the rumors around R Patterson Leonard Stringfield very prominent very well resective UFO researcher from that"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-lonnie-zamora-incident",
+      "node_type": "organization",
+      "label": "Lonnie Zamora incident",
+      "summary": "The Lonnie Zamora incident was an alleged UFO sighting that occurred on April 24, 1964 near Socorro, New Mexico when Socorro police officer Lonnie Zamora claimed he saw two people beside a shiny object that later rose into the air accompanied by a roaring blue and orange flame. Zamora's claims were ",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:44.419129+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": "riences I was on the skeptical side until the mountain bike incident that was 1995 oh okay and after that point we kind of flipp"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-roswell-that-ends-well",
+      "node_type": "organization",
+      "label": "Roswell That Ends Well",
+      "summary": "\"Roswell That Ends Well\" is the nineteenth episode in the third season of the American animated television series Futurama, and the 51st episode of the series overall. It originally aired on the Fox network in the United States on December 9, 2001. The plot centers on an accidental time travel event",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:44.419134+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": "'re cognitive psychology expert and doctorate is that right well I you know I'll push back a little bit on the word expert s"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-the-galileo-project",
+      "node_type": "organization",
+      "label": "The Galileo Project",
+      "summary": "The Galileo Project is an international scientific research project to search for extraterrestrial intelligence or extraterrestrial technology on and near Earth and to identify the nature of anomalous Unidentified Flying Objects/Unidentified Aerial Phenomena (UFOs/UAP). It was launched in 2021 by Ha",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:44.419138+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": "know Canadian physicist who had UFO research program called project magnet and Robert star bacher's name just keeps popping up "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-thornton-leigh-page",
+      "node_type": "organization",
+      "label": "Thornton Leigh Page",
+      "summary": "Thornton Leigh Page was an American professor of astronomy at the University of Chicago and at Wesleyan University. He became embroiled in the controversy over unidentified flying objects (UFOs) after serving briefly on the Robertson Panel, a Central Intelligence Agency–sponsored committee of scient",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:44.419142+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": " there's some video of me on a website this on my  LinkedIn page it's day 17 in the Mars simulation and a new crew member ar"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-project-blue-book",
+      "node_type": "organization",
+      "label": "Project Blue Book",
+      "summary": "USAF UFO investigation program active from 1952 to 1969.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:44.419146+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": "er I saw him called and said hey can I use that quote in my book if I ever get this damn book published   I don't believe in"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-world-contact-day",
+      "node_type": "organization",
+      "label": "World Contact Day",
+      "summary": "World Contact Day was first declared in March 1953 by an organization called the International Flying Saucer Bureau (IFSB), as a day on which all IFSB members would attempt to send a telepathic message into space. The IFSB voted to hold such a day in 1953, theorising that if both telepathy and alien",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:44.419150+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": "and extremely important yes that you know this Independence Day Alien Invasion you know rhetoric and narrative we really ne"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-condon-committee",
+      "node_type": "organization",
+      "label": "Condon Committee",
+      "summary": "Condon Committee entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:44.419154+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": " don't I don't know this was you know in front of the whole committee and she goes well X is an unknown quantity and a spurt is a"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-scp-foundation",
+      "node_type": "organization",
+      "label": "SCP Foundation",
+      "summary": "The SCP Foundation is a fictional organization featured in stories created by contributors on the SCP Wiki, a wiki-based collaborative writing project, launched in 2008. Within the project's shared universe, the SCP (Special Containment Procedures) Foundation is a secret organization that is respons",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:44.419159+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": "nd ridiculous or whatever now you have the National Science Foundation NASA doing podcasts talking about this stuff and I've spoke"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-us-air-force",
+      "node_type": "organization",
+      "label": "US Air Force",
+      "summary": "US Air Force entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:44.419163+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": " of anybody I've ever interviewed you were you were a Delta Force you worked at DARPA for a long time you managed some very i"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-big-sur-ufo",
+      "node_type": "organization",
+      "label": "Big Sur UFO",
+      "summary": "The Big Sur UFO is a reported UFO incident that took place during a 1964 Air Force deployment to a mountaintop near Big Sur, California. The deployment was a mission was to film Atlas missile tests from Vandenberg Air Force Base. Since 1982, Robert Jacobs, who had overseen the mountaintop team, has ",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:44.419167+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": "really came on the public scene around this you know recent UFO whistleblower Revelation we've really crossed a Rubicon of "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-bob-lazar",
+      "node_type": "organization",
+      "label": "Bob Lazar",
+      "summary": "Robert Scott Lazar () is an American who, since 1989, has claimed to have been part of a classified US government project concerned with the reverse engineering of extraterrestrial technology; he also purported to have read government briefing documents that described alien involvement in human affa",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:44.419170+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": "yes that he described in the sphere totally consistent with Bob lazar's story from 1988 why is the glove I didn't know is the glo"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-us-navy",
+      "node_type": "organization",
+      "label": "US Navy",
+      "summary": "US Navy entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:44.419174+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": "R Patterson no it's a few hour drive three hours and it's a Navy facility that's right now what I could tell you about Randy"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-nasa",
+      "node_type": "organization",
+      "label": "NASA",
+      "summary": "NASA entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:44.419179+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": "that we're going to go up to the hton crater as part of the NASA's hmp hton Mars project and there was the Mars underground "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other",
+        "acronym": "NASA"
+      }
+    },
+    {
+      "id": "organization-cia",
+      "node_type": "organization",
+      "label": "CIA",
+      "summary": "CIA entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:44.419183+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": "those are guys like John Anderson John LoveIt kind of early CIA guys and then Carl Compton comes to the scene president of "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other",
+        "acronym": "CIA"
+      }
+    },
+    {
+      "id": "organization-nsa",
+      "node_type": "organization",
+      "label": "NSA",
+      "summary": "",
+      "tags": [
+        "intelligence_agency"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:44.419186+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": "nman who director of the CIA and I think like number two at NSA like you know a rare person to be at the top of  both organ"
+        }
+      ],
+      "type_specific": {
+        "org_type": "intelligence_agency",
+        "acronym": "NSA",
+        "full_name": "National Security Agency"
+      }
+    },
+    {
+      "id": "location-wright-patterson-air-force-base",
+      "node_type": "location",
+      "label": "Wright-Patterson Air Force Base",
+      "summary": "",
+      "tags": [
+        "military_base"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:44.419191+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": "led Curtis lame and I said General I know we have a room at Wright Patterson where you put all this secret stuff can I go in there I've "
+        }
+      ],
+      "type_specific": {
+        "location_type": "military_base",
+        "country": "US",
+        "state_or_region": "Ohio"
+      }
+    },
+    {
+      "id": "location-pacific-training-area",
+      "node_type": "location",
+      "label": "Pacific Training Area",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:44.419196+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": " I'm growing I'm I'm very of afraid of those lights in that area over there so I skirt around as soon as I get to an open en"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-roswell-new-mexico",
+      "node_type": "location",
+      "label": "Roswell, New Mexico",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:44.419200+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": "ots but we have their Footprints M on the ground sakuro New Mexico 1964 J Allen heinik saw them and that's what flipped him in"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-rendlesham-forest",
+      "node_type": "location",
+      "label": "Rendlesham Forest",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:44.419204+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": " great Chinese sci-fi Trilogy and in that you have the Dark Forest analogy and this idea that it's actually adaptive often for"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-united-states",
+      "node_type": "location",
+      "label": "United States",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:44.419208+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": " potential visitation by extraterrestrials it should be the United States Air Force Academy right to  my I shouldn't say horror but t"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-germany",
+      "node_type": "location",
+      "label": "Germany",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:44.419211+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": "pace available flight first to Turkey to interi and then to Germany and while I'm in Germany with Nate we hear about  operation"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-roswell",
+      "node_type": "location",
+      "label": "Roswell",
+      "summary": "",
+      "tags": [
+        "city"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:44.419215+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": " I was like I started rereading I read the Corsos day after Roswell uhuh and I really started digging in that was a little afte"
+        }
+      ],
+      "type_specific": {
+        "location_type": "city",
+        "country": "US",
+        "state_or_region": "New Mexico"
+      }
+    },
+    {
+      "id": "location-area-51",
+      "node_type": "location",
+      "label": "Area 51",
+      "summary": "",
+      "tags": [
+        "military_base"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:44.419219+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": "or a fact that he still occasionally does contract work for Area 51 I think people don't realize how big of a test site that is"
+        }
+      ],
+      "type_specific": {
+        "location_type": "military_base",
+        "country": "US",
+        "state_or_region": "Nevada"
+      }
+    },
+    {
+      "id": "location-mexico",
+      "node_type": "location",
+      "label": "Mexico",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:44.419222+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": "ots but we have their Footprints M on the ground sakuro New Mexico 1964 J Allen heinik saw them and that's what flipped him in"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-italy",
+      "node_type": "location",
+      "label": "Italy",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:44.419226+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": "are pretty well documented not only you know in Lombardy in Italy the one that Dave grush talks about the magenta crash but o"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "claim-yAvD5UTziTo-discussion-summary",
+      "node_type": "claim",
+      "label": "Video yAvD5UTziTo features extended discussion of Wilbert Brockhouse Smith, Robert Hastings, John F.",
+      "summary": "Video yAvD5UTziTo features extended discussion of Wilbert Brockhouse Smith, Robert Hastings, John F. Kennedy and related UAP research topics, hosted by Jesse Michels.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:44.419237+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": "Episode title: Meet The DARPA Scientist Abducted By an Alien "
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Video yAvD5UTziTo features extended discussion of Wilbert Brockhouse Smith, Robert Hastings, John F. Kennedy and related UAP research topics, hosted by Jesse Michels.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "yAvD5UTziTo",
+        "timestamp_start_seconds": 0,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-wilbert-brockhouse-smith",
+          "person-robert-hastings",
+          "person-john-f-kennedy",
+          "video-yAvD5UTziTo"
+        ]
+      }
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge-video-yAvD5UTziTo-HOSTED_BY-person-jesse-michels",
+      "from_node_id": "video-yAvD5UTziTo",
+      "to_node_id": "person-jesse-michels",
+      "relationship": "HOSTED_BY",
+      "confidence": 0.99,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": "Jesse hosting"
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-APPEARED_IN-video-yAvD5UTziTo",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "video-yAvD5UTziTo",
+      "relationship": "APPEARED_IN",
+      "confidence": 0.99,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": "Host"
+        }
+      ],
+      "properties": {
+        "appearance_type": "host"
+      }
+    },
+    {
+      "id": "edge-video-yAvD5UTziTo-MENTIONS-person-wilbert-brockhouse-smith",
+      "from_node_id": "video-yAvD5UTziTo",
+      "to_node_id": "person-wilbert-brockhouse-smith",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": " literature so if you read any of Kathy Martin's books yvon Smith all of John Max stuff right A lot of  these these folks tha"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-yAvD5UTziTo-MENTIONS-person-robert-hastings",
+      "from_node_id": "video-yAvD5UTziTo",
+      "to_node_id": "person-robert-hastings",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": "too and so well this is one of the most powerful aspects of Robert Hastings book UFO and nukes yeah great book  that you know he and Bo"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-yAvD5UTziTo-MENTIONS-person-john-f-kennedy",
+      "from_node_id": "video-yAvD5UTziTo",
+      "to_node_id": "person-john-f-kennedy",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": "ike my walk and talk with Danny shean on who exactly killed JFK or a remote viewing debate between Hal put off and Eric Wei"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-yAvD5UTziTo-MENTIONS-person-eric-weinstein",
+      "from_node_id": "video-yAvD5UTziTo",
+      "to_node_id": "person-eric-weinstein",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": "lled JFK or a remote viewing debate between Hal put off and Eric Weinstein then please join our [ __ ] Community today we've been sitt"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-yAvD5UTziTo-MENTIONS-person-james-mcdonald",
+      "from_node_id": "video-yAvD5UTziTo",
+      "to_node_id": "person-james-mcdonald",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": "ther way you had a repeatable yes effect and you had Gordon McDonald you know space admin under Eisenhower  saying the only thin"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-yAvD5UTziTo-MENTIONS-person-travis-walton",
+      "from_node_id": "video-yAvD5UTziTo",
+      "to_node_id": "person-travis-walton",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": "s does not explain five hours of absence it doesn't explain Travis Walton coming back five days later M with a full beard it doesn't "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-yAvD5UTziTo-MENTIONS-person-bill-clinton",
+      "from_node_id": "video-yAvD5UTziTo",
+      "to_node_id": "person-bill-clinton",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": "ld and so there was a lot of rumors about when the when the Clinton Administration left the White House they had trashed it and"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-yAvD5UTziTo-MENTIONS-person-love-has-won",
+      "from_node_id": "video-yAvD5UTziTo",
+      "to_node_id": "person-love-has-won",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": " in many cases we are told don't worry about this don't you won't need to remember this and I think it's an act of compassi"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-yAvD5UTziTo-MENTIONS-person-paul-r-hill",
+      "from_node_id": "video-yAvD5UTziTo",
+      "to_node_id": "person-paul-r-hill",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": "t super common in fact even going  back to Betty and Barney Hill one of the kind of proverbial famous cases in the US I thin"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-yAvD5UTziTo-MENTIONS-person-riley-martin",
+      "from_node_id": "video-yAvD5UTziTo",
+      "to_node_id": "person-riley-martin",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": "s very common in the literature so if you read any of Kathy Martin's books yvon Smith all of John Max stuff right A lot of  th"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-yAvD5UTziTo-MENTIONS-person-timothy-good",
+      "from_node_id": "video-yAvD5UTziTo",
+      "to_node_id": "person-timothy-good",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": " would say is that I've made a lot of mistakes and that's a good path to  learning so you really came on the public scene ar"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-yAvD5UTziTo-MENTIONS-person-philip-corso",
+      "from_node_id": "video-yAvD5UTziTo",
+      "to_node_id": "person-philip-corso",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": " two- word answer yeah ontological relief do you think that Philip Corso's narrative is correct where like you have these meta mater"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-yAvD5UTziTo-MENTIONS-person-chan-thomas",
+      "from_node_id": "video-yAvD5UTziTo",
+      "to_node_id": "person-chan-thomas",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": "rt star bacher's name just keeps popping up it pops up with Thomas Townsen Brown and anti-gravity experiments in the 40s 50s a"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-yAvD5UTziTo-MENTIONS-person-garry-nolan",
+      "from_node_id": "video-yAvD5UTziTo",
+      "to_node_id": "person-garry-nolan",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": "king up with the little gray guys in my room just like Gary Nolan said now he has assured me he has no abduction memories at "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-yAvD5UTziTo-MENTIONS-person-ed-mitchell",
+      "from_node_id": "video-yAvD5UTziTo",
+      "to_node_id": "person-ed-mitchell",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": "'s this probably hard thing to process you look at the free Edgar Mitchell studies on abduction so you know some of these larger datab"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-yAvD5UTziTo-MENTIONS-person-betty-hill",
+      "from_node_id": "video-yAvD5UTziTo",
+      "to_node_id": "person-betty-hill",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": "t super common in fact even going  back to Betty and Barney Hill one of the kind of proverbial famous cases in the US I thin"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-yAvD5UTziTo-MENTIONS-person-kid-cosmic",
+      "from_node_id": "video-yAvD5UTziTo",
+      "to_node_id": "person-kid-cosmic",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": "y flawed assumption which is okay if there's really is this Cosmic Galactic Society where are they right why aren't they landi"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-yAvD5UTziTo-MENTIONS-person-bob-jacobs",
+      "from_node_id": "video-yAvD5UTziTo",
+      "to_node_id": "person-bob-jacobs",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": "gs book UFO and nukes yeah great book  that you know he and Bob Jacobs and Terry and Mario woods and Jeff Goodrich who still hasn'"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-yAvD5UTziTo-MENTIONS-person-bob-lazar",
+      "from_node_id": "video-yAvD5UTziTo",
+      "to_node_id": "person-bob-lazar",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": "yes that he described in the sphere totally consistent with Bob lazar's story from 1988 why is the glove I didn't know is the glo"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-yAvD5UTziTo-MENTIONS-person-john-mack",
+      "from_node_id": "video-yAvD5UTziTo",
+      "to_node_id": "person-john-mack",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": "kay cool right yeah and so I want to invoke real scientists John Mack Don dere David Spiel senior and Junior who came up with thi"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-yAvD5UTziTo-MENTIONS-person-art-bell",
+      "from_node_id": "video-yAvD5UTziTo",
+      "to_node_id": "person-art-bell",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": "pollo 10 I believe took off and then it sort of rang like a bell 12 Apollo 12 no was it 12 I thought it was it was 12 becaus"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-yAvD5UTziTo-MENTIONS-organization-international-ufo-museum-and-research-center",
+      "from_node_id": "video-yAvD5UTziTo",
+      "to_node_id": "organization-international-ufo-museum-and-research-center",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": "e was friction between the astronaut Folks at Johnson Space Center and the scientists there the pro robot  guys MH we can only"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-yAvD5UTziTo-MENTIONS-organization-1952-washington-d-c-ufo-incident",
+      "from_node_id": "video-yAvD5UTziTo",
+      "to_node_id": "organization-1952-washington-d-c-ufo-incident",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": "riences I was on the skeptical side until the mountain bike incident that was 1995 oh okay and after that point we kind of flipp"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-yAvD5UTziTo-MENTIONS-organization-identification-studies-of-ufos",
+      "from_node_id": "video-yAvD5UTziTo",
+      "to_node_id": "organization-identification-studies-of-ufos",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": "ecific company generic company but really he was retrieving UFOs and he has come out with the story via me and Ross Kart and"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-yAvD5UTziTo-MENTIONS-organization-lakenheath-bentwaters-incident",
+      "from_node_id": "video-yAvD5UTziTo",
+      "to_node_id": "organization-lakenheath-bentwaters-incident",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": "riences I was on the skeptical side until the mountain bike incident that was 1995 oh okay and after that point we kind of flipp"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-yAvD5UTziTo-MENTIONS-organization-chiles-whitted-ufo-encounter",
+      "from_node_id": "video-yAvD5UTziTo",
+      "to_node_id": "organization-chiles-whitted-ufo-encounter",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": "who get spooked by really crazy you know entities that they encounter a drop lands on my hand as I'm on my handlebars and then I "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-yAvD5UTziTo-MENTIONS-organization-flying-saucer-working-party",
+      "from_node_id": "video-yAvD5UTziTo",
+      "to_node_id": "organization-flying-saucer-working-party",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": "so and then at one point we had a we had a St Patrick's Day party at DARPA at our office it was the obviously 17 March I thin"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-yAvD5UTziTo-MENTIONS-organization-the-flying-saucers-are-real",
+      "from_node_id": "video-yAvD5UTziTo",
+      "to_node_id": "organization-the-flying-saucers-are-real",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": "nscious memory okay cool right yeah and so I want to invoke real scientists John Mack Don dere David Spiel senior and Junior"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-yAvD5UTziTo-MENTIONS-organization-archives-of-the-impossible",
+      "from_node_id": "video-yAvD5UTziTo",
+      "to_node_id": "organization-archives-of-the-impossible",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": "to put them at risk right kind of like you know the mission impossible thing the knock list gets out right so there's there's this"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-yAvD5UTziTo-MENTIONS-organization-unidentified-flying-object",
+      "from_node_id": "video-yAvD5UTziTo",
+      "to_node_id": "organization-unidentified-flying-object",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": "can bend SpaceTime you can bend photons to  come around the object and exit the same exact way and that's your invisibility cl"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-yAvD5UTziTo-MENTIONS-organization-us-department-of-defense",
+      "from_node_id": "video-yAvD5UTziTo",
+      "to_node_id": "organization-us-department-of-defense",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": " to the gorillas that survived or the in a foreign internal defense you're kind of trying to do counter gorill but one way or a"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-yAvD5UTziTo-MENTIONS-organization-leonard-h-stringfield",
+      "from_node_id": "video-yAvD5UTziTo",
+      "to_node_id": "organization-leonard-h-stringfield",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": "re of that story and a lot of the rumors around R Patterson Leonard Stringfield very prominent very well resective UFO researcher from that"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-yAvD5UTziTo-MENTIONS-organization-lonnie-zamora-incident",
+      "from_node_id": "video-yAvD5UTziTo",
+      "to_node_id": "organization-lonnie-zamora-incident",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": "riences I was on the skeptical side until the mountain bike incident that was 1995 oh okay and after that point we kind of flipp"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-yAvD5UTziTo-MENTIONS-organization-roswell-that-ends-well",
+      "from_node_id": "video-yAvD5UTziTo",
+      "to_node_id": "organization-roswell-that-ends-well",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": "'re cognitive psychology expert and doctorate is that right well I you know I'll push back a little bit on the word expert s"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-yAvD5UTziTo-MENTIONS-organization-the-galileo-project",
+      "from_node_id": "video-yAvD5UTziTo",
+      "to_node_id": "organization-the-galileo-project",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": "know Canadian physicist who had UFO research program called project magnet and Robert star bacher's name just keeps popping up "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-yAvD5UTziTo-MENTIONS-organization-thornton-leigh-page",
+      "from_node_id": "video-yAvD5UTziTo",
+      "to_node_id": "organization-thornton-leigh-page",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": " there's some video of me on a website this on my  LinkedIn page it's day 17 in the Mars simulation and a new crew member ar"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-yAvD5UTziTo-MENTIONS-organization-project-blue-book",
+      "from_node_id": "video-yAvD5UTziTo",
+      "to_node_id": "organization-project-blue-book",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": "er I saw him called and said hey can I use that quote in my book if I ever get this damn book published   I don't believe in"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-yAvD5UTziTo-MENTIONS-organization-world-contact-day",
+      "from_node_id": "video-yAvD5UTziTo",
+      "to_node_id": "organization-world-contact-day",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": "and extremely important yes that you know this Independence Day Alien Invasion you know rhetoric and narrative we really ne"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-yAvD5UTziTo-MENTIONS-organization-condon-committee",
+      "from_node_id": "video-yAvD5UTziTo",
+      "to_node_id": "organization-condon-committee",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": " don't I don't know this was you know in front of the whole committee and she goes well X is an unknown quantity and a spurt is a"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-yAvD5UTziTo-MENTIONS-organization-scp-foundation",
+      "from_node_id": "video-yAvD5UTziTo",
+      "to_node_id": "organization-scp-foundation",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": "nd ridiculous or whatever now you have the National Science Foundation NASA doing podcasts talking about this stuff and I've spoke"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-yAvD5UTziTo-MENTIONS-organization-us-air-force",
+      "from_node_id": "video-yAvD5UTziTo",
+      "to_node_id": "organization-us-air-force",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": " of anybody I've ever interviewed you were you were a Delta Force you worked at DARPA for a long time you managed some very i"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-yAvD5UTziTo-MENTIONS-organization-big-sur-ufo",
+      "from_node_id": "video-yAvD5UTziTo",
+      "to_node_id": "organization-big-sur-ufo",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": "really came on the public scene around this you know recent UFO whistleblower Revelation we've really crossed a Rubicon of "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-yAvD5UTziTo-MENTIONS-organization-bob-lazar",
+      "from_node_id": "video-yAvD5UTziTo",
+      "to_node_id": "organization-bob-lazar",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": "yes that he described in the sphere totally consistent with Bob lazar's story from 1988 why is the glove I didn't know is the glo"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-yAvD5UTziTo-MENTIONS-organization-us-navy",
+      "from_node_id": "video-yAvD5UTziTo",
+      "to_node_id": "organization-us-navy",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": "R Patterson no it's a few hour drive three hours and it's a Navy facility that's right now what I could tell you about Randy"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-yAvD5UTziTo-MENTIONS-organization-nasa",
+      "from_node_id": "video-yAvD5UTziTo",
+      "to_node_id": "organization-nasa",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": "that we're going to go up to the hton crater as part of the NASA's hmp hton Mars project and there was the Mars underground "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-yAvD5UTziTo-MENTIONS-organization-cia",
+      "from_node_id": "video-yAvD5UTziTo",
+      "to_node_id": "organization-cia",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": "those are guys like John Anderson John LoveIt kind of early CIA guys and then Carl Compton comes to the scene president of "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-yAvD5UTziTo-MENTIONS-organization-nsa",
+      "from_node_id": "video-yAvD5UTziTo",
+      "to_node_id": "organization-nsa",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": "nman who director of the CIA and I think like number two at NSA like you know a rare person to be at the top of  both organ"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-yAvD5UTziTo-MENTIONS-location-wright-patterson-air-force-base",
+      "from_node_id": "video-yAvD5UTziTo",
+      "to_node_id": "location-wright-patterson-air-force-base",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": "led Curtis lame and I said General I know we have a room at Wright Patterson where you put all this secret stuff can I go in there I've "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-yAvD5UTziTo-MENTIONS-location-pacific-training-area",
+      "from_node_id": "video-yAvD5UTziTo",
+      "to_node_id": "location-pacific-training-area",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": " I'm growing I'm I'm very of afraid of those lights in that area over there so I skirt around as soon as I get to an open en"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-yAvD5UTziTo-MENTIONS-location-roswell-new-mexico",
+      "from_node_id": "video-yAvD5UTziTo",
+      "to_node_id": "location-roswell-new-mexico",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": "ots but we have their Footprints M on the ground sakuro New Mexico 1964 J Allen heinik saw them and that's what flipped him in"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-yAvD5UTziTo-MENTIONS-location-rendlesham-forest",
+      "from_node_id": "video-yAvD5UTziTo",
+      "to_node_id": "location-rendlesham-forest",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": " great Chinese sci-fi Trilogy and in that you have the Dark Forest analogy and this idea that it's actually adaptive often for"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-yAvD5UTziTo-MENTIONS-location-united-states",
+      "from_node_id": "video-yAvD5UTziTo",
+      "to_node_id": "location-united-states",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": " potential visitation by extraterrestrials it should be the United States Air Force Academy right to  my I shouldn't say horror but t"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-yAvD5UTziTo-MENTIONS-location-germany",
+      "from_node_id": "video-yAvD5UTziTo",
+      "to_node_id": "location-germany",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": "pace available flight first to Turkey to interi and then to Germany and while I'm in Germany with Nate we hear about  operation"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-yAvD5UTziTo-MENTIONS-location-roswell",
+      "from_node_id": "video-yAvD5UTziTo",
+      "to_node_id": "location-roswell",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": " I was like I started rereading I read the Corsos day after Roswell uhuh and I really started digging in that was a little afte"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-yAvD5UTziTo-MENTIONS-location-area-51",
+      "from_node_id": "video-yAvD5UTziTo",
+      "to_node_id": "location-area-51",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": "or a fact that he still occasionally does contract work for Area 51 I think people don't realize how big of a test site that is"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-yAvD5UTziTo-MENTIONS-location-mexico",
+      "from_node_id": "video-yAvD5UTziTo",
+      "to_node_id": "location-mexico",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": "ots but we have their Footprints M on the ground sakuro New Mexico 1964 J Allen heinik saw them and that's what flipped him in"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-yAvD5UTziTo-MENTIONS-location-italy",
+      "from_node_id": "video-yAvD5UTziTo",
+      "to_node_id": "location-italy",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": "are pretty well documented not only you know in Lombardy in Italy the one that Dave grush talks about the magenta crash but o"
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-yAvD5UTziTo-discussion-summary",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-yAvD5UTziTo-discussion-summary",
+      "relationship": "ASSERTED",
+      "confidence": 0.9,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0,
+          "quote": "Episode: Meet The DARPA Scientist Abducted By an Alien "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-yAvD5UTziTo-REFERENCES-claim-yAvD5UTziTo-discussion-summary",
+      "from_node_id": "video-yAvD5UTziTo",
+      "to_node_id": "claim-yAvD5UTziTo-discussion-summary",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 0
+        }
+      ]
+    }
+  ],
+  "extracted_at": "2026-04-17T11:04:44.419268+00:00",
+  "extractor_version": "v1-inline-claude"
+}

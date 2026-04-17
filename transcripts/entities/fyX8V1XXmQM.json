@@ -1,0 +1,2010 @@
+{
+  "video_id": "fyX8V1XXmQM",
+  "nodes": [
+    {
+      "id": "video-fyX8V1XXmQM",
+      "node_type": "video",
+      "label": "He's Seen More UFO Evidence Than Anyone Alive (Ft. Jacques Vallee)",
+      "summary": "Jacque Vallee is the legendary French UFO researcher who formed the basis for Steven Spielberg's eccentric scientist in Close Encounters of The Third Kind. He has worked with every prominent...",
+      "tags": [
+        "video",
+        "american-alchemy"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:28.627756+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 0,
+          "timestamp_end": 2580.0,
+          "quote": "Video: He's Seen More UFO Evidence Than Anyone Alive (Ft. Jacques Vallee)"
+        }
+      ],
+      "type_specific": {
+        "video_id": "fyX8V1XXmQM",
+        "title": "He's Seen More UFO Evidence Than Anyone Alive (Ft. Jacques Vallee)",
+        "url": "https://www.youtube.com/watch?v=fyX8V1XXmQM",
+        "view_count": 555945,
+        "duration_seconds": 2580.0,
+        "host_id": "person-jesse-michels",
+        "guest_ids": [
+          "person-jacques-vallee"
+        ]
+      }
+    },
+    {
+      "id": "person-jesse-michels",
+      "node_type": "person",
+      "label": "Jesse Michels",
+      "summary": "Host of American Alchemy podcast/show. Independent journalist and UFO/NHI researcher.",
+      "tags": [
+        "journalist",
+        "interviewer",
+        "researcher",
+        "host"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:28.627774+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 0,
+          "quote": "Host of American Alchemy podcast/show."
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Jesse",
+          "Michels"
+        ],
+        "profession": "journalist",
+        "notability_tags": [
+          "journalist",
+          "interviewer",
+          "researcher",
+          "host"
+        ]
+      }
+    },
+    {
+      "id": "person-christopher-mellon",
+      "node_type": "person",
+      "label": "Christopher Mellon",
+      "summary": "Christopher Mellon entity extracted from cross-source archival records.",
+      "tags": [
+        "pipeline-generated",
+        "entity-extracted"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:28.828302+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 0,
+          "quote": "s that you needed to do to open up that thing in fact Chris Mellon the former deputy assistant secretary of defense for intell"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "CHRISTOPHER MELLON",
+          "Mellon",
+          "christopher mellon"
+        ],
+        "notability_tags": [
+          "pipeline-generated",
+          "entity-extracted"
+        ]
+      }
+    },
+    {
+      "id": "person-bob-oppenheimer",
+      "node_type": "person",
+      "label": "Bob Oppenheimer",
+      "summary": "",
+      "tags": [
+        "physicist",
+        "Manhattan Project"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:28.828321+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 0,
+          "quote": "ered just one month after the awesome Atomic test by Robert Oppenheimer Enrico Fermi and their Star  team of physicists a weird obj"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "J. Robert Oppenheimer",
+          "Oppenheimer"
+        ],
+        "notability_tags": [
+          "physicist",
+          "Manhattan Project"
+        ]
+      }
+    },
+    {
+      "id": "person-jacques-vallee",
+      "node_type": "person",
+      "label": "Jacques Vallee",
+      "summary": "",
+      "tags": [
+        "researcher",
+        "computer scientist"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:28.828326+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 0,
+          "quote": "# He's Seen More UFO Evidence Than Anyone Alive (Ft. Jacques Vallee) https://www.youtube.com/watch?v=fyX8V1XXmQM views: 555,945"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Jacques Vallée",
+          "Vallee",
+          "Vallée"
+        ],
+        "notability_tags": [
+          "researcher",
+          "computer scientist"
+        ]
+      }
+    },
+    {
+      "id": "person-bill-clinton",
+      "node_type": "person",
+      "label": "Bill Clinton",
+      "summary": "Bill Clinton entity extracted from cross-source archival records.",
+      "tags": [
+        "pipeline-generated",
+        "entity-extracted"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:28.828332+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 0,
+          "quote": "puty assistant secretary of defense for intelligence in the Clinton and George W  bush administrations claims he almost met wit"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "BILL CLINTON",
+          "Clinton",
+          "bill clinton"
+        ],
+        "notability_tags": [
+          "pipeline-generated",
+          "entity-extracted"
+        ]
+      }
+    },
+    {
+      "id": "person-love-has-won",
+      "node_type": "person",
+      "label": "Love Has Won",
+      "summary": "Love Has Won (LHW), also known as the Galactic Federation of Light, is an American new religious movement that was led by Amy Carlson until her death in 2021. Carlson was referred to within the group as \"Mother God\", who described herself as, among other things, the creator of the universe, with the",
+      "tags": [
+        "wikipedia",
+        "2007 establishments in colorado",
+        "ancient astronaut speculation",
+        "covid-19 vaccine misinformation and hesitancy",
+        "climate change denial in the united states",
+        "holocaust denial in the united states",
+        "new age organizations",
+        "new religious movements established in the 2000s",
+        "qanon",
+        "religious belief systems founded in the united states",
+        "religious controversies in the united states",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:28.828337+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 0,
+          "quote": "you read them closely Jacques can drop some truth bombs you won't get anywhere else like in his book  Revelations alien con"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "LOVE HAS WON",
+          "Won",
+          "love has won"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "2007 establishments in colorado",
+          "ancient astronaut speculation",
+          "covid-19 vaccine misinformation and hesitancy",
+          "climate change denial in the united states",
+          "holocaust denial in the united states",
+          "new age organizations",
+          "new religious movements established in the 2000s",
+          "qanon",
+          "religious belief systems founded in the united states",
+          "religious controversies in the united states",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "person-paul-r-hill",
+      "node_type": "person",
+      "label": "Paul R. Hill",
+      "summary": "Paul Richard Hill (1909–1990) was a mid–twentieth-century American aerodynamicist. He was a leading research and development engineer and manager for NASA (National Aeronautics and Space Administration) and its predecessor, NACA (the National Advisory Council for Aeronautics) between 1939 and 1970, ",
+      "tags": [
+        "wikipedia",
+        "aerodynamicists",
+        "nasa people",
+        "scientists from iowa",
+        "uc berkeley college of engineering alumni",
+        "ufologists",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:28.828341+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 0,
+          "quote": "d of noble mythology of their current time Betty and Barney Hill perhaps one of the most famous abduction cases in the U.S  "
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Hill",
+          "PAUL R. HILL",
+          "Paul Hill",
+          "paul r. hill"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "aerodynamicists",
+          "nasa people",
+          "scientists from iowa",
+          "uc berkeley college of engineering alumni",
+          "ufologists",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "person-timothy-good",
+      "node_type": "person",
+      "label": "Timothy Good",
+      "summary": "",
+      "tags": [
+        "researcher",
+        "author"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:28.828346+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 0,
+          "quote": "science and physics involved in UFOs we really don't have a good idea of what reality is when Steven Spielberg wanted to dep"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Tim Good",
+          "Good"
+        ],
+        "notability_tags": [
+          "researcher",
+          "author"
+        ]
+      }
+    },
+    {
+      "id": "person-philip-corso",
+      "node_type": "person",
+      "label": "Philip Corso",
+      "summary": "",
+      "tags": [
+        "military",
+        "author",
+        "Roswell"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:28.828350+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 0,
+          "quote": " you know you've said you've had private conversations with Philip Corso yes do you think these entities are sort  of airdropping te"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Corso"
+        ],
+        "notability_tags": [
+          "military",
+          "author",
+          "Roswell"
+        ]
+      }
+    },
+    {
+      "id": "person-chan-thomas",
+      "node_type": "person",
+      "label": "Chan Thomas",
+      "summary": "Chan Thomas (1920–1998) was an American engineer, ufologist, writer on ancient cataclysms, and self-proclaimed polymath whose ideas have influenced conspiracy theorists in the 21st century.",
+      "tags": [
+        "wikipedia",
+        "20th-century american engineers",
+        "mcdonnell douglas people",
+        "ufologists",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:28.828358+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 0,
+          "quote": "g occurring between the director of intelligence J2 Admiral Thomas Wilson and a physicist and propulsion expert named Eric Dav"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "CHAN THOMAS",
+          "Thomas",
+          "chan thomas"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "20th-century american engineers",
+          "mcdonnell douglas people",
+          "ufologists",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "person-betty-hill",
+      "node_type": "person",
+      "label": "Betty Hill",
+      "summary": "Betty Hill entity extracted from cross-source archival records.",
+      "tags": [
+        "pipeline-generated",
+        "entity-extracted"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:28.828362+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 0,
+          "quote": "d of noble mythology of their current time Betty and Barney Hill perhaps one of the most famous abduction cases in the U.S  "
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "BETTY HILL",
+          "Hill",
+          "betty hill"
+        ],
+        "notability_tags": [
+          "pipeline-generated",
+          "entity-extracted"
+        ]
+      }
+    },
+    {
+      "id": "person-kid-cosmic",
+      "node_type": "person",
+      "label": "Kid Cosmic",
+      "summary": "Kid Cosmic is an American animated superhero television series created by Craig McCracken and developed by McCracken, his wife Lauren Faust and Francisco Angones for Netflix. The series was based on his 2009 comic The Kid from Planet Earth. Produced in-house by Netflix Animation, the show is McCrack",
+      "tags": [
+        "wikipedia",
+        "2020s american animated comedy television series",
+        "2020s american children's comedy television series",
+        "2020s american science fiction comedy television series",
+        "2020s american superhero comedy television series",
+        "2021 american animated television series debuts",
+        "2022 american television series endings",
+        "american english-language television shows",
+        "american children's animated action television series",
+        "american children's animated adventure television series",
+        "american children's animated comic science fiction television series",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:28.828366+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 0,
+          "quote": "ur former self and you're propelled forward in life by some Cosmic wound to find the true primordial self or something is that"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Cosmic",
+          "KID COSMIC",
+          "kid cosmic"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "2020s american animated comedy television series",
+          "2020s american children's comedy television series",
+          "2020s american science fiction comedy television series",
+          "2020s american superhero comedy television series",
+          "2021 american animated television series debuts",
+          "2022 american television series endings",
+          "american english-language television shows",
+          "american children's animated action television series",
+          "american children's animated adventure television series",
+          "american children's animated comic science fiction television series",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "person-carl-sagan",
+      "node_type": "person",
+      "label": "Carl Sagan",
+      "summary": "",
+      "tags": [
+        "astronomer",
+        "skeptic"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:28.828370+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 0,
+          "quote": "ibing this phenomena myself to you this clip from the great Carl Sagan says it all fifth Cube cast that shadow we recognize as two"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Sagan"
+        ],
+        "notability_tags": [
+          "astronomer",
+          "skeptic"
+        ]
+      }
+    },
+    {
+      "id": "person-bob-lazar",
+      "node_type": "person",
+      "label": "Bob Lazar",
+      "summary": "Bob Lazar entity extracted from cross-source archival records.",
+      "tags": [
+        "pipeline-generated",
+        "entity-extracted"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:28.828374+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 0,
+          "quote": "ations alien contact and human deception when he hints that Bob Lazar was actually an MK Ultra patient possibly the subject of go"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "BOB LAZAR",
+          "Lazar",
+          "bob lazar"
+        ],
+        "notability_tags": [
+          "pipeline-generated",
+          "entity-extracted"
+        ]
+      }
+    },
+    {
+      "id": "organization-identification-studies-of-ufos",
+      "node_type": "organization",
+      "label": "Identification studies of UFOs",
+      "summary": "Identifying unidentified flying objects (UFOs) is a difficult task due to the normally poor quality of the evidence provided by those who report sighting the unknown object. Observations and subsequent reporting are often made by those untrained in astronomy, atmospheric phenomena, aeronautics, phys",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:28.828380+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 0,
+          "quote": "wn genuine quest for meaning in life and their inquiry into UFOs is just one part of that a harbinger of the next Paradigm a"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-the-flying-saucers-are-real",
+      "node_type": "organization",
+      "label": "The Flying Saucers Are Real",
+      "summary": "The Flying Saucers Are Real, by Donald Keyhoe, is a book that investigated reports of UFOs by United States Air Force fighters, personnel, and other aircraft, between 1947 and 1950.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:28.828385+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 0,
+          "quote": "s the best I could do at the time because I felt they had a real project going on that was secret okay is that true in the A"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-archives-of-the-impossible",
+      "node_type": "organization",
+      "label": "Archives of the Impossible",
+      "summary": "The Archives of the Impossible (AOTI), sometimes called the Center for the Impossible, is a special collection at Rice University in Houston, Texas, United States. Founded in 2014 by Jeffrey J. Kripal, AOTI is based at the Woodson Research Center in the Fondren Library. It stewards collections on UF",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:28.828390+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 0,
+          "quote": " was made to drink it violated a lot of what we thought was impossible to violate but perhaps what I  find most interesting about "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-unidentified-flying-object",
+      "node_type": "organization",
+      "label": "Unidentified flying object",
+      "summary": "An unidentified flying object (UFO) is an object or phenomenon seen in the sky but not yet identified or explained. The term was coined when United States Air Force (USAF) investigations into flying saucers found too broad a range of shapes reported to consider them all saucers or discs. UFOs are al",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:28.828394+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 0,
+          "quote": "ays after the Japanese concession a metallic avocado shaped object dropped from the sky in San Antonio New Mexico right next t"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-the-spaceships-of-ezekiel",
+      "node_type": "organization",
+      "label": "The Spaceships of Ezekiel",
+      "summary": "The Spaceships of Ezekiel (1974) is a book by German engineer Josef F. Blumrich (March 17, 1913 – February 10, 2002) about a spaceship that was supposedly observed by the prophet Ezekiel as described in Book of Ezekiel in the Tanakh. Blumrich wrote it while chief of NASA's systems layout branch of t",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:28.828399+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 0,
+          "quote": "ersions might have just been alien abductions the wheels of Ezekiel in the Old Testament could have just been UFOs and the even"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-us-department-of-defense",
+      "node_type": "organization",
+      "label": "US Department of Defense",
+      "summary": "US Department of Defense entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:28.828403+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 0,
+          "quote": " fact Chris Mellon the former deputy assistant secretary of defense for intelligence in the Clinton and George W  bush administ"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-roswell-that-ends-well",
+      "node_type": "organization",
+      "label": "Roswell That Ends Well",
+      "summary": "\"Roswell That Ends Well\" is the nineteenth episode in the third season of the American animated television series Futurama, and the 51st episode of the series overall. It originally aired on the Fox network in the United States on December 9, 2001. The plot centers on an accidental time travel event",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:28.828408+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 0,
+          "quote": "of the Zen coin you know or  the sound of one hand clapping well where is the other head you know so you know it stops your "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-the-galileo-project",
+      "node_type": "organization",
+      "label": "The Galileo Project",
+      "summary": "The Galileo Project is an international scientific research project to search for extraterrestrial intelligence or extraterrestrial technology on and near Earth and to identify the nature of anomalous Unidentified Flying Objects/Unidentified Aerial Phenomena (UFOs/UAP). It was launched in 2021 by Ha",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:28.828412+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 0,
+          "quote": "he even helped build the earliest version of the internet a project called arpanet with legendary computer scientist Doug ingle"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-thornton-leigh-page",
+      "node_type": "organization",
+      "label": "Thornton Leigh Page",
+      "summary": "Thornton Leigh Page was an American professor of astronomy at the University of Chicago and at Wesleyan University. He became embroiled in the controversy over unidentified flying objects (UFOs) after serving briefly on the Robertson Panel, a Central Intelligence Agency–sponsored committee of scient",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:28.828417+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 0,
+          "quote": "led him to believe he worked on reverse engineering UFOs on page 9 the lay writes Robert Lazar also told me of his strange m"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-christopher-mellon",
+      "node_type": "organization",
+      "label": "Christopher Mellon",
+      "summary": "Christopher Karl Mellon is an American former Department of Defense and United States Senate civilian staff member whose career from 1985 to 2017 focused on defense and intelligence oversight. He is an advocate for transparency in government investigations of UFOs. Mellon began his career by working",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:28.828421+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 0,
+          "quote": "s that you needed to do to open up that thing in fact Chris Mellon the former deputy assistant secretary of defense for intell"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-project-blue-book",
+      "node_type": "organization",
+      "label": "Project Blue Book",
+      "summary": "USAF UFO investigation program active from 1952 to 1969.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:28.828425+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 0,
+          "quote": "op some truth bombs you won't get anywhere else like in his book  Revelations alien contact and human deception when he hint"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-world-contact-day",
+      "node_type": "organization",
+      "label": "World Contact Day",
+      "summary": "World Contact Day was first declared in March 1953 by an organization called the International Flying Saucer Bureau (IFSB), as a day on which all IFSB members would attempt to send a telepathic message into space. The IFSB voted to hold such a day in 1953, theorising that if both telepathy and alien",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:28.828430+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 0,
+          "quote": "up which was is what we see now you know in politics  every day you know I mean how do you know something is true you don't"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-manhattan-project",
+      "node_type": "organization",
+      "label": "Manhattan Project",
+      "summary": "",
+      "tags": [
+        "government_agency"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:28.828434+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 0,
+          "quote": "aola and I have had is would alpenheimer have been told the Manhattan Project would have custody of it and then it would go into the atom"
+        }
+      ],
+      "type_specific": {
+        "org_type": "government_agency"
+      }
+    },
+    {
+      "id": "organization-us-air-force",
+      "node_type": "organization",
+      "label": "US Air Force",
+      "summary": "US Air Force entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:28.828438+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 0,
+          "quote": "oject going on that was secret okay is that true in the Air Force did oh I didn't know that we also talk about his new book T"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-big-sur-ufo",
+      "node_type": "organization",
+      "label": "Big Sur UFO",
+      "summary": "The Big Sur UFO is a reported UFO incident that took place during a 1964 Air Force deployment to a mountaintop near Big Sur, California. The deployment was a mission was to film Atlas missile tests from Vandenberg Air Force Base. Since 1982, Robert Jacobs, who had overseen the mountaintop team, has ",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:28.828443+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 0,
+          "quote": "# He's Seen More UFO Evidence Than Anyone Alive (Ft. Jacques Vallee) https://www"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-mirage-men",
+      "node_type": "organization",
+      "label": "Mirage Men",
+      "summary": "Mirage Men is a 2013 documentary film directed by John Lundberg, written by Mark Pilkington and co-directed by Roland Denning and Kypros Kyprianou. Mirage Men suggests there was a conspiracy by the U.S. military to fabricate UFO folklore in order to deflect attention from classified military project",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:28.828447+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 0,
+          "quote": "es of interviews with both of the kids who by then were old men in Jacques mind this complete obliviousness on the part of "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-bob-lazar",
+      "node_type": "organization",
+      "label": "Bob Lazar",
+      "summary": "Robert Scott Lazar () is an American who, since 1989, has claimed to have been part of a classified US government project concerned with the reverse engineering of extraterrestrial technology; he also purported to have read government briefing documents that described alien involvement in human affa",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:28.828451+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 0,
+          "quote": "ations alien contact and human deception when he hints that Bob Lazar was actually an MK Ultra patient possibly the subject of go"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-cia",
+      "node_type": "organization",
+      "label": "CIA",
+      "summary": "CIA entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:28.828456+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 0,
+          "quote": "ip of Admiral Roscoe hilenquitter the first director of the CIA to collect all information on off-planet technology and ret"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other",
+        "acronym": "CIA"
+      }
+    },
+    {
+      "id": "location-roswell-new-mexico",
+      "node_type": "location",
+      "label": "Roswell, New Mexico",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:28.828461+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 0,
+          "quote": "es a UFO crash in 1945 next to the Trinity test site in New Mexico just  20 days after the first ever atomic bomb test on Unit"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-rendlesham-forest",
+      "node_type": "location",
+      "label": "Rendlesham Forest",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:28.828465+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 0,
+          "quote": "iousness of the viewer of you go to your job at night for a forest and you suddenly see a disc  and you see somebody there and"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-united-states",
+      "node_type": "location",
+      "label": "United States",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:28.828469+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 0,
+          "quote": "xico just  20 days after the first ever atomic bomb test on United States soil occurred there so without further Ado hit subscribe si"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-germany",
+      "node_type": "location",
+      "label": "Germany",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:28.828473+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 0,
+          "quote": "d he say something like right then he says am I in Italy or Germany witness says you're in alzace you know in France and then t"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-roswell",
+      "node_type": "location",
+      "label": "Roswell",
+      "summary": "",
+      "tags": [
+        "city"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:28.828477+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 0,
+          "quote": " our modern understanding of ufology because we think about Roswell as a sort of basic starting point and in fact the Trinity t"
+        }
+      ],
+      "type_specific": {
+        "location_type": "city",
+        "country": "US",
+        "state_or_region": "New Mexico"
+      }
+    },
+    {
+      "id": "location-france",
+      "node_type": "location",
+      "label": "France",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:28.828481+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 0,
+          "quote": "first computer this was way back with the first computer in France from IBM them where the circuits were called and when somet"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-mexico",
+      "node_type": "location",
+      "label": "Mexico",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:28.828484+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 0,
+          "quote": "es a UFO crash in 1945 next to the Trinity test site in New Mexico just  20 days after the first ever atomic bomb test on Unit"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-italy",
+      "node_type": "location",
+      "label": "Italy",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:28.828488+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 0,
+          "quote": " why would he say something like right then he says am I in Italy or Germany witness says you're in alzace you know in France"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "document-the-day-after-roswell",
+      "node_type": "document",
+      "label": "The Day After Roswell",
+      "summary": "",
+      "tags": [
+        "book"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:28.828493+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 0,
+          "quote": "circles as corroborated by  many colleagues but in his book The Day After Roswell Corso claims a covert government group was assembled under "
+        }
+      ],
+      "type_specific": {
+        "document_type": "book",
+        "author": "Philip Corso"
+      }
+    },
+    {
+      "id": "document-passport-to-magonia",
+      "node_type": "document",
+      "label": "Passport to Magonia",
+      "summary": "",
+      "tags": [
+        "book"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:28.828498+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 0,
+          "quote": "people have always seen aliens I mean you know when I wrote passport to Magonia people said valet has gone off the deep end that's what I w"
+        }
+      ],
+      "type_specific": {
+        "document_type": "book",
+        "author": "Jacques Vallee"
+      }
+    },
+    {
+      "id": "document-above-top-secret",
+      "node_type": "document",
+      "label": "Above Top Secret",
+      "summary": "",
+      "tags": [
+        "book"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:28.828502+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 0,
+          "quote": "y I can't find among the people I know  who have clearances Above Top Secret they've never heard of this yeah they've never heard of thi"
+        }
+      ],
+      "type_specific": {
+        "document_type": "book",
+        "author": "Timothy Good"
+      }
+    },
+    {
+      "id": "claim-fyX8V1XXmQM-discussion-summary",
+      "node_type": "claim",
+      "label": "Video fyX8V1XXmQM features extended discussion of Christopher Mellon, Bob Oppenheimer, Jacques Valle",
+      "summary": "Video fyX8V1XXmQM features extended discussion of Christopher Mellon, Bob Oppenheimer, Jacques Vallee and related UAP research topics, hosted by Jesse Michels.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:28.828513+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 0,
+          "quote": "Episode title: He's Seen More UFO Evidence Than Anyone Alive (Ft. Jacques Vallee)"
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Video fyX8V1XXmQM features extended discussion of Christopher Mellon, Bob Oppenheimer, Jacques Vallee and related UAP research topics, hosted by Jesse Michels.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "fyX8V1XXmQM",
+        "timestamp_start_seconds": 0,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-christopher-mellon",
+          "person-bob-oppenheimer",
+          "person-jacques-vallee",
+          "video-fyX8V1XXmQM"
+        ]
+      }
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge-video-fyX8V1XXmQM-HOSTED_BY-person-jesse-michels",
+      "from_node_id": "video-fyX8V1XXmQM",
+      "to_node_id": "person-jesse-michels",
+      "relationship": "HOSTED_BY",
+      "confidence": 0.99,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 0,
+          "quote": "Jesse hosting"
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-APPEARED_IN-video-fyX8V1XXmQM",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "video-fyX8V1XXmQM",
+      "relationship": "APPEARED_IN",
+      "confidence": 0.99,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 0,
+          "quote": "Host"
+        }
+      ],
+      "properties": {
+        "appearance_type": "host"
+      }
+    },
+    {
+      "id": "edge-video-fyX8V1XXmQM-MENTIONS-person-christopher-mellon",
+      "from_node_id": "video-fyX8V1XXmQM",
+      "to_node_id": "person-christopher-mellon",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 0,
+          "quote": "s that you needed to do to open up that thing in fact Chris Mellon the former deputy assistant secretary of defense for intell"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-fyX8V1XXmQM-MENTIONS-person-bob-oppenheimer",
+      "from_node_id": "video-fyX8V1XXmQM",
+      "to_node_id": "person-bob-oppenheimer",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 0,
+          "quote": "ered just one month after the awesome Atomic test by Robert Oppenheimer Enrico Fermi and their Star  team of physicists a weird obj"
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jacques-vallee-APPEARED_IN-video-fyX8V1XXmQM",
+      "from_node_id": "person-jacques-vallee",
+      "to_node_id": "video-fyX8V1XXmQM",
+      "relationship": "APPEARED_IN",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 0,
+          "quote": "# He's Seen More UFO Evidence Than Anyone Alive (Ft. Jacques Vallee) https://www.youtube.com/watch?v=fyX8V1XXmQM views: 555,945"
+        }
+      ],
+      "properties": {
+        "appearance_type": "guest"
+      }
+    },
+    {
+      "id": "edge-video-fyX8V1XXmQM-DISCUSSES-person-jacques-vallee",
+      "from_node_id": "video-fyX8V1XXmQM",
+      "to_node_id": "person-jacques-vallee",
+      "relationship": "DISCUSSES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 0,
+          "quote": "# He's Seen More UFO Evidence Than Anyone Alive (Ft. Jacques Vallee) https://www.youtube.com/watch?v=fyX8V1XXmQM views: 555,945"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-fyX8V1XXmQM-MENTIONS-person-bill-clinton",
+      "from_node_id": "video-fyX8V1XXmQM",
+      "to_node_id": "person-bill-clinton",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 0,
+          "quote": "puty assistant secretary of defense for intelligence in the Clinton and George W  bush administrations claims he almost met wit"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-fyX8V1XXmQM-MENTIONS-person-love-has-won",
+      "from_node_id": "video-fyX8V1XXmQM",
+      "to_node_id": "person-love-has-won",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 0,
+          "quote": "you read them closely Jacques can drop some truth bombs you won't get anywhere else like in his book  Revelations alien con"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-fyX8V1XXmQM-MENTIONS-person-paul-r-hill",
+      "from_node_id": "video-fyX8V1XXmQM",
+      "to_node_id": "person-paul-r-hill",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 0,
+          "quote": "d of noble mythology of their current time Betty and Barney Hill perhaps one of the most famous abduction cases in the U.S  "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-fyX8V1XXmQM-MENTIONS-person-timothy-good",
+      "from_node_id": "video-fyX8V1XXmQM",
+      "to_node_id": "person-timothy-good",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 0,
+          "quote": "science and physics involved in UFOs we really don't have a good idea of what reality is when Steven Spielberg wanted to dep"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-fyX8V1XXmQM-MENTIONS-person-philip-corso",
+      "from_node_id": "video-fyX8V1XXmQM",
+      "to_node_id": "person-philip-corso",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 0,
+          "quote": " you know you've said you've had private conversations with Philip Corso yes do you think these entities are sort  of airdropping te"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-fyX8V1XXmQM-MENTIONS-person-chan-thomas",
+      "from_node_id": "video-fyX8V1XXmQM",
+      "to_node_id": "person-chan-thomas",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 0,
+          "quote": "g occurring between the director of intelligence J2 Admiral Thomas Wilson and a physicist and propulsion expert named Eric Dav"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-fyX8V1XXmQM-MENTIONS-person-betty-hill",
+      "from_node_id": "video-fyX8V1XXmQM",
+      "to_node_id": "person-betty-hill",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 0,
+          "quote": "d of noble mythology of their current time Betty and Barney Hill perhaps one of the most famous abduction cases in the U.S  "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-fyX8V1XXmQM-MENTIONS-person-kid-cosmic",
+      "from_node_id": "video-fyX8V1XXmQM",
+      "to_node_id": "person-kid-cosmic",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 0,
+          "quote": "ur former self and you're propelled forward in life by some Cosmic wound to find the true primordial self or something is that"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-fyX8V1XXmQM-MENTIONS-person-carl-sagan",
+      "from_node_id": "video-fyX8V1XXmQM",
+      "to_node_id": "person-carl-sagan",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 0,
+          "quote": "ibing this phenomena myself to you this clip from the great Carl Sagan says it all fifth Cube cast that shadow we recognize as two"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-fyX8V1XXmQM-MENTIONS-person-bob-lazar",
+      "from_node_id": "video-fyX8V1XXmQM",
+      "to_node_id": "person-bob-lazar",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 0,
+          "quote": "ations alien contact and human deception when he hints that Bob Lazar was actually an MK Ultra patient possibly the subject of go"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-fyX8V1XXmQM-MENTIONS-organization-identification-studies-of-ufos",
+      "from_node_id": "video-fyX8V1XXmQM",
+      "to_node_id": "organization-identification-studies-of-ufos",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 0,
+          "quote": "wn genuine quest for meaning in life and their inquiry into UFOs is just one part of that a harbinger of the next Paradigm a"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-fyX8V1XXmQM-MENTIONS-organization-the-flying-saucers-are-real",
+      "from_node_id": "video-fyX8V1XXmQM",
+      "to_node_id": "organization-the-flying-saucers-are-real",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 0,
+          "quote": "s the best I could do at the time because I felt they had a real project going on that was secret okay is that true in the A"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-fyX8V1XXmQM-MENTIONS-organization-archives-of-the-impossible",
+      "from_node_id": "video-fyX8V1XXmQM",
+      "to_node_id": "organization-archives-of-the-impossible",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 0,
+          "quote": " was made to drink it violated a lot of what we thought was impossible to violate but perhaps what I  find most interesting about "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-fyX8V1XXmQM-MENTIONS-organization-unidentified-flying-object",
+      "from_node_id": "video-fyX8V1XXmQM",
+      "to_node_id": "organization-unidentified-flying-object",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 0,
+          "quote": "ays after the Japanese concession a metallic avocado shaped object dropped from the sky in San Antonio New Mexico right next t"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-fyX8V1XXmQM-MENTIONS-organization-the-spaceships-of-ezekiel",
+      "from_node_id": "video-fyX8V1XXmQM",
+      "to_node_id": "organization-the-spaceships-of-ezekiel",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 0,
+          "quote": "ersions might have just been alien abductions the wheels of Ezekiel in the Old Testament could have just been UFOs and the even"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-fyX8V1XXmQM-MENTIONS-organization-us-department-of-defense",
+      "from_node_id": "video-fyX8V1XXmQM",
+      "to_node_id": "organization-us-department-of-defense",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 0,
+          "quote": " fact Chris Mellon the former deputy assistant secretary of defense for intelligence in the Clinton and George W  bush administ"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-fyX8V1XXmQM-MENTIONS-organization-roswell-that-ends-well",
+      "from_node_id": "video-fyX8V1XXmQM",
+      "to_node_id": "organization-roswell-that-ends-well",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 0,
+          "quote": "of the Zen coin you know or  the sound of one hand clapping well where is the other head you know so you know it stops your "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-fyX8V1XXmQM-MENTIONS-organization-the-galileo-project",
+      "from_node_id": "video-fyX8V1XXmQM",
+      "to_node_id": "organization-the-galileo-project",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 0,
+          "quote": "he even helped build the earliest version of the internet a project called arpanet with legendary computer scientist Doug ingle"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-fyX8V1XXmQM-MENTIONS-organization-thornton-leigh-page",
+      "from_node_id": "video-fyX8V1XXmQM",
+      "to_node_id": "organization-thornton-leigh-page",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 0,
+          "quote": "led him to believe he worked on reverse engineering UFOs on page 9 the lay writes Robert Lazar also told me of his strange m"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-fyX8V1XXmQM-MENTIONS-organization-christopher-mellon",
+      "from_node_id": "video-fyX8V1XXmQM",
+      "to_node_id": "organization-christopher-mellon",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 0,
+          "quote": "s that you needed to do to open up that thing in fact Chris Mellon the former deputy assistant secretary of defense for intell"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-fyX8V1XXmQM-MENTIONS-organization-project-blue-book",
+      "from_node_id": "video-fyX8V1XXmQM",
+      "to_node_id": "organization-project-blue-book",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 0,
+          "quote": "op some truth bombs you won't get anywhere else like in his book  Revelations alien contact and human deception when he hint"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-fyX8V1XXmQM-MENTIONS-organization-world-contact-day",
+      "from_node_id": "video-fyX8V1XXmQM",
+      "to_node_id": "organization-world-contact-day",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 0,
+          "quote": "up which was is what we see now you know in politics  every day you know I mean how do you know something is true you don't"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-fyX8V1XXmQM-MENTIONS-organization-manhattan-project",
+      "from_node_id": "video-fyX8V1XXmQM",
+      "to_node_id": "organization-manhattan-project",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 0,
+          "quote": "aola and I have had is would alpenheimer have been told the Manhattan Project would have custody of it and then it would go into the atom"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-fyX8V1XXmQM-MENTIONS-organization-us-air-force",
+      "from_node_id": "video-fyX8V1XXmQM",
+      "to_node_id": "organization-us-air-force",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 0,
+          "quote": "oject going on that was secret okay is that true in the Air Force did oh I didn't know that we also talk about his new book T"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-fyX8V1XXmQM-MENTIONS-organization-big-sur-ufo",
+      "from_node_id": "video-fyX8V1XXmQM",
+      "to_node_id": "organization-big-sur-ufo",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 0,
+          "quote": "# He's Seen More UFO Evidence Than Anyone Alive (Ft. Jacques Vallee) https://www"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-fyX8V1XXmQM-MENTIONS-organization-mirage-men",
+      "from_node_id": "video-fyX8V1XXmQM",
+      "to_node_id": "organization-mirage-men",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 0,
+          "quote": "es of interviews with both of the kids who by then were old men in Jacques mind this complete obliviousness on the part of "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-fyX8V1XXmQM-MENTIONS-organization-bob-lazar",
+      "from_node_id": "video-fyX8V1XXmQM",
+      "to_node_id": "organization-bob-lazar",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 0,
+          "quote": "ations alien contact and human deception when he hints that Bob Lazar was actually an MK Ultra patient possibly the subject of go"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-fyX8V1XXmQM-MENTIONS-organization-cia",
+      "from_node_id": "video-fyX8V1XXmQM",
+      "to_node_id": "organization-cia",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 0,
+          "quote": "ip of Admiral Roscoe hilenquitter the first director of the CIA to collect all information on off-planet technology and ret"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-fyX8V1XXmQM-MENTIONS-location-roswell-new-mexico",
+      "from_node_id": "video-fyX8V1XXmQM",
+      "to_node_id": "location-roswell-new-mexico",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 0,
+          "quote": "es a UFO crash in 1945 next to the Trinity test site in New Mexico just  20 days after the first ever atomic bomb test on Unit"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-fyX8V1XXmQM-MENTIONS-location-rendlesham-forest",
+      "from_node_id": "video-fyX8V1XXmQM",
+      "to_node_id": "location-rendlesham-forest",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 0,
+          "quote": "iousness of the viewer of you go to your job at night for a forest and you suddenly see a disc  and you see somebody there and"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-fyX8V1XXmQM-MENTIONS-location-united-states",
+      "from_node_id": "video-fyX8V1XXmQM",
+      "to_node_id": "location-united-states",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 0,
+          "quote": "xico just  20 days after the first ever atomic bomb test on United States soil occurred there so without further Ado hit subscribe si"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-fyX8V1XXmQM-MENTIONS-location-germany",
+      "from_node_id": "video-fyX8V1XXmQM",
+      "to_node_id": "location-germany",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 0,
+          "quote": "d he say something like right then he says am I in Italy or Germany witness says you're in alzace you know in France and then t"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-fyX8V1XXmQM-MENTIONS-location-roswell",
+      "from_node_id": "video-fyX8V1XXmQM",
+      "to_node_id": "location-roswell",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 0,
+          "quote": " our modern understanding of ufology because we think about Roswell as a sort of basic starting point and in fact the Trinity t"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-fyX8V1XXmQM-MENTIONS-location-france",
+      "from_node_id": "video-fyX8V1XXmQM",
+      "to_node_id": "location-france",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 0,
+          "quote": "first computer this was way back with the first computer in France from IBM them where the circuits were called and when somet"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-fyX8V1XXmQM-MENTIONS-location-mexico",
+      "from_node_id": "video-fyX8V1XXmQM",
+      "to_node_id": "location-mexico",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 0,
+          "quote": "es a UFO crash in 1945 next to the Trinity test site in New Mexico just  20 days after the first ever atomic bomb test on Unit"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-fyX8V1XXmQM-MENTIONS-location-italy",
+      "from_node_id": "video-fyX8V1XXmQM",
+      "to_node_id": "location-italy",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 0,
+          "quote": " why would he say something like right then he says am I in Italy or Germany witness says you're in alzace you know in France"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-fyX8V1XXmQM-CITES-document-the-day-after-roswell",
+      "from_node_id": "video-fyX8V1XXmQM",
+      "to_node_id": "document-the-day-after-roswell",
+      "relationship": "CITES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 0,
+          "quote": "circles as corroborated by  many colleagues but in his book The Day After Roswell Corso claims a covert government group was assembled under "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-fyX8V1XXmQM-CITES-document-passport-to-magonia",
+      "from_node_id": "video-fyX8V1XXmQM",
+      "to_node_id": "document-passport-to-magonia",
+      "relationship": "CITES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 0,
+          "quote": "people have always seen aliens I mean you know when I wrote passport to Magonia people said valet has gone off the deep end that's what I w"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-fyX8V1XXmQM-CITES-document-above-top-secret",
+      "from_node_id": "video-fyX8V1XXmQM",
+      "to_node_id": "document-above-top-secret",
+      "relationship": "CITES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 0,
+          "quote": "y I can't find among the people I know  who have clearances Above Top Secret they've never heard of this yeah they've never heard of thi"
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-fyX8V1XXmQM-discussion-summary",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-fyX8V1XXmQM-discussion-summary",
+      "relationship": "ASSERTED",
+      "confidence": 0.9,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 0,
+          "quote": "Episode: He's Seen More UFO Evidence Than Anyone Alive (Ft. Jacques Vallee)"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-fyX8V1XXmQM-REFERENCES-claim-fyX8V1XXmQM-discussion-summary",
+      "from_node_id": "video-fyX8V1XXmQM",
+      "to_node_id": "claim-fyX8V1XXmQM-discussion-summary",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 0
+        }
+      ]
+    }
+  ],
+  "extracted_at": "2026-04-17T11:04:28.828562+00:00",
+  "extractor_version": "v1-inline-claude"
+}

@@ -1,0 +1,697 @@
+{
+  "video_id": "qAou_h1POWs",
+  "nodes": [
+    {
+      "id": "video-qAou_h1POWs",
+      "node_type": "video",
+      "label": "The 26 Year Old Prodigy Reverse Engineering UFOs (Ft. Deep Prasad)",
+      "summary": "Meet Deep Prasad. Deep is a 26 year old self taught prodigy working on quantum computing and with a deep interest in UFO’s. In this video we discuss how he combines those interests by attempting...",
+      "tags": [
+        "video",
+        "american-alchemy"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.020101+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "qAou_h1POWs",
+          "timestamp_start": 0,
+          "timestamp_end": 1830.0,
+          "quote": "Video: The 26 Year Old Prodigy Reverse Engineering UFOs (Ft. Deep Prasad)"
+        }
+      ],
+      "type_specific": {
+        "video_id": "qAou_h1POWs",
+        "title": "The 26 Year Old Prodigy Reverse Engineering UFOs (Ft. Deep Prasad)",
+        "url": "https://www.youtube.com/watch?v=qAou_h1POWs",
+        "view_count": 1239403,
+        "duration_seconds": 1830.0,
+        "host_id": "person-jesse-michels"
+      }
+    },
+    {
+      "id": "person-jesse-michels",
+      "node_type": "person",
+      "label": "Jesse Michels",
+      "summary": "Host of American Alchemy podcast/show. Independent journalist and UFO/NHI researcher.",
+      "tags": [
+        "journalist",
+        "interviewer",
+        "researcher",
+        "host"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.020111+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "qAou_h1POWs",
+          "timestamp_start": 0,
+          "quote": "Host of American Alchemy podcast/show."
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Jesse",
+          "Michels"
+        ],
+        "profession": "journalist",
+        "notability_tags": [
+          "journalist",
+          "interviewer",
+          "researcher",
+          "host"
+        ]
+      }
+    },
+    {
+      "id": "person-eric-weinstein",
+      "node_type": "person",
+      "label": "Eric Weinstein",
+      "summary": "",
+      "tags": [
+        "mathematician",
+        "physicist"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.192386+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "qAou_h1POWs",
+          "timestamp_start": 0,
+          "quote": "ignatures all of these  are properties that as my colleague eric weinstein loves to say exhibit wholly new physics not just new engine"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Weinstein"
+        ],
+        "notability_tags": [
+          "mathematician",
+          "physicist"
+        ]
+      }
+    },
+    {
+      "id": "person-timothy-good",
+      "node_type": "person",
+      "label": "Timothy Good",
+      "summary": "",
+      "tags": [
+        "researcher",
+        "author"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.192410+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "qAou_h1POWs",
+          "timestamp_start": 0,
+          "quote": "ght science as well because we know now at least no we have good indications that the universe is indeed not static as in if"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Tim Good",
+          "Good"
+        ],
+        "notability_tags": [
+          "researcher",
+          "author"
+        ]
+      }
+    },
+    {
+      "id": "organization-the-report-on-unidentified-flying-objects",
+      "node_type": "organization",
+      "label": "The Report on Unidentified Flying Objects",
+      "summary": "The Report on Unidentified Flying Objects is a 1956 book by then-retired Air Force UFO investigator Edward J. Ruppelt, detailing his experience running Project Blue Book. The book was noted for its suggestion that a few UFO sightings might be linked to spikes of atomic radiation. Contemporary media ",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.192416+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "qAou_h1POWs",
+          "timestamp_start": 0,
+          "quote": "elieves that ufos could simply be large macroscopic quantum objects what's to say that what we're observing now today with uaps"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-identification-studies-of-ufos",
+      "node_type": "organization",
+      "label": "Identification studies of UFOs",
+      "summary": "Identifying unidentified flying objects (UFOs) is a difficult task due to the normally poor quality of the evidence provided by those who report sighting the unknown object. Observations and subsequent reporting are often made by those untrained in astronomy, atmospheric phenomena, aeronautics, phys",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.192421+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "qAou_h1POWs",
+          "timestamp_start": 0,
+          "quote": "# The 26 Year Old Prodigy Reverse Engineering UFOs (Ft. Deep Prasad) https://www.youtube.com/watch?v=qAou_h1PO"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-the-flying-saucers-are-real",
+      "node_type": "organization",
+      "label": "The Flying Saucers Are Real",
+      "summary": "The Flying Saucers Are Real, by Donald Keyhoe, is a book that investigated reports of UFOs by United States Air Force fighters, personnel, and other aircraft, between 1947 and 1950.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.192426+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "qAou_h1POWs",
+          "timestamp_start": 0,
+          "quote": "he bible with aliens and you're like okay that was probably real right and like a lot of that stuff might  be happening now "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-archives-of-the-impossible",
+      "node_type": "organization",
+      "label": "Archives of the Impossible",
+      "summary": "The Archives of the Impossible (AOTI), sometimes called the Center for the Impossible, is a special collection at Rice University in Houston, Texas, United States. Founded in 2014 by Jeffrey J. Kripal, AOTI is based at the Woodson Research Center in the Fondren Library. It stewards collections on UF",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.192430+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "qAou_h1POWs",
+          "timestamp_start": 0,
+          "quote": "ew everybody's mind because this was supposed to be thought impossible and 40 years later we finally understood why this was even "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-unidentified-flying-object",
+      "node_type": "organization",
+      "label": "Unidentified flying object",
+      "summary": "An unidentified flying object (UFO) is an object or phenomenon seen in the sky but not yet identified or explained. The term was coined when United States Air Force (USAF) investigations into flying saucers found too broad a range of shapes reported to consider them all saucers or discs. UFOs are al",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.192434+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "qAou_h1POWs",
+          "timestamp_start": 0,
+          "quote": "mpressed and that's the sonic boom that you hear so when an object can travel at greater than five times the  speed of sound l"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-roswell-that-ends-well",
+      "node_type": "organization",
+      "label": "Roswell That Ends Well",
+      "summary": "\"Roswell That Ends Well\" is the nineteenth episode in the third season of the American animated television series Futurama, and the 51st episode of the series overall. It originally aired on the Fox network in the United States on December 9, 2001. The plot centers on an accidental time travel event",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.192439+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "qAou_h1POWs",
+          "timestamp_start": 0,
+          "quote": "verse engineer materials that you don't even have access to well luckily the pentagon has hundreds of instances of optical r"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-world-contact-day",
+      "node_type": "organization",
+      "label": "World Contact Day",
+      "summary": "World Contact Day was first declared in March 1953 by an organization called the International Flying Saucer Bureau (IFSB), as a day on which all IFSB members would attempt to send a telepathic message into space. The IFSB voted to hold such a day in 1953, theorising that if both telepathy and alien",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.192443+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "qAou_h1POWs",
+          "timestamp_start": 0,
+          "quote": " east right there and then you can see the beach during the day all the way away yeah it's beautiful i think your blog is f"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-us-air-force",
+      "node_type": "organization",
+      "label": "US Air Force",
+      "summary": "US Air Force entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.192447+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "qAou_h1POWs",
+          "timestamp_start": 0,
+          "quote": "w disturbing would that be so i think that event alone will force society the apocalypse exactly or like force us to work tog"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-big-sur-ufo",
+      "node_type": "organization",
+      "label": "Big Sur UFO",
+      "summary": "The Big Sur UFO is a reported UFO incident that took place during a 1964 Air Force deployment to a mountaintop near Big Sur, California. The deployment was a mission was to film Atlas missile tests from Vandenberg Air Force Base. Since 1982, Robert Jacobs, who had overseen the mountaintop team, has ",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.192451+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "qAou_h1POWs",
+          "timestamp_start": 0,
+          "quote": "ve observable properties that are very consistent among the ufo sightings these are things like sudden and instantaneous ac"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-dod",
+      "node_type": "organization",
+      "label": "DoD",
+      "summary": "",
+      "tags": [
+        "government_agency"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.192456+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "qAou_h1POWs",
+          "timestamp_start": 0,
+          "quote": " and infrared detections of ufos and from those records the dod has laid out five observable properties that are very consi"
+        }
+      ],
+      "type_specific": {
+        "org_type": "government_agency",
+        "full_name": "Department of Defense"
+      }
+    },
+    {
+      "id": "location-united-states",
+      "node_type": "location",
+      "label": "United States",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.192461+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "qAou_h1POWs",
+          "timestamp_start": 0,
+          "quote": "lt quantum hardware which relies on maintaining two or more states in quantum superposition will decohere if they're interfere"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "claim-qAou_h1POWs-discussion-summary",
+      "node_type": "claim",
+      "label": "Video qAou_h1POWs features extended discussion of Eric Weinstein, Timothy Good and related UAP resea",
+      "summary": "Video qAou_h1POWs features extended discussion of Eric Weinstein, Timothy Good and related UAP research topics, hosted by Jesse Michels.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.192469+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "qAou_h1POWs",
+          "timestamp_start": 0,
+          "quote": "Episode title: The 26 Year Old Prodigy Reverse Engineering UFOs (Ft. Deep Prasad)"
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Video qAou_h1POWs features extended discussion of Eric Weinstein, Timothy Good and related UAP research topics, hosted by Jesse Michels.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "qAou_h1POWs",
+        "timestamp_start_seconds": 0,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-eric-weinstein",
+          "person-timothy-good",
+          "video-qAou_h1POWs"
+        ]
+      }
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge-video-qAou_h1POWs-HOSTED_BY-person-jesse-michels",
+      "from_node_id": "video-qAou_h1POWs",
+      "to_node_id": "person-jesse-michels",
+      "relationship": "HOSTED_BY",
+      "confidence": 0.99,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "qAou_h1POWs",
+          "timestamp_start": 0,
+          "quote": "Jesse hosting"
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-APPEARED_IN-video-qAou_h1POWs",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "video-qAou_h1POWs",
+      "relationship": "APPEARED_IN",
+      "confidence": 0.99,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "qAou_h1POWs",
+          "timestamp_start": 0,
+          "quote": "Host"
+        }
+      ],
+      "properties": {
+        "appearance_type": "host"
+      }
+    },
+    {
+      "id": "edge-video-qAou_h1POWs-MENTIONS-person-eric-weinstein",
+      "from_node_id": "video-qAou_h1POWs",
+      "to_node_id": "person-eric-weinstein",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "qAou_h1POWs",
+          "timestamp_start": 0,
+          "quote": "ignatures all of these  are properties that as my colleague eric weinstein loves to say exhibit wholly new physics not just new engine"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-qAou_h1POWs-MENTIONS-person-timothy-good",
+      "from_node_id": "video-qAou_h1POWs",
+      "to_node_id": "person-timothy-good",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "qAou_h1POWs",
+          "timestamp_start": 0,
+          "quote": "ght science as well because we know now at least no we have good indications that the universe is indeed not static as in if"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-qAou_h1POWs-MENTIONS-organization-the-report-on-unidentified-flying-objects",
+      "from_node_id": "video-qAou_h1POWs",
+      "to_node_id": "organization-the-report-on-unidentified-flying-objects",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "qAou_h1POWs",
+          "timestamp_start": 0,
+          "quote": "elieves that ufos could simply be large macroscopic quantum objects what's to say that what we're observing now today with uaps"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-qAou_h1POWs-MENTIONS-organization-identification-studies-of-ufos",
+      "from_node_id": "video-qAou_h1POWs",
+      "to_node_id": "organization-identification-studies-of-ufos",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "qAou_h1POWs",
+          "timestamp_start": 0,
+          "quote": "# The 26 Year Old Prodigy Reverse Engineering UFOs (Ft. Deep Prasad) https://www.youtube.com/watch?v=qAou_h1PO"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-qAou_h1POWs-MENTIONS-organization-the-flying-saucers-are-real",
+      "from_node_id": "video-qAou_h1POWs",
+      "to_node_id": "organization-the-flying-saucers-are-real",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "qAou_h1POWs",
+          "timestamp_start": 0,
+          "quote": "he bible with aliens and you're like okay that was probably real right and like a lot of that stuff might  be happening now "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-qAou_h1POWs-MENTIONS-organization-archives-of-the-impossible",
+      "from_node_id": "video-qAou_h1POWs",
+      "to_node_id": "organization-archives-of-the-impossible",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "qAou_h1POWs",
+          "timestamp_start": 0,
+          "quote": "ew everybody's mind because this was supposed to be thought impossible and 40 years later we finally understood why this was even "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-qAou_h1POWs-MENTIONS-organization-unidentified-flying-object",
+      "from_node_id": "video-qAou_h1POWs",
+      "to_node_id": "organization-unidentified-flying-object",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "qAou_h1POWs",
+          "timestamp_start": 0,
+          "quote": "mpressed and that's the sonic boom that you hear so when an object can travel at greater than five times the  speed of sound l"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-qAou_h1POWs-MENTIONS-organization-roswell-that-ends-well",
+      "from_node_id": "video-qAou_h1POWs",
+      "to_node_id": "organization-roswell-that-ends-well",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "qAou_h1POWs",
+          "timestamp_start": 0,
+          "quote": "verse engineer materials that you don't even have access to well luckily the pentagon has hundreds of instances of optical r"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-qAou_h1POWs-MENTIONS-organization-world-contact-day",
+      "from_node_id": "video-qAou_h1POWs",
+      "to_node_id": "organization-world-contact-day",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "qAou_h1POWs",
+          "timestamp_start": 0,
+          "quote": " east right there and then you can see the beach during the day all the way away yeah it's beautiful i think your blog is f"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-qAou_h1POWs-MENTIONS-organization-us-air-force",
+      "from_node_id": "video-qAou_h1POWs",
+      "to_node_id": "organization-us-air-force",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "qAou_h1POWs",
+          "timestamp_start": 0,
+          "quote": "w disturbing would that be so i think that event alone will force society the apocalypse exactly or like force us to work tog"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-qAou_h1POWs-MENTIONS-organization-big-sur-ufo",
+      "from_node_id": "video-qAou_h1POWs",
+      "to_node_id": "organization-big-sur-ufo",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "qAou_h1POWs",
+          "timestamp_start": 0,
+          "quote": "ve observable properties that are very consistent among the ufo sightings these are things like sudden and instantaneous ac"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-qAou_h1POWs-MENTIONS-organization-dod",
+      "from_node_id": "video-qAou_h1POWs",
+      "to_node_id": "organization-dod",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "qAou_h1POWs",
+          "timestamp_start": 0,
+          "quote": " and infrared detections of ufos and from those records the dod has laid out five observable properties that are very consi"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-qAou_h1POWs-MENTIONS-location-united-states",
+      "from_node_id": "video-qAou_h1POWs",
+      "to_node_id": "location-united-states",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "qAou_h1POWs",
+          "timestamp_start": 0,
+          "quote": "lt quantum hardware which relies on maintaining two or more states in quantum superposition will decohere if they're interfere"
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-qAou_h1POWs-discussion-summary",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-qAou_h1POWs-discussion-summary",
+      "relationship": "ASSERTED",
+      "confidence": 0.9,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "qAou_h1POWs",
+          "timestamp_start": 0,
+          "quote": "Episode: The 26 Year Old Prodigy Reverse Engineering UFOs (Ft. Deep Prasad)"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-qAou_h1POWs-REFERENCES-claim-qAou_h1POWs-discussion-summary",
+      "from_node_id": "video-qAou_h1POWs",
+      "to_node_id": "claim-qAou_h1POWs-discussion-summary",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "qAou_h1POWs",
+          "timestamp_start": 0
+        }
+      ]
+    }
+  ],
+  "extracted_at": "2026-04-17T11:04:10.192489+00:00",
+  "extractor_version": "v1-inline-claude"
+}

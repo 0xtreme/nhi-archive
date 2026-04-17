@@ -1,0 +1,1463 @@
+{
+  "video_id": "6WC4o2yY9Ws",
+  "nodes": [
+    {
+      "id": "video-6WC4o2yY9Ws",
+      "node_type": "video",
+      "label": "US Fighter Pilots Witness UFO (ft. Ryan Graves)",
+      "summary": "In today's episode of American Alchemy, Jesse Michels sits down with Ryan Graves, a former F-18 pilot, to discusses Unidentified Aerial Phenomena (UAP). Graves shares his eyewitness accounts...",
+      "tags": [
+        "video",
+        "american-alchemy"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:07.487891+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "6WC4o2yY9Ws",
+          "timestamp_start": 0,
+          "timestamp_end": 4526.0,
+          "quote": "Video: US Fighter Pilots Witness UFO (ft. Ryan Graves)"
+        }
+      ],
+      "type_specific": {
+        "video_id": "6WC4o2yY9Ws",
+        "title": "US Fighter Pilots Witness UFO (ft. Ryan Graves)",
+        "url": "https://www.youtube.com/watch?v=6WC4o2yY9Ws",
+        "view_count": 126886,
+        "duration_seconds": 4526.0,
+        "host_id": "person-jesse-michels",
+        "guest_ids": [
+          "person-ryan-graves"
+        ]
+      }
+    },
+    {
+      "id": "person-jesse-michels",
+      "node_type": "person",
+      "label": "Jesse Michels",
+      "summary": "Host of American Alchemy podcast/show. Independent journalist and UFO/NHI researcher.",
+      "tags": [
+        "journalist",
+        "interviewer",
+        "researcher",
+        "host"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:07.487903+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "6WC4o2yY9Ws",
+          "timestamp_start": 0,
+          "quote": "Host of American Alchemy podcast/show."
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Jesse",
+          "Michels"
+        ],
+        "profession": "journalist",
+        "notability_tags": [
+          "journalist",
+          "interviewer",
+          "researcher",
+          "host"
+        ]
+      }
+    },
+    {
+      "id": "person-bob-oppenheimer",
+      "node_type": "person",
+      "label": "Bob Oppenheimer",
+      "summary": "",
+      "tags": [
+        "physicist",
+        "Manhattan Project"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:07.966796+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "6WC4o2yY9Ws",
+          "timestamp_start": 0,
+          "quote": " mentions as having set up UFO secrecy along with Robert J. Oppenheimer at, you know, the Atomic Energy Commission of 1954. And Sar"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "J. Robert Oppenheimer",
+          "Oppenheimer"
+        ],
+        "notability_tags": [
+          "physicist",
+          "Manhattan Project"
+        ]
+      }
+    },
+    {
+      "id": "person-james-mcdonald",
+      "node_type": "person",
+      "label": "James McDonald",
+      "summary": "",
+      "tags": [
+        "physicist",
+        "researcher"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:07.966821+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "6WC4o2yY9Ws",
+          "timestamp_start": 0,
+          "quote": "ke actually take it in as a learning experience. M you know James McDonald of Macdonald Douglas, you know, famous American Aerospace C"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Dr. McDonald",
+          "McDonald"
+        ],
+        "notability_tags": [
+          "physicist",
+          "researcher"
+        ]
+      }
+    },
+    {
+      "id": "person-bill-clinton",
+      "node_type": "person",
+      "label": "Bill Clinton",
+      "summary": "Bill Clinton entity extracted from cross-source archival records.",
+      "tags": [
+        "pipeline-generated",
+        "entity-extracted"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:07.966826+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "6WC4o2yY9Ws",
+          "timestamp_start": 0,
+          "quote": " it last night, John Podesta, who's you know, you could say Clinton's chief political operative, you know, was the White House "
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "BILL CLINTON",
+          "Clinton",
+          "bill clinton"
+        ],
+        "notability_tags": [
+          "pipeline-generated",
+          "entity-extracted"
+        ]
+      }
+    },
+    {
+      "id": "person-timothy-good",
+      "node_type": "person",
+      "label": "Timothy Good",
+      "summary": "",
+      "tags": [
+        "researcher",
+        "author"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:07.966831+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "6WC4o2yY9Ws",
+          "timestamp_start": 0,
+          "quote": "ses were there to the actual physical object? God, that's a good question. There was probably I mean I would say probably le"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Tim Good",
+          "Good"
+        ],
+        "notability_tags": [
+          "researcher",
+          "author"
+        ]
+      }
+    },
+    {
+      "id": "person-chan-thomas",
+      "node_type": "person",
+      "label": "Chan Thomas",
+      "summary": "Chan Thomas (1920–1998) was an American engineer, ufologist, writer on ancient cataclysms, and self-proclaimed polymath whose ideas have influenced conspiracy theorists in the 21st century.",
+      "tags": [
+        "wikipedia",
+        "20th-century american engineers",
+        "mcdonnell douglas people",
+        "ufologists",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:07.966836+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "6WC4o2yY9Ws",
+          "timestamp_start": 0,
+          "quote": "did this show on this, you know, mid-century inventor named Thomas  Townsen Brown who I'm fascinated with because I think mayb"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "CHAN THOMAS",
+          "Thomas",
+          "chan thomas"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "20th-century american engineers",
+          "mcdonnell douglas people",
+          "ufologists",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "person-ryan-graves",
+      "node_type": "person",
+      "label": "Ryan Graves",
+      "summary": "",
+      "tags": [
+        "witness",
+        "pilot",
+        "US Navy"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:07.966840+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "6WC4o2yY9Ws",
+          "timestamp_start": 0,
+          "quote": "# US Fighter Pilots Witness UFO (ft. Ryan Graves) https://www.youtube.com/watch?v=6WC4o2yY9Ws views: 126,886"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Graves"
+        ],
+        "notability_tags": [
+          "witness",
+          "pilot",
+          "US Navy"
+        ]
+      }
+    },
+    {
+      "id": "person-harry-reid",
+      "node_type": "person",
+      "label": "Harry Reid",
+      "summary": "Harry Reid entity extracted from cross-source archival records.",
+      "tags": [
+        "pipeline-generated",
+        "entity-extracted"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:07.966846+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "6WC4o2yY9Ws",
+          "timestamp_start": 0,
+          "quote": "s a senator from Alaska, who actually helped start OAP with Harry Reid, right? actually saw a UFO, I think, in World War II as wel"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "HARRY REID",
+          "Reid",
+          "harry reid"
+        ],
+        "notability_tags": [
+          "pipeline-generated",
+          "entity-extracted"
+        ]
+      }
+    },
+    {
+      "id": "person-art-bell",
+      "node_type": "person",
+      "label": "Art Bell",
+      "summary": "Arthur William Bell III (June 17, 1945 – April 13, 2018) was an American broadcaster and author. He was the founder and the original host of the paranormal-themed radio program Coast to Coast AM, which is syndicated on hundreds of radio stations in the United States and Canada. He also created and h",
+      "tags": [
+        "wikipedia",
+        "20th-century american businesspeople",
+        "accidental deaths in nevada",
+        "amateur radio people",
+        "american non-fiction environmental writers",
+        "american radio djs",
+        "american radio executives",
+        "american talk radio hosts",
+        "businesspeople from monterey, california",
+        "businesspeople from nevada",
+        "coast to coast am",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:07.966851+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "6WC4o2yY9Ws",
+          "timestamp_start": 0,
+          "quote": " this last night. There's a part of me that thinks like the Bell Labs model of like quasi public private funding just needs "
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "ART BELL",
+          "Bell",
+          "art bell"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "20th-century american businesspeople",
+          "accidental deaths in nevada",
+          "amateur radio people",
+          "american non-fiction environmental writers",
+          "american radio djs",
+          "american radio executives",
+          "american talk radio hosts",
+          "businesspeople from monterey, california",
+          "businesspeople from nevada",
+          "coast to coast am",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "organization-the-report-on-unidentified-flying-objects",
+      "node_type": "organization",
+      "label": "The Report on Unidentified Flying Objects",
+      "summary": "The Report on Unidentified Flying Objects is a 1956 book by then-retired Air Force UFO investigator Edward J. Ruppelt, detailing his experience running Project Blue Book. The book was noted for its suggestion that a few UFO sightings might be linked to spikes of atomic radiation. Contemporary media ",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:07.966857+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "6WC4o2yY9Ws",
+          "timestamp_start": 0,
+          "quote": "y. They were solid. They were consistent. And some of these objects were even going over the speed of sound. As soon as they cr"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-1952-washington-d-c-ufo-incident",
+      "node_type": "organization",
+      "label": "1952 Washington, D.C. UFO incident",
+      "summary": "From July 12 to 29, 1952, a series of unidentified flying object (UFO) sightings were reported in Washington, D.C., and later became known as the Washington flap, the Washington National Airport Sightings, or the Invasion of Washington. The most publicized sightings took place on consecutive weekend",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:07.966863+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "6WC4o2yY9Ws",
+          "timestamp_start": 0,
+          "quote": "ings., that's when you have a much higher risk of having an incident., when you're, you work as hard as you can, you're doing, y"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-identification-studies-of-ufos",
+      "node_type": "organization",
+      "label": "Identification studies of UFOs",
+      "summary": "Identifying unidentified flying objects (UFOs) is a difficult task due to the normally poor quality of the evidence provided by those who report sighting the unknown object. Observations and subsequent reporting are often made by those untrained in astronomy, atmospheric phenomena, aeronautics, phys",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:07.966868+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "6WC4o2yY9Ws",
+          "timestamp_start": 0,
+          "quote": " Do you think that the US government is reverse engineering UFOs? Flow state is a popular word in, you know, pop psychology,"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-lakenheath-bentwaters-incident",
+      "node_type": "organization",
+      "label": "Lakenheath-Bentwaters incident",
+      "summary": "The Lakenheath-Bentwaters Incident was a series of radar and visual contacts with unidentified flying objects over airbases in eastern England on the night of 13–14 August 1956, involving personnel from the Royal Air Force (RAF) and the United States Air Force (USAF). The incident has since gained s",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:07.966872+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "6WC4o2yY9Ws",
+          "timestamp_start": 0,
+          "quote": "ings., that's when you have a much higher risk of having an incident., when you're, you work as hard as you can, you're doing, y"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-flying-saucer-working-party",
+      "node_type": "organization",
+      "label": "Flying Saucer Working Party",
+      "summary": "Flying Saucer Working Party (or FSWP) was the name of the United Kingdom Ministry of Defence’s (MOD) first \"official study into UFOs\", which has its roots in a study commissioned in 1950 by the MOD’s then Chief Scientific Adviser, the eminent radar scientist Sir Henry Tizard. As a result of his insi",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:07.966877+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "6WC4o2yY9Ws",
+          "timestamp_start": 0,
+          "quote": "at as well, but this particular gentleman was in my wedding party. We went through training in Virginia when we first got the"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-the-flying-saucers-are-real",
+      "node_type": "organization",
+      "label": "The Flying Saucers Are Real",
+      "summary": "The Flying Saucers Are Real, by Donald Keyhoe, is a book that investigated reports of UFOs by United States Air Force fighters, personnel, and other aircraft, between 1947 and 1950.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:07.966881+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "6WC4o2yY9Ws",
+          "timestamp_start": 0,
+          "quote": "n not how we operate. You're just wasting  fuel. There's no real reason to do that. And this is you and roughly how many oth"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-archives-of-the-impossible",
+      "node_type": "organization",
+      "label": "Archives of the Impossible",
+      "summary": "The Archives of the Impossible (AOTI), sometimes called the Center for the Impossible, is a special collection at Rice University in Houston, Texas, United States. Founded in 2014 by Jeffrey J. Kripal, AOTI is based at the Woodson Research Center in the Fondren Library. It stewards collections on UF",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:07.966886+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "6WC4o2yY9Ws",
+          "timestamp_start": 0,
+          "quote": "tever and then you stop on a dime and it's like that's just impossible like with a you know a gas propulsion fighter jet and so an"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-unidentified-flying-object",
+      "node_type": "organization",
+      "label": "Unidentified flying object",
+      "summary": "An unidentified flying object (UFO) is an object or phenomenon seen in the sky but not yet identified or explained. The term was coined when United States Air Force (USAF) investigations into flying saucers found too broad a range of shapes reported to consider them all saucers or discs. UFOs are al",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:07.966891+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "6WC4o2yY9Ws",
+          "timestamp_start": 0,
+          "quote": "eed of sound. As soon as they crossed that threshold, boom, object shoots down, came within about 50 feet of the cockpit. And "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-lonnie-zamora-incident",
+      "node_type": "organization",
+      "label": "Lonnie Zamora incident",
+      "summary": "The Lonnie Zamora incident was an alleged UFO sighting that occurred on April 24, 1964 near Socorro, New Mexico when Socorro police officer Lonnie Zamora claimed he saw two people beside a shiny object that later rose into the air accompanied by a roaring blue and orange flame. Zamora's claims were ",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:07.966896+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "6WC4o2yY9Ws",
+          "timestamp_start": 0,
+          "quote": "ings., that's when you have a much higher risk of having an incident., when you're, you work as hard as you can, you're doing, y"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-roswell-that-ends-well",
+      "node_type": "organization",
+      "label": "Roswell That Ends Well",
+      "summary": "\"Roswell That Ends Well\" is the nineteenth episode in the third season of the American animated television series Futurama, and the 51st episode of the series overall. It originally aired on the Fox network in the United States on December 9, 2001. The plot centers on an accidental time travel event",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:07.966900+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "6WC4o2yY9Ws",
+          "timestamp_start": 0,
+          "quote": "honestly, it really even starts before we get in, you know, well, we have a brief that we have to prepare and you know, you'"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-the-galileo-project",
+      "node_type": "organization",
+      "label": "The Galileo Project",
+      "summary": "The Galileo Project is an international scientific research project to search for extraterrestrial intelligence or extraterrestrial technology on and near Earth and to identify the nature of anomalous Unidentified Flying Objects/Unidentified Aerial Phenomena (UFOs/UAP). It was launched in 2021 by Ha",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:07.966904+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "6WC4o2yY9Ws",
+          "timestamp_start": 0,
+          "quote": "six year timeline without having to be a 10 or 15 year type project. I think they could be broken down and I think really the k"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-project-blue-book",
+      "node_type": "organization",
+      "label": "Project Blue Book",
+      "summary": "USAF UFO investigation program active from 1952 to 1969.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:07.966909+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "6WC4o2yY9Ws",
+          "timestamp_start": 0,
+          "quote": "hing probably goes away at some point. Like there's a great book called The Art of Learning by a guy named Josh Weightskin. "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-world-contact-day",
+      "node_type": "organization",
+      "label": "World Contact Day",
+      "summary": "World Contact Day was first declared in March 1953 by an organization called the International Flying Saucer Bureau (IFSB), as a day on which all IFSB members would attempt to send a telepathic message into space. The IFSB voted to hold such a day in 1953, theorising that if both telepathy and alien",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:07.966913+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "6WC4o2yY9Ws",
+          "timestamp_start": 0,
+          "quote": "to 15 ft in diameter. Oh, by the way, they're out there all day. Do you believe that? Do you think that the US government i"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-scp-foundation",
+      "node_type": "organization",
+      "label": "SCP Foundation",
+      "summary": "The SCP Foundation is a fictional organization featured in stories created by contributors on the SCP Wiki, a wiki-based collaborative writing project, launched in 2008. Within the project's shared universe, the SCP (Special Containment Procedures) Foundation is a secret organization that is respons",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:07.966917+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "6WC4o2yY9Ws",
+          "timestamp_start": 0,
+          "quote": " to this pub that is dedicated to the grav gravity research foundation I believe you know this work of Roger Babson they're doing "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-us-air-force",
+      "node_type": "organization",
+      "label": "US Air Force",
+      "summary": "US Air Force entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:07.966922+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "6WC4o2yY9Ws",
+          "timestamp_start": 0,
+          "quote": "o move the jet to the right, I have to take both hands  and force the stick to the right. And if I tap it lightly to the left"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-big-sur-ufo",
+      "node_type": "organization",
+      "label": "Big Sur UFO",
+      "summary": "The Big Sur UFO is a reported UFO incident that took place during a 1964 Air Force deployment to a mountaintop near Big Sur, California. The deployment was a mission was to film Atlas missile tests from Vandenberg Air Force Base. Since 1982, Robert Jacobs, who had overseen the mountaintop team, has ",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:07.966926+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "6WC4o2yY9Ws",
+          "timestamp_start": 0,
+          "quote": "# US Fighter Pilots Witness UFO (ft. Ryan Graves) https://www.youtube.com/watch?v=6WC4o2yY9"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-us-navy",
+      "node_type": "organization",
+      "label": "US Navy",
+      "summary": "US Navy entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:07.966930+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "6WC4o2yY9Ws",
+          "timestamp_start": 0,
+          "quote": "rther inland, Lore, Fallon, these are other, you know, big  Navy training ranges. They're seeing them there., Pax River wher"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-nasa",
+      "node_type": "organization",
+      "label": "NASA",
+      "summary": "NASA entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:07.966935+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "6WC4o2yY9Ws",
+          "timestamp_start": 0,
+          "quote": "was telling you one of the guys in the audience was NRO and NASA and he came up to me afterwards and was like I do think som"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other",
+        "acronym": "NASA"
+      }
+    },
+    {
+      "id": "organization-dod",
+      "node_type": "organization",
+      "label": "DoD",
+      "summary": "",
+      "tags": [
+        "government_agency"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:07.966939+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "6WC4o2yY9Ws",
+          "timestamp_start": 0,
+          "quote": " as  potentially intelligence product or whe whether within DoD or within the commercial markets. and so I think you know t"
+        }
+      ],
+      "type_specific": {
+        "org_type": "government_agency",
+        "full_name": "Department of Defense"
+      }
+    },
+    {
+      "id": "location-pacific-training-area",
+      "node_type": "location",
+      "label": "Pacific Training Area",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:07.966944+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "6WC4o2yY9Ws",
+          "timestamp_start": 0,
+          "quote": "ast of Virginia Beach. that there were objects in a working area that we were detecting with the newer radars. and older rad"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-germany",
+      "node_type": "location",
+      "label": "Germany",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:07.966948+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "6WC4o2yY9Ws",
+          "timestamp_start": 0,
+          "quote": "fighters 1942 to 1945 and specifically in Bavaria, southern Germany, you had  these like what looked like controlled controlled"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-russia",
+      "node_type": "location",
+      "label": "Russia",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:07.966951+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "6WC4o2yY9Ws",
+          "timestamp_start": 0,
+          "quote": "on't think they want  trade secrets that will give China or Russia an advantage over the US. You know, they don't want those t"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "claim-6WC4o2yY9Ws-discussion-summary",
+      "node_type": "claim",
+      "label": "Video 6WC4o2yY9Ws features extended discussion of Bob Oppenheimer, James McDonald, Bill Clinton and ",
+      "summary": "Video 6WC4o2yY9Ws features extended discussion of Bob Oppenheimer, James McDonald, Bill Clinton and related UAP research topics, hosted by Jesse Michels.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:07.966962+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "6WC4o2yY9Ws",
+          "timestamp_start": 0,
+          "quote": "Episode title: US Fighter Pilots Witness UFO (ft. Ryan Graves)"
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Video 6WC4o2yY9Ws features extended discussion of Bob Oppenheimer, James McDonald, Bill Clinton and related UAP research topics, hosted by Jesse Michels.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "6WC4o2yY9Ws",
+        "timestamp_start_seconds": 0,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-bob-oppenheimer",
+          "person-james-mcdonald",
+          "person-bill-clinton",
+          "video-6WC4o2yY9Ws"
+        ]
+      }
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge-video-6WC4o2yY9Ws-HOSTED_BY-person-jesse-michels",
+      "from_node_id": "video-6WC4o2yY9Ws",
+      "to_node_id": "person-jesse-michels",
+      "relationship": "HOSTED_BY",
+      "confidence": 0.99,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "6WC4o2yY9Ws",
+          "timestamp_start": 0,
+          "quote": "Jesse hosting"
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-APPEARED_IN-video-6WC4o2yY9Ws",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "video-6WC4o2yY9Ws",
+      "relationship": "APPEARED_IN",
+      "confidence": 0.99,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "6WC4o2yY9Ws",
+          "timestamp_start": 0,
+          "quote": "Host"
+        }
+      ],
+      "properties": {
+        "appearance_type": "host"
+      }
+    },
+    {
+      "id": "edge-video-6WC4o2yY9Ws-MENTIONS-person-bob-oppenheimer",
+      "from_node_id": "video-6WC4o2yY9Ws",
+      "to_node_id": "person-bob-oppenheimer",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "6WC4o2yY9Ws",
+          "timestamp_start": 0,
+          "quote": " mentions as having set up UFO secrecy along with Robert J. Oppenheimer at, you know, the Atomic Energy Commission of 1954. And Sar"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-6WC4o2yY9Ws-MENTIONS-person-james-mcdonald",
+      "from_node_id": "video-6WC4o2yY9Ws",
+      "to_node_id": "person-james-mcdonald",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "6WC4o2yY9Ws",
+          "timestamp_start": 0,
+          "quote": "ke actually take it in as a learning experience. M you know James McDonald of Macdonald Douglas, you know, famous American Aerospace C"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-6WC4o2yY9Ws-MENTIONS-person-bill-clinton",
+      "from_node_id": "video-6WC4o2yY9Ws",
+      "to_node_id": "person-bill-clinton",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "6WC4o2yY9Ws",
+          "timestamp_start": 0,
+          "quote": " it last night, John Podesta, who's you know, you could say Clinton's chief political operative, you know, was the White House "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-6WC4o2yY9Ws-MENTIONS-person-timothy-good",
+      "from_node_id": "video-6WC4o2yY9Ws",
+      "to_node_id": "person-timothy-good",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "6WC4o2yY9Ws",
+          "timestamp_start": 0,
+          "quote": "ses were there to the actual physical object? God, that's a good question. There was probably I mean I would say probably le"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-6WC4o2yY9Ws-MENTIONS-person-chan-thomas",
+      "from_node_id": "video-6WC4o2yY9Ws",
+      "to_node_id": "person-chan-thomas",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "6WC4o2yY9Ws",
+          "timestamp_start": 0,
+          "quote": "did this show on this, you know, mid-century inventor named Thomas  Townsen Brown who I'm fascinated with because I think mayb"
+        }
+      ]
+    },
+    {
+      "id": "edge-person-ryan-graves-APPEARED_IN-video-6WC4o2yY9Ws",
+      "from_node_id": "person-ryan-graves",
+      "to_node_id": "video-6WC4o2yY9Ws",
+      "relationship": "APPEARED_IN",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "6WC4o2yY9Ws",
+          "timestamp_start": 0,
+          "quote": "# US Fighter Pilots Witness UFO (ft. Ryan Graves) https://www.youtube.com/watch?v=6WC4o2yY9Ws views: 126,886"
+        }
+      ],
+      "properties": {
+        "appearance_type": "guest"
+      }
+    },
+    {
+      "id": "edge-video-6WC4o2yY9Ws-DISCUSSES-person-ryan-graves",
+      "from_node_id": "video-6WC4o2yY9Ws",
+      "to_node_id": "person-ryan-graves",
+      "relationship": "DISCUSSES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "6WC4o2yY9Ws",
+          "timestamp_start": 0,
+          "quote": "# US Fighter Pilots Witness UFO (ft. Ryan Graves) https://www.youtube.com/watch?v=6WC4o2yY9Ws views: 126,886"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-6WC4o2yY9Ws-MENTIONS-person-harry-reid",
+      "from_node_id": "video-6WC4o2yY9Ws",
+      "to_node_id": "person-harry-reid",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "6WC4o2yY9Ws",
+          "timestamp_start": 0,
+          "quote": "s a senator from Alaska, who actually helped start OAP with Harry Reid, right? actually saw a UFO, I think, in World War II as wel"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-6WC4o2yY9Ws-MENTIONS-person-art-bell",
+      "from_node_id": "video-6WC4o2yY9Ws",
+      "to_node_id": "person-art-bell",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "6WC4o2yY9Ws",
+          "timestamp_start": 0,
+          "quote": " this last night. There's a part of me that thinks like the Bell Labs model of like quasi public private funding just needs "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-6WC4o2yY9Ws-MENTIONS-organization-the-report-on-unidentified-flying-objects",
+      "from_node_id": "video-6WC4o2yY9Ws",
+      "to_node_id": "organization-the-report-on-unidentified-flying-objects",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "6WC4o2yY9Ws",
+          "timestamp_start": 0,
+          "quote": "y. They were solid. They were consistent. And some of these objects were even going over the speed of sound. As soon as they cr"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-6WC4o2yY9Ws-MENTIONS-organization-1952-washington-d-c-ufo-incident",
+      "from_node_id": "video-6WC4o2yY9Ws",
+      "to_node_id": "organization-1952-washington-d-c-ufo-incident",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "6WC4o2yY9Ws",
+          "timestamp_start": 0,
+          "quote": "ings., that's when you have a much higher risk of having an incident., when you're, you work as hard as you can, you're doing, y"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-6WC4o2yY9Ws-MENTIONS-organization-identification-studies-of-ufos",
+      "from_node_id": "video-6WC4o2yY9Ws",
+      "to_node_id": "organization-identification-studies-of-ufos",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "6WC4o2yY9Ws",
+          "timestamp_start": 0,
+          "quote": " Do you think that the US government is reverse engineering UFOs? Flow state is a popular word in, you know, pop psychology,"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-6WC4o2yY9Ws-MENTIONS-organization-lakenheath-bentwaters-incident",
+      "from_node_id": "video-6WC4o2yY9Ws",
+      "to_node_id": "organization-lakenheath-bentwaters-incident",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "6WC4o2yY9Ws",
+          "timestamp_start": 0,
+          "quote": "ings., that's when you have a much higher risk of having an incident., when you're, you work as hard as you can, you're doing, y"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-6WC4o2yY9Ws-MENTIONS-organization-flying-saucer-working-party",
+      "from_node_id": "video-6WC4o2yY9Ws",
+      "to_node_id": "organization-flying-saucer-working-party",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "6WC4o2yY9Ws",
+          "timestamp_start": 0,
+          "quote": "at as well, but this particular gentleman was in my wedding party. We went through training in Virginia when we first got the"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-6WC4o2yY9Ws-MENTIONS-organization-the-flying-saucers-are-real",
+      "from_node_id": "video-6WC4o2yY9Ws",
+      "to_node_id": "organization-the-flying-saucers-are-real",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "6WC4o2yY9Ws",
+          "timestamp_start": 0,
+          "quote": "n not how we operate. You're just wasting  fuel. There's no real reason to do that. And this is you and roughly how many oth"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-6WC4o2yY9Ws-MENTIONS-organization-archives-of-the-impossible",
+      "from_node_id": "video-6WC4o2yY9Ws",
+      "to_node_id": "organization-archives-of-the-impossible",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "6WC4o2yY9Ws",
+          "timestamp_start": 0,
+          "quote": "tever and then you stop on a dime and it's like that's just impossible like with a you know a gas propulsion fighter jet and so an"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-6WC4o2yY9Ws-MENTIONS-organization-unidentified-flying-object",
+      "from_node_id": "video-6WC4o2yY9Ws",
+      "to_node_id": "organization-unidentified-flying-object",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "6WC4o2yY9Ws",
+          "timestamp_start": 0,
+          "quote": "eed of sound. As soon as they crossed that threshold, boom, object shoots down, came within about 50 feet of the cockpit. And "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-6WC4o2yY9Ws-MENTIONS-organization-lonnie-zamora-incident",
+      "from_node_id": "video-6WC4o2yY9Ws",
+      "to_node_id": "organization-lonnie-zamora-incident",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "6WC4o2yY9Ws",
+          "timestamp_start": 0,
+          "quote": "ings., that's when you have a much higher risk of having an incident., when you're, you work as hard as you can, you're doing, y"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-6WC4o2yY9Ws-MENTIONS-organization-roswell-that-ends-well",
+      "from_node_id": "video-6WC4o2yY9Ws",
+      "to_node_id": "organization-roswell-that-ends-well",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "6WC4o2yY9Ws",
+          "timestamp_start": 0,
+          "quote": "honestly, it really even starts before we get in, you know, well, we have a brief that we have to prepare and you know, you'"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-6WC4o2yY9Ws-MENTIONS-organization-the-galileo-project",
+      "from_node_id": "video-6WC4o2yY9Ws",
+      "to_node_id": "organization-the-galileo-project",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "6WC4o2yY9Ws",
+          "timestamp_start": 0,
+          "quote": "six year timeline without having to be a 10 or 15 year type project. I think they could be broken down and I think really the k"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-6WC4o2yY9Ws-MENTIONS-organization-project-blue-book",
+      "from_node_id": "video-6WC4o2yY9Ws",
+      "to_node_id": "organization-project-blue-book",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "6WC4o2yY9Ws",
+          "timestamp_start": 0,
+          "quote": "hing probably goes away at some point. Like there's a great book called The Art of Learning by a guy named Josh Weightskin. "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-6WC4o2yY9Ws-MENTIONS-organization-world-contact-day",
+      "from_node_id": "video-6WC4o2yY9Ws",
+      "to_node_id": "organization-world-contact-day",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "6WC4o2yY9Ws",
+          "timestamp_start": 0,
+          "quote": "to 15 ft in diameter. Oh, by the way, they're out there all day. Do you believe that? Do you think that the US government i"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-6WC4o2yY9Ws-MENTIONS-organization-scp-foundation",
+      "from_node_id": "video-6WC4o2yY9Ws",
+      "to_node_id": "organization-scp-foundation",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "6WC4o2yY9Ws",
+          "timestamp_start": 0,
+          "quote": " to this pub that is dedicated to the grav gravity research foundation I believe you know this work of Roger Babson they're doing "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-6WC4o2yY9Ws-MENTIONS-organization-us-air-force",
+      "from_node_id": "video-6WC4o2yY9Ws",
+      "to_node_id": "organization-us-air-force",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "6WC4o2yY9Ws",
+          "timestamp_start": 0,
+          "quote": "o move the jet to the right, I have to take both hands  and force the stick to the right. And if I tap it lightly to the left"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-6WC4o2yY9Ws-MENTIONS-organization-big-sur-ufo",
+      "from_node_id": "video-6WC4o2yY9Ws",
+      "to_node_id": "organization-big-sur-ufo",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "6WC4o2yY9Ws",
+          "timestamp_start": 0,
+          "quote": "# US Fighter Pilots Witness UFO (ft. Ryan Graves) https://www.youtube.com/watch?v=6WC4o2yY9"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-6WC4o2yY9Ws-MENTIONS-organization-us-navy",
+      "from_node_id": "video-6WC4o2yY9Ws",
+      "to_node_id": "organization-us-navy",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "6WC4o2yY9Ws",
+          "timestamp_start": 0,
+          "quote": "rther inland, Lore, Fallon, these are other, you know, big  Navy training ranges. They're seeing them there., Pax River wher"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-6WC4o2yY9Ws-MENTIONS-organization-nasa",
+      "from_node_id": "video-6WC4o2yY9Ws",
+      "to_node_id": "organization-nasa",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "6WC4o2yY9Ws",
+          "timestamp_start": 0,
+          "quote": "was telling you one of the guys in the audience was NRO and NASA and he came up to me afterwards and was like I do think som"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-6WC4o2yY9Ws-MENTIONS-organization-dod",
+      "from_node_id": "video-6WC4o2yY9Ws",
+      "to_node_id": "organization-dod",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "6WC4o2yY9Ws",
+          "timestamp_start": 0,
+          "quote": " as  potentially intelligence product or whe whether within DoD or within the commercial markets. and so I think you know t"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-6WC4o2yY9Ws-MENTIONS-location-pacific-training-area",
+      "from_node_id": "video-6WC4o2yY9Ws",
+      "to_node_id": "location-pacific-training-area",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "6WC4o2yY9Ws",
+          "timestamp_start": 0,
+          "quote": "ast of Virginia Beach. that there were objects in a working area that we were detecting with the newer radars. and older rad"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-6WC4o2yY9Ws-MENTIONS-location-germany",
+      "from_node_id": "video-6WC4o2yY9Ws",
+      "to_node_id": "location-germany",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "6WC4o2yY9Ws",
+          "timestamp_start": 0,
+          "quote": "fighters 1942 to 1945 and specifically in Bavaria, southern Germany, you had  these like what looked like controlled controlled"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-6WC4o2yY9Ws-MENTIONS-location-russia",
+      "from_node_id": "video-6WC4o2yY9Ws",
+      "to_node_id": "location-russia",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "6WC4o2yY9Ws",
+          "timestamp_start": 0,
+          "quote": "on't think they want  trade secrets that will give China or Russia an advantage over the US. You know, they don't want those t"
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-6WC4o2yY9Ws-discussion-summary",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-6WC4o2yY9Ws-discussion-summary",
+      "relationship": "ASSERTED",
+      "confidence": 0.9,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "6WC4o2yY9Ws",
+          "timestamp_start": 0,
+          "quote": "Episode: US Fighter Pilots Witness UFO (ft. Ryan Graves)"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-6WC4o2yY9Ws-REFERENCES-claim-6WC4o2yY9Ws-discussion-summary",
+      "from_node_id": "video-6WC4o2yY9Ws",
+      "to_node_id": "claim-6WC4o2yY9Ws-discussion-summary",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "6WC4o2yY9Ws",
+          "timestamp_start": 0
+        }
+      ]
+    }
+  ],
+  "extracted_at": "2026-04-17T11:05:07.966994+00:00",
+  "extractor_version": "v1-inline-claude"
+}

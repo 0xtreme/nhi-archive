@@ -1,0 +1,1129 @@
+{
+  "video_id": "7W7iOt57fOo",
+  "nodes": [
+    {
+      "id": "video-7W7iOt57fOo",
+      "node_type": "video",
+      "label": "I Searched for UFOs on Skinwalker Ranch…",
+      "summary": "Skinwalker Ranch is a paranormal hotspot located at the base of the Uintah basin in Utah. Brandon Fugal who is a real estate mogul and patron for frontier science owns the property and studies...",
+      "tags": [
+        "video",
+        "american-alchemy"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:54.827781+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "7W7iOt57fOo",
+          "timestamp_start": 0,
+          "timestamp_end": 1375.0,
+          "quote": "Video: I Searched for UFOs on Skinwalker Ranch…"
+        }
+      ],
+      "type_specific": {
+        "video_id": "7W7iOt57fOo",
+        "title": "I Searched for UFOs on Skinwalker Ranch…",
+        "url": "https://www.youtube.com/watch?v=7W7iOt57fOo",
+        "view_count": 293654,
+        "duration_seconds": 1375.0,
+        "host_id": "person-jesse-michels"
+      }
+    },
+    {
+      "id": "person-jesse-michels",
+      "node_type": "person",
+      "label": "Jesse Michels",
+      "summary": "Host of American Alchemy podcast/show. Independent journalist and UFO/NHI researcher.",
+      "tags": [
+        "journalist",
+        "interviewer",
+        "researcher",
+        "host"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:54.827793+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "7W7iOt57fOo",
+          "timestamp_start": 0,
+          "quote": "Host of American Alchemy podcast/show."
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Jesse",
+          "Michels"
+        ],
+        "profession": "journalist",
+        "notability_tags": [
+          "journalist",
+          "interviewer",
+          "researcher",
+          "host"
+        ]
+      }
+    },
+    {
+      "id": "person-robert-bigelow",
+      "node_type": "person",
+      "label": "Robert Bigelow",
+      "summary": "",
+      "tags": [
+        "businessman",
+        "BAASS",
+        "Skinwalker Ranch"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:54.955468+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "7W7iOt57fOo",
+          "timestamp_start": 0,
+          "quote": " a shotgun all of this anomalous activity caught the eye of robert bigelow the vegas-based budget suites billionaire  who has a family"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Bob Bigelow",
+          "Bigelow"
+        ],
+        "notability_tags": [
+          "businessman",
+          "BAASS",
+          "Skinwalker Ranch"
+        ]
+      }
+    },
+    {
+      "id": "person-e-howard-hunt",
+      "node_type": "person",
+      "label": "E. Howard Hunt",
+      "summary": "",
+      "tags": [
+        "CIA",
+        "Watergate"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:54.955486+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "7W7iOt57fOo",
+          "timestamp_start": 0,
+          "quote": "n find about skinwalker from this era lies in two books the hunt for the skinwalker and skinwalkers at the pentagon i'm incl"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Howard Hunt",
+          "Hunt"
+        ],
+        "notability_tags": [
+          "CIA",
+          "Watergate"
+        ]
+      }
+    },
+    {
+      "id": "person-luis-elizondo",
+      "node_type": "person",
+      "label": "Luis Elizondo",
+      "summary": "Former intelligence official associated with AATIP and public UAP policy debates.",
+      "tags": [
+        "AATIP",
+        "policy"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:54.955492+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "7W7iOt57fOo",
+          "timestamp_start": 0,
+          "quote": "udy for atip the official government ufo program led by lou elizondo because this program was also run under the auspices of big"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Elizondo",
+          "LUIS ELIZONDO",
+          "luis elizondo"
+        ],
+        "notability_tags": [
+          "AATIP",
+          "policy"
+        ]
+      }
+    },
+    {
+      "id": "person-george-knapp",
+      "node_type": "person",
+      "label": "George Knapp",
+      "summary": "George Knapp entity extracted from cross-source archival records.",
+      "tags": [
+        "pipeline-generated",
+        "entity-extracted"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:54.955497+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "7W7iOt57fOo",
+          "timestamp_start": 0,
+          "quote": "t on the ranch in skinwalkers at the pentagon colm kelleher george knapp and james lakatsky report hitchhiker effects among many of "
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "GEORGE KNAPP",
+          "Knapp",
+          "george knapp"
+        ],
+        "notability_tags": [
+          "pipeline-generated",
+          "entity-extracted"
+        ]
+      }
+    },
+    {
+      "id": "person-love-has-won",
+      "node_type": "person",
+      "label": "Love Has Won",
+      "summary": "Love Has Won (LHW), also known as the Galactic Federation of Light, is an American new religious movement that was led by Amy Carlson until her death in 2021. Carlson was referred to within the group as \"Mother God\", who described herself as, among other things, the creator of the universe, with the",
+      "tags": [
+        "wikipedia",
+        "2007 establishments in colorado",
+        "ancient astronaut speculation",
+        "covid-19 vaccine misinformation and hesitancy",
+        "climate change denial in the united states",
+        "holocaust denial in the united states",
+        "new age organizations",
+        "new religious movements established in the 2000s",
+        "qanon",
+        "religious belief systems founded in the united states",
+        "religious controversies in the united states",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:54.955501+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "7W7iOt57fOo",
+          "timestamp_start": 0,
+          "quote": "plan to open source the data and share it with the public i won't tell you what it is what the physical significance of thi"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "LOVE HAS WON",
+          "Won",
+          "love has won"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "2007 establishments in colorado",
+          "ancient astronaut speculation",
+          "covid-19 vaccine misinformation and hesitancy",
+          "climate change denial in the united states",
+          "holocaust denial in the united states",
+          "new age organizations",
+          "new religious movements established in the 2000s",
+          "qanon",
+          "religious belief systems founded in the united states",
+          "religious controversies in the united states",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "person-garry-nolan",
+      "node_type": "person",
+      "label": "Garry Nolan",
+      "summary": "Garry P. Nolan (born c. 1961) is a British-American immunologist, academic, inventor, and business executive. He holds the Rachford and Carlota A. Harris Professor Endowed Chair in the Department of Pathology at Stanford University School of Medicine. Nolan has founded biotechnology companies. Since",
+      "tags": [
+        "wikipedia",
+        "1960s births",
+        "american cancer researchers",
+        "american immunologists",
+        "american pathologists",
+        "british cancer researchers",
+        "british immunologists",
+        "cornell university alumni",
+        "pages with broken reference names",
+        "pages with reference errors",
+        "serologists",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:54.955506+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "7W7iOt57fOo",
+          "timestamp_start": 0,
+          "quote": "ow if  i'm allowed to talk about that because i know i know nolan talks about caudate nucleus and the potato thank you said i"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "GARRY NOLAN",
+          "Nolan",
+          "garry nolan"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "1960s births",
+          "american cancer researchers",
+          "american immunologists",
+          "american pathologists",
+          "british cancer researchers",
+          "british immunologists",
+          "cornell university alumni",
+          "pages with broken reference names",
+          "pages with reference errors",
+          "serologists",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "organization-international-ufo-museum-and-research-center",
+      "node_type": "organization",
+      "label": "International UFO Museum and Research Center",
+      "summary": "The International UFO Museum and Research Center is located in Roswell, New Mexico, United States, in the downtown district, and is focused largely on the 1947 Roswell Crash and later supposed UFO incidents in the United States and elsewhere. It was founded in 1991 as a 501c3 nonprofit educational o",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:54.955512+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "7W7iOt57fOo",
+          "timestamp_start": 0,
+          "quote": " in paranormal research between 2007 and 2012 it became the center of study for atip the official government ufo program led b"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-the-report-on-unidentified-flying-objects",
+      "node_type": "organization",
+      "label": "The Report on Unidentified Flying Objects",
+      "summary": "The Report on Unidentified Flying Objects is a 1956 book by then-retired Air Force UFO investigator Edward J. Ruppelt, detailing his experience running Project Blue Book. The book was noted for its suggestion that a few UFO sightings might be linked to spikes of atomic radiation. Contemporary media ",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:54.955518+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "7W7iOt57fOo",
+          "timestamp_start": 0,
+          "quote": "gps sensors and chalk that would map and coat any invisible objects hovering above after the first rocket launch failed due to "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-identification-studies-of-ufos",
+      "node_type": "organization",
+      "label": "Identification studies of UFOs",
+      "summary": "Identifying unidentified flying objects (UFOs) is a difficult task due to the normally poor quality of the evidence provided by those who report sighting the unknown object. Observations and subsequent reporting are often made by those untrained in astronomy, atmospheric phenomena, aeronautics, phys",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:54.955523+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "7W7iOt57fOo",
+          "timestamp_start": 0,
+          "quote": "# I Searched for UFOs on Skinwalker Ranch… https://www.youtube.com/watch?v=7W7iOt"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-chiles-whitted-ufo-encounter",
+      "node_type": "organization",
+      "label": "Chiles-Whitted UFO encounter",
+      "summary": "The Chiles-Whitted UFO encounter occurred at approximately 2:45 AM on July 24, 1948, in the skies near Montgomery, Alabama, United States. Two commercial pilots, Clarence S. Chiles and John B. Whitted, claimed to have observed a \"glowing object\" pass by their plane before it appeared to pull up into",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:54.955528+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "7W7iOt57fOo",
+          "timestamp_start": 0,
+          "quote": "n that had increased neural density his view is not that an encounter makes that part of the brain more neuronally dense his view"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-the-flying-saucers-are-real",
+      "node_type": "organization",
+      "label": "The Flying Saucers Are Real",
+      "summary": "The Flying Saucers Are Real, by Donald Keyhoe, is a book that investigated reports of UFOs by United States Air Force fighters, personnel, and other aircraft, between 1947 and 1950.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:54.955533+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "7W7iOt57fOo",
+          "timestamp_start": 0,
+          "quote": "ivity and has made it his life's mission to pour all of his real estate money into ufos in paranormal research between 2007 "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-unidentified-flying-object",
+      "node_type": "organization",
+      "label": "Unidentified flying object",
+      "summary": "An unidentified flying object (UFO) is an object or phenomenon seen in the sky but not yet identified or explained. The term was coined when United States Air Force (USAF) investigations into flying saucers found too broad a range of shapes reported to consider them all saucers or discs. UFOs are al",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:54.955537+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "7W7iOt57fOo",
+          "timestamp_start": 0,
+          "quote": "ms like the moment the cow feels a disturbance a ufo-shaped object appears directly above it the next frame the object is here"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-roswell-that-ends-well",
+      "node_type": "organization",
+      "label": "Roswell That Ends Well",
+      "summary": "\"Roswell That Ends Well\" is the nineteenth episode in the third season of the American animated television series Futurama, and the 51st episode of the series overall. It originally aired on the Fox network in the United States on December 9, 2001. The plot centers on an accidental time travel event",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:54.955542+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "7W7iOt57fOo",
+          "timestamp_start": 0,
+          "quote": " the rocket avoid that one spot directly above the triangle well it could have been avoiding a ufo not only did fugel's whol"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-project-blue-book",
+      "node_type": "organization",
+      "label": "Project Blue Book",
+      "summary": "USAF UFO investigation program active from 1952 to 1969.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:54.955546+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "7W7iOt57fOo",
+          "timestamp_start": 0,
+          "quote": " of the things that i found amusing is an old little golden book lone ranger that had been discarded long ago the current ow"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-world-contact-day",
+      "node_type": "organization",
+      "label": "World Contact Day",
+      "summary": "World Contact Day was first declared in March 1953 by an organization called the International Flying Saucer Bureau (IFSB), as a day on which all IFSB members would attempt to send a telepathic message into space. The IFSB voted to hold such a day in 1953, theorising that if both telepathy and alien",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:54.955550+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "7W7iOt57fOo",
+          "timestamp_start": 0,
+          "quote": "ies there's no cat tracks no sign of struggle middle of the day they're dead an autopsy revealed that  pneumonia had done t"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-project-mogul",
+      "node_type": "organization",
+      "label": "Project Mogul",
+      "summary": "Project Mogul (sometimes referred to as Operation Mogul) was a top secret project by the US Army Air Forces involving microphones flown on high-altitude balloons, whose primary purpose was long-distance detection of sound waves generated by Soviet atomic bomb tests. While successful, the balloon met",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:54.955554+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "7W7iOt57fOo",
+          "timestamp_start": 0,
+          "quote": " the ranch is a guy named brandon fugle  he's a real estate mogul and patron for frontier science fugl has gathered a team of"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-us-air-force",
+      "node_type": "organization",
+      "label": "US Air Force",
+      "summary": "US Air Force entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:54.955559+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "7W7iOt57fOo",
+          "timestamp_start": 0,
+          "quote": " known as the triangle it seems like there's some invisible force that tampers with their equipment every time  they try to m"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-big-sur-ufo",
+      "node_type": "organization",
+      "label": "Big Sur UFO",
+      "summary": "The Big Sur UFO is a reported UFO incident that took place during a 1964 Air Force deployment to a mountaintop near Big Sur, California. The deployment was a mission was to film Atlas missile tests from Vandenberg Air Force Base. Since 1982, Robert Jacobs, who had overseen the mountaintop team, has ",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:54.955563+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "7W7iOt57fOo",
+          "timestamp_start": 0,
+          "quote": "became the center of study for atip the official government ufo program led by lou elizondo because this program was also r"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "location-pacific-training-area",
+      "node_type": "location",
+      "label": "Pacific Training Area",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:54.955568+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "7W7iOt57fOo",
+          "timestamp_start": 0,
+          "quote": "alker first a little bit of history in the 19th century the area primarily consisted of two indian tribes the navajo and the"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-roswell-new-mexico",
+      "node_type": "location",
+      "label": "Roswell, New Mexico",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:54.955572+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "7W7iOt57fOo",
+          "timestamp_start": 0,
+          "quote": "basin in western utah if you think sedona arizona dolce new mexico and joshua tree california are trippy just wait until you l"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-skinwalker-ranch",
+      "node_type": "location",
+      "label": "Skinwalker Ranch",
+      "summary": "",
+      "tags": [
+        "ranch"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:54.955576+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "7W7iOt57fOo",
+          "timestamp_start": 0,
+          "quote": "# I Searched for UFOs on Skinwalker Ranch… https://www.youtube.com/watch?v=7W7iOt57fOo views: 293,654"
+        }
+      ],
+      "type_specific": {
+        "location_type": "ranch",
+        "country": "US",
+        "state_or_region": "Utah"
+      }
+    },
+    {
+      "id": "location-mexico",
+      "node_type": "location",
+      "label": "Mexico",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:54.955581+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "7W7iOt57fOo",
+          "timestamp_start": 0,
+          "quote": "basin in western utah if you think sedona arizona dolce new mexico and joshua tree california are trippy just wait until you l"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "claim-7W7iOt57fOo-discussion-summary",
+      "node_type": "claim",
+      "label": "Video 7W7iOt57fOo features extended discussion of Robert Bigelow, E. Howard Hunt, Luis Elizondo and ",
+      "summary": "Video 7W7iOt57fOo features extended discussion of Robert Bigelow, E. Howard Hunt, Luis Elizondo and related UAP research topics, hosted by Jesse Michels.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:54.955591+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "7W7iOt57fOo",
+          "timestamp_start": 0,
+          "quote": "Episode title: I Searched for UFOs on Skinwalker Ranch…"
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Video 7W7iOt57fOo features extended discussion of Robert Bigelow, E. Howard Hunt, Luis Elizondo and related UAP research topics, hosted by Jesse Michels.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "7W7iOt57fOo",
+        "timestamp_start_seconds": 0,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-robert-bigelow",
+          "person-e-howard-hunt",
+          "person-luis-elizondo",
+          "video-7W7iOt57fOo"
+        ]
+      }
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge-video-7W7iOt57fOo-HOSTED_BY-person-jesse-michels",
+      "from_node_id": "video-7W7iOt57fOo",
+      "to_node_id": "person-jesse-michels",
+      "relationship": "HOSTED_BY",
+      "confidence": 0.99,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "7W7iOt57fOo",
+          "timestamp_start": 0,
+          "quote": "Jesse hosting"
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-APPEARED_IN-video-7W7iOt57fOo",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "video-7W7iOt57fOo",
+      "relationship": "APPEARED_IN",
+      "confidence": 0.99,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "7W7iOt57fOo",
+          "timestamp_start": 0,
+          "quote": "Host"
+        }
+      ],
+      "properties": {
+        "appearance_type": "host"
+      }
+    },
+    {
+      "id": "edge-video-7W7iOt57fOo-MENTIONS-person-robert-bigelow",
+      "from_node_id": "video-7W7iOt57fOo",
+      "to_node_id": "person-robert-bigelow",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "7W7iOt57fOo",
+          "timestamp_start": 0,
+          "quote": " a shotgun all of this anomalous activity caught the eye of robert bigelow the vegas-based budget suites billionaire  who has a family"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-7W7iOt57fOo-MENTIONS-person-e-howard-hunt",
+      "from_node_id": "video-7W7iOt57fOo",
+      "to_node_id": "person-e-howard-hunt",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "7W7iOt57fOo",
+          "timestamp_start": 0,
+          "quote": "n find about skinwalker from this era lies in two books the hunt for the skinwalker and skinwalkers at the pentagon i'm incl"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-7W7iOt57fOo-MENTIONS-person-luis-elizondo",
+      "from_node_id": "video-7W7iOt57fOo",
+      "to_node_id": "person-luis-elizondo",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "7W7iOt57fOo",
+          "timestamp_start": 0,
+          "quote": "udy for atip the official government ufo program led by lou elizondo because this program was also run under the auspices of big"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-7W7iOt57fOo-MENTIONS-person-george-knapp",
+      "from_node_id": "video-7W7iOt57fOo",
+      "to_node_id": "person-george-knapp",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "7W7iOt57fOo",
+          "timestamp_start": 0,
+          "quote": "t on the ranch in skinwalkers at the pentagon colm kelleher george knapp and james lakatsky report hitchhiker effects among many of "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-7W7iOt57fOo-MENTIONS-person-love-has-won",
+      "from_node_id": "video-7W7iOt57fOo",
+      "to_node_id": "person-love-has-won",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "7W7iOt57fOo",
+          "timestamp_start": 0,
+          "quote": "plan to open source the data and share it with the public i won't tell you what it is what the physical significance of thi"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-7W7iOt57fOo-MENTIONS-person-garry-nolan",
+      "from_node_id": "video-7W7iOt57fOo",
+      "to_node_id": "person-garry-nolan",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "7W7iOt57fOo",
+          "timestamp_start": 0,
+          "quote": "ow if  i'm allowed to talk about that because i know i know nolan talks about caudate nucleus and the potato thank you said i"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-7W7iOt57fOo-MENTIONS-organization-international-ufo-museum-and-research-center",
+      "from_node_id": "video-7W7iOt57fOo",
+      "to_node_id": "organization-international-ufo-museum-and-research-center",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "7W7iOt57fOo",
+          "timestamp_start": 0,
+          "quote": " in paranormal research between 2007 and 2012 it became the center of study for atip the official government ufo program led b"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-7W7iOt57fOo-MENTIONS-organization-the-report-on-unidentified-flying-objects",
+      "from_node_id": "video-7W7iOt57fOo",
+      "to_node_id": "organization-the-report-on-unidentified-flying-objects",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "7W7iOt57fOo",
+          "timestamp_start": 0,
+          "quote": "gps sensors and chalk that would map and coat any invisible objects hovering above after the first rocket launch failed due to "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-7W7iOt57fOo-MENTIONS-organization-identification-studies-of-ufos",
+      "from_node_id": "video-7W7iOt57fOo",
+      "to_node_id": "organization-identification-studies-of-ufos",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "7W7iOt57fOo",
+          "timestamp_start": 0,
+          "quote": "# I Searched for UFOs on Skinwalker Ranch… https://www.youtube.com/watch?v=7W7iOt"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-7W7iOt57fOo-MENTIONS-organization-chiles-whitted-ufo-encounter",
+      "from_node_id": "video-7W7iOt57fOo",
+      "to_node_id": "organization-chiles-whitted-ufo-encounter",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "7W7iOt57fOo",
+          "timestamp_start": 0,
+          "quote": "n that had increased neural density his view is not that an encounter makes that part of the brain more neuronally dense his view"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-7W7iOt57fOo-MENTIONS-organization-the-flying-saucers-are-real",
+      "from_node_id": "video-7W7iOt57fOo",
+      "to_node_id": "organization-the-flying-saucers-are-real",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "7W7iOt57fOo",
+          "timestamp_start": 0,
+          "quote": "ivity and has made it his life's mission to pour all of his real estate money into ufos in paranormal research between 2007 "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-7W7iOt57fOo-MENTIONS-organization-unidentified-flying-object",
+      "from_node_id": "video-7W7iOt57fOo",
+      "to_node_id": "organization-unidentified-flying-object",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "7W7iOt57fOo",
+          "timestamp_start": 0,
+          "quote": "ms like the moment the cow feels a disturbance a ufo-shaped object appears directly above it the next frame the object is here"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-7W7iOt57fOo-MENTIONS-organization-roswell-that-ends-well",
+      "from_node_id": "video-7W7iOt57fOo",
+      "to_node_id": "organization-roswell-that-ends-well",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "7W7iOt57fOo",
+          "timestamp_start": 0,
+          "quote": " the rocket avoid that one spot directly above the triangle well it could have been avoiding a ufo not only did fugel's whol"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-7W7iOt57fOo-MENTIONS-organization-project-blue-book",
+      "from_node_id": "video-7W7iOt57fOo",
+      "to_node_id": "organization-project-blue-book",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "7W7iOt57fOo",
+          "timestamp_start": 0,
+          "quote": " of the things that i found amusing is an old little golden book lone ranger that had been discarded long ago the current ow"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-7W7iOt57fOo-MENTIONS-organization-world-contact-day",
+      "from_node_id": "video-7W7iOt57fOo",
+      "to_node_id": "organization-world-contact-day",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "7W7iOt57fOo",
+          "timestamp_start": 0,
+          "quote": "ies there's no cat tracks no sign of struggle middle of the day they're dead an autopsy revealed that  pneumonia had done t"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-7W7iOt57fOo-MENTIONS-organization-project-mogul",
+      "from_node_id": "video-7W7iOt57fOo",
+      "to_node_id": "organization-project-mogul",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "7W7iOt57fOo",
+          "timestamp_start": 0,
+          "quote": " the ranch is a guy named brandon fugle  he's a real estate mogul and patron for frontier science fugl has gathered a team of"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-7W7iOt57fOo-MENTIONS-organization-us-air-force",
+      "from_node_id": "video-7W7iOt57fOo",
+      "to_node_id": "organization-us-air-force",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "7W7iOt57fOo",
+          "timestamp_start": 0,
+          "quote": " known as the triangle it seems like there's some invisible force that tampers with their equipment every time  they try to m"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-7W7iOt57fOo-MENTIONS-organization-big-sur-ufo",
+      "from_node_id": "video-7W7iOt57fOo",
+      "to_node_id": "organization-big-sur-ufo",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "7W7iOt57fOo",
+          "timestamp_start": 0,
+          "quote": "became the center of study for atip the official government ufo program led by lou elizondo because this program was also r"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-7W7iOt57fOo-MENTIONS-location-pacific-training-area",
+      "from_node_id": "video-7W7iOt57fOo",
+      "to_node_id": "location-pacific-training-area",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "7W7iOt57fOo",
+          "timestamp_start": 0,
+          "quote": "alker first a little bit of history in the 19th century the area primarily consisted of two indian tribes the navajo and the"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-7W7iOt57fOo-MENTIONS-location-roswell-new-mexico",
+      "from_node_id": "video-7W7iOt57fOo",
+      "to_node_id": "location-roswell-new-mexico",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "7W7iOt57fOo",
+          "timestamp_start": 0,
+          "quote": "basin in western utah if you think sedona arizona dolce new mexico and joshua tree california are trippy just wait until you l"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-7W7iOt57fOo-MENTIONS-location-skinwalker-ranch",
+      "from_node_id": "video-7W7iOt57fOo",
+      "to_node_id": "location-skinwalker-ranch",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "7W7iOt57fOo",
+          "timestamp_start": 0,
+          "quote": "# I Searched for UFOs on Skinwalker Ranch… https://www.youtube.com/watch?v=7W7iOt57fOo views: 293,654"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-7W7iOt57fOo-MENTIONS-location-mexico",
+      "from_node_id": "video-7W7iOt57fOo",
+      "to_node_id": "location-mexico",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "7W7iOt57fOo",
+          "timestamp_start": 0,
+          "quote": "basin in western utah if you think sedona arizona dolce new mexico and joshua tree california are trippy just wait until you l"
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-7W7iOt57fOo-discussion-summary",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-7W7iOt57fOo-discussion-summary",
+      "relationship": "ASSERTED",
+      "confidence": 0.9,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "7W7iOt57fOo",
+          "timestamp_start": 0,
+          "quote": "Episode: I Searched for UFOs on Skinwalker Ranch…"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-7W7iOt57fOo-REFERENCES-claim-7W7iOt57fOo-discussion-summary",
+      "from_node_id": "video-7W7iOt57fOo",
+      "to_node_id": "claim-7W7iOt57fOo-discussion-summary",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "7W7iOt57fOo",
+          "timestamp_start": 0
+        }
+      ]
+    }
+  ],
+  "extracted_at": "2026-04-17T11:04:54.955616+00:00",
+  "extractor_version": "v1-inline-claude"
+}

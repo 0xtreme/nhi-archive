@@ -1,0 +1,1724 @@
+{
+  "video_id": "JpLThEF2dTM",
+  "nodes": [
+    {
+      "id": "video-JpLThEF2dTM",
+      "node_type": "video",
+      "label": "“Mars Had Alien Life!” (Ft. Joe McMoneagle)",
+      "summary": "Join Jesse Michels on today's episode of American Alchemy as he sits down with the legendary Joe McMoneagle, the CIA’s Remote Viewer No. 1, who played a pivotal role in the highly classified...",
+      "tags": [
+        "video",
+        "american-alchemy"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:35.833137+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 0,
+          "timestamp_end": 9472.0,
+          "quote": "Video: “Mars Had Alien Life!” (Ft. Joe McMoneagle)"
+        }
+      ],
+      "type_specific": {
+        "video_id": "JpLThEF2dTM",
+        "title": "“Mars Had Alien Life!” (Ft. Joe McMoneagle)",
+        "url": "https://www.youtube.com/watch?v=JpLThEF2dTM",
+        "view_count": 497159,
+        "duration_seconds": 9472.0,
+        "host_id": "person-jesse-michels"
+      }
+    },
+    {
+      "id": "person-jesse-michels",
+      "node_type": "person",
+      "label": "Jesse Michels",
+      "summary": "Host of American Alchemy podcast/show. Independent journalist and UFO/NHI researcher.",
+      "tags": [
+        "journalist",
+        "interviewer",
+        "researcher",
+        "host"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:35.833149+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 0,
+          "quote": "Host of American Alchemy podcast/show."
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Jesse",
+          "Michels"
+        ],
+        "profession": "journalist",
+        "notability_tags": [
+          "journalist",
+          "interviewer",
+          "researcher",
+          "host"
+        ]
+      }
+    },
+    {
+      "id": "person-wilbert-brockhouse-smith",
+      "node_type": "person",
+      "label": "Wilbert Brockhouse Smith",
+      "summary": "William Brockhouse Smith (1910 – December 27, 1962) was a Canadian engineer, government scientist, ufologist, and author of various patents and technical papers.",
+      "tags": [
+        "wikipedia",
+        "20th-century canadian engineers",
+        "canadian electrical engineers",
+        "contactees",
+        "date of birth missing",
+        "date of birth not in wikidata",
+        "engineers from alberta",
+        "pages where birth or death is being automatically determined",
+        "people from lethbridge",
+        "ufologists",
+        "university of british columbia alumni"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:36.627944+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 0,
+          "quote": "I add one more story to just the Carter years sure Rosemary Smith is a psychic and I think a tu22 Russian Russian bear bomber"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Smith",
+          "WILBERT BROCKHOUSE SMITH",
+          "wilbert brockhouse smith"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "20th-century canadian engineers",
+          "canadian electrical engineers",
+          "contactees",
+          "date of birth missing",
+          "date of birth not in wikidata",
+          "engineers from alberta",
+          "pages where birth or death is being automatically determined",
+          "people from lethbridge",
+          "ufologists",
+          "university of british columbia alumni"
+        ]
+      }
+    },
+    {
+      "id": "person-graham-hancock",
+      "node_type": "person",
+      "label": "Graham Hancock",
+      "summary": "",
+      "tags": [
+        "author",
+        "ancient history"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:36.627962+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 0,
+          "quote": "tly more grounded is a theory suggested by researchers like Graham Hancock he states in the Mars my  that there could be some connecti"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Hancock"
+        ],
+        "notability_tags": [
+          "author",
+          "ancient history"
+        ]
+      }
+    },
+    {
+      "id": "person-e-howard-hunt",
+      "node_type": "person",
+      "label": "E. Howard Hunt",
+      "summary": "",
+      "tags": [
+        "CIA",
+        "Watergate"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:36.627972+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 0,
+          "quote": "f Submarine it  had many of the attributes that came out in Hunt for Red October 7 years later eight years later I can't rem"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Howard Hunt",
+          "Hunt"
+        ],
+        "notability_tags": [
+          "CIA",
+          "Watergate"
+        ]
+      }
+    },
+    {
+      "id": "person-bill-clinton",
+      "node_type": "person",
+      "label": "Bill Clinton",
+      "summary": "Bill Clinton entity extracted from cross-source archival records.",
+      "tags": [
+        "pipeline-generated",
+        "entity-extracted"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:36.627977+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 0,
+          "quote": "d fossilized bacteria the discovery even prompted President Clinton to make an official televised announcement on the possible "
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "BILL CLINTON",
+          "Clinton",
+          "bill clinton"
+        ],
+        "notability_tags": [
+          "pipeline-generated",
+          "entity-extracted"
+        ]
+      }
+    },
+    {
+      "id": "person-james-harder",
+      "node_type": "person",
+      "label": "James Harder",
+      "summary": "James Albert Harder, Ph.D., (December 2, 1926 – December 30, 2006) was a professor of civil and hydraulic engineering at the University of California, Berkeley. He was a professor emeritus there. Harder also had interest in ufology.",
+      "tags": [
+        "wikipedia",
+        "california institute of technology alumni",
+        "people from fullerton, california",
+        "uc berkeley college of engineering faculty",
+        "ufologists",
+        "university of california, berkeley alumni"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:36.627982+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 0,
+          "quote": "order to just slow it down a little bit make it little more harder to  perceive well that's interesting have you heard of Juli"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Harder",
+          "JAMES HARDER",
+          "james harder"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "california institute of technology alumni",
+          "people from fullerton, california",
+          "uc berkeley college of engineering faculty",
+          "ufologists",
+          "university of california, berkeley alumni"
+        ]
+      }
+    },
+    {
+      "id": "person-jimmy-carter",
+      "node_type": "person",
+      "label": "Jimmy Carter",
+      "summary": "Jimmy Carter entity extracted from cross-source archival records.",
+      "tags": [
+        "pipeline-generated",
+        "entity-extracted"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:36.627986+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 0,
+          "quote": "tively soon after that can I add one more story to just the Carter years sure Rosemary Smith is a psychic and I think a tu22 R"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Carter",
+          "JIMMY CARTER",
+          "jimmy carter"
+        ],
+        "notability_tags": [
+          "pipeline-generated",
+          "entity-extracted"
+        ]
+      }
+    },
+    {
+      "id": "person-love-has-won",
+      "node_type": "person",
+      "label": "Love Has Won",
+      "summary": "Love Has Won (LHW), also known as the Galactic Federation of Light, is an American new religious movement that was led by Amy Carlson until her death in 2021. Carlson was referred to within the group as \"Mother God\", who described herself as, among other things, the creator of the universe, with the",
+      "tags": [
+        "wikipedia",
+        "2007 establishments in colorado",
+        "ancient astronaut speculation",
+        "covid-19 vaccine misinformation and hesitancy",
+        "climate change denial in the united states",
+        "holocaust denial in the united states",
+        "new age organizations",
+        "new religious movements established in the 2000s",
+        "qanon",
+        "religious belief systems founded in the united states",
+        "religious controversies in the united states",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:36.627991+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 0,
+          "quote": "d some open source protocols that you now Teach as well you won the Legion of Merit for over 200 instances in which you add"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "LOVE HAS WON",
+          "Won",
+          "love has won"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "2007 establishments in colorado",
+          "ancient astronaut speculation",
+          "covid-19 vaccine misinformation and hesitancy",
+          "climate change denial in the united states",
+          "holocaust denial in the united states",
+          "new age organizations",
+          "new religious movements established in the 2000s",
+          "qanon",
+          "religious belief systems founded in the united states",
+          "religious controversies in the united states",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "person-timothy-good",
+      "node_type": "person",
+      "label": "Timothy Good",
+      "summary": "",
+      "tags": [
+        "researcher",
+        "author"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:36.627996+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 0,
+          "quote": "he's kind of ooing your spear you know like oh man that's a good looking spear you pick that up he's a dead  man he starts c"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Tim Good",
+          "Good"
+        ],
+        "notability_tags": [
+          "researcher",
+          "author"
+        ]
+      }
+    },
+    {
+      "id": "person-art-bell",
+      "node_type": "person",
+      "label": "Art Bell",
+      "summary": "Arthur William Bell III (June 17, 1945 – April 13, 2018) was an American broadcaster and author. He was the founder and the original host of the paranormal-themed radio program Coast to Coast AM, which is syndicated on hundreds of radio stations in the United States and Canada. He also created and h",
+      "tags": [
+        "wikipedia",
+        "20th-century american businesspeople",
+        "accidental deaths in nevada",
+        "amateur radio people",
+        "american non-fiction environmental writers",
+        "american radio djs",
+        "american radio executives",
+        "american talk radio hosts",
+        "businesspeople from monterey, california",
+        "businesspeople from nevada",
+        "coast to coast am",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:36.628000+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 0,
+          "quote": "u go to an emergency room or clinic you get in by ringing a bell well he had me in a fireman's carry so he's kicking the  do"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "ART BELL",
+          "Bell",
+          "art bell"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "20th-century american businesspeople",
+          "accidental deaths in nevada",
+          "amateur radio people",
+          "american non-fiction environmental writers",
+          "american radio djs",
+          "american radio executives",
+          "american talk radio hosts",
+          "businesspeople from monterey, california",
+          "businesspeople from nevada",
+          "coast to coast am",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "organization-international-ufo-museum-and-research-center",
+      "node_type": "organization",
+      "label": "International UFO Museum and Research Center",
+      "summary": "The International UFO Museum and Research Center is located in Roswell, New Mexico, United States, in the downtown district, and is focused largely on the 1947 Roswell Crash and later supposed UFO incidents in the United States and elsewhere. It was founded in 1991 as a 501c3 nonprofit educational o",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:36.628007+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 0,
+          "quote": "der attack you go to the SEO the combat tactical  Operation Center and go inside the bunker and run the radios being control o"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-identification-studies-of-ufos",
+      "node_type": "organization",
+      "label": "Identification studies of UFOs",
+      "summary": "Identifying unidentified flying objects (UFOs) is a difficult task due to the normally poor quality of the evidence provided by those who report sighting the unknown object. Observations and subsequent reporting are often made by those untrained in astronomy, atmospheric phenomena, aeronautics, phys",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:36.628012+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 0,
+          "quote": "craze right now like it's we're Peak Mania when it comes to UFOs in the Zeitgeist where you everybody's talking about disclo"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-the-flying-saucers-are-real",
+      "node_type": "organization",
+      "label": "The Flying Saucers Are Real",
+      "summary": "The Flying Saucers Are Real, by Donald Keyhoe, is a book that investigated reports of UFOs by United States Air Force fighters, personnel, and other aircraft, between 1947 and 1950.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:36.628017+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 0,
+          "quote": "aw the square yeah that square on Mars from that yes that's real Is that real that's real that's 3 ft long and that Bigg aro"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-archives-of-the-impossible",
+      "node_type": "organization",
+      "label": "Archives of the Impossible",
+      "summary": "The Archives of the Impossible (AOTI), sometimes called the Center for the Impossible, is a special collection at Rice University in Houston, Texas, United States. Founded in 2014 by Jeffrey J. Kripal, AOTI is based at the Woodson Research Center in the Fondren Library. It stewards collections on UF",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:36.628022+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 0,
+          "quote": "ll that stuff to Rice University very cool the archives The Impossible yeah that's amazing yeah and after 10 minutes of training y"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-unidentified-flying-object",
+      "node_type": "organization",
+      "label": "Unidentified flying object",
+      "summary": "An unidentified flying object (UFO) is an object or phenomenon seen in the sky but not yet identified or explained. The term was coined when United States Air Force (USAF) investigations into flying saucers found too broad a range of shapes reported to consider them all saucers or discs. UFOs are al",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:36.628027+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 0,
+          "quote": "game with much higher Stakes the name of the game is MX its object to hide our newest icbms from the enemy ensuring their surv"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-us-department-of-defense",
+      "node_type": "organization",
+      "label": "US Department of Defense",
+      "summary": "US Department of Defense entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:36.628031+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 0,
+          "quote": "ection and start backing into  a crowd because there's more defense in a crowd so it's almost like with the development of writ"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-roswell-that-ends-well",
+      "node_type": "organization",
+      "label": "Roswell That Ends Well",
+      "summary": "\"Roswell That Ends Well\" is the nineteenth episode in the third season of the American animated television series Futurama, and the 51st episode of the series overall. It originally aired on the Fox network in the United States on December 9, 2001. The plot centers on an accidental time travel event",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:36.628036+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 0,
+          "quote": "rs ago when did you start to believe there was life on Mars well you saw the square yeah that square on Mars from that yes t"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-the-galileo-project",
+      "node_type": "organization",
+      "label": "The Galileo Project",
+      "summary": "The Galileo Project is an international scientific research project to search for extraterrestrial intelligence or extraterrestrial technology on and near Earth and to identify the nature of anomalous Unidentified Flying Objects/Unidentified Aerial Phenomena (UFOs/UAP). It was launched in 2021 by Ha",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:36.628040+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 0,
+          "quote": "g back there I don't think it was called that it was called project scan eight or something at the beginning so they brought hi"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-thornton-leigh-page",
+      "node_type": "organization",
+      "label": "Thornton Leigh Page",
+      "summary": "Thornton Leigh Page was an American professor of astronomy at the University of Chicago and at Wesleyan University. He became embroiled in the controversy over unidentified flying objects (UFOs) after serving briefly on the Robertson Panel, a Central Intelligence Agency–sponsored committee of scient",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:36.628044+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 0,
+          "quote": "a professor ameritus at Sonoma State University wrote a 200-page book about NASA's failure to properly investigate the struc"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-project-blue-book",
+      "node_type": "organization",
+      "label": "Project Blue Book",
+      "summary": "USAF UFO investigation program active from 1952 to 1969.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:36.628049+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 0,
+          "quote": " we have a problem we go see a doctor or we look it up in a book or whatever we didn't have to have that instant understandi"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-world-contact-day",
+      "node_type": "organization",
+      "label": "World Contact Day",
+      "summary": "World Contact Day was first declared in March 1953 by an organization called the International Flying Saucer Bureau (IFSB), as a day on which all IFSB members would attempt to send a telepathic message into space. The IFSB voted to hold such a day in 1953, theorising that if both telepathy and alien",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:36.628053+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 0,
+          "quote": " and his phone number on the other so I called him the next day and he told me  how to get to his office and he was working"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-us-air-force",
+      "node_type": "organization",
+      "label": "US Air Force",
+      "summary": "US Air Force entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:36.628057+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 0,
+          "quote": " they cancelled the MX missile program which ticked the Air Force off mightily because they were put in charge of it was a hu"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-big-sur-ufo",
+      "node_type": "organization",
+      "label": "Big Sur UFO",
+      "summary": "The Big Sur UFO is a reported UFO incident that took place during a 1964 Air Force deployment to a mountaintop near Big Sur, California. The deployment was a mission was to film Atlas missile tests from Vandenberg Air Force Base. Since 1982, Robert Jacobs, who had overseen the mountaintop team, has ",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:36.628063+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 0,
+          "quote": "s to you know some deep underground location and they see a UFO together and then he's told to remote view the Dark Side of"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-mirage-men",
+      "node_type": "organization",
+      "label": "Mirage Men",
+      "summary": "Mirage Men is a 2013 documentary film directed by John Lundberg, written by Mark Pilkington and co-directed by Roland Denning and Kypros Kyprianou. Mirage Men suggests there was a conspiracy by the U.S. military to fabricate UFO folklore in order to deflect attention from classified military project",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:36.628067+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 0,
+          "quote": " to one another we started out grunting and pointing so the men did the hunting and the women did the Gathering back in tho"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-us-navy",
+      "node_type": "organization",
+      "label": "US Navy",
+      "summary": "US Navy entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:36.628072+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 0,
+          "quote": "rine ever built with slanted tubes up until then the Soviet Navy would have to stop to launch which made him a Target so the"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-nasa",
+      "node_type": "organization",
+      "label": "NASA",
+      "summary": "NASA entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:36.628077+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 0,
+          "quote": "e seeing all the data we must trust that organizations like NASA are sharing these images and data transparently but this ha"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other",
+        "acronym": "NASA"
+      }
+    },
+    {
+      "id": "organization-cia",
+      "node_type": "organization",
+      "label": "CIA",
+      "summary": "CIA entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:36.628081+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 0,
+          "quote": "y probably a little longer than that at what point does the CIA become interested in psychic spying and how do you get rope"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other",
+        "acronym": "CIA"
+      }
+    },
+    {
+      "id": "organization-dod",
+      "node_type": "organization",
+      "label": "DoD",
+      "summary": "",
+      "tags": [
+        "government_agency"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:36.628085+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 0,
+          "quote": "es for remote viewing Mars for example yeah a million years DOD Target by the way there so explain the context well how is "
+        }
+      ],
+      "type_specific": {
+        "org_type": "government_agency",
+        "full_name": "Department of Defense"
+      }
+    },
+    {
+      "id": "location-pacific-training-area",
+      "node_type": "location",
+      "label": "Pacific Training Area",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:36.628094+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 0,
+          "quote": "ush so you become more situationally aware about the entire area around you instead of just where you're sitting when do you"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-roswell-new-mexico",
+      "node_type": "location",
+      "label": "Roswell, New Mexico",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:36.628098+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 0,
+          "quote": " he used to clean the legs of oil wells  out in the Gulf of Mexico until he got sucked into the mouth of a fish once it scared"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-united-states",
+      "node_type": "location",
+      "label": "United States",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:36.628102+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 0,
+          "quote": "curity award made a shocking  statement he claimed that the United States and other nations have had Direct contact with a Galactic F"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-south-africa",
+      "node_type": "location",
+      "label": "South Africa",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:36.628106+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 0,
+          "quote": "ically dropped lower than the treetop it had been downed in Africa all of Africa was given as the target to this psychic spy n"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-germany",
+      "node_type": "location",
+      "label": "Germany",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:36.628110+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 0,
+          "quote": "eing poisoned yeah I was delivered DOA to a clinic in pasel Germany from Austria and I had not had a heartbeat for almost 40 mi"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-roswell",
+      "node_type": "location",
+      "label": "Roswell",
+      "summary": "",
+      "tags": [
+        "city"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:36.628114+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 0,
+          "quote": "re actually there they're in their 80s but  he wouldn't say Roswell or kbur was no I'm talking about the ones that I was with h"
+        }
+      ],
+      "type_specific": {
+        "location_type": "city",
+        "country": "US",
+        "state_or_region": "New Mexico"
+      }
+    },
+    {
+      "id": "location-mexico",
+      "node_type": "location",
+      "label": "Mexico",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:36.628118+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 0,
+          "quote": " he used to clean the legs of oil wells  out in the Gulf of Mexico until he got sucked into the mouth of a fish once it scared"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-russia",
+      "node_type": "location",
+      "label": "Russia",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:36.628121+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 0,
+          "quote": "ating so they came and they tested him on a couple sites in Russia areas in Russia which we knew existed but could not get int"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "program-stargate-project",
+      "node_type": "program",
+      "label": "Stargate Project",
+      "summary": "",
+      "tags": [
+        "program"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:36.628126+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 0,
+          "quote": "aid it was a green file with a red stripe it said it's said Grill flame on it m and one of the reporter he was saying we found the "
+        }
+      ]
+    },
+    {
+      "id": "claim-JpLThEF2dTM-discussion-summary",
+      "node_type": "claim",
+      "label": "Video JpLThEF2dTM features extended discussion of Wilbert Brockhouse Smith, Graham Hancock, E. Howar",
+      "summary": "Video JpLThEF2dTM features extended discussion of Wilbert Brockhouse Smith, Graham Hancock, E. Howard Hunt and related UAP research topics, hosted by Jesse Michels.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:36.628137+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 0,
+          "quote": "Episode title: “Mars Had Alien Life!” (Ft. Joe McMoneagle)"
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Video JpLThEF2dTM features extended discussion of Wilbert Brockhouse Smith, Graham Hancock, E. Howard Hunt and related UAP research topics, hosted by Jesse Michels.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "JpLThEF2dTM",
+        "timestamp_start_seconds": 0,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-wilbert-brockhouse-smith",
+          "person-graham-hancock",
+          "person-e-howard-hunt",
+          "video-JpLThEF2dTM"
+        ]
+      }
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge-video-JpLThEF2dTM-HOSTED_BY-person-jesse-michels",
+      "from_node_id": "video-JpLThEF2dTM",
+      "to_node_id": "person-jesse-michels",
+      "relationship": "HOSTED_BY",
+      "confidence": 0.99,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 0,
+          "quote": "Jesse hosting"
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-APPEARED_IN-video-JpLThEF2dTM",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "video-JpLThEF2dTM",
+      "relationship": "APPEARED_IN",
+      "confidence": 0.99,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 0,
+          "quote": "Host"
+        }
+      ],
+      "properties": {
+        "appearance_type": "host"
+      }
+    },
+    {
+      "id": "edge-video-JpLThEF2dTM-MENTIONS-person-wilbert-brockhouse-smith",
+      "from_node_id": "video-JpLThEF2dTM",
+      "to_node_id": "person-wilbert-brockhouse-smith",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 0,
+          "quote": "I add one more story to just the Carter years sure Rosemary Smith is a psychic and I think a tu22 Russian Russian bear bomber"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-JpLThEF2dTM-MENTIONS-person-graham-hancock",
+      "from_node_id": "video-JpLThEF2dTM",
+      "to_node_id": "person-graham-hancock",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 0,
+          "quote": "tly more grounded is a theory suggested by researchers like Graham Hancock he states in the Mars my  that there could be some connecti"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-JpLThEF2dTM-MENTIONS-person-e-howard-hunt",
+      "from_node_id": "video-JpLThEF2dTM",
+      "to_node_id": "person-e-howard-hunt",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 0,
+          "quote": "f Submarine it  had many of the attributes that came out in Hunt for Red October 7 years later eight years later I can't rem"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-JpLThEF2dTM-MENTIONS-person-bill-clinton",
+      "from_node_id": "video-JpLThEF2dTM",
+      "to_node_id": "person-bill-clinton",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 0,
+          "quote": "d fossilized bacteria the discovery even prompted President Clinton to make an official televised announcement on the possible "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-JpLThEF2dTM-MENTIONS-person-james-harder",
+      "from_node_id": "video-JpLThEF2dTM",
+      "to_node_id": "person-james-harder",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 0,
+          "quote": "order to just slow it down a little bit make it little more harder to  perceive well that's interesting have you heard of Juli"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-JpLThEF2dTM-MENTIONS-person-jimmy-carter",
+      "from_node_id": "video-JpLThEF2dTM",
+      "to_node_id": "person-jimmy-carter",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 0,
+          "quote": "tively soon after that can I add one more story to just the Carter years sure Rosemary Smith is a psychic and I think a tu22 R"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-JpLThEF2dTM-MENTIONS-person-love-has-won",
+      "from_node_id": "video-JpLThEF2dTM",
+      "to_node_id": "person-love-has-won",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 0,
+          "quote": "d some open source protocols that you now Teach as well you won the Legion of Merit for over 200 instances in which you add"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-JpLThEF2dTM-MENTIONS-person-timothy-good",
+      "from_node_id": "video-JpLThEF2dTM",
+      "to_node_id": "person-timothy-good",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 0,
+          "quote": "he's kind of ooing your spear you know like oh man that's a good looking spear you pick that up he's a dead  man he starts c"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-JpLThEF2dTM-MENTIONS-person-art-bell",
+      "from_node_id": "video-JpLThEF2dTM",
+      "to_node_id": "person-art-bell",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 0,
+          "quote": "u go to an emergency room or clinic you get in by ringing a bell well he had me in a fireman's carry so he's kicking the  do"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-JpLThEF2dTM-MENTIONS-organization-international-ufo-museum-and-research-center",
+      "from_node_id": "video-JpLThEF2dTM",
+      "to_node_id": "organization-international-ufo-museum-and-research-center",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 0,
+          "quote": "der attack you go to the SEO the combat tactical  Operation Center and go inside the bunker and run the radios being control o"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-JpLThEF2dTM-MENTIONS-organization-identification-studies-of-ufos",
+      "from_node_id": "video-JpLThEF2dTM",
+      "to_node_id": "organization-identification-studies-of-ufos",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 0,
+          "quote": "craze right now like it's we're Peak Mania when it comes to UFOs in the Zeitgeist where you everybody's talking about disclo"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-JpLThEF2dTM-MENTIONS-organization-the-flying-saucers-are-real",
+      "from_node_id": "video-JpLThEF2dTM",
+      "to_node_id": "organization-the-flying-saucers-are-real",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 0,
+          "quote": "aw the square yeah that square on Mars from that yes that's real Is that real that's real that's 3 ft long and that Bigg aro"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-JpLThEF2dTM-MENTIONS-organization-archives-of-the-impossible",
+      "from_node_id": "video-JpLThEF2dTM",
+      "to_node_id": "organization-archives-of-the-impossible",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 0,
+          "quote": "ll that stuff to Rice University very cool the archives The Impossible yeah that's amazing yeah and after 10 minutes of training y"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-JpLThEF2dTM-MENTIONS-organization-unidentified-flying-object",
+      "from_node_id": "video-JpLThEF2dTM",
+      "to_node_id": "organization-unidentified-flying-object",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 0,
+          "quote": "game with much higher Stakes the name of the game is MX its object to hide our newest icbms from the enemy ensuring their surv"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-JpLThEF2dTM-MENTIONS-organization-us-department-of-defense",
+      "from_node_id": "video-JpLThEF2dTM",
+      "to_node_id": "organization-us-department-of-defense",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 0,
+          "quote": "ection and start backing into  a crowd because there's more defense in a crowd so it's almost like with the development of writ"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-JpLThEF2dTM-MENTIONS-organization-roswell-that-ends-well",
+      "from_node_id": "video-JpLThEF2dTM",
+      "to_node_id": "organization-roswell-that-ends-well",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 0,
+          "quote": "rs ago when did you start to believe there was life on Mars well you saw the square yeah that square on Mars from that yes t"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-JpLThEF2dTM-MENTIONS-organization-the-galileo-project",
+      "from_node_id": "video-JpLThEF2dTM",
+      "to_node_id": "organization-the-galileo-project",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 0,
+          "quote": "g back there I don't think it was called that it was called project scan eight or something at the beginning so they brought hi"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-JpLThEF2dTM-MENTIONS-organization-thornton-leigh-page",
+      "from_node_id": "video-JpLThEF2dTM",
+      "to_node_id": "organization-thornton-leigh-page",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 0,
+          "quote": "a professor ameritus at Sonoma State University wrote a 200-page book about NASA's failure to properly investigate the struc"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-JpLThEF2dTM-MENTIONS-organization-project-blue-book",
+      "from_node_id": "video-JpLThEF2dTM",
+      "to_node_id": "organization-project-blue-book",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 0,
+          "quote": " we have a problem we go see a doctor or we look it up in a book or whatever we didn't have to have that instant understandi"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-JpLThEF2dTM-MENTIONS-organization-world-contact-day",
+      "from_node_id": "video-JpLThEF2dTM",
+      "to_node_id": "organization-world-contact-day",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 0,
+          "quote": " and his phone number on the other so I called him the next day and he told me  how to get to his office and he was working"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-JpLThEF2dTM-MENTIONS-organization-us-air-force",
+      "from_node_id": "video-JpLThEF2dTM",
+      "to_node_id": "organization-us-air-force",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 0,
+          "quote": " they cancelled the MX missile program which ticked the Air Force off mightily because they were put in charge of it was a hu"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-JpLThEF2dTM-MENTIONS-organization-big-sur-ufo",
+      "from_node_id": "video-JpLThEF2dTM",
+      "to_node_id": "organization-big-sur-ufo",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 0,
+          "quote": "s to you know some deep underground location and they see a UFO together and then he's told to remote view the Dark Side of"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-JpLThEF2dTM-MENTIONS-organization-mirage-men",
+      "from_node_id": "video-JpLThEF2dTM",
+      "to_node_id": "organization-mirage-men",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 0,
+          "quote": " to one another we started out grunting and pointing so the men did the hunting and the women did the Gathering back in tho"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-JpLThEF2dTM-MENTIONS-organization-us-navy",
+      "from_node_id": "video-JpLThEF2dTM",
+      "to_node_id": "organization-us-navy",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 0,
+          "quote": "rine ever built with slanted tubes up until then the Soviet Navy would have to stop to launch which made him a Target so the"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-JpLThEF2dTM-MENTIONS-organization-nasa",
+      "from_node_id": "video-JpLThEF2dTM",
+      "to_node_id": "organization-nasa",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 0,
+          "quote": "e seeing all the data we must trust that organizations like NASA are sharing these images and data transparently but this ha"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-JpLThEF2dTM-MENTIONS-organization-cia",
+      "from_node_id": "video-JpLThEF2dTM",
+      "to_node_id": "organization-cia",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 0,
+          "quote": "y probably a little longer than that at what point does the CIA become interested in psychic spying and how do you get rope"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-JpLThEF2dTM-MENTIONS-organization-dod",
+      "from_node_id": "video-JpLThEF2dTM",
+      "to_node_id": "organization-dod",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 0,
+          "quote": "es for remote viewing Mars for example yeah a million years DOD Target by the way there so explain the context well how is "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-JpLThEF2dTM-MENTIONS-location-pacific-training-area",
+      "from_node_id": "video-JpLThEF2dTM",
+      "to_node_id": "location-pacific-training-area",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 0,
+          "quote": "ush so you become more situationally aware about the entire area around you instead of just where you're sitting when do you"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-JpLThEF2dTM-MENTIONS-location-roswell-new-mexico",
+      "from_node_id": "video-JpLThEF2dTM",
+      "to_node_id": "location-roswell-new-mexico",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 0,
+          "quote": " he used to clean the legs of oil wells  out in the Gulf of Mexico until he got sucked into the mouth of a fish once it scared"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-JpLThEF2dTM-MENTIONS-location-united-states",
+      "from_node_id": "video-JpLThEF2dTM",
+      "to_node_id": "location-united-states",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 0,
+          "quote": "curity award made a shocking  statement he claimed that the United States and other nations have had Direct contact with a Galactic F"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-JpLThEF2dTM-MENTIONS-location-south-africa",
+      "from_node_id": "video-JpLThEF2dTM",
+      "to_node_id": "location-south-africa",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 0,
+          "quote": "ically dropped lower than the treetop it had been downed in Africa all of Africa was given as the target to this psychic spy n"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-JpLThEF2dTM-MENTIONS-location-germany",
+      "from_node_id": "video-JpLThEF2dTM",
+      "to_node_id": "location-germany",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 0,
+          "quote": "eing poisoned yeah I was delivered DOA to a clinic in pasel Germany from Austria and I had not had a heartbeat for almost 40 mi"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-JpLThEF2dTM-MENTIONS-location-roswell",
+      "from_node_id": "video-JpLThEF2dTM",
+      "to_node_id": "location-roswell",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 0,
+          "quote": "re actually there they're in their 80s but  he wouldn't say Roswell or kbur was no I'm talking about the ones that I was with h"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-JpLThEF2dTM-MENTIONS-location-mexico",
+      "from_node_id": "video-JpLThEF2dTM",
+      "to_node_id": "location-mexico",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 0,
+          "quote": " he used to clean the legs of oil wells  out in the Gulf of Mexico until he got sucked into the mouth of a fish once it scared"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-JpLThEF2dTM-MENTIONS-location-russia",
+      "from_node_id": "video-JpLThEF2dTM",
+      "to_node_id": "location-russia",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 0,
+          "quote": "ating so they came and they tested him on a couple sites in Russia areas in Russia which we knew existed but could not get int"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-JpLThEF2dTM-MENTIONS-program-stargate-project",
+      "from_node_id": "video-JpLThEF2dTM",
+      "to_node_id": "program-stargate-project",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 0,
+          "quote": "aid it was a green file with a red stripe it said it's said Grill flame on it m and one of the reporter he was saying we found the "
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-JpLThEF2dTM-discussion-summary",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-JpLThEF2dTM-discussion-summary",
+      "relationship": "ASSERTED",
+      "confidence": 0.9,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 0,
+          "quote": "Episode: “Mars Had Alien Life!” (Ft. Joe McMoneagle)"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-JpLThEF2dTM-REFERENCES-claim-JpLThEF2dTM-discussion-summary",
+      "from_node_id": "video-JpLThEF2dTM",
+      "to_node_id": "claim-JpLThEF2dTM-discussion-summary",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 0
+        }
+      ]
+    }
+  ],
+  "extracted_at": "2026-04-17T11:04:36.628170+00:00",
+  "extractor_version": "v1-inline-claude"
+}

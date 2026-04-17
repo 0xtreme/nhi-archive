@@ -7,7 +7,17 @@ export type NodeType =
   | 'artifact'
   | 'designation'
   | 'event'
-  | 'media';
+  | 'media'
+  | 'video'
+  | 'program'
+  | 'document'
+  | 'concept'
+  | 'phenomenon'
+  | 'technology'
+  | 'claim'
+  | 'role'
+  | 'testimony'
+  | 'citation';
 
 export type Confidence = 'high' | 'medium' | 'low' | 'disputed';
 
@@ -61,5 +71,6 @@ export interface FilterState {
   dateTo: number;
   classifications: string[];
   tags: string[];
+  pipelineSources: string[];
   graphNodeCap: number;
 }

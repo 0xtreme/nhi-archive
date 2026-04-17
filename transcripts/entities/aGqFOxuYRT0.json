@@ -1,0 +1,1503 @@
+{
+  "video_id": "aGqFOxuYRT0",
+  "nodes": [
+    {
+      "id": "video-aGqFOxuYRT0",
+      "node_type": "video",
+      "label": "“There's A UFO On The Seafloor!” -Treasure Hunter Dennis Asberg",
+      "summary": "Our American Alchemist this week is Dennis Asberg. https://www.oceanexplorer.se\n\nJoin The American Alchemy Magazine (New!) ➤ https://substack.com/@americanalchemymagazine\n\nSign Up With Our...",
+      "tags": [
+        "video",
+        "american-alchemy"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:18.776432+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aGqFOxuYRT0",
+          "timestamp_start": 0,
+          "timestamp_end": 5719.0,
+          "quote": "Video: “There's A UFO On The Seafloor!” -Treasure Hunter Dennis Asberg"
+        }
+      ],
+      "type_specific": {
+        "video_id": "aGqFOxuYRT0",
+        "title": "“There's A UFO On The Seafloor!” -Treasure Hunter Dennis Asberg",
+        "url": "https://www.youtube.com/watch?v=aGqFOxuYRT0",
+        "view_count": 744588,
+        "duration_seconds": 5719.0,
+        "host_id": "person-jesse-michels"
+      }
+    },
+    {
+      "id": "person-jesse-michels",
+      "node_type": "person",
+      "label": "Jesse Michels",
+      "summary": "Host of American Alchemy podcast/show. Independent journalist and UFO/NHI researcher.",
+      "tags": [
+        "journalist",
+        "interviewer",
+        "researcher",
+        "host"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:18.776446+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aGqFOxuYRT0",
+          "timestamp_start": 0,
+          "quote": "Host of American Alchemy podcast/show."
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Jesse",
+          "Michels"
+        ],
+        "profession": "journalist",
+        "notability_tags": [
+          "journalist",
+          "interviewer",
+          "researcher",
+          "host"
+        ]
+      }
+    },
+    {
+      "id": "person-travis-walton",
+      "node_type": "person",
+      "label": "Travis Walton",
+      "summary": "Travis Walton entity extracted from cross-source archival records.",
+      "tags": [
+        "pipeline-generated",
+        "entity-extracted"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:19.239124+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aGqFOxuYRT0",
+          "timestamp_start": 0,
+          "quote": "d shift of, you know, electromagnetic  light. And you know, Travis Walton is another good example where he's in Arizona with his frie"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "TRAVIS WALTON",
+          "Walton",
+          "travis walton"
+        ],
+        "notability_tags": [
+          "pipeline-generated",
+          "entity-extracted"
+        ]
+      }
+    },
+    {
+      "id": "person-richard-dolan",
+      "node_type": "person",
+      "label": "Richard Dolan",
+      "summary": "",
+      "tags": [
+        "historian",
+        "author"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:19.239143+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aGqFOxuYRT0",
+          "timestamp_start": 0,
+          "quote": " of object, but that it was almost alive and it was I think Dolan might talk about this as well, Richard Dolan. So the object"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Dolan"
+        ],
+        "notability_tags": [
+          "historian",
+          "author"
+        ]
+      }
+    },
+    {
+      "id": "person-george-knapp",
+      "node_type": "person",
+      "label": "George Knapp",
+      "summary": "George Knapp entity extracted from cross-source archival records.",
+      "tags": [
+        "pipeline-generated",
+        "entity-extracted"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:19.239148+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aGqFOxuYRT0",
+          "timestamp_start": 0,
+          "quote": "lso he talks about in his interview with Jeremy Corbell and George Knapp the idea that some of these UFOs are made to purpose. So th"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "GEORGE KNAPP",
+          "Knapp",
+          "george knapp"
+        ],
+        "notability_tags": [
+          "pipeline-generated",
+          "entity-extracted"
+        ]
+      }
+    },
+    {
+      "id": "person-timothy-good",
+      "node_type": "person",
+      "label": "Timothy Good",
+      "summary": "",
+      "tags": [
+        "researcher",
+        "author"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:19.239156+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aGqFOxuYRT0",
+          "timestamp_start": 0,
+          "quote": "  >> The Baltic Sea Anomaly. Yeah.  >> What is it?  >> Wow. Good question. the Baltic Sea normally. Okay, the begins like th"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Tim Good",
+          "Good"
+        ],
+        "notability_tags": [
+          "researcher",
+          "author"
+        ]
+      }
+    },
+    {
+      "id": "person-chan-thomas",
+      "node_type": "person",
+      "label": "Chan Thomas",
+      "summary": "Chan Thomas (1920–1998) was an American engineer, ufologist, writer on ancient cataclysms, and self-proclaimed polymath whose ideas have influenced conspiracy theorists in the 21st century.",
+      "tags": [
+        "wikipedia",
+        "20th-century american engineers",
+        "mcdonnell douglas people",
+        "ufologists",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:19.239160+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aGqFOxuYRT0",
+          "timestamp_start": 0,
+          "quote": "uff you know GPS and so on. And then we're quite close. And Thomas said to me, \"Okay, let's start.\" Then we begin with a multi"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "CHAN THOMAS",
+          "Thomas",
+          "chan thomas"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "20th-century american engineers",
+          "mcdonnell douglas people",
+          "ufologists",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "person-garry-nolan",
+      "node_type": "person",
+      "label": "Garry Nolan",
+      "summary": "Garry P. Nolan (born c. 1961) is a British-American immunologist, academic, inventor, and business executive. He holds the Rachford and Carlota A. Harris Professor Endowed Chair in the Department of Pathology at Stanford University School of Medicine. Nolan has founded biotechnology companies. Since",
+      "tags": [
+        "wikipedia",
+        "1960s births",
+        "american cancer researchers",
+        "american immunologists",
+        "american pathologists",
+        "british cancer researchers",
+        "british immunologists",
+        "cornell university alumni",
+        "pages with broken reference names",
+        "pages with reference errors",
+        "serologists",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:19.239165+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aGqFOxuYRT0",
+          "timestamp_start": 0,
+          "quote": " >> it's interesting. Even a scientist as reputable as Gary Nolan at Stanford, it's similar where like he kind of started to "
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "GARRY NOLAN",
+          "Nolan",
+          "garry nolan"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "1960s births",
+          "american cancer researchers",
+          "american immunologists",
+          "american pathologists",
+          "british cancer researchers",
+          "british immunologists",
+          "cornell university alumni",
+          "pages with broken reference names",
+          "pages with reference errors",
+          "serologists",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "organization-international-ufo-museum-and-research-center",
+      "node_type": "organization",
+      "label": "International UFO Museum and Research Center",
+      "summary": "The International UFO Museum and Research Center is located in Roswell, New Mexico, United States, in the downtown district, and is focused largely on the 1947 Roswell Crash and later supposed UFO incidents in the United States and elsewhere. It was founded in 1991 as a 501c3 nonprofit educational o",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:19.239174+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aGqFOxuYRT0",
+          "timestamp_start": 0,
+          "quote": "hey're going down here. And  was it like pretty much in the center of the Baltic Sea?  >> Whoa.  >> Crazy. Right after you wen"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-the-report-on-unidentified-flying-objects",
+      "node_type": "organization",
+      "label": "The Report on Unidentified Flying Objects",
+      "summary": "The Report on Unidentified Flying Objects is a 1956 book by then-retired Air Force UFO investigator Edward J. Ruppelt, detailing his experience running Project Blue Book. The book was noted for its suggestion that a few UFO sightings might be linked to spikes of atomic radiation. Contemporary media ",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:19.239180+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aGqFOxuYRT0",
+          "timestamp_start": 0,
+          "quote": "m below the surface, 60 m wide. This is one of the weirdest objects ever detected by humans in the ocean. Period.  >> Yeah. It'"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-1952-washington-d-c-ufo-incident",
+      "node_type": "organization",
+      "label": "1952 Washington, D.C. UFO incident",
+      "summary": "From July 12 to 29, 1952, a series of unidentified flying object (UFO) sightings were reported in Washington, D.C., and later became known as the Washington flap, the Washington National Airport Sightings, or the Invasion of Washington. The most publicized sightings took place on consecutive weekend",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:19.239185+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aGqFOxuYRT0",
+          "timestamp_start": 0,
+          "quote": "ht about later perhaps a couple of weeks a month after that incident was a feeling I had  >> a feeling feeling that usually I do"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-identification-studies-of-ufos",
+      "node_type": "organization",
+      "label": "Identification studies of UFOs",
+      "summary": "Identifying unidentified flying objects (UFOs) is a difficult task due to the normally poor quality of the evidence provided by those who report sighting the unknown object. Observations and subsequent reporting are often made by those untrained in astronomy, atmospheric phenomena, aeronautics, phys",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:19.239190+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aGqFOxuYRT0",
+          "timestamp_start": 0,
+          "quote": "and you must be familiar given that you have an interest in UFOs with the fact that you have electromagnetic anomalies occur"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-lakenheath-bentwaters-incident",
+      "node_type": "organization",
+      "label": "Lakenheath-Bentwaters incident",
+      "summary": "The Lakenheath-Bentwaters Incident was a series of radar and visual contacts with unidentified flying objects over airbases in eastern England on the night of 13–14 August 1956, involving personnel from the Royal Air Force (RAF) and the United States Air Force (USAF). The incident has since gained s",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:19.239195+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aGqFOxuYRT0",
+          "timestamp_start": 0,
+          "quote": "ht about later perhaps a couple of weeks a month after that incident was a feeling I had  >> a feeling feeling that usually I do"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-the-flying-saucers-are-real",
+      "node_type": "organization",
+      "label": "The Flying Saucers Are Real",
+      "summary": "The Flying Saucers Are Real, by Donald Keyhoe, is a book that investigated reports of UFOs by United States Air Force fighters, personnel, and other aircraft, between 1947 and 1950.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:19.239199+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aGqFOxuYRT0",
+          "timestamp_start": 0,
+          "quote": ". His name is Dennis Asber. And this Swedish sensation is a real life superhero out of a different era.  >> I'm a curious gu"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-archives-of-the-impossible",
+      "node_type": "organization",
+      "label": "Archives of the Impossible",
+      "summary": "The Archives of the Impossible (AOTI), sometimes called the Center for the Impossible, is a special collection at Rice University in Houston, Texas, United States. Founded in 2014 by Jeffrey J. Kripal, AOTI is based at the Woodson Research Center in the Fondren Library. It stewards collections on UF",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:19.239204+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aGqFOxuYRT0",
+          "timestamp_start": 0,
+          "quote": "e subject professionally later in life. So  >> I think it's impossible to  >> completely separate the observer and the observed. A"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-unidentified-flying-object",
+      "node_type": "organization",
+      "label": "Unidentified flying object",
+      "summary": "An unidentified flying object (UFO) is an object or phenomenon seen in the sky but not yet identified or explained. The term was coined when United States Air Force (USAF) investigations into flying saucers found too broad a range of shapes reported to consider them all saucers or discs. UFOs are al",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:19.239211+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aGqFOxuYRT0",
+          "timestamp_start": 0,
+          "quote": "O or what's now known as a USO, an unidentified submersible object in the very remote Baltic Sea.  >> It's something that make"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-us-department-of-defense",
+      "node_type": "organization",
+      "label": "US Department of Defense",
+      "summary": "US Department of Defense entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:19.239216+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aGqFOxuYRT0",
+          "timestamp_start": 0,
+          "quote": "that you can I think it's important maybe for just  >> as a defense for yourself to show  >> the process as you're finding thin"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-lonnie-zamora-incident",
+      "node_type": "organization",
+      "label": "Lonnie Zamora incident",
+      "summary": "The Lonnie Zamora incident was an alleged UFO sighting that occurred on April 24, 1964 near Socorro, New Mexico when Socorro police officer Lonnie Zamora claimed he saw two people beside a shiny object that later rose into the air accompanied by a roaring blue and orange flame. Zamora's claims were ",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:19.239221+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aGqFOxuYRT0",
+          "timestamp_start": 0,
+          "quote": "ht about later perhaps a couple of weeks a month after that incident was a feeling I had  >> a feeling feeling that usually I do"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-roswell-that-ends-well",
+      "node_type": "organization",
+      "label": "Roswell That Ends Well",
+      "summary": "\"Roswell That Ends Well\" is the nineteenth episode in the third season of the American animated television series Futurama, and the 51st episode of the series overall. It originally aired on the Fox network in the United States on December 9, 2001. The plot centers on an accidental time travel event",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:19.239226+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aGqFOxuYRT0",
+          "timestamp_start": 0,
+          "quote": "'m sure a lot of the people working with you at the time as well.  >> Yeah. Yeah. So, it's No, it's very strange. And not on"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-the-galileo-project",
+      "node_type": "organization",
+      "label": "The Galileo Project",
+      "summary": "The Galileo Project is an international scientific research project to search for extraterrestrial intelligence or extraterrestrial technology on and near Earth and to identify the nature of anomalous Unidentified Flying Objects/Unidentified Aerial Phenomena (UFOs/UAP). It was launched in 2021 by Ha",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:19.239230+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aGqFOxuYRT0",
+          "timestamp_start": 0,
+          "quote": "ficult because we have spent lots of time and money on this project because we believe this is can this is can finance our othe"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-project-blue-book",
+      "node_type": "organization",
+      "label": "Project Blue Book",
+      "summary": "USAF UFO investigation program active from 1952 to 1969.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:19.239234+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aGqFOxuYRT0",
+          "timestamp_start": 0,
+          "quote": "in the US there's a guy named John Pena Craven. He wrote a  book called The Silent War and they talk about all sorts of cove"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-world-contact-day",
+      "node_type": "organization",
+      "label": "World Contact Day",
+      "summary": "World Contact Day was first declared in March 1953 by an organization called the International Flying Saucer Bureau (IFSB), as a day on which all IFSB members would attempt to send a telepathic message into space. The IFSB voted to hold such a day in 1953, theorising that if both telepathy and alien",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:19.239239+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aGqFOxuYRT0",
+          "timestamp_start": 0,
+          "quote": "international news  >> and my phone is ringing all the time day and night, day and night and I turn it off sometimes becaus"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-us-air-force",
+      "node_type": "organization",
+      "label": "US Air Force",
+      "summary": "US Air Force entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:19.239243+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aGqFOxuYRT0",
+          "timestamp_start": 0,
+          "quote": "awrence Preston Gis at Sandia National Labs in Kirtland Air Force Base in New Mexico.  >> Amazing.  >> And so anyway, so this"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-big-sur-ufo",
+      "node_type": "organization",
+      "label": "Big Sur UFO",
+      "summary": "The Big Sur UFO is a reported UFO incident that took place during a 1964 Air Force deployment to a mountaintop near Big Sur, California. The deployment was a mission was to film Atlas missile tests from Vandenberg Air Force Base. Since 1982, Robert Jacobs, who had overseen the mountaintop team, has ",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:19.239247+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aGqFOxuYRT0",
+          "timestamp_start": 0,
+          "quote": "# “There's A UFO On The Seafloor!” -Treasure Hunter Dennis Asberg https://ww"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-us-navy",
+      "node_type": "organization",
+      "label": "US Navy",
+      "summary": "US Navy entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:19.239251+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aGqFOxuYRT0",
+          "timestamp_start": 0,
+          "quote": "denly we saw in the distance that this must be some kind of Navy ship heading directly on us. 859 all big  >> turned out to "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-fbi",
+      "node_type": "organization",
+      "label": "FBI",
+      "summary": "FBI entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:19.239259+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aGqFOxuYRT0",
+          "timestamp_start": 0,
+          "quote": "e there I got the call from the Swedish let's say it's like FBI Hi  >> in Sweden and they want me there directly. Come over"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other",
+        "acronym": "FBI"
+      }
+    },
+    {
+      "id": "location-pacific-training-area",
+      "node_type": "location",
+      "label": "Pacific Training Area",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:19.239265+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aGqFOxuYRT0",
+          "timestamp_start": 0,
+          "quote": " with my parents because they were also interesting in that area to find out things and search for things that nobody else h"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-roswell-new-mexico",
+      "node_type": "location",
+      "label": "Roswell, New Mexico",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:19.239270+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aGqFOxuYRT0",
+          "timestamp_start": 0,
+          "quote": "s at Sandia National Labs in Kirtland Air Force Base in New Mexico.  >> Amazing.  >> And so anyway, so this guy David Noble Wr"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-rendlesham-forest",
+      "node_type": "location",
+      "label": "Rendlesham Forest",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:19.239274+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aGqFOxuYRT0",
+          "timestamp_start": 0,
+          "quote": "have seen cigars they have you know crashed in the water in forest and things like that and they want  to talk to me and you k"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-skinwalker-ranch",
+      "node_type": "location",
+      "label": "Skinwalker Ranch",
+      "summary": "",
+      "tags": [
+        "ranch"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:19.239278+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aGqFOxuYRT0",
+          "timestamp_start": 0,
+          "quote": "s definitively weird. And like the object under the mesa at Skinwalker Ranch, it seems to have a life of its own. So, without further ad"
+        }
+      ],
+      "type_specific": {
+        "location_type": "ranch",
+        "country": "US",
+        "state_or_region": "Utah"
+      }
+    },
+    {
+      "id": "location-australia",
+      "node_type": "location",
+      "label": "Australia",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:19.239282+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aGqFOxuYRT0",
+          "timestamp_start": 0,
+          "quote": " then we talked to friends in the same area as we are in US Australia and Europe and show them the pictures and they said no we h"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-finland",
+      "node_type": "location",
+      "label": "Finland",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:19.239286+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aGqFOxuYRT0",
+          "timestamp_start": 0,
+          "quote": " 60 kilometers out at sea and kind of the epicenter between Finland and Sweden. We're right above the spot, right above  the Ba"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-germany",
+      "node_type": "location",
+      "label": "Germany",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:19.239289+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aGqFOxuYRT0",
+          "timestamp_start": 0,
+          "quote": "edish authorities?  >> No, NATO. It's NATO. were French and Germany, American, British ships around us.  >> Yep. And then also "
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-mexico",
+      "node_type": "location",
+      "label": "Mexico",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:19.239294+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aGqFOxuYRT0",
+          "timestamp_start": 0,
+          "quote": "s at Sandia National Labs in Kirtland Air Force Base in New Mexico.  >> Amazing.  >> And so anyway, so this guy David Noble Wr"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "claim-aGqFOxuYRT0-discussion-summary",
+      "node_type": "claim",
+      "label": "Video aGqFOxuYRT0 features extended discussion of Travis Walton, Richard Dolan, George Knapp and rel",
+      "summary": "Video aGqFOxuYRT0 features extended discussion of Travis Walton, Richard Dolan, George Knapp and related UAP research topics, hosted by Jesse Michels.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:19.239305+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aGqFOxuYRT0",
+          "timestamp_start": 0,
+          "quote": "Episode title: “There's A UFO On The Seafloor!” -Treasure Hunter Dennis Asberg"
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Video aGqFOxuYRT0 features extended discussion of Travis Walton, Richard Dolan, George Knapp and related UAP research topics, hosted by Jesse Michels.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "aGqFOxuYRT0",
+        "timestamp_start_seconds": 0,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-travis-walton",
+          "person-richard-dolan",
+          "person-george-knapp",
+          "video-aGqFOxuYRT0"
+        ]
+      }
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge-video-aGqFOxuYRT0-HOSTED_BY-person-jesse-michels",
+      "from_node_id": "video-aGqFOxuYRT0",
+      "to_node_id": "person-jesse-michels",
+      "relationship": "HOSTED_BY",
+      "confidence": 0.99,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aGqFOxuYRT0",
+          "timestamp_start": 0,
+          "quote": "Jesse hosting"
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-APPEARED_IN-video-aGqFOxuYRT0",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "video-aGqFOxuYRT0",
+      "relationship": "APPEARED_IN",
+      "confidence": 0.99,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aGqFOxuYRT0",
+          "timestamp_start": 0,
+          "quote": "Host"
+        }
+      ],
+      "properties": {
+        "appearance_type": "host"
+      }
+    },
+    {
+      "id": "edge-video-aGqFOxuYRT0-MENTIONS-person-travis-walton",
+      "from_node_id": "video-aGqFOxuYRT0",
+      "to_node_id": "person-travis-walton",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aGqFOxuYRT0",
+          "timestamp_start": 0,
+          "quote": "d shift of, you know, electromagnetic  light. And you know, Travis Walton is another good example where he's in Arizona with his frie"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-aGqFOxuYRT0-MENTIONS-person-richard-dolan",
+      "from_node_id": "video-aGqFOxuYRT0",
+      "to_node_id": "person-richard-dolan",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aGqFOxuYRT0",
+          "timestamp_start": 0,
+          "quote": " of object, but that it was almost alive and it was I think Dolan might talk about this as well, Richard Dolan. So the object"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-aGqFOxuYRT0-MENTIONS-person-george-knapp",
+      "from_node_id": "video-aGqFOxuYRT0",
+      "to_node_id": "person-george-knapp",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aGqFOxuYRT0",
+          "timestamp_start": 0,
+          "quote": "lso he talks about in his interview with Jeremy Corbell and George Knapp the idea that some of these UFOs are made to purpose. So th"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-aGqFOxuYRT0-MENTIONS-person-timothy-good",
+      "from_node_id": "video-aGqFOxuYRT0",
+      "to_node_id": "person-timothy-good",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aGqFOxuYRT0",
+          "timestamp_start": 0,
+          "quote": "  >> The Baltic Sea Anomaly. Yeah.  >> What is it?  >> Wow. Good question. the Baltic Sea normally. Okay, the begins like th"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-aGqFOxuYRT0-MENTIONS-person-chan-thomas",
+      "from_node_id": "video-aGqFOxuYRT0",
+      "to_node_id": "person-chan-thomas",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aGqFOxuYRT0",
+          "timestamp_start": 0,
+          "quote": "uff you know GPS and so on. And then we're quite close. And Thomas said to me, \"Okay, let's start.\" Then we begin with a multi"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-aGqFOxuYRT0-MENTIONS-person-garry-nolan",
+      "from_node_id": "video-aGqFOxuYRT0",
+      "to_node_id": "person-garry-nolan",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aGqFOxuYRT0",
+          "timestamp_start": 0,
+          "quote": " >> it's interesting. Even a scientist as reputable as Gary Nolan at Stanford, it's similar where like he kind of started to "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-aGqFOxuYRT0-MENTIONS-organization-international-ufo-museum-and-research-center",
+      "from_node_id": "video-aGqFOxuYRT0",
+      "to_node_id": "organization-international-ufo-museum-and-research-center",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aGqFOxuYRT0",
+          "timestamp_start": 0,
+          "quote": "hey're going down here. And  was it like pretty much in the center of the Baltic Sea?  >> Whoa.  >> Crazy. Right after you wen"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-aGqFOxuYRT0-MENTIONS-organization-the-report-on-unidentified-flying-objects",
+      "from_node_id": "video-aGqFOxuYRT0",
+      "to_node_id": "organization-the-report-on-unidentified-flying-objects",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aGqFOxuYRT0",
+          "timestamp_start": 0,
+          "quote": "m below the surface, 60 m wide. This is one of the weirdest objects ever detected by humans in the ocean. Period.  >> Yeah. It'"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-aGqFOxuYRT0-MENTIONS-organization-1952-washington-d-c-ufo-incident",
+      "from_node_id": "video-aGqFOxuYRT0",
+      "to_node_id": "organization-1952-washington-d-c-ufo-incident",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aGqFOxuYRT0",
+          "timestamp_start": 0,
+          "quote": "ht about later perhaps a couple of weeks a month after that incident was a feeling I had  >> a feeling feeling that usually I do"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-aGqFOxuYRT0-MENTIONS-organization-identification-studies-of-ufos",
+      "from_node_id": "video-aGqFOxuYRT0",
+      "to_node_id": "organization-identification-studies-of-ufos",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aGqFOxuYRT0",
+          "timestamp_start": 0,
+          "quote": "and you must be familiar given that you have an interest in UFOs with the fact that you have electromagnetic anomalies occur"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-aGqFOxuYRT0-MENTIONS-organization-lakenheath-bentwaters-incident",
+      "from_node_id": "video-aGqFOxuYRT0",
+      "to_node_id": "organization-lakenheath-bentwaters-incident",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aGqFOxuYRT0",
+          "timestamp_start": 0,
+          "quote": "ht about later perhaps a couple of weeks a month after that incident was a feeling I had  >> a feeling feeling that usually I do"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-aGqFOxuYRT0-MENTIONS-organization-the-flying-saucers-are-real",
+      "from_node_id": "video-aGqFOxuYRT0",
+      "to_node_id": "organization-the-flying-saucers-are-real",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aGqFOxuYRT0",
+          "timestamp_start": 0,
+          "quote": ". His name is Dennis Asber. And this Swedish sensation is a real life superhero out of a different era.  >> I'm a curious gu"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-aGqFOxuYRT0-MENTIONS-organization-archives-of-the-impossible",
+      "from_node_id": "video-aGqFOxuYRT0",
+      "to_node_id": "organization-archives-of-the-impossible",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aGqFOxuYRT0",
+          "timestamp_start": 0,
+          "quote": "e subject professionally later in life. So  >> I think it's impossible to  >> completely separate the observer and the observed. A"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-aGqFOxuYRT0-MENTIONS-organization-unidentified-flying-object",
+      "from_node_id": "video-aGqFOxuYRT0",
+      "to_node_id": "organization-unidentified-flying-object",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aGqFOxuYRT0",
+          "timestamp_start": 0,
+          "quote": "O or what's now known as a USO, an unidentified submersible object in the very remote Baltic Sea.  >> It's something that make"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-aGqFOxuYRT0-MENTIONS-organization-us-department-of-defense",
+      "from_node_id": "video-aGqFOxuYRT0",
+      "to_node_id": "organization-us-department-of-defense",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aGqFOxuYRT0",
+          "timestamp_start": 0,
+          "quote": "that you can I think it's important maybe for just  >> as a defense for yourself to show  >> the process as you're finding thin"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-aGqFOxuYRT0-MENTIONS-organization-lonnie-zamora-incident",
+      "from_node_id": "video-aGqFOxuYRT0",
+      "to_node_id": "organization-lonnie-zamora-incident",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aGqFOxuYRT0",
+          "timestamp_start": 0,
+          "quote": "ht about later perhaps a couple of weeks a month after that incident was a feeling I had  >> a feeling feeling that usually I do"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-aGqFOxuYRT0-MENTIONS-organization-roswell-that-ends-well",
+      "from_node_id": "video-aGqFOxuYRT0",
+      "to_node_id": "organization-roswell-that-ends-well",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aGqFOxuYRT0",
+          "timestamp_start": 0,
+          "quote": "'m sure a lot of the people working with you at the time as well.  >> Yeah. Yeah. So, it's No, it's very strange. And not on"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-aGqFOxuYRT0-MENTIONS-organization-the-galileo-project",
+      "from_node_id": "video-aGqFOxuYRT0",
+      "to_node_id": "organization-the-galileo-project",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aGqFOxuYRT0",
+          "timestamp_start": 0,
+          "quote": "ficult because we have spent lots of time and money on this project because we believe this is can this is can finance our othe"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-aGqFOxuYRT0-MENTIONS-organization-project-blue-book",
+      "from_node_id": "video-aGqFOxuYRT0",
+      "to_node_id": "organization-project-blue-book",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aGqFOxuYRT0",
+          "timestamp_start": 0,
+          "quote": "in the US there's a guy named John Pena Craven. He wrote a  book called The Silent War and they talk about all sorts of cove"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-aGqFOxuYRT0-MENTIONS-organization-world-contact-day",
+      "from_node_id": "video-aGqFOxuYRT0",
+      "to_node_id": "organization-world-contact-day",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aGqFOxuYRT0",
+          "timestamp_start": 0,
+          "quote": "international news  >> and my phone is ringing all the time day and night, day and night and I turn it off sometimes becaus"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-aGqFOxuYRT0-MENTIONS-organization-us-air-force",
+      "from_node_id": "video-aGqFOxuYRT0",
+      "to_node_id": "organization-us-air-force",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aGqFOxuYRT0",
+          "timestamp_start": 0,
+          "quote": "awrence Preston Gis at Sandia National Labs in Kirtland Air Force Base in New Mexico.  >> Amazing.  >> And so anyway, so this"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-aGqFOxuYRT0-MENTIONS-organization-big-sur-ufo",
+      "from_node_id": "video-aGqFOxuYRT0",
+      "to_node_id": "organization-big-sur-ufo",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aGqFOxuYRT0",
+          "timestamp_start": 0,
+          "quote": "# “There's A UFO On The Seafloor!” -Treasure Hunter Dennis Asberg https://ww"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-aGqFOxuYRT0-MENTIONS-organization-us-navy",
+      "from_node_id": "video-aGqFOxuYRT0",
+      "to_node_id": "organization-us-navy",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aGqFOxuYRT0",
+          "timestamp_start": 0,
+          "quote": "denly we saw in the distance that this must be some kind of Navy ship heading directly on us. 859 all big  >> turned out to "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-aGqFOxuYRT0-MENTIONS-organization-fbi",
+      "from_node_id": "video-aGqFOxuYRT0",
+      "to_node_id": "organization-fbi",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aGqFOxuYRT0",
+          "timestamp_start": 0,
+          "quote": "e there I got the call from the Swedish let's say it's like FBI Hi  >> in Sweden and they want me there directly. Come over"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-aGqFOxuYRT0-MENTIONS-location-pacific-training-area",
+      "from_node_id": "video-aGqFOxuYRT0",
+      "to_node_id": "location-pacific-training-area",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aGqFOxuYRT0",
+          "timestamp_start": 0,
+          "quote": " with my parents because they were also interesting in that area to find out things and search for things that nobody else h"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-aGqFOxuYRT0-MENTIONS-location-roswell-new-mexico",
+      "from_node_id": "video-aGqFOxuYRT0",
+      "to_node_id": "location-roswell-new-mexico",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aGqFOxuYRT0",
+          "timestamp_start": 0,
+          "quote": "s at Sandia National Labs in Kirtland Air Force Base in New Mexico.  >> Amazing.  >> And so anyway, so this guy David Noble Wr"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-aGqFOxuYRT0-MENTIONS-location-rendlesham-forest",
+      "from_node_id": "video-aGqFOxuYRT0",
+      "to_node_id": "location-rendlesham-forest",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aGqFOxuYRT0",
+          "timestamp_start": 0,
+          "quote": "have seen cigars they have you know crashed in the water in forest and things like that and they want  to talk to me and you k"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-aGqFOxuYRT0-MENTIONS-location-skinwalker-ranch",
+      "from_node_id": "video-aGqFOxuYRT0",
+      "to_node_id": "location-skinwalker-ranch",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aGqFOxuYRT0",
+          "timestamp_start": 0,
+          "quote": "s definitively weird. And like the object under the mesa at Skinwalker Ranch, it seems to have a life of its own. So, without further ad"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-aGqFOxuYRT0-MENTIONS-location-australia",
+      "from_node_id": "video-aGqFOxuYRT0",
+      "to_node_id": "location-australia",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aGqFOxuYRT0",
+          "timestamp_start": 0,
+          "quote": " then we talked to friends in the same area as we are in US Australia and Europe and show them the pictures and they said no we h"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-aGqFOxuYRT0-MENTIONS-location-finland",
+      "from_node_id": "video-aGqFOxuYRT0",
+      "to_node_id": "location-finland",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aGqFOxuYRT0",
+          "timestamp_start": 0,
+          "quote": " 60 kilometers out at sea and kind of the epicenter between Finland and Sweden. We're right above the spot, right above  the Ba"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-aGqFOxuYRT0-MENTIONS-location-germany",
+      "from_node_id": "video-aGqFOxuYRT0",
+      "to_node_id": "location-germany",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aGqFOxuYRT0",
+          "timestamp_start": 0,
+          "quote": "edish authorities?  >> No, NATO. It's NATO. were French and Germany, American, British ships around us.  >> Yep. And then also "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-aGqFOxuYRT0-MENTIONS-location-mexico",
+      "from_node_id": "video-aGqFOxuYRT0",
+      "to_node_id": "location-mexico",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aGqFOxuYRT0",
+          "timestamp_start": 0,
+          "quote": "s at Sandia National Labs in Kirtland Air Force Base in New Mexico.  >> Amazing.  >> And so anyway, so this guy David Noble Wr"
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-aGqFOxuYRT0-discussion-summary",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-aGqFOxuYRT0-discussion-summary",
+      "relationship": "ASSERTED",
+      "confidence": 0.9,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aGqFOxuYRT0",
+          "timestamp_start": 0,
+          "quote": "Episode: “There's A UFO On The Seafloor!” -Treasure Hunter Dennis Asberg"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-aGqFOxuYRT0-REFERENCES-claim-aGqFOxuYRT0-discussion-summary",
+      "from_node_id": "video-aGqFOxuYRT0",
+      "to_node_id": "claim-aGqFOxuYRT0-discussion-summary",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aGqFOxuYRT0",
+          "timestamp_start": 0
+        }
+      ]
+    }
+  ],
+  "extracted_at": "2026-04-17T11:04:19.239349+00:00",
+  "extractor_version": "v1-inline-claude"
+}

@@ -1,0 +1,1049 @@
+{
+  "video_id": "RofQnByLwOo",
+  "nodes": [
+    {
+      "id": "video-RofQnByLwOo",
+      "node_type": "video",
+      "label": "Your Brain Is A Quantum Time Machine (ft. Eric Wargo)",
+      "summary": "On today's episode of American Alchemy, we welcome Eric Wargo, a science writer and author known for exploring the mysteries of time, precognition, and the human mind. Eric's works, including...",
+      "tags": [
+        "video",
+        "american-alchemy"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:06.740259+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RofQnByLwOo",
+          "timestamp_start": 0,
+          "timestamp_end": 1776.0,
+          "quote": "Video: Your Brain Is A Quantum Time Machine (ft. Eric Wargo)"
+        }
+      ],
+      "type_specific": {
+        "video_id": "RofQnByLwOo",
+        "title": "Your Brain Is A Quantum Time Machine (ft. Eric Wargo)",
+        "url": "https://www.youtube.com/watch?v=RofQnByLwOo",
+        "view_count": 149778,
+        "duration_seconds": 1776.0,
+        "host_id": "person-jesse-michels"
+      }
+    },
+    {
+      "id": "person-jesse-michels",
+      "node_type": "person",
+      "label": "Jesse Michels",
+      "summary": "Host of American Alchemy podcast/show. Independent journalist and UFO/NHI researcher.",
+      "tags": [
+        "journalist",
+        "interviewer",
+        "researcher",
+        "host"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:06.740279+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RofQnByLwOo",
+          "timestamp_start": 0,
+          "quote": "Host of American Alchemy podcast/show."
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Jesse",
+          "Michels"
+        ],
+        "profession": "journalist",
+        "notability_tags": [
+          "journalist",
+          "interviewer",
+          "researcher",
+          "host"
+        ]
+      }
+    },
+    {
+      "id": "person-wilbert-brockhouse-smith",
+      "node_type": "person",
+      "label": "Wilbert Brockhouse Smith",
+      "summary": "William Brockhouse Smith (1910 – December 27, 1962) was a Canadian engineer, government scientist, ufologist, and author of various patents and technical papers.",
+      "tags": [
+        "wikipedia",
+        "20th-century canadian engineers",
+        "canadian electrical engineers",
+        "contactees",
+        "date of birth missing",
+        "date of birth not in wikidata",
+        "engineers from alberta",
+        "pages where birth or death is being automatically determined",
+        "people from lethbridge",
+        "ufologists",
+        "university of british columbia alumni"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:06.909069+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RofQnByLwOo",
+          "timestamp_start": 0,
+          "quote": " spoke to mcmonagle's colleague and fellow psychic spy Paul Smith about it and everybody thought that was crazy and it was pr"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Smith",
+          "WILBERT BROCKHOUSE SMITH",
+          "wilbert brockhouse smith"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "20th-century canadian engineers",
+          "canadian electrical engineers",
+          "contactees",
+          "date of birth missing",
+          "date of birth not in wikidata",
+          "engineers from alberta",
+          "pages where birth or death is being automatically determined",
+          "people from lethbridge",
+          "ufologists",
+          "university of british columbia alumni"
+        ]
+      }
+    },
+    {
+      "id": "person-jimmy-carter",
+      "node_type": "person",
+      "label": "Jimmy Carter",
+      "summary": "Jimmy Carter entity extracted from cross-source archival records.",
+      "tags": [
+        "pipeline-generated",
+        "entity-extracted"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:06.909079+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RofQnByLwOo",
+          "timestamp_start": 0,
+          "quote": "nded up drawing a 3 square mile area in zier even President Jimmy Carter recalls this being the most miraculous thing that occurred "
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Carter",
+          "JIMMY CARTER",
+          "jimmy carter"
+        ],
+        "notability_tags": [
+          "pipeline-generated",
+          "entity-extracted"
+        ]
+      }
+    },
+    {
+      "id": "person-love-has-won",
+      "node_type": "person",
+      "label": "Love Has Won",
+      "summary": "Love Has Won (LHW), also known as the Galactic Federation of Light, is an American new religious movement that was led by Amy Carlson until her death in 2021. Carlson was referred to within the group as \"Mother God\", who described herself as, among other things, the creator of the universe, with the",
+      "tags": [
+        "wikipedia",
+        "2007 establishments in colorado",
+        "ancient astronaut speculation",
+        "covid-19 vaccine misinformation and hesitancy",
+        "climate change denial in the united states",
+        "holocaust denial in the united states",
+        "new age organizations",
+        "new religious movements established in the 2000s",
+        "qanon",
+        "religious belief systems founded in the united states",
+        "religious controversies in the united states",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:06.909084+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RofQnByLwOo",
+          "timestamp_start": 0,
+          "quote": "idnapped American General James doer in fact mcmonagle even won the prestigious Legion of Merit for his work in the psychic"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "LOVE HAS WON",
+          "Won",
+          "love has won"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "2007 establishments in colorado",
+          "ancient astronaut speculation",
+          "covid-19 vaccine misinformation and hesitancy",
+          "climate change denial in the united states",
+          "holocaust denial in the united states",
+          "new age organizations",
+          "new religious movements established in the 2000s",
+          "qanon",
+          "religious belief systems founded in the united states",
+          "religious controversies in the united states",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "person-timothy-good",
+      "node_type": "person",
+      "label": "Timothy Good",
+      "summary": "",
+      "tags": [
+        "researcher",
+        "author"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:06.909089+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RofQnByLwOo",
+          "timestamp_start": 0,
+          "quote": "r Monday so thrilling those once a year deals that feel too good to pass up but here's the best part with raycon you're alre"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Tim Good",
+          "Good"
+        ],
+        "notability_tags": [
+          "researcher",
+          "author"
+        ]
+      }
+    },
+    {
+      "id": "person-garry-nolan",
+      "node_type": "person",
+      "label": "Garry Nolan",
+      "summary": "Garry P. Nolan (born c. 1961) is a British-American immunologist, academic, inventor, and business executive. He holds the Rachford and Carlota A. Harris Professor Endowed Chair in the Department of Pathology at Stanford University School of Medicine. Nolan has founded biotechnology companies. Since",
+      "tags": [
+        "wikipedia",
+        "1960s births",
+        "american cancer researchers",
+        "american immunologists",
+        "american pathologists",
+        "british cancer researchers",
+        "british immunologists",
+        "cornell university alumni",
+        "pages with broken reference names",
+        "pages with reference errors",
+        "serologists",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:06.909093+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RofQnByLwOo",
+          "timestamp_start": 0,
+          "quote": "ld Quantum processing actually be happening I give you Gary Nolan a tenyear Stanford Professor who believes that the neuronal"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "GARRY NOLAN",
+          "Nolan",
+          "garry nolan"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "1960s births",
+          "american cancer researchers",
+          "american immunologists",
+          "american pathologists",
+          "british cancer researchers",
+          "british immunologists",
+          "cornell university alumni",
+          "pages with broken reference names",
+          "pages with reference errors",
+          "serologists",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "person-art-bell",
+      "node_type": "person",
+      "label": "Art Bell",
+      "summary": "Arthur William Bell III (June 17, 1945 – April 13, 2018) was an American broadcaster and author. He was the founder and the original host of the paranormal-themed radio program Coast to Coast AM, which is syndicated on hundreds of radio stations in the United States and Canada. He also created and h",
+      "tags": [
+        "wikipedia",
+        "20th-century american businesspeople",
+        "accidental deaths in nevada",
+        "amateur radio people",
+        "american non-fiction environmental writers",
+        "american radio djs",
+        "american radio executives",
+        "american talk radio hosts",
+        "businesspeople from monterey, california",
+        "businesspeople from nevada",
+        "coast to coast am",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:06.909097+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RofQnByLwOo",
+          "timestamp_start": 0,
+          "quote": "bed as Unsinkable and the largest liner in the ocean ring a bell well because wreck of the Titan was written about 14 years "
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "ART BELL",
+          "Bell",
+          "art bell"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "20th-century american businesspeople",
+          "accidental deaths in nevada",
+          "amateur radio people",
+          "american non-fiction environmental writers",
+          "american radio djs",
+          "american radio executives",
+          "american talk radio hosts",
+          "businesspeople from monterey, california",
+          "businesspeople from nevada",
+          "coast to coast am",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "organization-international-ufo-museum-and-research-center",
+      "node_type": "organization",
+      "label": "International UFO Museum and Research Center",
+      "summary": "The International UFO Museum and Research Center is located in Roswell, New Mexico, United States, in the downtown district, and is focused largely on the 1947 Roswell Crash and later supposed UFO incidents in the United States and elsewhere. It was founded in 1991 as a 501c3 nonprofit educational o",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:06.909103+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RofQnByLwOo",
+          "timestamp_start": 0,
+          "quote": "f you let some terrorist group drew it like the World Trade Center we know who to blame and if there was an outside threat lik"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-the-flying-saucers-are-real",
+      "node_type": "organization",
+      "label": "The Flying Saucers Are Real",
+      "summary": "The Flying Saucers Are Real, by Donald Keyhoe, is a book that investigated reports of UFOs by United States Air Force fighters, personnel, and other aircraft, between 1947 and 1950.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:06.909108+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RofQnByLwOo",
+          "timestamp_start": 0,
+          "quote": " was presid okay all of that's kind of remarkable but again real science involves collecting  large amounts of data and sure"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-roswell-that-ends-well",
+      "node_type": "organization",
+      "label": "Roswell That Ends Well",
+      "summary": "\"Roswell That Ends Well\" is the nineteenth episode in the third season of the American animated television series Futurama, and the 51st episode of the series overall. It originally aired on the Fox network in the United States on December 9, 2001. The plot centers on an accidental time travel event",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:06.909113+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RofQnByLwOo",
+          "timestamp_start": 0,
+          "quote": "bility Black Swan event with bizarre precision and accuracy well if you answered yes to any of these You are not alone this "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-the-galileo-project",
+      "node_type": "organization",
+      "label": "The Galileo Project",
+      "summary": "The Galileo Project is an international scientific research project to search for extraterrestrial intelligence or extraterrestrial technology on and near Earth and to identify the nature of anomalous Unidentified Flying Objects/Unidentified Aerial Phenomena (UFOs/UAP). It was launched in 2021 by Ha",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:06.909117+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RofQnByLwOo",
+          "timestamp_start": 0,
+          "quote": "ogram wner Von braa published a science fiction book titled project Mars a technical Tale in this novel he predicted a future m"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-project-blue-book",
+      "node_type": "organization",
+      "label": "Project Blue Book",
+      "summary": "USAF UFO investigation program active from 1952 to 1969.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:06.909121+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RofQnByLwOo",
+          "timestamp_start": 0,
+          "quote": "can Space Program wner Von braa published a science fiction book titled project Mars a technical Tale in this novel he predi"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-world-contact-day",
+      "node_type": "organization",
+      "label": "World Contact Day",
+      "summary": "World Contact Day was first declared in March 1953 by an organization called the International Flying Saucer Bureau (IFSB), as a day on which all IFSB members would attempt to send a telepathic message into space. The IFSB voted to hold such a day in 1953, theorising that if both telepathy and alien",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:06.909125+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RofQnByLwOo",
+          "timestamp_start": 0,
+          "quote": "on its return just as he predicted he died in 1910 just one day after the comet made its closest approach to Earth and fina"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-jerome-clark",
+      "node_type": "organization",
+      "label": "Jerome Clark",
+      "summary": "Jerome Clark (born November 27, 1946) is an American writer, specializing in unidentified flying objects and other paranormal subjects. He has appeared on ABC News Special Report, Unsolved Mysteries, Sightings and the A&E Network discussing UFOs and other oddities. Clark is also a country and folk m",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:06.909130+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RofQnByLwOo",
+          "timestamp_start": 0,
+          "quote": "eplicable than Fields like psychology as the great Arthur C Clark once said any sufficiently advanced technology is indisting"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-cia",
+      "node_type": "organization",
+      "label": "CIA",
+      "summary": "CIA entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:06.909134+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RofQnByLwOo",
+          "timestamp_start": 0,
+          "quote": "here was an outside threat like a Bin Laden who was a known CIA asset in the  80s he's the boogeyman they need it's just th"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other",
+        "acronym": "CIA"
+      }
+    },
+    {
+      "id": "organization-dia",
+      "node_type": "organization",
+      "label": "DIA",
+      "summary": "DIA entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:06.909138+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RofQnByLwOo",
+          "timestamp_start": 0,
+          "quote": "oh wait they did do all of that there was in fact a CIA and Dia backed program called Stargate which ran from 1972 to 1995 "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other",
+        "acronym": "DIA"
+      }
+    },
+    {
+      "id": "location-pacific-training-area",
+      "node_type": "location",
+      "label": "Pacific Training Area",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:06.909143+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RofQnByLwOo",
+          "timestamp_start": 0,
+          "quote": " as  a possible Target she ended up drawing a 3 square mile area in zier even President Jimmy Carter recalls this being the "
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-united-states",
+      "node_type": "location",
+      "label": "United States",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:06.909147+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RofQnByLwOo",
+          "timestamp_start": 0,
+          "quote": "s to maintain coherence or the ability to maintain multiple States at once in order to do that you usually need to maintain ex"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-south-africa",
+      "node_type": "location",
+      "label": "South Africa",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:06.909151+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RofQnByLwOo",
+          "timestamp_start": 0,
+          "quote": "in a race trying to find a downed tu22 Russian spy plane in Africa there was some very precious cargo on board highly sensitiv"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-russia",
+      "node_type": "location",
+      "label": "Russia",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:06.909155+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RofQnByLwOo",
+          "timestamp_start": 0,
+          "quote": "le building in a shipyard off the coast of the White Sea in Russia he described a massive nuclear submarine in the works I spo"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "claim-RofQnByLwOo-discussion-summary",
+      "node_type": "claim",
+      "label": "Video RofQnByLwOo features extended discussion of Wilbert Brockhouse Smith, Jimmy Carter, Love Has W",
+      "summary": "Video RofQnByLwOo features extended discussion of Wilbert Brockhouse Smith, Jimmy Carter, Love Has Won and related UAP research topics, hosted by Jesse Michels.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:06.909165+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RofQnByLwOo",
+          "timestamp_start": 0,
+          "quote": "Episode title: Your Brain Is A Quantum Time Machine (ft. Eric Wargo)"
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Video RofQnByLwOo features extended discussion of Wilbert Brockhouse Smith, Jimmy Carter, Love Has Won and related UAP research topics, hosted by Jesse Michels.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "RofQnByLwOo",
+        "timestamp_start_seconds": 0,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-wilbert-brockhouse-smith",
+          "person-jimmy-carter",
+          "person-love-has-won",
+          "video-RofQnByLwOo"
+        ]
+      }
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge-video-RofQnByLwOo-HOSTED_BY-person-jesse-michels",
+      "from_node_id": "video-RofQnByLwOo",
+      "to_node_id": "person-jesse-michels",
+      "relationship": "HOSTED_BY",
+      "confidence": 0.99,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RofQnByLwOo",
+          "timestamp_start": 0,
+          "quote": "Jesse hosting"
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-APPEARED_IN-video-RofQnByLwOo",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "video-RofQnByLwOo",
+      "relationship": "APPEARED_IN",
+      "confidence": 0.99,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RofQnByLwOo",
+          "timestamp_start": 0,
+          "quote": "Host"
+        }
+      ],
+      "properties": {
+        "appearance_type": "host"
+      }
+    },
+    {
+      "id": "edge-video-RofQnByLwOo-MENTIONS-person-wilbert-brockhouse-smith",
+      "from_node_id": "video-RofQnByLwOo",
+      "to_node_id": "person-wilbert-brockhouse-smith",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RofQnByLwOo",
+          "timestamp_start": 0,
+          "quote": " spoke to mcmonagle's colleague and fellow psychic spy Paul Smith about it and everybody thought that was crazy and it was pr"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-RofQnByLwOo-MENTIONS-person-jimmy-carter",
+      "from_node_id": "video-RofQnByLwOo",
+      "to_node_id": "person-jimmy-carter",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RofQnByLwOo",
+          "timestamp_start": 0,
+          "quote": "nded up drawing a 3 square mile area in zier even President Jimmy Carter recalls this being the most miraculous thing that occurred "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-RofQnByLwOo-MENTIONS-person-love-has-won",
+      "from_node_id": "video-RofQnByLwOo",
+      "to_node_id": "person-love-has-won",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RofQnByLwOo",
+          "timestamp_start": 0,
+          "quote": "idnapped American General James doer in fact mcmonagle even won the prestigious Legion of Merit for his work in the psychic"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-RofQnByLwOo-MENTIONS-person-timothy-good",
+      "from_node_id": "video-RofQnByLwOo",
+      "to_node_id": "person-timothy-good",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RofQnByLwOo",
+          "timestamp_start": 0,
+          "quote": "r Monday so thrilling those once a year deals that feel too good to pass up but here's the best part with raycon you're alre"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-RofQnByLwOo-MENTIONS-person-garry-nolan",
+      "from_node_id": "video-RofQnByLwOo",
+      "to_node_id": "person-garry-nolan",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RofQnByLwOo",
+          "timestamp_start": 0,
+          "quote": "ld Quantum processing actually be happening I give you Gary Nolan a tenyear Stanford Professor who believes that the neuronal"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-RofQnByLwOo-MENTIONS-person-art-bell",
+      "from_node_id": "video-RofQnByLwOo",
+      "to_node_id": "person-art-bell",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RofQnByLwOo",
+          "timestamp_start": 0,
+          "quote": "bed as Unsinkable and the largest liner in the ocean ring a bell well because wreck of the Titan was written about 14 years "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-RofQnByLwOo-MENTIONS-organization-international-ufo-museum-and-research-center",
+      "from_node_id": "video-RofQnByLwOo",
+      "to_node_id": "organization-international-ufo-museum-and-research-center",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RofQnByLwOo",
+          "timestamp_start": 0,
+          "quote": "f you let some terrorist group drew it like the World Trade Center we know who to blame and if there was an outside threat lik"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-RofQnByLwOo-MENTIONS-organization-the-flying-saucers-are-real",
+      "from_node_id": "video-RofQnByLwOo",
+      "to_node_id": "organization-the-flying-saucers-are-real",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RofQnByLwOo",
+          "timestamp_start": 0,
+          "quote": " was presid okay all of that's kind of remarkable but again real science involves collecting  large amounts of data and sure"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-RofQnByLwOo-MENTIONS-organization-roswell-that-ends-well",
+      "from_node_id": "video-RofQnByLwOo",
+      "to_node_id": "organization-roswell-that-ends-well",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RofQnByLwOo",
+          "timestamp_start": 0,
+          "quote": "bility Black Swan event with bizarre precision and accuracy well if you answered yes to any of these You are not alone this "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-RofQnByLwOo-MENTIONS-organization-the-galileo-project",
+      "from_node_id": "video-RofQnByLwOo",
+      "to_node_id": "organization-the-galileo-project",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RofQnByLwOo",
+          "timestamp_start": 0,
+          "quote": "ogram wner Von braa published a science fiction book titled project Mars a technical Tale in this novel he predicted a future m"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-RofQnByLwOo-MENTIONS-organization-project-blue-book",
+      "from_node_id": "video-RofQnByLwOo",
+      "to_node_id": "organization-project-blue-book",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RofQnByLwOo",
+          "timestamp_start": 0,
+          "quote": "can Space Program wner Von braa published a science fiction book titled project Mars a technical Tale in this novel he predi"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-RofQnByLwOo-MENTIONS-organization-world-contact-day",
+      "from_node_id": "video-RofQnByLwOo",
+      "to_node_id": "organization-world-contact-day",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RofQnByLwOo",
+          "timestamp_start": 0,
+          "quote": "on its return just as he predicted he died in 1910 just one day after the comet made its closest approach to Earth and fina"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-RofQnByLwOo-MENTIONS-organization-jerome-clark",
+      "from_node_id": "video-RofQnByLwOo",
+      "to_node_id": "organization-jerome-clark",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RofQnByLwOo",
+          "timestamp_start": 0,
+          "quote": "eplicable than Fields like psychology as the great Arthur C Clark once said any sufficiently advanced technology is indisting"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-RofQnByLwOo-MENTIONS-organization-cia",
+      "from_node_id": "video-RofQnByLwOo",
+      "to_node_id": "organization-cia",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RofQnByLwOo",
+          "timestamp_start": 0,
+          "quote": "here was an outside threat like a Bin Laden who was a known CIA asset in the  80s he's the boogeyman they need it's just th"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-RofQnByLwOo-MENTIONS-organization-dia",
+      "from_node_id": "video-RofQnByLwOo",
+      "to_node_id": "organization-dia",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RofQnByLwOo",
+          "timestamp_start": 0,
+          "quote": "oh wait they did do all of that there was in fact a CIA and Dia backed program called Stargate which ran from 1972 to 1995 "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-RofQnByLwOo-MENTIONS-location-pacific-training-area",
+      "from_node_id": "video-RofQnByLwOo",
+      "to_node_id": "location-pacific-training-area",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RofQnByLwOo",
+          "timestamp_start": 0,
+          "quote": " as  a possible Target she ended up drawing a 3 square mile area in zier even President Jimmy Carter recalls this being the "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-RofQnByLwOo-MENTIONS-location-united-states",
+      "from_node_id": "video-RofQnByLwOo",
+      "to_node_id": "location-united-states",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RofQnByLwOo",
+          "timestamp_start": 0,
+          "quote": "s to maintain coherence or the ability to maintain multiple States at once in order to do that you usually need to maintain ex"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-RofQnByLwOo-MENTIONS-location-south-africa",
+      "from_node_id": "video-RofQnByLwOo",
+      "to_node_id": "location-south-africa",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RofQnByLwOo",
+          "timestamp_start": 0,
+          "quote": "in a race trying to find a downed tu22 Russian spy plane in Africa there was some very precious cargo on board highly sensitiv"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-RofQnByLwOo-MENTIONS-location-russia",
+      "from_node_id": "video-RofQnByLwOo",
+      "to_node_id": "location-russia",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RofQnByLwOo",
+          "timestamp_start": 0,
+          "quote": "le building in a shipyard off the coast of the White Sea in Russia he described a massive nuclear submarine in the works I spo"
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-RofQnByLwOo-discussion-summary",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-RofQnByLwOo-discussion-summary",
+      "relationship": "ASSERTED",
+      "confidence": 0.9,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RofQnByLwOo",
+          "timestamp_start": 0,
+          "quote": "Episode: Your Brain Is A Quantum Time Machine (ft. Eric Wargo)"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-RofQnByLwOo-REFERENCES-claim-RofQnByLwOo-discussion-summary",
+      "from_node_id": "video-RofQnByLwOo",
+      "to_node_id": "claim-RofQnByLwOo-discussion-summary",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RofQnByLwOo",
+          "timestamp_start": 0
+        }
+      ]
+    }
+  ],
+  "extracted_at": "2026-04-17T11:05:06.909194+00:00",
+  "extractor_version": "v1-inline-claude"
+}
