@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-17T11:46:02.826Z",
-  "candidate_count": 28,
-  "matched": 10,
-  "unmatched": 18,
-  "from_cache": 28,
+  "generated_at": "2026-04-17T23:55:14.792Z",
+  "candidate_count": 296,
+  "matched": 150,
+  "unmatched": 146,
+  "from_cache": 23,
   "errors": 0,
   "unmatched_entries": [
     {
@@ -205,6 +205,1006 @@
       "node_type": "location",
       "candidate_count": 0,
       "top_candidates": []
+    },
+    {
+      "id": "person-james-woolsey",
+      "label": "James Woolsey",
+      "node_type": "person",
+      "candidate_count": 1,
+      "top_candidates": [
+        {
+          "id": "Q1681327",
+          "label": "R. James Woolsey, Jr.",
+          "description": "American lawyer, diplomat and politician, former director of the CIA (born 1941)"
+        }
+      ]
+    },
+    {
+      "id": "person-bob-jameson",
+      "label": "Bob Jameson",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-mia-telepathy-mexico",
+      "label": "Mia (Telepathy Tapes subject)",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-amelia-telepathy",
+      "label": "Amelia (Telepathy Tapes subject)",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-luis-elizondo-extended",
+      "label": "Luis Elizondo (extended)",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-marice-hill-dc-1952",
+      "label": "Marice Hill",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-lu-elizondo-sr",
+      "label": "Luis Elizondo Sr",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-merrick-von-rennenkampff-extended",
+      "label": "Merrick von Rennenkampff (extended)",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-steven-bruehl",
+      "label": "Steven Bruehl",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-mike-johnson-speaker",
+      "label": "Mike Johnson (Speaker)",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-bud-hopkins",
+      "label": "Bud Hopkins",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-matthew-pines",
+      "label": "Matthew Pines",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-dave-rossi",
+      "label": "Dave Rossi",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-ryan-graves-extended",
+      "label": "Ryan Graves (extended)",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-iya-whitley-psychologist",
+      "label": "Dr. Iya Whitley",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-josh-waitzkin",
+      "label": "Josh Waitzkin",
+      "node_type": "person",
+      "candidate_count": 1,
+      "top_candidates": [
+        {
+          "id": "Q766789",
+          "label": "Joshua Waitzkin",
+          "description": "American chess player"
+        }
+      ]
+    },
+    {
+      "id": "person-michael-johnson-ellsworth",
+      "label": "Michael Johnson (USAF partner)",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-bill-hollman",
+      "label": "Bill Hollman",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "location-ellsworth-november-5-site",
+      "label": "Ellsworth November-5 Missile Site",
+      "node_type": "location",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-brandon-fugal-extended",
+      "label": "Brandon Fugal (extended)",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-aaron-blunt",
+      "label": "Aaron Blunt",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-ravi-chandran-metallurgist",
+      "label": "Dr. Ravi Chandran",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-sherman-family-skinwalker",
+      "label": "Sherman Family (Skinwalker)",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-navajo-ute-skinwalker-curse",
+      "label": "Navajo (Skinwalker Curse Context)",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-salvatore-pais",
+      "label": "Salvatore Pais",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-luke-caverns",
+      "label": "Luke Caverns",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "location-axum-ethiopia",
+      "label": "Axum, Ethiopia",
+      "node_type": "location",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-whitley-strieber-extended",
+      "label": "Whitley Strieber (extended)",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-david-webb-nasa",
+      "label": "David W. Webb",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-strieber-uncle-mickey",
+      "label": "Uncle Mickey (Strieber)",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-ralph-moat-larson",
+      "label": "Ralph Moat Larson",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-rudolph-steiner",
+      "label": "Rudolph Steiner",
+      "node_type": "person",
+      "candidate_count": 2,
+      "top_candidates": [
+        {
+          "id": "Q78484",
+          "label": "Rudolf Steiner",
+          "description": "Austrian social reformer, occultist and esotericist (1861–1925)"
+        },
+        {
+          "id": "Q22312994",
+          "label": "Rudolph Steiner Theatre",
+          "description": "theatre in London, England"
+        }
+      ]
+    },
+    {
+      "id": "person-matt-lacroix",
+      "label": "Matt LaCroix",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "location-giza-plateau",
+      "label": "Giza Plateau / Egypt",
+      "node_type": "location",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-jeremy-rys",
+      "label": "Jeremy Rys (alien scientist)",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-ed-lansdale",
+      "label": "Ed Lansdale",
+      "node_type": "person",
+      "candidate_count": 1,
+      "top_candidates": [
+        {
+          "id": "Q558992",
+          "label": "Edward Lansdale",
+          "description": "United States general (1908-1987)"
+        }
+      ]
+    },
+    {
+      "id": "person-rip-robertson",
+      "label": "Rip Robertson",
+      "node_type": "person",
+      "candidate_count": 1,
+      "top_candidates": [
+        {
+          "id": "Q8003832",
+          "label": "William \"Rip\" Robertson",
+          "description": "United States Marine (1920-1970)"
+        }
+      ]
+    },
+    {
+      "id": "person-priscilla-mcmillan",
+      "label": "Priscilla McMillan",
+      "node_type": "person",
+      "candidate_count": 1,
+      "top_candidates": [
+        {
+          "id": "Q123522530",
+          "label": "Priscilla McMillan, Who Knew Both Kennedy and Oswald, Dies at 92",
+          "description": "The New York Times article (July 13, 2021)"
+        }
+      ]
+    },
+    {
+      "id": "person-santos-trafficante",
+      "label": "Santos Trafficante",
+      "node_type": "person",
+      "candidate_count": 1,
+      "top_candidates": [
+        {
+          "id": "Q3052118",
+          "label": "Santo Trafficante",
+          "description": "American crime boss"
+        }
+      ]
+    },
+    {
+      "id": "person-tim-alberino",
+      "label": "Tim Alberino",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-mark-mccandish",
+      "label": "Mark McCandish",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-james-allen-mccandish-doc",
+      "label": "James Allen (Mark McCandish documentarian)",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-victor-schauberger",
+      "label": "Victor Schauberger",
+      "node_type": "person",
+      "candidate_count": 1,
+      "top_candidates": [
+        {
+          "id": "Q89544",
+          "label": "Viktor Schauberger",
+          "description": "Austrian philosopher and inventor (1885–1958)"
+        }
+      ]
+    },
+    {
+      "id": "person-hans-lear",
+      "label": "Hans Lear (Jan's Defense Weekly article anonymous sender)",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-richard-dolan-extended",
+      "label": "Richard Dolan (extended)",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-leandro-gravedigger",
+      "label": "Leandro (gravedigger)",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-jim-caruso-denver",
+      "label": "Jim Caruso",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "location-nazca-peru",
+      "label": "Nazca, Peru",
+      "node_type": "location",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "location-kalmykia-russia",
+      "label": "Republic of Kalmykia (Russian Federation)",
+      "node_type": "location",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-flying-lotus",
+      "label": "Flying Lotus (Steven Ellison)",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-randall-carlson-extended",
+      "label": "Randall Carlson (extended)",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "location-chimney-rock-chacoan",
+      "label": "Chimney Rock (Chacoan Site, Colorado)",
+      "node_type": "location",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-joe-mcmoneagle",
+      "label": "Joe McMoneagle",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-arthur-stansel",
+      "label": "Arthur Stansel",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-eric-wang",
+      "label": "Dr. Eric H. Wang",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-william-steinman",
+      "label": "William Steinman",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-kirk-mcconnell",
+      "label": "Kirk McConnell",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-jack-reed-senator",
+      "label": "Jack Reed (Senator)",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-bill-cohen-senator",
+      "label": "Bill Cohen (Senator)",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-james-madden",
+      "label": "Dr. James Madden",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-eric-davis-extended",
+      "label": "Eric Davis (extended)",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-george-hw-bush-cia-director",
+      "label": "George H.W. Bush (CIA Director)",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-matthew-pines-extended",
+      "label": "Matthew Pines (extended)",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-jeffrey-drum",
+      "label": "Jeffrey Drum",
+      "node_type": "person",
+      "candidate_count": 1,
+      "top_candidates": [
+        {
+          "id": "Q75812734",
+          "label": "Jeffrey Derrick Edward Drummond-Hay",
+          "description": "(born 1943)"
+        }
+      ]
+    },
+    {
+      "id": "person-amal-marzac",
+      "label": "Amal Marzac",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-jacques-cornillon",
+      "label": "Jacques Cornillon",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-agnew-bahnson",
+      "label": "Agnew Bahnson",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-herman-bondi",
+      "label": "Herman Bondi",
+      "node_type": "person",
+      "candidate_count": 1,
+      "top_candidates": [
+        {
+          "id": "Q380235",
+          "label": "Hermann Bondi",
+          "description": "Austrian-British mathematician and cosmologist"
+        }
+      ]
+    },
+    {
+      "id": "person-claudia-hill",
+      "label": "Betty Hill (extended)",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-jesse-michels-jre-guest",
+      "label": "Jesse Michels (JRE appearance)",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "location-nswc-crane",
+      "label": "Naval Surface Warfare Center Crane (Indiana)",
+      "node_type": "location",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-edward-condon-batch26",
+      "label": "Edward Condon (Blue Book debunker)",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-guy-hottel",
+      "label": "Guy Hottel",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-greg-rogers",
+      "label": "Dr. Gregory Rogers",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-chris-leto-letto-files",
+      "label": "Chris Leto (Leto Files)",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "location-cape-canaveral-afs",
+      "label": "Cape Canaveral Air Force Station (Patrick AFB region)",
+      "node_type": "location",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-varginha-neurosurgeon",
+      "label": "Varginha 1996 Neurosurgeon (anonymous)",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-varginha-autopsy-lead-doctor",
+      "label": "Varginha 1996 Autopsy Lead Doctor (anonymous)",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-colin-ross",
+      "label": "Dr. Colin Ross",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-lee-harvey-oswald-mk-ultra",
+      "label": "Lee Harvey Oswald (MK-Ultra subject)",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-charles-manson-mk",
+      "label": "Charles Manson (MK subject)",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "location-secret-mountain-arizona",
+      "label": "Secret Mountain, Arizona",
+      "node_type": "location",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-paul-bennewitz-extended",
+      "label": "Paul Bennewitz (extended)",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-e-howard-hunt-extended",
+      "label": "E. Howard Hunt (extended)",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "location-witches-island",
+      "label": "Witches Island (E. Howard Hunt residence)",
+      "node_type": "location",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-brett-weinstein",
+      "label": "Brett Weinstein",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-dennis-asberg",
+      "label": "Dennis Åsberg",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-karl-nell",
+      "label": "Colonel Karl Nell",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-lord-hill-norton",
+      "label": "Lord Hill-Norton",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-john-warner-iv",
+      "label": "John Warner IV",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-richard-foch",
+      "label": "Richard Foch",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-chris-bledsoe",
+      "label": "Chris Bledsoe",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-tim-taylor-cape-canaveral",
+      "label": "Tim Taylor (NASA mission controller)",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "location-zanesville-ohio",
+      "label": "Zanesville Ohio",
+      "node_type": "location",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-bob-lazar-extended",
+      "label": "Bob Lazar (extended)",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-nasa-lead-scientist",
+      "label": "NASA Lead Scientist (surprise guest)",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-jake-barber",
+      "label": "Jake Barber",
+      "node_type": "person",
+      "candidate_count": 1,
+      "top_candidates": [
+        {
+          "id": "Q131914497",
+          "label": "Jacob Barber",
+          "description": "UFO whistleblower and U.S. Air Force veteran"
+        }
+      ]
+    },
+    {
+      "id": "person-gary-nolan-extended",
+      "label": "Gary Nolan (extended)",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-bill-nelson-nasa",
+      "label": "Bill Nelson (NASA Administrator)",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-paola-harris",
+      "label": "Paola Harris",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-remy-baca",
+      "label": "Remy Baca",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-jensen-andreon",
+      "label": "Jensen Andreon",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-joel-shectman",
+      "label": "Joel Shectman",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-susan-goff",
+      "label": "Susan Goff",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-merrick-von-rennenkampff",
+      "label": "Merrick von Rennenkampff",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-fabio-futado",
+      "label": "Fabio Furtado",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-emma-francis-barwood",
+      "label": "Emma Francis Barwood",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-carl-jung-patient-scarab",
+      "label": "Carl Jung (scarab patient)",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-roger-leir",
+      "label": "Dr. Roger Leir",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-darrel-sims",
+      "label": "Derrel Sims",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-charles-buhler",
+      "label": "Charles Buhler (NASA antigravity researcher)",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-sammy-gerb-extended",
+      "label": "Sammy 'UAPGerb' Gerb (Utah episode)",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-eggg-contractor",
+      "label": "EG&G (Contractor)",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-john-brandenburg",
+      "label": "Dr. John Brandenburg",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "location-cydonia-mensae-mars",
+      "label": "Cydonia Mensae (Mars)",
+      "node_type": "location",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "location-lawrence-livermore",
+      "label": "Lawrence Livermore National Lab",
+      "node_type": "location",
+      "candidate_count": 2,
+      "top_candidates": [
+        {
+          "id": "Q519826",
+          "label": "Lawrence Livermore National Laboratory",
+          "description": "federal research institute in Livermore, California, United States"
+        },
+        {
+          "id": "Q113093270",
+          "label": "Lawrence Livermore National Laboratory's Environmental Restoration PERM Tool Coupling Stakeholder Values, Science, Engineering, and Cost",
+          "description": "scientific article published on 04 August 2005"
+        }
+      ]
+    },
+    {
+      "id": "person-brigham-buhler",
+      "label": "Brigham Buhler",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-tyler-pasulka-pseudonym",
+      "label": "Tyler (Pasulka pseudonym)",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-sammy-uap-gerb",
+      "label": "Sammy 'UAPGerb' Gerb",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-doug-wolf",
+      "label": "Doug Wolf",
+      "node_type": "person",
+      "candidate_count": 3,
+      "top_candidates": [
+        {
+          "id": "Q102116973",
+          "label": "Doug Wolfe",
+          "description": "American statistician"
+        },
+        {
+          "id": "Q30323527",
+          "label": "Doug Wolfgang",
+          "description": "American racing driver"
+        }
+      ]
+    },
+    {
+      "id": "person-jonathan-wagant",
+      "label": "Jonathan Wagant",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-michael-shermer-debate-italy",
+      "label": "Michael Shermer (Italy debate)",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-john-blitch",
+      "label": "Lt Col John Blitch",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-sensei-daughter-blitch",
+      "label": "Blitch's Sensei's Daughter",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-james-valor",
+      "label": "James Valor",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-mr-k-skywatcher",
+      "label": "Mr. K (Skywatcher physicist)",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-mr-d-skywatcher",
+      "label": "Mr. D (Skywatcher signals)",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-buzz-aldrin",
+      "label": "Buzz Aldrin",
+      "node_type": "person",
+      "candidate_count": 5,
+      "top_candidates": [
+        {
+          "id": "Q2252",
+          "label": "Buzz Aldri",
+          "description": "American astronaut (born 1930)"
+        },
+        {
+          "id": "Q113640126",
+          "label": "Buzz Aldrin's Space Program Manager",
+          "description": "2014 video game"
+        }
+      ]
     }
   ]
 }
