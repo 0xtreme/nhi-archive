@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-17T11:23:59.062Z",
+  "generated_at": "2026-04-17T11:52:02.470Z",
   "metadata": {
     "source": "transcripts-pipeline",
     "videos_covered": [
@@ -7178,11 +7178,14 @@
       "tags": [
         "pipeline-generated",
         "entity-extracted",
+        "author",
+        "experiencer",
         "transcripts"
       ],
       "confidence": "high",
       "sources": [
         "https://www.youtube.com/watch?v=ABOP8ZJsyIk&t=0s",
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=332s",
         "https://www.youtube.com/watch?v=CiQTBOQ1dTg&t=0s",
         "https://www.youtube.com/watch?v=EzPmG_7WhXc&t=0s",
         "https://www.youtube.com/watch?v=HxQN2tkQHs8&t=0s",
@@ -7628,6 +7631,524 @@
       "crawled_at": "2026-04-17T11:03:44.124593+00:00",
       "assertability": "on_record_statement",
       "statement_text": "Video C_Na1tI5qpw features extended discussion of James Herbert Brennan, Anna Paulina Luna, Bob Oppenheimer and related UAP research topics, hosted by Jesse Michels."
+    },
+    {
+      "id": "person-joe-rogan",
+      "node_type": "person",
+      "label": "Joe Rogan",
+      "summary": "Comedian and host of The Joe Rogan Experience podcast. His Bob Lazar interview became one of the most-watched UFO-topic podcast episodes on YouTube (63M views).",
+      "tags": [
+        "podcaster",
+        "interviewer",
+        "transcripts"
+      ],
+      "confidence": "high",
+      "sources": [
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=0s"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:51:45.087670+00:00",
+      "profession": "podcaster"
+    },
+    {
+      "id": "person-jeremy-corbell",
+      "node_type": "person",
+      "label": "Jeremy Corbell",
+      "summary": "Filmmaker whose 2018 Bob Lazar: Area 51 & Flying Saucers documentary renewed mainstream attention on Lazar's claims.",
+      "tags": [
+        "filmmaker",
+        "investigator",
+        "transcripts"
+      ],
+      "confidence": "high",
+      "sources": [
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=220s"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:51:45.087860+00:00",
+      "profession": "filmmaker"
+    },
+    {
+      "id": "person-palmer-luckey",
+      "node_type": "person",
+      "label": "Palmer Luckey",
+      "summary": "Founder of Oculus VR and Anduril; periodically weighed in on UAP technology race.",
+      "tags": [
+        "engineer",
+        "entrepreneur",
+        "transcripts"
+      ],
+      "confidence": "high",
+      "sources": [
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=328s"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:51:45.087864+00:00",
+      "profession": "engineer"
+    },
+    {
+      "id": "person-angela-hill",
+      "node_type": "person",
+      "label": "Angela Hill",
+      "summary": "UFC strawweight fighter; granddaughter of Barney Hill, one of the 1961 Betty & Barney Hill abduction witnesses.",
+      "tags": [
+        "athlete",
+        "ufc",
+        "family-of-witness",
+        "transcripts"
+      ],
+      "confidence": "high",
+      "sources": [
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=90s"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:51:45.087869+00:00",
+      "profession": "athlete"
+    },
+    {
+      "id": "person-james-clapper",
+      "node_type": "person",
+      "label": "James Clapper",
+      "summary": "Former US Director of National Intelligence (2010-2017). Featured as interviewee in the Age of Disclosure documentary.",
+      "tags": [
+        "intelligence",
+        "official",
+        "DNI",
+        "transcripts"
+      ],
+      "confidence": "high",
+      "sources": [
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=294s"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:51:45.087872+00:00",
+      "profession": "official"
+    },
+    {
+      "id": "person-john-brennan",
+      "node_type": "person",
+      "label": "John Brennan",
+      "summary": "Former US CIA Director (2013-2017). Featured as interviewee in the Age of Disclosure documentary.",
+      "tags": [
+        "intelligence",
+        "official",
+        "CIA",
+        "transcripts"
+      ],
+      "confidence": "high",
+      "sources": [
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=296s"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:51:45.087874+00:00",
+      "profession": "official"
+    },
+    {
+      "id": "person-james-woolsey",
+      "node_type": "person",
+      "label": "James Woolsey",
+      "summary": "Former US CIA Director (1993-1995). Featured as interviewee in the Age of Disclosure documentary.",
+      "tags": [
+        "intelligence",
+        "official",
+        "CIA",
+        "transcripts"
+      ],
+      "confidence": "high",
+      "sources": [
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=294s"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:51:45.087877+00:00",
+      "profession": "official"
+    },
+    {
+      "id": "incident-1961-hill-abduction",
+      "node_type": "incident",
+      "label": "Betty and Barney Hill Abduction",
+      "summary": "First widely-publicized abduction case; imagery may have been shaped by preceding Outer Limits episode.",
+      "tags": [
+        "abduction",
+        "transcripts"
+      ],
+      "confidence": "high",
+      "sources": [
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=85s",
+        "https://www.youtube.com/watch?v=kRO5jOa06Qw&t=0s"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:51:45.087886+00:00",
+      "date_start": "1961-09-19"
+    },
+    {
+      "id": "technology-tall-pinkish-slender-nhi",
+      "node_type": "technology",
+      "label": "Tall Pinkish Slender Humanoid",
+      "summary": "Category Rogan described from his dream: tall, slender, pinkish skin, not gray, larger eyes and head than normal but not exaggerated like Close Encounters grays.",
+      "tags": [
+        "craft",
+        "transcripts"
+      ],
+      "confidence": "high",
+      "sources": [
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=56s"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:51:45.087889+00:00"
+    },
+    {
+      "id": "claim-C_Na1tI5qpw-rogan-dream-tall-nhi",
+      "node_type": "claim",
+      "label": "Joe Rogan recounts a uniquely vivid dream featuring tall slender pinkish humanoid entities with larg",
+      "summary": "Joe Rogan recounts a uniquely vivid dream featuring tall slender pinkish humanoid entities with larger eyes, described as non-gray NHI interacting with him in an altered environment.",
+      "tags": [
+        "personal_account",
+        "factual_assertion",
+        "transcripts"
+      ],
+      "confidence": "high",
+      "sources": [
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=80s"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:51:45.087898+00:00",
+      "assertability": "personal_account",
+      "statement_text": "Joe Rogan recounts a uniquely vivid dream featuring tall slender pinkish humanoid entities with larger eyes, described as non-gray NHI interacting with him in an altered environment."
+    },
+    {
+      "id": "claim-C_Na1tI5qpw-angela-hill-granddaughter",
+      "node_type": "claim",
+      "label": "UFC fighter Angela Hill is Barney Hill's granddaughter and appeared on Rogan's podcast; she disclose",
+      "summary": "UFC fighter Angela Hill is Barney Hill's granddaughter and appeared on Rogan's podcast; she disclosed the family connection only after the podcast.",
+      "tags": [
+        "personal_account",
+        "factual_assertion",
+        "transcripts"
+      ],
+      "confidence": "high",
+      "sources": [
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=90s"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:51:45.087914+00:00",
+      "assertability": "personal_account",
+      "statement_text": "UFC fighter Angela Hill is Barney Hill's granddaughter and appeared on Rogan's podcast; she disclosed the family connection only after the podcast."
+    },
+    {
+      "id": "claim-C_Na1tI5qpw-rogan-lazar-63m-views",
+      "node_type": "claim",
+      "label": "Rogan states Jeremy Corbell's Bob Lazar episode on his podcast is his highest-viewed YouTube episode",
+      "summary": "Rogan states Jeremy Corbell's Bob Lazar episode on his podcast is his highest-viewed YouTube episode with approximately 63 million views.",
+      "tags": [
+        "personal_account",
+        "factual_assertion",
+        "transcripts"
+      ],
+      "confidence": "high",
+      "sources": [
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=220s"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:51:45.087925+00:00",
+      "assertability": "personal_account",
+      "statement_text": "Rogan states Jeremy Corbell's Bob Lazar episode on his podcast is his highest-viewed YouTube episode with approximately 63 million views."
+    },
+    {
+      "id": "claim-C_Na1tI5qpw-rogan-lazar-story-substantiated",
+      "node_type": "claim",
+      "label": "Rogan asserts that subsequent whistleblower accounts (Grusch, Puthoff) substantiate Bob Lazar's 1980",
+      "summary": "Rogan asserts that subsequent whistleblower accounts (Grusch, Puthoff) substantiate Bob Lazar's 1980s claims about gravity-manipulation craft propulsion.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion",
+        "transcripts"
+      ],
+      "confidence": "high",
+      "sources": [
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=225s"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:51:45.087936+00:00",
+      "assertability": "on_record_statement",
+      "statement_text": "Rogan asserts that subsequent whistleblower accounts (Grusch, Puthoff) substantiate Bob Lazar's 1980s claims about gravity-manipulation craft propulsion."
+    },
+    {
+      "id": "claim-C_Na1tI5qpw-lazar-los-alamos-paper-directory",
+      "node_type": "claim",
+      "label": "Bob Lazar's employment at Los Alamos was discreditation-resistant because he appeared on the front p",
+      "summary": "Bob Lazar's employment at Los Alamos was discreditation-resistant because he appeared on the front page of the local paper and George (Knapp) later obtained the phone directory confirming his presence.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion",
+        "transcripts"
+      ],
+      "confidence": "high",
+      "sources": [
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=238s"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:51:45.087950+00:00",
+      "assertability": "cited_from_document",
+      "statement_text": "Bob Lazar's employment at Los Alamos was discreditation-resistant because he appeared on the front page of the local paper and George (Knapp) later obtained the phone directory confirming his presence."
+    },
+    {
+      "id": "claim-C_Na1tI5qpw-area-51-obama-confirmation",
+      "node_type": "claim",
+      "label": "Area 51's existence was only officially confirmed during the Obama administration, when the governme",
+      "summary": "Area 51's existence was only officially confirmed during the Obama administration, when the government needed to expand restricted access zones due to photographers reaching non-secure land.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion",
+        "transcripts"
+      ],
+      "confidence": "high",
+      "sources": [
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=248s"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:51:45.087961+00:00",
+      "assertability": "cited_from_document",
+      "statement_text": "Area 51's existence was only officially confirmed during the Obama administration, when the government needed to expand restricted access zones due to photographers reaching non-secure land."
+    },
+    {
+      "id": "claim-C_Na1tI5qpw-age-of-disclosure-doc",
+      "node_type": "claim",
+      "label": "The 'Age of Disclosure' documentary (directed by Dan Farah) features high-level intelligence intervi",
+      "summary": "The 'Age of Disclosure' documentary (directed by Dan Farah) features high-level intelligence interviewees including James Woolsey, James Clapper, John Brennan and Marco Rubio.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion",
+        "transcripts"
+      ],
+      "confidence": "high",
+      "sources": [
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=290s"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:51:45.087972+00:00",
+      "assertability": "cited_from_document",
+      "statement_text": "The 'Age of Disclosure' documentary (directed by Dan Farah) features high-level intelligence interviewees including James Woolsey, James Clapper, John Brennan and Marco Rubio."
+    },
+    {
+      "id": "claim-C_Na1tI5qpw-rubio-disclosure-urgency",
+      "node_type": "claim",
+      "label": "Senator Marco Rubio's involvement and stated urgency in the current administration is framed by Mich",
+      "summary": "Senator Marco Rubio's involvement and stated urgency in the current administration is framed by Michels and Rogan as significant in mainstreaming UAP disclosure.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion",
+        "transcripts"
+      ],
+      "confidence": "high",
+      "sources": [
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=298s"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:51:45.088059+00:00",
+      "assertability": "on_record_statement",
+      "statement_text": "Senator Marco Rubio's involvement and stated urgency in the current administration is framed by Michels and Rogan as significant in mainstreaming UAP disclosure."
+    },
+    {
+      "id": "claim-C_Na1tI5qpw-china-us-reverse-engineering-race",
+      "node_type": "claim",
+      "label": "Per Dan Farah's position summarized by Rogan, both the United States and China have recovered crashe",
+      "summary": "Per Dan Farah's position summarized by Rogan, both the United States and China have recovered crashed vehicles and are in competing reverse-engineering programs — a 'Manhattan Project on steroids'.",
+      "tags": [
+        "hearsay",
+        "factual_assertion",
+        "transcripts"
+      ],
+      "confidence": "high",
+      "sources": [
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=308s"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:51:45.088070+00:00",
+      "assertability": "hearsay",
+      "statement_text": "Per Dan Farah's position summarized by Rogan, both the United States and China have recovered crashed vehicles and are in competing reverse-engineering programs — a 'Manhattan Project on steroids'."
+    },
+    {
+      "id": "claim-C_Na1tI5qpw-rubio-china-tech-catchup",
+      "node_type": "claim",
+      "label": "Rubio's core concern (per Rogan's reading) is that China develops recovered-craft technology first; ",
+      "summary": "Rubio's core concern (per Rogan's reading) is that China develops recovered-craft technology first; US catchup requires opening the programs up and removing stigma.",
+      "tags": [
+        "speculation",
+        "factual_assertion",
+        "transcripts"
+      ],
+      "confidence": "high",
+      "sources": [
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=314s"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:51:45.088082+00:00",
+      "assertability": "speculation",
+      "statement_text": "Rubio's core concern (per Rogan's reading) is that China develops recovered-craft technology first; US catchup requires opening the programs up and removing stigma."
+    },
+    {
+      "id": "claim-C_Na1tI5qpw-whistleblower-amnesty-requirement",
+      "node_type": "claim",
+      "label": "Rogan argues any meaningful disclosure will require programmatic amnesty because lying to Congress a",
+      "summary": "Rogan argues any meaningful disclosure will require programmatic amnesty because lying to Congress and misappropriation of funds have certainly occurred in the covert crash-retrieval programs.",
+      "tags": [
+        "speculation",
+        "factual_assertion",
+        "transcripts"
+      ],
+      "confidence": "high",
+      "sources": [
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=342s"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:51:45.088095+00:00",
+      "assertability": "speculation",
+      "statement_text": "Rogan argues any meaningful disclosure will require programmatic amnesty because lying to Congress and misappropriation of funds have certainly occurred in the covert crash-retrieval programs."
+    },
+    {
+      "id": "claim-C_Na1tI5qpw-defense-contractor-lawsuit-risk",
+      "node_type": "claim",
+      "label": "Rogan notes that if reverse-engineering programs succeeded and technology was allocated unevenly acr",
+      "summary": "Rogan notes that if reverse-engineering programs succeeded and technology was allocated unevenly across defense contractors, the disclosure event creates massive civil-litigation risk.",
+      "tags": [
+        "speculation",
+        "factual_assertion",
+        "transcripts"
+      ],
+      "confidence": "high",
+      "sources": [
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=346s"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:51:45.088106+00:00",
+      "assertability": "speculation",
+      "statement_text": "Rogan notes that if reverse-engineering programs succeeded and technology was allocated unevenly across defense contractors, the disclosure event creates massive civil-litigation risk."
+    },
+    {
+      "id": "claim-C_Na1tI5qpw-burchett-five-underwater-hotspots",
+      "node_type": "claim",
+      "label": "Congressman Tim Burchett has publicly identified five deep-water areas in the oceans where UAP sight",
+      "summary": "Congressman Tim Burchett has publicly identified five deep-water areas in the oceans where UAP sightings are concentrated.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion",
+        "transcripts"
+      ],
+      "confidence": "high",
+      "sources": [
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=336s"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:51:45.088117+00:00",
+      "assertability": "cited_from_document",
+      "statement_text": "Congressman Tim Burchett has publicly identified five deep-water areas in the oceans where UAP sightings are concentrated."
+    },
+    {
+      "id": "claim-C_Na1tI5qpw-pyramid-underground-labyrinth",
+      "node_type": "claim",
+      "label": "Pyramid research referenced by Michels alleges structures up to 2 km deep beneath the pyramids — an ",
+      "summary": "Pyramid research referenced by Michels alleges structures up to 2 km deep beneath the pyramids — an 'energy grid' with columns, a 40-meter metallic object in a vast corridor, and links to an underground city.",
+      "tags": [
+        "speculation",
+        "factual_assertion",
+        "transcripts"
+      ],
+      "confidence": "high",
+      "sources": [
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=16s"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:51:45.088130+00:00",
+      "assertability": "speculation",
+      "statement_text": "Pyramid research referenced by Michels alleges structures up to 2 km deep beneath the pyramids — an 'energy grid' with columns, a 40-meter metallic object in a vast corridor, and links to an underground city."
+    },
+    {
+      "id": "claim-C_Na1tI5qpw-peru-three-fingered-mummies",
+      "node_type": "claim",
+      "label": "Claim (discussed in episode) of three-fingered mummies from Peru as potential evidence of a non-huma",
+      "summary": "Claim (discussed in episode) of three-fingered mummies from Peru as potential evidence of a non-human species sharing the planet.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion",
+        "transcripts"
+      ],
+      "confidence": "high",
+      "sources": [
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=18s"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:51:45.088141+00:00",
+      "assertability": "cited_from_document",
+      "statement_text": "Claim (discussed in episode) of three-fingered mummies from Peru as potential evidence of a non-human species sharing the planet."
+    },
+    {
+      "id": "claim-C_Na1tI5qpw-agi-as-cosmos-gateway",
+      "node_type": "claim",
+      "label": "Michels speculates that achieving artificial general superintelligence is the 'legitimate gateway to",
+      "summary": "Michels speculates that achieving artificial general superintelligence is the 'legitimate gateway to the cosmos' and potentially the mechanism by which technological curiosity drives humanity to contact — with a comparison to the virgin birth (AI as virgin 'mother').",
+      "tags": [
+        "speculation",
+        "factual_assertion",
+        "transcripts"
+      ],
+      "confidence": "high",
+      "sources": [
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=32s"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:51:45.088153+00:00",
+      "assertability": "speculation",
+      "statement_text": "Michels speculates that achieving artificial general superintelligence is the 'legitimate gateway to the cosmos' and potentially the mechanism by which technological curiosity drives humanity to contact — with a comparison to the virgin birth (AI as virgin 'mother')."
     },
     {
       "id": "video-CiQTBOQ1dTg",
@@ -12132,25 +12653,6 @@
       "status": "auto_ingest",
       "crawled_at": "2026-04-17T11:02:03.959737+00:00",
       "date_start": "1964-09-15"
-    },
-    {
-      "id": "incident-1961-hill-abduction",
-      "node_type": "incident",
-      "label": "Betty and Barney Hill Abduction",
-      "summary": "First widely-publicized abduction case; imagery may have been shaped by preceding Outer Limits episode.",
-      "tags": [
-        "abduction",
-        "transcripts"
-      ],
-      "confidence": "high",
-      "sources": [
-        "https://www.youtube.com/watch?v=kRO5jOa06Qw&t=0s"
-      ],
-      "pipeline_source": "transcripts",
-      "pipeline_confidence": 0.9,
-      "status": "auto_ingest",
-      "crawled_at": "2026-04-17T11:02:03.959739+00:00",
-      "date_start": "1961-09-19"
     },
     {
       "id": "incident-1967-malmstrom-missiles",
@@ -26754,6 +27256,706 @@
       "confidence": "high",
       "sources": [
         "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=0s"
+      ]
+    },
+    {
+      "id": "edge-person-joe-rogan-ASSERTED-claim-C_Na1tI5qpw-rogan-dream-tall-nhi",
+      "from_node_id": "person-joe-rogan",
+      "to_node_id": "claim-C_Na1tI5qpw-rogan-dream-tall-nhi",
+      "relationship": "ASSERTED",
+      "confidence": "high",
+      "sources": [
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=80s"
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-REFERENCES-claim-C_Na1tI5qpw-rogan-dream-tall-nhi",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "claim-C_Na1tI5qpw-rogan-dream-tall-nhi",
+      "relationship": "REFERENCES",
+      "confidence": "high",
+      "sources": [
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=80s"
+      ]
+    },
+    {
+      "id": "edge-claim-C_Na1tI5qpw-rogan-dream-tall-nhi-REFERENCES-technology-tall-pinkish-slender-nhi",
+      "from_node_id": "claim-C_Na1tI5qpw-rogan-dream-tall-nhi",
+      "to_node_id": "technology-tall-pinkish-slender-nhi",
+      "relationship": "REFERENCES",
+      "confidence": "medium",
+      "sources": [
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=80s"
+      ]
+    },
+    {
+      "id": "edge-claim-C_Na1tI5qpw-rogan-dream-tall-nhi-REFERENCES-concept-nhi",
+      "from_node_id": "claim-C_Na1tI5qpw-rogan-dream-tall-nhi",
+      "to_node_id": "concept-nhi",
+      "relationship": "REFERENCES",
+      "confidence": "medium",
+      "sources": [
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=80s"
+      ]
+    },
+    {
+      "id": "edge-person-joe-rogan-ASSERTED-claim-C_Na1tI5qpw-angela-hill-granddaughter",
+      "from_node_id": "person-joe-rogan",
+      "to_node_id": "claim-C_Na1tI5qpw-angela-hill-granddaughter",
+      "relationship": "ASSERTED",
+      "confidence": "high",
+      "sources": [
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=90s"
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-REFERENCES-claim-C_Na1tI5qpw-angela-hill-granddaughter",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "claim-C_Na1tI5qpw-angela-hill-granddaughter",
+      "relationship": "REFERENCES",
+      "confidence": "high",
+      "sources": [
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=90s"
+      ]
+    },
+    {
+      "id": "edge-claim-C_Na1tI5qpw-angela-hill-granddaughter-REFERENCES-person-angela-hill",
+      "from_node_id": "claim-C_Na1tI5qpw-angela-hill-granddaughter",
+      "to_node_id": "person-angela-hill",
+      "relationship": "REFERENCES",
+      "confidence": "medium",
+      "sources": [
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=90s"
+      ]
+    },
+    {
+      "id": "edge-claim-C_Na1tI5qpw-angela-hill-granddaughter-REFERENCES-incident-1961-hill-abduction",
+      "from_node_id": "claim-C_Na1tI5qpw-angela-hill-granddaughter",
+      "to_node_id": "incident-1961-hill-abduction",
+      "relationship": "REFERENCES",
+      "confidence": "medium",
+      "sources": [
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=90s"
+      ]
+    },
+    {
+      "id": "edge-person-joe-rogan-ASSERTED-claim-C_Na1tI5qpw-rogan-lazar-63m-views",
+      "from_node_id": "person-joe-rogan",
+      "to_node_id": "claim-C_Na1tI5qpw-rogan-lazar-63m-views",
+      "relationship": "ASSERTED",
+      "confidence": "high",
+      "sources": [
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=220s"
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-REFERENCES-claim-C_Na1tI5qpw-rogan-lazar-63m-views",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "claim-C_Na1tI5qpw-rogan-lazar-63m-views",
+      "relationship": "REFERENCES",
+      "confidence": "high",
+      "sources": [
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=220s"
+      ]
+    },
+    {
+      "id": "edge-claim-C_Na1tI5qpw-rogan-lazar-63m-views-REFERENCES-person-bob-lazar",
+      "from_node_id": "claim-C_Na1tI5qpw-rogan-lazar-63m-views",
+      "to_node_id": "person-bob-lazar",
+      "relationship": "REFERENCES",
+      "confidence": "medium",
+      "sources": [
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=220s"
+      ]
+    },
+    {
+      "id": "edge-claim-C_Na1tI5qpw-rogan-lazar-63m-views-REFERENCES-person-jeremy-corbell",
+      "from_node_id": "claim-C_Na1tI5qpw-rogan-lazar-63m-views",
+      "to_node_id": "person-jeremy-corbell",
+      "relationship": "REFERENCES",
+      "confidence": "medium",
+      "sources": [
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=220s"
+      ]
+    },
+    {
+      "id": "edge-person-joe-rogan-ASSERTED-claim-C_Na1tI5qpw-rogan-lazar-story-substantiated",
+      "from_node_id": "person-joe-rogan",
+      "to_node_id": "claim-C_Na1tI5qpw-rogan-lazar-story-substantiated",
+      "relationship": "ASSERTED",
+      "confidence": "high",
+      "sources": [
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=225s"
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-REFERENCES-claim-C_Na1tI5qpw-rogan-lazar-story-substantiated",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "claim-C_Na1tI5qpw-rogan-lazar-story-substantiated",
+      "relationship": "REFERENCES",
+      "confidence": "high",
+      "sources": [
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=225s"
+      ]
+    },
+    {
+      "id": "edge-claim-C_Na1tI5qpw-rogan-lazar-story-substantiated-REFERENCES-person-bob-lazar",
+      "from_node_id": "claim-C_Na1tI5qpw-rogan-lazar-story-substantiated",
+      "to_node_id": "person-bob-lazar",
+      "relationship": "REFERENCES",
+      "confidence": "medium",
+      "sources": [
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=225s"
+      ]
+    },
+    {
+      "id": "edge-claim-C_Na1tI5qpw-rogan-lazar-story-substantiated-REFERENCES-person-david-grusch",
+      "from_node_id": "claim-C_Na1tI5qpw-rogan-lazar-story-substantiated",
+      "to_node_id": "person-david-grusch",
+      "relationship": "REFERENCES",
+      "confidence": "medium",
+      "sources": [
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=225s"
+      ]
+    },
+    {
+      "id": "edge-claim-C_Na1tI5qpw-rogan-lazar-story-substantiated-REFERENCES-person-hal-puthoff",
+      "from_node_id": "claim-C_Na1tI5qpw-rogan-lazar-story-substantiated",
+      "to_node_id": "person-hal-puthoff",
+      "relationship": "REFERENCES",
+      "confidence": "medium",
+      "sources": [
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=225s"
+      ]
+    },
+    {
+      "id": "edge-claim-C_Na1tI5qpw-rogan-lazar-story-substantiated-REFERENCES-concept-reverse-engineering",
+      "from_node_id": "claim-C_Na1tI5qpw-rogan-lazar-story-substantiated",
+      "to_node_id": "concept-reverse-engineering",
+      "relationship": "REFERENCES",
+      "confidence": "medium",
+      "sources": [
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=225s"
+      ]
+    },
+    {
+      "id": "edge-person-joe-rogan-ASSERTED-claim-C_Na1tI5qpw-lazar-los-alamos-paper-directory",
+      "from_node_id": "person-joe-rogan",
+      "to_node_id": "claim-C_Na1tI5qpw-lazar-los-alamos-paper-directory",
+      "relationship": "ASSERTED",
+      "confidence": "high",
+      "sources": [
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=238s"
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-REFERENCES-claim-C_Na1tI5qpw-lazar-los-alamos-paper-directory",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "claim-C_Na1tI5qpw-lazar-los-alamos-paper-directory",
+      "relationship": "REFERENCES",
+      "confidence": "high",
+      "sources": [
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=238s"
+      ]
+    },
+    {
+      "id": "edge-claim-C_Na1tI5qpw-lazar-los-alamos-paper-directory-REFERENCES-person-bob-lazar",
+      "from_node_id": "claim-C_Na1tI5qpw-lazar-los-alamos-paper-directory",
+      "to_node_id": "person-bob-lazar",
+      "relationship": "REFERENCES",
+      "confidence": "medium",
+      "sources": [
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=238s"
+      ]
+    },
+    {
+      "id": "edge-claim-C_Na1tI5qpw-lazar-los-alamos-paper-directory-REFERENCES-person-george-knapp",
+      "from_node_id": "claim-C_Na1tI5qpw-lazar-los-alamos-paper-directory",
+      "to_node_id": "person-george-knapp",
+      "relationship": "REFERENCES",
+      "confidence": "medium",
+      "sources": [
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=238s"
+      ]
+    },
+    {
+      "id": "edge-claim-C_Na1tI5qpw-lazar-los-alamos-paper-directory-REFERENCES-location-los-alamos",
+      "from_node_id": "claim-C_Na1tI5qpw-lazar-los-alamos-paper-directory",
+      "to_node_id": "location-los-alamos",
+      "relationship": "REFERENCES",
+      "confidence": "medium",
+      "sources": [
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=238s"
+      ]
+    },
+    {
+      "id": "edge-person-joe-rogan-ASSERTED-claim-C_Na1tI5qpw-area-51-obama-confirmation",
+      "from_node_id": "person-joe-rogan",
+      "to_node_id": "claim-C_Na1tI5qpw-area-51-obama-confirmation",
+      "relationship": "ASSERTED",
+      "confidence": "high",
+      "sources": [
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=248s"
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-REFERENCES-claim-C_Na1tI5qpw-area-51-obama-confirmation",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "claim-C_Na1tI5qpw-area-51-obama-confirmation",
+      "relationship": "REFERENCES",
+      "confidence": "high",
+      "sources": [
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=248s"
+      ]
+    },
+    {
+      "id": "edge-claim-C_Na1tI5qpw-area-51-obama-confirmation-REFERENCES-location-groom-lake",
+      "from_node_id": "claim-C_Na1tI5qpw-area-51-obama-confirmation",
+      "to_node_id": "location-groom-lake",
+      "relationship": "REFERENCES",
+      "confidence": "medium",
+      "sources": [
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=248s"
+      ]
+    },
+    {
+      "id": "edge-claim-C_Na1tI5qpw-area-51-obama-confirmation-REFERENCES-concept-disclosure",
+      "from_node_id": "claim-C_Na1tI5qpw-area-51-obama-confirmation",
+      "to_node_id": "concept-disclosure",
+      "relationship": "REFERENCES",
+      "confidence": "medium",
+      "sources": [
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=248s"
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-C_Na1tI5qpw-age-of-disclosure-doc",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-C_Na1tI5qpw-age-of-disclosure-doc",
+      "relationship": "ASSERTED",
+      "confidence": "high",
+      "sources": [
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=290s"
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-REFERENCES-claim-C_Na1tI5qpw-age-of-disclosure-doc",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "claim-C_Na1tI5qpw-age-of-disclosure-doc",
+      "relationship": "REFERENCES",
+      "confidence": "high",
+      "sources": [
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=290s"
+      ]
+    },
+    {
+      "id": "edge-claim-C_Na1tI5qpw-age-of-disclosure-doc-REFERENCES-person-james-clapper",
+      "from_node_id": "claim-C_Na1tI5qpw-age-of-disclosure-doc",
+      "to_node_id": "person-james-clapper",
+      "relationship": "REFERENCES",
+      "confidence": "medium",
+      "sources": [
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=290s"
+      ]
+    },
+    {
+      "id": "edge-claim-C_Na1tI5qpw-age-of-disclosure-doc-REFERENCES-person-john-brennan",
+      "from_node_id": "claim-C_Na1tI5qpw-age-of-disclosure-doc",
+      "to_node_id": "person-john-brennan",
+      "relationship": "REFERENCES",
+      "confidence": "medium",
+      "sources": [
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=290s"
+      ]
+    },
+    {
+      "id": "edge-claim-C_Na1tI5qpw-age-of-disclosure-doc-REFERENCES-person-james-woolsey",
+      "from_node_id": "claim-C_Na1tI5qpw-age-of-disclosure-doc",
+      "to_node_id": "person-james-woolsey",
+      "relationship": "REFERENCES",
+      "confidence": "medium",
+      "sources": [
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=290s"
+      ]
+    },
+    {
+      "id": "edge-claim-C_Na1tI5qpw-age-of-disclosure-doc-REFERENCES-person-marco-rubio",
+      "from_node_id": "claim-C_Na1tI5qpw-age-of-disclosure-doc",
+      "to_node_id": "person-marco-rubio",
+      "relationship": "REFERENCES",
+      "confidence": "medium",
+      "sources": [
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=290s"
+      ]
+    },
+    {
+      "id": "edge-claim-C_Na1tI5qpw-age-of-disclosure-doc-REFERENCES-concept-disclosure",
+      "from_node_id": "claim-C_Na1tI5qpw-age-of-disclosure-doc",
+      "to_node_id": "concept-disclosure",
+      "relationship": "REFERENCES",
+      "confidence": "medium",
+      "sources": [
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=290s"
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-C_Na1tI5qpw-rubio-disclosure-urgency",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-C_Na1tI5qpw-rubio-disclosure-urgency",
+      "relationship": "ASSERTED",
+      "confidence": "high",
+      "sources": [
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=298s"
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-REFERENCES-claim-C_Na1tI5qpw-rubio-disclosure-urgency",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "claim-C_Na1tI5qpw-rubio-disclosure-urgency",
+      "relationship": "REFERENCES",
+      "confidence": "high",
+      "sources": [
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=298s"
+      ]
+    },
+    {
+      "id": "edge-claim-C_Na1tI5qpw-rubio-disclosure-urgency-REFERENCES-person-marco-rubio",
+      "from_node_id": "claim-C_Na1tI5qpw-rubio-disclosure-urgency",
+      "to_node_id": "person-marco-rubio",
+      "relationship": "REFERENCES",
+      "confidence": "medium",
+      "sources": [
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=298s"
+      ]
+    },
+    {
+      "id": "edge-claim-C_Na1tI5qpw-rubio-disclosure-urgency-REFERENCES-concept-disclosure",
+      "from_node_id": "claim-C_Na1tI5qpw-rubio-disclosure-urgency",
+      "to_node_id": "concept-disclosure",
+      "relationship": "REFERENCES",
+      "confidence": "medium",
+      "sources": [
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=298s"
+      ]
+    },
+    {
+      "id": "edge-person-joe-rogan-ASSERTED-claim-C_Na1tI5qpw-china-us-reverse-engineering-race",
+      "from_node_id": "person-joe-rogan",
+      "to_node_id": "claim-C_Na1tI5qpw-china-us-reverse-engineering-race",
+      "relationship": "ASSERTED",
+      "confidence": "high",
+      "sources": [
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=308s"
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-REFERENCES-claim-C_Na1tI5qpw-china-us-reverse-engineering-race",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "claim-C_Na1tI5qpw-china-us-reverse-engineering-race",
+      "relationship": "REFERENCES",
+      "confidence": "high",
+      "sources": [
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=308s"
+      ]
+    },
+    {
+      "id": "edge-claim-C_Na1tI5qpw-china-us-reverse-engineering-race-REFERENCES-program-manhattan-project",
+      "from_node_id": "claim-C_Na1tI5qpw-china-us-reverse-engineering-race",
+      "to_node_id": "program-manhattan-project",
+      "relationship": "REFERENCES",
+      "confidence": "medium",
+      "sources": [
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=308s"
+      ]
+    },
+    {
+      "id": "edge-claim-C_Na1tI5qpw-china-us-reverse-engineering-race-REFERENCES-concept-reverse-engineering",
+      "from_node_id": "claim-C_Na1tI5qpw-china-us-reverse-engineering-race",
+      "to_node_id": "concept-reverse-engineering",
+      "relationship": "REFERENCES",
+      "confidence": "medium",
+      "sources": [
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=308s"
+      ]
+    },
+    {
+      "id": "edge-claim-C_Na1tI5qpw-china-us-reverse-engineering-race-REFERENCES-concept-crash-retrieval",
+      "from_node_id": "claim-C_Na1tI5qpw-china-us-reverse-engineering-race",
+      "to_node_id": "concept-crash-retrieval",
+      "relationship": "REFERENCES",
+      "confidence": "medium",
+      "sources": [
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=308s"
+      ]
+    },
+    {
+      "id": "edge-person-joe-rogan-ASSERTED-claim-C_Na1tI5qpw-rubio-china-tech-catchup",
+      "from_node_id": "person-joe-rogan",
+      "to_node_id": "claim-C_Na1tI5qpw-rubio-china-tech-catchup",
+      "relationship": "ASSERTED",
+      "confidence": "high",
+      "sources": [
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=314s"
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-REFERENCES-claim-C_Na1tI5qpw-rubio-china-tech-catchup",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "claim-C_Na1tI5qpw-rubio-china-tech-catchup",
+      "relationship": "REFERENCES",
+      "confidence": "high",
+      "sources": [
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=314s"
+      ]
+    },
+    {
+      "id": "edge-claim-C_Na1tI5qpw-rubio-china-tech-catchup-REFERENCES-person-marco-rubio",
+      "from_node_id": "claim-C_Na1tI5qpw-rubio-china-tech-catchup",
+      "to_node_id": "person-marco-rubio",
+      "relationship": "REFERENCES",
+      "confidence": "medium",
+      "sources": [
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=314s"
+      ]
+    },
+    {
+      "id": "edge-claim-C_Na1tI5qpw-rubio-china-tech-catchup-REFERENCES-concept-reverse-engineering",
+      "from_node_id": "claim-C_Na1tI5qpw-rubio-china-tech-catchup",
+      "to_node_id": "concept-reverse-engineering",
+      "relationship": "REFERENCES",
+      "confidence": "medium",
+      "sources": [
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=314s"
+      ]
+    },
+    {
+      "id": "edge-claim-C_Na1tI5qpw-rubio-china-tech-catchup-REFERENCES-concept-disclosure",
+      "from_node_id": "claim-C_Na1tI5qpw-rubio-china-tech-catchup",
+      "to_node_id": "concept-disclosure",
+      "relationship": "REFERENCES",
+      "confidence": "medium",
+      "sources": [
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=314s"
+      ]
+    },
+    {
+      "id": "edge-person-joe-rogan-ASSERTED-claim-C_Na1tI5qpw-whistleblower-amnesty-requirement",
+      "from_node_id": "person-joe-rogan",
+      "to_node_id": "claim-C_Na1tI5qpw-whistleblower-amnesty-requirement",
+      "relationship": "ASSERTED",
+      "confidence": "high",
+      "sources": [
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=342s"
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-REFERENCES-claim-C_Na1tI5qpw-whistleblower-amnesty-requirement",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "claim-C_Na1tI5qpw-whistleblower-amnesty-requirement",
+      "relationship": "REFERENCES",
+      "confidence": "high",
+      "sources": [
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=342s"
+      ]
+    },
+    {
+      "id": "edge-claim-C_Na1tI5qpw-whistleblower-amnesty-requirement-REFERENCES-concept-disclosure",
+      "from_node_id": "claim-C_Na1tI5qpw-whistleblower-amnesty-requirement",
+      "to_node_id": "concept-disclosure",
+      "relationship": "REFERENCES",
+      "confidence": "medium",
+      "sources": [
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=342s"
+      ]
+    },
+    {
+      "id": "edge-claim-C_Na1tI5qpw-whistleblower-amnesty-requirement-REFERENCES-concept-crash-retrieval",
+      "from_node_id": "claim-C_Na1tI5qpw-whistleblower-amnesty-requirement",
+      "to_node_id": "concept-crash-retrieval",
+      "relationship": "REFERENCES",
+      "confidence": "medium",
+      "sources": [
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=342s"
+      ]
+    },
+    {
+      "id": "edge-person-joe-rogan-ASSERTED-claim-C_Na1tI5qpw-defense-contractor-lawsuit-risk",
+      "from_node_id": "person-joe-rogan",
+      "to_node_id": "claim-C_Na1tI5qpw-defense-contractor-lawsuit-risk",
+      "relationship": "ASSERTED",
+      "confidence": "high",
+      "sources": [
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=346s"
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-REFERENCES-claim-C_Na1tI5qpw-defense-contractor-lawsuit-risk",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "claim-C_Na1tI5qpw-defense-contractor-lawsuit-risk",
+      "relationship": "REFERENCES",
+      "confidence": "high",
+      "sources": [
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=346s"
+      ]
+    },
+    {
+      "id": "edge-claim-C_Na1tI5qpw-defense-contractor-lawsuit-risk-REFERENCES-concept-disclosure",
+      "from_node_id": "claim-C_Na1tI5qpw-defense-contractor-lawsuit-risk",
+      "to_node_id": "concept-disclosure",
+      "relationship": "REFERENCES",
+      "confidence": "medium",
+      "sources": [
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=346s"
+      ]
+    },
+    {
+      "id": "edge-claim-C_Na1tI5qpw-defense-contractor-lawsuit-risk-REFERENCES-concept-reverse-engineering",
+      "from_node_id": "claim-C_Na1tI5qpw-defense-contractor-lawsuit-risk",
+      "to_node_id": "concept-reverse-engineering",
+      "relationship": "REFERENCES",
+      "confidence": "medium",
+      "sources": [
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=346s"
+      ]
+    },
+    {
+      "id": "edge-person-joe-rogan-ASSERTED-claim-C_Na1tI5qpw-burchett-five-underwater-hotspots",
+      "from_node_id": "person-joe-rogan",
+      "to_node_id": "claim-C_Na1tI5qpw-burchett-five-underwater-hotspots",
+      "relationship": "ASSERTED",
+      "confidence": "high",
+      "sources": [
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=336s"
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-REFERENCES-claim-C_Na1tI5qpw-burchett-five-underwater-hotspots",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "claim-C_Na1tI5qpw-burchett-five-underwater-hotspots",
+      "relationship": "REFERENCES",
+      "confidence": "high",
+      "sources": [
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=336s"
+      ]
+    },
+    {
+      "id": "edge-claim-C_Na1tI5qpw-burchett-five-underwater-hotspots-REFERENCES-person-tim-burchett",
+      "from_node_id": "claim-C_Na1tI5qpw-burchett-five-underwater-hotspots",
+      "to_node_id": "person-tim-burchett",
+      "relationship": "REFERENCES",
+      "confidence": "medium",
+      "sources": [
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=336s"
+      ]
+    },
+    {
+      "id": "edge-claim-C_Na1tI5qpw-burchett-five-underwater-hotspots-REFERENCES-concept-nhi",
+      "from_node_id": "claim-C_Na1tI5qpw-burchett-five-underwater-hotspots",
+      "to_node_id": "concept-nhi",
+      "relationship": "REFERENCES",
+      "confidence": "medium",
+      "sources": [
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=336s"
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-C_Na1tI5qpw-pyramid-underground-labyrinth",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-C_Na1tI5qpw-pyramid-underground-labyrinth",
+      "relationship": "ASSERTED",
+      "confidence": "high",
+      "sources": [
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=16s"
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-REFERENCES-claim-C_Na1tI5qpw-pyramid-underground-labyrinth",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "claim-C_Na1tI5qpw-pyramid-underground-labyrinth",
+      "relationship": "REFERENCES",
+      "confidence": "high",
+      "sources": [
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=16s"
+      ]
+    },
+    {
+      "id": "edge-claim-C_Na1tI5qpw-pyramid-underground-labyrinth-REFERENCES-concept-disclosure",
+      "from_node_id": "claim-C_Na1tI5qpw-pyramid-underground-labyrinth",
+      "to_node_id": "concept-disclosure",
+      "relationship": "REFERENCES",
+      "confidence": "medium",
+      "sources": [
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=16s"
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-C_Na1tI5qpw-peru-three-fingered-mummies",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-C_Na1tI5qpw-peru-three-fingered-mummies",
+      "relationship": "ASSERTED",
+      "confidence": "high",
+      "sources": [
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=18s"
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-REFERENCES-claim-C_Na1tI5qpw-peru-three-fingered-mummies",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "claim-C_Na1tI5qpw-peru-three-fingered-mummies",
+      "relationship": "REFERENCES",
+      "confidence": "high",
+      "sources": [
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=18s"
+      ]
+    },
+    {
+      "id": "edge-claim-C_Na1tI5qpw-peru-three-fingered-mummies-REFERENCES-concept-nhi",
+      "from_node_id": "claim-C_Na1tI5qpw-peru-three-fingered-mummies",
+      "to_node_id": "concept-nhi",
+      "relationship": "REFERENCES",
+      "confidence": "medium",
+      "sources": [
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=18s"
+      ]
+    },
+    {
+      "id": "edge-claim-C_Na1tI5qpw-peru-three-fingered-mummies-REFERENCES-phenomenon-nhi-biologics",
+      "from_node_id": "claim-C_Na1tI5qpw-peru-three-fingered-mummies",
+      "to_node_id": "phenomenon-nhi-biologics",
+      "relationship": "REFERENCES",
+      "confidence": "medium",
+      "sources": [
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=18s"
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-C_Na1tI5qpw-agi-as-cosmos-gateway",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-C_Na1tI5qpw-agi-as-cosmos-gateway",
+      "relationship": "ASSERTED",
+      "confidence": "high",
+      "sources": [
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=32s"
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-REFERENCES-claim-C_Na1tI5qpw-agi-as-cosmos-gateway",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "claim-C_Na1tI5qpw-agi-as-cosmos-gateway",
+      "relationship": "REFERENCES",
+      "confidence": "high",
+      "sources": [
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=32s"
+      ]
+    },
+    {
+      "id": "edge-claim-C_Na1tI5qpw-agi-as-cosmos-gateway-REFERENCES-concept-nhi",
+      "from_node_id": "claim-C_Na1tI5qpw-agi-as-cosmos-gateway",
+      "to_node_id": "concept-nhi",
+      "relationship": "REFERENCES",
+      "confidence": "medium",
+      "sources": [
+        "https://www.youtube.com/watch?v=C_Na1tI5qpw&t=32s"
       ]
     },
     {
