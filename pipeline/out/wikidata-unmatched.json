@@ -1,0 +1,210 @@
+{
+  "generated_at": "2026-04-17T11:46:02.826Z",
+  "candidate_count": 28,
+  "matched": 10,
+  "unmatched": 18,
+  "from_cache": 28,
+  "errors": 0,
+  "unmatched_entries": [
+    {
+      "id": "person-bob-oppenheimer",
+      "label": "Bob Oppenheimer",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "organization-norad",
+      "label": "NORAD",
+      "node_type": "organization",
+      "candidate_count": 5,
+      "top_candidates": [
+        {
+          "id": "Q186242",
+          "label": "norepinephrine",
+          "description": "chemical compound"
+        },
+        {
+          "id": "Q748010",
+          "label": "North American Aerospace Defense Command",
+          "description": "combined organization of the US and Canada providing air defence for North America"
+        }
+      ]
+    },
+    {
+      "id": "organization-raymond-a-palmer",
+      "label": "Raymond A. Palmer",
+      "node_type": "organization",
+      "candidate_count": 1,
+      "top_candidates": [
+        {
+          "id": "Q2025311",
+          "label": "Raymond Arthur Palmer",
+          "description": "American editor and science fiction author (1910-1977)"
+        }
+      ]
+    },
+    {
+      "id": "organization-galileo-project",
+      "label": "Galileo Project",
+      "node_type": "organization",
+      "candidate_count": 1,
+      "top_candidates": [
+        {
+          "id": "Q182008",
+          "label": "Galileo mission",
+          "description": "NASA program to send an orbiter to the Jupiter system"
+        }
+      ]
+    },
+    {
+      "id": "person-townsend-brown",
+      "label": "T. Townsend Brown",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-lawrence-rockefeller",
+      "label": "Lawrence Rockefeller",
+      "node_type": "person",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "person-mac-brazel",
+      "label": "Mac Brazel",
+      "node_type": "person",
+      "candidate_count": 1,
+      "top_candidates": [
+        {
+          "id": "Q219355",
+          "label": "Roswell incident",
+          "description": "1947 unspecified object crash near Corona, New Mexico, US"
+        }
+      ]
+    },
+    {
+      "id": "organization-skunkworks",
+      "label": "Lockheed Skunkworks",
+      "node_type": "organization",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "organization-martin-corporation",
+      "label": "Martin Corporation",
+      "node_type": "organization",
+      "candidate_count": 1,
+      "top_candidates": [
+        {
+          "id": "Q1426388",
+          "label": "Glenn L. Martin Company",
+          "description": "defunct aerospace manufacturer"
+        }
+      ]
+    },
+    {
+      "id": "organization-nicap",
+      "label": "NICAP",
+      "node_type": "organization",
+      "candidate_count": 3,
+      "top_candidates": [
+        {
+          "id": "Q3869538",
+          "label": "National Investigations Committee On Aerial Phenomena",
+          "description": "U.S. government research group"
+        },
+        {
+          "id": "Q12736803",
+          "label": "Nicapetre",
+          "description": "Romanian sculptor"
+        }
+      ]
+    },
+    {
+      "id": "organization-princeton-parapsychology-lab",
+      "label": "Princeton Parapsychology Lab",
+      "node_type": "organization",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "organization-afosi",
+      "label": "AFOSI",
+      "node_type": "organization",
+      "candidate_count": 3,
+      "top_candidates": [
+        {
+          "id": "Q7863034",
+          "label": "U.S. Air Force Office of Special Investigations",
+          "description": "US federal law enforcement agency that reports directly to the Secretary of the Air Force"
+        },
+        {
+          "id": "Q60766948",
+          "label": "Commander of the Air Force Office of Special Investigations",
+          "description": "United States Commander of the Air Force Office of Special Investigations"
+        }
+      ]
+    },
+    {
+      "id": "organization-montana-tech",
+      "label": "Montana Tech University",
+      "node_type": "organization",
+      "candidate_count": 1,
+      "top_candidates": [
+        {
+          "id": "Q6904341",
+          "label": "Montana Technological University",
+          "description": "Public university in Butte, Montana, United States"
+        }
+      ]
+    },
+    {
+      "id": "location-vandenberg-afb",
+      "label": "Vandenberg Air Force Base",
+      "node_type": "location",
+      "candidate_count": 5,
+      "top_candidates": [
+        {
+          "id": "Q461492",
+          "label": "Vandenberg Space Force Base",
+          "description": "United States Space Force Base located in Santa Barbara County, California"
+        },
+        {
+          "id": "Q2510100",
+          "label": "Vandenberg Space Launch Complex 2",
+          "description": "rocket launch complex at Vandenberg Space Force Base in the United States"
+        }
+      ]
+    },
+    {
+      "id": "location-groom-lake",
+      "label": "Groom Lake / Area 51",
+      "node_type": "location",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "location-s4-papoose",
+      "label": "S-4 / Papoose Lake",
+      "node_type": "location",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "location-ariel-school",
+      "label": "Ariel International School (Zimbabwe)",
+      "node_type": "location",
+      "candidate_count": 0,
+      "top_candidates": []
+    },
+    {
+      "id": "location-lino-japan",
+      "label": "Lino, Japan (near Fukushima)",
+      "node_type": "location",
+      "candidate_count": 0,
+      "top_candidates": []
+    }
+  ]
+}
