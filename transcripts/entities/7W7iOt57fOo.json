@@ -728,6 +728,382 @@
           "video-7W7iOt57fOo"
         ]
       }
+    },
+    {
+      "id": "person-brandon-fugal-extended",
+      "node_type": "person",
+      "label": "Brandon Fugal (extended)",
+      "summary": "Utah real-estate mogul; current owner of Skinwalker Ranch since 2016; produces 'The Secret of Skinwalker Ranch' History Channel / Netflix docuseries. Describes himself as 'not a believer — an experiencer.'",
+      "tags": [
+        "businessman",
+        "investigator"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.687521+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "7W7iOt57fOo",
+          "timestamp_start": 302,
+          "quote": "Real-estate mogul; Skinwalker Ranch owner; History Channel show producer"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Fugal"
+        ],
+        "profession": "businessman",
+        "notability_tags": [
+          "businessman",
+          "investigator"
+        ]
+      }
+    },
+    {
+      "id": "person-aaron-blunt",
+      "node_type": "person",
+      "label": "Aaron Blunt",
+      "summary": "Drilling expert hired by Fugal's team to drill into the Skinwalker mesa; encountered a hard object ~400ft wide that his drill could not break through.",
+      "tags": [
+        "technician"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.687524+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "7W7iOt57fOo",
+          "timestamp_start": 331,
+          "quote": "Drill expert brought in to drill into Skinwalker mesa"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Blunt"
+        ],
+        "profession": "drill operator",
+        "notability_tags": [
+          "technician"
+        ]
+      }
+    },
+    {
+      "id": "person-ravi-chandran-metallurgist",
+      "node_type": "person",
+      "label": "Dr. Ravi Chandran",
+      "summary": "Metallurgist who analyzed the shard samples from Skinwalker's mesa and confirmed they contained europium and tellurium — manufactured rather than naturally occurring.",
+      "tags": [
+        "scientist",
+        "metallurgist"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.687581+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "7W7iOt57fOo",
+          "timestamp_start": 333,
+          "quote": "Metallurgist analyzing Skinwalker metal shards"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Chandran"
+        ],
+        "profession": "metallurgist",
+        "notability_tags": [
+          "scientist",
+          "metallurgist"
+        ]
+      }
+    },
+    {
+      "id": "person-sherman-family-skinwalker",
+      "node_type": "person",
+      "label": "Sherman Family (Skinwalker)",
+      "summary": "Family who owned Skinwalker Ranch in the 1990s; experienced orbs, UFOs, skinwalker entities, and an oversized bipedal wolf withstanding close-range shotgun attacks. Left the ranch.",
+      "tags": [
+        "experiencer",
+        "Skinwalker"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.687584+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "7W7iOt57fOo",
+          "timestamp_start": 306,
+          "quote": "1990s Skinwalker Ranch tenants haunted off property"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Sherman"
+        ],
+        "notability_tags": [
+          "experiencer",
+          "Skinwalker"
+        ]
+      }
+    },
+    {
+      "id": "person-navajo-ute-skinwalker-curse",
+      "node_type": "person",
+      "label": "Navajo (Skinwalker Curse Context)",
+      "summary": "Navajo Nation — per local history, cursed the Uintah Basin land with skinwalkers after US Civil War defeat and feeling betrayed by Ute tribal alliance with US government.",
+      "tags": [
+        "historical",
+        "tribe"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.687588+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "7W7iOt57fOo",
+          "timestamp_start": 304,
+          "quote": "Navajo tribe cursed local land with skinwalkers after Civil War defeat"
+        }
+      ],
+      "type_specific": {
+        "aliases": [],
+        "profession": "tribe / historical",
+        "notability_tags": [
+          "historical",
+          "tribe"
+        ]
+      }
+    },
+    {
+      "id": "incident-skinwalker-cow-pneumonia-radiation",
+      "node_type": "incident",
+      "label": "Skinwalker Heifer Mysterious Death",
+      "summary": "A perfectly healthy 2-year-old heifer cow found dead on Skinwalker Ranch with no exterior injuries; autopsy ruled pneumonia from severe stressor. Surveillance footage showed a UFO-shaped object appeared directly above the cow at the moment of stress; high radiation readings detected.",
+      "tags": [
+        "sighting"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.687590+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "7W7iOt57fOo",
+          "timestamp_start": 320,
+          "timestamp_end": "Healthy 2yo heifer killed by pneumonia coincident with UFO + radiation spike"
+        }
+      ],
+      "type_specific": {
+        "incident_type": "sighting",
+        "date_approximate": "2020-01-01"
+      }
+    },
+    {
+      "id": "technology-skinwalker-mesa-400ft-object",
+      "node_type": "technology",
+      "label": "Skinwalker Mesa 400ft Buried Object",
+      "summary": "Hard object ~400ft wide buried in the mesa ridge at Skinwalker Ranch, detected via soil resistivity and ground-penetrating radar. Drilling could not penetrate. Recovered shards (Dr. Ravi Chandran analysis) were fused metal containing europium and tellurium — rare earth elements suggesting manufactured origin.",
+      "tags": [
+        "material"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.687593+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "7W7iOt57fOo",
+          "timestamp_start": 331,
+          "timestamp_end": "Hard object 400ft wide buried in mesa; europium + tellurium metal shards"
+        }
+      ],
+      "type_specific": {
+        "technology_type": "material"
+      }
+    },
+    {
+      "id": "claim-7W7iOt57fOo-skinwalker-mesa-400ft-manufactured-metal",
+      "node_type": "claim",
+      "label": "Drill expert Aaron Blunt hit a hard object 400ft wide buried in the Skinwalker mesa; recovered fused",
+      "summary": "Drill expert Aaron Blunt hit a hard object 400ft wide buried in the Skinwalker mesa; recovered fused-metal shards analyzed by Dr. Ravi Chandran contained europium and tellurium — rare earth elements that are 'likely manufactured, not naturally occurring.'",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.708826+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "7W7iOt57fOo",
+          "timestamp_start": 331,
+          "quote": "It scouted the edges and concluded it was a hard object 400 feet wide buried in the mesa. Dr Ravi Chandran revealed that they were fused metal and contained europium and tellurium. This material was manufactured as opposed to a natural occurrence."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Drill expert Aaron Blunt hit a hard object 400ft wide buried in the Skinwalker mesa; recovered fused-metal shards analyzed by Dr. Ravi Chandran contained europium and tellurium — rare earth elements that are 'likely manufactured, not naturally occurring.'",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "7W7iOt57fOo",
+        "timestamp_start_seconds": 331,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-aaron-blunt",
+          "person-ravi-chandran-metallurgist",
+          "technology-skinwalker-mesa-400ft-object",
+          "concept-reverse-engineering"
+        ]
+      }
+    },
+    {
+      "id": "claim-7W7iOt57fOo-skinwalker-cow-pneumonia-ufo-overhead",
+      "node_type": "claim",
+      "label": "A perfectly healthy 2yo Skinwalker heifer was killed by pneumonia from severe stressor; surveillance",
+      "summary": "A perfectly healthy 2yo Skinwalker heifer was killed by pneumonia from severe stressor; surveillance footage showed a UFO-shaped object appeared directly above the cow at the moment of death; radiation spike coincident.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.708845+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "7W7iOt57fOo",
+          "timestamp_start": 320,
+          "quote": "A perfectly healthy two-year-old heifer cow showed up dead with no exterior injuries. Pneumonia brought on by a severe stressor. Simultaneously the team was picking up high levels of radiation around the cow. The cow is right here — the moment the cow feels a disturbance, a UFO-shaped object appears directly above it."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "A perfectly healthy 2yo Skinwalker heifer was killed by pneumonia from severe stressor; surveillance footage showed a UFO-shaped object appeared directly above the cow at the moment of death; radiation spike coincident.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "7W7iOt57fOo",
+        "timestamp_start_seconds": 320,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "incident-skinwalker-cow-pneumonia-radiation",
+          "person-brandon-fugal-extended"
+        ]
+      }
+    },
+    {
+      "id": "claim-7W7iOt57fOo-skinwalker-navajo-ute-curse-origin",
+      "node_type": "claim",
+      "label": "Per local history: in the 19th century, during US Civil War, the Navajo tribe was defeated in a batt",
+      "summary": "Per local history: in the 19th century, during US Civil War, the Navajo tribe was defeated in a battle where Utes had allied with the US government. Feeling betrayed, the Navajo cursed the Skinwalker-area land with 'skinwalkers' — malevolent shape-shifting entities.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.708854+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "7W7iOt57fOo",
+          "timestamp_start": 304,
+          "quote": "In the 19th century, the Utes partnered with the US government in a battle against the Navajo. Suffering a brutal defeat and feeling betrayed, the Navajo cursed the local land with skinwalkers — malevolent shape-shifting entities."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Per local history: in the 19th century, during US Civil War, the Navajo tribe was defeated in a battle where Utes had allied with the US government. Feeling betrayed, the Navajo cursed the Skinwalker-area land with 'skinwalkers' — malevolent shape-shifting entities.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "7W7iOt57fOo",
+        "timestamp_start_seconds": 304,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-navajo-ute-skinwalker-curse",
+          "person-sherman-family-skinwalker"
+        ]
+      }
+    },
+    {
+      "id": "claim-7W7iOt57fOo-skinwalker-aatip-funded-research",
+      "node_type": "claim",
+      "label": "Between 2007-2012 Skinwalker Ranch was the center of study for AATIP (Luis Elizondo) — via Robert Bi",
+      "summary": "Between 2007-2012 Skinwalker Ranch was the center of study for AATIP (Luis Elizondo) — via Robert Bigelow's private BAASS. All resulting data remains classified and not subject to FOIA due to private-contractor ownership.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.708861+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "7W7iOt57fOo",
+          "timestamp_start": 308,
+          "quote": "Between 2007 and 2012 it became the center of study for AATIP, the official government UFO program led by Lou Elizondo. Because this program was also run under the auspices of Bigelow Aerospace, a private company, all of the data from it is both classified and not subject to the Freedom of Information Act."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Between 2007-2012 Skinwalker Ranch was the center of study for AATIP (Luis Elizondo) — via Robert Bigelow's private BAASS. All resulting data remains classified and not subject to FOIA due to private-contractor ownership.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "7W7iOt57fOo",
+        "timestamp_start_seconds": 308,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "program-aatip",
+          "person-luis-elizondo",
+          "person-robert-bigelow"
+        ]
+      }
+    },
+    {
+      "id": "claim-7W7iOt57fOo-fugal-experiencer-not-believer",
+      "node_type": "claim",
+      "label": "Fugal explicitly rejects 'believer' framing: 'People ask me all the time, Brandon are you a believer",
+      "summary": "Fugal explicitly rejects 'believer' framing: 'People ask me all the time, Brandon are you a believer now? I'm not a believer. I'm an experiencer.'",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.708870+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "7W7iOt57fOo",
+          "timestamp_start": 302,
+          "quote": "People ask me all the time, Brandon Fugal, are you a believer now? The owner of Skinwalker Ranch and I tell them, no, I'm not a believer. I'm an experiencer."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Fugal explicitly rejects 'believer' framing: 'People ask me all the time, Brandon are you a believer now? I'm not a believer. I'm an experiencer.'",
+        "asserted_by_id": "person-brandon-fugal-extended",
+        "source_video_id": "7W7iOt57fOo",
+        "timestamp_start_seconds": 302,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-brandon-fugal-extended"
+        ]
+      }
     }
   ],
   "edges": [
@@ -1122,8 +1498,307 @@
           "timestamp_start": 0
         }
       ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-7W7iOt57fOo-skinwalker-mesa-400ft-manufactured-metal",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-7W7iOt57fOo-skinwalker-mesa-400ft-manufactured-metal",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "7W7iOt57fOo",
+          "timestamp_start": 331,
+          "quote": "Drill expert Aaron Blunt hit a hard object 400ft wide buried in the Skinwalker mesa; recovered fused-metal shards analyzed by Dr. Ravi Chandran contained europium and tellurium — rare earth elements t"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-7W7iOt57fOo-REFERENCES-claim-7W7iOt57fOo-skinwalker-mesa-400ft-manufactured-metal",
+      "from_node_id": "video-7W7iOt57fOo",
+      "to_node_id": "claim-7W7iOt57fOo-skinwalker-mesa-400ft-manufactured-metal",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "7W7iOt57fOo",
+          "timestamp_start": 331
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-7W7iOt57fOo-skinwalker-mesa-400ft-manufactured-metal-REFERENCES-person-aaron-blunt",
+      "from_node_id": "claim-7W7iOt57fOo-skinwalker-mesa-400ft-manufactured-metal",
+      "to_node_id": "person-aaron-blunt",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "7W7iOt57fOo",
+          "timestamp_start": 331
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-7W7iOt57fOo-skinwalker-mesa-400ft-manufactured-metal-REFERENCES-person-ravi-chandran-metallurgist",
+      "from_node_id": "claim-7W7iOt57fOo-skinwalker-mesa-400ft-manufactured-metal",
+      "to_node_id": "person-ravi-chandran-metallurgist",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "7W7iOt57fOo",
+          "timestamp_start": 331
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-7W7iOt57fOo-skinwalker-mesa-400ft-manufactured-metal-REFERENCES-technology-skinwalker-mesa-400ft-object",
+      "from_node_id": "claim-7W7iOt57fOo-skinwalker-mesa-400ft-manufactured-metal",
+      "to_node_id": "technology-skinwalker-mesa-400ft-object",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "7W7iOt57fOo",
+          "timestamp_start": 331
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-7W7iOt57fOo-skinwalker-mesa-400ft-manufactured-metal-REFERENCES-concept-reverse-engineering",
+      "from_node_id": "claim-7W7iOt57fOo-skinwalker-mesa-400ft-manufactured-metal",
+      "to_node_id": "concept-reverse-engineering",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "7W7iOt57fOo",
+          "timestamp_start": 331
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-7W7iOt57fOo-skinwalker-cow-pneumonia-ufo-overhead",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-7W7iOt57fOo-skinwalker-cow-pneumonia-ufo-overhead",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "7W7iOt57fOo",
+          "timestamp_start": 320,
+          "quote": "A perfectly healthy 2yo Skinwalker heifer was killed by pneumonia from severe stressor; surveillance footage showed a UFO-shaped object appeared directly above the cow at the moment of death; radiatio"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-7W7iOt57fOo-REFERENCES-claim-7W7iOt57fOo-skinwalker-cow-pneumonia-ufo-overhead",
+      "from_node_id": "video-7W7iOt57fOo",
+      "to_node_id": "claim-7W7iOt57fOo-skinwalker-cow-pneumonia-ufo-overhead",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "7W7iOt57fOo",
+          "timestamp_start": 320
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-7W7iOt57fOo-skinwalker-cow-pneumonia-ufo-overhead-REFERENCES-incident-skinwalker-cow-pneumonia-radiation",
+      "from_node_id": "claim-7W7iOt57fOo-skinwalker-cow-pneumonia-ufo-overhead",
+      "to_node_id": "incident-skinwalker-cow-pneumonia-radiation",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "7W7iOt57fOo",
+          "timestamp_start": 320
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-7W7iOt57fOo-skinwalker-cow-pneumonia-ufo-overhead-REFERENCES-person-brandon-fugal-extended",
+      "from_node_id": "claim-7W7iOt57fOo-skinwalker-cow-pneumonia-ufo-overhead",
+      "to_node_id": "person-brandon-fugal-extended",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "7W7iOt57fOo",
+          "timestamp_start": 320
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-7W7iOt57fOo-skinwalker-navajo-ute-curse-origin",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-7W7iOt57fOo-skinwalker-navajo-ute-curse-origin",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "7W7iOt57fOo",
+          "timestamp_start": 304,
+          "quote": "Per local history: in the 19th century, during US Civil War, the Navajo tribe was defeated in a battle where Utes had allied with the US government. Feeling betrayed, the Navajo cursed the Skinwalker-"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-7W7iOt57fOo-REFERENCES-claim-7W7iOt57fOo-skinwalker-navajo-ute-curse-origin",
+      "from_node_id": "video-7W7iOt57fOo",
+      "to_node_id": "claim-7W7iOt57fOo-skinwalker-navajo-ute-curse-origin",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "7W7iOt57fOo",
+          "timestamp_start": 304
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-7W7iOt57fOo-skinwalker-navajo-ute-curse-origin-REFERENCES-person-navajo-ute-skinwalker-curse",
+      "from_node_id": "claim-7W7iOt57fOo-skinwalker-navajo-ute-curse-origin",
+      "to_node_id": "person-navajo-ute-skinwalker-curse",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "7W7iOt57fOo",
+          "timestamp_start": 304
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-7W7iOt57fOo-skinwalker-navajo-ute-curse-origin-REFERENCES-person-sherman-family-skinwalker",
+      "from_node_id": "claim-7W7iOt57fOo-skinwalker-navajo-ute-curse-origin",
+      "to_node_id": "person-sherman-family-skinwalker",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "7W7iOt57fOo",
+          "timestamp_start": 304
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-7W7iOt57fOo-skinwalker-aatip-funded-research",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-7W7iOt57fOo-skinwalker-aatip-funded-research",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "7W7iOt57fOo",
+          "timestamp_start": 308,
+          "quote": "Between 2007-2012 Skinwalker Ranch was the center of study for AATIP (Luis Elizondo) — via Robert Bigelow's private BAASS. All resulting data remains classified and not subject to FOIA due to private-"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-7W7iOt57fOo-REFERENCES-claim-7W7iOt57fOo-skinwalker-aatip-funded-research",
+      "from_node_id": "video-7W7iOt57fOo",
+      "to_node_id": "claim-7W7iOt57fOo-skinwalker-aatip-funded-research",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "7W7iOt57fOo",
+          "timestamp_start": 308
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-7W7iOt57fOo-skinwalker-aatip-funded-research-REFERENCES-program-aatip",
+      "from_node_id": "claim-7W7iOt57fOo-skinwalker-aatip-funded-research",
+      "to_node_id": "program-aatip",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "7W7iOt57fOo",
+          "timestamp_start": 308
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-7W7iOt57fOo-skinwalker-aatip-funded-research-REFERENCES-person-luis-elizondo",
+      "from_node_id": "claim-7W7iOt57fOo-skinwalker-aatip-funded-research",
+      "to_node_id": "person-luis-elizondo",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "7W7iOt57fOo",
+          "timestamp_start": 308
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-7W7iOt57fOo-skinwalker-aatip-funded-research-REFERENCES-person-robert-bigelow",
+      "from_node_id": "claim-7W7iOt57fOo-skinwalker-aatip-funded-research",
+      "to_node_id": "person-robert-bigelow",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "7W7iOt57fOo",
+          "timestamp_start": 308
+        }
+      ]
+    },
+    {
+      "id": "edge-person-brandon-fugal-extended-ASSERTED-claim-7W7iOt57fOo-fugal-experiencer-not-believer",
+      "from_node_id": "person-brandon-fugal-extended",
+      "to_node_id": "claim-7W7iOt57fOo-fugal-experiencer-not-believer",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "7W7iOt57fOo",
+          "timestamp_start": 302,
+          "quote": "Fugal explicitly rejects 'believer' framing: 'People ask me all the time, Brandon are you a believer now? I'm not a believer. I'm an experiencer.'"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-7W7iOt57fOo-REFERENCES-claim-7W7iOt57fOo-fugal-experiencer-not-believer",
+      "from_node_id": "video-7W7iOt57fOo",
+      "to_node_id": "claim-7W7iOt57fOo-fugal-experiencer-not-believer",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "7W7iOt57fOo",
+          "timestamp_start": 302
+        }
+      ]
     }
   ],
-  "extracted_at": "2026-04-17T11:04:54.955616+00:00",
+  "extracted_at": "2026-04-17T13:21:38.708875+00:00",
   "extractor_version": "v1-inline-claude"
 }

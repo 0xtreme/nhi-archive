@@ -1728,6 +1728,534 @@
           "video-09KP8XVf5nY"
         ]
       }
+    },
+    {
+      "id": "person-harald-malmgren",
+      "node_type": "person",
+      "label": "Harald Malmgren",
+      "summary": "American economist, presidential advisor to JFK, LBJ, Nixon, and Ford; McNamara 'whiz kid' at age 27 during Cuban Missile Crisis. Claims to have directly handled UFO material recovered from 1963 Marshall Islands nuclear test plume. Died days after final interview with Michels.",
+      "tags": [
+        "official",
+        "witness",
+        "experiencer",
+        "historical"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.485651+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "09KP8XVf5nY",
+          "timestamp_start": 307,
+          "quote": "Presidential advisor to JFK, LBJ, Nixon, Ford; handled UFO material"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Malmgren",
+          "Harold Malmgren"
+        ],
+        "profession": "economist / presidential advisor",
+        "notability_tags": [
+          "official",
+          "witness",
+          "experiencer",
+          "historical"
+        ]
+      }
+    },
+    {
+      "id": "person-pippa-malmgren",
+      "node_type": "person",
+      "label": "Pippa Malmgren",
+      "summary": "Daughter of Harald Malmgren; Special Assistant to President George W. Bush on the National Economic Council.",
+      "tags": [
+        "official"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.485653+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "09KP8XVf5nY",
+          "timestamp_start": 319,
+          "quote": "Harald's daughter; George W. Bush national economic council"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Pippa"
+        ],
+        "profession": "economist",
+        "notability_tags": [
+          "official"
+        ]
+      }
+    },
+    {
+      "id": "person-robert-mcnamara",
+      "node_type": "person",
+      "label": "Robert McNamara",
+      "summary": "US Secretary of Defense 1961-1968; brought Malmgren into the Cuban Missile Crisis situation room at age 27.",
+      "tags": [
+        "DoD",
+        "historical"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.485655+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "09KP8XVf5nY",
+          "timestamp_start": 307,
+          "quote": "Secretary of Defense during Cuban Missile Crisis"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "McNamara"
+        ],
+        "profession": "official",
+        "notability_tags": [
+          "DoD",
+          "historical"
+        ]
+      }
+    },
+    {
+      "id": "person-richard-bissell",
+      "node_type": "person",
+      "label": "Richard Bissell",
+      "summary": "CIA Deputy Director for Plans; chief architect of Area 51 / Groom Lake and the U-2 program. Per Malmgren, confirmed the 1933 Magenta (Italy) UFO crash.",
+      "tags": [
+        "CIA",
+        "historical",
+        "Area 51"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.485660+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "09KP8XVf5nY",
+          "timestamp_start": 317,
+          "quote": "CIA Deputy Director of Plans; chief architect of Area 51"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Bissell"
+        ],
+        "profession": "intelligence director",
+        "notability_tags": [
+          "CIA",
+          "historical",
+          "Area 51"
+        ]
+      }
+    },
+    {
+      "id": "person-james-angleton",
+      "node_type": "person",
+      "label": "James Jesus Angleton",
+      "summary": "CIA Chief of Counterintelligence 1954-1975; deep historical UAP-secrecy-network figure. Connection to Knights of Malta via Angleton's father per Malmgren.",
+      "tags": [
+        "CIA",
+        "historical"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.485661+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "09KP8XVf5nY",
+          "timestamp_start": 327,
+          "quote": "CIA Chief of Counterintelligence"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Angleton"
+        ],
+        "profession": "intelligence officer",
+        "notability_tags": [
+          "CIA",
+          "historical"
+        ]
+      }
+    },
+    {
+      "id": "person-carl-compton",
+      "node_type": "person",
+      "label": "Karl Compton",
+      "summary": "MIT President; WWII-era head of War Production Board. Recruited 13-year-old Malmgren directly into MIT with a full scholarship after meeting him painting walls at a Newport mansion.",
+      "tags": [
+        "MIT",
+        "scientist",
+        "historical"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.485663+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "09KP8XVf5nY",
+          "timestamp_start": 357,
+          "quote": "MIT President who recruited Malmgren at age 13"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Compton"
+        ],
+        "profession": "physicist / academic",
+        "notability_tags": [
+          "MIT",
+          "scientist",
+          "historical"
+        ]
+      }
+    },
+    {
+      "id": "incident-1963-marshall-islands-ufo-material",
+      "node_type": "incident",
+      "label": "1963 Marshall Islands Nuclear Plume UFO Material Recovery",
+      "summary": "Non-terrestrial material recovered from the plume of a US Marshall Islands nuclear test in late 1963 and directly handled by Harald Malmgren.",
+      "tags": [
+        "crash_retrieval"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.485665+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "09KP8XVf5nY",
+          "timestamp_start": 315,
+          "timestamp_end": "Malmgren directly handled UFO material from Marshall Islands nuclear test"
+        }
+      ],
+      "type_specific": {
+        "incident_type": "crash_retrieval",
+        "date_approximate": "1963-10-01"
+      }
+    },
+    {
+      "id": "incident-1933-magenta-italy-crash",
+      "node_type": "incident",
+      "label": "1933 Magenta (Italy) UFO Crash",
+      "summary": "Alleged 1933 crash of a UFO in Magenta, Italy; recovered by Mussolini's government; confirmed as genuine to Malmgren by CIA's Richard Bissell.",
+      "tags": [
+        "crash_retrieval"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.485669+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "09KP8XVf5nY",
+          "timestamp_start": 317,
+          "timestamp_end": "Mussolini-era UFO crash confirmed by Richard Bissell to Malmgren"
+        }
+      ],
+      "type_specific": {
+        "incident_type": "crash_retrieval",
+        "date_approximate": "1933-01-01"
+      }
+    },
+    {
+      "id": "claim-09KP8XVf5nY-malmgren-handled-ufo-material",
+      "node_type": "claim",
+      "label": "Malmgren on camera states he directly handled anomalous material that fell from the plume of a US Ma",
+      "summary": "Malmgren on camera states he directly handled anomalous material that fell from the plume of a US Marshall Islands nuclear test in late 1963 — first presidential-advisor-caliber admission of direct UFO material handling.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.495576+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "09KP8XVf5nY",
+          "timestamp_start": 315,
+          "quote": "Harold admits to directly handling UFO material that fell out of the plume of a Marshall Islands nuclear test. This is world history. It's the first time anybody of this caliber has ever admitted to handling UFO material directly."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Malmgren on camera states he directly handled anomalous material that fell from the plume of a US Marshall Islands nuclear test in late 1963 — first presidential-advisor-caliber admission of direct UFO material handling.",
+        "asserted_by_id": "person-harald-malmgren",
+        "source_video_id": "09KP8XVf5nY",
+        "timestamp_start_seconds": 315,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-harald-malmgren",
+          "incident-1963-marshall-islands-ufo-material",
+          "phenomenon-nhi-biologics"
+        ]
+      }
+    },
+    {
+      "id": "claim-09KP8XVf5nY-bissell-confirmed-magenta-1933",
+      "node_type": "claim",
+      "label": "Richard Bissell (CIA architect of Area 51) personally confirmed to Malmgren the existence of the 193",
+      "summary": "Richard Bissell (CIA architect of Area 51) personally confirmed to Malmgren the existence of the 1933 Magenta Italy UFO crash subsequently reported by David Grusch.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.495619+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "09KP8XVf5nY",
+          "timestamp_start": 317,
+          "quote": "Richard Bissell mentioned the 1933 Magenta crash. Tells me Bissell confirmed the existence of the magenta UFO crash of 1933 in Italy recently reported on by UFO whistleblower David Grush."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Richard Bissell (CIA architect of Area 51) personally confirmed to Malmgren the existence of the 1933 Magenta Italy UFO crash subsequently reported by David Grusch.",
+        "asserted_by_id": "person-harald-malmgren",
+        "source_video_id": "09KP8XVf5nY",
+        "timestamp_start_seconds": 317,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-harald-malmgren",
+          "person-richard-bissell",
+          "incident-1933-magenta-italy-crash",
+          "person-david-grusch"
+        ]
+      }
+    },
+    {
+      "id": "claim-09KP8XVf5nY-malmgren-mj12-tracked-from-youth",
+      "node_type": "claim",
+      "label": "Malmgren implies the Majestic-12 tracked him from his youth; attributes his out-of-nowhere meetings ",
+      "summary": "Malmgren implies the Majestic-12 tracked him from his youth; attributes his out-of-nowhere meetings with elites (Putin, etc.) to deliberate network placement.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.495641+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "09KP8XVf5nY",
+          "timestamp_start": 319,
+          "quote": "Your name written in all the important books of talent keeps not only CI but you know all the majestic all these guardians. Malmgren implies he was being tracked by the majestic 12 from a young age."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Malmgren implies the Majestic-12 tracked him from his youth; attributes his out-of-nowhere meetings with elites (Putin, etc.) to deliberate network placement.",
+        "asserted_by_id": "person-harald-malmgren",
+        "source_video_id": "09KP8XVf5nY",
+        "timestamp_start_seconds": 319,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-harald-malmgren",
+          "program-mj-12"
+        ]
+      }
+    },
+    {
+      "id": "claim-09KP8XVf5nY-malmgren-lemay-cuban-missile",
+      "node_type": "claim",
+      "label": "In the Cuban Missile Crisis situation room (age 27), Malmgren rhetorically cornered General Curtis L",
+      "summary": "In the Cuban Missile Crisis situation room (age 27), Malmgren rhetorically cornered General Curtis LeMay with the question 'what would be your prime target first?' — LeMay slammed his papers down and stormed out, de-escalating the nuclear confrontation.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.495650+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "09KP8XVf5nY",
+          "timestamp_start": 311,
+          "quote": "I said, 'It's madness. If you hit Moscow, there's no one to talk to.' Lame literally got up and slammed his papers down. I refuse to run with this."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "In the Cuban Missile Crisis situation room (age 27), Malmgren rhetorically cornered General Curtis LeMay with the question 'what would be your prime target first?' — LeMay slammed his papers down and stormed out, de-escalating the nuclear confrontation.",
+        "asserted_by_id": "person-harald-malmgren",
+        "source_video_id": "09KP8XVf5nY",
+        "timestamp_start_seconds": 311,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-harald-malmgren",
+          "person-curtis-lemay",
+          "person-robert-mcnamara"
+        ]
+      }
+    },
+    {
+      "id": "claim-09KP8XVf5nY-malmgren-compton-mit-full-ride",
+      "node_type": "claim",
+      "label": "Karl Compton (MIT President, WWII War Production Board head) offered 13-year-old Malmgren a full MIT",
+      "summary": "Karl Compton (MIT President, WWII War Production Board head) offered 13-year-old Malmgren a full MIT scholarship after a single conversation in which Malmgren independently described photon-entanglement concepts that weren't experimentally proven until the 1960s-70s.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.495711+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "09KP8XVf5nY",
+          "timestamp_start": 353,
+          "quote": "I want to take this boy out of your school. I want to come in September and matriculate at MIT. We'll give him a full scholarship. He was saying this at the age of 14 in 1950."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Karl Compton (MIT President, WWII War Production Board head) offered 13-year-old Malmgren a full MIT scholarship after a single conversation in which Malmgren independently described photon-entanglement concepts that weren't experimentally proven until the 1960s-70s.",
+        "asserted_by_id": "person-harald-malmgren",
+        "source_video_id": "09KP8XVf5nY",
+        "timestamp_start_seconds": 353,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-harald-malmgren",
+          "person-carl-compton"
+        ]
+      }
+    },
+    {
+      "id": "claim-09KP8XVf5nY-malmgren-jfk-ufo-assassination-link",
+      "node_type": "claim",
+      "label": "Asked whether UFOs played a role in JFK's death, Malmgren answers 'Yes — I think it was probably the",
+      "summary": "Asked whether UFOs played a role in JFK's death, Malmgren answers 'Yes — I think it was probably the number one issue.'",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.495720+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "09KP8XVf5nY",
+          "timestamp_start": 329,
+          "quote": "Do you think UFOs played any part in JFK's death? Yes. I think it was probably the number one issue."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Asked whether UFOs played a role in JFK's death, Malmgren answers 'Yes — I think it was probably the number one issue.'",
+        "asserted_by_id": "person-harald-malmgren",
+        "source_video_id": "09KP8XVf5nY",
+        "timestamp_start_seconds": 329,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-harald-malmgren",
+          "person-jfk",
+          "event-jfk-mccone-letter"
+        ]
+      }
+    },
+    {
+      "id": "claim-09KP8XVf5nY-pippa-three-body-problem-mandatory-reading",
+      "node_type": "claim",
+      "label": "Per Pippa Malmgren: The Three-Body Problem became mandatory reading among high-level US national sec",
+      "summary": "Per Pippa Malmgren: The Three-Body Problem became mandatory reading among high-level US national security advisers in the Bush 43 era — UAP disclosure discussions revolved around its 'dark forest' framing.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.495730+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "09KP8XVf5nY",
+          "timestamp_start": 325,
+          "quote": "A lot of these high-level disclosure discussions revolved around one particular book, a Chinese science fiction novel called The Three-Body Problem, which became mandatory reading among many high-level national security advisers."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Per Pippa Malmgren: The Three-Body Problem became mandatory reading among high-level US national security advisers in the Bush 43 era — UAP disclosure discussions revolved around its 'dark forest' framing.",
+        "asserted_by_id": "person-pippa-malmgren",
+        "source_video_id": "09KP8XVf5nY",
+        "timestamp_start_seconds": 325,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-pippa-malmgren",
+          "document-three-body-problem",
+          "concept-disclosure"
+        ]
+      }
+    },
+    {
+      "id": "claim-09KP8XVf5nY-bush43-hadley-contemplated-disclosure",
+      "node_type": "claim",
+      "label": "Per Hal Puthoff (public), George W. Bush contemplated UFO disclosure with his National Security Advi",
+      "summary": "Per Hal Puthoff (public), George W. Bush contemplated UFO disclosure with his National Security Advisor Stephen Hadley — corroborated by Pippa.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.495739+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "09KP8XVf5nY",
+          "timestamp_start": 323,
+          "quote": "Through Hal Puthoff that George W. Bush contemplated UFO disclosure with his national security adviser Stephen Hadley."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Per Hal Puthoff (public), George W. Bush contemplated UFO disclosure with his National Security Advisor Stephen Hadley — corroborated by Pippa.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "09KP8XVf5nY",
+        "timestamp_start_seconds": 323,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-pippa-malmgren",
+          "person-hal-puthoff",
+          "concept-disclosure"
+        ]
+      }
     }
   ],
   "edges": [
@@ -2662,8 +3190,464 @@
           "timestamp_start": 0
         }
       ]
+    },
+    {
+      "id": "edge-person-harald-malmgren-ASSERTED-claim-09KP8XVf5nY-malmgren-handled-ufo-material",
+      "from_node_id": "person-harald-malmgren",
+      "to_node_id": "claim-09KP8XVf5nY-malmgren-handled-ufo-material",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "09KP8XVf5nY",
+          "timestamp_start": 315,
+          "quote": "Malmgren on camera states he directly handled anomalous material that fell from the plume of a US Marshall Islands nuclear test in late 1963 — first presidential-advisor-caliber admission of direct UF"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-09KP8XVf5nY-REFERENCES-claim-09KP8XVf5nY-malmgren-handled-ufo-material",
+      "from_node_id": "video-09KP8XVf5nY",
+      "to_node_id": "claim-09KP8XVf5nY-malmgren-handled-ufo-material",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "09KP8XVf5nY",
+          "timestamp_start": 315
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-09KP8XVf5nY-malmgren-handled-ufo-material-REFERENCES-incident-1963-marshall-islands-ufo-material",
+      "from_node_id": "claim-09KP8XVf5nY-malmgren-handled-ufo-material",
+      "to_node_id": "incident-1963-marshall-islands-ufo-material",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "09KP8XVf5nY",
+          "timestamp_start": 315
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-09KP8XVf5nY-malmgren-handled-ufo-material-REFERENCES-phenomenon-nhi-biologics",
+      "from_node_id": "claim-09KP8XVf5nY-malmgren-handled-ufo-material",
+      "to_node_id": "phenomenon-nhi-biologics",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "09KP8XVf5nY",
+          "timestamp_start": 315
+        }
+      ]
+    },
+    {
+      "id": "edge-person-harald-malmgren-ASSERTED-claim-09KP8XVf5nY-bissell-confirmed-magenta-1933",
+      "from_node_id": "person-harald-malmgren",
+      "to_node_id": "claim-09KP8XVf5nY-bissell-confirmed-magenta-1933",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "09KP8XVf5nY",
+          "timestamp_start": 317,
+          "quote": "Richard Bissell (CIA architect of Area 51) personally confirmed to Malmgren the existence of the 1933 Magenta Italy UFO crash subsequently reported by David Grusch."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-09KP8XVf5nY-REFERENCES-claim-09KP8XVf5nY-bissell-confirmed-magenta-1933",
+      "from_node_id": "video-09KP8XVf5nY",
+      "to_node_id": "claim-09KP8XVf5nY-bissell-confirmed-magenta-1933",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "09KP8XVf5nY",
+          "timestamp_start": 317
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-09KP8XVf5nY-bissell-confirmed-magenta-1933-REFERENCES-person-richard-bissell",
+      "from_node_id": "claim-09KP8XVf5nY-bissell-confirmed-magenta-1933",
+      "to_node_id": "person-richard-bissell",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "09KP8XVf5nY",
+          "timestamp_start": 317
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-09KP8XVf5nY-bissell-confirmed-magenta-1933-REFERENCES-incident-1933-magenta-italy-crash",
+      "from_node_id": "claim-09KP8XVf5nY-bissell-confirmed-magenta-1933",
+      "to_node_id": "incident-1933-magenta-italy-crash",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "09KP8XVf5nY",
+          "timestamp_start": 317
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-09KP8XVf5nY-bissell-confirmed-magenta-1933-REFERENCES-person-david-grusch",
+      "from_node_id": "claim-09KP8XVf5nY-bissell-confirmed-magenta-1933",
+      "to_node_id": "person-david-grusch",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "09KP8XVf5nY",
+          "timestamp_start": 317
+        }
+      ]
+    },
+    {
+      "id": "edge-person-harald-malmgren-ASSERTED-claim-09KP8XVf5nY-malmgren-mj12-tracked-from-youth",
+      "from_node_id": "person-harald-malmgren",
+      "to_node_id": "claim-09KP8XVf5nY-malmgren-mj12-tracked-from-youth",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "09KP8XVf5nY",
+          "timestamp_start": 319,
+          "quote": "Malmgren implies the Majestic-12 tracked him from his youth; attributes his out-of-nowhere meetings with elites (Putin, etc.) to deliberate network placement."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-09KP8XVf5nY-REFERENCES-claim-09KP8XVf5nY-malmgren-mj12-tracked-from-youth",
+      "from_node_id": "video-09KP8XVf5nY",
+      "to_node_id": "claim-09KP8XVf5nY-malmgren-mj12-tracked-from-youth",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "09KP8XVf5nY",
+          "timestamp_start": 319
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-09KP8XVf5nY-malmgren-mj12-tracked-from-youth-REFERENCES-program-mj-12",
+      "from_node_id": "claim-09KP8XVf5nY-malmgren-mj12-tracked-from-youth",
+      "to_node_id": "program-mj-12",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "09KP8XVf5nY",
+          "timestamp_start": 319
+        }
+      ]
+    },
+    {
+      "id": "edge-person-harald-malmgren-ASSERTED-claim-09KP8XVf5nY-malmgren-lemay-cuban-missile",
+      "from_node_id": "person-harald-malmgren",
+      "to_node_id": "claim-09KP8XVf5nY-malmgren-lemay-cuban-missile",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "09KP8XVf5nY",
+          "timestamp_start": 311,
+          "quote": "In the Cuban Missile Crisis situation room (age 27), Malmgren rhetorically cornered General Curtis LeMay with the question 'what would be your prime target first?' — LeMay slammed his papers down and "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-09KP8XVf5nY-REFERENCES-claim-09KP8XVf5nY-malmgren-lemay-cuban-missile",
+      "from_node_id": "video-09KP8XVf5nY",
+      "to_node_id": "claim-09KP8XVf5nY-malmgren-lemay-cuban-missile",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "09KP8XVf5nY",
+          "timestamp_start": 311
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-09KP8XVf5nY-malmgren-lemay-cuban-missile-REFERENCES-person-curtis-lemay",
+      "from_node_id": "claim-09KP8XVf5nY-malmgren-lemay-cuban-missile",
+      "to_node_id": "person-curtis-lemay",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "09KP8XVf5nY",
+          "timestamp_start": 311
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-09KP8XVf5nY-malmgren-lemay-cuban-missile-REFERENCES-person-robert-mcnamara",
+      "from_node_id": "claim-09KP8XVf5nY-malmgren-lemay-cuban-missile",
+      "to_node_id": "person-robert-mcnamara",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "09KP8XVf5nY",
+          "timestamp_start": 311
+        }
+      ]
+    },
+    {
+      "id": "edge-person-harald-malmgren-ASSERTED-claim-09KP8XVf5nY-malmgren-compton-mit-full-ride",
+      "from_node_id": "person-harald-malmgren",
+      "to_node_id": "claim-09KP8XVf5nY-malmgren-compton-mit-full-ride",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "09KP8XVf5nY",
+          "timestamp_start": 353,
+          "quote": "Karl Compton (MIT President, WWII War Production Board head) offered 13-year-old Malmgren a full MIT scholarship after a single conversation in which Malmgren independently described photon-entangleme"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-09KP8XVf5nY-REFERENCES-claim-09KP8XVf5nY-malmgren-compton-mit-full-ride",
+      "from_node_id": "video-09KP8XVf5nY",
+      "to_node_id": "claim-09KP8XVf5nY-malmgren-compton-mit-full-ride",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "09KP8XVf5nY",
+          "timestamp_start": 353
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-09KP8XVf5nY-malmgren-compton-mit-full-ride-REFERENCES-person-carl-compton",
+      "from_node_id": "claim-09KP8XVf5nY-malmgren-compton-mit-full-ride",
+      "to_node_id": "person-carl-compton",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "09KP8XVf5nY",
+          "timestamp_start": 353
+        }
+      ]
+    },
+    {
+      "id": "edge-person-harald-malmgren-ASSERTED-claim-09KP8XVf5nY-malmgren-jfk-ufo-assassination-link",
+      "from_node_id": "person-harald-malmgren",
+      "to_node_id": "claim-09KP8XVf5nY-malmgren-jfk-ufo-assassination-link",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "09KP8XVf5nY",
+          "timestamp_start": 329,
+          "quote": "Asked whether UFOs played a role in JFK's death, Malmgren answers 'Yes — I think it was probably the number one issue.'"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-09KP8XVf5nY-REFERENCES-claim-09KP8XVf5nY-malmgren-jfk-ufo-assassination-link",
+      "from_node_id": "video-09KP8XVf5nY",
+      "to_node_id": "claim-09KP8XVf5nY-malmgren-jfk-ufo-assassination-link",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "09KP8XVf5nY",
+          "timestamp_start": 329
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-09KP8XVf5nY-malmgren-jfk-ufo-assassination-link-REFERENCES-person-jfk",
+      "from_node_id": "claim-09KP8XVf5nY-malmgren-jfk-ufo-assassination-link",
+      "to_node_id": "person-jfk",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "09KP8XVf5nY",
+          "timestamp_start": 329
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-09KP8XVf5nY-malmgren-jfk-ufo-assassination-link-REFERENCES-event-jfk-mccone-letter",
+      "from_node_id": "claim-09KP8XVf5nY-malmgren-jfk-ufo-assassination-link",
+      "to_node_id": "event-jfk-mccone-letter",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "09KP8XVf5nY",
+          "timestamp_start": 329
+        }
+      ]
+    },
+    {
+      "id": "edge-person-pippa-malmgren-ASSERTED-claim-09KP8XVf5nY-pippa-three-body-problem-mandatory-reading",
+      "from_node_id": "person-pippa-malmgren",
+      "to_node_id": "claim-09KP8XVf5nY-pippa-three-body-problem-mandatory-reading",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "09KP8XVf5nY",
+          "timestamp_start": 325,
+          "quote": "Per Pippa Malmgren: The Three-Body Problem became mandatory reading among high-level US national security advisers in the Bush 43 era — UAP disclosure discussions revolved around its 'dark forest' fra"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-09KP8XVf5nY-REFERENCES-claim-09KP8XVf5nY-pippa-three-body-problem-mandatory-reading",
+      "from_node_id": "video-09KP8XVf5nY",
+      "to_node_id": "claim-09KP8XVf5nY-pippa-three-body-problem-mandatory-reading",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "09KP8XVf5nY",
+          "timestamp_start": 325
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-09KP8XVf5nY-pippa-three-body-problem-mandatory-reading-REFERENCES-document-three-body-problem",
+      "from_node_id": "claim-09KP8XVf5nY-pippa-three-body-problem-mandatory-reading",
+      "to_node_id": "document-three-body-problem",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "09KP8XVf5nY",
+          "timestamp_start": 325
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-09KP8XVf5nY-pippa-three-body-problem-mandatory-reading-REFERENCES-concept-disclosure",
+      "from_node_id": "claim-09KP8XVf5nY-pippa-three-body-problem-mandatory-reading",
+      "to_node_id": "concept-disclosure",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "09KP8XVf5nY",
+          "timestamp_start": 325
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-09KP8XVf5nY-bush43-hadley-contemplated-disclosure",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-09KP8XVf5nY-bush43-hadley-contemplated-disclosure",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "09KP8XVf5nY",
+          "timestamp_start": 323,
+          "quote": "Per Hal Puthoff (public), George W. Bush contemplated UFO disclosure with his National Security Advisor Stephen Hadley — corroborated by Pippa."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-09KP8XVf5nY-REFERENCES-claim-09KP8XVf5nY-bush43-hadley-contemplated-disclosure",
+      "from_node_id": "video-09KP8XVf5nY",
+      "to_node_id": "claim-09KP8XVf5nY-bush43-hadley-contemplated-disclosure",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "09KP8XVf5nY",
+          "timestamp_start": 323
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-09KP8XVf5nY-bush43-hadley-contemplated-disclosure-REFERENCES-person-pippa-malmgren",
+      "from_node_id": "claim-09KP8XVf5nY-bush43-hadley-contemplated-disclosure",
+      "to_node_id": "person-pippa-malmgren",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "09KP8XVf5nY",
+          "timestamp_start": 323
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-09KP8XVf5nY-bush43-hadley-contemplated-disclosure-REFERENCES-person-hal-puthoff",
+      "from_node_id": "claim-09KP8XVf5nY-bush43-hadley-contemplated-disclosure",
+      "to_node_id": "person-hal-puthoff",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "09KP8XVf5nY",
+          "timestamp_start": 323
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-09KP8XVf5nY-bush43-hadley-contemplated-disclosure-REFERENCES-concept-disclosure",
+      "from_node_id": "claim-09KP8XVf5nY-bush43-hadley-contemplated-disclosure",
+      "to_node_id": "concept-disclosure",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "09KP8XVf5nY",
+          "timestamp_start": 323
+        }
+      ]
     }
   ],
-  "extracted_at": "2026-04-17T11:04:16.947353+00:00",
+  "extracted_at": "2026-04-17T12:31:49.495750+00:00",
   "extractor_version": "v1-inline-claude"
 }

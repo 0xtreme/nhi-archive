@@ -879,6 +879,441 @@
           "video-iQOibpIDx-4"
         ]
       }
+    },
+    {
+      "id": "concept-polarizable-vacuum",
+      "node_type": "concept",
+      "label": "Polarizable Vacuum",
+      "summary": "Puthoff's published physics approach: treating general relativity with polarizable vacuum (epsilon, mu) so the Einstein metric becomes a function rather than a constant, potentially enabling engineered gravity manipulation.",
+      "tags": [
+        "physics"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:05:09.445504+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "iQOibpIDx-4",
+          "timestamp_start": 64,
+          "quote": "Puthoff's mathematical approach to manipulating general relativity via vacuum dielectric constants"
+        }
+      ],
+      "type_specific": {
+        "concept_domain": "physics"
+      }
+    },
+    {
+      "id": "concept-geometric-unity",
+      "node_type": "concept",
+      "label": "Geometric Unity",
+      "summary": "Eric Weinstein's unified theory proposing a 14-dimensional 'observerse' with extra temporal dimensions; claimed as more fundamental framework than Einstein's GR.",
+      "tags": [
+        "physics"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:05:09.445507+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "iQOibpIDx-4",
+          "timestamp_start": 68,
+          "quote": "Weinstein's unified theory proposing 14-dimensional spacetime"
+        }
+      ],
+      "type_specific": {
+        "concept_domain": "physics"
+      }
+    },
+    {
+      "id": "concept-aharonov-bohm-effect",
+      "node_type": "concept",
+      "label": "Aharonov-Bohm Effect",
+      "summary": "Quantum effect where an electron acquires a measurable phase shift from traveling around a solenoid, despite no electromagnetic fields outside. Puthoff cites this to argue the electromagnetic four-potential is physically fundamental.",
+      "tags": [
+        "physics"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:05:09.445509+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "iQOibpIDx-4",
+          "timestamp_start": 54,
+          "quote": "Electromagnetic four-potential has physical meaning beyond E/B fields"
+        }
+      ],
+      "type_specific": {
+        "concept_domain": "physics"
+      }
+    },
+    {
+      "id": "concept-stigma-weaponization",
+      "node_type": "concept",
+      "label": "Stigma Weaponization",
+      "summary": "Weinstein's argument: the US government has systematically wielded social stigma as a tool to deter academic and journalistic investigation of UAP-adjacent physics and research.",
+      "tags": [
+        "politics"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:05:09.445511+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "iQOibpIDx-4",
+          "timestamp_start": 80,
+          "quote": "Use of social stigma by government to protect covert programs"
+        }
+      ],
+      "type_specific": {
+        "concept_domain": "politics"
+      }
+    },
+    {
+      "id": "document-puthoff-polarizable-vacuum-paper",
+      "node_type": "document",
+      "label": "Polarizable Vacuum Approach to General Relativity",
+      "summary": "Puthoff's published paper on an alternative formulation of general relativity using a polarizable vacuum with variable epsilon and mu.",
+      "tags": [
+        "paper"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:05:09.445513+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "iQOibpIDx-4",
+          "timestamp_start": 64,
+          "quote": "Puthoff's peer-reviewed physics paper on PV-GR"
+        }
+      ],
+      "type_specific": {
+        "document_type": "paper",
+        "author": "Hal Puthoff"
+      }
+    },
+    {
+      "id": "claim-iQOibpIDx-4-puthoff-aatip-senior-advisor",
+      "node_type": "claim",
+      "label": "Hal Puthoff served as senior advisor to AATIP from 2007 to 2012, operating out of Bigelow Aerospace'",
+      "summary": "Hal Puthoff served as senior advisor to AATIP from 2007 to 2012, operating out of Bigelow Aerospace's BAASS.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:05:09.449082+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "iQOibpIDx-4",
+          "timestamp_start": 10,
+          "quote": "Hal was a senior advisor to AATIP that ran from 2007 to 2012 out of Bigelow Aerospace."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Hal Puthoff served as senior advisor to AATIP from 2007 to 2012, operating out of Bigelow Aerospace's BAASS.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "iQOibpIDx-4",
+        "timestamp_start_seconds": 10,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-hal-puthoff",
+          "program-aatip",
+          "organization-baass",
+          "organization-bigelow"
+        ]
+      }
+    },
+    {
+      "id": "claim-iQOibpIDx-4-puthoff-stargate-sri",
+      "node_type": "claim",
+      "label": "Puthoff was a physicist on the CIA/DIA Stargate remote-viewing program conducted out of Stanford Res",
+      "summary": "Puthoff was a physicist on the CIA/DIA Stargate remote-viewing program conducted out of Stanford Research Institute (SRI).",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:05:09.449101+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "iQOibpIDx-4",
+          "timestamp_start": 10,
+          "quote": "He was called Stargate out of Stanford Research Institute."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Puthoff was a physicist on the CIA/DIA Stargate remote-viewing program conducted out of Stanford Research Institute (SRI).",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "iQOibpIDx-4",
+        "timestamp_start_seconds": 10,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-hal-puthoff",
+          "program-stargate-project",
+          "organization-cia"
+        ]
+      }
+    },
+    {
+      "id": "claim-iQOibpIDx-4-weinstein-stigma-argument",
+      "node_type": "claim",
+      "label": "Weinstein argues the US government systematically uses manufactured stigma to protect covert program",
+      "summary": "Weinstein argues the US government systematically uses manufactured stigma to protect covert programs from outside scientific inquiry.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:05:09.449110+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "iQOibpIDx-4",
+          "timestamp_start": 78,
+          "quote": "The government have a protocol to wield stigma. The first government that would do anything to protect itself would wield stigma as a tool."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Weinstein argues the US government systematically uses manufactured stigma to protect covert programs from outside scientific inquiry.",
+        "asserted_by_id": "person-eric-weinstein",
+        "source_video_id": "iQOibpIDx-4",
+        "timestamp_start_seconds": 78,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-eric-weinstein",
+          "concept-stigma-weaponization"
+        ]
+      }
+    },
+    {
+      "id": "claim-iQOibpIDx-4-anti-gravity-went-black",
+      "node_type": "claim",
+      "label": "Weinstein and Puthoff converge on the thesis that 1950s antigravity research moved into classified b",
+      "summary": "Weinstein and Puthoff converge on the thesis that 1950s antigravity research moved into classified black programs after the Chapel Hill conference and public-facing work stopped.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:05:09.449117+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "iQOibpIDx-4",
+          "timestamp_start": 22,
+          "quote": "It went black. It quieted down because nobody ever got anywhere — or it got somewhere and it went black."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Weinstein and Puthoff converge on the thesis that 1950s antigravity research moved into classified black programs after the Chapel Hill conference and public-facing work stopped.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "iQOibpIDx-4",
+        "timestamp_start_seconds": 22,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-eric-weinstein",
+          "person-hal-puthoff",
+          "concept-antigravity",
+          "event-1957-chapel-hill-conference"
+        ]
+      }
+    },
+    {
+      "id": "claim-iQOibpIDx-4-puthoff-polarizable-vacuum",
+      "node_type": "claim",
+      "label": "Puthoff published an alternative formulation of general relativity treating the vacuum as polarizabl",
+      "summary": "Puthoff published an alternative formulation of general relativity treating the vacuum as polarizable (variable epsilon and mu), which he argues could enable engineered gravity control.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:05:09.449126+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "iQOibpIDx-4",
+          "timestamp_start": 62,
+          "quote": "I have two patents by the way dealing with vector and scalar potentials. Epsilon and mu values — associated with all of the general relativity approach which I published in physics journal."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Puthoff published an alternative formulation of general relativity treating the vacuum as polarizable (variable epsilon and mu), which he argues could enable engineered gravity control.",
+        "asserted_by_id": "person-hal-puthoff",
+        "source_video_id": "iQOibpIDx-4",
+        "timestamp_start_seconds": 62,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-hal-puthoff",
+          "concept-polarizable-vacuum",
+          "document-puthoff-polarizable-vacuum-paper"
+        ]
+      }
+    },
+    {
+      "id": "claim-iQOibpIDx-4-weinstein-geometric-unity-extra-time",
+      "node_type": "claim",
+      "label": "Weinstein's geometric unity proposes extra temporal dimensions (total 14-D observerse), offering a f",
+      "summary": "Weinstein's geometric unity proposes extra temporal dimensions (total 14-D observerse), offering a framework where faster-than-light transit could happen by hacking the extra temporal dimension rather than violating causality in ordinary 4-D spacetime.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:05:09.449133+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "iQOibpIDx-4",
+          "timestamp_start": 68,
+          "quote": "Strong versions of geometric unity in one case. 14 dimensions. Temporal dimension hacking which sort of makes it materialize and dematerialize."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Weinstein's geometric unity proposes extra temporal dimensions (total 14-D observerse), offering a framework where faster-than-light transit could happen by hacking the extra temporal dimension rather than violating causality in ordinary 4-D spacetime.",
+        "asserted_by_id": "person-eric-weinstein",
+        "source_video_id": "iQOibpIDx-4",
+        "timestamp_start_seconds": 68,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-eric-weinstein",
+          "concept-geometric-unity"
+        ]
+      }
+    },
+    {
+      "id": "claim-iQOibpIDx-4-puthoff-scientology-mind-control",
+      "node_type": "claim",
+      "label": "Puthoff acknowledges involvement with Scientology in the era when 'checking into everything' about m",
+      "summary": "Puthoff acknowledges involvement with Scientology in the era when 'checking into everything' about mind-control techniques was part of his research portfolio.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:05:09.449140+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "iQOibpIDx-4",
+          "timestamp_start": 76,
+          "quote": "At that time we were doing you know checking into everything. Mind control techniques were definitely of value."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Puthoff acknowledges involvement with Scientology in the era when 'checking into everything' about mind-control techniques was part of his research portfolio.",
+        "asserted_by_id": "person-hal-puthoff",
+        "source_video_id": "iQOibpIDx-4",
+        "timestamp_start_seconds": 76,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-hal-puthoff"
+        ]
+      }
+    },
+    {
+      "id": "claim-iQOibpIDx-4-ed-witten-string-theory-bridge",
+      "node_type": "claim",
+      "label": "Weinstein privately concedes that string theory — heavily driven by Louis Witten's son Ed Witten — b",
+      "summary": "Weinstein privately concedes that string theory — heavily driven by Louis Witten's son Ed Witten — both allowed physics to appear to progress while breaking no new ground in the physical world, leaving the field frozen.",
+      "tags": [
+        "speculation",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:05:09.449147+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "iQOibpIDx-4",
+          "timestamp_start": 40,
+          "quote": "String theory was a very odd development because it both allowed physics to proceed as new ground without actually breaking new ground in the physical world in which we live."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Weinstein privately concedes that string theory — heavily driven by Louis Witten's son Ed Witten — both allowed physics to appear to progress while breaking no new ground in the physical world, leaving the field frozen.",
+        "asserted_by_id": "person-eric-weinstein",
+        "source_video_id": "iQOibpIDx-4",
+        "timestamp_start_seconds": 40,
+        "assertability": "speculation",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-ed-witten",
+          "person-louis-witten"
+        ]
+      }
+    },
+    {
+      "id": "claim-iQOibpIDx-4-lockheed-martin-antigravity-lineage",
+      "node_type": "claim",
+      "label": "Weinstein and Puthoff trace a physical-infrastructure lineage from the Glenn Martin Company through ",
+      "summary": "Weinstein and Puthoff trace a physical-infrastructure lineage from the Glenn Martin Company through Martin Marietta / RIAS to modern Lockheed Martin — with Louis Witten employed and Wright-Patterson AFB linkages implicating antigravity research.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:05:09.449154+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "iQOibpIDx-4",
+          "timestamp_start": 36,
+          "quote": "Glenn Martin company from the time of the Wright brothers — Marietta later becomes Lockheed Martin. Employing Lewis Whitton — Edward Whitton's dad."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Weinstein and Puthoff trace a physical-infrastructure lineage from the Glenn Martin Company through Martin Marietta / RIAS to modern Lockheed Martin — with Louis Witten employed and Wright-Patterson AFB linkages implicating antigravity research.",
+        "asserted_by_id": "person-eric-weinstein",
+        "source_video_id": "iQOibpIDx-4",
+        "timestamp_start_seconds": 36,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-louis-witten",
+          "organization-martin-corporation",
+          "organization-lockheed-martin",
+          "organization-rias",
+          "location-wright-patterson-afb"
+        ]
+      }
     }
   ],
   "edges": [
@@ -1399,8 +1834,577 @@
           "timestamp_start": 0
         }
       ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-iQOibpIDx-4-puthoff-aatip-senior-advisor",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-iQOibpIDx-4-puthoff-aatip-senior-advisor",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "iQOibpIDx-4",
+          "timestamp_start": 10,
+          "quote": "Hal Puthoff served as senior advisor to AATIP from 2007 to 2012, operating out of Bigelow Aerospace's BAASS."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-iQOibpIDx-4-REFERENCES-claim-iQOibpIDx-4-puthoff-aatip-senior-advisor",
+      "from_node_id": "video-iQOibpIDx-4",
+      "to_node_id": "claim-iQOibpIDx-4-puthoff-aatip-senior-advisor",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "iQOibpIDx-4",
+          "timestamp_start": 10
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-iQOibpIDx-4-puthoff-aatip-senior-advisor-REFERENCES-person-hal-puthoff",
+      "from_node_id": "claim-iQOibpIDx-4-puthoff-aatip-senior-advisor",
+      "to_node_id": "person-hal-puthoff",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "iQOibpIDx-4",
+          "timestamp_start": 10
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-iQOibpIDx-4-puthoff-aatip-senior-advisor-REFERENCES-program-aatip",
+      "from_node_id": "claim-iQOibpIDx-4-puthoff-aatip-senior-advisor",
+      "to_node_id": "program-aatip",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "iQOibpIDx-4",
+          "timestamp_start": 10
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-iQOibpIDx-4-puthoff-aatip-senior-advisor-REFERENCES-organization-baass",
+      "from_node_id": "claim-iQOibpIDx-4-puthoff-aatip-senior-advisor",
+      "to_node_id": "organization-baass",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "iQOibpIDx-4",
+          "timestamp_start": 10
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-iQOibpIDx-4-puthoff-aatip-senior-advisor-REFERENCES-organization-bigelow",
+      "from_node_id": "claim-iQOibpIDx-4-puthoff-aatip-senior-advisor",
+      "to_node_id": "organization-bigelow",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "iQOibpIDx-4",
+          "timestamp_start": 10
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-iQOibpIDx-4-puthoff-stargate-sri",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-iQOibpIDx-4-puthoff-stargate-sri",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "iQOibpIDx-4",
+          "timestamp_start": 10,
+          "quote": "Puthoff was a physicist on the CIA/DIA Stargate remote-viewing program conducted out of Stanford Research Institute (SRI)."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-iQOibpIDx-4-REFERENCES-claim-iQOibpIDx-4-puthoff-stargate-sri",
+      "from_node_id": "video-iQOibpIDx-4",
+      "to_node_id": "claim-iQOibpIDx-4-puthoff-stargate-sri",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "iQOibpIDx-4",
+          "timestamp_start": 10
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-iQOibpIDx-4-puthoff-stargate-sri-REFERENCES-person-hal-puthoff",
+      "from_node_id": "claim-iQOibpIDx-4-puthoff-stargate-sri",
+      "to_node_id": "person-hal-puthoff",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "iQOibpIDx-4",
+          "timestamp_start": 10
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-iQOibpIDx-4-puthoff-stargate-sri-REFERENCES-program-stargate-project",
+      "from_node_id": "claim-iQOibpIDx-4-puthoff-stargate-sri",
+      "to_node_id": "program-stargate-project",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "iQOibpIDx-4",
+          "timestamp_start": 10
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-iQOibpIDx-4-puthoff-stargate-sri-REFERENCES-organization-cia",
+      "from_node_id": "claim-iQOibpIDx-4-puthoff-stargate-sri",
+      "to_node_id": "organization-cia",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "iQOibpIDx-4",
+          "timestamp_start": 10
+        }
+      ]
+    },
+    {
+      "id": "edge-person-eric-weinstein-ASSERTED-claim-iQOibpIDx-4-weinstein-stigma-argument",
+      "from_node_id": "person-eric-weinstein",
+      "to_node_id": "claim-iQOibpIDx-4-weinstein-stigma-argument",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "iQOibpIDx-4",
+          "timestamp_start": 78,
+          "quote": "Weinstein argues the US government systematically uses manufactured stigma to protect covert programs from outside scientific inquiry."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-iQOibpIDx-4-REFERENCES-claim-iQOibpIDx-4-weinstein-stigma-argument",
+      "from_node_id": "video-iQOibpIDx-4",
+      "to_node_id": "claim-iQOibpIDx-4-weinstein-stigma-argument",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "iQOibpIDx-4",
+          "timestamp_start": 78
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-iQOibpIDx-4-weinstein-stigma-argument-REFERENCES-concept-stigma-weaponization",
+      "from_node_id": "claim-iQOibpIDx-4-weinstein-stigma-argument",
+      "to_node_id": "concept-stigma-weaponization",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "iQOibpIDx-4",
+          "timestamp_start": 78
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-iQOibpIDx-4-anti-gravity-went-black",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-iQOibpIDx-4-anti-gravity-went-black",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "iQOibpIDx-4",
+          "timestamp_start": 22,
+          "quote": "Weinstein and Puthoff converge on the thesis that 1950s antigravity research moved into classified black programs after the Chapel Hill conference and public-facing work stopped."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-iQOibpIDx-4-REFERENCES-claim-iQOibpIDx-4-anti-gravity-went-black",
+      "from_node_id": "video-iQOibpIDx-4",
+      "to_node_id": "claim-iQOibpIDx-4-anti-gravity-went-black",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "iQOibpIDx-4",
+          "timestamp_start": 22
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-iQOibpIDx-4-anti-gravity-went-black-REFERENCES-person-eric-weinstein",
+      "from_node_id": "claim-iQOibpIDx-4-anti-gravity-went-black",
+      "to_node_id": "person-eric-weinstein",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "iQOibpIDx-4",
+          "timestamp_start": 22
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-iQOibpIDx-4-anti-gravity-went-black-REFERENCES-person-hal-puthoff",
+      "from_node_id": "claim-iQOibpIDx-4-anti-gravity-went-black",
+      "to_node_id": "person-hal-puthoff",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "iQOibpIDx-4",
+          "timestamp_start": 22
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-iQOibpIDx-4-anti-gravity-went-black-REFERENCES-concept-antigravity",
+      "from_node_id": "claim-iQOibpIDx-4-anti-gravity-went-black",
+      "to_node_id": "concept-antigravity",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "iQOibpIDx-4",
+          "timestamp_start": 22
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-iQOibpIDx-4-anti-gravity-went-black-REFERENCES-event-1957-chapel-hill-conference",
+      "from_node_id": "claim-iQOibpIDx-4-anti-gravity-went-black",
+      "to_node_id": "event-1957-chapel-hill-conference",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "iQOibpIDx-4",
+          "timestamp_start": 22
+        }
+      ]
+    },
+    {
+      "id": "edge-person-hal-puthoff-ASSERTED-claim-iQOibpIDx-4-puthoff-polarizable-vacuum",
+      "from_node_id": "person-hal-puthoff",
+      "to_node_id": "claim-iQOibpIDx-4-puthoff-polarizable-vacuum",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "iQOibpIDx-4",
+          "timestamp_start": 62,
+          "quote": "Puthoff published an alternative formulation of general relativity treating the vacuum as polarizable (variable epsilon and mu), which he argues could enable engineered gravity control."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-iQOibpIDx-4-REFERENCES-claim-iQOibpIDx-4-puthoff-polarizable-vacuum",
+      "from_node_id": "video-iQOibpIDx-4",
+      "to_node_id": "claim-iQOibpIDx-4-puthoff-polarizable-vacuum",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "iQOibpIDx-4",
+          "timestamp_start": 62
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-iQOibpIDx-4-puthoff-polarizable-vacuum-REFERENCES-concept-polarizable-vacuum",
+      "from_node_id": "claim-iQOibpIDx-4-puthoff-polarizable-vacuum",
+      "to_node_id": "concept-polarizable-vacuum",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "iQOibpIDx-4",
+          "timestamp_start": 62
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-iQOibpIDx-4-puthoff-polarizable-vacuum-REFERENCES-document-puthoff-polarizable-vacuum-paper",
+      "from_node_id": "claim-iQOibpIDx-4-puthoff-polarizable-vacuum",
+      "to_node_id": "document-puthoff-polarizable-vacuum-paper",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "iQOibpIDx-4",
+          "timestamp_start": 62
+        }
+      ]
+    },
+    {
+      "id": "edge-person-eric-weinstein-ASSERTED-claim-iQOibpIDx-4-weinstein-geometric-unity-extra-time",
+      "from_node_id": "person-eric-weinstein",
+      "to_node_id": "claim-iQOibpIDx-4-weinstein-geometric-unity-extra-time",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "iQOibpIDx-4",
+          "timestamp_start": 68,
+          "quote": "Weinstein's geometric unity proposes extra temporal dimensions (total 14-D observerse), offering a framework where faster-than-light transit could happen by hacking the extra temporal dimension rather"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-iQOibpIDx-4-REFERENCES-claim-iQOibpIDx-4-weinstein-geometric-unity-extra-time",
+      "from_node_id": "video-iQOibpIDx-4",
+      "to_node_id": "claim-iQOibpIDx-4-weinstein-geometric-unity-extra-time",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "iQOibpIDx-4",
+          "timestamp_start": 68
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-iQOibpIDx-4-weinstein-geometric-unity-extra-time-REFERENCES-concept-geometric-unity",
+      "from_node_id": "claim-iQOibpIDx-4-weinstein-geometric-unity-extra-time",
+      "to_node_id": "concept-geometric-unity",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "iQOibpIDx-4",
+          "timestamp_start": 68
+        }
+      ]
+    },
+    {
+      "id": "edge-person-hal-puthoff-ASSERTED-claim-iQOibpIDx-4-puthoff-scientology-mind-control",
+      "from_node_id": "person-hal-puthoff",
+      "to_node_id": "claim-iQOibpIDx-4-puthoff-scientology-mind-control",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "iQOibpIDx-4",
+          "timestamp_start": 76,
+          "quote": "Puthoff acknowledges involvement with Scientology in the era when 'checking into everything' about mind-control techniques was part of his research portfolio."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-iQOibpIDx-4-REFERENCES-claim-iQOibpIDx-4-puthoff-scientology-mind-control",
+      "from_node_id": "video-iQOibpIDx-4",
+      "to_node_id": "claim-iQOibpIDx-4-puthoff-scientology-mind-control",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "iQOibpIDx-4",
+          "timestamp_start": 76
+        }
+      ]
+    },
+    {
+      "id": "edge-person-eric-weinstein-ASSERTED-claim-iQOibpIDx-4-ed-witten-string-theory-bridge",
+      "from_node_id": "person-eric-weinstein",
+      "to_node_id": "claim-iQOibpIDx-4-ed-witten-string-theory-bridge",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "iQOibpIDx-4",
+          "timestamp_start": 40,
+          "quote": "Weinstein privately concedes that string theory — heavily driven by Louis Witten's son Ed Witten — both allowed physics to appear to progress while breaking no new ground in the physical world, leavin"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-iQOibpIDx-4-REFERENCES-claim-iQOibpIDx-4-ed-witten-string-theory-bridge",
+      "from_node_id": "video-iQOibpIDx-4",
+      "to_node_id": "claim-iQOibpIDx-4-ed-witten-string-theory-bridge",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "iQOibpIDx-4",
+          "timestamp_start": 40
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-iQOibpIDx-4-ed-witten-string-theory-bridge-REFERENCES-person-ed-witten",
+      "from_node_id": "claim-iQOibpIDx-4-ed-witten-string-theory-bridge",
+      "to_node_id": "person-ed-witten",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "iQOibpIDx-4",
+          "timestamp_start": 40
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-iQOibpIDx-4-ed-witten-string-theory-bridge-REFERENCES-person-louis-witten",
+      "from_node_id": "claim-iQOibpIDx-4-ed-witten-string-theory-bridge",
+      "to_node_id": "person-louis-witten",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "iQOibpIDx-4",
+          "timestamp_start": 40
+        }
+      ]
+    },
+    {
+      "id": "edge-person-eric-weinstein-ASSERTED-claim-iQOibpIDx-4-lockheed-martin-antigravity-lineage",
+      "from_node_id": "person-eric-weinstein",
+      "to_node_id": "claim-iQOibpIDx-4-lockheed-martin-antigravity-lineage",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "iQOibpIDx-4",
+          "timestamp_start": 36,
+          "quote": "Weinstein and Puthoff trace a physical-infrastructure lineage from the Glenn Martin Company through Martin Marietta / RIAS to modern Lockheed Martin — with Louis Witten employed and Wright-Patterson A"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-iQOibpIDx-4-REFERENCES-claim-iQOibpIDx-4-lockheed-martin-antigravity-lineage",
+      "from_node_id": "video-iQOibpIDx-4",
+      "to_node_id": "claim-iQOibpIDx-4-lockheed-martin-antigravity-lineage",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "iQOibpIDx-4",
+          "timestamp_start": 36
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-iQOibpIDx-4-lockheed-martin-antigravity-lineage-REFERENCES-person-louis-witten",
+      "from_node_id": "claim-iQOibpIDx-4-lockheed-martin-antigravity-lineage",
+      "to_node_id": "person-louis-witten",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "iQOibpIDx-4",
+          "timestamp_start": 36
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-iQOibpIDx-4-lockheed-martin-antigravity-lineage-REFERENCES-organization-martin-corporation",
+      "from_node_id": "claim-iQOibpIDx-4-lockheed-martin-antigravity-lineage",
+      "to_node_id": "organization-martin-corporation",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "iQOibpIDx-4",
+          "timestamp_start": 36
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-iQOibpIDx-4-lockheed-martin-antigravity-lineage-REFERENCES-organization-lockheed-martin",
+      "from_node_id": "claim-iQOibpIDx-4-lockheed-martin-antigravity-lineage",
+      "to_node_id": "organization-lockheed-martin",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "iQOibpIDx-4",
+          "timestamp_start": 36
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-iQOibpIDx-4-lockheed-martin-antigravity-lineage-REFERENCES-organization-rias",
+      "from_node_id": "claim-iQOibpIDx-4-lockheed-martin-antigravity-lineage",
+      "to_node_id": "organization-rias",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "iQOibpIDx-4",
+          "timestamp_start": 36
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-iQOibpIDx-4-lockheed-martin-antigravity-lineage-REFERENCES-location-wright-patterson-afb",
+      "from_node_id": "claim-iQOibpIDx-4-lockheed-martin-antigravity-lineage",
+      "to_node_id": "location-wright-patterson-afb",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "iQOibpIDx-4",
+          "timestamp_start": 36
+        }
+      ]
     }
   ],
-  "extracted_at": "2026-04-17T11:03:44.925701+00:00",
+  "extracted_at": "2026-04-17T12:05:09.449164+00:00",
   "extractor_version": "v1-inline-claude"
 }

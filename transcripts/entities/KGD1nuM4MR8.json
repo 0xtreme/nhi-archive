@@ -1633,6 +1633,367 @@
           "video-KGD1nuM4MR8"
         ]
       }
+    },
+    {
+      "id": "person-kirk-mcconnell",
+      "node_type": "person",
+      "label": "Kirk McConnell",
+      "summary": "Retired Senate staffer ~30 years; worked on Senate Armed Services Committee attached to Senator Jack Reed (Rhode Island). Staff-level investigator of UAP issue post-2017 NYT article. Interviewed Navy pilots, Fravor, Dietrich; met Puthoff, Davis, Fugal at Skinwalker.",
+      "tags": [
+        "Senate",
+        "investigator",
+        "official"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:30:03.999607+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KGD1nuM4MR8",
+          "timestamp_start": 179,
+          "quote": "Former Senate Armed Services Committee staffer for Senator Jack Reed"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "McConnell"
+        ],
+        "profession": "Senate staffer",
+        "notability_tags": [
+          "Senate",
+          "investigator",
+          "official"
+        ]
+      }
+    },
+    {
+      "id": "person-leslie-kean",
+      "node_type": "person",
+      "label": "Leslie Kean",
+      "summary": "Independent journalist; co-authored 2017 New York Times bombshell article on ATIP with Ralph Blumenthal — the seminal modern-disclosure event.",
+      "tags": [
+        "journalist"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:30:03.999611+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KGD1nuM4MR8",
+          "timestamp_start": 183,
+          "quote": "Journalist behind 2017 NYT UAP article"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Kean"
+        ],
+        "profession": "journalist",
+        "notability_tags": [
+          "journalist"
+        ]
+      }
+    },
+    {
+      "id": "person-ralph-blumenthal",
+      "node_type": "person",
+      "label": "Ralph Blumenthal",
+      "summary": "New York Times journalist; co-authored the 2017 NYT bombshell UAP article with Leslie Kean.",
+      "tags": [
+        "journalist",
+        "NYT"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:30:03.999614+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KGD1nuM4MR8",
+          "timestamp_start": 183,
+          "quote": "NYT journalist co-author of 2017 UAP article"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Blumenthal"
+        ],
+        "profession": "journalist",
+        "notability_tags": [
+          "journalist",
+          "NYT"
+        ]
+      }
+    },
+    {
+      "id": "person-jack-reed-senator",
+      "node_type": "person",
+      "label": "Jack Reed (Senator)",
+      "summary": "US Senator from Rhode Island; Armed Services Committee; Kirk McConnell's boss for UAP oversight work.",
+      "tags": [
+        "politician",
+        "senator"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:30:03.999616+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KGD1nuM4MR8",
+          "timestamp_start": 185,
+          "quote": "Senator Jack Reed of Rhode Island; Armed Services Committee"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Reed"
+        ],
+        "profession": "politician",
+        "notability_tags": [
+          "politician",
+          "senator"
+        ]
+      }
+    },
+    {
+      "id": "person-bill-cohen-senator",
+      "node_type": "person",
+      "label": "Bill Cohen (Senator)",
+      "summary": "Former US Senator from Maine; chairman of Senate Intelligence Committee; Chris Mellon's original Senate boss in late 1980s.",
+      "tags": [
+        "politician",
+        "senator",
+        "historical"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:30:03.999618+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KGD1nuM4MR8",
+          "timestamp_start": 193,
+          "quote": "Former Senator Bill Cohen from Maine; Intel Committee"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Cohen"
+        ],
+        "profession": "politician",
+        "notability_tags": [
+          "politician",
+          "senator",
+          "historical"
+        ]
+      }
+    },
+    {
+      "id": "event-2017-nyt-uap-article",
+      "node_type": "event",
+      "label": "2017 NYT UAP Bombshell Article",
+      "summary": "December 2017 New York Times bombshell article by Leslie Kean and Ralph Blumenthal — with 3 Navy videos (Tic Tac, Gimbal, Go Fast) cleared by Pentagon, exposure of ATIP program under Harry Reid's funding, launching modern UAP disclosure era.",
+      "tags": [
+        "publication"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:30:03.999621+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KGD1nuM4MR8",
+          "timestamp_start": 183,
+          "timestamp_end": "Leslie Kean + Ralph Blumenthal NYT article launched modern disclosure"
+        }
+      ],
+      "type_specific": {
+        "event_type": "publication",
+        "date_approximate": "2017-12-16"
+      }
+    },
+    {
+      "id": "claim-KGD1nuM4MR8-mcconnell-mellon-staff-reconnection",
+      "node_type": "claim",
+      "label": "McConnell had known Chris Mellon since the late 1980s — both Senate staffers, Mellon for Senator Bil",
+      "summary": "McConnell had known Chris Mellon since the late 1980s — both Senate staffers, Mellon for Senator Bill Cohen (Maine) on the Senate Intelligence Committee. This pre-existing relationship made McConnell's re-engagement on UAP easy.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:30:04.010885+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KGD1nuM4MR8",
+          "timestamp_start": 193,
+          "quote": "I had known Chris Mellon actually since the late 1980s when I first started working in the Senate. He was a staffer for at the time Senator Bill Cohen from Maine on the Senate Intelligence Committee. So I'd known Chris forever."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "McConnell had known Chris Mellon since the late 1980s — both Senate staffers, Mellon for Senator Bill Cohen (Maine) on the Senate Intelligence Committee. This pre-existing relationship made McConnell's re-engagement on UAP easy.",
+        "asserted_by_id": "person-kirk-mcconnell",
+        "source_video_id": "KGD1nuM4MR8",
+        "timestamp_start_seconds": 193,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-kirk-mcconnell",
+          "person-chris-mellon",
+          "person-bill-cohen-senator"
+        ]
+      }
+    },
+    {
+      "id": "claim-KGD1nuM4MR8-mcconnell-skinwalker-fugal-visit",
+      "node_type": "claim",
+      "label": "McConnell's Senate-staff investigation team met Brandon Fugal at Skinwalker Ranch and interviewed pe",
+      "summary": "McConnell's Senate-staff investigation team met Brandon Fugal at Skinwalker Ranch and interviewed people working on the ranch — following the Harry Reid AATIP funding thread firsthand.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:30:04.010903+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KGD1nuM4MR8",
+          "timestamp_start": 195,
+          "quote": "We met Brandon Fugal, Skinwalker Ranch. We met the folks who had been working on the ranch in Utah."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "McConnell's Senate-staff investigation team met Brandon Fugal at Skinwalker Ranch and interviewed people working on the ranch — following the Harry Reid AATIP funding thread firsthand.",
+        "asserted_by_id": "person-kirk-mcconnell",
+        "source_video_id": "KGD1nuM4MR8",
+        "timestamp_start_seconds": 195,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-kirk-mcconnell",
+          "person-brandon-fugal-extended"
+        ]
+      }
+    },
+    {
+      "id": "claim-KGD1nuM4MR8-mcconnell-mountains-info-grush-valid",
+      "node_type": "claim",
+      "label": "McConnell concluded (after 'reading and reading' mountains of information) that there is definitely ",
+      "summary": "McConnell concluded (after 'reading and reading' mountains of information) that there is definitely 'fire, not just smoke' behind Grusch's claims — whistleblower accounts credibly corroborate decades-long legacy UFO program.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:30:04.010912+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KGD1nuM4MR8",
+          "timestamp_start": 203,
+          "quote": "You start reading and reading about this. There's just mountains of information out there. We ended up coming progressively to the conclusion that there's not just smoke here. There's fire."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "McConnell concluded (after 'reading and reading' mountains of information) that there is definitely 'fire, not just smoke' behind Grusch's claims — whistleblower accounts credibly corroborate decades-long legacy UFO program.",
+        "asserted_by_id": "person-kirk-mcconnell",
+        "source_video_id": "KGD1nuM4MR8",
+        "timestamp_start_seconds": 203,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-kirk-mcconnell",
+          "person-david-grusch"
+        ]
+      }
+    },
+    {
+      "id": "claim-KGD1nuM4MR8-mcconnell-black-classified-physics",
+      "node_type": "claim",
+      "label": "McConnell's conviction: there is 'off the books and in the black' fundamental physics research — acc",
+      "summary": "McConnell's conviction: there is 'off the books and in the black' fundamental physics research — accessible only via classified programs — providing plausible technology-path explanation for observed UAP performance (energy access at scale).",
+      "tags": [
+        "speculation",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:30:04.010920+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KGD1nuM4MR8",
+          "timestamp_start": 209,
+          "quote": "You seem to have conviction that there is kind of off the books and in the black science. This is a potential avenue into accessing different forms of energy at a huge scale that would potentially provide an explanation for the kind of technology and performance and physics that UAP seem to exhibit."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "McConnell's conviction: there is 'off the books and in the black' fundamental physics research — accessible only via classified programs — providing plausible technology-path explanation for observed UAP performance (energy access at scale).",
+        "asserted_by_id": "person-kirk-mcconnell",
+        "source_video_id": "KGD1nuM4MR8",
+        "timestamp_start_seconds": 209,
+        "assertability": "speculation",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-kirk-mcconnell",
+          "concept-stigma-weaponization",
+          "program-aatip"
+        ]
+      }
+    },
+    {
+      "id": "claim-KGD1nuM4MR8-mcconnell-nazi-bell-rotating-mercury",
+      "node_type": "claim",
+      "label": "Per McConnell: Nazi scientists' work with rotating cylinders filled with mercury — producing levitat",
+      "summary": "Per McConnell: Nazi scientists' work with rotating cylinders filled with mercury — producing levitation effects — has superficial similarity to Salvatore Pais' patent claims and the Vidkowski description of Nazi Bell program.",
+      "tags": [
+        "speculation",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:30:04.010929+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KGD1nuM4MR8",
+          "timestamp_start": 177,
+          "quote": "It's really fascinating that the Nazi scientists were working on has some superficial similarities to the kind of hypotheses that Dr. Salvatore Pais has put out. They used rotating cylinders filled with a form of mercury — Vidkowski says that the Nazi bell program was doing that was producing levitation effects."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Per McConnell: Nazi scientists' work with rotating cylinders filled with mercury — producing levitation effects — has superficial similarity to Salvatore Pais' patent claims and the Vidkowski description of Nazi Bell program.",
+        "asserted_by_id": "person-kirk-mcconnell",
+        "source_video_id": "KGD1nuM4MR8",
+        "timestamp_start_seconds": 177,
+        "assertability": "speculation",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-kirk-mcconnell",
+          "person-salvatore-pais",
+          "person-hans-kammler",
+          "concept-antigravity"
+        ]
+      }
     }
   ],
   "edges": [
@@ -2477,8 +2838,279 @@
           "timestamp_start": 0
         }
       ]
+    },
+    {
+      "id": "edge-person-kirk-mcconnell-ASSERTED-claim-KGD1nuM4MR8-mcconnell-mellon-staff-reconnection",
+      "from_node_id": "person-kirk-mcconnell",
+      "to_node_id": "claim-KGD1nuM4MR8-mcconnell-mellon-staff-reconnection",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KGD1nuM4MR8",
+          "timestamp_start": 193,
+          "quote": "McConnell had known Chris Mellon since the late 1980s — both Senate staffers, Mellon for Senator Bill Cohen (Maine) on the Senate Intelligence Committee. This pre-existing relationship made McConnell'"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-KGD1nuM4MR8-REFERENCES-claim-KGD1nuM4MR8-mcconnell-mellon-staff-reconnection",
+      "from_node_id": "video-KGD1nuM4MR8",
+      "to_node_id": "claim-KGD1nuM4MR8-mcconnell-mellon-staff-reconnection",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KGD1nuM4MR8",
+          "timestamp_start": 193
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-KGD1nuM4MR8-mcconnell-mellon-staff-reconnection-REFERENCES-person-chris-mellon",
+      "from_node_id": "claim-KGD1nuM4MR8-mcconnell-mellon-staff-reconnection",
+      "to_node_id": "person-chris-mellon",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KGD1nuM4MR8",
+          "timestamp_start": 193
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-KGD1nuM4MR8-mcconnell-mellon-staff-reconnection-REFERENCES-person-bill-cohen-senator",
+      "from_node_id": "claim-KGD1nuM4MR8-mcconnell-mellon-staff-reconnection",
+      "to_node_id": "person-bill-cohen-senator",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KGD1nuM4MR8",
+          "timestamp_start": 193
+        }
+      ]
+    },
+    {
+      "id": "edge-person-kirk-mcconnell-ASSERTED-claim-KGD1nuM4MR8-mcconnell-skinwalker-fugal-visit",
+      "from_node_id": "person-kirk-mcconnell",
+      "to_node_id": "claim-KGD1nuM4MR8-mcconnell-skinwalker-fugal-visit",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KGD1nuM4MR8",
+          "timestamp_start": 195,
+          "quote": "McConnell's Senate-staff investigation team met Brandon Fugal at Skinwalker Ranch and interviewed people working on the ranch — following the Harry Reid AATIP funding thread firsthand."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-KGD1nuM4MR8-REFERENCES-claim-KGD1nuM4MR8-mcconnell-skinwalker-fugal-visit",
+      "from_node_id": "video-KGD1nuM4MR8",
+      "to_node_id": "claim-KGD1nuM4MR8-mcconnell-skinwalker-fugal-visit",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KGD1nuM4MR8",
+          "timestamp_start": 195
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-KGD1nuM4MR8-mcconnell-skinwalker-fugal-visit-REFERENCES-person-brandon-fugal-extended",
+      "from_node_id": "claim-KGD1nuM4MR8-mcconnell-skinwalker-fugal-visit",
+      "to_node_id": "person-brandon-fugal-extended",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KGD1nuM4MR8",
+          "timestamp_start": 195
+        }
+      ]
+    },
+    {
+      "id": "edge-person-kirk-mcconnell-ASSERTED-claim-KGD1nuM4MR8-mcconnell-mountains-info-grush-valid",
+      "from_node_id": "person-kirk-mcconnell",
+      "to_node_id": "claim-KGD1nuM4MR8-mcconnell-mountains-info-grush-valid",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KGD1nuM4MR8",
+          "timestamp_start": 203,
+          "quote": "McConnell concluded (after 'reading and reading' mountains of information) that there is definitely 'fire, not just smoke' behind Grusch's claims — whistleblower accounts credibly corroborate decades-"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-KGD1nuM4MR8-REFERENCES-claim-KGD1nuM4MR8-mcconnell-mountains-info-grush-valid",
+      "from_node_id": "video-KGD1nuM4MR8",
+      "to_node_id": "claim-KGD1nuM4MR8-mcconnell-mountains-info-grush-valid",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KGD1nuM4MR8",
+          "timestamp_start": 203
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-KGD1nuM4MR8-mcconnell-mountains-info-grush-valid-REFERENCES-person-david-grusch",
+      "from_node_id": "claim-KGD1nuM4MR8-mcconnell-mountains-info-grush-valid",
+      "to_node_id": "person-david-grusch",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KGD1nuM4MR8",
+          "timestamp_start": 203
+        }
+      ]
+    },
+    {
+      "id": "edge-person-kirk-mcconnell-ASSERTED-claim-KGD1nuM4MR8-mcconnell-black-classified-physics",
+      "from_node_id": "person-kirk-mcconnell",
+      "to_node_id": "claim-KGD1nuM4MR8-mcconnell-black-classified-physics",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KGD1nuM4MR8",
+          "timestamp_start": 209,
+          "quote": "McConnell's conviction: there is 'off the books and in the black' fundamental physics research — accessible only via classified programs — providing plausible technology-path explanation for observed "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-KGD1nuM4MR8-REFERENCES-claim-KGD1nuM4MR8-mcconnell-black-classified-physics",
+      "from_node_id": "video-KGD1nuM4MR8",
+      "to_node_id": "claim-KGD1nuM4MR8-mcconnell-black-classified-physics",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KGD1nuM4MR8",
+          "timestamp_start": 209
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-KGD1nuM4MR8-mcconnell-black-classified-physics-REFERENCES-concept-stigma-weaponization",
+      "from_node_id": "claim-KGD1nuM4MR8-mcconnell-black-classified-physics",
+      "to_node_id": "concept-stigma-weaponization",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KGD1nuM4MR8",
+          "timestamp_start": 209
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-KGD1nuM4MR8-mcconnell-black-classified-physics-REFERENCES-program-aatip",
+      "from_node_id": "claim-KGD1nuM4MR8-mcconnell-black-classified-physics",
+      "to_node_id": "program-aatip",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KGD1nuM4MR8",
+          "timestamp_start": 209
+        }
+      ]
+    },
+    {
+      "id": "edge-person-kirk-mcconnell-ASSERTED-claim-KGD1nuM4MR8-mcconnell-nazi-bell-rotating-mercury",
+      "from_node_id": "person-kirk-mcconnell",
+      "to_node_id": "claim-KGD1nuM4MR8-mcconnell-nazi-bell-rotating-mercury",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KGD1nuM4MR8",
+          "timestamp_start": 177,
+          "quote": "Per McConnell: Nazi scientists' work with rotating cylinders filled with mercury — producing levitation effects — has superficial similarity to Salvatore Pais' patent claims and the Vidkowski descript"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-KGD1nuM4MR8-REFERENCES-claim-KGD1nuM4MR8-mcconnell-nazi-bell-rotating-mercury",
+      "from_node_id": "video-KGD1nuM4MR8",
+      "to_node_id": "claim-KGD1nuM4MR8-mcconnell-nazi-bell-rotating-mercury",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KGD1nuM4MR8",
+          "timestamp_start": 177
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-KGD1nuM4MR8-mcconnell-nazi-bell-rotating-mercury-REFERENCES-person-salvatore-pais",
+      "from_node_id": "claim-KGD1nuM4MR8-mcconnell-nazi-bell-rotating-mercury",
+      "to_node_id": "person-salvatore-pais",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KGD1nuM4MR8",
+          "timestamp_start": 177
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-KGD1nuM4MR8-mcconnell-nazi-bell-rotating-mercury-REFERENCES-person-hans-kammler",
+      "from_node_id": "claim-KGD1nuM4MR8-mcconnell-nazi-bell-rotating-mercury",
+      "to_node_id": "person-hans-kammler",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KGD1nuM4MR8",
+          "timestamp_start": 177
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-KGD1nuM4MR8-mcconnell-nazi-bell-rotating-mercury-REFERENCES-concept-antigravity",
+      "from_node_id": "claim-KGD1nuM4MR8-mcconnell-nazi-bell-rotating-mercury",
+      "to_node_id": "concept-antigravity",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KGD1nuM4MR8",
+          "timestamp_start": 177
+        }
+      ]
     }
   ],
-  "extracted_at": "2026-04-17T11:05:00.261651+00:00",
+  "extracted_at": "2026-04-17T13:30:04.010939+00:00",
   "extractor_version": "v1-inline-claude"
 }

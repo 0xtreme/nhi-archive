@@ -1117,6 +1117,385 @@
           "video-1zRWi_r3HRM"
         ]
       }
+    },
+    {
+      "id": "person-beatriz-villarroel",
+      "node_type": "person",
+      "label": "Beatriz Villarroel",
+      "summary": "Swedish astrophysicist; PhD astrophysics; L'Oreal-UNESCO Women in Science prize; Associate Professor at Stockholm University. Detected ~105,000 unidentified transient objects in 1950s Palomar plates — pre-Sputnik.",
+      "tags": [
+        "scientist",
+        "astronomer",
+        "academic"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.485673+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 391,
+          "quote": "Stockholm University astronomer; Palomar transients discovery"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Villarroel",
+          "Beatriz",
+          "Voriel",
+          "Valale"
+        ],
+        "profession": "astrophysicist",
+        "notability_tags": [
+          "scientist",
+          "astronomer",
+          "academic"
+        ]
+      }
+    },
+    {
+      "id": "person-enrique-solano",
+      "node_type": "person",
+      "label": "Enrique Solano",
+      "summary": "Spanish astronomer; collaborator with Villarroel; discovered the July 19 1952 three-transient Palomar example.",
+      "tags": [
+        "scientist"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.485675+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 439,
+          "quote": "Spanish astronomer, co-discovered July 19 1952 transient triplet"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Solano"
+        ],
+        "profession": "astronomer",
+        "notability_tags": [
+          "scientist"
+        ]
+      }
+    },
+    {
+      "id": "person-steven-bruehl",
+      "node_type": "person",
+      "label": "Steven Bruehl",
+      "summary": "Vanderbilt PhD who replicated and extended Villarroel's Palomar transients work, correlating them with historical nuclear tests and public UAP sightings.",
+      "tags": [
+        "scientist",
+        "Vanderbilt"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.485677+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 407,
+          "quote": "Vanderbilt PhD correlating Palomar transients with nuclear tests"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Bruell",
+          "Bruehl"
+        ],
+        "profession": "scientist",
+        "notability_tags": [
+          "scientist",
+          "Vanderbilt"
+        ]
+      }
+    },
+    {
+      "id": "location-palomar-observatory",
+      "node_type": "location",
+      "label": "Palomar Observatory",
+      "summary": "",
+      "tags": [
+        "observation_site"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.485679+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 387,
+          "timestamp_end": "Most prominent pre-satellite-era US observatory"
+        }
+      ],
+      "type_specific": {
+        "location_type": "observation_site",
+        "country": "US",
+        "state_or_region": "California"
+      }
+    },
+    {
+      "id": "concept-vasco-project",
+      "node_type": "concept",
+      "label": "VASCO (Villarroel's Vanishing Stars Project)",
+      "summary": "Vanishing & Appearing Sources during a Century of Observations: Villarroel's project hunting stars that appear or vanish over historical timescales on astronomical plates.",
+      "tags": [
+        "physics"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.485681+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 439,
+          "timestamp_end": "Transient-hunting project by Villarroel's team"
+        }
+      ],
+      "type_specific": {
+        "concept_domain": "physics"
+      }
+    },
+    {
+      "id": "event-july-27-1952-washington-flap",
+      "node_type": "event",
+      "label": "Washington UFO Flap 1952",
+      "summary": "July 1952 Washington DC UFO sightings: ghostlike objects darted across the CIA traffic control radar at National Airport for several hours; corroborated independently by Villarroel's Palomar transients on same dates.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.485685+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 441,
+          "timestamp_end": "National Airport radar UFO sightings July 1952"
+        }
+      ],
+      "type_specific": {
+        "event_type": "other",
+        "date_approximate": "1952-07-27"
+      }
+    },
+    {
+      "id": "claim-1zRWi_r3HRM-villarroel-105k-pre-satellite-transients",
+      "node_type": "claim",
+      "label": "Villarroel's team found ~105,000 unidentified transient light sources in northern-hemisphere Palomar",
+      "summary": "Villarroel's team found ~105,000 unidentified transient light sources in northern-hemisphere Palomar plates — critically, from an era *before* Sputnik and any human-made orbital hardware.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.498783+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 389,
+          "quote": "Our original sample is around 105,000 transients from just the northern hemisphere. She detected these objects before the first satellite Sputnik ever orbited Earth."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Villarroel's team found ~105,000 unidentified transient light sources in northern-hemisphere Palomar plates — critically, from an era *before* Sputnik and any human-made orbital hardware.",
+        "asserted_by_id": "person-beatriz-villarroel",
+        "source_video_id": "1zRWi_r3HRM",
+        "timestamp_start_seconds": 389,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-beatriz-villarroel",
+          "location-palomar-observatory",
+          "concept-vasco-project"
+        ]
+      }
+    },
+    {
+      "id": "claim-1zRWi_r3HRM-july-1952-nine-objects-correlation",
+      "node_type": "claim",
+      "label": "Two statistically-significant multi-transient events appear on Palomar plates: five objects in a nar",
+      "summary": "Two statistically-significant multi-transient events appear on Palomar plates: five objects in a narrow band on July 27 1952, and three super-bright 'stars' on July 19 1952 — both dates coincide with the Washington UFO flap.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.498798+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 437,
+          "quote": "Five objects on a narrow band from the 27th of July 1952. Enrique Solano discovered another such example with three super bright beautiful stars from the 19th of July 1952."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Two statistically-significant multi-transient events appear on Palomar plates: five objects in a narrow band on July 27 1952, and three super-bright 'stars' on July 19 1952 — both dates coincide with the Washington UFO flap.",
+        "asserted_by_id": "person-beatriz-villarroel",
+        "source_video_id": "1zRWi_r3HRM",
+        "timestamp_start_seconds": 437,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-beatriz-villarroel",
+          "event-july-27-1952-washington-flap",
+          "person-enrique-solano"
+        ]
+      }
+    },
+    {
+      "id": "claim-1zRWi_r3HRM-bruehl-nuclear-correlation",
+      "node_type": "claim",
+      "label": "Vanderbilt PhD Steven Bruehl correlated the transients with nuclear tests AND (smaller but statistic",
+      "summary": "Vanderbilt PhD Steven Bruehl correlated the transients with nuclear tests AND (smaller but statistically significant) with public UAP reports — expanding the nuclear-UAP connection into the astronomical record.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.498811+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 409,
+          "quote": "We speak to a PhD from Vanderbilt, Dr. Steven Bruehl, who's followed up on Beatriz's study and correlates these UFO appearances with nuclear tests. The transients correlate not only with nuclear testing, but also show a small but statistically significant correlation with UAP reports."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Vanderbilt PhD Steven Bruehl correlated the transients with nuclear tests AND (smaller but statistically significant) with public UAP reports — expanding the nuclear-UAP connection into the astronomical record.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "1zRWi_r3HRM",
+        "timestamp_start_seconds": 409,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-steven-bruehl",
+          "person-beatriz-villarroel"
+        ]
+      }
+    },
+    {
+      "id": "claim-1zRWi_r3HRM-reflective-flat-objects-mirrors",
+      "node_type": "claim",
+      "label": "Villarroel describes the transients as 'short flashes not streaks' characteristic of objects that ar",
+      "summary": "Villarroel describes the transients as 'short flashes not streaks' characteristic of objects that are extremely flat and extremely reflective — like mirrors.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.498819+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 379,
+          "quote": "The short flashes and not streaks, they're associated with things that are extremely flat and extremely reflective. Like mirrors."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Villarroel describes the transients as 'short flashes not streaks' characteristic of objects that are extremely flat and extremely reflective — like mirrors.",
+        "asserted_by_id": "person-beatriz-villarroel",
+        "source_video_id": "1zRWi_r3HRM",
+        "timestamp_start_seconds": 379,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-beatriz-villarroel"
+        ]
+      }
+    },
+    {
+      "id": "claim-1zRWi_r3HRM-villarroel-peer-reviewed",
+      "node_type": "claim",
+      "label": "All of Villarroel's transient work has received peer review in mainstream astronomical journals — ac",
+      "summary": "All of Villarroel's transient work has received peer review in mainstream astronomical journals — academic validation of UFO-adjacent findings.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.498829+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 413,
+          "quote": "All of this work has received peer review in mainstream astronomical journals. She has finally caught the white whale in UFO science, academic validation."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "All of Villarroel's transient work has received peer review in mainstream astronomical journals — academic validation of UFO-adjacent findings.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "1zRWi_r3HRM",
+        "timestamp_start_seconds": 413,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-beatriz-villarroel"
+        ]
+      }
+    },
+    {
+      "id": "claim-1zRWi_r3HRM-villarroel-we-are-not-alone",
+      "node_type": "claim",
+      "label": "Villarroel states on camera: 'If I look at everything that I learned in the last years, I will be fa",
+      "summary": "Villarroel states on camera: 'If I look at everything that I learned in the last years, I will be fair — I don't think we are alone. I think we have company.'",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.498836+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 393,
+          "quote": "If I look at everything that I learned in the last years, I will be fair. I don't think we are alone. I think we have company."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Villarroel states on camera: 'If I look at everything that I learned in the last years, I will be fair — I don't think we are alone. I think we have company.'",
+        "asserted_by_id": "person-beatriz-villarroel",
+        "source_video_id": "1zRWi_r3HRM",
+        "timestamp_start_seconds": 393,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-beatriz-villarroel",
+          "concept-nhi"
+        ]
+      }
     }
   ],
   "edges": [
@@ -1736,8 +2115,294 @@
           "timestamp_start": 0
         }
       ]
+    },
+    {
+      "id": "edge-person-beatriz-villarroel-ASSERTED-claim-1zRWi_r3HRM-villarroel-105k-pre-satellite-transients",
+      "from_node_id": "person-beatriz-villarroel",
+      "to_node_id": "claim-1zRWi_r3HRM-villarroel-105k-pre-satellite-transients",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 389,
+          "quote": "Villarroel's team found ~105,000 unidentified transient light sources in northern-hemisphere Palomar plates — critically, from an era *before* Sputnik and any human-made orbital hardware."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1zRWi_r3HRM-REFERENCES-claim-1zRWi_r3HRM-villarroel-105k-pre-satellite-transients",
+      "from_node_id": "video-1zRWi_r3HRM",
+      "to_node_id": "claim-1zRWi_r3HRM-villarroel-105k-pre-satellite-transients",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 389
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-1zRWi_r3HRM-villarroel-105k-pre-satellite-transients-REFERENCES-location-palomar-observatory",
+      "from_node_id": "claim-1zRWi_r3HRM-villarroel-105k-pre-satellite-transients",
+      "to_node_id": "location-palomar-observatory",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 389
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-1zRWi_r3HRM-villarroel-105k-pre-satellite-transients-REFERENCES-concept-vasco-project",
+      "from_node_id": "claim-1zRWi_r3HRM-villarroel-105k-pre-satellite-transients",
+      "to_node_id": "concept-vasco-project",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 389
+        }
+      ]
+    },
+    {
+      "id": "edge-person-beatriz-villarroel-ASSERTED-claim-1zRWi_r3HRM-july-1952-nine-objects-correlation",
+      "from_node_id": "person-beatriz-villarroel",
+      "to_node_id": "claim-1zRWi_r3HRM-july-1952-nine-objects-correlation",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 437,
+          "quote": "Two statistically-significant multi-transient events appear on Palomar plates: five objects in a narrow band on July 27 1952, and three super-bright 'stars' on July 19 1952 — both dates coincide with "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1zRWi_r3HRM-REFERENCES-claim-1zRWi_r3HRM-july-1952-nine-objects-correlation",
+      "from_node_id": "video-1zRWi_r3HRM",
+      "to_node_id": "claim-1zRWi_r3HRM-july-1952-nine-objects-correlation",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 437
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-1zRWi_r3HRM-july-1952-nine-objects-correlation-REFERENCES-event-july-27-1952-washington-flap",
+      "from_node_id": "claim-1zRWi_r3HRM-july-1952-nine-objects-correlation",
+      "to_node_id": "event-july-27-1952-washington-flap",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 437
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-1zRWi_r3HRM-july-1952-nine-objects-correlation-REFERENCES-person-enrique-solano",
+      "from_node_id": "claim-1zRWi_r3HRM-july-1952-nine-objects-correlation",
+      "to_node_id": "person-enrique-solano",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 437
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-1zRWi_r3HRM-bruehl-nuclear-correlation",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-1zRWi_r3HRM-bruehl-nuclear-correlation",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 409,
+          "quote": "Vanderbilt PhD Steven Bruehl correlated the transients with nuclear tests AND (smaller but statistically significant) with public UAP reports — expanding the nuclear-UAP connection into the astronomic"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1zRWi_r3HRM-REFERENCES-claim-1zRWi_r3HRM-bruehl-nuclear-correlation",
+      "from_node_id": "video-1zRWi_r3HRM",
+      "to_node_id": "claim-1zRWi_r3HRM-bruehl-nuclear-correlation",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 409
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-1zRWi_r3HRM-bruehl-nuclear-correlation-REFERENCES-person-steven-bruehl",
+      "from_node_id": "claim-1zRWi_r3HRM-bruehl-nuclear-correlation",
+      "to_node_id": "person-steven-bruehl",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 409
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-1zRWi_r3HRM-bruehl-nuclear-correlation-REFERENCES-person-beatriz-villarroel",
+      "from_node_id": "claim-1zRWi_r3HRM-bruehl-nuclear-correlation",
+      "to_node_id": "person-beatriz-villarroel",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 409
+        }
+      ]
+    },
+    {
+      "id": "edge-person-beatriz-villarroel-ASSERTED-claim-1zRWi_r3HRM-reflective-flat-objects-mirrors",
+      "from_node_id": "person-beatriz-villarroel",
+      "to_node_id": "claim-1zRWi_r3HRM-reflective-flat-objects-mirrors",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 379,
+          "quote": "Villarroel describes the transients as 'short flashes not streaks' characteristic of objects that are extremely flat and extremely reflective — like mirrors."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1zRWi_r3HRM-REFERENCES-claim-1zRWi_r3HRM-reflective-flat-objects-mirrors",
+      "from_node_id": "video-1zRWi_r3HRM",
+      "to_node_id": "claim-1zRWi_r3HRM-reflective-flat-objects-mirrors",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 379
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-1zRWi_r3HRM-villarroel-peer-reviewed",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-1zRWi_r3HRM-villarroel-peer-reviewed",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 413,
+          "quote": "All of Villarroel's transient work has received peer review in mainstream astronomical journals — academic validation of UFO-adjacent findings."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1zRWi_r3HRM-REFERENCES-claim-1zRWi_r3HRM-villarroel-peer-reviewed",
+      "from_node_id": "video-1zRWi_r3HRM",
+      "to_node_id": "claim-1zRWi_r3HRM-villarroel-peer-reviewed",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 413
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-1zRWi_r3HRM-villarroel-peer-reviewed-REFERENCES-person-beatriz-villarroel",
+      "from_node_id": "claim-1zRWi_r3HRM-villarroel-peer-reviewed",
+      "to_node_id": "person-beatriz-villarroel",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 413
+        }
+      ]
+    },
+    {
+      "id": "edge-person-beatriz-villarroel-ASSERTED-claim-1zRWi_r3HRM-villarroel-we-are-not-alone",
+      "from_node_id": "person-beatriz-villarroel",
+      "to_node_id": "claim-1zRWi_r3HRM-villarroel-we-are-not-alone",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 393,
+          "quote": "Villarroel states on camera: 'If I look at everything that I learned in the last years, I will be fair — I don't think we are alone. I think we have company.'"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1zRWi_r3HRM-REFERENCES-claim-1zRWi_r3HRM-villarroel-we-are-not-alone",
+      "from_node_id": "video-1zRWi_r3HRM",
+      "to_node_id": "claim-1zRWi_r3HRM-villarroel-we-are-not-alone",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 393
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-1zRWi_r3HRM-villarroel-we-are-not-alone-REFERENCES-concept-nhi",
+      "from_node_id": "claim-1zRWi_r3HRM-villarroel-we-are-not-alone",
+      "to_node_id": "concept-nhi",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 393
+        }
+      ]
     }
   ],
-  "extracted_at": "2026-04-17T11:04:17.352461+00:00",
+  "extracted_at": "2026-04-17T12:31:49.498847+00:00",
   "extractor_version": "v1-inline-claude"
 }

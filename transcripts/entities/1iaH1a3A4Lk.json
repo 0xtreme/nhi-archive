@@ -1834,6 +1834,256 @@
           "video-1iaH1a3A4Lk"
         ]
       }
+    },
+    {
+      "id": "person-mick-west",
+      "node_type": "person",
+      "label": "Mick West",
+      "summary": "Retired video-game programmer who became a prominent UFO debunker via Metabunk.org (started 2007, UFO-focused since 2016-2017). Expertise in plane-tracking, image analysis, conspiracy-debunking. Controversial in UFO community but 'doing an honest job per Jesse.'",
+      "tags": [
+        "debunker",
+        "skeptic"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.111733+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 85,
+          "quote": "Retired video-game programmer; Metabunk debunker"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "West"
+        ],
+        "profession": "debunker",
+        "notability_tags": [
+          "debunker",
+          "skeptic"
+        ]
+      }
+    },
+    {
+      "id": "person-merrick-von-rennenkampff-extended",
+      "node_type": "person",
+      "label": "Merrick von Rennenkampff (extended)",
+      "summary": "Former DoD employee and journalist writing for The Hill on UAP topics. Took UAP seriously after 2019 Rogan-Fravor interview — 'as soon as you watched 5 minutes of Fravor, this guy's the real deal.' Originally corresponded with Mick West as a skeptic-advocate.",
+      "tags": [
+        "journalist",
+        "DoD"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.111735+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 85,
+          "quote": "Pro-UAP-investigation journalist; former DoD employee"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Rennenkampff"
+        ],
+        "profession": "journalist",
+        "notability_tags": [
+          "journalist",
+          "DoD"
+        ]
+      }
+    },
+    {
+      "id": "document-metabunk-org",
+      "node_type": "document",
+      "label": "Metabunk.org",
+      "summary": "Mick West's online forum started ~2007 as Chemtrails conspiracy investigation; pivoted toward UFO-focused content ~2016-2017. Includes 9/11, flat-earth, false-flag and UAP debunking threads.",
+      "tags": [
+        "broadcast"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.111737+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 107,
+          "timestamp_end": "Mick West's conspiracy-investigation forum"
+        }
+      ],
+      "type_specific": {
+        "document_type": "broadcast",
+        "author": "Mick West"
+      }
+    },
+    {
+      "id": "event-2016-chilean-navy-ufo-video",
+      "node_type": "event",
+      "label": "2016 Chilean Navy UFO Video",
+      "summary": "Chilean Navy UFO video released by Alyssa Keane in Huffington Post in 2016/2017. Mick West's first high-profile UFO-video analysis.",
+      "tags": [
+        "publication"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.111739+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 109,
+          "timestamp_end": "Chilean Navy thermal video released by Alyssa Keane 2016-2017 Huffington Post"
+        }
+      ],
+      "type_specific": {
+        "event_type": "publication",
+        "date_approximate": "2016-11-01"
+      }
+    },
+    {
+      "id": "claim-1iaH1a3A4Lk-west-chemtrails-to-ufo-pivot",
+      "node_type": "claim",
+      "label": "Mick West's investigation trajectory: started with Wikipedia edits (~18 years ago); chemtrails consp",
+      "summary": "Mick West's investigation trajectory: started with Wikipedia edits (~18 years ago); chemtrails conspiracy debunking on blog; Metabunk.org forum evolved toward UFO focus in 2016-2017 around the Chilean Navy video case.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.117261+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 107,
+          "quote": "I was on Wikipedia messing around with the chemtrail conspiracy theory. That blog kind of evolved into my current site metabunk.org. It really kind of took off in 2016 or 2017 with this case from Chile — Chilean Navy video."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Mick West's investigation trajectory: started with Wikipedia edits (~18 years ago); chemtrails conspiracy debunking on blog; Metabunk.org forum evolved toward UFO focus in 2016-2017 around the Chilean Navy video case.",
+        "asserted_by_id": "person-mick-west",
+        "source_video_id": "1iaH1a3A4Lk",
+        "timestamp_start_seconds": 107,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-mick-west",
+          "document-metabunk-org"
+        ]
+      }
+    },
+    {
+      "id": "claim-1iaH1a3A4Lk-rennenkampff-fraver-moment-of-conversion",
+      "node_type": "claim",
+      "label": "von Rennenkampff's UAP-conversion moment: 2019 Rogan-Fravor interview. As former DoD with Navy aviat",
+      "summary": "von Rennenkampff's UAP-conversion moment: 2019 Rogan-Fravor interview. As former DoD with Navy aviator experience, 'as soon as I watched five minutes of Fravor, this guy's the real deal' — plus 3 other aviators corroborating.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.117275+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 97,
+          "quote": "I previously worked at the Pentagon. I worked with some naval aviators. As soon as I watched five minutes of Fravor, this guy's the real deal. Skipper of a storied squadron. Three other aviators out there. That was my ticket down the rabbit hole."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "von Rennenkampff's UAP-conversion moment: 2019 Rogan-Fravor interview. As former DoD with Navy aviator experience, 'as soon as I watched five minutes of Fravor, this guy's the real deal' — plus 3 other aviators corroborating.",
+        "asserted_by_id": "person-merrick-von-rennenkampff-extended",
+        "source_video_id": "1iaH1a3A4Lk",
+        "timestamp_start_seconds": 97,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-merrick-von-rennenkampff-extended",
+          "person-david-fravor"
+        ]
+      }
+    },
+    {
+      "id": "claim-1iaH1a3A4Lk-west-wrong-on-his-own-theories",
+      "node_type": "claim",
+      "label": "von Rennenkampff: 'The deeper I dug into Mick's theories — from my perspective he was wrong about a ",
+      "summary": "von Rennenkampff: 'The deeper I dug into Mick's theories — from my perspective he was wrong about a lot of his theories. The deeper we dug, I'm like — there's something to this.' Dig through Mick's explanations strengthened his pro-investigation conviction.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.117284+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 99,
+          "quote": "The deeper I dug into Mick's theories, from my perspective, he was wrong about a lot of his theories. And the deeper we dug, I'm like, my goodness, there's something to this."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "von Rennenkampff: 'The deeper I dug into Mick's theories — from my perspective he was wrong about a lot of his theories. The deeper we dug, I'm like — there's something to this.' Dig through Mick's explanations strengthened his pro-investigation conviction.",
+        "asserted_by_id": "person-merrick-von-rennenkampff-extended",
+        "source_video_id": "1iaH1a3A4Lk",
+        "timestamp_start_seconds": 99,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-merrick-von-rennenkampff-extended",
+          "person-mick-west"
+        ]
+      }
+    },
+    {
+      "id": "claim-1iaH1a3A4Lk-jesse-west-stigma-challenge",
+      "node_type": "claim",
+      "label": "Jesse challenges Mick West: 'The stigma that you promote is a big part of why they don't want to com",
+      "summary": "Jesse challenges Mick West: 'The stigma that you promote is a big part of why they don't want to come out. These guys are fighting a stigma. I encourage them to come forward.' Frames Mick as accountable for the disclosure-suppression pattern.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.117292+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 83,
+          "quote": "You're very familiar with this theory of mine, America — the stigma that you promote is a big part of why they don't want to come out. These guys are fighting a stigma. I encourage them to come forward."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Jesse challenges Mick West: 'The stigma that you promote is a big part of why they don't want to come out. These guys are fighting a stigma. I encourage them to come forward.' Frames Mick as accountable for the disclosure-suppression pattern.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "1iaH1a3A4Lk",
+        "timestamp_start_seconds": 83,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-mick-west",
+          "concept-stigma-weaponization"
+        ]
+      }
     }
   ],
   "edges": [
@@ -2843,8 +3093,194 @@
           "timestamp_start": 0
         }
       ]
+    },
+    {
+      "id": "edge-person-mick-west-ASSERTED-claim-1iaH1a3A4Lk-west-chemtrails-to-ufo-pivot",
+      "from_node_id": "person-mick-west",
+      "to_node_id": "claim-1iaH1a3A4Lk-west-chemtrails-to-ufo-pivot",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 107,
+          "quote": "Mick West's investigation trajectory: started with Wikipedia edits (~18 years ago); chemtrails conspiracy debunking on blog; Metabunk.org forum evolved toward UFO focus in 2016-2017 around the Chilean"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1iaH1a3A4Lk-REFERENCES-claim-1iaH1a3A4Lk-west-chemtrails-to-ufo-pivot",
+      "from_node_id": "video-1iaH1a3A4Lk",
+      "to_node_id": "claim-1iaH1a3A4Lk-west-chemtrails-to-ufo-pivot",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 107
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-1iaH1a3A4Lk-west-chemtrails-to-ufo-pivot-REFERENCES-document-metabunk-org",
+      "from_node_id": "claim-1iaH1a3A4Lk-west-chemtrails-to-ufo-pivot",
+      "to_node_id": "document-metabunk-org",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 107
+        }
+      ]
+    },
+    {
+      "id": "edge-person-merrick-von-rennenkampff-extended-ASSERTED-claim-1iaH1a3A4Lk-rennenkampff-fraver-moment-of-conversion",
+      "from_node_id": "person-merrick-von-rennenkampff-extended",
+      "to_node_id": "claim-1iaH1a3A4Lk-rennenkampff-fraver-moment-of-conversion",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 97,
+          "quote": "von Rennenkampff's UAP-conversion moment: 2019 Rogan-Fravor interview. As former DoD with Navy aviator experience, 'as soon as I watched five minutes of Fravor, this guy's the real deal' — plus 3 othe"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1iaH1a3A4Lk-REFERENCES-claim-1iaH1a3A4Lk-rennenkampff-fraver-moment-of-conversion",
+      "from_node_id": "video-1iaH1a3A4Lk",
+      "to_node_id": "claim-1iaH1a3A4Lk-rennenkampff-fraver-moment-of-conversion",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 97
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-1iaH1a3A4Lk-rennenkampff-fraver-moment-of-conversion-REFERENCES-person-david-fravor",
+      "from_node_id": "claim-1iaH1a3A4Lk-rennenkampff-fraver-moment-of-conversion",
+      "to_node_id": "person-david-fravor",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 97
+        }
+      ]
+    },
+    {
+      "id": "edge-person-merrick-von-rennenkampff-extended-ASSERTED-claim-1iaH1a3A4Lk-west-wrong-on-his-own-theories",
+      "from_node_id": "person-merrick-von-rennenkampff-extended",
+      "to_node_id": "claim-1iaH1a3A4Lk-west-wrong-on-his-own-theories",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 99,
+          "quote": "von Rennenkampff: 'The deeper I dug into Mick's theories — from my perspective he was wrong about a lot of his theories. The deeper we dug, I'm like — there's something to this.' Dig through Mick's ex"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1iaH1a3A4Lk-REFERENCES-claim-1iaH1a3A4Lk-west-wrong-on-his-own-theories",
+      "from_node_id": "video-1iaH1a3A4Lk",
+      "to_node_id": "claim-1iaH1a3A4Lk-west-wrong-on-his-own-theories",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 99
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-1iaH1a3A4Lk-west-wrong-on-his-own-theories-REFERENCES-person-mick-west",
+      "from_node_id": "claim-1iaH1a3A4Lk-west-wrong-on-his-own-theories",
+      "to_node_id": "person-mick-west",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 99
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-1iaH1a3A4Lk-jesse-west-stigma-challenge",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-1iaH1a3A4Lk-jesse-west-stigma-challenge",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 83,
+          "quote": "Jesse challenges Mick West: 'The stigma that you promote is a big part of why they don't want to come out. These guys are fighting a stigma. I encourage them to come forward.' Frames Mick as accountab"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1iaH1a3A4Lk-REFERENCES-claim-1iaH1a3A4Lk-jesse-west-stigma-challenge",
+      "from_node_id": "video-1iaH1a3A4Lk",
+      "to_node_id": "claim-1iaH1a3A4Lk-jesse-west-stigma-challenge",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 83
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-1iaH1a3A4Lk-jesse-west-stigma-challenge-REFERENCES-person-mick-west",
+      "from_node_id": "claim-1iaH1a3A4Lk-jesse-west-stigma-challenge",
+      "to_node_id": "person-mick-west",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 83
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-1iaH1a3A4Lk-jesse-west-stigma-challenge-REFERENCES-concept-stigma-weaponization",
+      "from_node_id": "claim-1iaH1a3A4Lk-jesse-west-stigma-challenge",
+      "to_node_id": "concept-stigma-weaponization",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 83
+        }
+      ]
     }
   ],
-  "extracted_at": "2026-04-17T11:05:03.961778+00:00",
+  "extracted_at": "2026-04-17T23:20:40.117301+00:00",
   "extractor_version": "v1-inline-claude"
 }

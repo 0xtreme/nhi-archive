@@ -1775,6 +1775,224 @@
           "video-ABw7EsWh2Us"
         ]
       }
+    },
+    {
+      "id": "person-john-foster-dulles",
+      "node_type": "person",
+      "label": "John Foster Dulles",
+      "summary": "US Secretary of State 1953-1959; brother of CIA director Allen Dulles. Per Jorjani, together with Allen, JP Morgan Chase, and Rockefeller, funded the rise of Nazi Germany.",
+      "tags": [
+        "historical",
+        "official"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.911673+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABw7EsWh2Us",
+          "timestamp_start": 17,
+          "quote": "US Secretary of State; brother of Allen Dulles; financier of Nazi rise"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Dulles"
+        ],
+        "profession": "diplomat",
+        "notability_tags": [
+          "historical",
+          "official"
+        ]
+      }
+    },
+    {
+      "id": "concept-nazi-atlantean-thesis",
+      "node_type": "concept",
+      "label": "Nazi–Atlantean Continuity Thesis",
+      "summary": "Jorjani's speculative thesis linking: Allen/John Foster Dulles and Rockefeller/Morgan funding of Nazi Germany; Nazi foo-fighter/saucer projects; pre-Roswell Spain-launched saucer sightings; Atlantean surviving-remnant groups; and time-travel self-actualization of future cultures.",
+      "tags": [
+        "politics"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.912065+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABw7EsWh2Us",
+          "timestamp_start": 7,
+          "timestamp_end": "Jorjani thesis: surviving ice-age civilization informing modern politics"
+        }
+      ],
+      "type_specific": {
+        "concept_domain": "politics"
+      }
+    },
+    {
+      "id": "incident-1946-mediterranean-sea-saucers",
+      "node_type": "incident",
+      "label": "1946 Mediterranean Saucers Launching From Spain",
+      "summary": "Per Jorjani: rocket-like saucer-shaped things seen launched from Spain and the Mediterranean coast toward America in 1946 — one year before Roswell.",
+      "tags": [
+        "sighting"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.912069+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABw7EsWh2Us",
+          "timestamp_start": 19,
+          "timestamp_end": "Saucer-shaped rocket-like things launched from Spain toward America pre-Roswell"
+        }
+      ],
+      "type_specific": {
+        "incident_type": "sighting",
+        "date_approximate": "1946-01-01"
+      }
+    },
+    {
+      "id": "claim-ABw7EsWh2Us-jorjani-dulles-rockefeller-nazi-funding",
+      "node_type": "claim",
+      "label": "Jorjani asserts Allen Dulles and his brother John Foster Dulles — together with JP Morgan Chase and ",
+      "summary": "Jorjani asserts Allen Dulles and his brother John Foster Dulles — together with JP Morgan Chase and Rockefeller — funded the rise of Nazi Germany; implication is a continuing Nazi-sleeper-cell undergirding American politics.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.914345+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABw7EsWh2Us",
+          "timestamp_start": 17,
+          "quote": "Allen Dulles and his brother John Foster Dulles together with JP Morgan Chase and Rockefeller funded the rise of the Nazis. Is the implication that there's some sort of Nazi sleeper cell undergirling American politics today."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Jorjani asserts Allen Dulles and his brother John Foster Dulles — together with JP Morgan Chase and Rockefeller — funded the rise of Nazi Germany; implication is a continuing Nazi-sleeper-cell undergirding American politics.",
+        "asserted_by_id": "person-jason-jorjani",
+        "source_video_id": "ABw7EsWh2Us",
+        "timestamp_start_seconds": 17,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-jason-jorjani",
+          "person-allen-dulles",
+          "person-john-foster-dulles",
+          "concept-nazi-atlantean-thesis"
+        ]
+      }
+    },
+    {
+      "id": "claim-ABw7EsWh2Us-jorjani-1946-spain-saucers-preroswell",
+      "node_type": "claim",
+      "label": "Per Jorjani: people were seeing rocket-like saucer-shaped things being launched from Spain and the M",
+      "summary": "Per Jorjani: people were seeing rocket-like saucer-shaped things being launched from Spain and the Mediterranean coast toward America in 1946 — a year BEFORE Roswell.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.914883+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABw7EsWh2Us",
+          "timestamp_start": 19,
+          "quote": "They were seeing these rocket-like things that were saucer shaped being launched from Spain, the Mediterranean coast over toward America. One year later, what happens? Roswell."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Per Jorjani: people were seeing rocket-like saucer-shaped things being launched from Spain and the Mediterranean coast toward America in 1946 — a year BEFORE Roswell.",
+        "asserted_by_id": "person-jason-jorjani",
+        "source_video_id": "ABw7EsWh2Us",
+        "timestamp_start_seconds": 19,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-jason-jorjani",
+          "incident-1946-mediterranean-sea-saucers"
+        ]
+      }
+    },
+    {
+      "id": "claim-ABw7EsWh2Us-jorjani-future-culture-self-contact",
+      "node_type": "claim",
+      "label": "Jorjani entertains: what we label NHI contact may be a future state of a specific terrestrial cultur",
+      "summary": "Jorjani entertains: what we label NHI contact may be a future state of a specific terrestrial culture reaching back and contacting itself in the past — pulling the timeline toward its own actualization.",
+      "tags": [
+        "speculation",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.914921+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABw7EsWh2Us",
+          "timestamp_start": 27,
+          "quote": "For all we know, what's happening is that a future state of a certain culture is contacting itself in the past, trying to pull the timeline towards itself. Actualize itself, temporize itself."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Jorjani entertains: what we label NHI contact may be a future state of a specific terrestrial culture reaching back and contacting itself in the past — pulling the timeline toward its own actualization.",
+        "asserted_by_id": "person-jason-jorjani",
+        "source_video_id": "ABw7EsWh2Us",
+        "timestamp_start_seconds": 27,
+        "assertability": "speculation",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-jason-jorjani",
+          "concept-time-travel-hypothesis"
+        ]
+      }
+    },
+    {
+      "id": "claim-ABw7EsWh2Us-jorjani-decline-of-philosophy",
+      "node_type": "claim",
+      "label": "Jorjani argues civilizational decline in philosophy — reduced to academic scholasticism — prevents s",
+      "summary": "Jorjani argues civilizational decline in philosophy — reduced to academic scholasticism — prevents serious engagement with close-encounter data and parapsychology; invokes William James and Henri Bergson as early philosophical contributors to parapsychology.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.914932+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABw7EsWh2Us",
+          "timestamp_start": 37,
+          "quote": "One of the most significant crises is the decline of philosophy. The reduction of philosophy to academic scholasticism. William James and Henri Bergson played a fundamental role in development of parapsychology at its outset."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Jorjani argues civilizational decline in philosophy — reduced to academic scholasticism — prevents serious engagement with close-encounter data and parapsychology; invokes William James and Henri Bergson as early philosophical contributors to parapsychology.",
+        "asserted_by_id": "person-jason-jorjani",
+        "source_video_id": "ABw7EsWh2Us",
+        "timestamp_start_seconds": 37,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-jason-jorjani"
+        ]
+      }
     }
   ],
   "edges": [
@@ -2754,8 +2972,194 @@
           "timestamp_start": 0
         }
       ]
+    },
+    {
+      "id": "edge-person-jason-jorjani-ASSERTED-claim-ABw7EsWh2Us-jorjani-dulles-rockefeller-nazi-funding",
+      "from_node_id": "person-jason-jorjani",
+      "to_node_id": "claim-ABw7EsWh2Us-jorjani-dulles-rockefeller-nazi-funding",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABw7EsWh2Us",
+          "timestamp_start": 17,
+          "quote": "Jorjani asserts Allen Dulles and his brother John Foster Dulles — together with JP Morgan Chase and Rockefeller — funded the rise of Nazi Germany; implication is a continuing Nazi-sleeper-cell undergi"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ABw7EsWh2Us-REFERENCES-claim-ABw7EsWh2Us-jorjani-dulles-rockefeller-nazi-funding",
+      "from_node_id": "video-ABw7EsWh2Us",
+      "to_node_id": "claim-ABw7EsWh2Us-jorjani-dulles-rockefeller-nazi-funding",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABw7EsWh2Us",
+          "timestamp_start": 17
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-ABw7EsWh2Us-jorjani-dulles-rockefeller-nazi-funding-REFERENCES-person-allen-dulles",
+      "from_node_id": "claim-ABw7EsWh2Us-jorjani-dulles-rockefeller-nazi-funding",
+      "to_node_id": "person-allen-dulles",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABw7EsWh2Us",
+          "timestamp_start": 17
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-ABw7EsWh2Us-jorjani-dulles-rockefeller-nazi-funding-REFERENCES-person-john-foster-dulles",
+      "from_node_id": "claim-ABw7EsWh2Us-jorjani-dulles-rockefeller-nazi-funding",
+      "to_node_id": "person-john-foster-dulles",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABw7EsWh2Us",
+          "timestamp_start": 17
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-ABw7EsWh2Us-jorjani-dulles-rockefeller-nazi-funding-REFERENCES-concept-nazi-atlantean-thesis",
+      "from_node_id": "claim-ABw7EsWh2Us-jorjani-dulles-rockefeller-nazi-funding",
+      "to_node_id": "concept-nazi-atlantean-thesis",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABw7EsWh2Us",
+          "timestamp_start": 17
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jason-jorjani-ASSERTED-claim-ABw7EsWh2Us-jorjani-1946-spain-saucers-preroswell",
+      "from_node_id": "person-jason-jorjani",
+      "to_node_id": "claim-ABw7EsWh2Us-jorjani-1946-spain-saucers-preroswell",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABw7EsWh2Us",
+          "timestamp_start": 19,
+          "quote": "Per Jorjani: people were seeing rocket-like saucer-shaped things being launched from Spain and the Mediterranean coast toward America in 1946 — a year BEFORE Roswell."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ABw7EsWh2Us-REFERENCES-claim-ABw7EsWh2Us-jorjani-1946-spain-saucers-preroswell",
+      "from_node_id": "video-ABw7EsWh2Us",
+      "to_node_id": "claim-ABw7EsWh2Us-jorjani-1946-spain-saucers-preroswell",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABw7EsWh2Us",
+          "timestamp_start": 19
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-ABw7EsWh2Us-jorjani-1946-spain-saucers-preroswell-REFERENCES-incident-1946-mediterranean-sea-saucers",
+      "from_node_id": "claim-ABw7EsWh2Us-jorjani-1946-spain-saucers-preroswell",
+      "to_node_id": "incident-1946-mediterranean-sea-saucers",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABw7EsWh2Us",
+          "timestamp_start": 19
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jason-jorjani-ASSERTED-claim-ABw7EsWh2Us-jorjani-future-culture-self-contact",
+      "from_node_id": "person-jason-jorjani",
+      "to_node_id": "claim-ABw7EsWh2Us-jorjani-future-culture-self-contact",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABw7EsWh2Us",
+          "timestamp_start": 27,
+          "quote": "Jorjani entertains: what we label NHI contact may be a future state of a specific terrestrial culture reaching back and contacting itself in the past — pulling the timeline toward its own actualizatio"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ABw7EsWh2Us-REFERENCES-claim-ABw7EsWh2Us-jorjani-future-culture-self-contact",
+      "from_node_id": "video-ABw7EsWh2Us",
+      "to_node_id": "claim-ABw7EsWh2Us-jorjani-future-culture-self-contact",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABw7EsWh2Us",
+          "timestamp_start": 27
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-ABw7EsWh2Us-jorjani-future-culture-self-contact-REFERENCES-concept-time-travel-hypothesis",
+      "from_node_id": "claim-ABw7EsWh2Us-jorjani-future-culture-self-contact",
+      "to_node_id": "concept-time-travel-hypothesis",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABw7EsWh2Us",
+          "timestamp_start": 27
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jason-jorjani-ASSERTED-claim-ABw7EsWh2Us-jorjani-decline-of-philosophy",
+      "from_node_id": "person-jason-jorjani",
+      "to_node_id": "claim-ABw7EsWh2Us-jorjani-decline-of-philosophy",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABw7EsWh2Us",
+          "timestamp_start": 37,
+          "quote": "Jorjani argues civilizational decline in philosophy — reduced to academic scholasticism — prevents serious engagement with close-encounter data and parapsychology; invokes William James and Henri Berg"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ABw7EsWh2Us-REFERENCES-claim-ABw7EsWh2Us-jorjani-decline-of-philosophy",
+      "from_node_id": "video-ABw7EsWh2Us",
+      "to_node_id": "claim-ABw7EsWh2Us-jorjani-decline-of-philosophy",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABw7EsWh2Us",
+          "timestamp_start": 37
+        }
+      ]
     }
   ],
-  "extracted_at": "2026-04-17T11:04:42.002774+00:00",
+  "extracted_at": "2026-04-17T13:13:43.914940+00:00",
   "extractor_version": "v1-inline-claude"
 }

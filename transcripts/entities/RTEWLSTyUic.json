@@ -1418,6 +1418,441 @@
           "video-RTEWLSTyUic"
         ]
       }
+    },
+    {
+      "id": "person-jan-lundquist",
+      "node_type": "person",
+      "label": "Jan Lundquist",
+      "summary": "Leading Townsend Brown scholar and research prodigy cited as a world expert on Brown's work.",
+      "tags": [
+        "researcher",
+        "biographer"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.737325+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 228,
+          "quote": "Lead researcher and biographer of T. Townsend Brown"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Lundquist",
+          "Jan Lanquist"
+        ],
+        "profession": "researcher",
+        "notability_tags": [
+          "researcher",
+          "biographer"
+        ]
+      }
+    },
+    {
+      "id": "person-paul-laviolette",
+      "node_type": "person",
+      "label": "Paul LaViolette",
+      "summary": "Author and theoretical physicist who documented Townsend Brown's work and proposed alternative cosmological frameworks.",
+      "tags": [
+        "researcher",
+        "author"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.737327+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 258,
+          "quote": "Renegade physics author on Brown's work and antigravity"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "LaViolette"
+        ],
+        "profession": "physicist / author",
+        "notability_tags": [
+          "researcher",
+          "author"
+        ]
+      }
+    },
+    {
+      "id": "person-jacques-cornillon",
+      "node_type": "person",
+      "label": "Jacques Cornillon",
+      "summary": "French-Canadian aerospace engineer; Brown's technical representative who facilitated a vacuum experiment in Paris witnessed by multiple parties, including the French atomic energy commission.",
+      "tags": [
+        "engineer",
+        "witness"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.737329+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 244,
+          "quote": "French aerospace engineer who witnessed Brown's vacuum experiment"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Cornillon",
+          "Jacques Cornion"
+        ],
+        "profession": "engineer",
+        "notability_tags": [
+          "engineer",
+          "witness"
+        ]
+      }
+    },
+    {
+      "id": "person-agnew-bahnson",
+      "node_type": "person",
+      "label": "Agnew Bahnson",
+      "summary": "Southern US industrialist (tobacco and air-conditioning fortune) who funded mid-century antigravity research and founded the Institute of Field Physics at UNC Chapel Hill.",
+      "tags": [
+        "patron",
+        "antigravity"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.737335+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 248,
+          "quote": "Southern industrialist who founded the Institute of Field Physics"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Bahnson"
+        ],
+        "profession": "industrialist",
+        "notability_tags": [
+          "patron",
+          "antigravity"
+        ]
+      }
+    },
+    {
+      "id": "person-nick-cook",
+      "node_type": "person",
+      "label": "Nick Cook",
+      "summary": "Famed aviation journalist and author of 'The Hunt for Zero Point' documenting aerospace companies' suppressed antigravity research.",
+      "tags": [
+        "journalist",
+        "author"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.737337+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 228,
+          "quote": "Aviation journalist and author on anti-gravity aerospace history"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Cook"
+        ],
+        "profession": "journalist",
+        "notability_tags": [
+          "journalist",
+          "author"
+        ]
+      }
+    },
+    {
+      "id": "person-herman-bondi",
+      "node_type": "person",
+      "label": "Herman Bondi",
+      "summary": "Austrian-British mathematician and cosmologist who worked on negative-mass solutions that anticipate Brown's observed phenomena.",
+      "tags": [
+        "physicist",
+        "mathematician"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.737339+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 255,
+          "quote": "Mathematician who conceived negative mass"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Bondi"
+        ],
+        "profession": "mathematician",
+        "notability_tags": [
+          "physicist",
+          "mathematician"
+        ]
+      }
+    },
+    {
+      "id": "claim-RTEWLSTyUic-brown-germany-1945-retrieval",
+      "node_type": "claim",
+      "label": "Townsend Brown is said to have been sent into Nazi Germany in 1945 to retrieve exotic wunderwaffe re",
+      "summary": "Townsend Brown is said to have been sent into Nazi Germany in 1945 to retrieve exotic wunderwaffe research, and thereafter closely worked with Robert Sarbacher and Edward Teller.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.749513+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 221,
+          "quote": "Brown is at Martin Corporation goes into Nazi Germany in 1945 to retrieve exotic. Close confidant and colleague of Robert Sarbacher."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Townsend Brown is said to have been sent into Nazi Germany in 1945 to retrieve exotic wunderwaffe research, and thereafter closely worked with Robert Sarbacher and Edward Teller.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "RTEWLSTyUic",
+        "timestamp_start_seconds": 221,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-townsend-brown",
+          "person-sarbacher",
+          "person-edward-teller",
+          "program-operation-paperclip"
+        ]
+      }
+    },
+    {
+      "id": "claim-RTEWLSTyUic-sarbacher-deathbed-admission",
+      "node_type": "claim",
+      "label": "Robert Sarbacher, physicist, admitted near the end of his life that statements surrounding UFO crash",
+      "summary": "Robert Sarbacher, physicist, admitted near the end of his life that statements surrounding UFO crashes are 'substantially correct.'",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.749529+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 221,
+          "quote": "Robert Sarbacher, physicist, who towards the end of his life admitted surrounding UFO crashes are substantially correct."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Robert Sarbacher, physicist, admitted near the end of his life that statements surrounding UFO crashes are 'substantially correct.'",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "RTEWLSTyUic",
+        "timestamp_start_seconds": 221,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-sarbacher",
+          "concept-crash-retrieval"
+        ]
+      }
+    },
+    {
+      "id": "claim-RTEWLSTyUic-biefield-brown-vacuum-experiment",
+      "node_type": "claim",
+      "label": "Jacques Cornillon's Paris vacuum experiment (reportedly ~10⁻⁶ torr) with Brown's asymmetric capacito",
+      "summary": "Jacques Cornillon's Paris vacuum experiment (reportedly ~10⁻⁶ torr) with Brown's asymmetric capacitors showed thrust that residual-ion-wind cannot explain — countering ionic-wind explanations of Biefield-Brown.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.749538+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 241,
+          "quote": "Evidence that the Biefield-Brown effect does in a vacuum of at least 10⁻⁶ torr — the residual ambient ionization can't account for that."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Jacques Cornillon's Paris vacuum experiment (reportedly ~10⁻⁶ torr) with Brown's asymmetric capacitors showed thrust that residual-ion-wind cannot explain — countering ionic-wind explanations of Biefield-Brown.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "RTEWLSTyUic",
+        "timestamp_start_seconds": 241,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-jacques-cornillon",
+          "concept-biefield-brown-effect"
+        ]
+      }
+    },
+    {
+      "id": "claim-RTEWLSTyUic-cook-hunt-for-zero-point",
+      "node_type": "claim",
+      "label": "Aviation journalist Nick Cook, author of 'The Hunt for Zero Point,' documented suppressed antigravit",
+      "summary": "Aviation journalist Nick Cook, author of 'The Hunt for Zero Point,' documented suppressed antigravity research inside aerospace companies, speaking to physicists who cannot reveal their identity for fear of reprisal.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.749547+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 230,
+          "quote": "Nick Cook famed aviation journalist speaking to physicists, titans of aerospace, even holds a deep understanding of the fundamental knowledge. Cannot reveal his identity for fear of reprisals."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Aviation journalist Nick Cook, author of 'The Hunt for Zero Point,' documented suppressed antigravity research inside aerospace companies, speaking to physicists who cannot reveal their identity for fear of reprisal.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "RTEWLSTyUic",
+        "timestamp_start_seconds": 230,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-nick-cook",
+          "concept-antigravity"
+        ]
+      }
+    },
+    {
+      "id": "claim-RTEWLSTyUic-bondi-negative-mass-solution",
+      "node_type": "claim",
+      "label": "Herman Bondi's 1957 negative-mass paper produces a solution where a negative-mass object moves towar",
+      "summary": "Herman Bondi's 1957 negative-mass paper produces a solution where a negative-mass object moves toward a positive-mass object with unbounded acceleration — eerily matching Brown's asymmetric-capacitor observations.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.749556+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 255,
+          "quote": "If you have two masses in general they would accelerate. What if somehow you had a different kind of negative and positive charges oddly the negative and positive mass. You get this weird solution where the negative moves toward the positive like unbounded acceleration."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Herman Bondi's 1957 negative-mass paper produces a solution where a negative-mass object moves toward a positive-mass object with unbounded acceleration — eerily matching Brown's asymmetric-capacitor observations.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "RTEWLSTyUic",
+        "timestamp_start_seconds": 255,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-herman-bondi",
+          "concept-biefield-brown-effect"
+        ]
+      }
+    },
+    {
+      "id": "claim-RTEWLSTyUic-bahnson-institute-field-physics",
+      "node_type": "claim",
+      "label": "Agnew Bahnson funded mid-century antigravity research and founded the Institute of Field Physics at ",
+      "summary": "Agnew Bahnson funded mid-century antigravity research and founded the Institute of Field Physics at UNC Chapel Hill; the 1957 Chapel Hill conference is credited with establishing quantum gravity as a field while simultaneously burying productive antigravity directions.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.749564+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 248,
+          "quote": "The Chapel Hill conference ends quantum gravity which is a confluence. An academic framework that has basically led to no progress."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Agnew Bahnson funded mid-century antigravity research and founded the Institute of Field Physics at UNC Chapel Hill; the 1957 Chapel Hill conference is credited with establishing quantum gravity as a field while simultaneously burying productive antigravity directions.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "RTEWLSTyUic",
+        "timestamp_start_seconds": 248,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-agnew-bahnson",
+          "event-1957-chapel-hill-conference",
+          "concept-antigravity"
+        ]
+      }
+    },
+    {
+      "id": "claim-RTEWLSTyUic-brown-wright-airfield-sponsorship",
+      "node_type": "claim",
+      "label": "Townsend Brown's experimental work was sponsored by Wright Airfield — placing it at the epicenter of",
+      "summary": "Townsend Brown's experimental work was sponsored by Wright Airfield — placing it at the epicenter of alleged US UAP-research sites.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.749574+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 251,
+          "quote": "Sponsored by Wright Airfield. Wright Patterson is perhaps the epicenter of all UFO."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Townsend Brown's experimental work was sponsored by Wright Airfield — placing it at the epicenter of alleged US UAP-research sites.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "RTEWLSTyUic",
+        "timestamp_start_seconds": 251,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-townsend-brown",
+          "location-wright-patterson-afb"
+        ]
+      }
     }
   ],
   "edges": [
@@ -2190,8 +2625,449 @@
           "timestamp_start": 0
         }
       ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-RTEWLSTyUic-brown-germany-1945-retrieval",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-RTEWLSTyUic-brown-germany-1945-retrieval",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 221,
+          "quote": "Townsend Brown is said to have been sent into Nazi Germany in 1945 to retrieve exotic wunderwaffe research, and thereafter closely worked with Robert Sarbacher and Edward Teller."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-RTEWLSTyUic-REFERENCES-claim-RTEWLSTyUic-brown-germany-1945-retrieval",
+      "from_node_id": "video-RTEWLSTyUic",
+      "to_node_id": "claim-RTEWLSTyUic-brown-germany-1945-retrieval",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 221
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-RTEWLSTyUic-brown-germany-1945-retrieval-REFERENCES-person-townsend-brown",
+      "from_node_id": "claim-RTEWLSTyUic-brown-germany-1945-retrieval",
+      "to_node_id": "person-townsend-brown",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 221
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-RTEWLSTyUic-brown-germany-1945-retrieval-REFERENCES-person-sarbacher",
+      "from_node_id": "claim-RTEWLSTyUic-brown-germany-1945-retrieval",
+      "to_node_id": "person-sarbacher",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 221
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-RTEWLSTyUic-brown-germany-1945-retrieval-REFERENCES-person-edward-teller",
+      "from_node_id": "claim-RTEWLSTyUic-brown-germany-1945-retrieval",
+      "to_node_id": "person-edward-teller",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 221
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-RTEWLSTyUic-brown-germany-1945-retrieval-REFERENCES-program-operation-paperclip",
+      "from_node_id": "claim-RTEWLSTyUic-brown-germany-1945-retrieval",
+      "to_node_id": "program-operation-paperclip",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 221
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-RTEWLSTyUic-sarbacher-deathbed-admission",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-RTEWLSTyUic-sarbacher-deathbed-admission",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 221,
+          "quote": "Robert Sarbacher, physicist, admitted near the end of his life that statements surrounding UFO crashes are 'substantially correct.'"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-RTEWLSTyUic-REFERENCES-claim-RTEWLSTyUic-sarbacher-deathbed-admission",
+      "from_node_id": "video-RTEWLSTyUic",
+      "to_node_id": "claim-RTEWLSTyUic-sarbacher-deathbed-admission",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 221
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-RTEWLSTyUic-sarbacher-deathbed-admission-REFERENCES-person-sarbacher",
+      "from_node_id": "claim-RTEWLSTyUic-sarbacher-deathbed-admission",
+      "to_node_id": "person-sarbacher",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 221
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-RTEWLSTyUic-sarbacher-deathbed-admission-REFERENCES-concept-crash-retrieval",
+      "from_node_id": "claim-RTEWLSTyUic-sarbacher-deathbed-admission",
+      "to_node_id": "concept-crash-retrieval",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 221
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-RTEWLSTyUic-biefield-brown-vacuum-experiment",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-RTEWLSTyUic-biefield-brown-vacuum-experiment",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 241,
+          "quote": "Jacques Cornillon's Paris vacuum experiment (reportedly ~10⁻⁶ torr) with Brown's asymmetric capacitors showed thrust that residual-ion-wind cannot explain — countering ionic-wind explanations of Biefi"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-RTEWLSTyUic-REFERENCES-claim-RTEWLSTyUic-biefield-brown-vacuum-experiment",
+      "from_node_id": "video-RTEWLSTyUic",
+      "to_node_id": "claim-RTEWLSTyUic-biefield-brown-vacuum-experiment",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 241
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-RTEWLSTyUic-biefield-brown-vacuum-experiment-REFERENCES-person-jacques-cornillon",
+      "from_node_id": "claim-RTEWLSTyUic-biefield-brown-vacuum-experiment",
+      "to_node_id": "person-jacques-cornillon",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 241
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-RTEWLSTyUic-biefield-brown-vacuum-experiment-REFERENCES-concept-biefield-brown-effect",
+      "from_node_id": "claim-RTEWLSTyUic-biefield-brown-vacuum-experiment",
+      "to_node_id": "concept-biefield-brown-effect",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 241
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-RTEWLSTyUic-cook-hunt-for-zero-point",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-RTEWLSTyUic-cook-hunt-for-zero-point",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 230,
+          "quote": "Aviation journalist Nick Cook, author of 'The Hunt for Zero Point,' documented suppressed antigravity research inside aerospace companies, speaking to physicists who cannot reveal their identity for f"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-RTEWLSTyUic-REFERENCES-claim-RTEWLSTyUic-cook-hunt-for-zero-point",
+      "from_node_id": "video-RTEWLSTyUic",
+      "to_node_id": "claim-RTEWLSTyUic-cook-hunt-for-zero-point",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 230
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-RTEWLSTyUic-cook-hunt-for-zero-point-REFERENCES-person-nick-cook",
+      "from_node_id": "claim-RTEWLSTyUic-cook-hunt-for-zero-point",
+      "to_node_id": "person-nick-cook",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 230
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-RTEWLSTyUic-cook-hunt-for-zero-point-REFERENCES-concept-antigravity",
+      "from_node_id": "claim-RTEWLSTyUic-cook-hunt-for-zero-point",
+      "to_node_id": "concept-antigravity",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 230
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-RTEWLSTyUic-bondi-negative-mass-solution",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-RTEWLSTyUic-bondi-negative-mass-solution",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 255,
+          "quote": "Herman Bondi's 1957 negative-mass paper produces a solution where a negative-mass object moves toward a positive-mass object with unbounded acceleration — eerily matching Brown's asymmetric-capacitor "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-RTEWLSTyUic-REFERENCES-claim-RTEWLSTyUic-bondi-negative-mass-solution",
+      "from_node_id": "video-RTEWLSTyUic",
+      "to_node_id": "claim-RTEWLSTyUic-bondi-negative-mass-solution",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 255
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-RTEWLSTyUic-bondi-negative-mass-solution-REFERENCES-person-herman-bondi",
+      "from_node_id": "claim-RTEWLSTyUic-bondi-negative-mass-solution",
+      "to_node_id": "person-herman-bondi",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 255
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-RTEWLSTyUic-bondi-negative-mass-solution-REFERENCES-concept-biefield-brown-effect",
+      "from_node_id": "claim-RTEWLSTyUic-bondi-negative-mass-solution",
+      "to_node_id": "concept-biefield-brown-effect",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 255
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-RTEWLSTyUic-bahnson-institute-field-physics",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-RTEWLSTyUic-bahnson-institute-field-physics",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 248,
+          "quote": "Agnew Bahnson funded mid-century antigravity research and founded the Institute of Field Physics at UNC Chapel Hill; the 1957 Chapel Hill conference is credited with establishing quantum gravity as a "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-RTEWLSTyUic-REFERENCES-claim-RTEWLSTyUic-bahnson-institute-field-physics",
+      "from_node_id": "video-RTEWLSTyUic",
+      "to_node_id": "claim-RTEWLSTyUic-bahnson-institute-field-physics",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 248
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-RTEWLSTyUic-bahnson-institute-field-physics-REFERENCES-person-agnew-bahnson",
+      "from_node_id": "claim-RTEWLSTyUic-bahnson-institute-field-physics",
+      "to_node_id": "person-agnew-bahnson",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 248
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-RTEWLSTyUic-bahnson-institute-field-physics-REFERENCES-event-1957-chapel-hill-conference",
+      "from_node_id": "claim-RTEWLSTyUic-bahnson-institute-field-physics",
+      "to_node_id": "event-1957-chapel-hill-conference",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 248
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-RTEWLSTyUic-bahnson-institute-field-physics-REFERENCES-concept-antigravity",
+      "from_node_id": "claim-RTEWLSTyUic-bahnson-institute-field-physics",
+      "to_node_id": "concept-antigravity",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 248
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-RTEWLSTyUic-brown-wright-airfield-sponsorship",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-RTEWLSTyUic-brown-wright-airfield-sponsorship",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 251,
+          "quote": "Townsend Brown's experimental work was sponsored by Wright Airfield — placing it at the epicenter of alleged US UAP-research sites."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-RTEWLSTyUic-REFERENCES-claim-RTEWLSTyUic-brown-wright-airfield-sponsorship",
+      "from_node_id": "video-RTEWLSTyUic",
+      "to_node_id": "claim-RTEWLSTyUic-brown-wright-airfield-sponsorship",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 251
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-RTEWLSTyUic-brown-wright-airfield-sponsorship-REFERENCES-person-townsend-brown",
+      "from_node_id": "claim-RTEWLSTyUic-brown-wright-airfield-sponsorship",
+      "to_node_id": "person-townsend-brown",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 251
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-RTEWLSTyUic-brown-wright-airfield-sponsorship-REFERENCES-location-wright-patterson-afb",
+      "from_node_id": "claim-RTEWLSTyUic-brown-wright-airfield-sponsorship",
+      "to_node_id": "location-wright-patterson-afb",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RTEWLSTyUic",
+          "timestamp_start": 251
+        }
+      ]
     }
   ],
-  "extracted_at": "2026-04-17T11:04:12.622812+00:00",
+  "extracted_at": "2026-04-17T12:13:23.749582+00:00",
   "extractor_version": "v1-inline-claude"
 }

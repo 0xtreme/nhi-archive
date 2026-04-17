@@ -2267,6 +2267,351 @@
           "video-nTiFs8LudUo"
         ]
       }
+    },
+    {
+      "id": "person-sammy-gerb-extended",
+      "node_type": "person",
+      "label": "Sammy 'UAPGerb' Gerb (Utah episode)",
+      "summary": "UAPGerb channel operator; in this episode deep-dives JSOC Tier One teams (Delta, SEAL Team 6, ISA, 24th STS) and DOE-NEST crash-retrieval team structure.",
+      "tags": [
+        "researcher"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:07:01.191301+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 479,
+          "quote": "UAPGerb re-extension; this episode deep on Jake Barber, Skywatcher, NEST teams"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "UAPGerb",
+          "Gerb"
+        ],
+        "profession": "researcher",
+        "notability_tags": [
+          "researcher"
+        ]
+      }
+    },
+    {
+      "id": "program-nest-nuclear-emergency-search-team",
+      "node_type": "program",
+      "label": "Nuclear Emergency Search Team (NEST)",
+      "summary": "Department of Energy Nuclear Emergency Search Team (NEST) — elite operators responding to nuclear-technology/secret events. Per Gerb, NEST teams work crash retrievals containing hazardous biological or radiological material and have EG&G contractor support.",
+      "tags": [
+        "program"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:07:01.191303+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 513,
+          "timestamp_end": "DOE specialized team containing biologics spillage at crash sites"
+        }
+      ],
+      "type_specific": {
+        "acronym": "NEST"
+      }
+    },
+    {
+      "id": "person-eggg-contractor",
+      "node_type": "person",
+      "label": "EG&G (Contractor)",
+      "summary": "Private defense contractor supporting US Nuclear Emergency Search Teams and UAP-adjacent programs (Wilson-Davis memo, Bob Lazar, Edgar Fouche).",
+      "tags": [
+        "contractor",
+        "historical"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:07:01.191305+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 517,
+          "quote": "Private contractor supporting NEST teams and UAP programs"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "EG&G",
+          "Edgerton Germeshausen Grier"
+        ],
+        "profession": "contractor",
+        "notability_tags": [
+          "contractor",
+          "historical"
+        ]
+      }
+    },
+    {
+      "id": "incident-1974-coyame-mexico-crash",
+      "node_type": "incident",
+      "label": "1974 Coyame Mexico UFO Crash",
+      "summary": "Alleged August 1974 UFO crash near Coyame Chihuahua Mexico; per Gerb and the 'Majestic' documents, toxic elements seeped from the crash site — explaining NEST-style hazmat response protocol.",
+      "tags": [
+        "crash_retrieval"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:07:01.191307+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 515,
+          "timestamp_end": "Alleged UFO crash in Coyame Mexico with toxic biological seepage"
+        }
+      ],
+      "type_specific": {
+        "incident_type": "crash_retrieval",
+        "date_approximate": "1974-08-25"
+      }
+    },
+    {
+      "id": "program-sdi-star-wars",
+      "node_type": "program",
+      "label": "Strategic Defense Initiative (SDI) / Star Wars",
+      "summary": "Ronald Reagan's 1983 Strategic Defense Initiative — anti-Soviet-ICBM program. Per Gerb, 'Star Wars' likely had a back door to fund UAP programs and act offensively against UAPs.",
+      "tags": [
+        "program"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:07:01.191309+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 476,
+          "timestamp_end": "Reagan 1983 anti-ICBM program possibly back-door to UAP programs"
+        }
+      ],
+      "type_specific": {
+        "acronym": "SDI"
+      }
+    },
+    {
+      "id": "claim-nTiFs8LudUo-gerb-jsoc-tier-one-crash-retrieval",
+      "node_type": "claim",
+      "label": "Per Gerb: the crash-retrieval team Barber and Herrera encountered is deep-black former JSOC Tier One",
+      "summary": "Per Gerb: the crash-retrieval team Barber and Herrera encountered is deep-black former JSOC Tier One — former Delta, SEAL Team 6, ISA (Gray Fox), and 24th STS operators willing to use force against civilians.",
+      "tags": [
+        "speculation",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:07:01.215627+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 519,
+          "quote": "This is likely a deep black former JSOC Joint Special Operations Command, Tier One Operators, former Delta, SEAL Team 6, Intelligence Support Activity, 24th STS. These guys are bad eggs who are okay with hurting people."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Per Gerb: the crash-retrieval team Barber and Herrera encountered is deep-black former JSOC Tier One — former Delta, SEAL Team 6, ISA (Gray Fox), and 24th STS operators willing to use force against civilians.",
+        "asserted_by_id": "person-sammy-gerb-extended",
+        "source_video_id": "nTiFs8LudUo",
+        "timestamp_start_seconds": 519,
+        "assertability": "speculation",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-sammy-gerb-extended",
+          "program-gray-fox-isa",
+          "person-jake-barber",
+          "person-michael-herrera",
+          "concept-crash-retrieval"
+        ]
+      }
+    },
+    {
+      "id": "claim-nTiFs8LudUo-gerb-sdi-star-wars-uap-backdoor",
+      "node_type": "claim",
+      "label": "Gerb posits Reagan's 1983 SDI ('Star Wars') likely had a back door to fund UAP programs and act offe",
+      "summary": "Gerb posits Reagan's 1983 SDI ('Star Wars') likely had a back door to fund UAP programs and act offensively against UAP — not just against Soviet ICBMs.",
+      "tags": [
+        "speculation",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:07:01.215649+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 477,
+          "quote": "There's also stories about the 1983 strategic defense initiative instituted by Ronald Reagan, which was to act against Soviet ICBMs. Star Wars. This likely had a back door to fund UAP programs and act offensively against UAP."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Gerb posits Reagan's 1983 SDI ('Star Wars') likely had a back door to fund UAP programs and act offensively against UAP — not just against Soviet ICBMs.",
+        "asserted_by_id": "person-sammy-gerb-extended",
+        "source_video_id": "nTiFs8LudUo",
+        "timestamp_start_seconds": 477,
+        "assertability": "speculation",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-sammy-gerb-extended",
+          "program-sdi-star-wars"
+        ]
+      }
+    },
+    {
+      "id": "claim-nTiFs8LudUo-gerb-army-icbm-brainwave",
+      "node_type": "claim",
+      "label": "Gerb notes the golden age of Army R&D investigated using human brain waves to guide ICBM missiles vi",
+      "summary": "Gerb notes the golden age of Army R&D investigated using human brain waves to guide ICBM missiles via recovered NHI technology — mind-machine interface applied to strategic weapons.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:07:01.215704+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 475,
+          "quote": "The foreign technology division was trying to use recovered technology to use human brain waves to guide ICBM missiles. And wow, it is not only possible, it is essential."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Gerb notes the golden age of Army R&D investigated using human brain waves to guide ICBM missiles via recovered NHI technology — mind-machine interface applied to strategic weapons.",
+        "asserted_by_id": "person-sammy-gerb-extended",
+        "source_video_id": "nTiFs8LudUo",
+        "timestamp_start_seconds": 475,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-sammy-gerb-extended",
+          "concept-reverse-engineering"
+        ]
+      }
+    },
+    {
+      "id": "claim-nTiFs8LudUo-gerb-nest-doe-hazmat-team",
+      "node_type": "claim",
+      "label": "The crash-retrieval team Wagant encountered (DOE rain jackets, hazmat suits) matches DOE's NEST (Nuc",
+      "summary": "The crash-retrieval team Wagant encountered (DOE rain jackets, hazmat suits) matches DOE's NEST (Nuclear Emergency Search Team) profile — which handles nuclear-and-NHI-hazard containment.",
+      "tags": [
+        "speculation",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:07:01.215715+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 513,
+          "quote": "Some of them wore DOE lettered rain jackets and there were other military operators in black fatigues. This must have been a specialized crash retrieval team to contain biologics spillage. I think this is likely a DOE NEST team, nuclear emergency search teams."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "The crash-retrieval team Wagant encountered (DOE rain jackets, hazmat suits) matches DOE's NEST (Nuclear Emergency Search Team) profile — which handles nuclear-and-NHI-hazard containment.",
+        "asserted_by_id": "person-sammy-gerb-extended",
+        "source_video_id": "nTiFs8LudUo",
+        "timestamp_start_seconds": 513,
+        "assertability": "speculation",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-sammy-gerb-extended",
+          "person-jonathan-wagant",
+          "program-nest-nuclear-emergency-search-team"
+        ]
+      }
+    },
+    {
+      "id": "claim-nTiFs8LudUo-gerb-herrera-psionic-asset-trafficking",
+      "node_type": "claim",
+      "label": "Herrera's core hypothesis: UFO legacy programs engage in 'psionic asset trafficking' — kidnapping ci",
+      "summary": "Herrera's core hypothesis: UFO legacy programs engage in 'psionic asset trafficking' — kidnapping citizens of third-world countries (Indonesia in his 2009 case) and transporting them to US to summon NHI craft.",
+      "tags": [
+        "hearsay",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:07:01.215725+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 503,
+          "quote": "He thinks that this whole thing is part of some sort of psionic asset trafficking scheme where UFO legacy programs are actually taking people in third world countries like Indonesia back to the US in order to summon craft."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Herrera's core hypothesis: UFO legacy programs engage in 'psionic asset trafficking' — kidnapping citizens of third-world countries (Indonesia in his 2009 case) and transporting them to US to summon NHI craft.",
+        "asserted_by_id": "person-sammy-gerb-extended",
+        "source_video_id": "nTiFs8LudUo",
+        "timestamp_start_seconds": 503,
+        "assertability": "hearsay",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-sammy-gerb-extended",
+          "person-michael-herrera"
+        ]
+      }
+    },
+    {
+      "id": "claim-nTiFs8LudUo-gerb-herrera-2009-vantablack-octagon",
+      "node_type": "claim",
+      "label": "Michael Herrera 2009 Indonesia: saw 'vantablack octagon' craft hovering above treetops; his unit int",
+      "summary": "Michael Herrera 2009 Indonesia: saw 'vantablack octagon' craft hovering above treetops; his unit intercepted by elite paramilitary team carrying advanced M4 rifles with bioscanners (foreshadowing iPhone-like technology at that time).",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:07:01.215736+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 501,
+          "quote": "Michael Herrera is this case in Indonesia with this marine unit and they see this vantablack octagon shape craft hovering above the treetops. These men back in 2009 had really advanced M4 rifles with beautiful rangefinders and bioscanners. Like a modern cell phone to scan their identification."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Michael Herrera 2009 Indonesia: saw 'vantablack octagon' craft hovering above treetops; his unit intercepted by elite paramilitary team carrying advanced M4 rifles with bioscanners (foreshadowing iPhone-like technology at that time).",
+        "asserted_by_id": "person-sammy-gerb-extended",
+        "source_video_id": "nTiFs8LudUo",
+        "timestamp_start_seconds": 501,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-sammy-gerb-extended",
+          "person-michael-herrera"
+        ]
+      }
     }
   ],
   "edges": [
@@ -3456,8 +3801,322 @@
           "timestamp_start": 0
         }
       ]
+    },
+    {
+      "id": "edge-person-sammy-gerb-extended-ASSERTED-claim-nTiFs8LudUo-gerb-jsoc-tier-one-crash-retrieval",
+      "from_node_id": "person-sammy-gerb-extended",
+      "to_node_id": "claim-nTiFs8LudUo-gerb-jsoc-tier-one-crash-retrieval",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 519,
+          "quote": "Per Gerb: the crash-retrieval team Barber and Herrera encountered is deep-black former JSOC Tier One — former Delta, SEAL Team 6, ISA (Gray Fox), and 24th STS operators willing to use force against ci"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-nTiFs8LudUo-REFERENCES-claim-nTiFs8LudUo-gerb-jsoc-tier-one-crash-retrieval",
+      "from_node_id": "video-nTiFs8LudUo",
+      "to_node_id": "claim-nTiFs8LudUo-gerb-jsoc-tier-one-crash-retrieval",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 519
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-nTiFs8LudUo-gerb-jsoc-tier-one-crash-retrieval-REFERENCES-program-gray-fox-isa",
+      "from_node_id": "claim-nTiFs8LudUo-gerb-jsoc-tier-one-crash-retrieval",
+      "to_node_id": "program-gray-fox-isa",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 519
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-nTiFs8LudUo-gerb-jsoc-tier-one-crash-retrieval-REFERENCES-person-jake-barber",
+      "from_node_id": "claim-nTiFs8LudUo-gerb-jsoc-tier-one-crash-retrieval",
+      "to_node_id": "person-jake-barber",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 519
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-nTiFs8LudUo-gerb-jsoc-tier-one-crash-retrieval-REFERENCES-person-michael-herrera",
+      "from_node_id": "claim-nTiFs8LudUo-gerb-jsoc-tier-one-crash-retrieval",
+      "to_node_id": "person-michael-herrera",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 519
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-nTiFs8LudUo-gerb-jsoc-tier-one-crash-retrieval-REFERENCES-concept-crash-retrieval",
+      "from_node_id": "claim-nTiFs8LudUo-gerb-jsoc-tier-one-crash-retrieval",
+      "to_node_id": "concept-crash-retrieval",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 519
+        }
+      ]
+    },
+    {
+      "id": "edge-person-sammy-gerb-extended-ASSERTED-claim-nTiFs8LudUo-gerb-sdi-star-wars-uap-backdoor",
+      "from_node_id": "person-sammy-gerb-extended",
+      "to_node_id": "claim-nTiFs8LudUo-gerb-sdi-star-wars-uap-backdoor",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 477,
+          "quote": "Gerb posits Reagan's 1983 SDI ('Star Wars') likely had a back door to fund UAP programs and act offensively against UAP — not just against Soviet ICBMs."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-nTiFs8LudUo-REFERENCES-claim-nTiFs8LudUo-gerb-sdi-star-wars-uap-backdoor",
+      "from_node_id": "video-nTiFs8LudUo",
+      "to_node_id": "claim-nTiFs8LudUo-gerb-sdi-star-wars-uap-backdoor",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 477
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-nTiFs8LudUo-gerb-sdi-star-wars-uap-backdoor-REFERENCES-program-sdi-star-wars",
+      "from_node_id": "claim-nTiFs8LudUo-gerb-sdi-star-wars-uap-backdoor",
+      "to_node_id": "program-sdi-star-wars",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 477
+        }
+      ]
+    },
+    {
+      "id": "edge-person-sammy-gerb-extended-ASSERTED-claim-nTiFs8LudUo-gerb-army-icbm-brainwave",
+      "from_node_id": "person-sammy-gerb-extended",
+      "to_node_id": "claim-nTiFs8LudUo-gerb-army-icbm-brainwave",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 475,
+          "quote": "Gerb notes the golden age of Army R&D investigated using human brain waves to guide ICBM missiles via recovered NHI technology — mind-machine interface applied to strategic weapons."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-nTiFs8LudUo-REFERENCES-claim-nTiFs8LudUo-gerb-army-icbm-brainwave",
+      "from_node_id": "video-nTiFs8LudUo",
+      "to_node_id": "claim-nTiFs8LudUo-gerb-army-icbm-brainwave",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 475
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-nTiFs8LudUo-gerb-army-icbm-brainwave-REFERENCES-concept-reverse-engineering",
+      "from_node_id": "claim-nTiFs8LudUo-gerb-army-icbm-brainwave",
+      "to_node_id": "concept-reverse-engineering",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 475
+        }
+      ]
+    },
+    {
+      "id": "edge-person-sammy-gerb-extended-ASSERTED-claim-nTiFs8LudUo-gerb-nest-doe-hazmat-team",
+      "from_node_id": "person-sammy-gerb-extended",
+      "to_node_id": "claim-nTiFs8LudUo-gerb-nest-doe-hazmat-team",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 513,
+          "quote": "The crash-retrieval team Wagant encountered (DOE rain jackets, hazmat suits) matches DOE's NEST (Nuclear Emergency Search Team) profile — which handles nuclear-and-NHI-hazard containment."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-nTiFs8LudUo-REFERENCES-claim-nTiFs8LudUo-gerb-nest-doe-hazmat-team",
+      "from_node_id": "video-nTiFs8LudUo",
+      "to_node_id": "claim-nTiFs8LudUo-gerb-nest-doe-hazmat-team",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 513
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-nTiFs8LudUo-gerb-nest-doe-hazmat-team-REFERENCES-person-jonathan-wagant",
+      "from_node_id": "claim-nTiFs8LudUo-gerb-nest-doe-hazmat-team",
+      "to_node_id": "person-jonathan-wagant",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 513
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-nTiFs8LudUo-gerb-nest-doe-hazmat-team-REFERENCES-program-nest-nuclear-emergency-search-team",
+      "from_node_id": "claim-nTiFs8LudUo-gerb-nest-doe-hazmat-team",
+      "to_node_id": "program-nest-nuclear-emergency-search-team",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 513
+        }
+      ]
+    },
+    {
+      "id": "edge-person-sammy-gerb-extended-ASSERTED-claim-nTiFs8LudUo-gerb-herrera-psionic-asset-trafficking",
+      "from_node_id": "person-sammy-gerb-extended",
+      "to_node_id": "claim-nTiFs8LudUo-gerb-herrera-psionic-asset-trafficking",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 503,
+          "quote": "Herrera's core hypothesis: UFO legacy programs engage in 'psionic asset trafficking' — kidnapping citizens of third-world countries (Indonesia in his 2009 case) and transporting them to US to summon N"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-nTiFs8LudUo-REFERENCES-claim-nTiFs8LudUo-gerb-herrera-psionic-asset-trafficking",
+      "from_node_id": "video-nTiFs8LudUo",
+      "to_node_id": "claim-nTiFs8LudUo-gerb-herrera-psionic-asset-trafficking",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 503
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-nTiFs8LudUo-gerb-herrera-psionic-asset-trafficking-REFERENCES-person-michael-herrera",
+      "from_node_id": "claim-nTiFs8LudUo-gerb-herrera-psionic-asset-trafficking",
+      "to_node_id": "person-michael-herrera",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 503
+        }
+      ]
+    },
+    {
+      "id": "edge-person-sammy-gerb-extended-ASSERTED-claim-nTiFs8LudUo-gerb-herrera-2009-vantablack-octagon",
+      "from_node_id": "person-sammy-gerb-extended",
+      "to_node_id": "claim-nTiFs8LudUo-gerb-herrera-2009-vantablack-octagon",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 501,
+          "quote": "Michael Herrera 2009 Indonesia: saw 'vantablack octagon' craft hovering above treetops; his unit intercepted by elite paramilitary team carrying advanced M4 rifles with bioscanners (foreshadowing iPho"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-nTiFs8LudUo-REFERENCES-claim-nTiFs8LudUo-gerb-herrera-2009-vantablack-octagon",
+      "from_node_id": "video-nTiFs8LudUo",
+      "to_node_id": "claim-nTiFs8LudUo-gerb-herrera-2009-vantablack-octagon",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 501
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-nTiFs8LudUo-gerb-herrera-2009-vantablack-octagon-REFERENCES-person-michael-herrera",
+      "from_node_id": "claim-nTiFs8LudUo-gerb-herrera-2009-vantablack-octagon",
+      "to_node_id": "person-michael-herrera",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 501
+        }
+      ]
     }
   ],
-  "extracted_at": "2026-04-17T11:04:40.885108+00:00",
+  "extracted_at": "2026-04-17T13:07:01.215745+00:00",
   "extractor_version": "v1-inline-claude"
 }

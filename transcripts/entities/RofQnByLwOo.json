@@ -693,6 +693,320 @@
           "video-RofQnByLwOo"
         ]
       }
+    },
+    {
+      "id": "person-dean-koontz",
+      "node_type": "person",
+      "label": "Dean Koontz",
+      "summary": "American fiction author; 1981 novel 'The Eyes of Darkness' featured 'Wuhan 400' bioweapon from a lab near Wuhan China, set in 2020.",
+      "tags": [
+        "author"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.111856+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RofQnByLwOo",
+          "timestamp_start": 383,
+          "quote": "American fiction author; 1981 novel predicted COVID-adjacent Wuhan 400"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Koontz"
+        ],
+        "profession": "author",
+        "notability_tags": [
+          "author"
+        ]
+      }
+    },
+    {
+      "id": "person-morgan-robertson",
+      "node_type": "person",
+      "label": "Morgan Robertson",
+      "summary": "American author; 1898 novella 'Futility or Wreck of the Titan' featured a North-Atlantic ocean liner called 'Titan' — described as unsinkable — hitting an iceberg in April and sinking with insufficient lifeboats. 14 years before Titanic.",
+      "tags": [
+        "author",
+        "historical"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.111858+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RofQnByLwOo",
+          "timestamp_start": 383,
+          "quote": "1898 author of Titanic-precog novella 'Futility'"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Robertson"
+        ],
+        "profession": "author",
+        "notability_tags": [
+          "author",
+          "historical"
+        ]
+      }
+    },
+    {
+      "id": "person-michael-richards-sculptor",
+      "node_type": "person",
+      "label": "Michael Richards",
+      "summary": "African-American sculptor obsessed with flight; his signature self-portrait work 'Tar Baby vs Saint Sebastian' depicted him levitating as an airman being impaled by airplanes. Awarded studio space in the Twin Towers — he alone stayed the night of September 10 2001; killed morning of 9/11.",
+      "tags": [
+        "artist",
+        "historical"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.111860+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RofQnByLwOo",
+          "timestamp_start": 393,
+          "quote": "African-American sculptor; 9/11 death in Twin Towers studio"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Richards"
+        ],
+        "profession": "artist",
+        "notability_tags": [
+          "artist",
+          "historical"
+        ]
+      }
+    },
+    {
+      "id": "document-eyes-of-darkness-koontz",
+      "node_type": "document",
+      "label": "The Eyes of Darkness",
+      "summary": "Dean Koontz's 1981 novel 'The Eyes of Darkness' — centered on secret Wuhan-400 bioweapon experiments at a lab near Wuhan China; set in 2020.",
+      "tags": [
+        "book"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.111861+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RofQnByLwOo",
+          "timestamp_start": 383,
+          "timestamp_end": "Dean Koontz 1981 novel featuring Wuhan 400 bioweapon"
+        }
+      ],
+      "type_specific": {
+        "document_type": "book",
+        "author": "Dean Koontz",
+        "publication_year": 1981
+      }
+    },
+    {
+      "id": "document-futility-wreck-of-titan",
+      "node_type": "document",
+      "label": "Futility, or the Wreck of the Titan",
+      "summary": "Morgan Robertson's 1898 novella featuring Titan (largest unsinkable liner) hitting iceberg in April North Atlantic. 14 years before Titanic. Remarkable detail match: 800ft Titan vs 882ft Titanic, 24-25 knots, insufficient lifeboats.",
+      "tags": [
+        "book"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.111863+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RofQnByLwOo",
+          "timestamp_start": 385,
+          "timestamp_end": "Morgan Robertson 1898 Titanic-precognition novella"
+        }
+      ],
+      "type_specific": {
+        "document_type": "book",
+        "author": "Morgan Robertson",
+        "publication_year": 1898
+      }
+    },
+    {
+      "id": "claim-RofQnByLwOo-koontz-1981-wuhan-400-precog",
+      "node_type": "claim",
+      "label": "Dean Koontz's 1981 novel 'The Eyes of Darkness' featured 'Wuhan 400' bioweapon from a lab near Wuhan",
+      "summary": "Dean Koontz's 1981 novel 'The Eyes of Darkness' featured 'Wuhan 400' bioweapon from a lab near Wuhan China, set in 2020 — decades before COVID-19.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.134381+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RofQnByLwOo",
+          "timestamp_start": 383,
+          "quote": "American fiction author Dean Koontz wrote a novel called The Eyes of Darkness, centered on secret experiments involving the perfect bioweapon developed at a lab near Wuhan China called Wuhan 400. The novel is set in 2020, exactly like COVID. The only thing is the novel was written in 1981."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Dean Koontz's 1981 novel 'The Eyes of Darkness' featured 'Wuhan 400' bioweapon from a lab near Wuhan China, set in 2020 — decades before COVID-19.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "RofQnByLwOo",
+        "timestamp_start_seconds": 383,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-dean-koontz",
+          "document-eyes-of-darkness-koontz"
+        ]
+      }
+    },
+    {
+      "id": "claim-RofQnByLwOo-robertson-titan-1898-titanic-precog",
+      "node_type": "claim",
+      "label": "Morgan Robertson's 1898 novella 'Futility' featured Titan — largest unsinkable North Atlantic ocean ",
+      "summary": "Morgan Robertson's 1898 novella 'Futility' featured Titan — largest unsinkable North Atlantic ocean liner — hitting an iceberg in April, sinking with insufficient lifeboats. 14 years before the Titanic, nearly identical details.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.134399+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RofQnByLwOo",
+          "timestamp_start": 385,
+          "quote": "Wreck of the Titan was written about 14 years before the Titanic. Both ships were almost identical in size and features. Both traveling at high speeds around 24-25 knots crossing the North Atlantic in April at the time of their collision with an iceberg. Both disregarded ice warnings and both lacked sufficient lifeboats."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Morgan Robertson's 1898 novella 'Futility' featured Titan — largest unsinkable North Atlantic ocean liner — hitting an iceberg in April, sinking with insufficient lifeboats. 14 years before the Titanic, nearly identical details.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "RofQnByLwOo",
+        "timestamp_start_seconds": 385,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-morgan-robertson",
+          "document-futility-wreck-of-titan"
+        ]
+      }
+    },
+    {
+      "id": "claim-RofQnByLwOo-michael-richards-9-11-sculpture",
+      "node_type": "claim",
+      "label": "Michael Richards — Black sculptor obsessed with flight — made a signature sculpture of himself as an",
+      "summary": "Michael Richards — Black sculptor obsessed with flight — made a signature sculpture of himself as an airman impaled by airplanes. Awarded studio in the Twin Towers. He alone stayed the night of September 10 2001; killed morning of 9/11.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.134407+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RofQnByLwOo",
+          "timestamp_start": 393,
+          "quote": "Michael Richards, talented prolific African-American sculptor in New York. His sculptures obsessed with flight. His most famous self-portrait sculpture — he portrayed himself as an airman impaled by airplanes. Tar Baby versus St Sebastian. Awarded studio space in the Twin Towers. He alone among those artists had stayed in the studio the night of September 10th and was killed on the morning of September 11th."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Michael Richards — Black sculptor obsessed with flight — made a signature sculpture of himself as an airman impaled by airplanes. Awarded studio in the Twin Towers. He alone stayed the night of September 10 2001; killed morning of 9/11.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "RofQnByLwOo",
+        "timestamp_start_seconds": 393,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-michael-richards-sculptor"
+        ]
+      }
+    },
+    {
+      "id": "claim-RofQnByLwOo-stargate-remote-viewing-funded-until-1995",
+      "node_type": "claim",
+      "label": "Stargate Program (CIA/DIA psychic-spy program) ran 1972 to 1995. Refunded every year because it was ",
+      "summary": "Stargate Program (CIA/DIA psychic-spy program) ran 1972 to 1995. Refunded every year because it was operationally useful. Hundreds of successful remote-viewing cases.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.134413+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RofQnByLwOo",
+          "timestamp_start": 405,
+          "quote": "There was in fact a CIA and DIA backed program called Stargate which ran from 1972 to 1995. The official American psychic spy program. Every year it got refunded because it was useful. Hundreds of successful remote viewing cases."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Stargate Program (CIA/DIA psychic-spy program) ran 1972 to 1995. Refunded every year because it was operationally useful. Hundreds of successful remote-viewing cases.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "RofQnByLwOo",
+        "timestamp_start_seconds": 405,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "program-stargate-project",
+          "person-joe-mcmoneagle"
+        ]
+      }
+    },
+    {
+      "id": "claim-RofQnByLwOo-twain-halleys-comet-predicted-death",
+      "node_type": "claim",
+      "label": "Mark Twain predicted his own death: born November 30 1835 as Halley's Comet passed Earth, said he ex",
+      "summary": "Mark Twain predicted his own death: born November 30 1835 as Halley's Comet passed Earth, said he expected to 'go out with the comet upon its return.' Died 1910, one day after comet's closest approach to Earth.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.134422+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RofQnByLwOo",
+          "timestamp_start": 391,
+          "quote": "Mark Twain — born on November 30th 1835 just as Halley's Comet was passing by Earth. He would often say to people that he expected to go out with the comet upon its return. Just as he predicted he died in 1910 just one day after the comet made its closest approach to Earth."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Mark Twain predicted his own death: born November 30 1835 as Halley's Comet passed Earth, said he expected to 'go out with the comet upon its return.' Died 1910, one day after comet's closest approach to Earth.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "RofQnByLwOo",
+        "timestamp_start_seconds": 391,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-eric-wargo"
+        ]
+      }
     }
   ],
   "edges": [
@@ -1042,8 +1356,265 @@
           "timestamp_start": 0
         }
       ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-RofQnByLwOo-koontz-1981-wuhan-400-precog",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-RofQnByLwOo-koontz-1981-wuhan-400-precog",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RofQnByLwOo",
+          "timestamp_start": 383,
+          "quote": "Dean Koontz's 1981 novel 'The Eyes of Darkness' featured 'Wuhan 400' bioweapon from a lab near Wuhan China, set in 2020 — decades before COVID-19."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-RofQnByLwOo-REFERENCES-claim-RofQnByLwOo-koontz-1981-wuhan-400-precog",
+      "from_node_id": "video-RofQnByLwOo",
+      "to_node_id": "claim-RofQnByLwOo-koontz-1981-wuhan-400-precog",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RofQnByLwOo",
+          "timestamp_start": 383
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-RofQnByLwOo-koontz-1981-wuhan-400-precog-REFERENCES-person-dean-koontz",
+      "from_node_id": "claim-RofQnByLwOo-koontz-1981-wuhan-400-precog",
+      "to_node_id": "person-dean-koontz",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RofQnByLwOo",
+          "timestamp_start": 383
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-RofQnByLwOo-koontz-1981-wuhan-400-precog-REFERENCES-document-eyes-of-darkness-koontz",
+      "from_node_id": "claim-RofQnByLwOo-koontz-1981-wuhan-400-precog",
+      "to_node_id": "document-eyes-of-darkness-koontz",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RofQnByLwOo",
+          "timestamp_start": 383
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-RofQnByLwOo-robertson-titan-1898-titanic-precog",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-RofQnByLwOo-robertson-titan-1898-titanic-precog",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RofQnByLwOo",
+          "timestamp_start": 385,
+          "quote": "Morgan Robertson's 1898 novella 'Futility' featured Titan — largest unsinkable North Atlantic ocean liner — hitting an iceberg in April, sinking with insufficient lifeboats. 14 years before the Titani"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-RofQnByLwOo-REFERENCES-claim-RofQnByLwOo-robertson-titan-1898-titanic-precog",
+      "from_node_id": "video-RofQnByLwOo",
+      "to_node_id": "claim-RofQnByLwOo-robertson-titan-1898-titanic-precog",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RofQnByLwOo",
+          "timestamp_start": 385
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-RofQnByLwOo-robertson-titan-1898-titanic-precog-REFERENCES-person-morgan-robertson",
+      "from_node_id": "claim-RofQnByLwOo-robertson-titan-1898-titanic-precog",
+      "to_node_id": "person-morgan-robertson",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RofQnByLwOo",
+          "timestamp_start": 385
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-RofQnByLwOo-robertson-titan-1898-titanic-precog-REFERENCES-document-futility-wreck-of-titan",
+      "from_node_id": "claim-RofQnByLwOo-robertson-titan-1898-titanic-precog",
+      "to_node_id": "document-futility-wreck-of-titan",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RofQnByLwOo",
+          "timestamp_start": 385
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-RofQnByLwOo-michael-richards-9-11-sculpture",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-RofQnByLwOo-michael-richards-9-11-sculpture",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RofQnByLwOo",
+          "timestamp_start": 393,
+          "quote": "Michael Richards — Black sculptor obsessed with flight — made a signature sculpture of himself as an airman impaled by airplanes. Awarded studio in the Twin Towers. He alone stayed the night of Septem"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-RofQnByLwOo-REFERENCES-claim-RofQnByLwOo-michael-richards-9-11-sculpture",
+      "from_node_id": "video-RofQnByLwOo",
+      "to_node_id": "claim-RofQnByLwOo-michael-richards-9-11-sculpture",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RofQnByLwOo",
+          "timestamp_start": 393
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-RofQnByLwOo-michael-richards-9-11-sculpture-REFERENCES-person-michael-richards-sculptor",
+      "from_node_id": "claim-RofQnByLwOo-michael-richards-9-11-sculpture",
+      "to_node_id": "person-michael-richards-sculptor",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RofQnByLwOo",
+          "timestamp_start": 393
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-RofQnByLwOo-stargate-remote-viewing-funded-until-1995",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-RofQnByLwOo-stargate-remote-viewing-funded-until-1995",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RofQnByLwOo",
+          "timestamp_start": 405,
+          "quote": "Stargate Program (CIA/DIA psychic-spy program) ran 1972 to 1995. Refunded every year because it was operationally useful. Hundreds of successful remote-viewing cases."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-RofQnByLwOo-REFERENCES-claim-RofQnByLwOo-stargate-remote-viewing-funded-until-1995",
+      "from_node_id": "video-RofQnByLwOo",
+      "to_node_id": "claim-RofQnByLwOo-stargate-remote-viewing-funded-until-1995",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RofQnByLwOo",
+          "timestamp_start": 405
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-RofQnByLwOo-stargate-remote-viewing-funded-until-1995-REFERENCES-program-stargate-project",
+      "from_node_id": "claim-RofQnByLwOo-stargate-remote-viewing-funded-until-1995",
+      "to_node_id": "program-stargate-project",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RofQnByLwOo",
+          "timestamp_start": 405
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-RofQnByLwOo-stargate-remote-viewing-funded-until-1995-REFERENCES-person-joe-mcmoneagle",
+      "from_node_id": "claim-RofQnByLwOo-stargate-remote-viewing-funded-until-1995",
+      "to_node_id": "person-joe-mcmoneagle",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RofQnByLwOo",
+          "timestamp_start": 405
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-RofQnByLwOo-twain-halleys-comet-predicted-death",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-RofQnByLwOo-twain-halleys-comet-predicted-death",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RofQnByLwOo",
+          "timestamp_start": 391,
+          "quote": "Mark Twain predicted his own death: born November 30 1835 as Halley's Comet passed Earth, said he expected to 'go out with the comet upon its return.' Died 1910, one day after comet's closest approach"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-RofQnByLwOo-REFERENCES-claim-RofQnByLwOo-twain-halleys-comet-predicted-death",
+      "from_node_id": "video-RofQnByLwOo",
+      "to_node_id": "claim-RofQnByLwOo-twain-halleys-comet-predicted-death",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RofQnByLwOo",
+          "timestamp_start": 391
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-RofQnByLwOo-twain-halleys-comet-predicted-death-REFERENCES-person-eric-wargo",
+      "from_node_id": "claim-RofQnByLwOo-twain-halleys-comet-predicted-death",
+      "to_node_id": "person-eric-wargo",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RofQnByLwOo",
+          "timestamp_start": 391
+        }
+      ]
     }
   ],
-  "extracted_at": "2026-04-17T11:05:06.909194+00:00",
+  "extracted_at": "2026-04-17T23:20:40.134428+00:00",
   "extractor_version": "v1-inline-claude"
 }

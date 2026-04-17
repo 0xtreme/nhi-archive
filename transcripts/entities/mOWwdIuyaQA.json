@@ -1072,6 +1072,200 @@
           "video-mOWwdIuyaQA"
         ]
       }
+    },
+    {
+      "id": "person-charles-buhler",
+      "node_type": "person",
+      "label": "Charles Buhler (NASA antigravity researcher)",
+      "summary": "Former NASA chief scientist (electrostatics/propulsion); spent 20 years investigating 'hidden momentum'. Claims to have built laboratory lifters generating ~200 microns of persistent force — with no Newton's-third-law-consistent explanation. ~2000 experimental variations conducted.",
+      "tags": [
+        "scientist",
+        "NASA",
+        "antigravity"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:07:01.191155+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "mOWwdIuyaQA",
+          "timestamp_start": 59,
+          "quote": "Former NASA electrostatic-force propulsion engineer who claims to have built working antigravity lifters"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Buhler"
+        ],
+        "profession": "scientist",
+        "notability_tags": [
+          "scientist",
+          "NASA",
+          "antigravity"
+        ]
+      }
+    },
+    {
+      "id": "technology-buhler-lifters",
+      "node_type": "technology",
+      "label": "Buhler Lifters (Electrostatic Propulsion)",
+      "summary": "Charles Buhler's electrostatic propulsion devices ('lifters'). Placed inside sealed plastic boxes on scales; when powered, lift and weight flat-lines with ~200 microns persistent force — continue exerting thrust even with power off. ~2000 experimental variations run across 2 test articles.",
+      "tags": [
+        "propulsion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:07:01.191158+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "mOWwdIuyaQA",
+          "timestamp_start": 61,
+          "timestamp_end": "Static-charge propulsion devices generating persistent force"
+        }
+      ],
+      "type_specific": {
+        "technology_type": "propulsion"
+      }
+    },
+    {
+      "id": "claim-mOWwdIuyaQA-buhler-lifters-200-microns-persist",
+      "node_type": "claim",
+      "label": "Buhler's lifter experiments: place inside sealed plastic box on scale, turn on, thing lifts and weig",
+      "summary": "Buhler's lifter experiments: place inside sealed plastic box on scale, turn on, thing lifts and weight flat-lines; turn power off and ~200 microns of persistent thrust remain — unexplainable to the scientific community.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:07:01.195415+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "mOWwdIuyaQA",
+          "timestamp_start": 61,
+          "quote": "I take those lifters and I put them in a plastic box and put on a scale. You turn it on, the thing lifts up and the weight flat lines. Still about 200 microns of force still inside. Can't explain that to the scientific community. I just can't."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Buhler's lifter experiments: place inside sealed plastic box on scale, turn on, thing lifts and weight flat-lines; turn power off and ~200 microns of persistent thrust remain — unexplainable to the scientific community.",
+        "asserted_by_id": "person-charles-buhler",
+        "source_video_id": "mOWwdIuyaQA",
+        "timestamp_start_seconds": 61,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-charles-buhler",
+          "technology-buhler-lifters",
+          "concept-antigravity"
+        ]
+      }
+    },
+    {
+      "id": "claim-mOWwdIuyaQA-buhler-2000-variations-conducted",
+      "node_type": "claim",
+      "label": "Buhler has conducted approximately 2,000 experimental variations across 2 test articles — multi-deca",
+      "summary": "Buhler has conducted approximately 2,000 experimental variations across 2 test articles — multi-decade systematic replication producing anomalous thrust.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:07:01.195430+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "mOWwdIuyaQA",
+          "timestamp_start": 65,
+          "quote": "We are close to 2,000. 2,000 variations. Two test articles. Each one is tested multiple times."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Buhler has conducted approximately 2,000 experimental variations across 2 test articles — multi-decade systematic replication producing anomalous thrust.",
+        "asserted_by_id": "person-charles-buhler",
+        "source_video_id": "mOWwdIuyaQA",
+        "timestamp_start_seconds": 65,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-charles-buhler",
+          "technology-buhler-lifters"
+        ]
+      }
+    },
+    {
+      "id": "claim-mOWwdIuyaQA-buhler-satellite-acceleration-off-power",
+      "node_type": "claim",
+      "label": "If Buhler's lifter were deployed on a satellite in zero-G space, it would accelerate with the power ",
+      "summary": "If Buhler's lifter were deployed on a satellite in zero-G space, it would accelerate with the power OFF — the implication being a persistent thrust mode not explained by any conventional propulsion model.",
+      "tags": [
+        "speculation",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:07:01.195437+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "mOWwdIuyaQA",
+          "timestamp_start": 75,
+          "quote": "If you were to apply that to like a satellite in space in a zero gravity environment, it would accelerate with the power off."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "If Buhler's lifter were deployed on a satellite in zero-G space, it would accelerate with the power OFF — the implication being a persistent thrust mode not explained by any conventional propulsion model.",
+        "asserted_by_id": "person-charles-buhler",
+        "source_video_id": "mOWwdIuyaQA",
+        "timestamp_start_seconds": 75,
+        "assertability": "speculation",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-charles-buhler",
+          "technology-buhler-lifters"
+        ]
+      }
+    },
+    {
+      "id": "claim-mOWwdIuyaQA-musk-newton-third-law-wall",
+      "node_type": "claim",
+      "label": "Elon Musk has publicly insisted Newton's third law is the end-all-be-all for space travel — framing ",
+      "summary": "Elon Musk has publicly insisted Newton's third law is the end-all-be-all for space travel — framing a closed-minded position against alternative propulsion per Jesse's narrative.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:07:01.195444+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "mOWwdIuyaQA",
+          "timestamp_start": 103,
+          "quote": "Elon Musk has publicly stated that Newton's laws are the end all be all for space travel. For some reason, he's quite adamant about that."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Elon Musk has publicly insisted Newton's third law is the end-all-be-all for space travel — framing a closed-minded position against alternative propulsion per Jesse's narrative.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "mOWwdIuyaQA",
+        "timestamp_start_seconds": 103,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "concept-antigravity"
+        ]
+      }
     }
   ],
   "edges": [
@@ -1676,8 +1870,194 @@
           "timestamp_start": 0
         }
       ]
+    },
+    {
+      "id": "edge-person-charles-buhler-ASSERTED-claim-mOWwdIuyaQA-buhler-lifters-200-microns-persist",
+      "from_node_id": "person-charles-buhler",
+      "to_node_id": "claim-mOWwdIuyaQA-buhler-lifters-200-microns-persist",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "mOWwdIuyaQA",
+          "timestamp_start": 61,
+          "quote": "Buhler's lifter experiments: place inside sealed plastic box on scale, turn on, thing lifts and weight flat-lines; turn power off and ~200 microns of persistent thrust remain — unexplainable to the sc"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-mOWwdIuyaQA-REFERENCES-claim-mOWwdIuyaQA-buhler-lifters-200-microns-persist",
+      "from_node_id": "video-mOWwdIuyaQA",
+      "to_node_id": "claim-mOWwdIuyaQA-buhler-lifters-200-microns-persist",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "mOWwdIuyaQA",
+          "timestamp_start": 61
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-mOWwdIuyaQA-buhler-lifters-200-microns-persist-REFERENCES-technology-buhler-lifters",
+      "from_node_id": "claim-mOWwdIuyaQA-buhler-lifters-200-microns-persist",
+      "to_node_id": "technology-buhler-lifters",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "mOWwdIuyaQA",
+          "timestamp_start": 61
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-mOWwdIuyaQA-buhler-lifters-200-microns-persist-REFERENCES-concept-antigravity",
+      "from_node_id": "claim-mOWwdIuyaQA-buhler-lifters-200-microns-persist",
+      "to_node_id": "concept-antigravity",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "mOWwdIuyaQA",
+          "timestamp_start": 61
+        }
+      ]
+    },
+    {
+      "id": "edge-person-charles-buhler-ASSERTED-claim-mOWwdIuyaQA-buhler-2000-variations-conducted",
+      "from_node_id": "person-charles-buhler",
+      "to_node_id": "claim-mOWwdIuyaQA-buhler-2000-variations-conducted",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "mOWwdIuyaQA",
+          "timestamp_start": 65,
+          "quote": "Buhler has conducted approximately 2,000 experimental variations across 2 test articles — multi-decade systematic replication producing anomalous thrust."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-mOWwdIuyaQA-REFERENCES-claim-mOWwdIuyaQA-buhler-2000-variations-conducted",
+      "from_node_id": "video-mOWwdIuyaQA",
+      "to_node_id": "claim-mOWwdIuyaQA-buhler-2000-variations-conducted",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "mOWwdIuyaQA",
+          "timestamp_start": 65
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-mOWwdIuyaQA-buhler-2000-variations-conducted-REFERENCES-technology-buhler-lifters",
+      "from_node_id": "claim-mOWwdIuyaQA-buhler-2000-variations-conducted",
+      "to_node_id": "technology-buhler-lifters",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "mOWwdIuyaQA",
+          "timestamp_start": 65
+        }
+      ]
+    },
+    {
+      "id": "edge-person-charles-buhler-ASSERTED-claim-mOWwdIuyaQA-buhler-satellite-acceleration-off-power",
+      "from_node_id": "person-charles-buhler",
+      "to_node_id": "claim-mOWwdIuyaQA-buhler-satellite-acceleration-off-power",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "mOWwdIuyaQA",
+          "timestamp_start": 75,
+          "quote": "If Buhler's lifter were deployed on a satellite in zero-G space, it would accelerate with the power OFF — the implication being a persistent thrust mode not explained by any conventional propulsion mo"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-mOWwdIuyaQA-REFERENCES-claim-mOWwdIuyaQA-buhler-satellite-acceleration-off-power",
+      "from_node_id": "video-mOWwdIuyaQA",
+      "to_node_id": "claim-mOWwdIuyaQA-buhler-satellite-acceleration-off-power",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "mOWwdIuyaQA",
+          "timestamp_start": 75
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-mOWwdIuyaQA-buhler-satellite-acceleration-off-power-REFERENCES-technology-buhler-lifters",
+      "from_node_id": "claim-mOWwdIuyaQA-buhler-satellite-acceleration-off-power",
+      "to_node_id": "technology-buhler-lifters",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "mOWwdIuyaQA",
+          "timestamp_start": 75
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-mOWwdIuyaQA-musk-newton-third-law-wall",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-mOWwdIuyaQA-musk-newton-third-law-wall",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "mOWwdIuyaQA",
+          "timestamp_start": 103,
+          "quote": "Elon Musk has publicly insisted Newton's third law is the end-all-be-all for space travel — framing a closed-minded position against alternative propulsion per Jesse's narrative."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-mOWwdIuyaQA-REFERENCES-claim-mOWwdIuyaQA-musk-newton-third-law-wall",
+      "from_node_id": "video-mOWwdIuyaQA",
+      "to_node_id": "claim-mOWwdIuyaQA-musk-newton-third-law-wall",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "mOWwdIuyaQA",
+          "timestamp_start": 103
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-mOWwdIuyaQA-musk-newton-third-law-wall-REFERENCES-concept-antigravity",
+      "from_node_id": "claim-mOWwdIuyaQA-musk-newton-third-law-wall",
+      "to_node_id": "concept-antigravity",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "mOWwdIuyaQA",
+          "timestamp_start": 103
+        }
+      ]
     }
   ],
-  "extracted_at": "2026-04-17T11:04:35.831376+00:00",
+  "extracted_at": "2026-04-17T13:07:01.195451+00:00",
   "extractor_version": "v1-inline-claude"
 }

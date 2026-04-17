@@ -866,6 +866,289 @@
           "video-iPxbILOMQ08"
         ]
       }
+    },
+    {
+      "id": "person-roger-leir",
+      "node_type": "person",
+      "label": "Dr. Roger Leir",
+      "summary": "Podiatrist in Ventura CA. Initially skeptic; recruited into alien-implant research by ufologist Derrel Sims. Over 20-year period surgically removed ~17 anomalous objects from people with UFO abduction histories. Died 2014; research carried on by living heir (unnamed in podcast).",
+      "tags": [
+        "researcher",
+        "implant-investigator"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.111775+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "iPxbILOMQ08",
+          "timestamp_start": 233,
+          "quote": "California podiatrist who surgically removed alleged alien implants from 20+ year span"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Leir",
+          "Leer"
+        ],
+        "profession": "podiatrist / researcher",
+        "notability_tags": [
+          "researcher",
+          "implant-investigator"
+        ]
+      }
+    },
+    {
+      "id": "person-darrel-sims",
+      "node_type": "person",
+      "label": "Derrel Sims",
+      "summary": "American ufologist who convinced Dr. Roger Leir to investigate alleged alien implants — reportedly 'the most knowledgeable ufologist' Leir ever met. Darl referred patients with implant-removal needs to Leir.",
+      "tags": [
+        "ufologist",
+        "researcher"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.111777+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "iPxbILOMQ08",
+          "timestamp_start": 237,
+          "quote": "Ufologist who recruited Leir into implant research"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Sims",
+          "Darl"
+        ],
+        "profession": "ufologist",
+        "notability_tags": [
+          "ufologist",
+          "researcher"
+        ]
+      }
+    },
+    {
+      "id": "technology-leir-implant-t-shaped",
+      "node_type": "technology",
+      "label": "Leir T-Shaped Implant",
+      "summary": "Typical object removed by Dr. Roger Leir over 20-year period: T-shaped ('T-shaped affair') composed of: outer layer like bone or pearl; metallic core with internal tubes; nerve cells surrounding. UV-light-emitting fiber optics. Isotope ratios suggesting extra-terrestrial material origin. No physiological immune response from host body.",
+      "tags": [
+        "material"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.111781+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "iPxbILOMQ08",
+          "timestamp_start": 239,
+          "timestamp_end": "T-shaped device with bone-like outer, metallic core, nerve cells, UV-emitting fiber optics"
+        }
+      ],
+      "type_specific": {
+        "technology_type": "material"
+      }
+    },
+    {
+      "id": "concept-alien-implant-phenomenon",
+      "node_type": "concept",
+      "label": "Alien Implant Phenomenon",
+      "summary": "Phenomenon reported by ~350,000 people (per field estimate): embedded objects in body tissue, inserted during alleged abduction events, often preceded by recalled craft interiors, regressive-hypnosis flashbacks, and lack of immune rejection response. Characteristic isotope ratios and nanotechnological sophistication.",
+      "tags": [
+        "biological"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.111783+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "iPxbILOMQ08",
+          "timestamp_start": 231,
+          "timestamp_end": "~350,000 people with alleged alien implants per field estimate"
+        }
+      ],
+      "type_specific": {
+        "concept_domain": "biological"
+      }
+    },
+    {
+      "id": "claim-iPxbILOMQ08-leir-20-year-implant-removal-research",
+      "node_type": "claim",
+      "label": "Over 20 years Dr. Roger Leir removed ~17 anomalous implants from people with alien-abduction histori",
+      "summary": "Over 20 years Dr. Roger Leir removed ~17 anomalous implants from people with alien-abduction histories — T-shaped devices with bone-like outer, metallic core, nerve-cell surrounding, UV-fiber-optic internals.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.126405+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "iPxbILOMQ08",
+          "timestamp_start": 237,
+          "quote": "Dr. Roger Leer who everybody — Darl Sims tried to get him interested in alien implants at first. The research started, and he ended up taking out [implants] — a 20-year period. We found the object — a T-shaped affair, strange color and texture."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Over 20 years Dr. Roger Leir removed ~17 anomalous implants from people with alien-abduction histories — T-shaped devices with bone-like outer, metallic core, nerve-cell surrounding, UV-fiber-optic internals.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "iPxbILOMQ08",
+        "timestamp_start_seconds": 237,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-roger-leir",
+          "technology-leir-implant-t-shaped",
+          "concept-alien-implant-phenomenon"
+        ]
+      }
+    },
+    {
+      "id": "claim-iPxbILOMQ08-leir-350k-people-implanted",
+      "node_type": "claim",
+      "label": "Per field estimate: approximately 350,000 people reportedly have alien implants inside of them — far",
+      "summary": "Per field estimate: approximately 350,000 people reportedly have alien implants inside of them — far broader population than popular Grey-alien abduction discourse reaches.",
+      "tags": [
+        "speculation",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.126415+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "iPxbILOMQ08",
+          "timestamp_start": 231,
+          "quote": "How many people have alien implants inside of them? 350,000 people."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Per field estimate: approximately 350,000 people reportedly have alien implants inside of them — far broader population than popular Grey-alien abduction discourse reaches.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "iPxbILOMQ08",
+        "timestamp_start_seconds": 231,
+        "assertability": "speculation",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "concept-alien-implant-phenomenon"
+        ]
+      }
+    },
+    {
+      "id": "claim-iPxbILOMQ08-leir-implant-isotope-other-galaxy",
+      "node_type": "claim",
+      "label": "Leir's analyzed implants contained elements in non-terrestrial isotope ratios — 'probably came from ",
+      "summary": "Leir's analyzed implants contained elements in non-terrestrial isotope ratios — 'probably came from another part of the galaxy' — and structure was proposed as sophisticated nanotechnological device.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.126423+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "iPxbILOMQ08",
+          "timestamp_start": 245,
+          "quote": "Elements from different places — so that means it's from — it's not from from here. Be a sophisticated nanotechnological device. Probably came from another part of the galaxy."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Leir's analyzed implants contained elements in non-terrestrial isotope ratios — 'probably came from another part of the galaxy' — and structure was proposed as sophisticated nanotechnological device.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "iPxbILOMQ08",
+        "timestamp_start_seconds": 245,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-roger-leir",
+          "technology-leir-implant-t-shaped"
+        ]
+      }
+    },
+    {
+      "id": "claim-iPxbILOMQ08-leir-implant-no-immune-response",
+      "node_type": "claim",
+      "label": "Leir's implants produced NO physiological immune response — 'foreign objects always produce a physio",
+      "summary": "Leir's implants produced NO physiological immune response — 'foreign objects always produce a physiological immune response' — indicating intentional biocompatibility engineering.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.126430+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "iPxbILOMQ08",
+          "timestamp_start": 249,
+          "quote": "These devices also produce no physiological — foreign objects always produce a physiological immune response, right?"
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Leir's implants produced NO physiological immune response — 'foreign objects always produce a physiological immune response' — indicating intentional biocompatibility engineering.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "iPxbILOMQ08",
+        "timestamp_start_seconds": 249,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-roger-leir",
+          "technology-leir-implant-t-shaped"
+        ]
+      }
+    },
+    {
+      "id": "claim-iPxbILOMQ08-implantee-craft-interior-details",
+      "node_type": "claim",
+      "label": "Under regressive hypnosis, implantees recall detailed craft interiors — airlock with human + alien s",
+      "summary": "Under regressive hypnosis, implantees recall detailed craft interiors — airlock with human + alien spacesuits, four-quadrant craft, couch-on-wall for implant-insertion procedure, 'taller gray' medical operator, black-plastic-handle tool with quarter-inch piece implanted, UV-light burns.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.126437+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "iPxbILOMQ08",
+          "timestamp_start": 253,
+          "quote": "I underwent regressive hypnosis and remembered. The center of the craft — airlock that had human and alien space suits to the four quadrants. A couch that slid out of the wall to lie down. It was a taller gray. Black plastic handle with a piece of 1/4 inch — my toe — and pushed a button."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Under regressive hypnosis, implantees recall detailed craft interiors — airlock with human + alien spacesuits, four-quadrant craft, couch-on-wall for implant-insertion procedure, 'taller gray' medical operator, black-plastic-handle tool with quarter-inch piece implanted, UV-light burns.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "iPxbILOMQ08",
+        "timestamp_start_seconds": 253,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "concept-alien-implant-phenomenon"
+        ]
+      }
     }
   ],
   "edges": [
@@ -1335,8 +1618,279 @@
           "timestamp_start": 0
         }
       ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-iPxbILOMQ08-leir-20-year-implant-removal-research",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-iPxbILOMQ08-leir-20-year-implant-removal-research",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "iPxbILOMQ08",
+          "timestamp_start": 237,
+          "quote": "Over 20 years Dr. Roger Leir removed ~17 anomalous implants from people with alien-abduction histories — T-shaped devices with bone-like outer, metallic core, nerve-cell surrounding, UV-fiber-optic in"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-iPxbILOMQ08-REFERENCES-claim-iPxbILOMQ08-leir-20-year-implant-removal-research",
+      "from_node_id": "video-iPxbILOMQ08",
+      "to_node_id": "claim-iPxbILOMQ08-leir-20-year-implant-removal-research",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "iPxbILOMQ08",
+          "timestamp_start": 237
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-iPxbILOMQ08-leir-20-year-implant-removal-research-REFERENCES-person-roger-leir",
+      "from_node_id": "claim-iPxbILOMQ08-leir-20-year-implant-removal-research",
+      "to_node_id": "person-roger-leir",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "iPxbILOMQ08",
+          "timestamp_start": 237
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-iPxbILOMQ08-leir-20-year-implant-removal-research-REFERENCES-technology-leir-implant-t-shaped",
+      "from_node_id": "claim-iPxbILOMQ08-leir-20-year-implant-removal-research",
+      "to_node_id": "technology-leir-implant-t-shaped",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "iPxbILOMQ08",
+          "timestamp_start": 237
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-iPxbILOMQ08-leir-20-year-implant-removal-research-REFERENCES-concept-alien-implant-phenomenon",
+      "from_node_id": "claim-iPxbILOMQ08-leir-20-year-implant-removal-research",
+      "to_node_id": "concept-alien-implant-phenomenon",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "iPxbILOMQ08",
+          "timestamp_start": 237
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-iPxbILOMQ08-leir-350k-people-implanted",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-iPxbILOMQ08-leir-350k-people-implanted",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "iPxbILOMQ08",
+          "timestamp_start": 231,
+          "quote": "Per field estimate: approximately 350,000 people reportedly have alien implants inside of them — far broader population than popular Grey-alien abduction discourse reaches."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-iPxbILOMQ08-REFERENCES-claim-iPxbILOMQ08-leir-350k-people-implanted",
+      "from_node_id": "video-iPxbILOMQ08",
+      "to_node_id": "claim-iPxbILOMQ08-leir-350k-people-implanted",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "iPxbILOMQ08",
+          "timestamp_start": 231
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-iPxbILOMQ08-leir-350k-people-implanted-REFERENCES-concept-alien-implant-phenomenon",
+      "from_node_id": "claim-iPxbILOMQ08-leir-350k-people-implanted",
+      "to_node_id": "concept-alien-implant-phenomenon",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "iPxbILOMQ08",
+          "timestamp_start": 231
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-iPxbILOMQ08-leir-implant-isotope-other-galaxy",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-iPxbILOMQ08-leir-implant-isotope-other-galaxy",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "iPxbILOMQ08",
+          "timestamp_start": 245,
+          "quote": "Leir's analyzed implants contained elements in non-terrestrial isotope ratios — 'probably came from another part of the galaxy' — and structure was proposed as sophisticated nanotechnological device."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-iPxbILOMQ08-REFERENCES-claim-iPxbILOMQ08-leir-implant-isotope-other-galaxy",
+      "from_node_id": "video-iPxbILOMQ08",
+      "to_node_id": "claim-iPxbILOMQ08-leir-implant-isotope-other-galaxy",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "iPxbILOMQ08",
+          "timestamp_start": 245
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-iPxbILOMQ08-leir-implant-isotope-other-galaxy-REFERENCES-person-roger-leir",
+      "from_node_id": "claim-iPxbILOMQ08-leir-implant-isotope-other-galaxy",
+      "to_node_id": "person-roger-leir",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "iPxbILOMQ08",
+          "timestamp_start": 245
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-iPxbILOMQ08-leir-implant-isotope-other-galaxy-REFERENCES-technology-leir-implant-t-shaped",
+      "from_node_id": "claim-iPxbILOMQ08-leir-implant-isotope-other-galaxy",
+      "to_node_id": "technology-leir-implant-t-shaped",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "iPxbILOMQ08",
+          "timestamp_start": 245
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-iPxbILOMQ08-leir-implant-no-immune-response",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-iPxbILOMQ08-leir-implant-no-immune-response",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "iPxbILOMQ08",
+          "timestamp_start": 249,
+          "quote": "Leir's implants produced NO physiological immune response — 'foreign objects always produce a physiological immune response' — indicating intentional biocompatibility engineering."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-iPxbILOMQ08-REFERENCES-claim-iPxbILOMQ08-leir-implant-no-immune-response",
+      "from_node_id": "video-iPxbILOMQ08",
+      "to_node_id": "claim-iPxbILOMQ08-leir-implant-no-immune-response",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "iPxbILOMQ08",
+          "timestamp_start": 249
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-iPxbILOMQ08-leir-implant-no-immune-response-REFERENCES-person-roger-leir",
+      "from_node_id": "claim-iPxbILOMQ08-leir-implant-no-immune-response",
+      "to_node_id": "person-roger-leir",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "iPxbILOMQ08",
+          "timestamp_start": 249
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-iPxbILOMQ08-leir-implant-no-immune-response-REFERENCES-technology-leir-implant-t-shaped",
+      "from_node_id": "claim-iPxbILOMQ08-leir-implant-no-immune-response",
+      "to_node_id": "technology-leir-implant-t-shaped",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "iPxbILOMQ08",
+          "timestamp_start": 249
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-iPxbILOMQ08-implantee-craft-interior-details",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-iPxbILOMQ08-implantee-craft-interior-details",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "iPxbILOMQ08",
+          "timestamp_start": 253,
+          "quote": "Under regressive hypnosis, implantees recall detailed craft interiors — airlock with human + alien spacesuits, four-quadrant craft, couch-on-wall for implant-insertion procedure, 'taller gray' medical"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-iPxbILOMQ08-REFERENCES-claim-iPxbILOMQ08-implantee-craft-interior-details",
+      "from_node_id": "video-iPxbILOMQ08",
+      "to_node_id": "claim-iPxbILOMQ08-implantee-craft-interior-details",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "iPxbILOMQ08",
+          "timestamp_start": 253
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-iPxbILOMQ08-implantee-craft-interior-details-REFERENCES-concept-alien-implant-phenomenon",
+      "from_node_id": "claim-iPxbILOMQ08-implantee-craft-interior-details",
+      "to_node_id": "concept-alien-implant-phenomenon",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "iPxbILOMQ08",
+          "timestamp_start": 253
+        }
+      ]
     }
   ],
-  "extracted_at": "2026-04-17T11:05:05.916172+00:00",
+  "extracted_at": "2026-04-17T23:20:40.126443+00:00",
   "extractor_version": "v1-inline-claude"
 }

@@ -955,6 +955,234 @@
           "video-SZBI85yvV5A"
         ]
       }
+    },
+    {
+      "id": "person-young-jamie",
+      "node_type": "person",
+      "label": "Young Jamie",
+      "summary": "Jamie Vernon — producer of the Joe Rogan Experience. UFO enthusiast who went down rabbit holes; friends with Jesse before Jesse's JRE appearance.",
+      "tags": [
+        "producer",
+        "JRE"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.111765+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "SZBI85yvV5A",
+          "timestamp_start": 192,
+          "quote": "Joe Rogan Experience producer; UFO enthusiast"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Vernon",
+          "Jamie"
+        ],
+        "profession": "producer",
+        "notability_tags": [
+          "producer",
+          "JRE"
+        ]
+      }
+    },
+    {
+      "id": "person-viktor-hovland",
+      "node_type": "person",
+      "label": "Viktor Hovland",
+      "summary": "Top-10 professional golfer from Norway; humble, down-to-earth, reads Plato, learns about UFOs in his spare time. American Alchemy superfan.",
+      "tags": [
+        "golfer",
+        "athlete"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.111767+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "SZBI85yvV5A",
+          "timestamp_start": 192,
+          "quote": "Norwegian top-10 professional golfer; Plato reader; UFO fan"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Hovland",
+          "Havlin"
+        ],
+        "profession": "golfer",
+        "notability_tags": [
+          "golfer",
+          "athlete"
+        ]
+      }
+    },
+    {
+      "id": "person-jesse-michels-jre-guest",
+      "node_type": "person",
+      "label": "Jesse Michels (JRE appearance)",
+      "summary": "Jesse Michels' appearance on Joe Rogan Experience — long-time Rogan fan realizing a decade-old dream. Rogan had been binging American Alchemy; interview covered AGI, black science, UFOs, tridactyl mummies, Townsend Brown.",
+      "tags": [
+        "host",
+        "interviewer"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.111772+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "SZBI85yvV5A",
+          "timestamp_start": 193,
+          "quote": "American Alchemy host; JRE appearance"
+        }
+      ],
+      "type_specific": {
+        "aliases": [],
+        "profession": "journalist",
+        "notability_tags": [
+          "host",
+          "interviewer"
+        ]
+      }
+    },
+    {
+      "id": "claim-SZBI85yvV5A-jesse-jre-dream-come-true",
+      "node_type": "claim",
+      "label": "Jesse's Joe Rogan Experience appearance was a decade-long dream realized — Rogan had been binging Am",
+      "summary": "Jesse's Joe Rogan Experience appearance was a decade-long dream realized — Rogan had been binging American Alchemy and texting Jesse before the show; 'saying this was an honor would be a massive understatement.'",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.124566+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "SZBI85yvV5A",
+          "timestamp_start": 193,
+          "quote": "Apparently, dreams do come true. I achieved one of mine when I went on the Joe Rogan Experience. I've been a super fan of Joe's show for the last decade. He had been texting me talking about binging our show American Alchemy and loving it."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Jesse's Joe Rogan Experience appearance was a decade-long dream realized — Rogan had been binging American Alchemy and texting Jesse before the show; 'saying this was an honor would be a massive understatement.'",
+        "asserted_by_id": "person-jesse-michels-jre-guest",
+        "source_video_id": "SZBI85yvV5A",
+        "timestamp_start_seconds": 193,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-jesse-michels-jre-guest"
+        ]
+      }
+    },
+    {
+      "id": "claim-SZBI85yvV5A-jesse-agi-religions-black-science",
+      "node_type": "claim",
+      "label": "On JRE Jesse argued: religions dedicated to AI are inevitable regardless of AGI achievement — 'witho",
+      "summary": "On JRE Jesse argued: religions dedicated to AI are inevitable regardless of AGI achievement — 'without a doubt there'll be people worshiping certain branches of AI' — plus there is 'black technology and science' in super-secret DOE facilities.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.124576+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "SZBI85yvV5A",
+          "timestamp_start": 195,
+          "quote": "It doesn't matter whether AGI hits some perfectly turing-passable point. You're going to get these cult-like dynamics — religions dedicated to AI. There's technology that is black technology and science that is black science. Super secret DoE facilities which I think it's crazy to say that hasn't happened."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "On JRE Jesse argued: religions dedicated to AI are inevitable regardless of AGI achievement — 'without a doubt there'll be people worshiping certain branches of AI' — plus there is 'black technology and science' in super-secret DOE facilities.",
+        "asserted_by_id": "person-jesse-michels-jre-guest",
+        "source_video_id": "SZBI85yvV5A",
+        "timestamp_start_seconds": 195,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-jesse-michels-jre-guest"
+        ]
+      }
+    },
+    {
+      "id": "claim-SZBI85yvV5A-viktor-hovland-plato-ufo-fan",
+      "node_type": "claim",
+      "label": "Viktor Hovland — top-10 golfer from Norway — reads Plato and studies UFOs in his spare time; reached",
+      "summary": "Viktor Hovland — top-10 golfer from Norway — reads Plato and studies UFOs in his spare time; reached out to Jesse as an American Alchemy fan.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.124583+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "SZBI85yvV5A",
+          "timestamp_start": 192,
+          "quote": "Victor Hovland reached out to me last year because he's a huge fan of American Alchemy. Top 10 golfer in the world, the sensation from Norway is humble, down to earth, and super smart. In his spare time, he's reading Plato and learning about UFOs."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Viktor Hovland — top-10 golfer from Norway — reads Plato and studies UFOs in his spare time; reached out to Jesse as an American Alchemy fan.",
+        "asserted_by_id": "person-jesse-michels-jre-guest",
+        "source_video_id": "SZBI85yvV5A",
+        "timestamp_start_seconds": 192,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-viktor-hovland"
+        ]
+      }
+    },
+    {
+      "id": "claim-SZBI85yvV5A-jesse-school-bus-craft-sighting",
+      "node_type": "claim",
+      "label": "Jesse mentions seeing 'a thing that looked like a school bus — no visible propulsion, low humming no",
+      "summary": "Jesse mentions seeing 'a thing that looked like a school bus — no visible propulsion, low humming noise, maybe 50-60-70 feet high above the treetops' — personal UAP sighting.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.124590+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "SZBI85yvV5A",
+          "timestamp_start": 200,
+          "quote": "I saw a thing that looked like a school bus. It looked like no visible propulsion. This like sort of low humming noise or whatever. It was maybe 50, 60, 70 feet high, like above the tree, right above the treetops."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Jesse mentions seeing 'a thing that looked like a school bus — no visible propulsion, low humming noise, maybe 50-60-70 feet high above the treetops' — personal UAP sighting.",
+        "asserted_by_id": "person-jesse-michels-jre-guest",
+        "source_video_id": "SZBI85yvV5A",
+        "timestamp_start_seconds": 200,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-jesse-michels-jre-guest"
+        ]
+      }
     }
   ],
   "edges": [
@@ -1484,8 +1712,138 @@
           "timestamp_start": 0
         }
       ]
+    },
+    {
+      "id": "edge-person-jesse-michels-jre-guest-ASSERTED-claim-SZBI85yvV5A-jesse-jre-dream-come-true",
+      "from_node_id": "person-jesse-michels-jre-guest",
+      "to_node_id": "claim-SZBI85yvV5A-jesse-jre-dream-come-true",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "SZBI85yvV5A",
+          "timestamp_start": 193,
+          "quote": "Jesse's Joe Rogan Experience appearance was a decade-long dream realized — Rogan had been binging American Alchemy and texting Jesse before the show; 'saying this was an honor would be a massive under"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-SZBI85yvV5A-REFERENCES-claim-SZBI85yvV5A-jesse-jre-dream-come-true",
+      "from_node_id": "video-SZBI85yvV5A",
+      "to_node_id": "claim-SZBI85yvV5A-jesse-jre-dream-come-true",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "SZBI85yvV5A",
+          "timestamp_start": 193
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-jre-guest-ASSERTED-claim-SZBI85yvV5A-jesse-agi-religions-black-science",
+      "from_node_id": "person-jesse-michels-jre-guest",
+      "to_node_id": "claim-SZBI85yvV5A-jesse-agi-religions-black-science",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "SZBI85yvV5A",
+          "timestamp_start": 195,
+          "quote": "On JRE Jesse argued: religions dedicated to AI are inevitable regardless of AGI achievement — 'without a doubt there'll be people worshiping certain branches of AI' — plus there is 'black technology a"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-SZBI85yvV5A-REFERENCES-claim-SZBI85yvV5A-jesse-agi-religions-black-science",
+      "from_node_id": "video-SZBI85yvV5A",
+      "to_node_id": "claim-SZBI85yvV5A-jesse-agi-religions-black-science",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "SZBI85yvV5A",
+          "timestamp_start": 195
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-jre-guest-ASSERTED-claim-SZBI85yvV5A-viktor-hovland-plato-ufo-fan",
+      "from_node_id": "person-jesse-michels-jre-guest",
+      "to_node_id": "claim-SZBI85yvV5A-viktor-hovland-plato-ufo-fan",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "SZBI85yvV5A",
+          "timestamp_start": 192,
+          "quote": "Viktor Hovland — top-10 golfer from Norway — reads Plato and studies UFOs in his spare time; reached out to Jesse as an American Alchemy fan."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-SZBI85yvV5A-REFERENCES-claim-SZBI85yvV5A-viktor-hovland-plato-ufo-fan",
+      "from_node_id": "video-SZBI85yvV5A",
+      "to_node_id": "claim-SZBI85yvV5A-viktor-hovland-plato-ufo-fan",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "SZBI85yvV5A",
+          "timestamp_start": 192
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-SZBI85yvV5A-viktor-hovland-plato-ufo-fan-REFERENCES-person-viktor-hovland",
+      "from_node_id": "claim-SZBI85yvV5A-viktor-hovland-plato-ufo-fan",
+      "to_node_id": "person-viktor-hovland",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "SZBI85yvV5A",
+          "timestamp_start": 192
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-jre-guest-ASSERTED-claim-SZBI85yvV5A-jesse-school-bus-craft-sighting",
+      "from_node_id": "person-jesse-michels-jre-guest",
+      "to_node_id": "claim-SZBI85yvV5A-jesse-school-bus-craft-sighting",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "SZBI85yvV5A",
+          "timestamp_start": 200,
+          "quote": "Jesse mentions seeing 'a thing that looked like a school bus — no visible propulsion, low humming noise, maybe 50-60-70 feet high above the treetops' — personal UAP sighting."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-SZBI85yvV5A-REFERENCES-claim-SZBI85yvV5A-jesse-school-bus-craft-sighting",
+      "from_node_id": "video-SZBI85yvV5A",
+      "to_node_id": "claim-SZBI85yvV5A-jesse-school-bus-craft-sighting",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "SZBI85yvV5A",
+          "timestamp_start": 200
+        }
+      ]
     }
   ],
-  "extracted_at": "2026-04-17T11:05:05.674999+00:00",
+  "extracted_at": "2026-04-17T23:20:40.124595+00:00",
   "extractor_version": "v1-inline-claude"
 }

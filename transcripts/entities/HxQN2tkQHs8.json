@@ -761,6 +761,567 @@
           "video-HxQN2tkQHs8"
         ]
       }
+    },
+    {
+      "id": "person-jaime-maussan-peru",
+      "node_type": "person",
+      "label": "Jaime Maussan",
+      "summary": "Mexican UFO journalist; central figure promoting the Peru tridactyl mummies and presenting them before the Mexican Congress.",
+      "tags": [
+        "journalist"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.737414+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "HxQN2tkQHs8",
+          "timestamp_start": 325,
+          "quote": "Central figure promoting Peru tridactyl mummies"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Maussan"
+        ],
+        "profession": "journalist",
+        "notability_tags": [
+          "journalist"
+        ]
+      }
+    },
+    {
+      "id": "person-leandro-gravedigger",
+      "node_type": "person",
+      "label": "Leandro (gravedigger)",
+      "summary": "Peruvian gravedigger who per local account stumbled upon a cave with ~200 tridactyl bodies near the Nazca region.",
+      "tags": [
+        "witness"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.737417+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "HxQN2tkQHs8",
+          "timestamp_start": 339,
+          "quote": "Peruvian gravedigger who discovered the mummy cave"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Leandro"
+        ],
+        "notability_tags": [
+          "witness"
+        ]
+      }
+    },
+    {
+      "id": "person-michael-mazzola",
+      "node_type": "person",
+      "label": "Michael Mazzola",
+      "summary": "American filmmaker producing 'Catastrophic Disclosure' documentary on the Peruvian tridactyl mummies.",
+      "tags": [
+        "filmmaker",
+        "investigator"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.737419+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "HxQN2tkQHs8",
+          "timestamp_start": 323,
+          "quote": "Filmmaker of 'Catastrophic Disclosure' investigating the mummies"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Mazzola"
+        ],
+        "profession": "filmmaker",
+        "notability_tags": [
+          "filmmaker",
+          "investigator"
+        ]
+      }
+    },
+    {
+      "id": "person-ammar-kandil",
+      "node_type": "person",
+      "label": "Ammar Kandil",
+      "summary": "Co-founder of Yes Theory; accompanied Michels on the Peru mummies investigation trip.",
+      "tags": [
+        "journalist"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.737421+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "HxQN2tkQHs8",
+          "timestamp_start": 325,
+          "quote": "YouTuber (Yes Theory) accompanying Michels to Peru"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Kandil"
+        ],
+        "profession": "YouTuber",
+        "notability_tags": [
+          "journalist"
+        ]
+      }
+    },
+    {
+      "id": "person-john-mcdow",
+      "node_type": "person",
+      "label": "John McDowell",
+      "summary": "Forensic expert; won Association forensics award for analyzing the Peru tridactyl specimens.",
+      "tags": [
+        "forensic",
+        "scientist"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.737423+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "HxQN2tkQHs8",
+          "timestamp_start": 353,
+          "quote": "Forensic expert corroborating the mummy analysis"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "McDow",
+          "McDowell"
+        ],
+        "profession": "forensic scientist",
+        "notability_tags": [
+          "forensic",
+          "scientist"
+        ]
+      }
+    },
+    {
+      "id": "person-jim-caruso-denver",
+      "node_type": "person",
+      "label": "Jim Caruso",
+      "summary": "Chief medical examiner for Denver; Navy officer for decades; performed over 300 autopsies; reviewed the Peru mummy materials.",
+      "tags": [
+        "forensic",
+        "medical"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.737425+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "HxQN2tkQHs8",
+          "timestamp_start": 353,
+          "quote": "Chief medical examiner for Denver who reviewed the mummies"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Caruso"
+        ],
+        "profession": "medical examiner",
+        "notability_tags": [
+          "forensic",
+          "medical"
+        ]
+      }
+    },
+    {
+      "id": "person-david-ruiz-peru",
+      "node_type": "person",
+      "label": "David Ruiz",
+      "summary": "President of the Peruvian association equivalent to the American Academy of Forensic Sciences; examined the tridactyl specimens.",
+      "tags": [
+        "forensic",
+        "Peru"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.737427+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "HxQN2tkQHs8",
+          "timestamp_start": 355,
+          "quote": "President of Peruvian Legal Medicine Association"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Ruiz"
+        ],
+        "profession": "medical examiner",
+        "notability_tags": [
+          "forensic",
+          "Peru"
+        ]
+      }
+    },
+    {
+      "id": "document-catastrophic-disclosure-doc",
+      "node_type": "document",
+      "label": "Catastrophic Disclosure",
+      "summary": "Documentary by Michael Mazzola (forthcoming as of video release) on the Peruvian tridactyl mummies case.",
+      "tags": [
+        "broadcast"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.737431+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "HxQN2tkQHs8",
+          "timestamp_start": 323,
+          "timestamp_end": "Mazzola's documentary on the Peru mummies"
+        }
+      ],
+      "type_specific": {
+        "document_type": "broadcast",
+        "author": "Michael Mazzola"
+      }
+    },
+    {
+      "id": "location-nazca-peru",
+      "node_type": "location",
+      "label": "Nazca, Peru",
+      "summary": "",
+      "tags": [
+        "region"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.737433+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "HxQN2tkQHs8",
+          "timestamp_start": 329,
+          "timestamp_end": "Southern Peruvian region where mummies were found"
+        }
+      ],
+      "type_specific": {
+        "location_type": "region",
+        "country": "PE"
+      }
+    },
+    {
+      "id": "phenomenon-tridactyl-mummy",
+      "node_type": "phenomenon",
+      "label": "Tridactyl Mummy",
+      "summary": "Class of mummified humanoid bodies found near Nazca, Peru with three fingers and three toes; two physical types (M-type hominids and smaller reptilians). Radiocarbon dates overlap Nazca period. Status contested.",
+      "tags": [
+        "biological"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.737435+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "HxQN2tkQHs8",
+          "timestamp_start": 319,
+          "timestamp_end": "Three-fingered/three-toed humanoid bodies preserved in diatomaceous earth"
+        }
+      ],
+      "type_specific": {
+        "phenomenon_category": "biological"
+      }
+    },
+    {
+      "id": "claim-HxQN2tkQHs8-mummies-200-bodies-cave",
+      "node_type": "claim",
+      "label": "Per Leandro's account and subsequent investigation, a cave near Nazca Peru contained ~200 tridactyl ",
+      "summary": "Per Leandro's account and subsequent investigation, a cave near Nazca Peru contained ~200 tridactyl bodies preserved in diatomaceous earth.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.754688+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "HxQN2tkQHs8",
+          "timestamp_start": 341,
+          "quote": "Big clumps began to emerge — heads, limbs, and appendages, in many cases covered in diatomaceous earth. Pile of 200 bodies and parts."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Per Leandro's account and subsequent investigation, a cave near Nazca Peru contained ~200 tridactyl bodies preserved in diatomaceous earth.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "HxQN2tkQHs8",
+        "timestamp_start_seconds": 341,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-leandro-gravedigger",
+          "phenomenon-tridactyl-mummy",
+          "location-nazca-peru"
+        ]
+      }
+    },
+    {
+      "id": "claim-HxQN2tkQHs8-mummies-two-types",
+      "node_type": "claim",
+      "label": "Two distinct tridactyl mummy types have been identified: M-types (larger hominid morphology, 25-30 s",
+      "summary": "Two distinct tridactyl mummy types have been identified: M-types (larger hominid morphology, 25-30 specimens) and smaller reptilians (2-3 feet, Close-Encounters-like faces).",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.754702+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "HxQN2tkQHs8",
+          "timestamp_start": 343,
+          "quote": "The M types or hominids. These look like — we have 25 to 30 of these. Reptilians. These are skinny, two to three feet. Their faces look like the aliens in Close Encounters."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Two distinct tridactyl mummy types have been identified: M-types (larger hominid morphology, 25-30 specimens) and smaller reptilians (2-3 feet, Close-Encounters-like faces).",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "HxQN2tkQHs8",
+        "timestamp_start_seconds": 343,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "phenomenon-tridactyl-mummy"
+        ]
+      }
+    },
+    {
+      "id": "claim-HxQN2tkQHs8-mcdowell-forensics-grand-wall",
+      "node_type": "claim",
+      "label": "John McDowell won the Association for Forensics' Grand Wall Award for his analysis suggesting some s",
+      "summary": "John McDowell won the Association for Forensics' Grand Wall Award for his analysis suggesting some specimens represent living organisms worthy of investigation.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.754709+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "HxQN2tkQHs8",
+          "timestamp_start": 353,
+          "quote": "John McDow association for a year and just won the forensics the Grand Wall Award. Data to show that some of these bodies to be perhaps living organisms."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "John McDowell won the Association for Forensics' Grand Wall Award for his analysis suggesting some specimens represent living organisms worthy of investigation.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "HxQN2tkQHs8",
+        "timestamp_start_seconds": 353,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-john-mcdow",
+          "phenomenon-tridactyl-mummy"
+        ]
+      }
+    },
+    {
+      "id": "claim-HxQN2tkQHs8-caruso-300-autopsies-validation",
+      "node_type": "claim",
+      "label": "Denver chief medical examiner Jim Caruso (Navy veteran, 300+ autopsies) has publicly defended the re",
+      "summary": "Denver chief medical examiner Jim Caruso (Navy veteran, 300+ autopsies) has publicly defended the reality of the specimens as biological rather than fabricated.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.754716+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "HxQN2tkQHs8",
+          "timestamp_start": 355,
+          "quote": "Jim Caruso, the chief medical examiner for Denver, officer in the Navy for decades, Caruso has personally performed over 300 autopsies."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Denver chief medical examiner Jim Caruso (Navy veteran, 300+ autopsies) has publicly defended the reality of the specimens as biological rather than fabricated.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "HxQN2tkQHs8",
+        "timestamp_start_seconds": 355,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-jim-caruso-denver",
+          "phenomenon-tridactyl-mummy"
+        ]
+      }
+    },
+    {
+      "id": "claim-HxQN2tkQHs8-ministry-culture-suppression",
+      "node_type": "claim",
+      "label": "The Peruvian Ministry of Culture has, in multiple instances, allegedly acted to suppress the case an",
+      "summary": "The Peruvian Ministry of Culture has, in multiple instances, allegedly acted to suppress the case and confiscate specimens at the Lima airport (2023).",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.754725+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "HxQN2tkQHs8",
+          "timestamp_start": 328,
+          "quote": "Ministry of Culture in multiple instances — they don't want this case to see the light of day. These little trinkets, pieces of touristic were confiscated at the Lima airport in 2023."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "The Peruvian Ministry of Culture has, in multiple instances, allegedly acted to suppress the case and confiscate specimens at the Lima airport (2023).",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "HxQN2tkQHs8",
+        "timestamp_start_seconds": 328,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "location-nazca-peru",
+          "phenomenon-tridactyl-mummy"
+        ]
+      }
+    },
+    {
+      "id": "claim-HxQN2tkQHs8-fake-dolls-subset",
+      "node_type": "claim",
+      "label": "Some publicly-exhibited specimens (Reuters coverage via Flavio Estrada) were independently confirmed",
+      "summary": "Some publicly-exhibited specimens (Reuters coverage via Flavio Estrada) were independently confirmed as dolls made from modern synthetic glue — Michels argues this is not a blanket debunk of the anatomically-consistent specimens.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.754736+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "HxQN2tkQHs8",
+          "timestamp_start": 359,
+          "quote": "Reuters: not extraterrestrials. They're dolls made from modern synthetic glue, said Flavio Estrada. But figurines and these real anatomically consistent — it's at that point that this story is fake."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Some publicly-exhibited specimens (Reuters coverage via Flavio Estrada) were independently confirmed as dolls made from modern synthetic glue — Michels argues this is not a blanket debunk of the anatomically-consistent specimens.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "HxQN2tkQHs8",
+        "timestamp_start_seconds": 359,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "phenomenon-tridactyl-mummy"
+        ]
+      }
+    },
+    {
+      "id": "claim-HxQN2tkQHs8-mummies-fetus-inside",
+      "node_type": "claim",
+      "label": "One of the tridactyl specimens contains a fetus inside, supporting (per researchers) that it was a b",
+      "summary": "One of the tridactyl specimens contains a fetus inside, supporting (per researchers) that it was a biologically functioning female organism rather than an assemblage.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.754743+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "HxQN2tkQHs8",
+          "timestamp_start": 325,
+          "quote": "It has a fetus inside the — these features are also tractor."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "One of the tridactyl specimens contains a fetus inside, supporting (per researchers) that it was a biologically functioning female organism rather than an assemblage.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "HxQN2tkQHs8",
+        "timestamp_start_seconds": 325,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "phenomenon-tridactyl-mummy"
+        ]
+      }
+    },
+    {
+      "id": "claim-HxQN2tkQHs8-cranial-deformation-mimicry",
+      "node_type": "claim",
+      "label": "Ancient Peruvian cranial-deformation rituals involved reshaping infant skulls to imitate elongated s",
+      "summary": "Ancient Peruvian cranial-deformation rituals involved reshaping infant skulls to imitate elongated skulls attributed to NHI visitors, implying contact memory encoded in Nazca-era practice.",
+      "tags": [
+        "speculation",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.754749+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "HxQN2tkQHs8",
+          "timestamp_start": 337,
+          "quote": "Cranial deformation, a deliberate reshaping of the skull often done to infants. Rituals conferred status. To be an attempt to imitate the gods."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Ancient Peruvian cranial-deformation rituals involved reshaping infant skulls to imitate elongated skulls attributed to NHI visitors, implying contact memory encoded in Nazca-era practice.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "HxQN2tkQHs8",
+        "timestamp_start_seconds": 337,
+        "assertability": "speculation",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "phenomenon-tridactyl-mummy"
+        ]
+      }
     }
   ],
   "edges": [
@@ -1200,8 +1761,422 @@
           "timestamp_start": 0
         }
       ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-HxQN2tkQHs8-mummies-200-bodies-cave",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-HxQN2tkQHs8-mummies-200-bodies-cave",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "HxQN2tkQHs8",
+          "timestamp_start": 341,
+          "quote": "Per Leandro's account and subsequent investigation, a cave near Nazca Peru contained ~200 tridactyl bodies preserved in diatomaceous earth."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-HxQN2tkQHs8-REFERENCES-claim-HxQN2tkQHs8-mummies-200-bodies-cave",
+      "from_node_id": "video-HxQN2tkQHs8",
+      "to_node_id": "claim-HxQN2tkQHs8-mummies-200-bodies-cave",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "HxQN2tkQHs8",
+          "timestamp_start": 341
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-HxQN2tkQHs8-mummies-200-bodies-cave-REFERENCES-person-leandro-gravedigger",
+      "from_node_id": "claim-HxQN2tkQHs8-mummies-200-bodies-cave",
+      "to_node_id": "person-leandro-gravedigger",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "HxQN2tkQHs8",
+          "timestamp_start": 341
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-HxQN2tkQHs8-mummies-200-bodies-cave-REFERENCES-phenomenon-tridactyl-mummy",
+      "from_node_id": "claim-HxQN2tkQHs8-mummies-200-bodies-cave",
+      "to_node_id": "phenomenon-tridactyl-mummy",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "HxQN2tkQHs8",
+          "timestamp_start": 341
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-HxQN2tkQHs8-mummies-200-bodies-cave-REFERENCES-location-nazca-peru",
+      "from_node_id": "claim-HxQN2tkQHs8-mummies-200-bodies-cave",
+      "to_node_id": "location-nazca-peru",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "HxQN2tkQHs8",
+          "timestamp_start": 341
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-HxQN2tkQHs8-mummies-two-types",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-HxQN2tkQHs8-mummies-two-types",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "HxQN2tkQHs8",
+          "timestamp_start": 343,
+          "quote": "Two distinct tridactyl mummy types have been identified: M-types (larger hominid morphology, 25-30 specimens) and smaller reptilians (2-3 feet, Close-Encounters-like faces)."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-HxQN2tkQHs8-REFERENCES-claim-HxQN2tkQHs8-mummies-two-types",
+      "from_node_id": "video-HxQN2tkQHs8",
+      "to_node_id": "claim-HxQN2tkQHs8-mummies-two-types",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "HxQN2tkQHs8",
+          "timestamp_start": 343
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-HxQN2tkQHs8-mummies-two-types-REFERENCES-phenomenon-tridactyl-mummy",
+      "from_node_id": "claim-HxQN2tkQHs8-mummies-two-types",
+      "to_node_id": "phenomenon-tridactyl-mummy",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "HxQN2tkQHs8",
+          "timestamp_start": 343
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-HxQN2tkQHs8-mcdowell-forensics-grand-wall",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-HxQN2tkQHs8-mcdowell-forensics-grand-wall",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "HxQN2tkQHs8",
+          "timestamp_start": 353,
+          "quote": "John McDowell won the Association for Forensics' Grand Wall Award for his analysis suggesting some specimens represent living organisms worthy of investigation."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-HxQN2tkQHs8-REFERENCES-claim-HxQN2tkQHs8-mcdowell-forensics-grand-wall",
+      "from_node_id": "video-HxQN2tkQHs8",
+      "to_node_id": "claim-HxQN2tkQHs8-mcdowell-forensics-grand-wall",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "HxQN2tkQHs8",
+          "timestamp_start": 353
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-HxQN2tkQHs8-mcdowell-forensics-grand-wall-REFERENCES-person-john-mcdow",
+      "from_node_id": "claim-HxQN2tkQHs8-mcdowell-forensics-grand-wall",
+      "to_node_id": "person-john-mcdow",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "HxQN2tkQHs8",
+          "timestamp_start": 353
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-HxQN2tkQHs8-mcdowell-forensics-grand-wall-REFERENCES-phenomenon-tridactyl-mummy",
+      "from_node_id": "claim-HxQN2tkQHs8-mcdowell-forensics-grand-wall",
+      "to_node_id": "phenomenon-tridactyl-mummy",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "HxQN2tkQHs8",
+          "timestamp_start": 353
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-HxQN2tkQHs8-caruso-300-autopsies-validation",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-HxQN2tkQHs8-caruso-300-autopsies-validation",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "HxQN2tkQHs8",
+          "timestamp_start": 355,
+          "quote": "Denver chief medical examiner Jim Caruso (Navy veteran, 300+ autopsies) has publicly defended the reality of the specimens as biological rather than fabricated."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-HxQN2tkQHs8-REFERENCES-claim-HxQN2tkQHs8-caruso-300-autopsies-validation",
+      "from_node_id": "video-HxQN2tkQHs8",
+      "to_node_id": "claim-HxQN2tkQHs8-caruso-300-autopsies-validation",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "HxQN2tkQHs8",
+          "timestamp_start": 355
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-HxQN2tkQHs8-caruso-300-autopsies-validation-REFERENCES-person-jim-caruso-denver",
+      "from_node_id": "claim-HxQN2tkQHs8-caruso-300-autopsies-validation",
+      "to_node_id": "person-jim-caruso-denver",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "HxQN2tkQHs8",
+          "timestamp_start": 355
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-HxQN2tkQHs8-caruso-300-autopsies-validation-REFERENCES-phenomenon-tridactyl-mummy",
+      "from_node_id": "claim-HxQN2tkQHs8-caruso-300-autopsies-validation",
+      "to_node_id": "phenomenon-tridactyl-mummy",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "HxQN2tkQHs8",
+          "timestamp_start": 355
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-HxQN2tkQHs8-ministry-culture-suppression",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-HxQN2tkQHs8-ministry-culture-suppression",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "HxQN2tkQHs8",
+          "timestamp_start": 328,
+          "quote": "The Peruvian Ministry of Culture has, in multiple instances, allegedly acted to suppress the case and confiscate specimens at the Lima airport (2023)."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-HxQN2tkQHs8-REFERENCES-claim-HxQN2tkQHs8-ministry-culture-suppression",
+      "from_node_id": "video-HxQN2tkQHs8",
+      "to_node_id": "claim-HxQN2tkQHs8-ministry-culture-suppression",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "HxQN2tkQHs8",
+          "timestamp_start": 328
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-HxQN2tkQHs8-ministry-culture-suppression-REFERENCES-location-nazca-peru",
+      "from_node_id": "claim-HxQN2tkQHs8-ministry-culture-suppression",
+      "to_node_id": "location-nazca-peru",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "HxQN2tkQHs8",
+          "timestamp_start": 328
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-HxQN2tkQHs8-ministry-culture-suppression-REFERENCES-phenomenon-tridactyl-mummy",
+      "from_node_id": "claim-HxQN2tkQHs8-ministry-culture-suppression",
+      "to_node_id": "phenomenon-tridactyl-mummy",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "HxQN2tkQHs8",
+          "timestamp_start": 328
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-HxQN2tkQHs8-fake-dolls-subset",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-HxQN2tkQHs8-fake-dolls-subset",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "HxQN2tkQHs8",
+          "timestamp_start": 359,
+          "quote": "Some publicly-exhibited specimens (Reuters coverage via Flavio Estrada) were independently confirmed as dolls made from modern synthetic glue — Michels argues this is not a blanket debunk of the anato"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-HxQN2tkQHs8-REFERENCES-claim-HxQN2tkQHs8-fake-dolls-subset",
+      "from_node_id": "video-HxQN2tkQHs8",
+      "to_node_id": "claim-HxQN2tkQHs8-fake-dolls-subset",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "HxQN2tkQHs8",
+          "timestamp_start": 359
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-HxQN2tkQHs8-fake-dolls-subset-REFERENCES-phenomenon-tridactyl-mummy",
+      "from_node_id": "claim-HxQN2tkQHs8-fake-dolls-subset",
+      "to_node_id": "phenomenon-tridactyl-mummy",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "HxQN2tkQHs8",
+          "timestamp_start": 359
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-HxQN2tkQHs8-mummies-fetus-inside",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-HxQN2tkQHs8-mummies-fetus-inside",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "HxQN2tkQHs8",
+          "timestamp_start": 325,
+          "quote": "One of the tridactyl specimens contains a fetus inside, supporting (per researchers) that it was a biologically functioning female organism rather than an assemblage."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-HxQN2tkQHs8-REFERENCES-claim-HxQN2tkQHs8-mummies-fetus-inside",
+      "from_node_id": "video-HxQN2tkQHs8",
+      "to_node_id": "claim-HxQN2tkQHs8-mummies-fetus-inside",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "HxQN2tkQHs8",
+          "timestamp_start": 325
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-HxQN2tkQHs8-mummies-fetus-inside-REFERENCES-phenomenon-tridactyl-mummy",
+      "from_node_id": "claim-HxQN2tkQHs8-mummies-fetus-inside",
+      "to_node_id": "phenomenon-tridactyl-mummy",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "HxQN2tkQHs8",
+          "timestamp_start": 325
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-HxQN2tkQHs8-cranial-deformation-mimicry",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-HxQN2tkQHs8-cranial-deformation-mimicry",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "HxQN2tkQHs8",
+          "timestamp_start": 337,
+          "quote": "Ancient Peruvian cranial-deformation rituals involved reshaping infant skulls to imitate elongated skulls attributed to NHI visitors, implying contact memory encoded in Nazca-era practice."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-HxQN2tkQHs8-REFERENCES-claim-HxQN2tkQHs8-cranial-deformation-mimicry",
+      "from_node_id": "video-HxQN2tkQHs8",
+      "to_node_id": "claim-HxQN2tkQHs8-cranial-deformation-mimicry",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "HxQN2tkQHs8",
+          "timestamp_start": 337
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-HxQN2tkQHs8-cranial-deformation-mimicry-REFERENCES-phenomenon-tridactyl-mummy",
+      "from_node_id": "claim-HxQN2tkQHs8-cranial-deformation-mimicry",
+      "to_node_id": "phenomenon-tridactyl-mummy",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "HxQN2tkQHs8",
+          "timestamp_start": 337
+        }
+      ]
     }
   ],
-  "extracted_at": "2026-04-17T11:04:13.129665+00:00",
+  "extracted_at": "2026-04-17T12:13:23.754758+00:00",
   "extractor_version": "v1-inline-claude"
 }

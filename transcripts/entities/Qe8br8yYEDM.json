@@ -1032,6 +1032,239 @@
           "video-Qe8br8yYEDM"
         ]
       }
+    },
+    {
+      "id": "person-richard-barth",
+      "node_type": "person",
+      "label": "Richard Barth",
+      "summary": "USAF Air Policeman stationed at Vandenberg AFB in September 1964; assigned to Minuteman missile on night shift; experienced a close encounter and abduction by a being emerging from fog — lost time, out-of-body view of Vandenberg from craft, received telepathic message aligning with other nuclear-base encounters.",
+      "tags": [
+        "witness",
+        "abductee",
+        "USAF",
+        "Vandenberg"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.912160+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Qe8br8yYEDM",
+          "timestamp_start": 303,
+          "quote": "USAF security guard at Vandenberg 1964 close-encounter abductee"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Barth",
+          "Bart"
+        ],
+        "profession": "military veteran",
+        "notability_tags": [
+          "witness",
+          "abductee",
+          "USAF",
+          "Vandenberg"
+        ]
+      }
+    },
+    {
+      "id": "incident-1964-vandenberg-barth-abduction",
+      "node_type": "incident",
+      "label": "1964 Vandenberg Barth Abduction",
+      "summary": "September 1964 at Vandenberg AFB: USAF Air Policeman Richard Barth assigned to Minuteman missile on night shift; figure emerged from fog; Barth lost control and lost time; woke up on flying saucer with several beings observing Vandenberg from above; received telepathic message. Same month as Bob Jacobs' photographed UFO-Atlas-V incident.",
+      "tags": [
+        "abduction"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.912162+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Qe8br8yYEDM",
+          "timestamp_start": 301,
+          "timestamp_end": "Air Policeman Barth abducted at missile site in September 1964"
+        }
+      ],
+      "type_specific": {
+        "incident_type": "abduction",
+        "date_approximate": "1964-09-15"
+      }
+    },
+    {
+      "id": "claim-Qe8br8yYEDM-barth-fog-figure-telepathic-control",
+      "node_type": "claim",
+      "label": "Barth describes a figure emerging from the fog at his Minuteman missile post in September 1964; the ",
+      "summary": "Barth describes a figure emerging from the fog at his Minuteman missile post in September 1964; the being 'started grabbing hold of me' telepathically; Barth lost control and lost time.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.936580+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Qe8br8yYEDM",
+          "timestamp_start": 301,
+          "quote": "I see this shadow emerge from the fog. As it got closer, I realized this was not what it was. I could feel it in my mind. It started grabbing hold of me."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Barth describes a figure emerging from the fog at his Minuteman missile post in September 1964; the being 'started grabbing hold of me' telepathically; Barth lost control and lost time.",
+        "asserted_by_id": "person-richard-barth",
+        "source_video_id": "Qe8br8yYEDM",
+        "timestamp_start_seconds": 301,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-richard-barth",
+          "incident-1964-vandenberg-barth-abduction"
+        ]
+      }
+    },
+    {
+      "id": "claim-Qe8br8yYEDM-barth-saucer-hovering-vandenberg",
+      "node_type": "claim",
+      "label": "Barth woke up on a flying saucer with a few beings overlooking the entire Vandenberg base — received",
+      "summary": "Barth woke up on a flying saucer with a few beings overlooking the entire Vandenberg base — received a message directly connecting to other alien encounters by nuclear-base personnel.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.936597+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Qe8br8yYEDM",
+          "timestamp_start": 307,
+          "quote": "Richard is taken. He wakes up hovering on a flying saucer with a few more beings overlooking the entire Vandenberg base. Richard is given a message, one that directly connects with other alien encounters by nuclear base employees."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Barth woke up on a flying saucer with a few beings overlooking the entire Vandenberg base — received a message directly connecting to other alien encounters by nuclear-base personnel.",
+        "asserted_by_id": "person-richard-barth",
+        "source_video_id": "Qe8br8yYEDM",
+        "timestamp_start_seconds": 307,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-richard-barth",
+          "incident-1964-vandenberg-barth-abduction",
+          "location-vandenberg-afb"
+        ]
+      }
+    },
+    {
+      "id": "claim-Qe8br8yYEDM-barth-same-month-jacobs-atlas-missile",
+      "node_type": "claim",
+      "label": "Barth's September 1964 encounter occurred the same month as Bob Jacobs' photo-instrumentation captur",
+      "summary": "Barth's September 1964 encounter occurred the same month as Bob Jacobs' photo-instrumentation capture of a UFO intercepting an Atlas missile test — implying coordinated NHI activity against Vandenberg's nuclear program.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.936605+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Qe8br8yYEDM",
+          "timestamp_start": 309,
+          "quote": "Richard had his encounter in September of 1964. That same month, Bob Jacobs caught video of a UFO that seemed to encircle an Atlas missile. Something else was testing missile defense and deterrence."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Barth's September 1964 encounter occurred the same month as Bob Jacobs' photo-instrumentation capture of a UFO intercepting an Atlas missile test — implying coordinated NHI activity against Vandenberg's nuclear program.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "Qe8br8yYEDM",
+        "timestamp_start_seconds": 309,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-richard-barth",
+          "person-bob-jacobs",
+          "incident-1964-big-sur-atlas"
+        ]
+      }
+    },
+    {
+      "id": "claim-Qe8br8yYEDM-barth-coast-to-coast-compelled-call",
+      "node_type": "claim",
+      "label": "Barth decided to come forward after hearing Robert Hastings on Coast to Coast AM; something 'just co",
+      "summary": "Barth decided to come forward after hearing Robert Hastings on Coast to Coast AM; something 'just compelled' him to call in — ended up getting through, sharing half his story before the call mysteriously cut off.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.936614+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Qe8br8yYEDM",
+          "timestamp_start": 329,
+          "quote": "I was listening to Coast to Coast one night and it happened to be Robert Hastings. Something just compelled me to call in. We got through about half my story and then we got cut off somehow."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Barth decided to come forward after hearing Robert Hastings on Coast to Coast AM; something 'just compelled' him to call in — ended up getting through, sharing half his story before the call mysteriously cut off.",
+        "asserted_by_id": "person-richard-barth",
+        "source_video_id": "Qe8br8yYEDM",
+        "timestamp_start_seconds": 329,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-richard-barth",
+          "person-robert-hastings"
+        ]
+      }
+    },
+    {
+      "id": "claim-Qe8br8yYEDM-barth-2003-2005-vandenberg-incidents",
+      "node_type": "claim",
+      "label": "Between 2003 and 2005, five UAP incidents occurred at Vandenberg AFB — Vandenberg remains an active ",
+      "summary": "Between 2003 and 2005, five UAP incidents occurred at Vandenberg AFB — Vandenberg remains an active UAP hotspot decades after Barth's encounter.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.936621+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Qe8br8yYEDM",
+          "timestamp_start": 319,
+          "quote": "Between 2003 and 2005, five UAP incidents occurred at Vandenberg Air Force Base."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Between 2003 and 2005, five UAP incidents occurred at Vandenberg AFB — Vandenberg remains an active UAP hotspot decades after Barth's encounter.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "Qe8br8yYEDM",
+        "timestamp_start_seconds": 319,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "location-vandenberg-afb"
+        ]
+      }
     }
   ],
   "edges": [
@@ -1606,8 +1839,265 @@
           "timestamp_start": 0
         }
       ]
+    },
+    {
+      "id": "edge-person-richard-barth-ASSERTED-claim-Qe8br8yYEDM-barth-fog-figure-telepathic-control",
+      "from_node_id": "person-richard-barth",
+      "to_node_id": "claim-Qe8br8yYEDM-barth-fog-figure-telepathic-control",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Qe8br8yYEDM",
+          "timestamp_start": 301,
+          "quote": "Barth describes a figure emerging from the fog at his Minuteman missile post in September 1964; the being 'started grabbing hold of me' telepathically; Barth lost control and lost time."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-Qe8br8yYEDM-REFERENCES-claim-Qe8br8yYEDM-barth-fog-figure-telepathic-control",
+      "from_node_id": "video-Qe8br8yYEDM",
+      "to_node_id": "claim-Qe8br8yYEDM-barth-fog-figure-telepathic-control",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Qe8br8yYEDM",
+          "timestamp_start": 301
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-Qe8br8yYEDM-barth-fog-figure-telepathic-control-REFERENCES-incident-1964-vandenberg-barth-abduction",
+      "from_node_id": "claim-Qe8br8yYEDM-barth-fog-figure-telepathic-control",
+      "to_node_id": "incident-1964-vandenberg-barth-abduction",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Qe8br8yYEDM",
+          "timestamp_start": 301
+        }
+      ]
+    },
+    {
+      "id": "edge-person-richard-barth-ASSERTED-claim-Qe8br8yYEDM-barth-saucer-hovering-vandenberg",
+      "from_node_id": "person-richard-barth",
+      "to_node_id": "claim-Qe8br8yYEDM-barth-saucer-hovering-vandenberg",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Qe8br8yYEDM",
+          "timestamp_start": 307,
+          "quote": "Barth woke up on a flying saucer with a few beings overlooking the entire Vandenberg base — received a message directly connecting to other alien encounters by nuclear-base personnel."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-Qe8br8yYEDM-REFERENCES-claim-Qe8br8yYEDM-barth-saucer-hovering-vandenberg",
+      "from_node_id": "video-Qe8br8yYEDM",
+      "to_node_id": "claim-Qe8br8yYEDM-barth-saucer-hovering-vandenberg",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Qe8br8yYEDM",
+          "timestamp_start": 307
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-Qe8br8yYEDM-barth-saucer-hovering-vandenberg-REFERENCES-incident-1964-vandenberg-barth-abduction",
+      "from_node_id": "claim-Qe8br8yYEDM-barth-saucer-hovering-vandenberg",
+      "to_node_id": "incident-1964-vandenberg-barth-abduction",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Qe8br8yYEDM",
+          "timestamp_start": 307
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-Qe8br8yYEDM-barth-saucer-hovering-vandenberg-REFERENCES-location-vandenberg-afb",
+      "from_node_id": "claim-Qe8br8yYEDM-barth-saucer-hovering-vandenberg",
+      "to_node_id": "location-vandenberg-afb",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Qe8br8yYEDM",
+          "timestamp_start": 307
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-Qe8br8yYEDM-barth-same-month-jacobs-atlas-missile",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-Qe8br8yYEDM-barth-same-month-jacobs-atlas-missile",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Qe8br8yYEDM",
+          "timestamp_start": 309,
+          "quote": "Barth's September 1964 encounter occurred the same month as Bob Jacobs' photo-instrumentation capture of a UFO intercepting an Atlas missile test — implying coordinated NHI activity against Vandenberg"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-Qe8br8yYEDM-REFERENCES-claim-Qe8br8yYEDM-barth-same-month-jacobs-atlas-missile",
+      "from_node_id": "video-Qe8br8yYEDM",
+      "to_node_id": "claim-Qe8br8yYEDM-barth-same-month-jacobs-atlas-missile",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Qe8br8yYEDM",
+          "timestamp_start": 309
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-Qe8br8yYEDM-barth-same-month-jacobs-atlas-missile-REFERENCES-person-richard-barth",
+      "from_node_id": "claim-Qe8br8yYEDM-barth-same-month-jacobs-atlas-missile",
+      "to_node_id": "person-richard-barth",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Qe8br8yYEDM",
+          "timestamp_start": 309
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-Qe8br8yYEDM-barth-same-month-jacobs-atlas-missile-REFERENCES-person-bob-jacobs",
+      "from_node_id": "claim-Qe8br8yYEDM-barth-same-month-jacobs-atlas-missile",
+      "to_node_id": "person-bob-jacobs",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Qe8br8yYEDM",
+          "timestamp_start": 309
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-Qe8br8yYEDM-barth-same-month-jacobs-atlas-missile-REFERENCES-incident-1964-big-sur-atlas",
+      "from_node_id": "claim-Qe8br8yYEDM-barth-same-month-jacobs-atlas-missile",
+      "to_node_id": "incident-1964-big-sur-atlas",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Qe8br8yYEDM",
+          "timestamp_start": 309
+        }
+      ]
+    },
+    {
+      "id": "edge-person-richard-barth-ASSERTED-claim-Qe8br8yYEDM-barth-coast-to-coast-compelled-call",
+      "from_node_id": "person-richard-barth",
+      "to_node_id": "claim-Qe8br8yYEDM-barth-coast-to-coast-compelled-call",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Qe8br8yYEDM",
+          "timestamp_start": 329,
+          "quote": "Barth decided to come forward after hearing Robert Hastings on Coast to Coast AM; something 'just compelled' him to call in — ended up getting through, sharing half his story before the call mysteriou"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-Qe8br8yYEDM-REFERENCES-claim-Qe8br8yYEDM-barth-coast-to-coast-compelled-call",
+      "from_node_id": "video-Qe8br8yYEDM",
+      "to_node_id": "claim-Qe8br8yYEDM-barth-coast-to-coast-compelled-call",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Qe8br8yYEDM",
+          "timestamp_start": 329
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-Qe8br8yYEDM-barth-coast-to-coast-compelled-call-REFERENCES-person-robert-hastings",
+      "from_node_id": "claim-Qe8br8yYEDM-barth-coast-to-coast-compelled-call",
+      "to_node_id": "person-robert-hastings",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Qe8br8yYEDM",
+          "timestamp_start": 329
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-Qe8br8yYEDM-barth-2003-2005-vandenberg-incidents",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-Qe8br8yYEDM-barth-2003-2005-vandenberg-incidents",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Qe8br8yYEDM",
+          "timestamp_start": 319,
+          "quote": "Between 2003 and 2005, five UAP incidents occurred at Vandenberg AFB — Vandenberg remains an active UAP hotspot decades after Barth's encounter."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-Qe8br8yYEDM-REFERENCES-claim-Qe8br8yYEDM-barth-2003-2005-vandenberg-incidents",
+      "from_node_id": "video-Qe8br8yYEDM",
+      "to_node_id": "claim-Qe8br8yYEDM-barth-2003-2005-vandenberg-incidents",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Qe8br8yYEDM",
+          "timestamp_start": 319
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-Qe8br8yYEDM-barth-2003-2005-vandenberg-incidents-REFERENCES-location-vandenberg-afb",
+      "from_node_id": "claim-Qe8br8yYEDM-barth-2003-2005-vandenberg-incidents",
+      "to_node_id": "location-vandenberg-afb",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Qe8br8yYEDM",
+          "timestamp_start": 319
+        }
+      ]
     }
   ],
-  "extracted_at": "2026-04-17T11:04:47.310687+00:00",
+  "extracted_at": "2026-04-17T13:13:43.936627+00:00",
   "extractor_version": "v1-inline-claude"
 }

@@ -2040,6 +2040,265 @@
           "video-Y7PLeu5rTv4"
         ]
       }
+    },
+    {
+      "id": "person-e-howard-hunt-extended",
+      "node_type": "person",
+      "label": "E. Howard Hunt (extended)",
+      "summary": "CIA officer, Bay of Pigs action officer; one of the Watergate burglars; author of at least 3 occult novels (one thinly-veiled attack on the Kennedys as Satan worshippers); lived on 'Witches Island'.",
+      "tags": [
+        "CIA",
+        "historical",
+        "Watergate",
+        "novelist"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:07:01.191143+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Y7PLeu5rTv4",
+          "timestamp_start": 35,
+          "quote": "CIA officer; Bay of Pigs architect; Watergate burglar; occult novelist"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Hunt"
+        ],
+        "profession": "intelligence officer / author",
+        "notability_tags": [
+          "CIA",
+          "historical",
+          "Watergate",
+          "novelist"
+        ]
+      }
+    },
+    {
+      "id": "document-secret-machines",
+      "node_type": "document",
+      "label": "Secret Machines",
+      "summary": "Peter Levenda's book on the intersection of secret technology programs and paranormal phenomena.",
+      "tags": [
+        "book"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:07:01.191149+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Y7PLeu5rTv4",
+          "timestamp_start": 7,
+          "timestamp_end": "Peter Levenda's book on technology and the paranormal"
+        }
+      ],
+      "type_specific": {
+        "document_type": "book",
+        "author": "Peter Levenda"
+      }
+    },
+    {
+      "id": "location-witches-island",
+      "node_type": "location",
+      "label": "Witches Island (E. Howard Hunt residence)",
+      "summary": "",
+      "tags": [
+        "observation_site"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:07:01.191152+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Y7PLeu5rTv4",
+          "timestamp_start": 43,
+          "timestamp_end": "Location named 'Witches Island' where Hunt lived"
+        }
+      ],
+      "type_specific": {
+        "location_type": "observation_site",
+        "country": "US"
+      }
+    },
+    {
+      "id": "claim-Y7PLeu5rTv4-levenda-hunt-occult-novels-jfk-satan",
+      "node_type": "claim",
+      "label": "Levenda discovered E. Howard Hunt wrote at least 3 occult novels — one thinly-veiled attack framing ",
+      "summary": "Levenda discovered E. Howard Hunt wrote at least 3 occult novels — one thinly-veiled attack framing the Kennedys as Satan worshippers, reflecting Hunt's Bay-of-Pigs-era vitriol.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:07:01.192197+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Y7PLeu5rTv4",
+          "timestamp_start": 39,
+          "quote": "E. Howard Hunt wrote at least three occult novels. It's an attack on the Kennedys, the Kennedys as Satan worshippers, thinly veiled kind of a story about that. The vitriol that he had for the Kennedys over Bay of Pigs was palpable."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Levenda discovered E. Howard Hunt wrote at least 3 occult novels — one thinly-veiled attack framing the Kennedys as Satan worshippers, reflecting Hunt's Bay-of-Pigs-era vitriol.",
+        "asserted_by_id": "person-peter-levenda",
+        "source_video_id": "Y7PLeu5rTv4",
+        "timestamp_start_seconds": 39,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-peter-levenda",
+          "person-e-howard-hunt-extended",
+          "person-jfk"
+        ]
+      }
+    },
+    {
+      "id": "claim-Y7PLeu5rTv4-levenda-witches-island-hunt",
+      "node_type": "claim",
+      "label": "E. Howard Hunt lived on a place literally named 'Witches Island' — an on-the-nose detail that reinfo",
+      "summary": "E. Howard Hunt lived on a place literally named 'Witches Island' — an on-the-nose detail that reinforces Levenda's thesis that mundane American political history is suffused with occult structure.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:07:01.192216+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Y7PLeu5rTv4",
+          "timestamp_start": 43,
+          "quote": "He lived on a place called Witches Island."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "E. Howard Hunt lived on a place literally named 'Witches Island' — an on-the-nose detail that reinforces Levenda's thesis that mundane American political history is suffused with occult structure.",
+        "asserted_by_id": "person-peter-levenda",
+        "source_video_id": "Y7PLeu5rTv4",
+        "timestamp_start_seconds": 43,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-peter-levenda",
+          "person-e-howard-hunt-extended",
+          "location-witches-island"
+        ]
+      }
+    },
+    {
+      "id": "claim-Y7PLeu5rTv4-levenda-crash-saucer-fight-club",
+      "node_type": "claim",
+      "label": "Levenda posits: 'If we have a crash saucer from the 40s, and they have one too, there is an agreemen",
+      "summary": "Levenda posits: 'If we have a crash saucer from the 40s, and they have one too, there is an agreement between countries that says we're not going to talk about this — it's Fight Club.'",
+      "tags": [
+        "speculation",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:07:01.192232+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Y7PLeu5rTv4",
+          "timestamp_start": 9,
+          "quote": "If we have a crash saucer from the '40s, I would say if we are in possession of it, and they're in possession of it, too, then there is an agreement between countries that says we're not going to talk about this. It's the Fight Club."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Levenda posits: 'If we have a crash saucer from the 40s, and they have one too, there is an agreement between countries that says we're not going to talk about this — it's Fight Club.'",
+        "asserted_by_id": "person-peter-levenda",
+        "source_video_id": "Y7PLeu5rTv4",
+        "timestamp_start_seconds": 9,
+        "assertability": "speculation",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-peter-levenda",
+          "concept-crash-retrieval"
+        ]
+      }
+    },
+    {
+      "id": "claim-Y7PLeu5rTv4-levenda-hunt-deathbed-jfk-conspiracy",
+      "node_type": "claim",
+      "label": "Per Levenda: E. Howard Hunt on his deathbed admitted knowing about a conspiracy to kill Kennedy — pl",
+      "summary": "Per Levenda: E. Howard Hunt on his deathbed admitted knowing about a conspiracy to kill Kennedy — placing Hunt among the last CIA voices confirming JFK was assassinated over 'the alien presence.'",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:07:01.192245+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Y7PLeu5rTv4",
+          "timestamp_start": 13,
+          "quote": "JFK was assassinated over quote unquote the alien presence. E. Howard Hunt on his deathbed did claim that there was a conspiracy to kill Kennedy that he knew about it."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Per Levenda: E. Howard Hunt on his deathbed admitted knowing about a conspiracy to kill Kennedy — placing Hunt among the last CIA voices confirming JFK was assassinated over 'the alien presence.'",
+        "asserted_by_id": "person-peter-levenda",
+        "source_video_id": "Y7PLeu5rTv4",
+        "timestamp_start_seconds": 13,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-peter-levenda",
+          "person-e-howard-hunt-extended",
+          "person-jfk"
+        ]
+      }
+    },
+    {
+      "id": "claim-Y7PLeu5rTv4-levenda-illuminati-poster-dupont",
+      "node_type": "claim",
+      "label": "Levenda recounts: on his first Watergate/Nazi-occultism research trip to the National Archives (1970",
+      "summary": "Levenda recounts: on his first Watergate/Nazi-occultism research trip to the National Archives (1970s), his low-cost hotel off Dupont Circle DC had a huge Illuminati-eye-in-pyramid poster already on the wall — 'too on the nose' as a hint he was on the right thread.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:07:01.192256+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Y7PLeu5rTv4",
+          "timestamp_start": 33,
+          "quote": "I rented a room in a low-cost hotel off Dupont Circle, and somebody had left this huge poster of the eye in the pyramid. I'm thinking this is a little bit too on the nose."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Levenda recounts: on his first Watergate/Nazi-occultism research trip to the National Archives (1970s), his low-cost hotel off Dupont Circle DC had a huge Illuminati-eye-in-pyramid poster already on the wall — 'too on the nose' as a hint he was on the right thread.",
+        "asserted_by_id": "person-peter-levenda",
+        "source_video_id": "Y7PLeu5rTv4",
+        "timestamp_start_seconds": 33,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-peter-levenda",
+          "document-sinister-forces"
+        ]
+      }
     }
   ],
   "edges": [
@@ -3157,8 +3416,265 @@
           "timestamp_start": 0
         }
       ]
+    },
+    {
+      "id": "edge-person-peter-levenda-ASSERTED-claim-Y7PLeu5rTv4-levenda-hunt-occult-novels-jfk-satan",
+      "from_node_id": "person-peter-levenda",
+      "to_node_id": "claim-Y7PLeu5rTv4-levenda-hunt-occult-novels-jfk-satan",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Y7PLeu5rTv4",
+          "timestamp_start": 39,
+          "quote": "Levenda discovered E. Howard Hunt wrote at least 3 occult novels — one thinly-veiled attack framing the Kennedys as Satan worshippers, reflecting Hunt's Bay-of-Pigs-era vitriol."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-Y7PLeu5rTv4-REFERENCES-claim-Y7PLeu5rTv4-levenda-hunt-occult-novels-jfk-satan",
+      "from_node_id": "video-Y7PLeu5rTv4",
+      "to_node_id": "claim-Y7PLeu5rTv4-levenda-hunt-occult-novels-jfk-satan",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Y7PLeu5rTv4",
+          "timestamp_start": 39
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-Y7PLeu5rTv4-levenda-hunt-occult-novels-jfk-satan-REFERENCES-person-e-howard-hunt-extended",
+      "from_node_id": "claim-Y7PLeu5rTv4-levenda-hunt-occult-novels-jfk-satan",
+      "to_node_id": "person-e-howard-hunt-extended",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Y7PLeu5rTv4",
+          "timestamp_start": 39
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-Y7PLeu5rTv4-levenda-hunt-occult-novels-jfk-satan-REFERENCES-person-jfk",
+      "from_node_id": "claim-Y7PLeu5rTv4-levenda-hunt-occult-novels-jfk-satan",
+      "to_node_id": "person-jfk",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Y7PLeu5rTv4",
+          "timestamp_start": 39
+        }
+      ]
+    },
+    {
+      "id": "edge-person-peter-levenda-ASSERTED-claim-Y7PLeu5rTv4-levenda-witches-island-hunt",
+      "from_node_id": "person-peter-levenda",
+      "to_node_id": "claim-Y7PLeu5rTv4-levenda-witches-island-hunt",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Y7PLeu5rTv4",
+          "timestamp_start": 43,
+          "quote": "E. Howard Hunt lived on a place literally named 'Witches Island' — an on-the-nose detail that reinforces Levenda's thesis that mundane American political history is suffused with occult structure."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-Y7PLeu5rTv4-REFERENCES-claim-Y7PLeu5rTv4-levenda-witches-island-hunt",
+      "from_node_id": "video-Y7PLeu5rTv4",
+      "to_node_id": "claim-Y7PLeu5rTv4-levenda-witches-island-hunt",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Y7PLeu5rTv4",
+          "timestamp_start": 43
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-Y7PLeu5rTv4-levenda-witches-island-hunt-REFERENCES-person-e-howard-hunt-extended",
+      "from_node_id": "claim-Y7PLeu5rTv4-levenda-witches-island-hunt",
+      "to_node_id": "person-e-howard-hunt-extended",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Y7PLeu5rTv4",
+          "timestamp_start": 43
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-Y7PLeu5rTv4-levenda-witches-island-hunt-REFERENCES-location-witches-island",
+      "from_node_id": "claim-Y7PLeu5rTv4-levenda-witches-island-hunt",
+      "to_node_id": "location-witches-island",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Y7PLeu5rTv4",
+          "timestamp_start": 43
+        }
+      ]
+    },
+    {
+      "id": "edge-person-peter-levenda-ASSERTED-claim-Y7PLeu5rTv4-levenda-crash-saucer-fight-club",
+      "from_node_id": "person-peter-levenda",
+      "to_node_id": "claim-Y7PLeu5rTv4-levenda-crash-saucer-fight-club",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Y7PLeu5rTv4",
+          "timestamp_start": 9,
+          "quote": "Levenda posits: 'If we have a crash saucer from the 40s, and they have one too, there is an agreement between countries that says we're not going to talk about this — it's Fight Club.'"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-Y7PLeu5rTv4-REFERENCES-claim-Y7PLeu5rTv4-levenda-crash-saucer-fight-club",
+      "from_node_id": "video-Y7PLeu5rTv4",
+      "to_node_id": "claim-Y7PLeu5rTv4-levenda-crash-saucer-fight-club",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Y7PLeu5rTv4",
+          "timestamp_start": 9
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-Y7PLeu5rTv4-levenda-crash-saucer-fight-club-REFERENCES-concept-crash-retrieval",
+      "from_node_id": "claim-Y7PLeu5rTv4-levenda-crash-saucer-fight-club",
+      "to_node_id": "concept-crash-retrieval",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Y7PLeu5rTv4",
+          "timestamp_start": 9
+        }
+      ]
+    },
+    {
+      "id": "edge-person-peter-levenda-ASSERTED-claim-Y7PLeu5rTv4-levenda-hunt-deathbed-jfk-conspiracy",
+      "from_node_id": "person-peter-levenda",
+      "to_node_id": "claim-Y7PLeu5rTv4-levenda-hunt-deathbed-jfk-conspiracy",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Y7PLeu5rTv4",
+          "timestamp_start": 13,
+          "quote": "Per Levenda: E. Howard Hunt on his deathbed admitted knowing about a conspiracy to kill Kennedy — placing Hunt among the last CIA voices confirming JFK was assassinated over 'the alien presence.'"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-Y7PLeu5rTv4-REFERENCES-claim-Y7PLeu5rTv4-levenda-hunt-deathbed-jfk-conspiracy",
+      "from_node_id": "video-Y7PLeu5rTv4",
+      "to_node_id": "claim-Y7PLeu5rTv4-levenda-hunt-deathbed-jfk-conspiracy",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Y7PLeu5rTv4",
+          "timestamp_start": 13
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-Y7PLeu5rTv4-levenda-hunt-deathbed-jfk-conspiracy-REFERENCES-person-e-howard-hunt-extended",
+      "from_node_id": "claim-Y7PLeu5rTv4-levenda-hunt-deathbed-jfk-conspiracy",
+      "to_node_id": "person-e-howard-hunt-extended",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Y7PLeu5rTv4",
+          "timestamp_start": 13
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-Y7PLeu5rTv4-levenda-hunt-deathbed-jfk-conspiracy-REFERENCES-person-jfk",
+      "from_node_id": "claim-Y7PLeu5rTv4-levenda-hunt-deathbed-jfk-conspiracy",
+      "to_node_id": "person-jfk",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Y7PLeu5rTv4",
+          "timestamp_start": 13
+        }
+      ]
+    },
+    {
+      "id": "edge-person-peter-levenda-ASSERTED-claim-Y7PLeu5rTv4-levenda-illuminati-poster-dupont",
+      "from_node_id": "person-peter-levenda",
+      "to_node_id": "claim-Y7PLeu5rTv4-levenda-illuminati-poster-dupont",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Y7PLeu5rTv4",
+          "timestamp_start": 33,
+          "quote": "Levenda recounts: on his first Watergate/Nazi-occultism research trip to the National Archives (1970s), his low-cost hotel off Dupont Circle DC had a huge Illuminati-eye-in-pyramid poster already on t"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-Y7PLeu5rTv4-REFERENCES-claim-Y7PLeu5rTv4-levenda-illuminati-poster-dupont",
+      "from_node_id": "video-Y7PLeu5rTv4",
+      "to_node_id": "claim-Y7PLeu5rTv4-levenda-illuminati-poster-dupont",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Y7PLeu5rTv4",
+          "timestamp_start": 33
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-Y7PLeu5rTv4-levenda-illuminati-poster-dupont-REFERENCES-document-sinister-forces",
+      "from_node_id": "claim-Y7PLeu5rTv4-levenda-illuminati-poster-dupont",
+      "to_node_id": "document-sinister-forces",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Y7PLeu5rTv4",
+          "timestamp_start": 33
+        }
+      ]
     }
   ],
-  "extracted_at": "2026-04-17T11:04:34.941120+00:00",
+  "extracted_at": "2026-04-17T13:07:01.192265+00:00",
   "extractor_version": "v1-inline-claude"
 }

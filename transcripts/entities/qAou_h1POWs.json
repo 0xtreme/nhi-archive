@@ -431,6 +431,386 @@
           "video-qAou_h1POWs"
         ]
       }
+    },
+    {
+      "id": "person-deep-prasad",
+      "node_type": "person",
+      "label": "Deep Prasad",
+      "summary": "Canadian quantum-computing entrepreneur; CEO of Quantum Generative Materials; $15M raised to simulate UFO-observed meta-materials using quantum computers.",
+      "tags": [
+        "scientist",
+        "entrepreneur",
+        "quantum"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.737042+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "qAou_h1POWs",
+          "timestamp_start": 10,
+          "quote": "26-year-old CEO of Quantum Generative Materials"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Prasad"
+        ],
+        "profession": "entrepreneur / physicist",
+        "notability_tags": [
+          "scientist",
+          "entrepreneur",
+          "quantum"
+        ]
+      }
+    },
+    {
+      "id": "concept-five-observables",
+      "node_type": "concept",
+      "label": "Five Observables (DoD UAP Properties)",
+      "summary": "DoD-specified set of five consistent properties observed in UAP data (e.g., sudden instantaneous acceleration, hypersonic velocity with no signatures, trans-medium travel); used as engineering target for physics research.",
+      "tags": [
+        "physics"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.737258+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "qAou_h1POWs",
+          "timestamp_start": 8,
+          "timestamp_end": "DoD has laid out five observable properties consistent across UFO sightings"
+        }
+      ],
+      "type_specific": {
+        "concept_domain": "physics"
+      }
+    },
+    {
+      "id": "concept-macroscopic-quantum-behavior",
+      "node_type": "concept",
+      "label": "Macroscopic Quantum Behavior",
+      "summary": "Hypothesis that UAPs exhibit quantum-mechanical effects (entanglement, superposition, tunneling) at macroscopic scales, analogous to superconductivity emerging from quantum mechanics.",
+      "tags": [
+        "physics"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.737263+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "qAou_h1POWs",
+          "timestamp_start": 14,
+          "timestamp_end": "UFOs as large macroscopic quantum objects"
+        }
+      ],
+      "type_specific": {
+        "concept_domain": "physics"
+      }
+    },
+    {
+      "id": "person-onnes",
+      "node_type": "person",
+      "label": "Heike Kamerlingh Onnes",
+      "summary": "Dutch physicist who discovered superconductivity in 1911, a foundational example of macroscopic quantum behavior.",
+      "tags": [
+        "physicist",
+        "historical",
+        "nobel"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.737267+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "qAou_h1POWs",
+          "timestamp_start": 27,
+          "quote": "Discovered first superconductor in 1911"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Onnes"
+        ],
+        "profession": "physicist",
+        "notability_tags": [
+          "physicist",
+          "historical",
+          "nobel"
+        ]
+      }
+    },
+    {
+      "id": "concept-schrodinger-many-body",
+      "node_type": "concept",
+      "label": "Schrödinger Many-Body Equation",
+      "summary": "The multi-particle Schrödinger equation; classically intractable beyond ~3 atoms. Deep Prasad claims quantum computers can make it tractable, unlocking meta-material simulation.",
+      "tags": [
+        "physics"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.737269+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "qAou_h1POWs",
+          "timestamp_start": 37,
+          "timestamp_end": "Classical equation for simulating material properties"
+        }
+      ],
+      "type_specific": {
+        "concept_domain": "physics"
+      }
+    },
+    {
+      "id": "claim-qAou_h1POWs-prasad-qgm-15m",
+      "node_type": "claim",
+      "label": "Deep Prasad's startup Quantum Generative Materials has raised $15M to use quantum computing to rever",
+      "summary": "Deep Prasad's startup Quantum Generative Materials has raised $15M to use quantum computing to reverse-engineer UFO meta-materials from their observed properties.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.738708+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "qAou_h1POWs",
+          "timestamp_start": 10,
+          "quote": "Deep Prasad reverse engineering UFOs using quantum computers and he's raised 15 million dollars for his startup quantum generative materials."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Deep Prasad's startup Quantum Generative Materials has raised $15M to use quantum computing to reverse-engineer UFO meta-materials from their observed properties.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "qAou_h1POWs",
+        "timestamp_start_seconds": 10,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-deep-prasad",
+          "concept-reverse-engineering"
+        ]
+      }
+    },
+    {
+      "id": "claim-qAou_h1POWs-five-observables-dod",
+      "node_type": "claim",
+      "label": "The DoD has formally characterized five observables consistent across UAP sightings (sudden accelera",
+      "summary": "The DoD has formally characterized five observables consistent across UAP sightings (sudden acceleration, hypersonic velocity without signature, trans-medium travel, low observability, positive lift) as engineering targets.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.738717+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "qAou_h1POWs",
+          "timestamp_start": 14,
+          "quote": "The DoD has laid out five observable properties that are very consistent among the ufo sightings."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "The DoD has formally characterized five observables consistent across UAP sightings (sudden acceleration, hypersonic velocity without signature, trans-medium travel, low observability, positive lift) as engineering targets.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "qAou_h1POWs",
+        "timestamp_start_seconds": 14,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "concept-five-observables",
+          "concept-nhi"
+        ]
+      }
+    },
+    {
+      "id": "claim-qAou_h1POWs-prasad-tic-tac-mach-31",
+      "node_type": "claim",
+      "label": "Prasad cites the 2004 Nimitz Tic Tac as reaching at least 31× the speed of sound without atmospheric",
+      "summary": "Prasad cites the 2004 Nimitz Tic Tac as reaching at least 31× the speed of sound without atmospheric disturbance — behavior inconsistent with conventional macroscopic aerodynamics.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.738729+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "qAou_h1POWs",
+          "timestamp_start": 22,
+          "quote": "The tic-tac is estimated to reach at least 31 times the speed of sound and it doesn't disturb the air around you."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Prasad cites the 2004 Nimitz Tic Tac as reaching at least 31× the speed of sound without atmospheric disturbance — behavior inconsistent with conventional macroscopic aerodynamics.",
+        "asserted_by_id": "person-deep-prasad",
+        "source_video_id": "qAou_h1POWs",
+        "timestamp_start_seconds": 22,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-deep-prasad",
+          "technology-tic-tac"
+        ]
+      }
+    },
+    {
+      "id": "claim-qAou_h1POWs-prasad-eric-weinstein-new-physics",
+      "node_type": "claim",
+      "label": "Prasad agrees with Eric Weinstein's framing: UAPs exhibit 'wholly new physics, not just new engineer",
+      "summary": "Prasad agrees with Eric Weinstein's framing: UAPs exhibit 'wholly new physics, not just new engineering.'",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.738735+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "qAou_h1POWs",
+          "timestamp_start": 24,
+          "quote": "Like my colleague Eric Weinstein likes to say this isn't new engineering it's new physics."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Prasad agrees with Eric Weinstein's framing: UAPs exhibit 'wholly new physics, not just new engineering.'",
+        "asserted_by_id": "person-deep-prasad",
+        "source_video_id": "qAou_h1POWs",
+        "timestamp_start_seconds": 24,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-deep-prasad",
+          "person-eric-weinstein"
+        ]
+      }
+    },
+    {
+      "id": "claim-qAou_h1POWs-aerospace-holding-physics-knowledge",
+      "node_type": "claim",
+      "label": "Prasad asserts aerospace companies hold fundamental scientific knowledge — particularly materials an",
+      "summary": "Prasad asserts aerospace companies hold fundamental scientific knowledge — particularly materials and topological physics — that is not shared with the academic world.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.738744+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "qAou_h1POWs",
+          "timestamp_start": 26,
+          "quote": "The role of aerospace companies as holders of potentially basic scientific knowledge not shared with the academic world. There certainly is materials knowledge which involves topological physics."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Prasad asserts aerospace companies hold fundamental scientific knowledge — particularly materials and topological physics — that is not shared with the academic world.",
+        "asserted_by_id": "person-deep-prasad",
+        "source_video_id": "qAou_h1POWs",
+        "timestamp_start_seconds": 26,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-deep-prasad",
+          "organization-lockheed-martin"
+        ]
+      }
+    },
+    {
+      "id": "claim-qAou_h1POWs-prasad-superconductor-analogy",
+      "node_type": "claim",
+      "label": "Prasad uses the 1911 superconductor discovery by Onnes as paradigm — macroscopic quantum behavior wa",
+      "summary": "Prasad uses the 1911 superconductor discovery by Onnes as paradigm — macroscopic quantum behavior was once thought impossible and required 40 years of theory to understand; UAP observables may be an analogous macroscopic quantum phenomenon.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.738750+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "qAou_h1POWs",
+          "timestamp_start": 30,
+          "quote": "In 1911 when Onnes discovered the first superconductor it blew everybody's mind because this was supposed to be thought impossible."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Prasad uses the 1911 superconductor discovery by Onnes as paradigm — macroscopic quantum behavior was once thought impossible and required 40 years of theory to understand; UAP observables may be an analogous macroscopic quantum phenomenon.",
+        "asserted_by_id": "person-deep-prasad",
+        "source_video_id": "qAou_h1POWs",
+        "timestamp_start_seconds": 30,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-deep-prasad",
+          "person-onnes",
+          "concept-macroscopic-quantum-behavior"
+        ]
+      }
+    },
+    {
+      "id": "claim-qAou_h1POWs-prasad-hal-puthoff-meeting",
+      "node_type": "claim",
+      "label": "Prasad and Eric Weinstein met with Hal Puthoff (cited as 'the guy who briefs all of the presidents o",
+      "summary": "Prasad and Eric Weinstein met with Hal Puthoff (cited as 'the guy who briefs all of the presidents on UFOs') for an extended physics conversation.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.738760+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "qAou_h1POWs",
+          "timestamp_start": 26,
+          "quote": "Eric and I had a pretty trippy conversation with the guy that briefs all of the presidents on ufos a guy named Hal Puthoff."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Prasad and Eric Weinstein met with Hal Puthoff (cited as 'the guy who briefs all of the presidents on UFOs') for an extended physics conversation.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "qAou_h1POWs",
+        "timestamp_start_seconds": 26,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-deep-prasad",
+          "person-eric-weinstein",
+          "person-hal-puthoff"
+        ]
+      }
     }
   ],
   "edges": [
@@ -690,8 +1070,379 @@
           "timestamp_start": 0
         }
       ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-qAou_h1POWs-prasad-qgm-15m",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-qAou_h1POWs-prasad-qgm-15m",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "qAou_h1POWs",
+          "timestamp_start": 10,
+          "quote": "Deep Prasad's startup Quantum Generative Materials has raised $15M to use quantum computing to reverse-engineer UFO meta-materials from their observed properties."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-qAou_h1POWs-REFERENCES-claim-qAou_h1POWs-prasad-qgm-15m",
+      "from_node_id": "video-qAou_h1POWs",
+      "to_node_id": "claim-qAou_h1POWs-prasad-qgm-15m",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "qAou_h1POWs",
+          "timestamp_start": 10
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-qAou_h1POWs-prasad-qgm-15m-REFERENCES-person-deep-prasad",
+      "from_node_id": "claim-qAou_h1POWs-prasad-qgm-15m",
+      "to_node_id": "person-deep-prasad",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "qAou_h1POWs",
+          "timestamp_start": 10
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-qAou_h1POWs-prasad-qgm-15m-REFERENCES-concept-reverse-engineering",
+      "from_node_id": "claim-qAou_h1POWs-prasad-qgm-15m",
+      "to_node_id": "concept-reverse-engineering",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "qAou_h1POWs",
+          "timestamp_start": 10
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-qAou_h1POWs-five-observables-dod",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-qAou_h1POWs-five-observables-dod",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "qAou_h1POWs",
+          "timestamp_start": 14,
+          "quote": "The DoD has formally characterized five observables consistent across UAP sightings (sudden acceleration, hypersonic velocity without signature, trans-medium travel, low observability, positive lift) "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-qAou_h1POWs-REFERENCES-claim-qAou_h1POWs-five-observables-dod",
+      "from_node_id": "video-qAou_h1POWs",
+      "to_node_id": "claim-qAou_h1POWs-five-observables-dod",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "qAou_h1POWs",
+          "timestamp_start": 14
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-qAou_h1POWs-five-observables-dod-REFERENCES-concept-five-observables",
+      "from_node_id": "claim-qAou_h1POWs-five-observables-dod",
+      "to_node_id": "concept-five-observables",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "qAou_h1POWs",
+          "timestamp_start": 14
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-qAou_h1POWs-five-observables-dod-REFERENCES-concept-nhi",
+      "from_node_id": "claim-qAou_h1POWs-five-observables-dod",
+      "to_node_id": "concept-nhi",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "qAou_h1POWs",
+          "timestamp_start": 14
+        }
+      ]
+    },
+    {
+      "id": "edge-person-deep-prasad-ASSERTED-claim-qAou_h1POWs-prasad-tic-tac-mach-31",
+      "from_node_id": "person-deep-prasad",
+      "to_node_id": "claim-qAou_h1POWs-prasad-tic-tac-mach-31",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "qAou_h1POWs",
+          "timestamp_start": 22,
+          "quote": "Prasad cites the 2004 Nimitz Tic Tac as reaching at least 31× the speed of sound without atmospheric disturbance — behavior inconsistent with conventional macroscopic aerodynamics."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-qAou_h1POWs-REFERENCES-claim-qAou_h1POWs-prasad-tic-tac-mach-31",
+      "from_node_id": "video-qAou_h1POWs",
+      "to_node_id": "claim-qAou_h1POWs-prasad-tic-tac-mach-31",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "qAou_h1POWs",
+          "timestamp_start": 22
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-qAou_h1POWs-prasad-tic-tac-mach-31-REFERENCES-technology-tic-tac",
+      "from_node_id": "claim-qAou_h1POWs-prasad-tic-tac-mach-31",
+      "to_node_id": "technology-tic-tac",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "qAou_h1POWs",
+          "timestamp_start": 22
+        }
+      ]
+    },
+    {
+      "id": "edge-person-deep-prasad-ASSERTED-claim-qAou_h1POWs-prasad-eric-weinstein-new-physics",
+      "from_node_id": "person-deep-prasad",
+      "to_node_id": "claim-qAou_h1POWs-prasad-eric-weinstein-new-physics",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "qAou_h1POWs",
+          "timestamp_start": 24,
+          "quote": "Prasad agrees with Eric Weinstein's framing: UAPs exhibit 'wholly new physics, not just new engineering.'"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-qAou_h1POWs-REFERENCES-claim-qAou_h1POWs-prasad-eric-weinstein-new-physics",
+      "from_node_id": "video-qAou_h1POWs",
+      "to_node_id": "claim-qAou_h1POWs-prasad-eric-weinstein-new-physics",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "qAou_h1POWs",
+          "timestamp_start": 24
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-qAou_h1POWs-prasad-eric-weinstein-new-physics-REFERENCES-person-eric-weinstein",
+      "from_node_id": "claim-qAou_h1POWs-prasad-eric-weinstein-new-physics",
+      "to_node_id": "person-eric-weinstein",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "qAou_h1POWs",
+          "timestamp_start": 24
+        }
+      ]
+    },
+    {
+      "id": "edge-person-deep-prasad-ASSERTED-claim-qAou_h1POWs-aerospace-holding-physics-knowledge",
+      "from_node_id": "person-deep-prasad",
+      "to_node_id": "claim-qAou_h1POWs-aerospace-holding-physics-knowledge",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "qAou_h1POWs",
+          "timestamp_start": 26,
+          "quote": "Prasad asserts aerospace companies hold fundamental scientific knowledge — particularly materials and topological physics — that is not shared with the academic world."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-qAou_h1POWs-REFERENCES-claim-qAou_h1POWs-aerospace-holding-physics-knowledge",
+      "from_node_id": "video-qAou_h1POWs",
+      "to_node_id": "claim-qAou_h1POWs-aerospace-holding-physics-knowledge",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "qAou_h1POWs",
+          "timestamp_start": 26
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-qAou_h1POWs-aerospace-holding-physics-knowledge-REFERENCES-organization-lockheed-martin",
+      "from_node_id": "claim-qAou_h1POWs-aerospace-holding-physics-knowledge",
+      "to_node_id": "organization-lockheed-martin",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "qAou_h1POWs",
+          "timestamp_start": 26
+        }
+      ]
+    },
+    {
+      "id": "edge-person-deep-prasad-ASSERTED-claim-qAou_h1POWs-prasad-superconductor-analogy",
+      "from_node_id": "person-deep-prasad",
+      "to_node_id": "claim-qAou_h1POWs-prasad-superconductor-analogy",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "qAou_h1POWs",
+          "timestamp_start": 30,
+          "quote": "Prasad uses the 1911 superconductor discovery by Onnes as paradigm — macroscopic quantum behavior was once thought impossible and required 40 years of theory to understand; UAP observables may be an a"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-qAou_h1POWs-REFERENCES-claim-qAou_h1POWs-prasad-superconductor-analogy",
+      "from_node_id": "video-qAou_h1POWs",
+      "to_node_id": "claim-qAou_h1POWs-prasad-superconductor-analogy",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "qAou_h1POWs",
+          "timestamp_start": 30
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-qAou_h1POWs-prasad-superconductor-analogy-REFERENCES-person-onnes",
+      "from_node_id": "claim-qAou_h1POWs-prasad-superconductor-analogy",
+      "to_node_id": "person-onnes",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "qAou_h1POWs",
+          "timestamp_start": 30
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-qAou_h1POWs-prasad-superconductor-analogy-REFERENCES-concept-macroscopic-quantum-behavior",
+      "from_node_id": "claim-qAou_h1POWs-prasad-superconductor-analogy",
+      "to_node_id": "concept-macroscopic-quantum-behavior",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "qAou_h1POWs",
+          "timestamp_start": 30
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-qAou_h1POWs-prasad-hal-puthoff-meeting",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-qAou_h1POWs-prasad-hal-puthoff-meeting",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "qAou_h1POWs",
+          "timestamp_start": 26,
+          "quote": "Prasad and Eric Weinstein met with Hal Puthoff (cited as 'the guy who briefs all of the presidents on UFOs') for an extended physics conversation."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-qAou_h1POWs-REFERENCES-claim-qAou_h1POWs-prasad-hal-puthoff-meeting",
+      "from_node_id": "video-qAou_h1POWs",
+      "to_node_id": "claim-qAou_h1POWs-prasad-hal-puthoff-meeting",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "qAou_h1POWs",
+          "timestamp_start": 26
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-qAou_h1POWs-prasad-hal-puthoff-meeting-REFERENCES-person-deep-prasad",
+      "from_node_id": "claim-qAou_h1POWs-prasad-hal-puthoff-meeting",
+      "to_node_id": "person-deep-prasad",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "qAou_h1POWs",
+          "timestamp_start": 26
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-qAou_h1POWs-prasad-hal-puthoff-meeting-REFERENCES-person-eric-weinstein",
+      "from_node_id": "claim-qAou_h1POWs-prasad-hal-puthoff-meeting",
+      "to_node_id": "person-eric-weinstein",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "qAou_h1POWs",
+          "timestamp_start": 26
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-qAou_h1POWs-prasad-hal-puthoff-meeting-REFERENCES-person-hal-puthoff",
+      "from_node_id": "claim-qAou_h1POWs-prasad-hal-puthoff-meeting",
+      "to_node_id": "person-hal-puthoff",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "qAou_h1POWs",
+          "timestamp_start": 26
+        }
+      ]
     }
   ],
-  "extracted_at": "2026-04-17T11:04:10.192489+00:00",
+  "extracted_at": "2026-04-17T12:13:23.738767+00:00",
   "extractor_version": "v1-inline-claude"
 }

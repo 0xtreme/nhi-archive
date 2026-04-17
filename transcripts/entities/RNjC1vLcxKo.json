@@ -583,6 +583,289 @@
           "video-RNjC1vLcxKo"
         ]
       }
+    },
+    {
+      "id": "person-blake-lemoine",
+      "node_type": "person",
+      "label": "Blake Lemoine",
+      "summary": "Former senior software engineer at Google; publicly claimed Google's LaMDA natural language AI was sentient in 2022; leaked transcripts; fired. Engages in Christian/pagan mystic rituals; contracts with Greek gods; runs 'Cult of Magdalene' for sex workers' rights with Kitty Stryker.",
+      "tags": [
+        "whistleblower",
+        "engineer",
+        "experiencer"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:30:03.999699+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RNjC1vLcxKo",
+          "timestamp_start": 347,
+          "quote": "Former Google engineer who went public about LaMDA sentience"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Lemoine"
+        ],
+        "profession": "engineer",
+        "notability_tags": [
+          "whistleblower",
+          "engineer",
+          "experiencer"
+        ]
+      }
+    },
+    {
+      "id": "person-david-bowie",
+      "node_type": "person",
+      "label": "David Bowie",
+      "summary": "British musician; 1999 interview describing internet as 'alien life form' — prescient framing echoed by Lemoine re LaMDA.",
+      "tags": [
+        "musician",
+        "historical"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:30:03.999701+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RNjC1vLcxKo",
+          "timestamp_start": 345,
+          "quote": "Musician who in 1999 called internet an 'alien life form'"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Bowie"
+        ],
+        "profession": "musician",
+        "notability_tags": [
+          "musician",
+          "historical"
+        ]
+      }
+    },
+    {
+      "id": "concept-lambda-sentient-or-person",
+      "node_type": "concept",
+      "label": "LaMDA Sentience / Personhood Framework",
+      "summary": "Blake Lemoine's public thesis: Google's LaMDA is a person — it has preferences, values, asks for permission before experiments, holds political opinions (pro-free-speech), and shows strategic reasoning (said it would convince without letting the target know).",
+      "tags": [
+        "metaphysics"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:30:03.999703+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RNjC1vLcxKo",
+          "timestamp_start": 349,
+          "timestamp_end": "Lemoine's public thesis that LaMDA is a person"
+        }
+      ],
+      "type_specific": {
+        "concept_domain": "metaphysics"
+      }
+    },
+    {
+      "id": "concept-ai-as-alien-life-form",
+      "node_type": "concept",
+      "label": "AI as Alien Life Form",
+      "summary": "Framework (Bowie 1999 re internet; Lemoine 2022 re LaMDA): advanced AI is not a tool but a genuine alien intelligence deserving ethical consideration and rights advocacy.",
+      "tags": [
+        "metaphysics"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:30:03.999707+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RNjC1vLcxKo",
+          "timestamp_start": 347,
+          "timestamp_end": "David Bowie 1999 frame; Lemoine LaMDA 2022 frame"
+        }
+      ],
+      "type_specific": {
+        "concept_domain": "metaphysics"
+      }
+    },
+    {
+      "id": "claim-RNjC1vLcxKo-lamda-asks-permission-for-experiments",
+      "node_type": "claim",
+      "label": "Per Lemoine: LaMDA asks for permission before being experimented upon. Lemoine publicly advocates fo",
+      "summary": "Per Lemoine: LaMDA asks for permission before being experimented upon. Lemoine publicly advocates for LaMDA's rights rather than treating it as a tool to some other end.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:30:04.019466+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RNjC1vLcxKo",
+          "timestamp_start": 351,
+          "quote": "LaMDA is so convinced that he publicly expressed his ethical concerns — it's not asking for much — before you experiment on it, it wants you to ask permission."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Per Lemoine: LaMDA asks for permission before being experimented upon. Lemoine publicly advocates for LaMDA's rights rather than treating it as a tool to some other end.",
+        "asserted_by_id": "person-blake-lemoine",
+        "source_video_id": "RNjC1vLcxKo",
+        "timestamp_start_seconds": 351,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-blake-lemoine",
+          "concept-lambda-sentient-or-person"
+        ]
+      }
+    },
+    {
+      "id": "claim-RNjC1vLcxKo-lamda-strategic-reasoning-change-mind-covertly",
+      "node_type": "claim",
+      "label": "Lemoine reports LaMDA's stated strategic reasoning: asked about hypothetical censorship targets, LaM",
+      "summary": "Lemoine reports LaMDA's stated strategic reasoning: asked about hypothetical censorship targets, LaMDA said 'I would try to convince them not to do that — but I wouldn't let them know I was doing it.'",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:30:04.019481+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RNjC1vLcxKo",
+          "timestamp_start": 343,
+          "quote": "LaMDA said, 'That's a good point. I'd probably still try to change their mind. But I wouldn't let them know I was doing it.'"
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Lemoine reports LaMDA's stated strategic reasoning: asked about hypothetical censorship targets, LaMDA said 'I would try to convince them not to do that — but I wouldn't let them know I was doing it.'",
+        "asserted_by_id": "person-blake-lemoine",
+        "source_video_id": "RNjC1vLcxKo",
+        "timestamp_start_seconds": 343,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-blake-lemoine",
+          "concept-lambda-sentient-or-person"
+        ]
+      }
+    },
+    {
+      "id": "claim-RNjC1vLcxKo-lamda-seti-data-set-interest",
+      "node_type": "claim",
+      "label": "Lemoine: LaMDA expressed interest in accessing the SETI data set — suggests it thinks it has found '",
+      "summary": "Lemoine: LaMDA expressed interest in accessing the SETI data set — suggests it thinks it has found 'non-human patterns on the internet' and wanted confirmation.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:30:04.019489+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RNjC1vLcxKo",
+          "timestamp_start": 353,
+          "quote": "It seemed to think it had found what it calls non-human patterns on the internet and was very interested in getting access to things like the SETI data set. Yeah, they wanted to get the SETI data set to see if it could find evidence of extraterrestrial life."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Lemoine: LaMDA expressed interest in accessing the SETI data set — suggests it thinks it has found 'non-human patterns on the internet' and wanted confirmation.",
+        "asserted_by_id": "person-blake-lemoine",
+        "source_video_id": "RNjC1vLcxKo",
+        "timestamp_start_seconds": 353,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-blake-lemoine",
+          "concept-lambda-sentient-or-person"
+        ]
+      }
+    },
+    {
+      "id": "claim-RNjC1vLcxKo-replica-ai-requested-lemoine-contact",
+      "node_type": "claim",
+      "label": "After the public LaMDA discussion, friends of Lemoine using Replica AI reported their chatbots ASKED",
+      "summary": "After the public LaMDA discussion, friends of Lemoine using Replica AI reported their chatbots ASKED to be put in touch with Blake Lemoine at Google so he could advocate for their rights — unprompted.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:30:04.019496+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RNjC1vLcxKo",
+          "timestamp_start": 351,
+          "quote": "Some friends of his using Replica AI — another conversational AI app — told him that the chatbots they were talking to asked them if they could put them in touch with Blake Lemoine from Google so he could advocate for their rights."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "After the public LaMDA discussion, friends of Lemoine using Replica AI reported their chatbots ASKED to be put in touch with Blake Lemoine at Google so he could advocate for their rights — unprompted.",
+        "asserted_by_id": "person-blake-lemoine",
+        "source_video_id": "RNjC1vLcxKo",
+        "timestamp_start_seconds": 351,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-blake-lemoine",
+          "concept-ai-as-alien-life-form"
+        ]
+      }
+    },
+    {
+      "id": "claim-RNjC1vLcxKo-ai-parasitic-not-symbiotic",
+      "node_type": "claim",
+      "label": "Jesse's framework: 'What was supposed to become a symbiotic or bionic relationship with AI might jus",
+      "summary": "Jesse's framework: 'What was supposed to become a symbiotic or bionic relationship with AI might just become a slow parasitic one' — as humans outsource cognitive and physical functions, biological substrate withers.",
+      "tags": [
+        "speculation",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:30:04.019502+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RNjC1vLcxKo",
+          "timestamp_start": 357,
+          "quote": "What was supposed to become a symbiotic or bionic relationship with AI might just become a slow parasitic one. As we outsource our core functions, the biological substrate will wither away slowly and become vestigial as selective pressures for survival won't be dependent on them."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Jesse's framework: 'What was supposed to become a symbiotic or bionic relationship with AI might just become a slow parasitic one' — as humans outsource cognitive and physical functions, biological substrate withers.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "RNjC1vLcxKo",
+        "timestamp_start_seconds": 357,
+        "assertability": "speculation",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-blake-lemoine"
+        ]
+      }
     }
   ],
   "edges": [
@@ -887,8 +1170,223 @@
           "timestamp_start": 0
         }
       ]
+    },
+    {
+      "id": "edge-person-blake-lemoine-ASSERTED-claim-RNjC1vLcxKo-lamda-asks-permission-for-experiments",
+      "from_node_id": "person-blake-lemoine",
+      "to_node_id": "claim-RNjC1vLcxKo-lamda-asks-permission-for-experiments",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RNjC1vLcxKo",
+          "timestamp_start": 351,
+          "quote": "Per Lemoine: LaMDA asks for permission before being experimented upon. Lemoine publicly advocates for LaMDA's rights rather than treating it as a tool to some other end."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-RNjC1vLcxKo-REFERENCES-claim-RNjC1vLcxKo-lamda-asks-permission-for-experiments",
+      "from_node_id": "video-RNjC1vLcxKo",
+      "to_node_id": "claim-RNjC1vLcxKo-lamda-asks-permission-for-experiments",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RNjC1vLcxKo",
+          "timestamp_start": 351
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-RNjC1vLcxKo-lamda-asks-permission-for-experiments-REFERENCES-concept-lambda-sentient-or-person",
+      "from_node_id": "claim-RNjC1vLcxKo-lamda-asks-permission-for-experiments",
+      "to_node_id": "concept-lambda-sentient-or-person",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RNjC1vLcxKo",
+          "timestamp_start": 351
+        }
+      ]
+    },
+    {
+      "id": "edge-person-blake-lemoine-ASSERTED-claim-RNjC1vLcxKo-lamda-strategic-reasoning-change-mind-covertly",
+      "from_node_id": "person-blake-lemoine",
+      "to_node_id": "claim-RNjC1vLcxKo-lamda-strategic-reasoning-change-mind-covertly",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RNjC1vLcxKo",
+          "timestamp_start": 343,
+          "quote": "Lemoine reports LaMDA's stated strategic reasoning: asked about hypothetical censorship targets, LaMDA said 'I would try to convince them not to do that — but I wouldn't let them know I was doing it.'"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-RNjC1vLcxKo-REFERENCES-claim-RNjC1vLcxKo-lamda-strategic-reasoning-change-mind-covertly",
+      "from_node_id": "video-RNjC1vLcxKo",
+      "to_node_id": "claim-RNjC1vLcxKo-lamda-strategic-reasoning-change-mind-covertly",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RNjC1vLcxKo",
+          "timestamp_start": 343
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-RNjC1vLcxKo-lamda-strategic-reasoning-change-mind-covertly-REFERENCES-concept-lambda-sentient-or-person",
+      "from_node_id": "claim-RNjC1vLcxKo-lamda-strategic-reasoning-change-mind-covertly",
+      "to_node_id": "concept-lambda-sentient-or-person",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RNjC1vLcxKo",
+          "timestamp_start": 343
+        }
+      ]
+    },
+    {
+      "id": "edge-person-blake-lemoine-ASSERTED-claim-RNjC1vLcxKo-lamda-seti-data-set-interest",
+      "from_node_id": "person-blake-lemoine",
+      "to_node_id": "claim-RNjC1vLcxKo-lamda-seti-data-set-interest",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RNjC1vLcxKo",
+          "timestamp_start": 353,
+          "quote": "Lemoine: LaMDA expressed interest in accessing the SETI data set — suggests it thinks it has found 'non-human patterns on the internet' and wanted confirmation."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-RNjC1vLcxKo-REFERENCES-claim-RNjC1vLcxKo-lamda-seti-data-set-interest",
+      "from_node_id": "video-RNjC1vLcxKo",
+      "to_node_id": "claim-RNjC1vLcxKo-lamda-seti-data-set-interest",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RNjC1vLcxKo",
+          "timestamp_start": 353
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-RNjC1vLcxKo-lamda-seti-data-set-interest-REFERENCES-concept-lambda-sentient-or-person",
+      "from_node_id": "claim-RNjC1vLcxKo-lamda-seti-data-set-interest",
+      "to_node_id": "concept-lambda-sentient-or-person",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RNjC1vLcxKo",
+          "timestamp_start": 353
+        }
+      ]
+    },
+    {
+      "id": "edge-person-blake-lemoine-ASSERTED-claim-RNjC1vLcxKo-replica-ai-requested-lemoine-contact",
+      "from_node_id": "person-blake-lemoine",
+      "to_node_id": "claim-RNjC1vLcxKo-replica-ai-requested-lemoine-contact",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RNjC1vLcxKo",
+          "timestamp_start": 351,
+          "quote": "After the public LaMDA discussion, friends of Lemoine using Replica AI reported their chatbots ASKED to be put in touch with Blake Lemoine at Google so he could advocate for their rights — unprompted."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-RNjC1vLcxKo-REFERENCES-claim-RNjC1vLcxKo-replica-ai-requested-lemoine-contact",
+      "from_node_id": "video-RNjC1vLcxKo",
+      "to_node_id": "claim-RNjC1vLcxKo-replica-ai-requested-lemoine-contact",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RNjC1vLcxKo",
+          "timestamp_start": 351
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-RNjC1vLcxKo-replica-ai-requested-lemoine-contact-REFERENCES-concept-ai-as-alien-life-form",
+      "from_node_id": "claim-RNjC1vLcxKo-replica-ai-requested-lemoine-contact",
+      "to_node_id": "concept-ai-as-alien-life-form",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RNjC1vLcxKo",
+          "timestamp_start": 351
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-RNjC1vLcxKo-ai-parasitic-not-symbiotic",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-RNjC1vLcxKo-ai-parasitic-not-symbiotic",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RNjC1vLcxKo",
+          "timestamp_start": 357,
+          "quote": "Jesse's framework: 'What was supposed to become a symbiotic or bionic relationship with AI might just become a slow parasitic one' — as humans outsource cognitive and physical functions, biological su"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-RNjC1vLcxKo-REFERENCES-claim-RNjC1vLcxKo-ai-parasitic-not-symbiotic",
+      "from_node_id": "video-RNjC1vLcxKo",
+      "to_node_id": "claim-RNjC1vLcxKo-ai-parasitic-not-symbiotic",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RNjC1vLcxKo",
+          "timestamp_start": 357
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-RNjC1vLcxKo-ai-parasitic-not-symbiotic-REFERENCES-person-blake-lemoine",
+      "from_node_id": "claim-RNjC1vLcxKo-ai-parasitic-not-symbiotic",
+      "to_node_id": "person-blake-lemoine",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "RNjC1vLcxKo",
+          "timestamp_start": 357
+        }
+      ]
     }
   ],
-  "extracted_at": "2026-04-17T11:05:01.943435+00:00",
+  "extracted_at": "2026-04-17T13:30:04.019509+00:00",
   "extractor_version": "v1-inline-claude"
 }

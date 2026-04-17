@@ -1444,6 +1444,168 @@
           "video-ATJwqp5twAg"
         ]
       }
+    },
+    {
+      "id": "person-ralph-moat-larson",
+      "node_type": "person",
+      "label": "Ralph Moat Larson",
+      "summary": "Former CIA officer 20+ years in various roles globally; briefed Bush 43, Cheney, and Tony Blair; Moscow Station Chief; worked directly with Hayden (NSA) and Tennant (CIA). Later ran intelligence/counter-intelligence for the US Department of Energy (DoE). Claims 1991 time-travel experience: fell asleep at Mount Athos Greece and lived as 14th-century monk for months, physically.",
+      "tags": [
+        "CIA",
+        "DoE",
+        "mystic",
+        "experiencer"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.687475+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ATJwqp5twAg",
+          "timestamp_start": 134,
+          "quote": "Former CIA + DoE intelligence officer; Moscow Station Chief; time-traveler / mystic"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Larson",
+          "Ralph Moa"
+        ],
+        "profession": "intelligence officer / mystic",
+        "notability_tags": [
+          "CIA",
+          "DoE",
+          "mystic",
+          "experiencer"
+        ]
+      }
+    },
+    {
+      "id": "concept-mount-athos-time-travel-1991",
+      "node_type": "concept",
+      "label": "1991 Mount Athos Time-Travel Event (Larson)",
+      "summary": "Ralph Moat Larson's claim: 1991 pilgrimage to Mount Athos Greece; sitting in stone chair, time 'evaporating' with every step; lived as a recluse-monk in 14th-century Mount Athos for months — physical reality indistinguishable from modern waking reality.",
+      "tags": [
+        "metaphysics"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.687477+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ATJwqp5twAg",
+          "timestamp_start": 136,
+          "timestamp_end": "Larson claims physical time-travel from modern Greece to 14th century during monastic pilgrimage"
+        }
+      ],
+      "type_specific": {
+        "concept_domain": "metaphysics"
+      }
+    },
+    {
+      "id": "claim-ATJwqp5twAg-larson-1991-mount-athos-time-travel",
+      "node_type": "claim",
+      "label": "Larson claims a 1991 pilgrimage to Mount Athos Greece triggered physical time-travel to the 14th cen",
+      "summary": "Larson claims a 1991 pilgrimage to Mount Athos Greece triggered physical time-travel to the 14th century — he lived as a recluse monk there for months, learning to fly spiritually, burning his hut — reality 'indistinguishable from this interview.'",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.697891+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ATJwqp5twAg",
+          "timestamp_start": 136,
+          "quote": "I went on a pilgrimage to Mount Athos, Greece. I'm sitting at this stone chair facing the church. With every step I'm taking, the time is going back in time. I left my 20th century identity behind in 1991 to go live as a monk in Mount Athos Greece in the 14th century. Does all of this feel as real as this interview feels? Yeah."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Larson claims a 1991 pilgrimage to Mount Athos Greece triggered physical time-travel to the 14th century — he lived as a recluse monk there for months, learning to fly spiritually, burning his hut — reality 'indistinguishable from this interview.'",
+        "asserted_by_id": "person-ralph-moat-larson",
+        "source_video_id": "ATJwqp5twAg",
+        "timestamp_start_seconds": 136,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-ralph-moat-larson",
+          "concept-mount-athos-time-travel-1991"
+        ]
+      }
+    },
+    {
+      "id": "claim-ATJwqp5twAg-larson-doe-more-important-than-cia",
+      "node_type": "claim",
+      "label": "Larson publicly states DoE intelligence handles some of the nation's most important secrets — MORE i",
+      "summary": "Larson publicly states DoE intelligence handles some of the nation's most important secrets — MORE important than CIA's — aligning with the thesis that UFO crash retrieval is housed under DoE clearance system.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.697903+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ATJwqp5twAg",
+          "timestamp_start": 148,
+          "quote": "I learned some of this nation's most important secrets at DOE, not CIA. DOE does stuff that man. Department of Energy has a lot to do with managing UFO secrecy and crash retrievals."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Larson publicly states DoE intelligence handles some of the nation's most important secrets — MORE important than CIA's — aligning with the thesis that UFO crash retrieval is housed under DoE clearance system.",
+        "asserted_by_id": "person-ralph-moat-larson",
+        "source_video_id": "ATJwqp5twAg",
+        "timestamp_start_seconds": 148,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-ralph-moat-larson",
+          "concept-manhattan-project-clearance-system"
+        ]
+      }
+    },
+    {
+      "id": "claim-ATJwqp5twAg-larson-briefed-bush-cheney-blair",
+      "node_type": "claim",
+      "label": "Larson directly briefed George W. Bush, Vice President Dick Cheney, and UK Prime Minister Tony Blair",
+      "summary": "Larson directly briefed George W. Bush, Vice President Dick Cheney, and UK Prime Minister Tony Blair. Worked with NSA Director Michael Hayden and CIA Director George Tenet.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.697912+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ATJwqp5twAg",
+          "timestamp_start": 136,
+          "quote": "He describes working directly with NSA Director Michael Hayden, CIA Director George Tennant, and even briefing former President George W. Bush, Vice President Dick Cheney, and UK Prime Minister Tony Blair."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Larson directly briefed George W. Bush, Vice President Dick Cheney, and UK Prime Minister Tony Blair. Worked with NSA Director Michael Hayden and CIA Director George Tenet.",
+        "asserted_by_id": "person-ralph-moat-larson",
+        "source_video_id": "ATJwqp5twAg",
+        "timestamp_start_seconds": 136,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-ralph-moat-larson"
+        ]
+      }
     }
   ],
   "edges": [
@@ -2213,8 +2375,123 @@
           "timestamp_start": 0
         }
       ]
+    },
+    {
+      "id": "edge-person-ralph-moat-larson-ASSERTED-claim-ATJwqp5twAg-larson-1991-mount-athos-time-travel",
+      "from_node_id": "person-ralph-moat-larson",
+      "to_node_id": "claim-ATJwqp5twAg-larson-1991-mount-athos-time-travel",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ATJwqp5twAg",
+          "timestamp_start": 136,
+          "quote": "Larson claims a 1991 pilgrimage to Mount Athos Greece triggered physical time-travel to the 14th century — he lived as a recluse monk there for months, learning to fly spiritually, burning his hut — r"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ATJwqp5twAg-REFERENCES-claim-ATJwqp5twAg-larson-1991-mount-athos-time-travel",
+      "from_node_id": "video-ATJwqp5twAg",
+      "to_node_id": "claim-ATJwqp5twAg-larson-1991-mount-athos-time-travel",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ATJwqp5twAg",
+          "timestamp_start": 136
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-ATJwqp5twAg-larson-1991-mount-athos-time-travel-REFERENCES-concept-mount-athos-time-travel-1991",
+      "from_node_id": "claim-ATJwqp5twAg-larson-1991-mount-athos-time-travel",
+      "to_node_id": "concept-mount-athos-time-travel-1991",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ATJwqp5twAg",
+          "timestamp_start": 136
+        }
+      ]
+    },
+    {
+      "id": "edge-person-ralph-moat-larson-ASSERTED-claim-ATJwqp5twAg-larson-doe-more-important-than-cia",
+      "from_node_id": "person-ralph-moat-larson",
+      "to_node_id": "claim-ATJwqp5twAg-larson-doe-more-important-than-cia",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ATJwqp5twAg",
+          "timestamp_start": 148,
+          "quote": "Larson publicly states DoE intelligence handles some of the nation's most important secrets — MORE important than CIA's — aligning with the thesis that UFO crash retrieval is housed under DoE clearanc"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ATJwqp5twAg-REFERENCES-claim-ATJwqp5twAg-larson-doe-more-important-than-cia",
+      "from_node_id": "video-ATJwqp5twAg",
+      "to_node_id": "claim-ATJwqp5twAg-larson-doe-more-important-than-cia",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ATJwqp5twAg",
+          "timestamp_start": 148
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-ATJwqp5twAg-larson-doe-more-important-than-cia-REFERENCES-concept-manhattan-project-clearance-system",
+      "from_node_id": "claim-ATJwqp5twAg-larson-doe-more-important-than-cia",
+      "to_node_id": "concept-manhattan-project-clearance-system",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ATJwqp5twAg",
+          "timestamp_start": 148
+        }
+      ]
+    },
+    {
+      "id": "edge-person-ralph-moat-larson-ASSERTED-claim-ATJwqp5twAg-larson-briefed-bush-cheney-blair",
+      "from_node_id": "person-ralph-moat-larson",
+      "to_node_id": "claim-ATJwqp5twAg-larson-briefed-bush-cheney-blair",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ATJwqp5twAg",
+          "timestamp_start": 136,
+          "quote": "Larson directly briefed George W. Bush, Vice President Dick Cheney, and UK Prime Minister Tony Blair. Worked with NSA Director Michael Hayden and CIA Director George Tenet."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ATJwqp5twAg-REFERENCES-claim-ATJwqp5twAg-larson-briefed-bush-cheney-blair",
+      "from_node_id": "video-ATJwqp5twAg",
+      "to_node_id": "claim-ATJwqp5twAg-larson-briefed-bush-cheney-blair",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ATJwqp5twAg",
+          "timestamp_start": 136
+        }
+      ]
     }
   ],
-  "extracted_at": "2026-04-17T11:04:52.219018+00:00",
+  "extracted_at": "2026-04-17T13:21:38.697918+00:00",
   "extractor_version": "v1-inline-claude"
 }

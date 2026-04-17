@@ -845,6 +845,168 @@
           "video-5udx_SDdL3Y"
         ]
       }
+    },
+    {
+      "id": "concept-oppenheimer-ufo-secrecy-overlay",
+      "node_type": "concept",
+      "label": "Oppenheimer UFO-Secrecy Overlay Hypothesis",
+      "summary": "Hypothesis (via Grusch, Kissinger-Wang, Condon): J. Robert Oppenheimer, Kissinger, and Manhattan-Project-era atomic-secrecy architects established the classification framework subsequently overlaid onto UFO retrieval and reverse-engineering programs — resuscitation of a lost material-analysis approach.",
+      "tags": [
+        "politics"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.111790+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "5udx_SDdL3Y",
+          "timestamp_start": 289,
+          "timestamp_end": "Core theory connecting Manhattan Project secrecy framework to UFO classification"
+        }
+      ],
+      "type_specific": {
+        "concept_domain": "politics"
+      }
+    },
+    {
+      "id": "claim-5udx_SDdL3Y-oppenheimer-involved-ufos-kissinger",
+      "node_type": "claim",
+      "label": "Multiple independent threads (Grusch's claim; Kissinger-Wang widow testimony; Condon's Manhattan Pro",
+      "summary": "Multiple independent threads (Grusch's claim; Kissinger-Wang widow testimony; Condon's Manhattan Project placement) converge on a hypothesis that Oppenheimer and other Manhattan-Project architects were involved in early UFO programs and established the secrecy framework.",
+      "tags": [
+        "speculation",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.128245+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "5udx_SDdL3Y",
+          "timestamp_start": 289,
+          "quote": "You've all heard of people like Robert J. Oppenheimer, even Henry Kissinger who were involved with UFO — these people actually had something to do with UFO."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Multiple independent threads (Grusch's claim; Kissinger-Wang widow testimony; Condon's Manhattan Project placement) converge on a hypothesis that Oppenheimer and other Manhattan-Project architects were involved in early UFO programs and established the secrecy framework.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "5udx_SDdL3Y",
+        "timestamp_start_seconds": 289,
+        "assertability": "speculation",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-robert-oppenheimer",
+          "person-henry-kissinger",
+          "concept-oppenheimer-ufo-secrecy-overlay",
+          "concept-manhattan-project-clearance-system"
+        ]
+      }
+    },
+    {
+      "id": "claim-5udx_SDdL3Y-eminent-domain-uap-tech-legislation",
+      "node_type": "claim",
+      "label": "The UAP Disclosure Act framework includes a provision for the US government to 'declare eminent doma",
+      "summary": "The UAP Disclosure Act framework includes a provision for the US government to 'declare eminent domain' or ownership over any private-sector possession of NHI material — if enacted would be a huge breakthrough for material analysis.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.128256+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "5udx_SDdL3Y",
+          "timestamp_start": 281,
+          "quote": "To declare eminent domain or ownership over any possession — I think if that were passed it would be a huge breakthrough. Senator Rounds would create a board just like through the declassification."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "The UAP Disclosure Act framework includes a provision for the US government to 'declare eminent domain' or ownership over any private-sector possession of NHI material — if enacted would be a huge breakthrough for material analysis.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "5udx_SDdL3Y",
+        "timestamp_start_seconds": 281,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "document-schumer-rounds-amendment",
+          "concept-reverse-engineering"
+        ]
+      }
+    },
+    {
+      "id": "claim-5udx_SDdL3Y-johnson-diluted-wright-patterson-donors",
+      "node_type": "claim",
+      "label": "Mike Johnson (House Speaker, Dayton Ohio district near Wright-Patterson) is identified as the person",
+      "summary": "Mike Johnson (House Speaker, Dayton Ohio district near Wright-Patterson) is identified as the person who 'had a huge part in diluting the wording' around UAP Disclosure Act — top campaign donors are major aerospace companies.",
+      "tags": [
+        "speculation",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.128263+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "5udx_SDdL3Y",
+          "timestamp_start": 285,
+          "quote": "Had a huge part in diluting the wording — Dayton Ohio, which is where Wright Patterson Air Force Base is. Donate to the campaigns of the Congress people. Kill this bipartisan provision."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Mike Johnson (House Speaker, Dayton Ohio district near Wright-Patterson) is identified as the person who 'had a huge part in diluting the wording' around UAP Disclosure Act — top campaign donors are major aerospace companies.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "5udx_SDdL3Y",
+        "timestamp_start_seconds": 285,
+        "assertability": "speculation",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-mike-johnson-speaker",
+          "document-schumer-rounds-amendment",
+          "location-wright-patterson-afb"
+        ]
+      }
+    },
+    {
+      "id": "claim-5udx_SDdL3Y-legacy-uap-studying-since-2017",
+      "node_type": "claim",
+      "label": "UAP issue has been systematically studied by the government since 2017 (AATIP public disclosure) — s",
+      "summary": "UAP issue has been systematically studied by the government since 2017 (AATIP public disclosure) — specific historical programs span reports from 'all kinds and all of these programs.'",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.128270+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "5udx_SDdL3Y",
+          "timestamp_start": 291,
+          "quote": "UFO issue they seem to be studying it since 2017. Reports that had come to us from all kinds and all of these programs."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "UAP issue has been systematically studied by the government since 2017 (AATIP public disclosure) — specific historical programs span reports from 'all kinds and all of these programs.'",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "5udx_SDdL3Y",
+        "timestamp_start_seconds": 291,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "program-aatip"
+        ]
+      }
     }
   ],
   "edges": [
@@ -1332,8 +1494,264 @@
           "timestamp_start": 0
         }
       ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-5udx_SDdL3Y-oppenheimer-involved-ufos-kissinger",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-5udx_SDdL3Y-oppenheimer-involved-ufos-kissinger",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "5udx_SDdL3Y",
+          "timestamp_start": 289,
+          "quote": "Multiple independent threads (Grusch's claim; Kissinger-Wang widow testimony; Condon's Manhattan Project placement) converge on a hypothesis that Oppenheimer and other Manhattan-Project architects wer"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-5udx_SDdL3Y-REFERENCES-claim-5udx_SDdL3Y-oppenheimer-involved-ufos-kissinger",
+      "from_node_id": "video-5udx_SDdL3Y",
+      "to_node_id": "claim-5udx_SDdL3Y-oppenheimer-involved-ufos-kissinger",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "5udx_SDdL3Y",
+          "timestamp_start": 289
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-5udx_SDdL3Y-oppenheimer-involved-ufos-kissinger-REFERENCES-person-robert-oppenheimer",
+      "from_node_id": "claim-5udx_SDdL3Y-oppenheimer-involved-ufos-kissinger",
+      "to_node_id": "person-robert-oppenheimer",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "5udx_SDdL3Y",
+          "timestamp_start": 289
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-5udx_SDdL3Y-oppenheimer-involved-ufos-kissinger-REFERENCES-person-henry-kissinger",
+      "from_node_id": "claim-5udx_SDdL3Y-oppenheimer-involved-ufos-kissinger",
+      "to_node_id": "person-henry-kissinger",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "5udx_SDdL3Y",
+          "timestamp_start": 289
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-5udx_SDdL3Y-oppenheimer-involved-ufos-kissinger-REFERENCES-concept-oppenheimer-ufo-secrecy-overlay",
+      "from_node_id": "claim-5udx_SDdL3Y-oppenheimer-involved-ufos-kissinger",
+      "to_node_id": "concept-oppenheimer-ufo-secrecy-overlay",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "5udx_SDdL3Y",
+          "timestamp_start": 289
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-5udx_SDdL3Y-oppenheimer-involved-ufos-kissinger-REFERENCES-concept-manhattan-project-clearance-system",
+      "from_node_id": "claim-5udx_SDdL3Y-oppenheimer-involved-ufos-kissinger",
+      "to_node_id": "concept-manhattan-project-clearance-system",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "5udx_SDdL3Y",
+          "timestamp_start": 289
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-5udx_SDdL3Y-eminent-domain-uap-tech-legislation",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-5udx_SDdL3Y-eminent-domain-uap-tech-legislation",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "5udx_SDdL3Y",
+          "timestamp_start": 281,
+          "quote": "The UAP Disclosure Act framework includes a provision for the US government to 'declare eminent domain' or ownership over any private-sector possession of NHI material — if enacted would be a huge bre"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-5udx_SDdL3Y-REFERENCES-claim-5udx_SDdL3Y-eminent-domain-uap-tech-legislation",
+      "from_node_id": "video-5udx_SDdL3Y",
+      "to_node_id": "claim-5udx_SDdL3Y-eminent-domain-uap-tech-legislation",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "5udx_SDdL3Y",
+          "timestamp_start": 281
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-5udx_SDdL3Y-eminent-domain-uap-tech-legislation-REFERENCES-document-schumer-rounds-amendment",
+      "from_node_id": "claim-5udx_SDdL3Y-eminent-domain-uap-tech-legislation",
+      "to_node_id": "document-schumer-rounds-amendment",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "5udx_SDdL3Y",
+          "timestamp_start": 281
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-5udx_SDdL3Y-eminent-domain-uap-tech-legislation-REFERENCES-concept-reverse-engineering",
+      "from_node_id": "claim-5udx_SDdL3Y-eminent-domain-uap-tech-legislation",
+      "to_node_id": "concept-reverse-engineering",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "5udx_SDdL3Y",
+          "timestamp_start": 281
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-5udx_SDdL3Y-johnson-diluted-wright-patterson-donors",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-5udx_SDdL3Y-johnson-diluted-wright-patterson-donors",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "5udx_SDdL3Y",
+          "timestamp_start": 285,
+          "quote": "Mike Johnson (House Speaker, Dayton Ohio district near Wright-Patterson) is identified as the person who 'had a huge part in diluting the wording' around UAP Disclosure Act — top campaign donors are m"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-5udx_SDdL3Y-REFERENCES-claim-5udx_SDdL3Y-johnson-diluted-wright-patterson-donors",
+      "from_node_id": "video-5udx_SDdL3Y",
+      "to_node_id": "claim-5udx_SDdL3Y-johnson-diluted-wright-patterson-donors",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "5udx_SDdL3Y",
+          "timestamp_start": 285
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-5udx_SDdL3Y-johnson-diluted-wright-patterson-donors-REFERENCES-person-mike-johnson-speaker",
+      "from_node_id": "claim-5udx_SDdL3Y-johnson-diluted-wright-patterson-donors",
+      "to_node_id": "person-mike-johnson-speaker",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "5udx_SDdL3Y",
+          "timestamp_start": 285
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-5udx_SDdL3Y-johnson-diluted-wright-patterson-donors-REFERENCES-document-schumer-rounds-amendment",
+      "from_node_id": "claim-5udx_SDdL3Y-johnson-diluted-wright-patterson-donors",
+      "to_node_id": "document-schumer-rounds-amendment",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "5udx_SDdL3Y",
+          "timestamp_start": 285
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-5udx_SDdL3Y-johnson-diluted-wright-patterson-donors-REFERENCES-location-wright-patterson-afb",
+      "from_node_id": "claim-5udx_SDdL3Y-johnson-diluted-wright-patterson-donors",
+      "to_node_id": "location-wright-patterson-afb",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "5udx_SDdL3Y",
+          "timestamp_start": 285
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-5udx_SDdL3Y-legacy-uap-studying-since-2017",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-5udx_SDdL3Y-legacy-uap-studying-since-2017",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "5udx_SDdL3Y",
+          "timestamp_start": 291,
+          "quote": "UAP issue has been systematically studied by the government since 2017 (AATIP public disclosure) — specific historical programs span reports from 'all kinds and all of these programs.'"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-5udx_SDdL3Y-REFERENCES-claim-5udx_SDdL3Y-legacy-uap-studying-since-2017",
+      "from_node_id": "video-5udx_SDdL3Y",
+      "to_node_id": "claim-5udx_SDdL3Y-legacy-uap-studying-since-2017",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "5udx_SDdL3Y",
+          "timestamp_start": 291
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-5udx_SDdL3Y-legacy-uap-studying-since-2017-REFERENCES-program-aatip",
+      "from_node_id": "claim-5udx_SDdL3Y-legacy-uap-studying-since-2017",
+      "to_node_id": "program-aatip",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "5udx_SDdL3Y",
+          "timestamp_start": 291
+        }
+      ]
     }
   ],
-  "extracted_at": "2026-04-17T11:05:06.044423+00:00",
+  "extracted_at": "2026-04-17T23:20:40.128278+00:00",
   "extractor_version": "v1-inline-claude"
 }

@@ -1453,6 +1453,319 @@
           "video-Rjr3Yq-dMUE"
         ]
       }
+    },
+    {
+      "id": "person-clas-svahn",
+      "node_type": "person",
+      "label": "Clas Svahn",
+      "summary": "Swedish journalist for Sweden's largest newspaper since early 1970s; builds and maintains the 'Archives of the Unexplained' — the world's largest UFO archive (16 rooms of witness reports, radar data, photographs, videos).",
+      "tags": [
+        "journalist",
+        "archivist",
+        "researcher",
+        "Swedish"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.368557+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Rjr3Yq-dMUE",
+          "timestamp_start": 179,
+          "quote": "Swedish journalist; world's largest UFO archive custodian"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Svahn",
+          "Claus von"
+        ],
+        "profession": "journalist / archivist",
+        "notability_tags": [
+          "journalist",
+          "archivist",
+          "researcher",
+          "Swedish"
+        ]
+      }
+    },
+    {
+      "id": "document-archives-of-the-unexplained",
+      "node_type": "document",
+      "label": "Archives of the Unexplained",
+      "summary": "World's largest UFO archive curated by Clas Svahn (Sweden); 16 rooms with detailed witness reports, photographs, audio recordings, radar data, video, and first-generation documents unavailable elsewhere. Includes files from Japan, Russia, and throughout the West.",
+      "tags": [
+        "report"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.368559+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Rjr3Yq-dMUE",
+          "timestamp_start": 181,
+          "timestamp_end": "16-room world's largest UFO archive"
+        }
+      ],
+      "type_specific": {
+        "document_type": "report"
+      }
+    },
+    {
+      "id": "event-swedish-ghost-rockets-1946",
+      "node_type": "event",
+      "label": "Swedish Ghost Rockets Wave 1946",
+      "summary": "1946 mass wave of ~1,400+ documented rocket and cigar-shaped UFOs over Sweden, Norway, and Finland — never landing on ground, always plunging into water. Triggered formation of a specialized Swedish military unit.",
+      "tags": [
+        "sighting"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.368561+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Rjr3Yq-dMUE",
+          "timestamp_start": 193,
+          "timestamp_end": "1,400+ rocket-cigar UFOs over Sweden/Norway 1946"
+        }
+      ],
+      "type_specific": {
+        "event_type": "sighting",
+        "date_approximate": "1946-05-01"
+      }
+    },
+    {
+      "id": "person-claudia-hill",
+      "node_type": "person",
+      "label": "Betty Hill (extended)",
+      "summary": "Betty Hill — known for 1961 Barney & Betty Hill abduction case. Clas Svahn's archival research uncovered additional info: Betty also witnessed a UFO crash near her NH home and recovered debris which she buried in her backyard.",
+      "tags": [
+        "witness",
+        "experiencer"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.368563+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Rjr3Yq-dMUE",
+          "timestamp_start": 195,
+          "quote": "1961 abductee who also witnessed UFO crash & recovered debris"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Hill"
+        ],
+        "notability_tags": [
+          "witness",
+          "experiencer"
+        ]
+      }
+    },
+    {
+      "id": "document-borderland-science-assoc",
+      "node_type": "document",
+      "label": "Borderland Sciences Research Foundation",
+      "summary": "Founded 1945 by Meade Layne; oldest UFO research group in the world. Per Svahn, was more than intelligence-informed in the 1940s.",
+      "tags": [
+        "report"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.368565+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Rjr3Yq-dMUE",
+          "timestamp_start": 189,
+          "timestamp_end": "Oldest UFO research group in world; possibly more than intelligence-informed"
+        }
+      ],
+      "type_specific": {
+        "document_type": "report",
+        "publication_year": 1945
+      }
+    },
+    {
+      "id": "claim-Rjr3Yq-dMUE-svahn-largest-archive",
+      "node_type": "claim",
+      "label": "Svahn curates the 'Archives of the Unexplained' — 16 rooms of original first-generation documents, w",
+      "summary": "Svahn curates the 'Archives of the Unexplained' — 16 rooms of original first-generation documents, witness reports, radar data, audio, and video — widely recognized as the world's largest UFO archive.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.378911+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Rjr3Yq-dMUE",
+          "timestamp_start": 179,
+          "quote": "He's spent decades building, organizing, and preserving what is widely recognized as the world's largest UFO archive, the Archives of the Unexplained. This 16 room building houses detailed witness reports, photographs, audio recordings, radar data, video."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Svahn curates the 'Archives of the Unexplained' — 16 rooms of original first-generation documents, witness reports, radar data, audio, and video — widely recognized as the world's largest UFO archive.",
+        "asserted_by_id": "person-clas-svahn",
+        "source_video_id": "Rjr3Yq-dMUE",
+        "timestamp_start_seconds": 179,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-clas-svahn",
+          "document-archives-of-the-unexplained"
+        ]
+      }
+    },
+    {
+      "id": "claim-Rjr3Yq-dMUE-swedish-ghost-rockets-1946",
+      "node_type": "claim",
+      "label": "The 1946 Swedish Ghost Rocket wave documented ~1,400+ rocket and cigar-shaped UFOs descending on Sca",
+      "summary": "The 1946 Swedish Ghost Rocket wave documented ~1,400+ rocket and cigar-shaped UFOs descending on Scandinavia — always plunging into water — prompting the Swedish government to form a specialized military unit.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.378929+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Rjr3Yq-dMUE",
+          "timestamp_start": 193,
+          "quote": "A swarm of at least 1,400 documented rocket and cigar-shaped UFOs descending on Norway and Sweden, never landing on the ground, always plunging into water. A swarm that even caused the Swedish government to form a specialized military unit."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "The 1946 Swedish Ghost Rocket wave documented ~1,400+ rocket and cigar-shaped UFOs descending on Scandinavia — always plunging into water — prompting the Swedish government to form a specialized military unit.",
+        "asserted_by_id": "person-clas-svahn",
+        "source_video_id": "Rjr3Yq-dMUE",
+        "timestamp_start_seconds": 193,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-clas-svahn",
+          "event-swedish-ghost-rockets-1946"
+        ]
+      }
+    },
+    {
+      "id": "claim-Rjr3Yq-dMUE-svahn-betty-hill-buried-debris",
+      "node_type": "claim",
+      "label": "Svahn's field research with Betty Hill uncovered that she also witnessed a separate UFO crash near h",
+      "summary": "Svahn's field research with Betty Hill uncovered that she also witnessed a separate UFO crash near her NH home and buried recovered debris in her backyard — possibly still there.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.378939+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Rjr3Yq-dMUE",
+          "timestamp_start": 195,
+          "quote": "Claus dug a little deeper and found out that Betty outside of her abduction witnessed a UFO crash near her home. She even recovered the debris which she went on to bury in her backyard where it still might be to this day."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Svahn's field research with Betty Hill uncovered that she also witnessed a separate UFO crash near her NH home and buried recovered debris in her backyard — possibly still there.",
+        "asserted_by_id": "person-clas-svahn",
+        "source_video_id": "Rjr3Yq-dMUE",
+        "timestamp_start_seconds": 195,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-clas-svahn",
+          "person-claudia-hill",
+          "incident-1961-hill-abduction"
+        ]
+      }
+    },
+    {
+      "id": "claim-Rjr3Yq-dMUE-svahn-tons-and-brown-california",
+      "node_type": "claim",
+      "label": "Svahn personally traveled to Eureka California, met the owner of a substantial Townsend Brown archiv",
+      "summary": "Svahn personally traveled to Eureka California, met the owner of a substantial Townsend Brown archive, and shipped the material back to Sweden for preservation.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.378949+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Rjr3Yq-dMUE",
+          "timestamp_start": 185,
+          "quote": "I went to Eureka, California. I met with this guy in his garage and we packed it all together and sent it back to Sweden."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Svahn personally traveled to Eureka California, met the owner of a substantial Townsend Brown archive, and shipped the material back to Sweden for preservation.",
+        "asserted_by_id": "person-clas-svahn",
+        "source_video_id": "Rjr3Yq-dMUE",
+        "timestamp_start_seconds": 185,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-clas-svahn",
+          "person-townsend-brown"
+        ]
+      }
+    },
+    {
+      "id": "claim-Rjr3Yq-dMUE-svahn-borderland-science-1940s-intel",
+      "node_type": "claim",
+      "label": "Svahn reports the Borderland Sciences Research Foundation (oldest UFO group in the world) was 'more ",
+      "summary": "Svahn reports the Borderland Sciences Research Foundation (oldest UFO group in the world) was 'more than intelligence-informed' in the 1940s — hinting at deeper operational ties than public history acknowledges.",
+      "tags": [
+        "speculation",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.378957+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Rjr3Yq-dMUE",
+          "timestamp_start": 189,
+          "quote": "Behind you here is the oldest UFO group in the world, Borderland Science Research Association. There's something very interesting about them. They were more than intelligence-informed in certain cases in the 1940s."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Svahn reports the Borderland Sciences Research Foundation (oldest UFO group in the world) was 'more than intelligence-informed' in the 1940s — hinting at deeper operational ties than public history acknowledges.",
+        "asserted_by_id": "person-clas-svahn",
+        "source_video_id": "Rjr3Yq-dMUE",
+        "timestamp_start_seconds": 189,
+        "assertability": "speculation",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-clas-svahn",
+          "document-borderland-science-assoc"
+        ]
+      }
     }
   ],
   "edges": [
@@ -2237,8 +2550,237 @@
           "timestamp_start": 0
         }
       ]
+    },
+    {
+      "id": "edge-person-clas-svahn-ASSERTED-claim-Rjr3Yq-dMUE-svahn-largest-archive",
+      "from_node_id": "person-clas-svahn",
+      "to_node_id": "claim-Rjr3Yq-dMUE-svahn-largest-archive",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Rjr3Yq-dMUE",
+          "timestamp_start": 179,
+          "quote": "Svahn curates the 'Archives of the Unexplained' — 16 rooms of original first-generation documents, witness reports, radar data, audio, and video — widely recognized as the world's largest UFO archive."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-Rjr3Yq-dMUE-REFERENCES-claim-Rjr3Yq-dMUE-svahn-largest-archive",
+      "from_node_id": "video-Rjr3Yq-dMUE",
+      "to_node_id": "claim-Rjr3Yq-dMUE-svahn-largest-archive",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Rjr3Yq-dMUE",
+          "timestamp_start": 179
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-Rjr3Yq-dMUE-svahn-largest-archive-REFERENCES-document-archives-of-the-unexplained",
+      "from_node_id": "claim-Rjr3Yq-dMUE-svahn-largest-archive",
+      "to_node_id": "document-archives-of-the-unexplained",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Rjr3Yq-dMUE",
+          "timestamp_start": 179
+        }
+      ]
+    },
+    {
+      "id": "edge-person-clas-svahn-ASSERTED-claim-Rjr3Yq-dMUE-swedish-ghost-rockets-1946",
+      "from_node_id": "person-clas-svahn",
+      "to_node_id": "claim-Rjr3Yq-dMUE-swedish-ghost-rockets-1946",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Rjr3Yq-dMUE",
+          "timestamp_start": 193,
+          "quote": "The 1946 Swedish Ghost Rocket wave documented ~1,400+ rocket and cigar-shaped UFOs descending on Scandinavia — always plunging into water — prompting the Swedish government to form a specialized milit"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-Rjr3Yq-dMUE-REFERENCES-claim-Rjr3Yq-dMUE-swedish-ghost-rockets-1946",
+      "from_node_id": "video-Rjr3Yq-dMUE",
+      "to_node_id": "claim-Rjr3Yq-dMUE-swedish-ghost-rockets-1946",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Rjr3Yq-dMUE",
+          "timestamp_start": 193
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-Rjr3Yq-dMUE-swedish-ghost-rockets-1946-REFERENCES-event-swedish-ghost-rockets-1946",
+      "from_node_id": "claim-Rjr3Yq-dMUE-swedish-ghost-rockets-1946",
+      "to_node_id": "event-swedish-ghost-rockets-1946",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Rjr3Yq-dMUE",
+          "timestamp_start": 193
+        }
+      ]
+    },
+    {
+      "id": "edge-person-clas-svahn-ASSERTED-claim-Rjr3Yq-dMUE-svahn-betty-hill-buried-debris",
+      "from_node_id": "person-clas-svahn",
+      "to_node_id": "claim-Rjr3Yq-dMUE-svahn-betty-hill-buried-debris",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Rjr3Yq-dMUE",
+          "timestamp_start": 195,
+          "quote": "Svahn's field research with Betty Hill uncovered that she also witnessed a separate UFO crash near her NH home and buried recovered debris in her backyard — possibly still there."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-Rjr3Yq-dMUE-REFERENCES-claim-Rjr3Yq-dMUE-svahn-betty-hill-buried-debris",
+      "from_node_id": "video-Rjr3Yq-dMUE",
+      "to_node_id": "claim-Rjr3Yq-dMUE-svahn-betty-hill-buried-debris",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Rjr3Yq-dMUE",
+          "timestamp_start": 195
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-Rjr3Yq-dMUE-svahn-betty-hill-buried-debris-REFERENCES-person-claudia-hill",
+      "from_node_id": "claim-Rjr3Yq-dMUE-svahn-betty-hill-buried-debris",
+      "to_node_id": "person-claudia-hill",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Rjr3Yq-dMUE",
+          "timestamp_start": 195
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-Rjr3Yq-dMUE-svahn-betty-hill-buried-debris-REFERENCES-incident-1961-hill-abduction",
+      "from_node_id": "claim-Rjr3Yq-dMUE-svahn-betty-hill-buried-debris",
+      "to_node_id": "incident-1961-hill-abduction",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Rjr3Yq-dMUE",
+          "timestamp_start": 195
+        }
+      ]
+    },
+    {
+      "id": "edge-person-clas-svahn-ASSERTED-claim-Rjr3Yq-dMUE-svahn-tons-and-brown-california",
+      "from_node_id": "person-clas-svahn",
+      "to_node_id": "claim-Rjr3Yq-dMUE-svahn-tons-and-brown-california",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Rjr3Yq-dMUE",
+          "timestamp_start": 185,
+          "quote": "Svahn personally traveled to Eureka California, met the owner of a substantial Townsend Brown archive, and shipped the material back to Sweden for preservation."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-Rjr3Yq-dMUE-REFERENCES-claim-Rjr3Yq-dMUE-svahn-tons-and-brown-california",
+      "from_node_id": "video-Rjr3Yq-dMUE",
+      "to_node_id": "claim-Rjr3Yq-dMUE-svahn-tons-and-brown-california",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Rjr3Yq-dMUE",
+          "timestamp_start": 185
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-Rjr3Yq-dMUE-svahn-tons-and-brown-california-REFERENCES-person-townsend-brown",
+      "from_node_id": "claim-Rjr3Yq-dMUE-svahn-tons-and-brown-california",
+      "to_node_id": "person-townsend-brown",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Rjr3Yq-dMUE",
+          "timestamp_start": 185
+        }
+      ]
+    },
+    {
+      "id": "edge-person-clas-svahn-ASSERTED-claim-Rjr3Yq-dMUE-svahn-borderland-science-1940s-intel",
+      "from_node_id": "person-clas-svahn",
+      "to_node_id": "claim-Rjr3Yq-dMUE-svahn-borderland-science-1940s-intel",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Rjr3Yq-dMUE",
+          "timestamp_start": 189,
+          "quote": "Svahn reports the Borderland Sciences Research Foundation (oldest UFO group in the world) was 'more than intelligence-informed' in the 1940s — hinting at deeper operational ties than public history ac"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-Rjr3Yq-dMUE-REFERENCES-claim-Rjr3Yq-dMUE-svahn-borderland-science-1940s-intel",
+      "from_node_id": "video-Rjr3Yq-dMUE",
+      "to_node_id": "claim-Rjr3Yq-dMUE-svahn-borderland-science-1940s-intel",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Rjr3Yq-dMUE",
+          "timestamp_start": 189
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-Rjr3Yq-dMUE-svahn-borderland-science-1940s-intel-REFERENCES-document-borderland-science-assoc",
+      "from_node_id": "claim-Rjr3Yq-dMUE-svahn-borderland-science-1940s-intel",
+      "to_node_id": "document-borderland-science-assoc",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Rjr3Yq-dMUE",
+          "timestamp_start": 189
+        }
+      ]
     }
   ],
-  "extracted_at": "2026-04-17T11:04:29.390796+00:00",
+  "extracted_at": "2026-04-17T12:55:45.378969+00:00",
   "extractor_version": "v1-inline-claude"
 }

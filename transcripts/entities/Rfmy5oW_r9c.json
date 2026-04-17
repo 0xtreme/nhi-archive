@@ -1234,6 +1234,324 @@
           "video-Rfmy5oW_r9c"
         ]
       }
+    },
+    {
+      "id": "person-dan-sherman",
+      "node_type": "person",
+      "label": "Dan Sherman",
+      "summary": "Retired USAF Technical Sergeant. Claims he was recruited by the NSA in the early 1990s for 'Project Preserve Destiny' to telepathically decode alien signals. Author of Above Black.",
+      "tags": [
+        "whistleblower",
+        "USAF",
+        "NSA",
+        "experiencer",
+        "intuitive-communicator"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.737302+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Rfmy5oW_r9c",
+          "timestamp_start": 113,
+          "quote": "Retired USAF Technical Sergeant; NSA 'intuitive communicator'"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Sherman"
+        ],
+        "profession": "military veteran / author",
+        "notability_tags": [
+          "whistleblower",
+          "USAF",
+          "NSA",
+          "experiencer",
+          "intuitive-communicator"
+        ]
+      }
+    },
+    {
+      "id": "program-project-preserve-destiny",
+      "node_type": "program",
+      "label": "Project Preserve Destiny",
+      "summary": "Alleged NSA program claimed by Dan Sherman to telepathically decode alien signals describing ongoing abductions across the United States. Sherman claims pre-natal alien genetic alteration to give him the ability.",
+      "tags": [
+        "program"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.737305+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Rfmy5oW_r9c",
+          "timestamp_start": 117,
+          "timestamp_end": "NSA program to telepathically decode alien signals"
+        }
+      ],
+      "type_specific": {
+        "acronym": "PPD"
+      }
+    },
+    {
+      "id": "document-above-black",
+      "node_type": "document",
+      "label": "Above Black",
+      "summary": "Dan Sherman's memoir documenting his 'intuitive communicator' work for the NSA on Project Preserve Destiny.",
+      "tags": [
+        "book"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.737307+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Rfmy5oW_r9c",
+          "timestamp_start": 131,
+          "timestamp_end": "Dan Sherman's memoir of his NSA 'intuitive communicator' work"
+        }
+      ],
+      "type_specific": {
+        "document_type": "book",
+        "author": "Dan Sherman"
+      }
+    },
+    {
+      "id": "concept-intuitive-communicator",
+      "node_type": "concept",
+      "label": "Intuitive Communicator",
+      "summary": "NSA designation (per Sherman) for an operator with pre-natally alien-altered genetics enabling direct telepathic reception of NHI signals.",
+      "tags": [
+        "metaphysics"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.737309+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Rfmy5oW_r9c",
+          "timestamp_start": 121,
+          "timestamp_end": "NSA designation for a telepathic alien-signal decoder"
+        }
+      ],
+      "type_specific": {
+        "concept_domain": "metaphysics"
+      }
+    },
+    {
+      "id": "claim-Rfmy5oW_r9c-sherman-nsa-ppd",
+      "node_type": "claim",
+      "label": "Sherman asserts he was recruited by the NSA in the early 1990s for Project Preserve Destiny — a prog",
+      "summary": "Sherman asserts he was recruited by the NSA in the early 1990s for Project Preserve Destiny — a program to telepathically decode alien signals describing abductions across the United States.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.744065+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Rfmy5oW_r9c",
+          "timestamp_start": 117,
+          "quote": "Dan Sherman claims that while serving in the Air Force in the early 90s, he was recruited for an extremely classified program at the NSA. This program was called Project Preserve Destiny."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Sherman asserts he was recruited by the NSA in the early 1990s for Project Preserve Destiny — a program to telepathically decode alien signals describing abductions across the United States.",
+        "asserted_by_id": "person-dan-sherman",
+        "source_video_id": "Rfmy5oW_r9c",
+        "timestamp_start_seconds": 117,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-dan-sherman",
+          "program-project-preserve-destiny",
+          "organization-nsa"
+        ]
+      }
+    },
+    {
+      "id": "claim-Rfmy5oW_r9c-sherman-pre-natal-genetic-alteration",
+      "node_type": "claim",
+      "label": "Sherman was told by his Air Force captain that aliens altered his genetics while he was a fetus (abd",
+      "summary": "Sherman was told by his Air Force captain that aliens altered his genetics while he was a fetus (abducting his pregnant mother in the early 1960s) to enable later telepathic communication.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.744089+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Rfmy5oW_r9c",
+          "timestamp_start": 119,
+          "quote": "Dan was told that he was given this telepathic ability by the aliens themselves when they abducted Sherman's pregnant mother in the early 1960s and altered his genetics while he was a fetus."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Sherman was told by his Air Force captain that aliens altered his genetics while he was a fetus (abducting his pregnant mother in the early 1960s) to enable later telepathic communication.",
+        "asserted_by_id": "person-dan-sherman",
+        "source_video_id": "Rfmy5oW_r9c",
+        "timestamp_start_seconds": 119,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-dan-sherman",
+          "concept-intuitive-communicator"
+        ]
+      }
+    },
+    {
+      "id": "claim-Rfmy5oW_r9c-sherman-sine-wave-training",
+      "node_type": "claim",
+      "label": "Sherman describes training where he was asked to mentally hum a tone and observed a sine wave on a m",
+      "summary": "Sherman describes training where he was asked to mentally hum a tone and observed a sine wave on a monitor visibly change in response — confirming to him a physical-mental coupling.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.744098+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Rfmy5oW_r9c",
+          "timestamp_start": 111,
+          "quote": "I'm going to play a tone and I want you to mentally hum that tone. When I saw the sine wave move, I went, 'Oh, okay. Well, there's a mental disconnect there that's not supposed to be happening.'"
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Sherman describes training where he was asked to mentally hum a tone and observed a sine wave on a monitor visibly change in response — confirming to him a physical-mental coupling.",
+        "asserted_by_id": "person-dan-sherman",
+        "source_video_id": "Rfmy5oW_r9c",
+        "timestamp_start_seconds": 111,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-dan-sherman",
+          "concept-intuitive-communicator"
+        ]
+      }
+    },
+    {
+      "id": "claim-Rfmy5oW_r9c-sherman-nsa-foia-responses-telling",
+      "node_type": "claim",
+      "label": "Independent researchers filed FOIA requests on Project Preserve Destiny; both the Air Force and NSA ",
+      "summary": "Independent researchers filed FOIA requests on Project Preserve Destiny; both the Air Force and NSA responses are described by Michels as 'fairly telling.'",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.744106+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Rfmy5oW_r9c",
+          "timestamp_start": 127,
+          "quote": "We explore an independent researcher's use of the Freedom of Information Act to learn more about Project Preserve Destiny. Both the Air Force and NSA's responses to his request are fairly telling."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Independent researchers filed FOIA requests on Project Preserve Destiny; both the Air Force and NSA responses are described by Michels as 'fairly telling.'",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "Rfmy5oW_r9c",
+        "timestamp_start_seconds": 127,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-dan-sherman",
+          "program-project-preserve-destiny",
+          "organization-nsa",
+          "organization-us-air-force"
+        ]
+      }
+    },
+    {
+      "id": "claim-Rfmy5oW_r9c-sherman-base-identified-by-researchers",
+      "node_type": "claim",
+      "label": "Michels' research team located one of the bases where Project Preserve Destiny was conducted, which ",
+      "summary": "Michels' research team located one of the bases where Project Preserve Destiny was conducted, which Sherman was specifically avoiding mentioning.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.744116+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Rfmy5oW_r9c",
+          "timestamp_start": 125,
+          "quote": "Dan tries to abstain mentioning which bases this Project Preserve Destiny was conducted at. But my researchers and I were able to locate one of these bases."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Michels' research team located one of the bases where Project Preserve Destiny was conducted, which Sherman was specifically avoiding mentioning.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "Rfmy5oW_r9c",
+        "timestamp_start_seconds": 125,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-dan-sherman",
+          "program-project-preserve-destiny"
+        ]
+      }
+    },
+    {
+      "id": "claim-Rfmy5oW_r9c-sherman-above-black-book",
+      "node_type": "claim",
+      "label": "Sherman's 1997 memoir 'Above Black' is a primary source for the Project Preserve Destiny claims.",
+      "summary": "Sherman's 1997 memoir 'Above Black' is a primary source for the Project Preserve Destiny claims.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.744124+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Rfmy5oW_r9c",
+          "timestamp_start": 131,
+          "quote": "I've read your incredible book Above Black and it documents an experience that is so fascinating."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Sherman's 1997 memoir 'Above Black' is a primary source for the Project Preserve Destiny claims.",
+        "asserted_by_id": "person-dan-sherman",
+        "source_video_id": "Rfmy5oW_r9c",
+        "timestamp_start_seconds": 131,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-dan-sherman",
+          "document-above-black"
+        ]
+      }
     }
   ],
   "edges": [
@@ -1898,8 +2216,336 @@
           "timestamp_start": 0
         }
       ]
+    },
+    {
+      "id": "edge-person-dan-sherman-ASSERTED-claim-Rfmy5oW_r9c-sherman-nsa-ppd",
+      "from_node_id": "person-dan-sherman",
+      "to_node_id": "claim-Rfmy5oW_r9c-sherman-nsa-ppd",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Rfmy5oW_r9c",
+          "timestamp_start": 117,
+          "quote": "Sherman asserts he was recruited by the NSA in the early 1990s for Project Preserve Destiny — a program to telepathically decode alien signals describing abductions across the United States."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-Rfmy5oW_r9c-REFERENCES-claim-Rfmy5oW_r9c-sherman-nsa-ppd",
+      "from_node_id": "video-Rfmy5oW_r9c",
+      "to_node_id": "claim-Rfmy5oW_r9c-sherman-nsa-ppd",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Rfmy5oW_r9c",
+          "timestamp_start": 117
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-Rfmy5oW_r9c-sherman-nsa-ppd-REFERENCES-program-project-preserve-destiny",
+      "from_node_id": "claim-Rfmy5oW_r9c-sherman-nsa-ppd",
+      "to_node_id": "program-project-preserve-destiny",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Rfmy5oW_r9c",
+          "timestamp_start": 117
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-Rfmy5oW_r9c-sherman-nsa-ppd-REFERENCES-organization-nsa",
+      "from_node_id": "claim-Rfmy5oW_r9c-sherman-nsa-ppd",
+      "to_node_id": "organization-nsa",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Rfmy5oW_r9c",
+          "timestamp_start": 117
+        }
+      ]
+    },
+    {
+      "id": "edge-person-dan-sherman-ASSERTED-claim-Rfmy5oW_r9c-sherman-pre-natal-genetic-alteration",
+      "from_node_id": "person-dan-sherman",
+      "to_node_id": "claim-Rfmy5oW_r9c-sherman-pre-natal-genetic-alteration",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Rfmy5oW_r9c",
+          "timestamp_start": 119,
+          "quote": "Sherman was told by his Air Force captain that aliens altered his genetics while he was a fetus (abducting his pregnant mother in the early 1960s) to enable later telepathic communication."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-Rfmy5oW_r9c-REFERENCES-claim-Rfmy5oW_r9c-sherman-pre-natal-genetic-alteration",
+      "from_node_id": "video-Rfmy5oW_r9c",
+      "to_node_id": "claim-Rfmy5oW_r9c-sherman-pre-natal-genetic-alteration",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Rfmy5oW_r9c",
+          "timestamp_start": 119
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-Rfmy5oW_r9c-sherman-pre-natal-genetic-alteration-REFERENCES-concept-intuitive-communicator",
+      "from_node_id": "claim-Rfmy5oW_r9c-sherman-pre-natal-genetic-alteration",
+      "to_node_id": "concept-intuitive-communicator",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Rfmy5oW_r9c",
+          "timestamp_start": 119
+        }
+      ]
+    },
+    {
+      "id": "edge-person-dan-sherman-ASSERTED-claim-Rfmy5oW_r9c-sherman-sine-wave-training",
+      "from_node_id": "person-dan-sherman",
+      "to_node_id": "claim-Rfmy5oW_r9c-sherman-sine-wave-training",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Rfmy5oW_r9c",
+          "timestamp_start": 111,
+          "quote": "Sherman describes training where he was asked to mentally hum a tone and observed a sine wave on a monitor visibly change in response — confirming to him a physical-mental coupling."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-Rfmy5oW_r9c-REFERENCES-claim-Rfmy5oW_r9c-sherman-sine-wave-training",
+      "from_node_id": "video-Rfmy5oW_r9c",
+      "to_node_id": "claim-Rfmy5oW_r9c-sherman-sine-wave-training",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Rfmy5oW_r9c",
+          "timestamp_start": 111
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-Rfmy5oW_r9c-sherman-sine-wave-training-REFERENCES-concept-intuitive-communicator",
+      "from_node_id": "claim-Rfmy5oW_r9c-sherman-sine-wave-training",
+      "to_node_id": "concept-intuitive-communicator",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Rfmy5oW_r9c",
+          "timestamp_start": 111
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-Rfmy5oW_r9c-sherman-nsa-foia-responses-telling",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-Rfmy5oW_r9c-sherman-nsa-foia-responses-telling",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Rfmy5oW_r9c",
+          "timestamp_start": 127,
+          "quote": "Independent researchers filed FOIA requests on Project Preserve Destiny; both the Air Force and NSA responses are described by Michels as 'fairly telling.'"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-Rfmy5oW_r9c-REFERENCES-claim-Rfmy5oW_r9c-sherman-nsa-foia-responses-telling",
+      "from_node_id": "video-Rfmy5oW_r9c",
+      "to_node_id": "claim-Rfmy5oW_r9c-sherman-nsa-foia-responses-telling",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Rfmy5oW_r9c",
+          "timestamp_start": 127
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-Rfmy5oW_r9c-sherman-nsa-foia-responses-telling-REFERENCES-person-dan-sherman",
+      "from_node_id": "claim-Rfmy5oW_r9c-sherman-nsa-foia-responses-telling",
+      "to_node_id": "person-dan-sherman",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Rfmy5oW_r9c",
+          "timestamp_start": 127
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-Rfmy5oW_r9c-sherman-nsa-foia-responses-telling-REFERENCES-program-project-preserve-destiny",
+      "from_node_id": "claim-Rfmy5oW_r9c-sherman-nsa-foia-responses-telling",
+      "to_node_id": "program-project-preserve-destiny",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Rfmy5oW_r9c",
+          "timestamp_start": 127
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-Rfmy5oW_r9c-sherman-nsa-foia-responses-telling-REFERENCES-organization-nsa",
+      "from_node_id": "claim-Rfmy5oW_r9c-sherman-nsa-foia-responses-telling",
+      "to_node_id": "organization-nsa",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Rfmy5oW_r9c",
+          "timestamp_start": 127
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-Rfmy5oW_r9c-sherman-nsa-foia-responses-telling-REFERENCES-organization-us-air-force",
+      "from_node_id": "claim-Rfmy5oW_r9c-sherman-nsa-foia-responses-telling",
+      "to_node_id": "organization-us-air-force",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Rfmy5oW_r9c",
+          "timestamp_start": 127
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-Rfmy5oW_r9c-sherman-base-identified-by-researchers",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-Rfmy5oW_r9c-sherman-base-identified-by-researchers",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Rfmy5oW_r9c",
+          "timestamp_start": 125,
+          "quote": "Michels' research team located one of the bases where Project Preserve Destiny was conducted, which Sherman was specifically avoiding mentioning."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-Rfmy5oW_r9c-REFERENCES-claim-Rfmy5oW_r9c-sherman-base-identified-by-researchers",
+      "from_node_id": "video-Rfmy5oW_r9c",
+      "to_node_id": "claim-Rfmy5oW_r9c-sherman-base-identified-by-researchers",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Rfmy5oW_r9c",
+          "timestamp_start": 125
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-Rfmy5oW_r9c-sherman-base-identified-by-researchers-REFERENCES-person-dan-sherman",
+      "from_node_id": "claim-Rfmy5oW_r9c-sherman-base-identified-by-researchers",
+      "to_node_id": "person-dan-sherman",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Rfmy5oW_r9c",
+          "timestamp_start": 125
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-Rfmy5oW_r9c-sherman-base-identified-by-researchers-REFERENCES-program-project-preserve-destiny",
+      "from_node_id": "claim-Rfmy5oW_r9c-sherman-base-identified-by-researchers",
+      "to_node_id": "program-project-preserve-destiny",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Rfmy5oW_r9c",
+          "timestamp_start": 125
+        }
+      ]
+    },
+    {
+      "id": "edge-person-dan-sherman-ASSERTED-claim-Rfmy5oW_r9c-sherman-above-black-book",
+      "from_node_id": "person-dan-sherman",
+      "to_node_id": "claim-Rfmy5oW_r9c-sherman-above-black-book",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Rfmy5oW_r9c",
+          "timestamp_start": 131,
+          "quote": "Sherman's 1997 memoir 'Above Black' is a primary source for the Project Preserve Destiny claims."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-Rfmy5oW_r9c-REFERENCES-claim-Rfmy5oW_r9c-sherman-above-black-book",
+      "from_node_id": "video-Rfmy5oW_r9c",
+      "to_node_id": "claim-Rfmy5oW_r9c-sherman-above-black-book",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Rfmy5oW_r9c",
+          "timestamp_start": 131
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-Rfmy5oW_r9c-sherman-above-black-book-REFERENCES-document-above-black",
+      "from_node_id": "claim-Rfmy5oW_r9c-sherman-above-black-book",
+      "to_node_id": "document-above-black",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Rfmy5oW_r9c",
+          "timestamp_start": 131
+        }
+      ]
     }
   ],
-  "extracted_at": "2026-04-17T11:04:11.819432+00:00",
+  "extracted_at": "2026-04-17T12:13:23.744133+00:00",
   "extractor_version": "v1-inline-claude"
 }

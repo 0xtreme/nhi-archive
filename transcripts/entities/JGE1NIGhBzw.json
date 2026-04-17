@@ -1320,6 +1320,317 @@
           "video-JGE1NIGhBzw"
         ]
       }
+    },
+    {
+      "id": "person-randall-carlson-extended",
+      "node_type": "person",
+      "label": "Randall Carlson (extended)",
+      "summary": "Master builder and geologist; proponent of Younger Dryas Impact hypothesis; Graham Hancock's frequent research collaborator.",
+      "tags": [
+        "researcher",
+        "geologist"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.912075+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JGE1NIGhBzw",
+          "timestamp_start": 61,
+          "quote": "Geologist; Younger Dryas Impact researcher; Hancock collaborator"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Carlson"
+        ],
+        "profession": "geologist / researcher",
+        "notability_tags": [
+          "researcher",
+          "geologist"
+        ]
+      }
+    },
+    {
+      "id": "concept-moon-as-engineered",
+      "node_type": "concept",
+      "label": "Moon as Engineered Object Hypothesis",
+      "summary": "Randall Carlson's entertained hypothesis: the Moon may be a geoengineered object. Insufficient spherical deformation despite sufficient mass; predates Earth despite alleged Earth-origin; anomalous 10x+ vibrational train post-impact; rare refractory metals (U-236, chromium, titanium); tidal locking suspiciously perfect.",
+      "tags": [
+        "metaphysics"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.912078+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JGE1NIGhBzw",
+          "timestamp_start": 51,
+          "timestamp_end": "Moon may be geoengineered — mass, density, orbit anomalies"
+        }
+      ],
+      "type_specific": {
+        "concept_domain": "metaphysics"
+      }
+    },
+    {
+      "id": "location-chimney-rock-chacoan",
+      "node_type": "location",
+      "label": "Chimney Rock (Chacoan Site, Colorado)",
+      "summary": "",
+      "tags": [
+        "observation_site"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.912080+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JGE1NIGhBzw",
+          "timestamp_start": 79,
+          "timestamp_end": "Ancient astronomical observatory tied to 18.6-year lunar cycle"
+        }
+      ],
+      "type_specific": {
+        "location_type": "observation_site",
+        "country": "US",
+        "state_or_region": "Colorado"
+      }
+    },
+    {
+      "id": "concept-lunar-major-standstill-18-6",
+      "node_type": "concept",
+      "label": "18.6-Year Lunar Standstill Cycle",
+      "summary": "The 18.6-year cycle between the Moon's maximum and minimum rising and setting points — tracked by ancient astronomy observatories worldwide (including Chimney Rock Chacoan outlier).",
+      "tags": [
+        "physics"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.912083+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JGE1NIGhBzw",
+          "timestamp_start": 77,
+          "timestamp_end": "Full lunar maximum/minimum rising/setting cycle"
+        }
+      ],
+      "type_specific": {
+        "concept_domain": "physics"
+      }
+    },
+    {
+      "id": "claim-JGE1NIGhBzw-carlson-moon-less-dense-predates-earth",
+      "node_type": "claim",
+      "label": "Per Carlson: the Moon is less dense than Earth yet allegedly formed FROM Earth via impact; the moon'",
+      "summary": "Per Carlson: the Moon is less dense than Earth yet allegedly formed FROM Earth via impact; the moon's material is claimed to predate Earth itself — a contradiction.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.918137+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JGE1NIGhBzw",
+          "timestamp_start": 69,
+          "quote": "It is way less dense than the Earth. The material predates the Earth and yet it's supposed to have come from the Earth itself from some sort of asteroid impact. So that doesn't make sense."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Per Carlson: the Moon is less dense than Earth yet allegedly formed FROM Earth via impact; the moon's material is claimed to predate Earth itself — a contradiction.",
+        "asserted_by_id": "person-randall-carlson-extended",
+        "source_video_id": "JGE1NIGhBzw",
+        "timestamp_start_seconds": 69,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-randall-carlson-extended",
+          "concept-moon-as-engineered"
+        ]
+      }
+    },
+    {
+      "id": "claim-JGE1NIGhBzw-carlson-moon-rings-10x-earth",
+      "node_type": "claim",
+      "label": "When Apollo 12 and 13 landers struck the Moon, NASA-placed seismometers recorded vibrational trains ",
+      "summary": "When Apollo 12 and 13 landers struck the Moon, NASA-placed seismometers recorded vibrational trains 10× or more longer than Earth equivalents — consistent with hollow or hollow-engineered body.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.918151+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JGE1NIGhBzw",
+          "timestamp_start": 71,
+          "quote": "There were reverberations when the lunar lander hit it both in Apollo 12 and Apollo 13 you had ringing. The moon has a long vibrational train after, like 10 times or more that of say the earth."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "When Apollo 12 and 13 landers struck the Moon, NASA-placed seismometers recorded vibrational trains 10× or more longer than Earth equivalents — consistent with hollow or hollow-engineered body.",
+        "asserted_by_id": "person-randall-carlson-extended",
+        "source_video_id": "JGE1NIGhBzw",
+        "timestamp_start_seconds": 71,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-randall-carlson-extended",
+          "concept-moon-as-engineered"
+        ]
+      }
+    },
+    {
+      "id": "claim-JGE1NIGhBzw-carlson-u236-refractory-metals",
+      "node_type": "claim",
+      "label": "The Moon contains Uranium-236, chromium, and titanium — rare high-refractory metals — inconsistent w",
+      "summary": "The Moon contains Uranium-236, chromium, and titanium — rare high-refractory metals — inconsistent with the standard Earth-ejecta-origin hypothesis.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.918159+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JGE1NIGhBzw",
+          "timestamp_start": 71,
+          "quote": "You have uranium 236 and chromium and chromium and titanium on the moon. These are sort of rather rare high refractory metals."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "The Moon contains Uranium-236, chromium, and titanium — rare high-refractory metals — inconsistent with the standard Earth-ejecta-origin hypothesis.",
+        "asserted_by_id": "person-randall-carlson-extended",
+        "source_video_id": "JGE1NIGhBzw",
+        "timestamp_start_seconds": 71,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-randall-carlson-extended",
+          "concept-moon-as-engineered"
+        ]
+      }
+    },
+    {
+      "id": "claim-JGE1NIGhBzw-carlson-atlantis-mid-atlantic-ridge",
+      "node_type": "claim",
+      "label": "Carlson argues marine geology and oceanography of the Atlantic Ocean basin show overwhelming evidenc",
+      "summary": "Carlson argues marine geology and oceanography of the Atlantic Ocean basin show overwhelming evidence of major subsidence — especially along Mid-Atlantic Ridge — consistent with Atlantis hypothesis; current islands are mountain tops of submerged ranges.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.918167+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JGE1NIGhBzw",
+          "timestamp_start": 49,
+          "quote": "You can interpret the evidence that there is a strong case for the existence of Atlantis. I've studied the marine geology and oceanography of the Atlantic Ocean basin. Overwhelming evidence of major subsidence on the floor of the Atlantic Ocean, particularly concentrated along the Mid-Atlantic ridge. Those islands are the tops of mountains."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Carlson argues marine geology and oceanography of the Atlantic Ocean basin show overwhelming evidence of major subsidence — especially along Mid-Atlantic Ridge — consistent with Atlantis hypothesis; current islands are mountain tops of submerged ranges.",
+        "asserted_by_id": "person-randall-carlson-extended",
+        "source_video_id": "JGE1NIGhBzw",
+        "timestamp_start_seconds": 49,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-randall-carlson-extended",
+          "concept-younger-dryas-impact"
+        ]
+      }
+    },
+    {
+      "id": "claim-JGE1NIGhBzw-carlson-imperial-mammoth-giants",
+      "node_type": "claim",
+      "label": "Carlson notes mammalian megafauna (Imperial Mammoth 16ft, Ursus spelaeus bear 12ft standing) were ov",
+      "summary": "Carlson notes mammalian megafauna (Imperial Mammoth 16ft, Ursus spelaeus bear 12ft standing) were oversized in the ice age — asks why not humans too? Ties to giants tradition across cultures.",
+      "tags": [
+        "speculation",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.918175+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JGE1NIGhBzw",
+          "timestamp_start": 53,
+          "quote": "The Imperial Mammoth stood 16 ft tall. The Ursus Spalius bear stood 6 feet at shoulder and 12 feet on hind legs. If you had all of these mammalian megafauna oversized compared to today, why not people? There were giants."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Carlson notes mammalian megafauna (Imperial Mammoth 16ft, Ursus spelaeus bear 12ft standing) were oversized in the ice age — asks why not humans too? Ties to giants tradition across cultures.",
+        "asserted_by_id": "person-randall-carlson-extended",
+        "source_video_id": "JGE1NIGhBzw",
+        "timestamp_start_seconds": 53,
+        "assertability": "speculation",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-randall-carlson-extended",
+          "concept-watchers-nephilim"
+        ]
+      }
+    },
+    {
+      "id": "claim-JGE1NIGhBzw-carlson-chimney-rock-18-6-year-cycle",
+      "node_type": "claim",
+      "label": "Chimney Rock (Chacoan civilization outlier in Colorado) is one of many ancient astronomy observatori",
+      "summary": "Chimney Rock (Chacoan civilization outlier in Colorado) is one of many ancient astronomy observatories built to track the 18.6-year lunar-standstill cycle — reflecting obsessive ancient interest in the Moon that modern culture lacks.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.918182+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JGE1NIGhBzw",
+          "timestamp_start": 79,
+          "quote": "Our ancestors all over the ancient world paid obsessive attention to the moon. They built huge structures dedicated to observing the motions of the moon. Track the 18.6 year lunar cycle. There's a place called Chimney Rock in Colorado."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Chimney Rock (Chacoan civilization outlier in Colorado) is one of many ancient astronomy observatories built to track the 18.6-year lunar-standstill cycle — reflecting obsessive ancient interest in the Moon that modern culture lacks.",
+        "asserted_by_id": "person-randall-carlson-extended",
+        "source_video_id": "JGE1NIGhBzw",
+        "timestamp_start_seconds": 79,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-randall-carlson-extended",
+          "location-chimney-rock-chacoan",
+          "concept-lunar-major-standstill-18-6"
+        ]
+      }
     }
   ],
   "edges": [
@@ -1999,8 +2310,280 @@
           "timestamp_start": 0
         }
       ]
+    },
+    {
+      "id": "edge-person-randall-carlson-extended-ASSERTED-claim-JGE1NIGhBzw-carlson-moon-less-dense-predates-earth",
+      "from_node_id": "person-randall-carlson-extended",
+      "to_node_id": "claim-JGE1NIGhBzw-carlson-moon-less-dense-predates-earth",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JGE1NIGhBzw",
+          "timestamp_start": 69,
+          "quote": "Per Carlson: the Moon is less dense than Earth yet allegedly formed FROM Earth via impact; the moon's material is claimed to predate Earth itself — a contradiction."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-JGE1NIGhBzw-REFERENCES-claim-JGE1NIGhBzw-carlson-moon-less-dense-predates-earth",
+      "from_node_id": "video-JGE1NIGhBzw",
+      "to_node_id": "claim-JGE1NIGhBzw-carlson-moon-less-dense-predates-earth",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JGE1NIGhBzw",
+          "timestamp_start": 69
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-JGE1NIGhBzw-carlson-moon-less-dense-predates-earth-REFERENCES-concept-moon-as-engineered",
+      "from_node_id": "claim-JGE1NIGhBzw-carlson-moon-less-dense-predates-earth",
+      "to_node_id": "concept-moon-as-engineered",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JGE1NIGhBzw",
+          "timestamp_start": 69
+        }
+      ]
+    },
+    {
+      "id": "edge-person-randall-carlson-extended-ASSERTED-claim-JGE1NIGhBzw-carlson-moon-rings-10x-earth",
+      "from_node_id": "person-randall-carlson-extended",
+      "to_node_id": "claim-JGE1NIGhBzw-carlson-moon-rings-10x-earth",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JGE1NIGhBzw",
+          "timestamp_start": 71,
+          "quote": "When Apollo 12 and 13 landers struck the Moon, NASA-placed seismometers recorded vibrational trains 10× or more longer than Earth equivalents — consistent with hollow or hollow-engineered body."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-JGE1NIGhBzw-REFERENCES-claim-JGE1NIGhBzw-carlson-moon-rings-10x-earth",
+      "from_node_id": "video-JGE1NIGhBzw",
+      "to_node_id": "claim-JGE1NIGhBzw-carlson-moon-rings-10x-earth",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JGE1NIGhBzw",
+          "timestamp_start": 71
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-JGE1NIGhBzw-carlson-moon-rings-10x-earth-REFERENCES-concept-moon-as-engineered",
+      "from_node_id": "claim-JGE1NIGhBzw-carlson-moon-rings-10x-earth",
+      "to_node_id": "concept-moon-as-engineered",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JGE1NIGhBzw",
+          "timestamp_start": 71
+        }
+      ]
+    },
+    {
+      "id": "edge-person-randall-carlson-extended-ASSERTED-claim-JGE1NIGhBzw-carlson-u236-refractory-metals",
+      "from_node_id": "person-randall-carlson-extended",
+      "to_node_id": "claim-JGE1NIGhBzw-carlson-u236-refractory-metals",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JGE1NIGhBzw",
+          "timestamp_start": 71,
+          "quote": "The Moon contains Uranium-236, chromium, and titanium — rare high-refractory metals — inconsistent with the standard Earth-ejecta-origin hypothesis."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-JGE1NIGhBzw-REFERENCES-claim-JGE1NIGhBzw-carlson-u236-refractory-metals",
+      "from_node_id": "video-JGE1NIGhBzw",
+      "to_node_id": "claim-JGE1NIGhBzw-carlson-u236-refractory-metals",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JGE1NIGhBzw",
+          "timestamp_start": 71
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-JGE1NIGhBzw-carlson-u236-refractory-metals-REFERENCES-concept-moon-as-engineered",
+      "from_node_id": "claim-JGE1NIGhBzw-carlson-u236-refractory-metals",
+      "to_node_id": "concept-moon-as-engineered",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JGE1NIGhBzw",
+          "timestamp_start": 71
+        }
+      ]
+    },
+    {
+      "id": "edge-person-randall-carlson-extended-ASSERTED-claim-JGE1NIGhBzw-carlson-atlantis-mid-atlantic-ridge",
+      "from_node_id": "person-randall-carlson-extended",
+      "to_node_id": "claim-JGE1NIGhBzw-carlson-atlantis-mid-atlantic-ridge",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JGE1NIGhBzw",
+          "timestamp_start": 49,
+          "quote": "Carlson argues marine geology and oceanography of the Atlantic Ocean basin show overwhelming evidence of major subsidence — especially along Mid-Atlantic Ridge — consistent with Atlantis hypothesis; c"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-JGE1NIGhBzw-REFERENCES-claim-JGE1NIGhBzw-carlson-atlantis-mid-atlantic-ridge",
+      "from_node_id": "video-JGE1NIGhBzw",
+      "to_node_id": "claim-JGE1NIGhBzw-carlson-atlantis-mid-atlantic-ridge",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JGE1NIGhBzw",
+          "timestamp_start": 49
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-JGE1NIGhBzw-carlson-atlantis-mid-atlantic-ridge-REFERENCES-concept-younger-dryas-impact",
+      "from_node_id": "claim-JGE1NIGhBzw-carlson-atlantis-mid-atlantic-ridge",
+      "to_node_id": "concept-younger-dryas-impact",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JGE1NIGhBzw",
+          "timestamp_start": 49
+        }
+      ]
+    },
+    {
+      "id": "edge-person-randall-carlson-extended-ASSERTED-claim-JGE1NIGhBzw-carlson-imperial-mammoth-giants",
+      "from_node_id": "person-randall-carlson-extended",
+      "to_node_id": "claim-JGE1NIGhBzw-carlson-imperial-mammoth-giants",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JGE1NIGhBzw",
+          "timestamp_start": 53,
+          "quote": "Carlson notes mammalian megafauna (Imperial Mammoth 16ft, Ursus spelaeus bear 12ft standing) were oversized in the ice age — asks why not humans too? Ties to giants tradition across cultures."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-JGE1NIGhBzw-REFERENCES-claim-JGE1NIGhBzw-carlson-imperial-mammoth-giants",
+      "from_node_id": "video-JGE1NIGhBzw",
+      "to_node_id": "claim-JGE1NIGhBzw-carlson-imperial-mammoth-giants",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JGE1NIGhBzw",
+          "timestamp_start": 53
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-JGE1NIGhBzw-carlson-imperial-mammoth-giants-REFERENCES-concept-watchers-nephilim",
+      "from_node_id": "claim-JGE1NIGhBzw-carlson-imperial-mammoth-giants",
+      "to_node_id": "concept-watchers-nephilim",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JGE1NIGhBzw",
+          "timestamp_start": 53
+        }
+      ]
+    },
+    {
+      "id": "edge-person-randall-carlson-extended-ASSERTED-claim-JGE1NIGhBzw-carlson-chimney-rock-18-6-year-cycle",
+      "from_node_id": "person-randall-carlson-extended",
+      "to_node_id": "claim-JGE1NIGhBzw-carlson-chimney-rock-18-6-year-cycle",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JGE1NIGhBzw",
+          "timestamp_start": 79,
+          "quote": "Chimney Rock (Chacoan civilization outlier in Colorado) is one of many ancient astronomy observatories built to track the 18.6-year lunar-standstill cycle — reflecting obsessive ancient interest in th"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-JGE1NIGhBzw-REFERENCES-claim-JGE1NIGhBzw-carlson-chimney-rock-18-6-year-cycle",
+      "from_node_id": "video-JGE1NIGhBzw",
+      "to_node_id": "claim-JGE1NIGhBzw-carlson-chimney-rock-18-6-year-cycle",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JGE1NIGhBzw",
+          "timestamp_start": 79
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-JGE1NIGhBzw-carlson-chimney-rock-18-6-year-cycle-REFERENCES-location-chimney-rock-chacoan",
+      "from_node_id": "claim-JGE1NIGhBzw-carlson-chimney-rock-18-6-year-cycle",
+      "to_node_id": "location-chimney-rock-chacoan",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JGE1NIGhBzw",
+          "timestamp_start": 79
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-JGE1NIGhBzw-carlson-chimney-rock-18-6-year-cycle-REFERENCES-concept-lunar-major-standstill-18-6",
+      "from_node_id": "claim-JGE1NIGhBzw-carlson-chimney-rock-18-6-year-cycle",
+      "to_node_id": "concept-lunar-major-standstill-18-6",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JGE1NIGhBzw",
+          "timestamp_start": 79
+        }
+      ]
     }
   ],
-  "extracted_at": "2026-04-17T11:04:42.975630+00:00",
+  "extracted_at": "2026-04-17T13:13:43.918190+00:00",
   "extractor_version": "v1-inline-claude"
 }

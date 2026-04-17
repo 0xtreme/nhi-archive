@@ -929,6 +929,333 @@
           "video-h0hAit-KH9A"
         ]
       }
+    },
+    {
+      "id": "person-joel-shectman",
+      "node_type": "person",
+      "label": "Joel Shectman",
+      "summary": "Wall Street Journal reporter who authored 'The Pentagon Disinformation That Fueled America's UFO Mythology' — an article Jesse argues is itself part of disinformation. Same reporter also wrote piece against scoop on Chinese COVID vaccine marginalization.",
+      "tags": [
+        "journalist",
+        "WSJ"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.111710+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "h0hAit-KH9A",
+          "timestamp_start": 62,
+          "quote": "Wall Street Journal reporter behind disinformation UFO article"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Shectman",
+          "Shman"
+        ],
+        "profession": "journalist",
+        "notability_tags": [
+          "journalist",
+          "WSJ"
+        ]
+      }
+    },
+    {
+      "id": "person-susan-goff",
+      "node_type": "person",
+      "label": "Susan Goff",
+      "summary": "Pentagon public affairs officer. Per LinkedIn and independent sources: held lead role in Booz Allen Hamilton's psychological operations consulting practice for DoD. Self-listed skills include 'strategic communication and psychological operations.' Primary source for the WSJ UFO article.",
+      "tags": [
+        "Pentagon",
+        "psyops"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.111714+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "h0hAit-KH9A",
+          "timestamp_start": 46,
+          "quote": "Pentagon PR; Booz Allen psyops consulting practice lead"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Goff"
+        ],
+        "profession": "official",
+        "notability_tags": [
+          "Pentagon",
+          "psyops"
+        ]
+      }
+    },
+    {
+      "id": "person-merrick-von-rennenkampff",
+      "node_type": "person",
+      "label": "Merrick von Rennenkampff",
+      "summary": "Journalist and former DoD employee; eloquently pointed out that the WSJ's 'EMP on our own nuclear weapons' theory is physically implausible — 60-foot science experiment cannot be moved to the front gate of an alert missile facility undetected.",
+      "tags": [
+        "journalist",
+        "DoD"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.111717+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "h0hAit-KH9A",
+          "timestamp_start": 70,
+          "quote": "Journalist; debunker of EMP-nukes-shutdown WSJ argument"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "von Rennenkampff"
+        ],
+        "profession": "journalist",
+        "notability_tags": [
+          "journalist",
+          "DoD"
+        ]
+      }
+    },
+    {
+      "id": "person-john-mills-malmstrom-1993",
+      "node_type": "person",
+      "label": "John Mills",
+      "summary": "Missile technician stationed at Malmstrom in 1993; saw UFOs en route back to base; the base had been 'swarmed' when he returned.",
+      "tags": [
+        "witness",
+        "Malmstrom",
+        "USAF"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.111722+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "h0hAit-KH9A",
+          "timestamp_start": 58,
+          "quote": "1993 Malmstrom missile technician UFO witness"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Mills"
+        ],
+        "profession": "military veteran",
+        "notability_tags": [
+          "witness",
+          "Malmstrom",
+          "USAF"
+        ]
+      }
+    },
+    {
+      "id": "document-wsj-pentagon-disinformation-article",
+      "node_type": "document",
+      "label": "WSJ 'Pentagon Disinformation' UFO Article",
+      "summary": "WSJ article by Joel Shectman titled 'The Pentagon Disinformation That Fueled America's UFO Mythology.' Claims UFOs are 'entirely explained by' Air Force EMP experiments on own nuclear missiles plus hazing rituals. Jesse and Robert Salas argue this IS the disinformation.",
+      "tags": [
+        "broadcast"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.111724+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "h0hAit-KH9A",
+          "timestamp_start": 44,
+          "timestamp_end": "WSJ article dismissing UFOs as EMP experiments + hazing rituals"
+        }
+      ],
+      "type_specific": {
+        "document_type": "broadcast",
+        "author": "Joel Shectman"
+      }
+    },
+    {
+      "id": "claim-h0hAit-KH9A-wsj-primary-source-booz-allen-psyops",
+      "node_type": "claim",
+      "label": "The WSJ UFO article's primary source, Susan Goff, held a lead role in Booz Allen Hamilton's psycholo",
+      "summary": "The WSJ UFO article's primary source, Susan Goff, held a lead role in Booz Allen Hamilton's psychological operations consulting practice for DoD — she self-listed 'psychological operations' as a skill. Article is itself psyop.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.114967+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "h0hAit-KH9A",
+          "timestamp_start": 46,
+          "quote": "One of the article's primary sources is Susan Goff, whose own LinkedIn confirms her lead role in Booz Allen Hamilton's psychological operations consulting practice for the Department of Defense. Her self-professed skills include strategic communication and psychological operations."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "The WSJ UFO article's primary source, Susan Goff, held a lead role in Booz Allen Hamilton's psychological operations consulting practice for DoD — she self-listed 'psychological operations' as a skill. Article is itself psyop.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "h0hAit-KH9A",
+        "timestamp_start_seconds": 46,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-susan-goff",
+          "document-wsj-pentagon-disinformation-article",
+          "person-joel-shectman"
+        ]
+      }
+    },
+    {
+      "id": "claim-h0hAit-KH9A-salas-wsj-emp-implausible",
+      "node_type": "claim",
+      "label": "Robert Salas on the WSJ EMP theory: 'It would have been irresponsible and unthinkable for the US Air",
+      "summary": "Robert Salas on the WSJ EMP theory: 'It would have been irresponsible and unthinkable for the US Air Force to jeopardize the operational status of these weapons. The EMP generator equipment would have involved a prolonged installation process in plain sight of our security team.'",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.114983+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "h0hAit-KH9A",
+          "timestamp_start": 66,
+          "quote": "It would have been irresponsible and unthinkable for the US Air Force to jeopardize the operational status of these weapons. The EMP generator equipment would have involved a prolonged installation process in plain sight of our security team."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Robert Salas on the WSJ EMP theory: 'It would have been irresponsible and unthinkable for the US Air Force to jeopardize the operational status of these weapons. The EMP generator equipment would have involved a prolonged installation process in plain sight of our security team.'",
+        "asserted_by_id": "person-robert-salas",
+        "source_video_id": "h0hAit-KH9A",
+        "timestamp_start_seconds": 66,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-robert-salas",
+          "document-wsj-pentagon-disinformation-article"
+        ]
+      }
+    },
+    {
+      "id": "claim-h0hAit-KH9A-emp-not-operational-until-1970s",
+      "node_type": "claim",
+      "label": "EMPs as directed weapons weren't even operational until the 1970s — WSJ's claim that a 1967 Malmstro",
+      "summary": "EMPs as directed weapons weren't even operational until the 1970s — WSJ's claim that a 1967 Malmstrom EMP experiment shut down 10 nuclear missiles is technologically anachronistic.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.114990+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "h0hAit-KH9A",
+          "timestamp_start": 70,
+          "quote": "EMPs weren't even a thing until the 70s, and no documents have ever suggested that the US has ever used them against our own active nuclear weapons with people in the vicinity."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "EMPs as directed weapons weren't even operational until the 1970s — WSJ's claim that a 1967 Malmstrom EMP experiment shut down 10 nuclear missiles is technologically anachronistic.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "h0hAit-KH9A",
+        "timestamp_start_seconds": 70,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "document-wsj-pentagon-disinformation-article",
+          "incident-1967-malmstrom-missiles"
+        ]
+      }
+    },
+    {
+      "id": "claim-h0hAit-KH9A-rennenkampff-60ft-science-experiment-undetected",
+      "node_type": "claim",
+      "label": "Merrick von Rennenkampff's refutation: WSJ suggests technicians moved a 60-foot science experiment t",
+      "summary": "Merrick von Rennenkampff's refutation: WSJ suggests technicians moved a 60-foot science experiment to the front gate of an alert missile facility undetected. This is physically impossible — security team would have seen it.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.114998+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "h0hAit-KH9A",
+          "timestamp_start": 70,
+          "quote": "As Merrick tweeted, the Wall Street Journal is suggesting that technicians somehow moved a 60-foot science experiment up to the front gate of an alert missile facility undetected and then they fried the active nukes. This is a joke, right?"
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Merrick von Rennenkampff's refutation: WSJ suggests technicians moved a 60-foot science experiment to the front gate of an alert missile facility undetected. This is physically impossible — security team would have seen it.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "h0hAit-KH9A",
+        "timestamp_start_seconds": 70,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-merrick-von-rennenkampff",
+          "document-wsj-pentagon-disinformation-article"
+        ]
+      }
+    },
+    {
+      "id": "claim-h0hAit-KH9A-mills-malmstrom-1993-base-swarmed",
+      "node_type": "claim",
+      "label": "John Mills, Malmstrom missile technician, saw UFOs returning to base in 1993; officers there said th",
+      "summary": "John Mills, Malmstrom missile technician, saw UFOs returning to base in 1993; officers there said the base had been 'swarmed' — demonstrating pattern continues decades after Salas' 1967 event.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.115005+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "h0hAit-KH9A",
+          "timestamp_start": 58,
+          "quote": "In 1993, a missile technician named John Mills stationed at Malmstrom also saw UFOs on his way back to the base. When he returned, officers there said the base had been swarmed."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "John Mills, Malmstrom missile technician, saw UFOs returning to base in 1993; officers there said the base had been 'swarmed' — demonstrating pattern continues decades after Salas' 1967 event.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "h0hAit-KH9A",
+        "timestamp_start_seconds": 58,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-john-mills-malmstrom-1993",
+          "location-malmstrom-afb"
+        ]
+      }
     }
   ],
   "edges": [
@@ -1443,8 +1770,293 @@
           "timestamp_start": 0
         }
       ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-h0hAit-KH9A-wsj-primary-source-booz-allen-psyops",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-h0hAit-KH9A-wsj-primary-source-booz-allen-psyops",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "h0hAit-KH9A",
+          "timestamp_start": 46,
+          "quote": "The WSJ UFO article's primary source, Susan Goff, held a lead role in Booz Allen Hamilton's psychological operations consulting practice for DoD — she self-listed 'psychological operations' as a skill"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-h0hAit-KH9A-REFERENCES-claim-h0hAit-KH9A-wsj-primary-source-booz-allen-psyops",
+      "from_node_id": "video-h0hAit-KH9A",
+      "to_node_id": "claim-h0hAit-KH9A-wsj-primary-source-booz-allen-psyops",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "h0hAit-KH9A",
+          "timestamp_start": 46
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-h0hAit-KH9A-wsj-primary-source-booz-allen-psyops-REFERENCES-person-susan-goff",
+      "from_node_id": "claim-h0hAit-KH9A-wsj-primary-source-booz-allen-psyops",
+      "to_node_id": "person-susan-goff",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "h0hAit-KH9A",
+          "timestamp_start": 46
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-h0hAit-KH9A-wsj-primary-source-booz-allen-psyops-REFERENCES-document-wsj-pentagon-disinformation-article",
+      "from_node_id": "claim-h0hAit-KH9A-wsj-primary-source-booz-allen-psyops",
+      "to_node_id": "document-wsj-pentagon-disinformation-article",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "h0hAit-KH9A",
+          "timestamp_start": 46
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-h0hAit-KH9A-wsj-primary-source-booz-allen-psyops-REFERENCES-person-joel-shectman",
+      "from_node_id": "claim-h0hAit-KH9A-wsj-primary-source-booz-allen-psyops",
+      "to_node_id": "person-joel-shectman",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "h0hAit-KH9A",
+          "timestamp_start": 46
+        }
+      ]
+    },
+    {
+      "id": "edge-person-robert-salas-ASSERTED-claim-h0hAit-KH9A-salas-wsj-emp-implausible",
+      "from_node_id": "person-robert-salas",
+      "to_node_id": "claim-h0hAit-KH9A-salas-wsj-emp-implausible",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "h0hAit-KH9A",
+          "timestamp_start": 66,
+          "quote": "Robert Salas on the WSJ EMP theory: 'It would have been irresponsible and unthinkable for the US Air Force to jeopardize the operational status of these weapons. The EMP generator equipment would have"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-h0hAit-KH9A-REFERENCES-claim-h0hAit-KH9A-salas-wsj-emp-implausible",
+      "from_node_id": "video-h0hAit-KH9A",
+      "to_node_id": "claim-h0hAit-KH9A-salas-wsj-emp-implausible",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "h0hAit-KH9A",
+          "timestamp_start": 66
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-h0hAit-KH9A-salas-wsj-emp-implausible-REFERENCES-document-wsj-pentagon-disinformation-article",
+      "from_node_id": "claim-h0hAit-KH9A-salas-wsj-emp-implausible",
+      "to_node_id": "document-wsj-pentagon-disinformation-article",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "h0hAit-KH9A",
+          "timestamp_start": 66
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-h0hAit-KH9A-emp-not-operational-until-1970s",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-h0hAit-KH9A-emp-not-operational-until-1970s",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "h0hAit-KH9A",
+          "timestamp_start": 70,
+          "quote": "EMPs as directed weapons weren't even operational until the 1970s — WSJ's claim that a 1967 Malmstrom EMP experiment shut down 10 nuclear missiles is technologically anachronistic."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-h0hAit-KH9A-REFERENCES-claim-h0hAit-KH9A-emp-not-operational-until-1970s",
+      "from_node_id": "video-h0hAit-KH9A",
+      "to_node_id": "claim-h0hAit-KH9A-emp-not-operational-until-1970s",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "h0hAit-KH9A",
+          "timestamp_start": 70
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-h0hAit-KH9A-emp-not-operational-until-1970s-REFERENCES-document-wsj-pentagon-disinformation-article",
+      "from_node_id": "claim-h0hAit-KH9A-emp-not-operational-until-1970s",
+      "to_node_id": "document-wsj-pentagon-disinformation-article",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "h0hAit-KH9A",
+          "timestamp_start": 70
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-h0hAit-KH9A-emp-not-operational-until-1970s-REFERENCES-incident-1967-malmstrom-missiles",
+      "from_node_id": "claim-h0hAit-KH9A-emp-not-operational-until-1970s",
+      "to_node_id": "incident-1967-malmstrom-missiles",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "h0hAit-KH9A",
+          "timestamp_start": 70
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-h0hAit-KH9A-rennenkampff-60ft-science-experiment-undetected",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-h0hAit-KH9A-rennenkampff-60ft-science-experiment-undetected",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "h0hAit-KH9A",
+          "timestamp_start": 70,
+          "quote": "Merrick von Rennenkampff's refutation: WSJ suggests technicians moved a 60-foot science experiment to the front gate of an alert missile facility undetected. This is physically impossible — security t"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-h0hAit-KH9A-REFERENCES-claim-h0hAit-KH9A-rennenkampff-60ft-science-experiment-undetected",
+      "from_node_id": "video-h0hAit-KH9A",
+      "to_node_id": "claim-h0hAit-KH9A-rennenkampff-60ft-science-experiment-undetected",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "h0hAit-KH9A",
+          "timestamp_start": 70
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-h0hAit-KH9A-rennenkampff-60ft-science-experiment-undetected-REFERENCES-person-merrick-von-rennenkampff",
+      "from_node_id": "claim-h0hAit-KH9A-rennenkampff-60ft-science-experiment-undetected",
+      "to_node_id": "person-merrick-von-rennenkampff",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "h0hAit-KH9A",
+          "timestamp_start": 70
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-h0hAit-KH9A-rennenkampff-60ft-science-experiment-undetected-REFERENCES-document-wsj-pentagon-disinformation-article",
+      "from_node_id": "claim-h0hAit-KH9A-rennenkampff-60ft-science-experiment-undetected",
+      "to_node_id": "document-wsj-pentagon-disinformation-article",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "h0hAit-KH9A",
+          "timestamp_start": 70
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-h0hAit-KH9A-mills-malmstrom-1993-base-swarmed",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-h0hAit-KH9A-mills-malmstrom-1993-base-swarmed",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "h0hAit-KH9A",
+          "timestamp_start": 58,
+          "quote": "John Mills, Malmstrom missile technician, saw UFOs returning to base in 1993; officers there said the base had been 'swarmed' — demonstrating pattern continues decades after Salas' 1967 event."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-h0hAit-KH9A-REFERENCES-claim-h0hAit-KH9A-mills-malmstrom-1993-base-swarmed",
+      "from_node_id": "video-h0hAit-KH9A",
+      "to_node_id": "claim-h0hAit-KH9A-mills-malmstrom-1993-base-swarmed",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "h0hAit-KH9A",
+          "timestamp_start": 58
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-h0hAit-KH9A-mills-malmstrom-1993-base-swarmed-REFERENCES-person-john-mills-malmstrom-1993",
+      "from_node_id": "claim-h0hAit-KH9A-mills-malmstrom-1993-base-swarmed",
+      "to_node_id": "person-john-mills-malmstrom-1993",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "h0hAit-KH9A",
+          "timestamp_start": 58
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-h0hAit-KH9A-mills-malmstrom-1993-base-swarmed-REFERENCES-location-malmstrom-afb",
+      "from_node_id": "claim-h0hAit-KH9A-mills-malmstrom-1993-base-swarmed",
+      "to_node_id": "location-malmstrom-afb",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "h0hAit-KH9A",
+          "timestamp_start": 58
+        }
+      ]
     }
   ],
-  "extracted_at": "2026-04-17T11:05:02.668759+00:00",
+  "extracted_at": "2026-04-17T23:20:40.115012+00:00",
   "extractor_version": "v1-inline-claude"
 }

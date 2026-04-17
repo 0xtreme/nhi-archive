@@ -914,6 +914,297 @@
           "video-92XrddiKjHY"
         ]
       }
+    },
+    {
+      "id": "person-luke-caverns",
+      "node_type": "person",
+      "label": "Luke Caverns",
+      "summary": "American independent archaeologist in his 20s; distant cousin of Ronald Reagan (chose 'Caverns' as middle name publicly). Descended from 1890s Spanish-gold-mining family in American Southwest — inherited adventurous spirit. Mentored by Ed Barnhart; inspired by Hancock and Randall Carlson.",
+      "tags": [
+        "archaeologist",
+        "researcher"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.687482+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "92XrddiKjHY",
+          "timestamp_start": 190,
+          "quote": "Vigilante archaeologist; distant Reagan family descendant; lost-Spanish-gold heritage"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Caverns",
+          "Reagan"
+        ],
+        "profession": "archaeologist",
+        "notability_tags": [
+          "archaeologist",
+          "researcher"
+        ]
+      }
+    },
+    {
+      "id": "person-filippo-biondi",
+      "node_type": "person",
+      "label": "Filippo Biondi",
+      "summary": "Italian researcher who in 2025 led a team applying synthetic aperture radar Doppler tomography plus AI to reconstruct apparent subsurface energy grid beneath the Giza Plateau.",
+      "tags": [
+        "researcher",
+        "Italian"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.687484+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "92XrddiKjHY",
+          "timestamp_start": 184,
+          "quote": "Italian researcher leading SAR Doppler tomography of Giza Plateau"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Biondi"
+        ],
+        "profession": "researcher",
+        "notability_tags": [
+          "researcher",
+          "Italian"
+        ]
+      }
+    },
+    {
+      "id": "person-ed-barnhart",
+      "node_type": "person",
+      "label": "Ed Barnhart",
+      "summary": "American archaeologist; mentor of Luke Caverns.",
+      "tags": [
+        "archaeologist"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.687486+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "92XrddiKjHY",
+          "timestamp_start": 190,
+          "quote": "Academic mentor of Luke Caverns; archaeologist"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Barnhart"
+        ],
+        "profession": "archaeologist",
+        "notability_tags": [
+          "archaeologist"
+        ]
+      }
+    },
+    {
+      "id": "event-2024-japanese-egyptian-sphinx-cemetery-gpr",
+      "node_type": "event",
+      "label": "2024 Western-Cemetery Sphinx GPR Mapping",
+      "summary": "2024 Egyptian-Japanese researcher collaboration using ground-penetrating radar and electrical resistivity tomography. Mapped a shallow L-shaped structure approximately 10m long in the western cemetery adjacent to the Great Pyramid. Function still unknown; structure verified real.",
+      "tags": [
+        "publication"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.687489+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "92XrddiKjHY",
+          "timestamp_start": 180,
+          "timestamp_end": "Ground-penetrating radar L-shaped structure near Sphinx"
+        }
+      ],
+      "type_specific": {
+        "event_type": "publication",
+        "date_approximate": "2024-01-01"
+      }
+    },
+    {
+      "id": "claim-92XrddiKjHY-caverns-2024-gpr-l-shaped-verified",
+      "node_type": "claim",
+      "label": "2024 Japanese-Egyptian researcher collaboration used GPR and electrical resistivity tomography to ve",
+      "summary": "2024 Japanese-Egyptian researcher collaboration used GPR and electrical resistivity tomography to verify a shallow L-shaped underground structure ~10m long in the western cemetery adjacent to the Great Pyramid — function unknown, existence verified.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.700465+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "92XrddiKjHY",
+          "timestamp_start": 180,
+          "quote": "In 2024, a collaborative effort between Egyptian and Japanese researchers using ground penetrating radar and electrical resistivity tomography mapped the western cemetery adjacent to the Great Pyramid. Their non-invasive methods revealed a shallow L-shaped structure approximately 10 m long."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "2024 Japanese-Egyptian researcher collaboration used GPR and electrical resistivity tomography to verify a shallow L-shaped underground structure ~10m long in the western cemetery adjacent to the Great Pyramid — function unknown, existence verified.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "92XrddiKjHY",
+        "timestamp_start_seconds": 180,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-luke-caverns",
+          "event-2024-japanese-egyptian-sphinx-cemetery-gpr"
+        ]
+      }
+    },
+    {
+      "id": "claim-92XrddiKjHY-hawass-admits-3-sphinx-tunnels",
+      "node_type": "claim",
+      "label": "Even Zahi Hawass (former Egyptian Minister of Antiquities — 'professional Debbie Downer and skeptic'",
+      "summary": "Even Zahi Hawass (former Egyptian Minister of Antiquities — 'professional Debbie Downer and skeptic') has publicly acknowledged the existence of three independent tunnels associated with the Sphinx.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.700479+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "92XrddiKjHY",
+          "timestamp_start": 183,
+          "quote": "Former minister of antiquities, Dr. Zahi Hawass, known for being a professional Debbie Downer and skeptic, himself has acknowledged the existence of three independent tunnels associated with the Sphinx."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Even Zahi Hawass (former Egyptian Minister of Antiquities — 'professional Debbie Downer and skeptic') has publicly acknowledged the existence of three independent tunnels associated with the Sphinx.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "92XrddiKjHY",
+        "timestamp_start_seconds": 183,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-luke-caverns",
+          "person-zahi-hawass",
+          "location-giza-plateau"
+        ]
+      }
+    },
+    {
+      "id": "claim-92XrddiKjHY-biondi-2025-sar-doppler-circulated-handwavy",
+      "node_type": "claim",
+      "label": "Jesse notes 2025 Biondi's SAR Doppler tomography images circulating online show impressive granulari",
+      "summary": "Jesse notes 2025 Biondi's SAR Doppler tomography images circulating online show impressive granularity but 'take a lot of liberties' — actual images don't match what's circulating. Crowd-conditioning effect possible.",
+      "tags": [
+        "speculation",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.700488+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "92XrddiKjHY",
+          "timestamp_start": 186,
+          "quote": "A team of researchers led by Filippo Beyond used synthetic aperture radar Doppler tomography and artificial intelligence. The image circulating the internet involves a level of granularity and detail and takes a lot of liberties. The actual tomography images don't match what's being circulated online."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Jesse notes 2025 Biondi's SAR Doppler tomography images circulating online show impressive granularity but 'take a lot of liberties' — actual images don't match what's circulating. Crowd-conditioning effect possible.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "92XrddiKjHY",
+        "timestamp_start_seconds": 186,
+        "assertability": "speculation",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-filippo-biondi",
+          "concept-photon-phonon-sar",
+          "location-giza-plateau"
+        ]
+      }
+    },
+    {
+      "id": "claim-92XrddiKjHY-caverns-500-year-monument-progression",
+      "node_type": "claim",
+      "label": "Caverns points to a 500-year progression of temple/monument architecture getting incrementally large",
+      "summary": "Caverns points to a 500-year progression of temple/monument architecture getting incrementally larger and more monumental across Egypt — each culture building for 'god beings' recognized across ancient civilizations.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.700496+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "92XrddiKjHY",
+          "timestamp_start": 181,
+          "quote": "You have a 500 year period where we can see a progression of architecture getting bigger and bigger and more monumental. All these ancient temples erected on behalf of these god beings. Every ancient culture recognizes these gods that exist on our planet."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Caverns points to a 500-year progression of temple/monument architecture getting incrementally larger and more monumental across Egypt — each culture building for 'god beings' recognized across ancient civilizations.",
+        "asserted_by_id": "person-luke-caverns",
+        "source_video_id": "92XrddiKjHY",
+        "timestamp_start_seconds": 181,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-luke-caverns",
+          "location-giza-plateau"
+        ]
+      }
+    },
+    {
+      "id": "claim-92XrddiKjHY-caverns-akhenaten-aten-elongated-skulls",
+      "node_type": "claim",
+      "label": "Per Caverns: Amenhotep IV renamed himself Akhenaten, switched worship to monotheistic sun-god Aten, ",
+      "summary": "Per Caverns: Amenhotep IV renamed himself Akhenaten, switched worship to monotheistic sun-god Aten, and then depicted himself with elongated skulls — origin of skull-elongation motif unknown.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.700503+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "92XrddiKjHY",
+          "timestamp_start": 177,
+          "quote": "Amenhotep dies. Amenhotep IV becomes king. And he says, 'I'm not worshiping Amen anymore. I'm only going to acknowledge the one true sun god, the Aten.' And then they start depicting themselves with the elongated skulls."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Per Caverns: Amenhotep IV renamed himself Akhenaten, switched worship to monotheistic sun-god Aten, and then depicted himself with elongated skulls — origin of skull-elongation motif unknown.",
+        "asserted_by_id": "person-luke-caverns",
+        "source_video_id": "92XrddiKjHY",
+        "timestamp_start_seconds": 177,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-luke-caverns"
+        ]
+      }
     }
   ],
   "edges": [
@@ -1428,8 +1719,279 @@
           "timestamp_start": 0
         }
       ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-92XrddiKjHY-caverns-2024-gpr-l-shaped-verified",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-92XrddiKjHY-caverns-2024-gpr-l-shaped-verified",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "92XrddiKjHY",
+          "timestamp_start": 180,
+          "quote": "2024 Japanese-Egyptian researcher collaboration used GPR and electrical resistivity tomography to verify a shallow L-shaped underground structure ~10m long in the western cemetery adjacent to the Grea"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-92XrddiKjHY-REFERENCES-claim-92XrddiKjHY-caverns-2024-gpr-l-shaped-verified",
+      "from_node_id": "video-92XrddiKjHY",
+      "to_node_id": "claim-92XrddiKjHY-caverns-2024-gpr-l-shaped-verified",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "92XrddiKjHY",
+          "timestamp_start": 180
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-92XrddiKjHY-caverns-2024-gpr-l-shaped-verified-REFERENCES-person-luke-caverns",
+      "from_node_id": "claim-92XrddiKjHY-caverns-2024-gpr-l-shaped-verified",
+      "to_node_id": "person-luke-caverns",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "92XrddiKjHY",
+          "timestamp_start": 180
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-92XrddiKjHY-caverns-2024-gpr-l-shaped-verified-REFERENCES-event-2024-japanese-egyptian-sphinx-cemetery-gpr",
+      "from_node_id": "claim-92XrddiKjHY-caverns-2024-gpr-l-shaped-verified",
+      "to_node_id": "event-2024-japanese-egyptian-sphinx-cemetery-gpr",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "92XrddiKjHY",
+          "timestamp_start": 180
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-92XrddiKjHY-hawass-admits-3-sphinx-tunnels",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-92XrddiKjHY-hawass-admits-3-sphinx-tunnels",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "92XrddiKjHY",
+          "timestamp_start": 183,
+          "quote": "Even Zahi Hawass (former Egyptian Minister of Antiquities — 'professional Debbie Downer and skeptic') has publicly acknowledged the existence of three independent tunnels associated with the Sphinx."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-92XrddiKjHY-REFERENCES-claim-92XrddiKjHY-hawass-admits-3-sphinx-tunnels",
+      "from_node_id": "video-92XrddiKjHY",
+      "to_node_id": "claim-92XrddiKjHY-hawass-admits-3-sphinx-tunnels",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "92XrddiKjHY",
+          "timestamp_start": 183
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-92XrddiKjHY-hawass-admits-3-sphinx-tunnels-REFERENCES-person-luke-caverns",
+      "from_node_id": "claim-92XrddiKjHY-hawass-admits-3-sphinx-tunnels",
+      "to_node_id": "person-luke-caverns",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "92XrddiKjHY",
+          "timestamp_start": 183
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-92XrddiKjHY-hawass-admits-3-sphinx-tunnels-REFERENCES-person-zahi-hawass",
+      "from_node_id": "claim-92XrddiKjHY-hawass-admits-3-sphinx-tunnels",
+      "to_node_id": "person-zahi-hawass",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "92XrddiKjHY",
+          "timestamp_start": 183
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-92XrddiKjHY-hawass-admits-3-sphinx-tunnels-REFERENCES-location-giza-plateau",
+      "from_node_id": "claim-92XrddiKjHY-hawass-admits-3-sphinx-tunnels",
+      "to_node_id": "location-giza-plateau",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "92XrddiKjHY",
+          "timestamp_start": 183
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-92XrddiKjHY-biondi-2025-sar-doppler-circulated-handwavy",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-92XrddiKjHY-biondi-2025-sar-doppler-circulated-handwavy",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "92XrddiKjHY",
+          "timestamp_start": 186,
+          "quote": "Jesse notes 2025 Biondi's SAR Doppler tomography images circulating online show impressive granularity but 'take a lot of liberties' — actual images don't match what's circulating. Crowd-conditioning "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-92XrddiKjHY-REFERENCES-claim-92XrddiKjHY-biondi-2025-sar-doppler-circulated-handwavy",
+      "from_node_id": "video-92XrddiKjHY",
+      "to_node_id": "claim-92XrddiKjHY-biondi-2025-sar-doppler-circulated-handwavy",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "92XrddiKjHY",
+          "timestamp_start": 186
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-92XrddiKjHY-biondi-2025-sar-doppler-circulated-handwavy-REFERENCES-person-filippo-biondi",
+      "from_node_id": "claim-92XrddiKjHY-biondi-2025-sar-doppler-circulated-handwavy",
+      "to_node_id": "person-filippo-biondi",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "92XrddiKjHY",
+          "timestamp_start": 186
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-92XrddiKjHY-biondi-2025-sar-doppler-circulated-handwavy-REFERENCES-concept-photon-phonon-sar",
+      "from_node_id": "claim-92XrddiKjHY-biondi-2025-sar-doppler-circulated-handwavy",
+      "to_node_id": "concept-photon-phonon-sar",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "92XrddiKjHY",
+          "timestamp_start": 186
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-92XrddiKjHY-biondi-2025-sar-doppler-circulated-handwavy-REFERENCES-location-giza-plateau",
+      "from_node_id": "claim-92XrddiKjHY-biondi-2025-sar-doppler-circulated-handwavy",
+      "to_node_id": "location-giza-plateau",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "92XrddiKjHY",
+          "timestamp_start": 186
+        }
+      ]
+    },
+    {
+      "id": "edge-person-luke-caverns-ASSERTED-claim-92XrddiKjHY-caverns-500-year-monument-progression",
+      "from_node_id": "person-luke-caverns",
+      "to_node_id": "claim-92XrddiKjHY-caverns-500-year-monument-progression",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "92XrddiKjHY",
+          "timestamp_start": 181,
+          "quote": "Caverns points to a 500-year progression of temple/monument architecture getting incrementally larger and more monumental across Egypt — each culture building for 'god beings' recognized across ancien"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-92XrddiKjHY-REFERENCES-claim-92XrddiKjHY-caverns-500-year-monument-progression",
+      "from_node_id": "video-92XrddiKjHY",
+      "to_node_id": "claim-92XrddiKjHY-caverns-500-year-monument-progression",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "92XrddiKjHY",
+          "timestamp_start": 181
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-92XrddiKjHY-caverns-500-year-monument-progression-REFERENCES-location-giza-plateau",
+      "from_node_id": "claim-92XrddiKjHY-caverns-500-year-monument-progression",
+      "to_node_id": "location-giza-plateau",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "92XrddiKjHY",
+          "timestamp_start": 181
+        }
+      ]
+    },
+    {
+      "id": "edge-person-luke-caverns-ASSERTED-claim-92XrddiKjHY-caverns-akhenaten-aten-elongated-skulls",
+      "from_node_id": "person-luke-caverns",
+      "to_node_id": "claim-92XrddiKjHY-caverns-akhenaten-aten-elongated-skulls",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "92XrddiKjHY",
+          "timestamp_start": 177,
+          "quote": "Per Caverns: Amenhotep IV renamed himself Akhenaten, switched worship to monotheistic sun-god Aten, and then depicted himself with elongated skulls — origin of skull-elongation motif unknown."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-92XrddiKjHY-REFERENCES-claim-92XrddiKjHY-caverns-akhenaten-aten-elongated-skulls",
+      "from_node_id": "video-92XrddiKjHY",
+      "to_node_id": "claim-92XrddiKjHY-caverns-akhenaten-aten-elongated-skulls",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "92XrddiKjHY",
+          "timestamp_start": 177
+        }
+      ]
     }
   ],
-  "extracted_at": "2026-04-17T11:04:53.014836+00:00",
+  "extracted_at": "2026-04-17T13:21:38.700509+00:00",
   "extractor_version": "v1-inline-claude"
 }

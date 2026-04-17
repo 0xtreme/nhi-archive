@@ -1265,6 +1265,319 @@
           "video-zjpvfDFc4fg"
         ]
       }
+    },
+    {
+      "id": "person-buzz-aldrin",
+      "node_type": "person",
+      "label": "Buzz Aldrin",
+      "summary": "American astronaut; second man on moon (Apollo 11, 1969). 33rd-degree Scottish Rite Mason. Performed first religious ceremony on moon — Scottish Rite communion with silk flag.",
+      "tags": [
+        "astronaut",
+        "NASA",
+        "Mason",
+        "historical"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:07:01.191212+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "zjpvfDFc4fg",
+          "timestamp_start": 277,
+          "quote": "Apollo 11 astronaut; 33rd-degree Mason; performed first lunar communion"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Aldrin"
+        ],
+        "profession": "astronaut",
+        "notability_tags": [
+          "astronaut",
+          "NASA",
+          "Mason",
+          "historical"
+        ]
+      }
+    },
+    {
+      "id": "person-neil-armstrong",
+      "node_type": "person",
+      "label": "Neil Armstrong",
+      "summary": "American astronaut and naval aviator; first person to walk on the moon (Apollo 11, 1969).",
+      "tags": [
+        "astronaut",
+        "NASA",
+        "historical"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:07:01.191214+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "zjpvfDFc4fg",
+          "timestamp_start": 277,
+          "quote": "Apollo 11 astronaut; first man on moon"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Armstrong"
+        ],
+        "profession": "astronaut",
+        "notability_tags": [
+          "astronaut",
+          "NASA",
+          "historical"
+        ]
+      }
+    },
+    {
+      "id": "concept-scottish-rite-freemasonry",
+      "node_type": "concept",
+      "label": "Scottish Rite Freemasonry",
+      "summary": "Esoteric branch of Freemasonry with 33 degrees symbolically tied to the 33 vertebrae of the spine culminating in the crown chakra (divine insight gateway). Buzz Aldrin held the 33rd degree.",
+      "tags": [
+        "metaphysics"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:07:01.191216+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "zjpvfDFc4fg",
+          "timestamp_start": 293,
+          "timestamp_end": "Esoteric branch of Freemasonry with 33 degrees tied to spinal chakras"
+        }
+      ],
+      "type_specific": {
+        "concept_domain": "metaphysics"
+      }
+    },
+    {
+      "id": "concept-overview-effect",
+      "node_type": "concept",
+      "label": "The Overview Effect",
+      "summary": "Spiritual/cognitive shift astronauts report from seeing Earth from space; first identified via Edgar Mitchell — Earth's dynamic too beautiful to be accidental, implying a creator 'above the religions.'",
+      "tags": [
+        "psychology"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:07:01.191218+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "zjpvfDFc4fg",
+          "timestamp_start": 305,
+          "timestamp_end": "Astronauts' spiritual transformation from seeing Earth from space"
+        }
+      ],
+      "type_specific": {
+        "concept_domain": "psychology"
+      }
+    },
+    {
+      "id": "program-institute-of-noetic-sciences",
+      "node_type": "program",
+      "label": "Institute of Noetic Sciences (IONS)",
+      "summary": "Think tank dedicated to consciousness, psychic phenomena, and metaphysics founded by Apollo 14 astronaut Edgar Mitchell. Wernher von Braun attended early fundraising dinners and encouraged the effort.",
+      "tags": [
+        "program"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:07:01.191220+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "zjpvfDFc4fg",
+          "timestamp_start": 307,
+          "timestamp_end": "Edgar Mitchell's think tank for consciousness research"
+        }
+      ],
+      "type_specific": {
+        "acronym": "IONS"
+      }
+    },
+    {
+      "id": "claim-zjpvfDFc4fg-aldrin-scottish-rite-moon-flag",
+      "node_type": "claim",
+      "label": "Buzz Aldrin carried a small silk flag hand-stitched with the Scottish Rite symbol of Freemasonry to ",
+      "summary": "Buzz Aldrin carried a small silk flag hand-stitched with the Scottish Rite symbol of Freemasonry to the moon; Masonic Grand Lodge of Ohio claims Apollo 11 established an appendant body of Freemasonry on the moon.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:07:01.206396+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "zjpvfDFc4fg",
+          "timestamp_start": 291,
+          "quote": "Among his belongings was a small silk flag hand-stitched with the symbol of the Scottish Rite of Freemasonry. According to the Masonic Grand Lodge of Ohio, the Apollo 11 mission even established an appendant body of the Masonic Lodge on the moon."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Buzz Aldrin carried a small silk flag hand-stitched with the Scottish Rite symbol of Freemasonry to the moon; Masonic Grand Lodge of Ohio claims Apollo 11 established an appendant body of Freemasonry on the moon.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "zjpvfDFc4fg",
+        "timestamp_start_seconds": 291,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-buzz-aldrin",
+          "concept-scottish-rite-freemasonry"
+        ]
+      }
+    },
+    {
+      "id": "claim-zjpvfDFc4fg-aldrin-communion-moon-first-liquid",
+      "node_type": "claim",
+      "label": "Buzz Aldrin performed the first religious ceremony on the moon — communion with wine, bread, and sil",
+      "summary": "Buzz Aldrin performed the first religious ceremony on the moon — communion with wine, bread, and silver chalice before his first moonwalk. The wine curled 'slowly and gracefully' up the side of the cup.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:07:01.206418+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "zjpvfDFc4fg",
+          "timestamp_start": 285,
+          "quote": "Aldrin then proceeded to carry out the first religious ceremony ever conducted on the moon. Using a small silver chalice, a bit of wine, and a piece of bread. He recalled the wine curling slowly and gracefully up the side of the cup."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Buzz Aldrin performed the first religious ceremony on the moon — communion with wine, bread, and silver chalice before his first moonwalk. The wine curled 'slowly and gracefully' up the side of the cup.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "zjpvfDFc4fg",
+        "timestamp_start_seconds": 285,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-buzz-aldrin",
+          "person-neil-armstrong"
+        ]
+      }
+    },
+    {
+      "id": "claim-zjpvfDFc4fg-mitchell-esp-on-moon",
+      "node_type": "claim",
+      "label": "On Apollo 14, Edgar Mitchell ran a private ESP experiment attempting to send mental images back to E",
+      "summary": "On Apollo 14, Edgar Mitchell ran a private ESP experiment attempting to send mental images back to Earth using cards; results were scored better than chance.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:07:01.206427+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "zjpvfDFc4fg",
+          "timestamp_start": 301,
+          "quote": "On his journey to the moon, Mitchell conducted a private ESP experiment attempting to send mental images back to Earth using a set of cards. The results scored by colleagues back on Earth were better than chance."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "On Apollo 14, Edgar Mitchell ran a private ESP experiment attempting to send mental images back to Earth using cards; results were scored better than chance.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "zjpvfDFc4fg",
+        "timestamp_start_seconds": 301,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-ed-mitchell",
+          "program-institute-of-noetic-sciences"
+        ]
+      }
+    },
+    {
+      "id": "claim-zjpvfDFc4fg-mitchell-vonbraun-consciousness-study",
+      "node_type": "claim",
+      "label": "Per Jesse: von Braun deeply supported Mitchell's consciousness/psi interests and encouraged him to f",
+      "summary": "Per Jesse: von Braun deeply supported Mitchell's consciousness/psi interests and encouraged him to find a site within NASA to study consciousness further; von Braun attended early fundraising dinners for Mitchell's Institute of Noetic Sciences.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:07:01.206435+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "zjpvfDFc4fg",
+          "timestamp_start": 305,
+          "quote": "Warner von Braun — according to Mitchell, deeply supportive, even encouraging Mitchell to find a site within NASA to study consciousness further. Von Braun attended one of its early fundraising dinners."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Per Jesse: von Braun deeply supported Mitchell's consciousness/psi interests and encouraged him to find a site within NASA to study consciousness further; von Braun attended early fundraising dinners for Mitchell's Institute of Noetic Sciences.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "zjpvfDFc4fg",
+        "timestamp_start_seconds": 305,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-ed-mitchell",
+          "person-wernher-von-braun",
+          "program-institute-of-noetic-sciences"
+        ]
+      }
+    },
+    {
+      "id": "claim-zjpvfDFc4fg-mitchell-overview-effect-spiritual",
+      "node_type": "claim",
+      "label": "Mitchell's Overview Effect framing: Earth from space is 'too much purpose, too much logic, too beaut",
+      "summary": "Mitchell's Overview Effect framing: Earth from space is 'too much purpose, too much logic, too beautiful to have happened by accident. There has to be a creator of the universe who stands above the religions.'",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:07:01.206443+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "zjpvfDFc4fg",
+          "timestamp_start": 309,
+          "quote": "The Earth dynamic, overwhelming — it was just too beautiful to have happened by accident. There has to be a creator of the universe who stands above the religions that we ourselves create to govern our lives."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Mitchell's Overview Effect framing: Earth from space is 'too much purpose, too much logic, too beautiful to have happened by accident. There has to be a creator of the universe who stands above the religions.'",
+        "asserted_by_id": "person-ed-mitchell",
+        "source_video_id": "zjpvfDFc4fg",
+        "timestamp_start_seconds": 309,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-ed-mitchell",
+          "concept-overview-effect"
+        ]
+      }
     }
   ],
   "edges": [
@@ -1929,8 +2242,293 @@
           "timestamp_start": 0
         }
       ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-zjpvfDFc4fg-aldrin-scottish-rite-moon-flag",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-zjpvfDFc4fg-aldrin-scottish-rite-moon-flag",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "zjpvfDFc4fg",
+          "timestamp_start": 291,
+          "quote": "Buzz Aldrin carried a small silk flag hand-stitched with the Scottish Rite symbol of Freemasonry to the moon; Masonic Grand Lodge of Ohio claims Apollo 11 established an appendant body of Freemasonry "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-zjpvfDFc4fg-REFERENCES-claim-zjpvfDFc4fg-aldrin-scottish-rite-moon-flag",
+      "from_node_id": "video-zjpvfDFc4fg",
+      "to_node_id": "claim-zjpvfDFc4fg-aldrin-scottish-rite-moon-flag",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "zjpvfDFc4fg",
+          "timestamp_start": 291
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-zjpvfDFc4fg-aldrin-scottish-rite-moon-flag-REFERENCES-person-buzz-aldrin",
+      "from_node_id": "claim-zjpvfDFc4fg-aldrin-scottish-rite-moon-flag",
+      "to_node_id": "person-buzz-aldrin",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "zjpvfDFc4fg",
+          "timestamp_start": 291
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-zjpvfDFc4fg-aldrin-scottish-rite-moon-flag-REFERENCES-concept-scottish-rite-freemasonry",
+      "from_node_id": "claim-zjpvfDFc4fg-aldrin-scottish-rite-moon-flag",
+      "to_node_id": "concept-scottish-rite-freemasonry",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "zjpvfDFc4fg",
+          "timestamp_start": 291
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-zjpvfDFc4fg-aldrin-communion-moon-first-liquid",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-zjpvfDFc4fg-aldrin-communion-moon-first-liquid",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "zjpvfDFc4fg",
+          "timestamp_start": 285,
+          "quote": "Buzz Aldrin performed the first religious ceremony on the moon — communion with wine, bread, and silver chalice before his first moonwalk. The wine curled 'slowly and gracefully' up the side of the cu"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-zjpvfDFc4fg-REFERENCES-claim-zjpvfDFc4fg-aldrin-communion-moon-first-liquid",
+      "from_node_id": "video-zjpvfDFc4fg",
+      "to_node_id": "claim-zjpvfDFc4fg-aldrin-communion-moon-first-liquid",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "zjpvfDFc4fg",
+          "timestamp_start": 285
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-zjpvfDFc4fg-aldrin-communion-moon-first-liquid-REFERENCES-person-buzz-aldrin",
+      "from_node_id": "claim-zjpvfDFc4fg-aldrin-communion-moon-first-liquid",
+      "to_node_id": "person-buzz-aldrin",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "zjpvfDFc4fg",
+          "timestamp_start": 285
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-zjpvfDFc4fg-aldrin-communion-moon-first-liquid-REFERENCES-person-neil-armstrong",
+      "from_node_id": "claim-zjpvfDFc4fg-aldrin-communion-moon-first-liquid",
+      "to_node_id": "person-neil-armstrong",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "zjpvfDFc4fg",
+          "timestamp_start": 285
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-zjpvfDFc4fg-mitchell-esp-on-moon",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-zjpvfDFc4fg-mitchell-esp-on-moon",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "zjpvfDFc4fg",
+          "timestamp_start": 301,
+          "quote": "On Apollo 14, Edgar Mitchell ran a private ESP experiment attempting to send mental images back to Earth using cards; results were scored better than chance."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-zjpvfDFc4fg-REFERENCES-claim-zjpvfDFc4fg-mitchell-esp-on-moon",
+      "from_node_id": "video-zjpvfDFc4fg",
+      "to_node_id": "claim-zjpvfDFc4fg-mitchell-esp-on-moon",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "zjpvfDFc4fg",
+          "timestamp_start": 301
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-zjpvfDFc4fg-mitchell-esp-on-moon-REFERENCES-person-ed-mitchell",
+      "from_node_id": "claim-zjpvfDFc4fg-mitchell-esp-on-moon",
+      "to_node_id": "person-ed-mitchell",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "zjpvfDFc4fg",
+          "timestamp_start": 301
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-zjpvfDFc4fg-mitchell-esp-on-moon-REFERENCES-program-institute-of-noetic-sciences",
+      "from_node_id": "claim-zjpvfDFc4fg-mitchell-esp-on-moon",
+      "to_node_id": "program-institute-of-noetic-sciences",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "zjpvfDFc4fg",
+          "timestamp_start": 301
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-zjpvfDFc4fg-mitchell-vonbraun-consciousness-study",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-zjpvfDFc4fg-mitchell-vonbraun-consciousness-study",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "zjpvfDFc4fg",
+          "timestamp_start": 305,
+          "quote": "Per Jesse: von Braun deeply supported Mitchell's consciousness/psi interests and encouraged him to find a site within NASA to study consciousness further; von Braun attended early fundraising dinners "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-zjpvfDFc4fg-REFERENCES-claim-zjpvfDFc4fg-mitchell-vonbraun-consciousness-study",
+      "from_node_id": "video-zjpvfDFc4fg",
+      "to_node_id": "claim-zjpvfDFc4fg-mitchell-vonbraun-consciousness-study",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "zjpvfDFc4fg",
+          "timestamp_start": 305
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-zjpvfDFc4fg-mitchell-vonbraun-consciousness-study-REFERENCES-person-ed-mitchell",
+      "from_node_id": "claim-zjpvfDFc4fg-mitchell-vonbraun-consciousness-study",
+      "to_node_id": "person-ed-mitchell",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "zjpvfDFc4fg",
+          "timestamp_start": 305
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-zjpvfDFc4fg-mitchell-vonbraun-consciousness-study-REFERENCES-person-wernher-von-braun",
+      "from_node_id": "claim-zjpvfDFc4fg-mitchell-vonbraun-consciousness-study",
+      "to_node_id": "person-wernher-von-braun",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "zjpvfDFc4fg",
+          "timestamp_start": 305
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-zjpvfDFc4fg-mitchell-vonbraun-consciousness-study-REFERENCES-program-institute-of-noetic-sciences",
+      "from_node_id": "claim-zjpvfDFc4fg-mitchell-vonbraun-consciousness-study",
+      "to_node_id": "program-institute-of-noetic-sciences",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "zjpvfDFc4fg",
+          "timestamp_start": 305
+        }
+      ]
+    },
+    {
+      "id": "edge-person-ed-mitchell-ASSERTED-claim-zjpvfDFc4fg-mitchell-overview-effect-spiritual",
+      "from_node_id": "person-ed-mitchell",
+      "to_node_id": "claim-zjpvfDFc4fg-mitchell-overview-effect-spiritual",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "zjpvfDFc4fg",
+          "timestamp_start": 309,
+          "quote": "Mitchell's Overview Effect framing: Earth from space is 'too much purpose, too much logic, too beautiful to have happened by accident. There has to be a creator of the universe who stands above the re"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-zjpvfDFc4fg-REFERENCES-claim-zjpvfDFc4fg-mitchell-overview-effect-spiritual",
+      "from_node_id": "video-zjpvfDFc4fg",
+      "to_node_id": "claim-zjpvfDFc4fg-mitchell-overview-effect-spiritual",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "zjpvfDFc4fg",
+          "timestamp_start": 309
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-zjpvfDFc4fg-mitchell-overview-effect-spiritual-REFERENCES-concept-overview-effect",
+      "from_node_id": "claim-zjpvfDFc4fg-mitchell-overview-effect-spiritual",
+      "to_node_id": "concept-overview-effect",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "zjpvfDFc4fg",
+          "timestamp_start": 309
+        }
+      ]
     }
   ],
-  "extracted_at": "2026-04-17T11:04:38.741394+00:00",
+  "extracted_at": "2026-04-17T13:07:01.206451+00:00",
   "extractor_version": "v1-inline-claude"
 }

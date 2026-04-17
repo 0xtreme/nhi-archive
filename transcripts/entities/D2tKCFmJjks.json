@@ -1287,6 +1287,313 @@
           "video-D2tKCFmJjks"
         ]
       }
+    },
+    {
+      "id": "person-mark-mccandish",
+      "node_type": "person",
+      "label": "Mark McCandish",
+      "summary": "UFO researcher and illustrator; documented the 'Flux Liner' anti-gravity reverse-engineering story. Per Jesse, diagnosed with aggressive cancer and died ~3 weeks after his documentary work with James Allen.",
+      "tags": [
+        "researcher",
+        "historical"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.912124+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "D2tKCFmJjks",
+          "timestamp_start": 177,
+          "quote": "UFO researcher behind 'Flux Liner' reverse-engineering story; died of cancer"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "McCandish"
+        ],
+        "profession": "researcher / illustrator",
+        "notability_tags": [
+          "researcher",
+          "historical"
+        ]
+      }
+    },
+    {
+      "id": "person-james-allen-mccandish-doc",
+      "node_type": "person",
+      "label": "James Allen (Mark McCandish documentarian)",
+      "summary": "Documentarian who made the Mark McCandish Flex Liner documentary chronicling an alleged Navy reverse-engineering demonstration.",
+      "tags": [
+        "filmmaker"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.912127+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "D2tKCFmJjks",
+          "timestamp_start": 177,
+          "quote": "Documentarian of Mark McCandish's Flux Liner account"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Allen"
+        ],
+        "profession": "filmmaker",
+        "notability_tags": [
+          "filmmaker"
+        ]
+      }
+    },
+    {
+      "id": "technology-flex-liner-alien-rep-vehicle",
+      "node_type": "technology",
+      "label": "Flex Liner / Alien Reproduction Vehicle (ARV)",
+      "summary": "Classified Alien Reproduction Vehicle documented by Mark McCandish — US reverse-engineered anti-gravity aircraft allegedly demonstrated at a Navy facility in the 1980s.",
+      "tags": [
+        "craft"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.912129+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "D2tKCFmJjks",
+          "timestamp_start": 177,
+          "timestamp_end": "Classified alien-reverse-engineered anti-gravity craft per Mark McCandish"
+        }
+      ],
+      "type_specific": {
+        "technology_type": "craft"
+      }
+    },
+    {
+      "id": "event-operation-katsana-humanitarian-2009",
+      "node_type": "event",
+      "label": "Operation Katsana (Humanitarian 2009)",
+      "summary": "2009 humanitarian-assistance operation by the 31st Marine Expeditionary Unit, USS Denver — officially Philippines disaster response. Herrera's USS Denver was rerouted to western Sumatra in Indonesia where he encountered the UAP incident and Obama family relatives were reportedly being secured.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.912131+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "D2tKCFmJjks",
+          "timestamp_start": 203,
+          "timestamp_end": "31st Marine Expeditionary Unit humanitarian operation in Philippines"
+        }
+      ],
+      "type_specific": {
+        "event_type": "other",
+        "date_approximate": "2009-10-01"
+      }
+    },
+    {
+      "id": "incident-2009-indonesia-herrera-octagon",
+      "node_type": "incident",
+      "label": "2009 Indonesia Herrera Octagon UAP Encounter",
+      "summary": "2009 Herrera USMC 31st MEU encounter: ~300ft vantablack octagonal UAP hovering above Indonesian jungle treetops near western Sumatra. Unit intercepted by elite paramilitary team with bioscanners; DOE hazmat; threatened. Craft merged via platform with another craft.",
+      "tags": [
+        "sighting"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.912133+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "D2tKCFmJjks",
+          "timestamp_start": 179,
+          "timestamp_end": "~300ft vantablack octagonal UAP over jungle; elite team intercept"
+        }
+      ],
+      "type_specific": {
+        "incident_type": "sighting",
+        "date_approximate": "2009-10-15"
+      }
+    },
+    {
+      "id": "claim-D2tKCFmJjks-herrera-greer-2018-boulder-card",
+      "node_type": "claim",
+      "label": "In 2018 Herrera attended a Steven Greer Boulder CO event; Greer stopped the room, stood up and hande",
+      "summary": "In 2018 Herrera attended a Steven Greer Boulder CO event; Greer stopped the room, stood up and handed Herrera his card when he mentioned the Indonesia drug-running operation encounter.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.928495+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "D2tKCFmJjks",
+          "timestamp_start": 193,
+          "quote": "Greer told everybody to shut up and he stood up and handed me his card and he was like, 'Don't tell anybody this information. Contact me when you're ready.'"
+        }
+      ],
+      "type_specific": {
+        "statement_text": "In 2018 Herrera attended a Steven Greer Boulder CO event; Greer stopped the room, stood up and handed Herrera his card when he mentioned the Indonesia drug-running operation encounter.",
+        "asserted_by_id": "person-michael-herrera",
+        "source_video_id": "D2tKCFmJjks",
+        "timestamp_start_seconds": 193,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-michael-herrera",
+          "person-steven-greer-full"
+        ]
+      }
+    },
+    {
+      "id": "claim-D2tKCFmJjks-herrera-obama-relatives-indonesia-2009",
+      "node_type": "claim",
+      "label": "Per Herrera: USS Denver was rerouted to western Sumatra Indonesia in 2009 because Obama family membe",
+      "summary": "Per Herrera: USS Denver was rerouted to western Sumatra Indonesia in 2009 because Obama family members were there — Obama lived there age 6-10 — SEAL team ready to extract relatives during unrest.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.928510+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "D2tKCFmJjks",
+          "timestamp_start": 205,
+          "quote": "There was speculation, and we got briefed that there was some Obama's family members that were there. They had some SEAL team that was going to be there to retrieve those people. Obama lived there from age 6 to 10."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Per Herrera: USS Denver was rerouted to western Sumatra Indonesia in 2009 because Obama family members were there — Obama lived there age 6-10 — SEAL team ready to extract relatives during unrest.",
+        "asserted_by_id": "person-michael-herrera",
+        "source_video_id": "D2tKCFmJjks",
+        "timestamp_start_seconds": 205,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-michael-herrera",
+          "event-operation-katsana-humanitarian-2009"
+        ]
+      }
+    },
+    {
+      "id": "claim-D2tKCFmJjks-herrera-mccandish-died-3-weeks-cancer",
+      "node_type": "claim",
+      "label": "Mark McCandish — the documentarian of the Flex Liner alien-reproduction-vehicle story — was diagnose",
+      "summary": "Mark McCandish — the documentarian of the Flex Liner alien-reproduction-vehicle story — was diagnosed with aggressive cancer and dead within approximately 3 weeks. Jesse raises this as a pattern of fatal suppression.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.928518+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "D2tKCFmJjks",
+          "timestamp_start": 177,
+          "quote": "James Allen, the documentary of Mark McCandish and the Flex Liner story, he was diagnosed and dead of an aggressive form of cancer in about 3 weeks."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Mark McCandish — the documentarian of the Flex Liner alien-reproduction-vehicle story — was diagnosed with aggressive cancer and dead within approximately 3 weeks. Jesse raises this as a pattern of fatal suppression.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "D2tKCFmJjks",
+        "timestamp_start_seconds": 177,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-mark-mccandish",
+          "person-james-allen-mccandish-doc",
+          "technology-flex-liner-alien-rep-vehicle"
+        ]
+      }
+    },
+    {
+      "id": "claim-D2tKCFmJjks-herrera-consciousness-summons-craft",
+      "node_type": "claim",
+      "label": "Herrera's hypothesis: the vantablack octagonal craft's arrival was summoned by consciousness operati",
+      "summary": "Herrera's hypothesis: the vantablack octagonal craft's arrival was summoned by consciousness operations — 'summoning essentially technology that has consciousness to it.'",
+      "tags": [
+        "speculation",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.928527+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "D2tKCFmJjks",
+          "timestamp_start": 175,
+          "quote": "It's not like trying to summon a spirit. You're summoning essentially technology that has consciousness to it. That platform came into that craft itself."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Herrera's hypothesis: the vantablack octagonal craft's arrival was summoned by consciousness operations — 'summoning essentially technology that has consciousness to it.'",
+        "asserted_by_id": "person-michael-herrera",
+        "source_video_id": "D2tKCFmJjks",
+        "timestamp_start_seconds": 175,
+        "assertability": "speculation",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-michael-herrera",
+          "concept-nhi"
+        ]
+      }
+    },
+    {
+      "id": "claim-D2tKCFmJjks-herrera-smoke-or-kill-discussion",
+      "node_type": "claim",
+      "label": "Herrera reports two of the intercepting paramilitary operators discussed whether to 'smoke' (kill) t",
+      "summary": "Herrera reports two of the intercepting paramilitary operators discussed whether to 'smoke' (kill) the Marines on the spot — indicating lethal-force discretion embedded in the retrieval team's operations.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.928537+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "D2tKCFmJjks",
+          "timestamp_start": 175,
+          "quote": "Two of the guys were actually talking about either, hey, should we smoke these guys right now? You know, that's what they kept saying."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Herrera reports two of the intercepting paramilitary operators discussed whether to 'smoke' (kill) the Marines on the spot — indicating lethal-force discretion embedded in the retrieval team's operations.",
+        "asserted_by_id": "person-michael-herrera",
+        "source_video_id": "D2tKCFmJjks",
+        "timestamp_start_seconds": 175,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-michael-herrera",
+          "incident-2009-indonesia-herrera-octagon"
+        ]
+      }
     }
   ],
   "edges": [
@@ -1996,8 +2303,251 @@
           "timestamp_start": 0
         }
       ]
+    },
+    {
+      "id": "edge-person-michael-herrera-ASSERTED-claim-D2tKCFmJjks-herrera-greer-2018-boulder-card",
+      "from_node_id": "person-michael-herrera",
+      "to_node_id": "claim-D2tKCFmJjks-herrera-greer-2018-boulder-card",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "D2tKCFmJjks",
+          "timestamp_start": 193,
+          "quote": "In 2018 Herrera attended a Steven Greer Boulder CO event; Greer stopped the room, stood up and handed Herrera his card when he mentioned the Indonesia drug-running operation encounter."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-D2tKCFmJjks-REFERENCES-claim-D2tKCFmJjks-herrera-greer-2018-boulder-card",
+      "from_node_id": "video-D2tKCFmJjks",
+      "to_node_id": "claim-D2tKCFmJjks-herrera-greer-2018-boulder-card",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "D2tKCFmJjks",
+          "timestamp_start": 193
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-D2tKCFmJjks-herrera-greer-2018-boulder-card-REFERENCES-person-steven-greer-full",
+      "from_node_id": "claim-D2tKCFmJjks-herrera-greer-2018-boulder-card",
+      "to_node_id": "person-steven-greer-full",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "D2tKCFmJjks",
+          "timestamp_start": 193
+        }
+      ]
+    },
+    {
+      "id": "edge-person-michael-herrera-ASSERTED-claim-D2tKCFmJjks-herrera-obama-relatives-indonesia-2009",
+      "from_node_id": "person-michael-herrera",
+      "to_node_id": "claim-D2tKCFmJjks-herrera-obama-relatives-indonesia-2009",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "D2tKCFmJjks",
+          "timestamp_start": 205,
+          "quote": "Per Herrera: USS Denver was rerouted to western Sumatra Indonesia in 2009 because Obama family members were there — Obama lived there age 6-10 — SEAL team ready to extract relatives during unrest."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-D2tKCFmJjks-REFERENCES-claim-D2tKCFmJjks-herrera-obama-relatives-indonesia-2009",
+      "from_node_id": "video-D2tKCFmJjks",
+      "to_node_id": "claim-D2tKCFmJjks-herrera-obama-relatives-indonesia-2009",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "D2tKCFmJjks",
+          "timestamp_start": 205
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-D2tKCFmJjks-herrera-obama-relatives-indonesia-2009-REFERENCES-event-operation-katsana-humanitarian-2009",
+      "from_node_id": "claim-D2tKCFmJjks-herrera-obama-relatives-indonesia-2009",
+      "to_node_id": "event-operation-katsana-humanitarian-2009",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "D2tKCFmJjks",
+          "timestamp_start": 205
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-D2tKCFmJjks-herrera-mccandish-died-3-weeks-cancer",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-D2tKCFmJjks-herrera-mccandish-died-3-weeks-cancer",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "D2tKCFmJjks",
+          "timestamp_start": 177,
+          "quote": "Mark McCandish — the documentarian of the Flex Liner alien-reproduction-vehicle story — was diagnosed with aggressive cancer and dead within approximately 3 weeks. Jesse raises this as a pattern of fa"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-D2tKCFmJjks-REFERENCES-claim-D2tKCFmJjks-herrera-mccandish-died-3-weeks-cancer",
+      "from_node_id": "video-D2tKCFmJjks",
+      "to_node_id": "claim-D2tKCFmJjks-herrera-mccandish-died-3-weeks-cancer",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "D2tKCFmJjks",
+          "timestamp_start": 177
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-D2tKCFmJjks-herrera-mccandish-died-3-weeks-cancer-REFERENCES-person-mark-mccandish",
+      "from_node_id": "claim-D2tKCFmJjks-herrera-mccandish-died-3-weeks-cancer",
+      "to_node_id": "person-mark-mccandish",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "D2tKCFmJjks",
+          "timestamp_start": 177
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-D2tKCFmJjks-herrera-mccandish-died-3-weeks-cancer-REFERENCES-person-james-allen-mccandish-doc",
+      "from_node_id": "claim-D2tKCFmJjks-herrera-mccandish-died-3-weeks-cancer",
+      "to_node_id": "person-james-allen-mccandish-doc",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "D2tKCFmJjks",
+          "timestamp_start": 177
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-D2tKCFmJjks-herrera-mccandish-died-3-weeks-cancer-REFERENCES-technology-flex-liner-alien-rep-vehicle",
+      "from_node_id": "claim-D2tKCFmJjks-herrera-mccandish-died-3-weeks-cancer",
+      "to_node_id": "technology-flex-liner-alien-rep-vehicle",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "D2tKCFmJjks",
+          "timestamp_start": 177
+        }
+      ]
+    },
+    {
+      "id": "edge-person-michael-herrera-ASSERTED-claim-D2tKCFmJjks-herrera-consciousness-summons-craft",
+      "from_node_id": "person-michael-herrera",
+      "to_node_id": "claim-D2tKCFmJjks-herrera-consciousness-summons-craft",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "D2tKCFmJjks",
+          "timestamp_start": 175,
+          "quote": "Herrera's hypothesis: the vantablack octagonal craft's arrival was summoned by consciousness operations — 'summoning essentially technology that has consciousness to it.'"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-D2tKCFmJjks-REFERENCES-claim-D2tKCFmJjks-herrera-consciousness-summons-craft",
+      "from_node_id": "video-D2tKCFmJjks",
+      "to_node_id": "claim-D2tKCFmJjks-herrera-consciousness-summons-craft",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "D2tKCFmJjks",
+          "timestamp_start": 175
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-D2tKCFmJjks-herrera-consciousness-summons-craft-REFERENCES-concept-nhi",
+      "from_node_id": "claim-D2tKCFmJjks-herrera-consciousness-summons-craft",
+      "to_node_id": "concept-nhi",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "D2tKCFmJjks",
+          "timestamp_start": 175
+        }
+      ]
+    },
+    {
+      "id": "edge-person-michael-herrera-ASSERTED-claim-D2tKCFmJjks-herrera-smoke-or-kill-discussion",
+      "from_node_id": "person-michael-herrera",
+      "to_node_id": "claim-D2tKCFmJjks-herrera-smoke-or-kill-discussion",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "D2tKCFmJjks",
+          "timestamp_start": 175,
+          "quote": "Herrera reports two of the intercepting paramilitary operators discussed whether to 'smoke' (kill) the Marines on the spot — indicating lethal-force discretion embedded in the retrieval team's operati"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-D2tKCFmJjks-REFERENCES-claim-D2tKCFmJjks-herrera-smoke-or-kill-discussion",
+      "from_node_id": "video-D2tKCFmJjks",
+      "to_node_id": "claim-D2tKCFmJjks-herrera-smoke-or-kill-discussion",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "D2tKCFmJjks",
+          "timestamp_start": 175
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-D2tKCFmJjks-herrera-smoke-or-kill-discussion-REFERENCES-incident-2009-indonesia-herrera-octagon",
+      "from_node_id": "claim-D2tKCFmJjks-herrera-smoke-or-kill-discussion",
+      "to_node_id": "incident-2009-indonesia-herrera-octagon",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "D2tKCFmJjks",
+          "timestamp_start": 175
+        }
+      ]
     }
   ],
-  "extracted_at": "2026-04-17T11:04:45.175572+00:00",
+  "extracted_at": "2026-04-17T13:13:43.928545+00:00",
   "extractor_version": "v1-inline-claude"
 }

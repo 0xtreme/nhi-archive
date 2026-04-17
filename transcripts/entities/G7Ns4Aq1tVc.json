@@ -1313,6 +1313,540 @@
           "video-G7Ns4Aq1tVc"
         ]
       }
+    },
+    {
+      "id": "document-hunt-for-zero-point",
+      "node_type": "document",
+      "label": "The Hunt for Zero Point",
+      "summary": "Nick Cook's comprehensive investigation into aerospace companies' hidden antigravity research programs. Documents Skunk Works, Nazi programs under Hans Kammler, and Chinese researcher Ning Li.",
+      "tags": [
+        "book"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.006043+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 337,
+          "timestamp_end": "Nick Cook's investigative book on aerospace antigravity research"
+        }
+      ],
+      "type_specific": {
+        "document_type": "book",
+        "author": "Nick Cook"
+      }
+    },
+    {
+      "id": "person-george-s-trimble",
+      "node_type": "person",
+      "label": "George S. Trimble",
+      "summary": "Vice President of Martin Corporation's Research Institute for Advanced Study (RIAS); stated in 1956 that antigravity could be achieved 'in about the time it took to build the first atom bomb.' Later refused to speak about it — 'sounded scared' per his Lockheed PR contact.",
+      "tags": [
+        "aerospace",
+        "antigravity",
+        "historical"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.006047+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 331,
+          "quote": "VP of Martin Corporation RIAS, antigravity researcher"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Trimble"
+        ],
+        "profession": "aerospace executive",
+        "notability_tags": [
+          "aerospace",
+          "antigravity",
+          "historical"
+        ]
+      }
+    },
+    {
+      "id": "person-bill-sweetman",
+      "node_type": "person",
+      "label": "Bill Sweetman",
+      "summary": "Aviation journalist and Nick Cook's 'Sherlock Holmes'; uncovered circumstantial evidence of rumored Mach-5 Lockheed Aurora aircraft.",
+      "tags": [
+        "journalist",
+        "investigator"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.006050+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 341,
+          "quote": "Nick Cook's journalistic collaborator; black-program investigator"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Sweetman"
+        ],
+        "profession": "journalist",
+        "notability_tags": [
+          "journalist",
+          "investigator"
+        ]
+      }
+    },
+    {
+      "id": "person-ning-li",
+      "node_type": "person",
+      "label": "Ning Li",
+      "summary": "Chinese-American physicist at University of Alabama Huntsville; received DoD grant for anomalous antigravity research; went off-grid/disappeared within a year of her results.",
+      "tags": [
+        "scientist",
+        "missing"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.006052+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 347,
+          "quote": "Chinese-American physicist; DoD-funded antigravity researcher who vanished"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Li"
+        ],
+        "profession": "physicist",
+        "notability_tags": [
+          "scientist",
+          "missing"
+        ]
+      }
+    },
+    {
+      "id": "person-hans-kammler",
+      "node_type": "person",
+      "label": "Hans Kammler",
+      "summary": "Nazi SS officer who oversaw secret German antigravity programs during WWII; resources scavenged for tech by the US and Russia at war's end.",
+      "tags": [
+        "Nazi",
+        "historical"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.006054+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 345,
+          "quote": "SS officer overseeing Nazi antigravity programs"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Kammler"
+        ],
+        "profession": "military officer",
+        "notability_tags": [
+          "Nazi",
+          "historical"
+        ]
+      }
+    },
+    {
+      "id": "person-victor-schauberger",
+      "node_type": "person",
+      "label": "Victor Schauberger",
+      "summary": "Austrian inventor who reported anomalous vortex-based propulsion effects; cited in Cook's Hunt for Zero Point.",
+      "tags": [
+        "inventor",
+        "historical"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.006056+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 347,
+          "quote": "Austrian inventor; anomalous vortex-propulsion research"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Schauberger",
+          "shurger"
+        ],
+        "profession": "inventor",
+        "notability_tags": [
+          "inventor",
+          "historical"
+        ]
+      }
+    },
+    {
+      "id": "person-john-hutchison",
+      "node_type": "person",
+      "label": "John Hutchison",
+      "summary": "Canadian inventor documented by Cook; reported anomalous levitation and material-fusion effects ('Hutchison Effect') using high-voltage fields.",
+      "tags": [
+        "inventor"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.006058+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 347,
+          "quote": "Canadian inventor of the 'Hutchison Effect' anomalous phenomena"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Hutchison"
+        ],
+        "profession": "inventor",
+        "notability_tags": [
+          "inventor"
+        ]
+      }
+    },
+    {
+      "id": "person-eugene-podkletnov",
+      "node_type": "person",
+      "label": "Eugene Podkletnov",
+      "summary": "Russian physicist whose experiments with spinning superconductors reportedly demonstrated gravitational-shielding effects; cited by Cook.",
+      "tags": [
+        "scientist",
+        "antigravity"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.006060+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 347,
+          "quote": "Russian physicist claiming gravitational shielding with spinning superconductors"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Podkletnov",
+          "Petna"
+        ],
+        "profession": "physicist",
+        "notability_tags": [
+          "scientist",
+          "antigravity"
+        ]
+      }
+    },
+    {
+      "id": "person-hans-lear",
+      "node_type": "person",
+      "label": "Hans Lear (Jan's Defense Weekly article anonymous sender)",
+      "summary": "Anonymous source who in 1994 mailed Nick Cook the 1956 'G Engines Are Coming' article at Jan's Defense Weekly — initiating Cook's antigravity investigation.",
+      "tags": [
+        "anonymous-source"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.006062+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 329,
+          "quote": "Anonymous source who mailed 1956 article to Nick Cook in 1994"
+        }
+      ],
+      "type_specific": {
+        "aliases": [],
+        "notability_tags": [
+          "anonymous-source"
+        ]
+      }
+    },
+    {
+      "id": "document-g-engines-are-coming-1956",
+      "node_type": "document",
+      "label": "G Engines Are Coming (1956 article)",
+      "summary": "1956 magazine article titled 'The G Engines Are Coming' listing top aerospace companies (Lear, Convair, Bell, Martin Corporation) expressing extreme confidence in antigravity aircraft development. Anonymously mailed to Nick Cook in 1994, initiating his Hunt for Zero Point investigation.",
+      "tags": [
+        "paper"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.006068+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 331,
+          "timestamp_end": "1956 article listing aerospace companies confident in antigravity"
+        }
+      ],
+      "type_specific": {
+        "document_type": "paper",
+        "publication_year": 1956
+      }
+    },
+    {
+      "id": "technology-lockheed-aurora",
+      "node_type": "technology",
+      "label": "Lockheed Aurora (Mach 5 aircraft)",
+      "summary": "Long-rumored classified Mach-5 Lockheed aircraft; Bill Sweetman and Nick Cook uncovered circumstantial evidence supporting its existence.",
+      "tags": [
+        "craft"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.006072+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 341,
+          "timestamp_end": "Rumored Mach-5 Lockheed reconnaissance aircraft"
+        }
+      ],
+      "type_specific": {
+        "technology_type": "craft"
+      }
+    },
+    {
+      "id": "claim-G7Ns4Aq1tVc-cook-1956-g-engines-article",
+      "node_type": "claim",
+      "label": "In 1994 Nick Cook received an anonymously-mailed photocopy of a 1956 magazine article listing top ae",
+      "summary": "In 1994 Nick Cook received an anonymously-mailed photocopy of a 1956 magazine article listing top aerospace companies (Lear, Convair, Bell, Martin) confidently predicting antigravity aircraft development — triggering Hunt for Zero Point.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.020675+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 331,
+          "quote": "Someone has placed a photo copy of a strange magazine article from 1956 on his desk. Titled 'The G Engines Are Coming' and it lists the top aerospace companies of the day, Lear, Convair, Bell, the Martin Corporation, all expressing extreme confidence in being able to develop anti-gravity aircraft within the next several years."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "In 1994 Nick Cook received an anonymously-mailed photocopy of a 1956 magazine article listing top aerospace companies (Lear, Convair, Bell, Martin) confidently predicting antigravity aircraft development — triggering Hunt for Zero Point.",
+        "asserted_by_id": "person-nick-cook",
+        "source_video_id": "G7Ns4Aq1tVc",
+        "timestamp_start_seconds": 331,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-nick-cook",
+          "person-george-s-trimble",
+          "document-g-engines-are-coming-1956",
+          "organization-martin-corporation"
+        ]
+      }
+    },
+    {
+      "id": "claim-G7Ns4Aq1tVc-trimble-sounded-scared",
+      "node_type": "claim",
+      "label": "Per Cook's Lockheed PR contact in the 1990s: George Trimble initially agreed to an interview, then a",
+      "summary": "Per Cook's Lockheed PR contact in the 1990s: George Trimble initially agreed to an interview, then a few days later refused and 'sounded scared' — 'he doesn't want to speak to me and he doesn't want to speak to you, not now, not ever.'",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.020692+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 335,
+          "quote": "He doesn't want to speak to me and he doesn't want to speak to you, not now, not ever. I don't mind telling you that he sounded scared."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Per Cook's Lockheed PR contact in the 1990s: George Trimble initially agreed to an interview, then a few days later refused and 'sounded scared' — 'he doesn't want to speak to me and he doesn't want to speak to you, not now, not ever.'",
+        "asserted_by_id": "person-nick-cook",
+        "source_video_id": "G7Ns4Aq1tVc",
+        "timestamp_start_seconds": 335,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-nick-cook",
+          "person-george-s-trimble"
+        ]
+      }
+    },
+    {
+      "id": "claim-G7Ns4Aq1tVc-cook-hans-kammler-ss-antigravity",
+      "node_type": "claim",
+      "label": "Cook traces Nazi Germany's antigravity programs under SS officer Hans Kammler; these programs were s",
+      "summary": "Cook traces Nazi Germany's antigravity programs under SS officer Hans Kammler; these programs were scavenged at war's end by both the Americans and the Russians for their most valuable technology.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.020701+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 345,
+          "quote": "Nazi Germany which had its own reported anti-gravity programs under SS officer Hans Kammler. Programs that were scavenged for their most valuable technology by the Americans and the Russians at the end of World War II."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Cook traces Nazi Germany's antigravity programs under SS officer Hans Kammler; these programs were scavenged at war's end by both the Americans and the Russians for their most valuable technology.",
+        "asserted_by_id": "person-nick-cook",
+        "source_video_id": "G7Ns4Aq1tVc",
+        "timestamp_start_seconds": 345,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-nick-cook",
+          "person-hans-kammler",
+          "document-hunt-for-zero-point"
+        ]
+      }
+    },
+    {
+      "id": "claim-G7Ns4Aq1tVc-cook-ning-li-disappeared",
+      "node_type": "claim",
+      "label": "Cook interviewed Ning Li — Chinese-American physicist at University of Alabama Huntsville — who rece",
+      "summary": "Cook interviewed Ning Li — Chinese-American physicist at University of Alabama Huntsville — who received a DoD grant for anomalous antigravity results; she went off-grid within ~1 year, 'nobody knew what happened to her.'",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.020709+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 347,
+          "quote": "Ning Li the mysterious Chinese American physicist who was awarded a DoD grant for her anomalous anti-gravity research results. She just disappeared and no one knew what happened to her."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Cook interviewed Ning Li — Chinese-American physicist at University of Alabama Huntsville — who received a DoD grant for anomalous antigravity results; she went off-grid within ~1 year, 'nobody knew what happened to her.'",
+        "asserted_by_id": "person-nick-cook",
+        "source_video_id": "G7Ns4Aq1tVc",
+        "timestamp_start_seconds": 347,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-nick-cook",
+          "person-ning-li"
+        ]
+      }
+    },
+    {
+      "id": "claim-G7Ns4Aq1tVc-cook-we-have-tech-to-take-et-home",
+      "node_type": "claim",
+      "label": "Cook concluded his public talks with a slide of a black disc flying off to outer space and the line:",
+      "summary": "Cook concluded his public talks with a slide of a black disc flying off to outer space and the line: 'we now have the technology to take ET home.'",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.020717+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 343,
+          "quote": "He ended his talk with a slide of a black disc zipping off into outer space and he ended it with these words: we now have the technology to take ET home."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Cook concluded his public talks with a slide of a black disc flying off to outer space and the line: 'we now have the technology to take ET home.'",
+        "asserted_by_id": "person-nick-cook",
+        "source_video_id": "G7Ns4Aq1tVc",
+        "timestamp_start_seconds": 343,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-nick-cook",
+          "document-hunt-for-zero-point"
+        ]
+      }
+    },
+    {
+      "id": "claim-G7Ns4Aq1tVc-cook-mind-over-matter-aerospace",
+      "node_type": "claim",
+      "label": "Cook explores aerospace companies' longstanding interest in 'mind over matter' effects and parapsych",
+      "summary": "Cook explores aerospace companies' longstanding interest in 'mind over matter' effects and parapsychology — not as fringe but as strategic R&D any advantage must be pursued.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.020727+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 349,
+          "quote": "Is there a through line with aerospace and like this interest in mind over matter? These companies look at anything they can that can confer possible advantage."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Cook explores aerospace companies' longstanding interest in 'mind over matter' effects and parapsychology — not as fringe but as strategic R&D any advantage must be pursued.",
+        "asserted_by_id": "person-nick-cook",
+        "source_video_id": "G7Ns4Aq1tVc",
+        "timestamp_start_seconds": 349,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-nick-cook",
+          "concept-stigma-weaponization"
+        ]
+      }
     }
   ],
   "edges": [
@@ -2022,8 +2556,308 @@
           "timestamp_start": 0
         }
       ]
+    },
+    {
+      "id": "edge-person-nick-cook-ASSERTED-claim-G7Ns4Aq1tVc-cook-1956-g-engines-article",
+      "from_node_id": "person-nick-cook",
+      "to_node_id": "claim-G7Ns4Aq1tVc-cook-1956-g-engines-article",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 331,
+          "quote": "In 1994 Nick Cook received an anonymously-mailed photocopy of a 1956 magazine article listing top aerospace companies (Lear, Convair, Bell, Martin) confidently predicting antigravity aircraft developm"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-G7Ns4Aq1tVc-REFERENCES-claim-G7Ns4Aq1tVc-cook-1956-g-engines-article",
+      "from_node_id": "video-G7Ns4Aq1tVc",
+      "to_node_id": "claim-G7Ns4Aq1tVc-cook-1956-g-engines-article",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 331
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-G7Ns4Aq1tVc-cook-1956-g-engines-article-REFERENCES-person-george-s-trimble",
+      "from_node_id": "claim-G7Ns4Aq1tVc-cook-1956-g-engines-article",
+      "to_node_id": "person-george-s-trimble",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 331
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-G7Ns4Aq1tVc-cook-1956-g-engines-article-REFERENCES-document-g-engines-are-coming-1956",
+      "from_node_id": "claim-G7Ns4Aq1tVc-cook-1956-g-engines-article",
+      "to_node_id": "document-g-engines-are-coming-1956",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 331
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-G7Ns4Aq1tVc-cook-1956-g-engines-article-REFERENCES-organization-martin-corporation",
+      "from_node_id": "claim-G7Ns4Aq1tVc-cook-1956-g-engines-article",
+      "to_node_id": "organization-martin-corporation",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 331
+        }
+      ]
+    },
+    {
+      "id": "edge-person-nick-cook-ASSERTED-claim-G7Ns4Aq1tVc-trimble-sounded-scared",
+      "from_node_id": "person-nick-cook",
+      "to_node_id": "claim-G7Ns4Aq1tVc-trimble-sounded-scared",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 335,
+          "quote": "Per Cook's Lockheed PR contact in the 1990s: George Trimble initially agreed to an interview, then a few days later refused and 'sounded scared' — 'he doesn't want to speak to me and he doesn't want t"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-G7Ns4Aq1tVc-REFERENCES-claim-G7Ns4Aq1tVc-trimble-sounded-scared",
+      "from_node_id": "video-G7Ns4Aq1tVc",
+      "to_node_id": "claim-G7Ns4Aq1tVc-trimble-sounded-scared",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 335
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-G7Ns4Aq1tVc-trimble-sounded-scared-REFERENCES-person-george-s-trimble",
+      "from_node_id": "claim-G7Ns4Aq1tVc-trimble-sounded-scared",
+      "to_node_id": "person-george-s-trimble",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 335
+        }
+      ]
+    },
+    {
+      "id": "edge-person-nick-cook-ASSERTED-claim-G7Ns4Aq1tVc-cook-hans-kammler-ss-antigravity",
+      "from_node_id": "person-nick-cook",
+      "to_node_id": "claim-G7Ns4Aq1tVc-cook-hans-kammler-ss-antigravity",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 345,
+          "quote": "Cook traces Nazi Germany's antigravity programs under SS officer Hans Kammler; these programs were scavenged at war's end by both the Americans and the Russians for their most valuable technology."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-G7Ns4Aq1tVc-REFERENCES-claim-G7Ns4Aq1tVc-cook-hans-kammler-ss-antigravity",
+      "from_node_id": "video-G7Ns4Aq1tVc",
+      "to_node_id": "claim-G7Ns4Aq1tVc-cook-hans-kammler-ss-antigravity",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 345
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-G7Ns4Aq1tVc-cook-hans-kammler-ss-antigravity-REFERENCES-person-hans-kammler",
+      "from_node_id": "claim-G7Ns4Aq1tVc-cook-hans-kammler-ss-antigravity",
+      "to_node_id": "person-hans-kammler",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 345
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-G7Ns4Aq1tVc-cook-hans-kammler-ss-antigravity-REFERENCES-document-hunt-for-zero-point",
+      "from_node_id": "claim-G7Ns4Aq1tVc-cook-hans-kammler-ss-antigravity",
+      "to_node_id": "document-hunt-for-zero-point",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 345
+        }
+      ]
+    },
+    {
+      "id": "edge-person-nick-cook-ASSERTED-claim-G7Ns4Aq1tVc-cook-ning-li-disappeared",
+      "from_node_id": "person-nick-cook",
+      "to_node_id": "claim-G7Ns4Aq1tVc-cook-ning-li-disappeared",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 347,
+          "quote": "Cook interviewed Ning Li — Chinese-American physicist at University of Alabama Huntsville — who received a DoD grant for anomalous antigravity results; she went off-grid within ~1 year, 'nobody knew w"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-G7Ns4Aq1tVc-REFERENCES-claim-G7Ns4Aq1tVc-cook-ning-li-disappeared",
+      "from_node_id": "video-G7Ns4Aq1tVc",
+      "to_node_id": "claim-G7Ns4Aq1tVc-cook-ning-li-disappeared",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 347
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-G7Ns4Aq1tVc-cook-ning-li-disappeared-REFERENCES-person-ning-li",
+      "from_node_id": "claim-G7Ns4Aq1tVc-cook-ning-li-disappeared",
+      "to_node_id": "person-ning-li",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 347
+        }
+      ]
+    },
+    {
+      "id": "edge-person-nick-cook-ASSERTED-claim-G7Ns4Aq1tVc-cook-we-have-tech-to-take-et-home",
+      "from_node_id": "person-nick-cook",
+      "to_node_id": "claim-G7Ns4Aq1tVc-cook-we-have-tech-to-take-et-home",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 343,
+          "quote": "Cook concluded his public talks with a slide of a black disc flying off to outer space and the line: 'we now have the technology to take ET home.'"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-G7Ns4Aq1tVc-REFERENCES-claim-G7Ns4Aq1tVc-cook-we-have-tech-to-take-et-home",
+      "from_node_id": "video-G7Ns4Aq1tVc",
+      "to_node_id": "claim-G7Ns4Aq1tVc-cook-we-have-tech-to-take-et-home",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 343
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-G7Ns4Aq1tVc-cook-we-have-tech-to-take-et-home-REFERENCES-document-hunt-for-zero-point",
+      "from_node_id": "claim-G7Ns4Aq1tVc-cook-we-have-tech-to-take-et-home",
+      "to_node_id": "document-hunt-for-zero-point",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 343
+        }
+      ]
+    },
+    {
+      "id": "edge-person-nick-cook-ASSERTED-claim-G7Ns4Aq1tVc-cook-mind-over-matter-aerospace",
+      "from_node_id": "person-nick-cook",
+      "to_node_id": "claim-G7Ns4Aq1tVc-cook-mind-over-matter-aerospace",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 349,
+          "quote": "Cook explores aerospace companies' longstanding interest in 'mind over matter' effects and parapsychology — not as fringe but as strategic R&D any advantage must be pursued."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-G7Ns4Aq1tVc-REFERENCES-claim-G7Ns4Aq1tVc-cook-mind-over-matter-aerospace",
+      "from_node_id": "video-G7Ns4Aq1tVc",
+      "to_node_id": "claim-G7Ns4Aq1tVc-cook-mind-over-matter-aerospace",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 349
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-G7Ns4Aq1tVc-cook-mind-over-matter-aerospace-REFERENCES-concept-stigma-weaponization",
+      "from_node_id": "claim-G7Ns4Aq1tVc-cook-mind-over-matter-aerospace",
+      "to_node_id": "concept-stigma-weaponization",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "G7Ns4Aq1tVc",
+          "timestamp_start": 349
+        }
+      ]
     }
   ],
-  "extracted_at": "2026-04-17T11:04:24.337272+00:00",
+  "extracted_at": "2026-04-17T12:49:16.020735+00:00",
   "extractor_version": "v1-inline-claude"
 }

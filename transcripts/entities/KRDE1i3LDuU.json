@@ -893,6 +893,314 @@
           "video-KRDE1i3LDuU"
         ]
       }
+    },
+    {
+      "id": "person-james-madden",
+      "node_type": "person",
+      "label": "Dr. James Madden",
+      "summary": "Professor of philosophy; author of 'Unidentified Flying Hyperobject' — first serious philosophical treatment of UFOs via Plato, Aristotle, Nietzsche, Heidegger. Jiu-jitsu practitioner in the 'broad-shouldered wrestler' Plato tradition.",
+      "tags": [
+        "philosopher",
+        "academic"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:30:03.999582+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KRDE1i3LDuU",
+          "timestamp_start": 99,
+          "quote": "Professor of philosophy reconciling Plato with UFO phenomenon"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Madden"
+        ],
+        "profession": "philosopher",
+        "notability_tags": [
+          "philosopher",
+          "academic"
+        ]
+      }
+    },
+    {
+      "id": "document-unidentified-flying-hyperobject",
+      "node_type": "document",
+      "label": "Unidentified Flying Hyperobject",
+      "summary": "James Madden's book integrating philosophical tradition (Plato, Aristotle, Nietzsche, Heidegger) with the UFO phenomenon — unique in bringing ancient-philosophy methodology to contemporary UAP data.",
+      "tags": [
+        "book"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:30:03.999585+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KRDE1i3LDuU",
+          "timestamp_start": 99,
+          "timestamp_end": "James Madden's philosophical UFO book"
+        }
+      ],
+      "type_specific": {
+        "document_type": "book",
+        "author": "James Madden"
+      }
+    },
+    {
+      "id": "concept-platos-cave-ufo-puller",
+      "node_type": "concept",
+      "label": "Plato's Cave as UFO-Puller",
+      "summary": "Madden's philosophical synthesis: the UFO phenomenon operates as an external 'puller' (from outside Plato's cave) dragging humans toward enlightenment — the phenomenon busts all priors. Inflection point: the light either eviscerates or saves the observer.",
+      "tags": [
+        "metaphysics"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:30:03.999587+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KRDE1i3LDuU",
+          "timestamp_start": 93,
+          "timestamp_end": "Madden: UFO phenomenon = external puller pulling humans out of cave"
+        }
+      ],
+      "type_specific": {
+        "concept_domain": "metaphysics"
+      }
+    },
+    {
+      "id": "person-plato",
+      "node_type": "person",
+      "label": "Plato",
+      "summary": "Ancient Greek philosopher (c. 428-348 BCE); student of Socrates; founder of Platonic school; author of Republic, Symposium, etc. 'Plato' was a nickname meaning 'broad' — he was the most accomplished wrestler of his generation in Athens.",
+      "tags": [
+        "philosopher",
+        "historical"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:30:03.999589+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KRDE1i3LDuU",
+          "timestamp_start": 101,
+          "quote": "Ancient Greek philosopher; student of Socrates"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Platon"
+        ],
+        "profession": "philosopher",
+        "notability_tags": [
+          "philosopher",
+          "historical"
+        ]
+      }
+    },
+    {
+      "id": "concept-republic-about-death",
+      "node_type": "concept",
+      "label": "Plato's Republic Is About Death (Madden)",
+      "summary": "Madden's thesis: Plato's Republic is primarily about DEATH and the human condition in facing it — framed by opening discussion of death and closing myth of Er. Justice is a secondary question that emerges only to address death.",
+      "tags": [
+        "metaphysics"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:30:03.999591+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KRDE1i3LDuU",
+          "timestamp_start": 121,
+          "timestamp_end": "Madden: Republic is primarily about death, not justice"
+        }
+      ],
+      "type_specific": {
+        "concept_domain": "metaphysics"
+      }
+    },
+    {
+      "id": "claim-KRDE1i3LDuU-madden-republic-about-death",
+      "node_type": "claim",
+      "label": "Madden argues Plato's Republic is primarily about DEATH — bookended by the opening discussion (older",
+      "summary": "Madden argues Plato's Republic is primarily about DEATH — bookended by the opening discussion (older man saying the just don't fear death) and closing Myth of Er (death myth). Justice is a secondary question raised only to address death.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:30:04.006079+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KRDE1i3LDuU",
+          "timestamp_start": 121,
+          "quote": "The actual question that initiates the dialogue is the question of death. The dialogue is bookended with two stories about death. For my money, if you ask me what's the Republic about, it's really about death. And the human condition in facing death."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Madden argues Plato's Republic is primarily about DEATH — bookended by the opening discussion (older man saying the just don't fear death) and closing Myth of Er (death myth). Justice is a secondary question raised only to address death.",
+        "asserted_by_id": "person-james-madden",
+        "source_video_id": "KRDE1i3LDuU",
+        "timestamp_start_seconds": 121,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-james-madden",
+          "person-plato",
+          "concept-republic-about-death"
+        ]
+      }
+    },
+    {
+      "id": "claim-KRDE1i3LDuU-madden-ufo-puller-enlightenment",
+      "node_type": "claim",
+      "label": "Madden's philosophical synthesis: UFO phenomenon functions as external 'puller' from outside Plato's",
+      "summary": "Madden's philosophical synthesis: UFO phenomenon functions as external 'puller' from outside Plato's cave, busting all priors, inflection-point force that 'either eviscerates us or saves us.'",
+      "tags": [
+        "speculation",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:30:04.006095+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KRDE1i3LDuU",
+          "timestamp_start": 95,
+          "quote": "Is the UFO some sort of pulling technology? It busts all of your priors. It would seem there has to be somebody outside of the cave doing this. The light itself feels like an inflection point where it could either sort of eviscerate us or save us."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Madden's philosophical synthesis: UFO phenomenon functions as external 'puller' from outside Plato's cave, busting all priors, inflection-point force that 'either eviscerates us or saves us.'",
+        "asserted_by_id": "person-james-madden",
+        "source_video_id": "KRDE1i3LDuU",
+        "timestamp_start_seconds": 95,
+        "assertability": "speculation",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-james-madden",
+          "concept-platos-cave-ufo-puller",
+          "document-unidentified-flying-hyperobject"
+        ]
+      }
+    },
+    {
+      "id": "claim-KRDE1i3LDuU-madden-plato-wrestler-nickname",
+      "node_type": "claim",
+      "label": "Madden: 'Plato' was a nickname meaning 'broad' or 'big' (broad-shouldered) — he was the most accompl",
+      "summary": "Madden: 'Plato' was a nickname meaning 'broad' or 'big' (broad-shouldered) — he was the most accomplished wrestler of his generation in Athens.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:30:04.006104+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KRDE1i3LDuU",
+          "timestamp_start": 107,
+          "quote": "Plato is not probably his given birth name. It's a nickname like broad or big as in like broad shouldered cuz he was the most accomplished wrestler of his generation in Athens."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Madden: 'Plato' was a nickname meaning 'broad' or 'big' (broad-shouldered) — he was the most accomplished wrestler of his generation in Athens.",
+        "asserted_by_id": "person-james-madden",
+        "source_video_id": "KRDE1i3LDuU",
+        "timestamp_start_seconds": 107,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-james-madden",
+          "person-plato"
+        ]
+      }
+    },
+    {
+      "id": "claim-KRDE1i3LDuU-madden-platonic-authority-fails",
+      "node_type": "claim",
+      "label": "Per Madden: a recurring pattern in Plato's dialogues — authority figures make claims but can't 'cash",
+      "summary": "Per Madden: a recurring pattern in Plato's dialogues — authority figures make claims but can't 'cash them out'; the old man in the Republic opening makes claims about justice and then leaves when asked to define it.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:30:04.006111+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KRDE1i3LDuU",
+          "timestamp_start": 121,
+          "quote": "The authority figure, the old man, is making claims but he can't cash it. This goes on in all the Platonic dialogues — the authority figures always fail to actually deliver what they're claiming."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Per Madden: a recurring pattern in Plato's dialogues — authority figures make claims but can't 'cash them out'; the old man in the Republic opening makes claims about justice and then leaves when asked to define it.",
+        "asserted_by_id": "person-james-madden",
+        "source_video_id": "KRDE1i3LDuU",
+        "timestamp_start_seconds": 121,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-james-madden"
+        ]
+      }
+    },
+    {
+      "id": "claim-KRDE1i3LDuU-madden-republic-political-misread",
+      "node_type": "claim",
+      "label": "Madden: Republic is often misread as 'Plato's political program' — but this is incorrect; the dialog",
+      "summary": "Madden: Republic is often misread as 'Plato's political program' — but this is incorrect; the dialogue is not proposing a literal political system but using the city as an analog for the soul.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:30:04.006117+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KRDE1i3LDuU",
+          "timestamp_start": 93,
+          "quote": "I think you have to get away from thinking what we're being proposed here is actually Plato's like political program, and there's something else going on here."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Madden: Republic is often misread as 'Plato's political program' — but this is incorrect; the dialogue is not proposing a literal political system but using the city as an analog for the soul.",
+        "asserted_by_id": "person-james-madden",
+        "source_video_id": "KRDE1i3LDuU",
+        "timestamp_start_seconds": 93,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-james-madden",
+          "person-plato"
+        ]
+      }
     }
   ],
   "edges": [
@@ -1377,8 +1685,237 @@
           "timestamp_start": 0
         }
       ]
+    },
+    {
+      "id": "edge-person-james-madden-ASSERTED-claim-KRDE1i3LDuU-madden-republic-about-death",
+      "from_node_id": "person-james-madden",
+      "to_node_id": "claim-KRDE1i3LDuU-madden-republic-about-death",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KRDE1i3LDuU",
+          "timestamp_start": 121,
+          "quote": "Madden argues Plato's Republic is primarily about DEATH — bookended by the opening discussion (older man saying the just don't fear death) and closing Myth of Er (death myth). Justice is a secondary q"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-KRDE1i3LDuU-REFERENCES-claim-KRDE1i3LDuU-madden-republic-about-death",
+      "from_node_id": "video-KRDE1i3LDuU",
+      "to_node_id": "claim-KRDE1i3LDuU-madden-republic-about-death",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KRDE1i3LDuU",
+          "timestamp_start": 121
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-KRDE1i3LDuU-madden-republic-about-death-REFERENCES-person-plato",
+      "from_node_id": "claim-KRDE1i3LDuU-madden-republic-about-death",
+      "to_node_id": "person-plato",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KRDE1i3LDuU",
+          "timestamp_start": 121
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-KRDE1i3LDuU-madden-republic-about-death-REFERENCES-concept-republic-about-death",
+      "from_node_id": "claim-KRDE1i3LDuU-madden-republic-about-death",
+      "to_node_id": "concept-republic-about-death",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KRDE1i3LDuU",
+          "timestamp_start": 121
+        }
+      ]
+    },
+    {
+      "id": "edge-person-james-madden-ASSERTED-claim-KRDE1i3LDuU-madden-ufo-puller-enlightenment",
+      "from_node_id": "person-james-madden",
+      "to_node_id": "claim-KRDE1i3LDuU-madden-ufo-puller-enlightenment",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KRDE1i3LDuU",
+          "timestamp_start": 95,
+          "quote": "Madden's philosophical synthesis: UFO phenomenon functions as external 'puller' from outside Plato's cave, busting all priors, inflection-point force that 'either eviscerates us or saves us.'"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-KRDE1i3LDuU-REFERENCES-claim-KRDE1i3LDuU-madden-ufo-puller-enlightenment",
+      "from_node_id": "video-KRDE1i3LDuU",
+      "to_node_id": "claim-KRDE1i3LDuU-madden-ufo-puller-enlightenment",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KRDE1i3LDuU",
+          "timestamp_start": 95
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-KRDE1i3LDuU-madden-ufo-puller-enlightenment-REFERENCES-concept-platos-cave-ufo-puller",
+      "from_node_id": "claim-KRDE1i3LDuU-madden-ufo-puller-enlightenment",
+      "to_node_id": "concept-platos-cave-ufo-puller",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KRDE1i3LDuU",
+          "timestamp_start": 95
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-KRDE1i3LDuU-madden-ufo-puller-enlightenment-REFERENCES-document-unidentified-flying-hyperobject",
+      "from_node_id": "claim-KRDE1i3LDuU-madden-ufo-puller-enlightenment",
+      "to_node_id": "document-unidentified-flying-hyperobject",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KRDE1i3LDuU",
+          "timestamp_start": 95
+        }
+      ]
+    },
+    {
+      "id": "edge-person-james-madden-ASSERTED-claim-KRDE1i3LDuU-madden-plato-wrestler-nickname",
+      "from_node_id": "person-james-madden",
+      "to_node_id": "claim-KRDE1i3LDuU-madden-plato-wrestler-nickname",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KRDE1i3LDuU",
+          "timestamp_start": 107,
+          "quote": "Madden: 'Plato' was a nickname meaning 'broad' or 'big' (broad-shouldered) — he was the most accomplished wrestler of his generation in Athens."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-KRDE1i3LDuU-REFERENCES-claim-KRDE1i3LDuU-madden-plato-wrestler-nickname",
+      "from_node_id": "video-KRDE1i3LDuU",
+      "to_node_id": "claim-KRDE1i3LDuU-madden-plato-wrestler-nickname",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KRDE1i3LDuU",
+          "timestamp_start": 107
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-KRDE1i3LDuU-madden-plato-wrestler-nickname-REFERENCES-person-plato",
+      "from_node_id": "claim-KRDE1i3LDuU-madden-plato-wrestler-nickname",
+      "to_node_id": "person-plato",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KRDE1i3LDuU",
+          "timestamp_start": 107
+        }
+      ]
+    },
+    {
+      "id": "edge-person-james-madden-ASSERTED-claim-KRDE1i3LDuU-madden-platonic-authority-fails",
+      "from_node_id": "person-james-madden",
+      "to_node_id": "claim-KRDE1i3LDuU-madden-platonic-authority-fails",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KRDE1i3LDuU",
+          "timestamp_start": 121,
+          "quote": "Per Madden: a recurring pattern in Plato's dialogues — authority figures make claims but can't 'cash them out'; the old man in the Republic opening makes claims about justice and then leaves when aske"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-KRDE1i3LDuU-REFERENCES-claim-KRDE1i3LDuU-madden-platonic-authority-fails",
+      "from_node_id": "video-KRDE1i3LDuU",
+      "to_node_id": "claim-KRDE1i3LDuU-madden-platonic-authority-fails",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KRDE1i3LDuU",
+          "timestamp_start": 121
+        }
+      ]
+    },
+    {
+      "id": "edge-person-james-madden-ASSERTED-claim-KRDE1i3LDuU-madden-republic-political-misread",
+      "from_node_id": "person-james-madden",
+      "to_node_id": "claim-KRDE1i3LDuU-madden-republic-political-misread",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KRDE1i3LDuU",
+          "timestamp_start": 93,
+          "quote": "Madden: Republic is often misread as 'Plato's political program' — but this is incorrect; the dialogue is not proposing a literal political system but using the city as an analog for the soul."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-KRDE1i3LDuU-REFERENCES-claim-KRDE1i3LDuU-madden-republic-political-misread",
+      "from_node_id": "video-KRDE1i3LDuU",
+      "to_node_id": "claim-KRDE1i3LDuU-madden-republic-political-misread",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KRDE1i3LDuU",
+          "timestamp_start": 93
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-KRDE1i3LDuU-madden-republic-political-misread-REFERENCES-person-plato",
+      "from_node_id": "claim-KRDE1i3LDuU-madden-republic-political-misread",
+      "to_node_id": "person-plato",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KRDE1i3LDuU",
+          "timestamp_start": 93
+        }
+      ]
     }
   ],
-  "extracted_at": "2026-04-17T11:04:59.024256+00:00",
+  "extracted_at": "2026-04-17T13:30:04.006123+00:00",
   "extractor_version": "v1-inline-claude"
 }

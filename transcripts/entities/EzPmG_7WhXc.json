@@ -1853,6 +1853,409 @@
           "video-EzPmG_7WhXc"
         ]
       }
+    },
+    {
+      "id": "person-jason-jorjani",
+      "node_type": "person",
+      "label": "Jason Jorjani",
+      "summary": "American philosopher; author of 'Prometheus and Atlas' and other works tracing UFO history, religious control systems, and psychic warfare.",
+      "tags": [
+        "philosopher",
+        "author"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.485705+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "EzPmG_7WhXc",
+          "timestamp_start": 551,
+          "quote": "Philosopher, author of Prometheus and Atlas; UFO history and psychic warfare"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Jorjani",
+          "Georgiani",
+          "Jason Reza Georgiani"
+        ],
+        "profession": "philosopher",
+        "notability_tags": [
+          "philosopher",
+          "author"
+        ]
+      }
+    },
+    {
+      "id": "person-emanuel-kant",
+      "node_type": "person",
+      "label": "Immanuel Kant",
+      "summary": "German philosopher; Jorjani notes Kant read Swedenborg's Arcana Coelestia in youth — relevant to interpreting his thing-in-itself framework.",
+      "tags": [
+        "philosopher",
+        "historical"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.485707+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "EzPmG_7WhXc",
+          "timestamp_start": 587,
+          "quote": "18th century German philosopher"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Kant"
+        ],
+        "profession": "philosopher",
+        "notability_tags": [
+          "philosopher",
+          "historical"
+        ]
+      }
+    },
+    {
+      "id": "person-emanuel-swedenborg",
+      "node_type": "person",
+      "label": "Emanuel Swedenborg",
+      "summary": "Swedish scientist, theologian, and mystic (1688-1772); claimed spiritual communication with extraterrestrial inhabitants of planets; author of Arcana Coelestia.",
+      "tags": [
+        "mystic",
+        "historical"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.485711+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "EzPmG_7WhXc",
+          "timestamp_start": 587,
+          "quote": "Swedish polymath, mystic, scientist; Arcana Coelestia author"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Swedenborg"
+        ],
+        "profession": "scientist / mystic",
+        "notability_tags": [
+          "mystic",
+          "historical"
+        ]
+      }
+    },
+    {
+      "id": "concept-religious-control-system",
+      "node_type": "concept",
+      "label": "Religious Control System",
+      "summary": "Jorjani's thesis: contemporary religions trace to NHI-imposed control structures — biblical-pattern deliveries of stone tablets and architectural blueprints being historical analogs of modern UAP-human interaction.",
+      "tags": [
+        "politics"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.485713+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "EzPmG_7WhXc",
+          "timestamp_start": 533,
+          "timestamp_end": "Jorjani's framework: religion as imposed control by NHI"
+        }
+      ],
+      "type_specific": {
+        "concept_domain": "politics"
+      }
+    },
+    {
+      "id": "document-prometheus-and-atlas",
+      "node_type": "document",
+      "label": "Prometheus and Atlas",
+      "summary": "Jorjani's first book examining Kant and Descartes' shaping of enlightenment-era worldview, with emphasis on mediate knowledge and psi-abilities.",
+      "tags": [
+        "book"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.485714+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "EzPmG_7WhXc",
+          "timestamp_start": 587,
+          "timestamp_end": "Jorjani's first major book on tech/metaphysics"
+        }
+      ],
+      "type_specific": {
+        "document_type": "book",
+        "author": "Jason Jorjani"
+      }
+    },
+    {
+      "id": "event-uto-battles-pre-renaissance",
+      "node_type": "event",
+      "label": "Pre-Renaissance UFO Battles",
+      "summary": "Pre-Renaissance historical accounts of massive UFO battles over European cities — triangular craft, spheres of various colors, some falling from the sky. Jorjani argues 'the bad guys won' in this rebellion.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.485716+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "EzPmG_7WhXc",
+          "timestamp_start": 527,
+          "timestamp_end": "Huge triangular craft and spheres over European cities"
+        }
+      ],
+      "type_specific": {
+        "event_type": "other",
+        "date_approximate": "1400-01-01"
+      }
+    },
+    {
+      "id": "event-carolingian-tyrants-of-air",
+      "node_type": "event",
+      "label": "Carolingian 'Tyrants of the Air' Incident",
+      "summary": "Carolingian-era account: three men and a woman descended from aerial ships near French fields; accused of spreading the plague by spraying doors with unknown substance. Charlemagne considered declaring war on the 'tyrants of the air'.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.485718+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "EzPmG_7WhXc",
+          "timestamp_start": 539,
+          "timestamp_end": "Charlemagne contemplated war against sky tyrants after plague-spreading aerial ships"
+        }
+      ],
+      "type_specific": {
+        "event_type": "other",
+        "date_approximate": "0800-01-01"
+      }
+    },
+    {
+      "id": "claim-EzPmG_7WhXc-jorjani-religious-control-thesis",
+      "node_type": "claim",
+      "label": "Jorjani's central thesis: religions are imposed control systems, evidenced by historical patterns of",
+      "summary": "Jorjani's central thesis: religions are imposed control systems, evidenced by historical patterns of celestial beings delivering stone tablets (Moses pattern) and architectural blueprints.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.504261+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "EzPmG_7WhXc",
+          "timestamp_start": 529,
+          "quote": "In the struggle over reshaping human history, we wound up losing a rebellion against a control system that abides to this day. This thing is very similar to a thing that happened in our biblical records where a Lord presented Moses with a pattern to build a tabernacle."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Jorjani's central thesis: religions are imposed control systems, evidenced by historical patterns of celestial beings delivering stone tablets (Moses pattern) and architectural blueprints.",
+        "asserted_by_id": "person-jason-jorjani",
+        "source_video_id": "EzPmG_7WhXc",
+        "timestamp_start_seconds": 529,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-jason-jorjani",
+          "concept-religious-control-system"
+        ]
+      }
+    },
+    {
+      "id": "claim-EzPmG_7WhXc-pre-renaissance-ufo-battles",
+      "node_type": "claim",
+      "label": "Jorjani cites historical records of massive UFO battles (triangular craft, coloured spheres) over Eu",
+      "summary": "Jorjani cites historical records of massive UFO battles (triangular craft, coloured spheres) over European cities immediately before the Renaissance — reframed as 'the bad guys won.'",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.504273+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "EzPmG_7WhXc",
+          "timestamp_start": 527,
+          "quote": "Immediately before the Renaissance, you had these huge UFO battles over various European cities. Huge triangular craft, spheres of various colors attacking each other."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Jorjani cites historical records of massive UFO battles (triangular craft, coloured spheres) over European cities immediately before the Renaissance — reframed as 'the bad guys won.'",
+        "asserted_by_id": "person-jason-jorjani",
+        "source_video_id": "EzPmG_7WhXc",
+        "timestamp_start_seconds": 527,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-jason-jorjani",
+          "event-uto-battles-pre-renaissance"
+        ]
+      }
+    },
+    {
+      "id": "claim-EzPmG_7WhXc-black-plague-aerial-spraying",
+      "node_type": "claim",
+      "label": "During the Black Plague outbreak, there are accounts of ships landing in fields; hooded figures walk",
+      "summary": "During the Black Plague outbreak, there are accounts of ships landing in fields; hooded figures walking door-to-door with 'spray cans' — plague outbreaks followed their visits.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.504282+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "EzPmG_7WhXc",
+          "timestamp_start": 537,
+          "quote": "At the time the black plague breaks out, there are many UFO sightings. Object land in fields. The plague broke out only after these people would land in the fields and they would go around with these hoods on and these spray cans."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "During the Black Plague outbreak, there are accounts of ships landing in fields; hooded figures walking door-to-door with 'spray cans' — plague outbreaks followed their visits.",
+        "asserted_by_id": "person-jason-jorjani",
+        "source_video_id": "EzPmG_7WhXc",
+        "timestamp_start_seconds": 537,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-jason-jorjani",
+          "event-carolingian-tyrants-of-air"
+        ]
+      }
+    },
+    {
+      "id": "claim-EzPmG_7WhXc-ingo-swann-moon-remote-view",
+      "node_type": "claim",
+      "label": "Ingo Swann was tasked to remote-view the moon; he saw tall Nordic people conducting slave labor on t",
+      "summary": "Ingo Swann was tasked to remote-view the moon; he saw tall Nordic people conducting slave labor on the moon.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.504290+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "EzPmG_7WhXc",
+          "timestamp_start": 549,
+          "quote": "Ingo Swann is being tasked to remote view the moon. And here's what he saw there. He saw tall Nordic people conducting slave labor on the moon."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Ingo Swann was tasked to remote-view the moon; he saw tall Nordic people conducting slave labor on the moon.",
+        "asserted_by_id": "person-jason-jorjani",
+        "source_video_id": "EzPmG_7WhXc",
+        "timestamp_start_seconds": 549,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-jason-jorjani",
+          "person-ingo-swann"
+        ]
+      }
+    },
+    {
+      "id": "claim-EzPmG_7WhXc-kant-swedenborg-extraterrestrials",
+      "node_type": "claim",
+      "label": "Young Kant read Swedenborg's Arcana Coelestia which contains 'all kinds of accounts of extraterrestr",
+      "summary": "Young Kant read Swedenborg's Arcana Coelestia which contains 'all kinds of accounts of extraterrestrials living on various planets and different gradations of existence' — Jorjani uses this to argue Kant's thing-in-itself is itself NHI-informed.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.504299+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "EzPmG_7WhXc",
+          "timestamp_start": 589,
+          "quote": "In Kant's own youth he actually took the time and care to read the entirety of Swedenborg's Arcana Coelestia the secrets of heaven which has all kinds of accounts of extraterrestrials living on various planets."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Young Kant read Swedenborg's Arcana Coelestia which contains 'all kinds of accounts of extraterrestrials living on various planets and different gradations of existence' — Jorjani uses this to argue Kant's thing-in-itself is itself NHI-informed.",
+        "asserted_by_id": "person-jason-jorjani",
+        "source_video_id": "EzPmG_7WhXc",
+        "timestamp_start_seconds": 589,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-jason-jorjani",
+          "person-emanuel-kant",
+          "person-emanuel-swedenborg",
+          "document-prometheus-and-atlas"
+        ]
+      }
+    },
+    {
+      "id": "claim-EzPmG_7WhXc-jorjani-bell-curve-nuts-bolts-vs-consciousness",
+      "node_type": "claim",
+      "label": "Jorjani's meta-analysis: UFO discourse bell curve has three positions — normie-denier, middle-of-cur",
+      "summary": "Jorjani's meta-analysis: UFO discourse bell curve has three positions — normie-denier, middle-of-curve nuts-and-bolts, and end-of-curve consciousness-first — with a DOUBLE end at abstract metaphysics that ironically serves as a defense mechanism against disturbing tangible realities.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.504312+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "EzPmG_7WhXc",
+          "timestamp_start": 567,
+          "quote": "I think that there's a place on the other side of the bell curve from where the normies are. You can wind up developing such an abstract meta-interpretation of these phenomena that you're actually occulting some more tangible aspects of it that are deeply disturbing."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Jorjani's meta-analysis: UFO discourse bell curve has three positions — normie-denier, middle-of-curve nuts-and-bolts, and end-of-curve consciousness-first — with a DOUBLE end at abstract metaphysics that ironically serves as a defense mechanism against disturbing tangible realities.",
+        "asserted_by_id": "person-jason-jorjani",
+        "source_video_id": "EzPmG_7WhXc",
+        "timestamp_start_seconds": 567,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-jason-jorjani",
+          "concept-nhi"
+        ]
+      }
     }
   ],
   "edges": [
@@ -2847,8 +3250,294 @@
           "timestamp_start": 0
         }
       ]
+    },
+    {
+      "id": "edge-person-jason-jorjani-ASSERTED-claim-EzPmG_7WhXc-jorjani-religious-control-thesis",
+      "from_node_id": "person-jason-jorjani",
+      "to_node_id": "claim-EzPmG_7WhXc-jorjani-religious-control-thesis",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "EzPmG_7WhXc",
+          "timestamp_start": 529,
+          "quote": "Jorjani's central thesis: religions are imposed control systems, evidenced by historical patterns of celestial beings delivering stone tablets (Moses pattern) and architectural blueprints."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-EzPmG_7WhXc-REFERENCES-claim-EzPmG_7WhXc-jorjani-religious-control-thesis",
+      "from_node_id": "video-EzPmG_7WhXc",
+      "to_node_id": "claim-EzPmG_7WhXc-jorjani-religious-control-thesis",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "EzPmG_7WhXc",
+          "timestamp_start": 529
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-EzPmG_7WhXc-jorjani-religious-control-thesis-REFERENCES-concept-religious-control-system",
+      "from_node_id": "claim-EzPmG_7WhXc-jorjani-religious-control-thesis",
+      "to_node_id": "concept-religious-control-system",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "EzPmG_7WhXc",
+          "timestamp_start": 529
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jason-jorjani-ASSERTED-claim-EzPmG_7WhXc-pre-renaissance-ufo-battles",
+      "from_node_id": "person-jason-jorjani",
+      "to_node_id": "claim-EzPmG_7WhXc-pre-renaissance-ufo-battles",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "EzPmG_7WhXc",
+          "timestamp_start": 527,
+          "quote": "Jorjani cites historical records of massive UFO battles (triangular craft, coloured spheres) over European cities immediately before the Renaissance — reframed as 'the bad guys won.'"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-EzPmG_7WhXc-REFERENCES-claim-EzPmG_7WhXc-pre-renaissance-ufo-battles",
+      "from_node_id": "video-EzPmG_7WhXc",
+      "to_node_id": "claim-EzPmG_7WhXc-pre-renaissance-ufo-battles",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "EzPmG_7WhXc",
+          "timestamp_start": 527
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-EzPmG_7WhXc-pre-renaissance-ufo-battles-REFERENCES-event-uto-battles-pre-renaissance",
+      "from_node_id": "claim-EzPmG_7WhXc-pre-renaissance-ufo-battles",
+      "to_node_id": "event-uto-battles-pre-renaissance",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "EzPmG_7WhXc",
+          "timestamp_start": 527
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jason-jorjani-ASSERTED-claim-EzPmG_7WhXc-black-plague-aerial-spraying",
+      "from_node_id": "person-jason-jorjani",
+      "to_node_id": "claim-EzPmG_7WhXc-black-plague-aerial-spraying",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "EzPmG_7WhXc",
+          "timestamp_start": 537,
+          "quote": "During the Black Plague outbreak, there are accounts of ships landing in fields; hooded figures walking door-to-door with 'spray cans' — plague outbreaks followed their visits."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-EzPmG_7WhXc-REFERENCES-claim-EzPmG_7WhXc-black-plague-aerial-spraying",
+      "from_node_id": "video-EzPmG_7WhXc",
+      "to_node_id": "claim-EzPmG_7WhXc-black-plague-aerial-spraying",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "EzPmG_7WhXc",
+          "timestamp_start": 537
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-EzPmG_7WhXc-black-plague-aerial-spraying-REFERENCES-event-carolingian-tyrants-of-air",
+      "from_node_id": "claim-EzPmG_7WhXc-black-plague-aerial-spraying",
+      "to_node_id": "event-carolingian-tyrants-of-air",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "EzPmG_7WhXc",
+          "timestamp_start": 537
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jason-jorjani-ASSERTED-claim-EzPmG_7WhXc-ingo-swann-moon-remote-view",
+      "from_node_id": "person-jason-jorjani",
+      "to_node_id": "claim-EzPmG_7WhXc-ingo-swann-moon-remote-view",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "EzPmG_7WhXc",
+          "timestamp_start": 549,
+          "quote": "Ingo Swann was tasked to remote-view the moon; he saw tall Nordic people conducting slave labor on the moon."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-EzPmG_7WhXc-REFERENCES-claim-EzPmG_7WhXc-ingo-swann-moon-remote-view",
+      "from_node_id": "video-EzPmG_7WhXc",
+      "to_node_id": "claim-EzPmG_7WhXc-ingo-swann-moon-remote-view",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "EzPmG_7WhXc",
+          "timestamp_start": 549
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-EzPmG_7WhXc-ingo-swann-moon-remote-view-REFERENCES-person-ingo-swann",
+      "from_node_id": "claim-EzPmG_7WhXc-ingo-swann-moon-remote-view",
+      "to_node_id": "person-ingo-swann",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "EzPmG_7WhXc",
+          "timestamp_start": 549
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jason-jorjani-ASSERTED-claim-EzPmG_7WhXc-kant-swedenborg-extraterrestrials",
+      "from_node_id": "person-jason-jorjani",
+      "to_node_id": "claim-EzPmG_7WhXc-kant-swedenborg-extraterrestrials",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "EzPmG_7WhXc",
+          "timestamp_start": 589,
+          "quote": "Young Kant read Swedenborg's Arcana Coelestia which contains 'all kinds of accounts of extraterrestrials living on various planets and different gradations of existence' — Jorjani uses this to argue K"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-EzPmG_7WhXc-REFERENCES-claim-EzPmG_7WhXc-kant-swedenborg-extraterrestrials",
+      "from_node_id": "video-EzPmG_7WhXc",
+      "to_node_id": "claim-EzPmG_7WhXc-kant-swedenborg-extraterrestrials",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "EzPmG_7WhXc",
+          "timestamp_start": 589
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-EzPmG_7WhXc-kant-swedenborg-extraterrestrials-REFERENCES-person-emanuel-kant",
+      "from_node_id": "claim-EzPmG_7WhXc-kant-swedenborg-extraterrestrials",
+      "to_node_id": "person-emanuel-kant",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "EzPmG_7WhXc",
+          "timestamp_start": 589
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-EzPmG_7WhXc-kant-swedenborg-extraterrestrials-REFERENCES-person-emanuel-swedenborg",
+      "from_node_id": "claim-EzPmG_7WhXc-kant-swedenborg-extraterrestrials",
+      "to_node_id": "person-emanuel-swedenborg",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "EzPmG_7WhXc",
+          "timestamp_start": 589
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-EzPmG_7WhXc-kant-swedenborg-extraterrestrials-REFERENCES-document-prometheus-and-atlas",
+      "from_node_id": "claim-EzPmG_7WhXc-kant-swedenborg-extraterrestrials",
+      "to_node_id": "document-prometheus-and-atlas",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "EzPmG_7WhXc",
+          "timestamp_start": 589
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jason-jorjani-ASSERTED-claim-EzPmG_7WhXc-jorjani-bell-curve-nuts-bolts-vs-consciousness",
+      "from_node_id": "person-jason-jorjani",
+      "to_node_id": "claim-EzPmG_7WhXc-jorjani-bell-curve-nuts-bolts-vs-consciousness",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "EzPmG_7WhXc",
+          "timestamp_start": 567,
+          "quote": "Jorjani's meta-analysis: UFO discourse bell curve has three positions — normie-denier, middle-of-curve nuts-and-bolts, and end-of-curve consciousness-first — with a DOUBLE end at abstract metaphysics "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-EzPmG_7WhXc-REFERENCES-claim-EzPmG_7WhXc-jorjani-bell-curve-nuts-bolts-vs-consciousness",
+      "from_node_id": "video-EzPmG_7WhXc",
+      "to_node_id": "claim-EzPmG_7WhXc-jorjani-bell-curve-nuts-bolts-vs-consciousness",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "EzPmG_7WhXc",
+          "timestamp_start": 567
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-EzPmG_7WhXc-jorjani-bell-curve-nuts-bolts-vs-consciousness-REFERENCES-concept-nhi",
+      "from_node_id": "claim-EzPmG_7WhXc-jorjani-bell-curve-nuts-bolts-vs-consciousness",
+      "to_node_id": "concept-nhi",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "EzPmG_7WhXc",
+          "timestamp_start": 567
+        }
+      ]
     }
   ],
-  "extracted_at": "2026-04-17T11:04:18.773996+00:00",
+  "extracted_at": "2026-04-17T12:31:49.504321+00:00",
   "extractor_version": "v1-inline-claude"
 }

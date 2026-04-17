@@ -1443,6 +1443,224 @@
           "video-9QMrhcpJq8I"
         ]
       }
+    },
+    {
+      "id": "concept-age-of-psionics",
+      "node_type": "concept",
+      "label": "Age of Psionics (Pines)",
+      "summary": "Matthew Pines' framing: 2024+ is the 'Age of Psionics' — consciousness-based phenomena (NHI contact, remote viewing, light-beings, meditation, AI, Bitcoin) rediscovering ancient knowledge via modern frame. 'Pandora's box.' No guarantee knowledge is 'good knowledge.'",
+      "tags": [
+        "metaphysics"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.111759+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9QMrhcpJq8I",
+          "timestamp_start": 155,
+          "timestamp_end": "Pines' term for emerging mainstream of mind-physics / consciousness-based phenomena"
+        }
+      ],
+      "type_specific": {
+        "concept_domain": "metaphysics"
+      }
+    },
+    {
+      "id": "concept-bitcoin-uap-trajectory-parallel",
+      "node_type": "concept",
+      "label": "Bitcoin/UAP Trajectory Parallel",
+      "summary": "Pines' observation: Bitcoin culture and UAP culture share near-identical evolution arcs — fringe/taboo → heterodox-thinker attraction → insular cult-like community → conference/podcast ecosystem → gradual legitimization via legislation → normalization within Overton window. Gillibrand is a senator on both the pro-Bitcoin and pro-UAP legislation.",
+      "tags": [
+        "politics"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.111761+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9QMrhcpJq8I",
+          "timestamp_start": 167,
+          "timestamp_end": "Pines parallel: Bitcoin and UAP both went from fringe to Overton-window mainstream"
+        }
+      ],
+      "type_specific": {
+        "concept_domain": "politics"
+      }
+    },
+    {
+      "id": "claim-9QMrhcpJq8I-pines-fringe-to-normie-cycle",
+      "node_type": "claim",
+      "label": "Pines notes: 'Fringe opinions on Bitcoin and UAPs four or five years ago are now increasingly normie",
+      "summary": "Pines notes: 'Fringe opinions on Bitcoin and UAPs four or five years ago are now increasingly normie. The reality of non-human intelligence was fully out there — now it's coming in. And now you got psionics.'",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.122137+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9QMrhcpJq8I",
+          "timestamp_start": 155,
+          "quote": "Fringe opinions on Bitcoin and UAPs four or five years ago are now increasingly like normie. The reality of non-human intelligence was like fully out there. Now it's like coming in. And now you got psionics. Well, okay, that's the new thing out there. But that's probably also coming in."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Pines notes: 'Fringe opinions on Bitcoin and UAPs four or five years ago are now increasingly normie. The reality of non-human intelligence was fully out there — now it's coming in. And now you got psionics.'",
+        "asserted_by_id": "person-matthew-pines-extended",
+        "source_video_id": "9QMrhcpJq8I",
+        "timestamp_start_seconds": 155,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-matthew-pines-extended",
+          "concept-age-of-psionics"
+        ]
+      }
+    },
+    {
+      "id": "claim-9QMrhcpJq8I-pines-rediscovering-ancient-knowledge",
+      "node_type": "claim",
+      "label": "Per Pines: consciousness, light beings, meditative practices — modern frame is rediscovering ancient",
+      "summary": "Per Pines: consciousness, light beings, meditative practices — modern frame is rediscovering ancient knowledge via current vernacular; the content is ancient.",
+      "tags": [
+        "speculation",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.122151+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9QMrhcpJq8I",
+          "timestamp_start": 155,
+          "quote": "Consciousness and light beings and meditative practices. It's like we're rediscovering a lot of like ancient sort of knowledge, right? It's just being reinterpreted through our modern frame."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Per Pines: consciousness, light beings, meditative practices — modern frame is rediscovering ancient knowledge via current vernacular; the content is ancient.",
+        "asserted_by_id": "person-matthew-pines-extended",
+        "source_video_id": "9QMrhcpJq8I",
+        "timestamp_start_seconds": 155,
+        "assertability": "speculation",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-matthew-pines-extended",
+          "concept-age-of-psionics"
+        ]
+      }
+    },
+    {
+      "id": "claim-9QMrhcpJq8I-pines-bitcoin-uap-mirror-evolution",
+      "node_type": "claim",
+      "label": "Pines' mirror-evolution framework: Bitcoin and UAP both transitioned from taboo-fringe (pre-2017 / p",
+      "summary": "Pines' mirror-evolution framework: Bitcoin and UAP both transitioned from taboo-fringe (pre-2017 / pre-2010) → heterodox-thinker attraction → insular culture → gradual political legitimization. Gillibrand works both legislative fronts.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.122161+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9QMrhcpJq8I",
+          "timestamp_start": 167,
+          "quote": "Bitcoin culture and UAP topic share similar trajectory. Similar evolution. One of the senators involved in pro-crypto legislation, Senator Gillibrand, is also the same senator who's been involved in some of the initial UAP legislation."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Pines' mirror-evolution framework: Bitcoin and UAP both transitioned from taboo-fringe (pre-2017 / pre-2010) → heterodox-thinker attraction → insular culture → gradual political legitimization. Gillibrand works both legislative fronts.",
+        "asserted_by_id": "person-matthew-pines-extended",
+        "source_video_id": "9QMrhcpJq8I",
+        "timestamp_start_seconds": 167,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-matthew-pines-extended",
+          "concept-bitcoin-uap-trajectory-parallel",
+          "person-kirsten-gillibrand"
+        ]
+      }
+    },
+    {
+      "id": "claim-9QMrhcpJq8I-pines-pandoras-box-not-guaranteed-good",
+      "node_type": "claim",
+      "label": "Pines' warning on psionics disclosure: 'Pandora's box. There's no guarantee that the box of knowledg",
+      "summary": "Pines' warning on psionics disclosure: 'Pandora's box. There's no guarantee that the box of knowledge humanity is dipping its hand into is going to be like good knowledge.'",
+      "tags": [
+        "speculation",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.122169+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9QMrhcpJq8I",
+          "timestamp_start": 159,
+          "quote": "It does feel like this sort of Pandora's box. You have hope, but then there's like a whole lot of like bad stuff that comes with it. Not all knowledge is just, oh, this is a rainbow. Oh, this is like forever knowledge. There's no guarantee that the box of knowledge humanity is dipping its hand into is going to be like good knowledge."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Pines' warning on psionics disclosure: 'Pandora's box. There's no guarantee that the box of knowledge humanity is dipping its hand into is going to be like good knowledge.'",
+        "asserted_by_id": "person-matthew-pines-extended",
+        "source_video_id": "9QMrhcpJq8I",
+        "timestamp_start_seconds": 159,
+        "assertability": "speculation",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-matthew-pines-extended",
+          "concept-age-of-psionics"
+        ]
+      }
+    },
+    {
+      "id": "claim-9QMrhcpJq8I-pines-ai-quantum-bitcoin-strategic",
+      "node_type": "claim",
+      "label": "Pines: 'Bitcoin and UAPs and AI — these are fully at the center of what's going to drive major strat",
+      "summary": "Pines: 'Bitcoin and UAPs and AI — these are fully at the center of what's going to drive major strategic dynamics over the next few years.' Triangle governing geopolitical 2025-2030 window.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.122181+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9QMrhcpJq8I",
+          "timestamp_start": 159,
+          "quote": "Bitcoin and UAPs and AI like these are fully at the center of what's going to drive major strategic dynamics over the next few years."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Pines: 'Bitcoin and UAPs and AI — these are fully at the center of what's going to drive major strategic dynamics over the next few years.' Triangle governing geopolitical 2025-2030 window.",
+        "asserted_by_id": "person-matthew-pines-extended",
+        "source_video_id": "9QMrhcpJq8I",
+        "timestamp_start_seconds": 159,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-matthew-pines-extended"
+        ]
+      }
     }
   ],
   "edges": [
@@ -2197,8 +2415,223 @@
           "timestamp_start": 0
         }
       ]
+    },
+    {
+      "id": "edge-person-matthew-pines-extended-ASSERTED-claim-9QMrhcpJq8I-pines-fringe-to-normie-cycle",
+      "from_node_id": "person-matthew-pines-extended",
+      "to_node_id": "claim-9QMrhcpJq8I-pines-fringe-to-normie-cycle",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9QMrhcpJq8I",
+          "timestamp_start": 155,
+          "quote": "Pines notes: 'Fringe opinions on Bitcoin and UAPs four or five years ago are now increasingly normie. The reality of non-human intelligence was fully out there — now it's coming in. And now you got ps"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-9QMrhcpJq8I-REFERENCES-claim-9QMrhcpJq8I-pines-fringe-to-normie-cycle",
+      "from_node_id": "video-9QMrhcpJq8I",
+      "to_node_id": "claim-9QMrhcpJq8I-pines-fringe-to-normie-cycle",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9QMrhcpJq8I",
+          "timestamp_start": 155
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-9QMrhcpJq8I-pines-fringe-to-normie-cycle-REFERENCES-concept-age-of-psionics",
+      "from_node_id": "claim-9QMrhcpJq8I-pines-fringe-to-normie-cycle",
+      "to_node_id": "concept-age-of-psionics",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9QMrhcpJq8I",
+          "timestamp_start": 155
+        }
+      ]
+    },
+    {
+      "id": "edge-person-matthew-pines-extended-ASSERTED-claim-9QMrhcpJq8I-pines-rediscovering-ancient-knowledge",
+      "from_node_id": "person-matthew-pines-extended",
+      "to_node_id": "claim-9QMrhcpJq8I-pines-rediscovering-ancient-knowledge",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9QMrhcpJq8I",
+          "timestamp_start": 155,
+          "quote": "Per Pines: consciousness, light beings, meditative practices — modern frame is rediscovering ancient knowledge via current vernacular; the content is ancient."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-9QMrhcpJq8I-REFERENCES-claim-9QMrhcpJq8I-pines-rediscovering-ancient-knowledge",
+      "from_node_id": "video-9QMrhcpJq8I",
+      "to_node_id": "claim-9QMrhcpJq8I-pines-rediscovering-ancient-knowledge",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9QMrhcpJq8I",
+          "timestamp_start": 155
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-9QMrhcpJq8I-pines-rediscovering-ancient-knowledge-REFERENCES-concept-age-of-psionics",
+      "from_node_id": "claim-9QMrhcpJq8I-pines-rediscovering-ancient-knowledge",
+      "to_node_id": "concept-age-of-psionics",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9QMrhcpJq8I",
+          "timestamp_start": 155
+        }
+      ]
+    },
+    {
+      "id": "edge-person-matthew-pines-extended-ASSERTED-claim-9QMrhcpJq8I-pines-bitcoin-uap-mirror-evolution",
+      "from_node_id": "person-matthew-pines-extended",
+      "to_node_id": "claim-9QMrhcpJq8I-pines-bitcoin-uap-mirror-evolution",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9QMrhcpJq8I",
+          "timestamp_start": 167,
+          "quote": "Pines' mirror-evolution framework: Bitcoin and UAP both transitioned from taboo-fringe (pre-2017 / pre-2010) → heterodox-thinker attraction → insular culture → gradual political legitimization. Gillib"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-9QMrhcpJq8I-REFERENCES-claim-9QMrhcpJq8I-pines-bitcoin-uap-mirror-evolution",
+      "from_node_id": "video-9QMrhcpJq8I",
+      "to_node_id": "claim-9QMrhcpJq8I-pines-bitcoin-uap-mirror-evolution",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9QMrhcpJq8I",
+          "timestamp_start": 167
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-9QMrhcpJq8I-pines-bitcoin-uap-mirror-evolution-REFERENCES-concept-bitcoin-uap-trajectory-parallel",
+      "from_node_id": "claim-9QMrhcpJq8I-pines-bitcoin-uap-mirror-evolution",
+      "to_node_id": "concept-bitcoin-uap-trajectory-parallel",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9QMrhcpJq8I",
+          "timestamp_start": 167
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-9QMrhcpJq8I-pines-bitcoin-uap-mirror-evolution-REFERENCES-person-kirsten-gillibrand",
+      "from_node_id": "claim-9QMrhcpJq8I-pines-bitcoin-uap-mirror-evolution",
+      "to_node_id": "person-kirsten-gillibrand",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9QMrhcpJq8I",
+          "timestamp_start": 167
+        }
+      ]
+    },
+    {
+      "id": "edge-person-matthew-pines-extended-ASSERTED-claim-9QMrhcpJq8I-pines-pandoras-box-not-guaranteed-good",
+      "from_node_id": "person-matthew-pines-extended",
+      "to_node_id": "claim-9QMrhcpJq8I-pines-pandoras-box-not-guaranteed-good",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9QMrhcpJq8I",
+          "timestamp_start": 159,
+          "quote": "Pines' warning on psionics disclosure: 'Pandora's box. There's no guarantee that the box of knowledge humanity is dipping its hand into is going to be like good knowledge.'"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-9QMrhcpJq8I-REFERENCES-claim-9QMrhcpJq8I-pines-pandoras-box-not-guaranteed-good",
+      "from_node_id": "video-9QMrhcpJq8I",
+      "to_node_id": "claim-9QMrhcpJq8I-pines-pandoras-box-not-guaranteed-good",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9QMrhcpJq8I",
+          "timestamp_start": 159
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-9QMrhcpJq8I-pines-pandoras-box-not-guaranteed-good-REFERENCES-concept-age-of-psionics",
+      "from_node_id": "claim-9QMrhcpJq8I-pines-pandoras-box-not-guaranteed-good",
+      "to_node_id": "concept-age-of-psionics",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9QMrhcpJq8I",
+          "timestamp_start": 159
+        }
+      ]
+    },
+    {
+      "id": "edge-person-matthew-pines-extended-ASSERTED-claim-9QMrhcpJq8I-pines-ai-quantum-bitcoin-strategic",
+      "from_node_id": "person-matthew-pines-extended",
+      "to_node_id": "claim-9QMrhcpJq8I-pines-ai-quantum-bitcoin-strategic",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9QMrhcpJq8I",
+          "timestamp_start": 159,
+          "quote": "Pines: 'Bitcoin and UAPs and AI — these are fully at the center of what's going to drive major strategic dynamics over the next few years.' Triangle governing geopolitical 2025-2030 window."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-9QMrhcpJq8I-REFERENCES-claim-9QMrhcpJq8I-pines-ai-quantum-bitcoin-strategic",
+      "from_node_id": "video-9QMrhcpJq8I",
+      "to_node_id": "claim-9QMrhcpJq8I-pines-ai-quantum-bitcoin-strategic",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9QMrhcpJq8I",
+          "timestamp_start": 159
+        }
+      ]
     }
   ],
-  "extracted_at": "2026-04-17T11:05:05.454328+00:00",
+  "extracted_at": "2026-04-17T23:20:40.122188+00:00",
   "extractor_version": "v1-inline-claude"
 }

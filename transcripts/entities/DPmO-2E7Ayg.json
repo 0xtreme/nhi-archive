@@ -858,6 +858,258 @@
           "video-DPmO-2E7Ayg"
         ]
       }
+    },
+    {
+      "id": "person-michael-shellenberger",
+      "node_type": "person",
+      "label": "Michael Shellenberger",
+      "summary": "American journalist; founder of Public.io. Known for Twitter Files reporting, governmental abuse-of-power stories (FBI entrapment, disinformation ops). Speaks Portuguese; previously lived in Brazil; did original reporting on Varginha 1996. Broke 2024 'Immaculate Constellation' UAP program story via anonymous DoD-source leak.",
+      "tags": [
+        "journalist",
+        "investigator"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:30:03.999636+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "DPmO-2E7Ayg",
+          "timestamp_start": 263,
+          "quote": "Journalist; Public.io; broke Immaculate Constellation UFO program story"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Shellenberger"
+        ],
+        "profession": "journalist",
+        "notability_tags": [
+          "journalist",
+          "investigator"
+        ]
+      }
+    },
+    {
+      "id": "document-immaculate-constellation-report",
+      "node_type": "document",
+      "label": "Immaculate Constellation Report",
+      "summary": "Leaked 'Immaculate Constellation' report on US government secret UAP/UFO program — leaked to Michael Shellenberger from an anonymous source within (he protects) in-position-to-know reaches. The program was managed by DoD but held at the White House per a later single-source confirmation.",
+      "tags": [
+        "leaked_document"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:30:03.999638+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "DPmO-2E7Ayg",
+          "timestamp_start": 263,
+          "timestamp_end": "Leaked UAP program report from DoD to Shellenberger 2024"
+        }
+      ],
+      "type_specific": {
+        "document_type": "leaked_document"
+      }
+    },
+    {
+      "id": "event-2024-rayburn-oversight-hearing",
+      "node_type": "event",
+      "label": "2024 UAP House Oversight Hearing (Rayburn)",
+      "summary": "November 2024 UAP-topic House Oversight Committee hearing held at Rayburn House Office Building. The second-ever public UAP oversight hearing after July 2023. Shellenberger tweeted the Immaculate Constellation report live during the hearing.",
+      "tags": [
+        "hearing"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:30:03.999640+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "DPmO-2E7Ayg",
+          "timestamp_start": 260,
+          "timestamp_end": "Follow-up oversight hearing where Shellenberger shared the Immaculate Constellation report"
+        }
+      ],
+      "type_specific": {
+        "event_type": "hearing",
+        "date_approximate": "2024-11-13"
+      }
+    },
+    {
+      "id": "claim-DPmO-2E7Ayg-shellenberger-immaculate-constellation-leak",
+      "node_type": "claim",
+      "label": "Shellenberger published the leaked 'Immaculate Constellation' report on a US government secret UAP p",
+      "summary": "Shellenberger published the leaked 'Immaculate Constellation' report on a US government secret UAP program — sourced anonymously from an in-position-to-know insider. Report tweeted live during the November 2024 Rayburn oversight hearing.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:30:04.015735+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "DPmO-2E7Ayg",
+          "timestamp_start": 263,
+          "quote": "Immaculate Constellation report on the US government secret UAP UFO program — Shellenberger just tweeted the Immaculate Constellation report that was discussed by Congress in today's hearing."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Shellenberger published the leaked 'Immaculate Constellation' report on a US government secret UAP program — sourced anonymously from an in-position-to-know insider. Report tweeted live during the November 2024 Rayburn oversight hearing.",
+        "asserted_by_id": "person-michael-shellenberger",
+        "source_video_id": "DPmO-2E7Ayg",
+        "timestamp_start_seconds": 263,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-michael-shellenberger",
+          "document-immaculate-constellation-report",
+          "event-2024-rayburn-oversight-hearing"
+        ]
+      }
+    },
+    {
+      "id": "claim-DPmO-2E7Ayg-shellenberger-program-at-white-house",
+      "node_type": "claim",
+      "label": "Shellenberger was told AFTER publication that the Immaculate Constellation USAP was actually managed",
+      "summary": "Shellenberger was told AFTER publication that the Immaculate Constellation USAP was actually managed by the Department of Defense but HELD AT THE WHITE HOUSE — single-source, unverified.",
+      "tags": [
+        "hearsay",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:30:04.015747+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "DPmO-2E7Ayg",
+          "timestamp_start": 287,
+          "quote": "After I published I was told that this program, that the USAP was actually managed by the Department of Defense but held at the White House. That's a single source and I don't have multiple sources to verify that."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Shellenberger was told AFTER publication that the Immaculate Constellation USAP was actually managed by the Department of Defense but HELD AT THE WHITE HOUSE — single-source, unverified.",
+        "asserted_by_id": "person-michael-shellenberger",
+        "source_video_id": "DPmO-2E7Ayg",
+        "timestamp_start_seconds": 287,
+        "assertability": "hearsay",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-michael-shellenberger",
+          "document-immaculate-constellation-report"
+        ]
+      }
+    },
+    {
+      "id": "claim-DPmO-2E7Ayg-shellenberger-brazil-varginha-portuguese",
+      "node_type": "claim",
+      "label": "Shellenberger's entry into UFO journalism: he lived in Brazil, speaks Portuguese; did original repor",
+      "summary": "Shellenberger's entry into UFO journalism: he lived in Brazil, speaks Portuguese; did original reporting on the Varginha 1996 crash and interviewed someone who had seen photos of the alleged creature — two-page New York Post spread.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:30:04.015754+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "DPmO-2E7Ayg",
+          "timestamp_start": 267,
+          "quote": "The first piece I did was on the famous Brazil crash in Varginha. I lived in Brazil, I speak Portuguese. I ended up doing some original reporting to verify some of the claims that James Fox was making. I interviewed someone that actually had seen the photographs of the alleged creature."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Shellenberger's entry into UFO journalism: he lived in Brazil, speaks Portuguese; did original reporting on the Varginha 1996 crash and interviewed someone who had seen photos of the alleged creature — two-page New York Post spread.",
+        "asserted_by_id": "person-michael-shellenberger",
+        "source_video_id": "DPmO-2E7Ayg",
+        "timestamp_start_seconds": 267,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-michael-shellenberger",
+          "incident-1996-varginha-brazil"
+        ]
+      }
+    },
+    {
+      "id": "claim-DPmO-2E7Ayg-shellenberger-higgins-tried-trick",
+      "node_type": "claim",
+      "label": "During the November 2024 hearing, Congressman Higgins explicitly attempted to trick Shellenberger in",
+      "summary": "During the November 2024 hearing, Congressman Higgins explicitly attempted to trick Shellenberger into revealing Immaculate Constellation sources: 'I tried to trick you' — Shellenberger protected identity including gender and agency.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:30:04.015760+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "DPmO-2E7Ayg",
+          "timestamp_start": 287,
+          "quote": "Congressman Higgins was like 'I tried to trick you.' You have to remember not to reveal anything about them — their gender, their agency. I try to keep the universe pretty big."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "During the November 2024 hearing, Congressman Higgins explicitly attempted to trick Shellenberger into revealing Immaculate Constellation sources: 'I tried to trick you' — Shellenberger protected identity including gender and agency.",
+        "asserted_by_id": "person-michael-shellenberger",
+        "source_video_id": "DPmO-2E7Ayg",
+        "timestamp_start_seconds": 287,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-michael-shellenberger",
+          "event-2024-rayburn-oversight-hearing"
+        ]
+      }
+    },
+    {
+      "id": "claim-DPmO-2E7Ayg-shellenberger-intelligence-community-treating-us-like-children",
+      "node_type": "claim",
+      "label": "Shellenberger's stated motivation: 'I don't believe this is being kept secret from us simply to prot",
+      "summary": "Shellenberger's stated motivation: 'I don't believe this is being kept secret from us simply to protect methods. I think it's being kept secret for deeper reasons. The intelligence community is treating us like children. It's time for us to know the truth.'",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:30:04.015767+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "DPmO-2E7Ayg",
+          "timestamp_start": 259,
+          "quote": "I don't believe that this is being kept secret from us simply to protect methods. I think it's being kept secret from us for deeper reasons. The intelligence community is treating us like children. It's time for us to know the truth about this. I think that we can handle it."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Shellenberger's stated motivation: 'I don't believe this is being kept secret from us simply to protect methods. I think it's being kept secret for deeper reasons. The intelligence community is treating us like children. It's time for us to know the truth.'",
+        "asserted_by_id": "person-michael-shellenberger",
+        "source_video_id": "DPmO-2E7Ayg",
+        "timestamp_start_seconds": 259,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-michael-shellenberger",
+          "concept-disclosure"
+        ]
+      }
     }
   ],
   "edges": [
@@ -1327,8 +1579,237 @@
           "timestamp_start": 0
         }
       ]
+    },
+    {
+      "id": "edge-person-michael-shellenberger-ASSERTED-claim-DPmO-2E7Ayg-shellenberger-immaculate-constellation-leak",
+      "from_node_id": "person-michael-shellenberger",
+      "to_node_id": "claim-DPmO-2E7Ayg-shellenberger-immaculate-constellation-leak",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "DPmO-2E7Ayg",
+          "timestamp_start": 263,
+          "quote": "Shellenberger published the leaked 'Immaculate Constellation' report on a US government secret UAP program — sourced anonymously from an in-position-to-know insider. Report tweeted live during the Nov"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-DPmO-2E7Ayg-REFERENCES-claim-DPmO-2E7Ayg-shellenberger-immaculate-constellation-leak",
+      "from_node_id": "video-DPmO-2E7Ayg",
+      "to_node_id": "claim-DPmO-2E7Ayg-shellenberger-immaculate-constellation-leak",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "DPmO-2E7Ayg",
+          "timestamp_start": 263
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-DPmO-2E7Ayg-shellenberger-immaculate-constellation-leak-REFERENCES-document-immaculate-constellation-report",
+      "from_node_id": "claim-DPmO-2E7Ayg-shellenberger-immaculate-constellation-leak",
+      "to_node_id": "document-immaculate-constellation-report",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "DPmO-2E7Ayg",
+          "timestamp_start": 263
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-DPmO-2E7Ayg-shellenberger-immaculate-constellation-leak-REFERENCES-event-2024-rayburn-oversight-hearing",
+      "from_node_id": "claim-DPmO-2E7Ayg-shellenberger-immaculate-constellation-leak",
+      "to_node_id": "event-2024-rayburn-oversight-hearing",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "DPmO-2E7Ayg",
+          "timestamp_start": 263
+        }
+      ]
+    },
+    {
+      "id": "edge-person-michael-shellenberger-ASSERTED-claim-DPmO-2E7Ayg-shellenberger-program-at-white-house",
+      "from_node_id": "person-michael-shellenberger",
+      "to_node_id": "claim-DPmO-2E7Ayg-shellenberger-program-at-white-house",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "DPmO-2E7Ayg",
+          "timestamp_start": 287,
+          "quote": "Shellenberger was told AFTER publication that the Immaculate Constellation USAP was actually managed by the Department of Defense but HELD AT THE WHITE HOUSE — single-source, unverified."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-DPmO-2E7Ayg-REFERENCES-claim-DPmO-2E7Ayg-shellenberger-program-at-white-house",
+      "from_node_id": "video-DPmO-2E7Ayg",
+      "to_node_id": "claim-DPmO-2E7Ayg-shellenberger-program-at-white-house",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "DPmO-2E7Ayg",
+          "timestamp_start": 287
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-DPmO-2E7Ayg-shellenberger-program-at-white-house-REFERENCES-document-immaculate-constellation-report",
+      "from_node_id": "claim-DPmO-2E7Ayg-shellenberger-program-at-white-house",
+      "to_node_id": "document-immaculate-constellation-report",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "DPmO-2E7Ayg",
+          "timestamp_start": 287
+        }
+      ]
+    },
+    {
+      "id": "edge-person-michael-shellenberger-ASSERTED-claim-DPmO-2E7Ayg-shellenberger-brazil-varginha-portuguese",
+      "from_node_id": "person-michael-shellenberger",
+      "to_node_id": "claim-DPmO-2E7Ayg-shellenberger-brazil-varginha-portuguese",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "DPmO-2E7Ayg",
+          "timestamp_start": 267,
+          "quote": "Shellenberger's entry into UFO journalism: he lived in Brazil, speaks Portuguese; did original reporting on the Varginha 1996 crash and interviewed someone who had seen photos of the alleged creature "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-DPmO-2E7Ayg-REFERENCES-claim-DPmO-2E7Ayg-shellenberger-brazil-varginha-portuguese",
+      "from_node_id": "video-DPmO-2E7Ayg",
+      "to_node_id": "claim-DPmO-2E7Ayg-shellenberger-brazil-varginha-portuguese",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "DPmO-2E7Ayg",
+          "timestamp_start": 267
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-DPmO-2E7Ayg-shellenberger-brazil-varginha-portuguese-REFERENCES-incident-1996-varginha-brazil",
+      "from_node_id": "claim-DPmO-2E7Ayg-shellenberger-brazil-varginha-portuguese",
+      "to_node_id": "incident-1996-varginha-brazil",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "DPmO-2E7Ayg",
+          "timestamp_start": 267
+        }
+      ]
+    },
+    {
+      "id": "edge-person-michael-shellenberger-ASSERTED-claim-DPmO-2E7Ayg-shellenberger-higgins-tried-trick",
+      "from_node_id": "person-michael-shellenberger",
+      "to_node_id": "claim-DPmO-2E7Ayg-shellenberger-higgins-tried-trick",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "DPmO-2E7Ayg",
+          "timestamp_start": 287,
+          "quote": "During the November 2024 hearing, Congressman Higgins explicitly attempted to trick Shellenberger into revealing Immaculate Constellation sources: 'I tried to trick you' — Shellenberger protected iden"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-DPmO-2E7Ayg-REFERENCES-claim-DPmO-2E7Ayg-shellenberger-higgins-tried-trick",
+      "from_node_id": "video-DPmO-2E7Ayg",
+      "to_node_id": "claim-DPmO-2E7Ayg-shellenberger-higgins-tried-trick",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "DPmO-2E7Ayg",
+          "timestamp_start": 287
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-DPmO-2E7Ayg-shellenberger-higgins-tried-trick-REFERENCES-event-2024-rayburn-oversight-hearing",
+      "from_node_id": "claim-DPmO-2E7Ayg-shellenberger-higgins-tried-trick",
+      "to_node_id": "event-2024-rayburn-oversight-hearing",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "DPmO-2E7Ayg",
+          "timestamp_start": 287
+        }
+      ]
+    },
+    {
+      "id": "edge-person-michael-shellenberger-ASSERTED-claim-DPmO-2E7Ayg-shellenberger-intelligence-community-treating-us-like-children",
+      "from_node_id": "person-michael-shellenberger",
+      "to_node_id": "claim-DPmO-2E7Ayg-shellenberger-intelligence-community-treating-us-like-children",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "DPmO-2E7Ayg",
+          "timestamp_start": 259,
+          "quote": "Shellenberger's stated motivation: 'I don't believe this is being kept secret from us simply to protect methods. I think it's being kept secret for deeper reasons. The intelligence community is treati"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-DPmO-2E7Ayg-REFERENCES-claim-DPmO-2E7Ayg-shellenberger-intelligence-community-treating-us-like-children",
+      "from_node_id": "video-DPmO-2E7Ayg",
+      "to_node_id": "claim-DPmO-2E7Ayg-shellenberger-intelligence-community-treating-us-like-children",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "DPmO-2E7Ayg",
+          "timestamp_start": 259
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-DPmO-2E7Ayg-shellenberger-intelligence-community-treating-us-like-children-REFERENCES-concept-disclosure",
+      "from_node_id": "claim-DPmO-2E7Ayg-shellenberger-intelligence-community-treating-us-like-children",
+      "to_node_id": "concept-disclosure",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "DPmO-2E7Ayg",
+          "timestamp_start": 259
+        }
+      ]
     }
   ],
-  "extracted_at": "2026-04-17T11:05:01.401922+00:00",
+  "extracted_at": "2026-04-17T13:30:04.015773+00:00",
   "extractor_version": "v1-inline-claude"
 }

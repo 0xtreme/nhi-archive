@@ -1747,6 +1747,320 @@
           "video-bM18PJY6_Zc"
         ]
       }
+    },
+    {
+      "id": "person-chris-bledsoe",
+      "node_type": "person",
+      "label": "Chris Bledsoe",
+      "summary": "North Carolina UFO experiencer; after Jan 8 2007 fishing-trip orb sighting, experienced spontaneous healing of Crohn's disease and series of contact experiences with a luminous feminine presence ('The Lady'). High-level NASA and CIA personnel have studied his case.",
+      "tags": [
+        "witness",
+        "experiencer",
+        "contactee"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.368588+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 275,
+          "quote": "UFO experiencer; The Lady contactee; Crohn's disease healed"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Bledsoe"
+        ],
+        "profession": "experiencer",
+        "notability_tags": [
+          "witness",
+          "experiencer",
+          "contactee"
+        ]
+      }
+    },
+    {
+      "id": "person-tim-taylor-cape-canaveral",
+      "node_type": "person",
+      "label": "Tim Taylor (NASA mission controller)",
+      "summary": "High-level NASA mission controller who has worked on launches at Cape Canaveral since the Challenger missions in the 80s. Visited Bledsoe; claimed the symbols Bledsoe was given aligned with things NASA was already monitoring.",
+      "tags": [
+        "NASA",
+        "official",
+        "researcher"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.368590+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 285,
+          "quote": "High-level NASA mission controller; Bledsoe and Obama link"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Taylor"
+        ],
+        "profession": "NASA official",
+        "notability_tags": [
+          "NASA",
+          "official",
+          "researcher"
+        ]
+      }
+    },
+    {
+      "id": "document-ufo-of-god",
+      "node_type": "document",
+      "label": "UFO of God",
+      "summary": "Chris Bledsoe's memoir; documents his 2007 UFO contact experience and subsequent 5 years of darkness in his Fayetteville NC community, plus NASA/CIA follow-up and his encounters with 'The Lady.'",
+      "tags": [
+        "book"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.368592+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 307,
+          "timestamp_end": "Chris Bledsoe's memoir of his contact experiences"
+        }
+      ],
+      "type_specific": {
+        "document_type": "book",
+        "author": "Chris Bledsoe"
+      }
+    },
+    {
+      "id": "phenomenon-the-lady-feminine-presence",
+      "node_type": "phenomenon",
+      "label": "The Lady (Luminous Feminine Presence)",
+      "summary": "Luminous feminine presence reported by Chris Bledsoe in his contact experiences; communicates with him about humanity's moral decay, civilizational cycles, judgment, and apocalyptic thresholds. Archetypally familiar despite unsettling quality.",
+      "tags": [
+        "psychic"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.368594+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 279,
+          "timestamp_end": "Luminous feminine contactor of Chris Bledsoe"
+        }
+      ],
+      "type_specific": {
+        "phenomenon_category": "psychic"
+      }
+    },
+    {
+      "id": "location-zanesville-ohio",
+      "node_type": "location",
+      "label": "Zanesville Ohio",
+      "summary": "",
+      "tags": [
+        "city"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.368597+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 301,
+          "timestamp_end": "Townsend Brown's birthplace; Bledsoe led Jesse there"
+        }
+      ],
+      "type_specific": {
+        "location_type": "city",
+        "country": "US",
+        "state_or_region": "Ohio"
+      }
+    },
+    {
+      "id": "claim-bM18PJY6_Zc-bledsoe-crohn-healed-jan-2007",
+      "node_type": "claim",
+      "label": "On January 8 2007 during a fishing trip in NC, Chris Bledsoe witnessed orbs; his severe Crohn's dise",
+      "summary": "On January 8 2007 during a fishing trip in NC, Chris Bledsoe witnessed orbs; his severe Crohn's disease was spontaneously healed afterward ('no more sickness').",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.384572+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 275,
+          "quote": "It was 19 years ago on January the 8th of 2007. I was down and out and lost everything. Sick with Crohn's disease. Then my Crohn's was gone. I had no more sickness."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "On January 8 2007 during a fishing trip in NC, Chris Bledsoe witnessed orbs; his severe Crohn's disease was spontaneously healed afterward ('no more sickness').",
+        "asserted_by_id": "person-chris-bledsoe",
+        "source_video_id": "bM18PJY6_Zc",
+        "timestamp_start_seconds": 275,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-chris-bledsoe",
+          "phenomenon-the-lady-feminine-presence"
+        ]
+      }
+    },
+    {
+      "id": "claim-bM18PJY6_Zc-bledsoe-the-lady-apocalypse-messages",
+      "node_type": "claim",
+      "label": "Bledsoe's 'Lady' communicates about humanity's moral decay, civilizational cycles, judgment, and a t",
+      "summary": "Bledsoe's 'Lady' communicates about humanity's moral decay, civilizational cycles, judgment, and a threshold-event apocalypse — framing aligning with ancient-apocalypse and Younger-Dryas cycles.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.384589+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 279,
+          "quote": "They touch on humanity's deep moral decay, cycles of civilizational collapse, judgment, the apocalypse, and renewal. They revolve around humanity reaching a threshold."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Bledsoe's 'Lady' communicates about humanity's moral decay, civilizational cycles, judgment, and a threshold-event apocalypse — framing aligning with ancient-apocalypse and Younger-Dryas cycles.",
+        "asserted_by_id": "person-chris-bledsoe",
+        "source_video_id": "bM18PJY6_Zc",
+        "timestamp_start_seconds": 279,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-chris-bledsoe",
+          "phenomenon-the-lady-feminine-presence"
+        ]
+      }
+    },
+    {
+      "id": "claim-bM18PJY6_Zc-tim-taylor-dinner-with-president",
+      "node_type": "claim",
+      "label": "NASA's Tim Taylor said he was 'at the dinner table with the president' when something was handed to ",
+      "summary": "NASA's Tim Taylor said he was 'at the dinner table with the president' when something was handed to him — photographed napkin with presidential seal from Camp David — reinforcing Bledsoe's claim that NASA has data beyond public knowledge.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.384598+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 287,
+          "quote": "He said 'I was at the dinner table with the president and handed me that.' They have a scientific model of how these angels work at NASA. They know a lot more than we think they do."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "NASA's Tim Taylor said he was 'at the dinner table with the president' when something was handed to him — photographed napkin with presidential seal from Camp David — reinforcing Bledsoe's claim that NASA has data beyond public knowledge.",
+        "asserted_by_id": "person-chris-bledsoe",
+        "source_video_id": "bM18PJY6_Zc",
+        "timestamp_start_seconds": 287,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-chris-bledsoe",
+          "person-tim-taylor-cape-canaveral"
+        ]
+      }
+    },
+    {
+      "id": "claim-bM18PJY6_Zc-bledsoe-nasa-cia-visitation",
+      "node_type": "claim",
+      "label": "NASA and CIA high-level personnel visited Bledsoe; grilled him on his experiences; implied his given",
+      "summary": "NASA and CIA high-level personnel visited Bledsoe; grilled him on his experiences; implied his given dates and symbols aligned with things they were already monitoring from other authoritative sources.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.384607+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 283,
+          "quote": "NASA and the CIA show up at Bledsoe's door. Some imply that certain dates and symbols he's given by the lady align with things they're already monitoring and have seen from other authoritative sources."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "NASA and CIA high-level personnel visited Bledsoe; grilled him on his experiences; implied his given dates and symbols aligned with things they were already monitoring from other authoritative sources.",
+        "asserted_by_id": "person-chris-bledsoe",
+        "source_video_id": "bM18PJY6_Zc",
+        "timestamp_start_seconds": 283,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-chris-bledsoe",
+          "person-tim-taylor-cape-canaveral"
+        ]
+      }
+    },
+    {
+      "id": "claim-bM18PJY6_Zc-bledsoe-zanesville-townsend-brown",
+      "node_type": "claim",
+      "label": "Bledsoe took Jesse to Zanesville Ohio — Townsend Brown's hometown — where they recovered a metal pie",
+      "summary": "Bledsoe took Jesse to Zanesville Ohio — Townsend Brown's hometown — where they recovered a metal piece potentially tied to Brown's antigravity work.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.384616+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 301,
+          "quote": "He took you to Zanesville, Ohio, where you recovered a little piece of metal. Do you know who's from Zanesville, Ohio? Townsend Brown."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Bledsoe took Jesse to Zanesville Ohio — Townsend Brown's hometown — where they recovered a metal piece potentially tied to Brown's antigravity work.",
+        "asserted_by_id": "person-chris-bledsoe",
+        "source_video_id": "bM18PJY6_Zc",
+        "timestamp_start_seconds": 301,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-chris-bledsoe",
+          "location-zanesville-ohio",
+          "person-townsend-brown"
+        ]
+      }
     }
   ],
   "edges": [
@@ -2651,8 +2965,237 @@
           "timestamp_start": 0
         }
       ]
+    },
+    {
+      "id": "edge-person-chris-bledsoe-ASSERTED-claim-bM18PJY6_Zc-bledsoe-crohn-healed-jan-2007",
+      "from_node_id": "person-chris-bledsoe",
+      "to_node_id": "claim-bM18PJY6_Zc-bledsoe-crohn-healed-jan-2007",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 275,
+          "quote": "On January 8 2007 during a fishing trip in NC, Chris Bledsoe witnessed orbs; his severe Crohn's disease was spontaneously healed afterward ('no more sickness')."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-bM18PJY6_Zc-REFERENCES-claim-bM18PJY6_Zc-bledsoe-crohn-healed-jan-2007",
+      "from_node_id": "video-bM18PJY6_Zc",
+      "to_node_id": "claim-bM18PJY6_Zc-bledsoe-crohn-healed-jan-2007",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 275
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-bM18PJY6_Zc-bledsoe-crohn-healed-jan-2007-REFERENCES-phenomenon-the-lady-feminine-presence",
+      "from_node_id": "claim-bM18PJY6_Zc-bledsoe-crohn-healed-jan-2007",
+      "to_node_id": "phenomenon-the-lady-feminine-presence",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 275
+        }
+      ]
+    },
+    {
+      "id": "edge-person-chris-bledsoe-ASSERTED-claim-bM18PJY6_Zc-bledsoe-the-lady-apocalypse-messages",
+      "from_node_id": "person-chris-bledsoe",
+      "to_node_id": "claim-bM18PJY6_Zc-bledsoe-the-lady-apocalypse-messages",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 279,
+          "quote": "Bledsoe's 'Lady' communicates about humanity's moral decay, civilizational cycles, judgment, and a threshold-event apocalypse — framing aligning with ancient-apocalypse and Younger-Dryas cycles."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-bM18PJY6_Zc-REFERENCES-claim-bM18PJY6_Zc-bledsoe-the-lady-apocalypse-messages",
+      "from_node_id": "video-bM18PJY6_Zc",
+      "to_node_id": "claim-bM18PJY6_Zc-bledsoe-the-lady-apocalypse-messages",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 279
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-bM18PJY6_Zc-bledsoe-the-lady-apocalypse-messages-REFERENCES-phenomenon-the-lady-feminine-presence",
+      "from_node_id": "claim-bM18PJY6_Zc-bledsoe-the-lady-apocalypse-messages",
+      "to_node_id": "phenomenon-the-lady-feminine-presence",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 279
+        }
+      ]
+    },
+    {
+      "id": "edge-person-chris-bledsoe-ASSERTED-claim-bM18PJY6_Zc-tim-taylor-dinner-with-president",
+      "from_node_id": "person-chris-bledsoe",
+      "to_node_id": "claim-bM18PJY6_Zc-tim-taylor-dinner-with-president",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 287,
+          "quote": "NASA's Tim Taylor said he was 'at the dinner table with the president' when something was handed to him — photographed napkin with presidential seal from Camp David — reinforcing Bledsoe's claim that "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-bM18PJY6_Zc-REFERENCES-claim-bM18PJY6_Zc-tim-taylor-dinner-with-president",
+      "from_node_id": "video-bM18PJY6_Zc",
+      "to_node_id": "claim-bM18PJY6_Zc-tim-taylor-dinner-with-president",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 287
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-bM18PJY6_Zc-tim-taylor-dinner-with-president-REFERENCES-person-tim-taylor-cape-canaveral",
+      "from_node_id": "claim-bM18PJY6_Zc-tim-taylor-dinner-with-president",
+      "to_node_id": "person-tim-taylor-cape-canaveral",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 287
+        }
+      ]
+    },
+    {
+      "id": "edge-person-chris-bledsoe-ASSERTED-claim-bM18PJY6_Zc-bledsoe-nasa-cia-visitation",
+      "from_node_id": "person-chris-bledsoe",
+      "to_node_id": "claim-bM18PJY6_Zc-bledsoe-nasa-cia-visitation",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 283,
+          "quote": "NASA and CIA high-level personnel visited Bledsoe; grilled him on his experiences; implied his given dates and symbols aligned with things they were already monitoring from other authoritative sources"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-bM18PJY6_Zc-REFERENCES-claim-bM18PJY6_Zc-bledsoe-nasa-cia-visitation",
+      "from_node_id": "video-bM18PJY6_Zc",
+      "to_node_id": "claim-bM18PJY6_Zc-bledsoe-nasa-cia-visitation",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 283
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-bM18PJY6_Zc-bledsoe-nasa-cia-visitation-REFERENCES-person-tim-taylor-cape-canaveral",
+      "from_node_id": "claim-bM18PJY6_Zc-bledsoe-nasa-cia-visitation",
+      "to_node_id": "person-tim-taylor-cape-canaveral",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 283
+        }
+      ]
+    },
+    {
+      "id": "edge-person-chris-bledsoe-ASSERTED-claim-bM18PJY6_Zc-bledsoe-zanesville-townsend-brown",
+      "from_node_id": "person-chris-bledsoe",
+      "to_node_id": "claim-bM18PJY6_Zc-bledsoe-zanesville-townsend-brown",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 301,
+          "quote": "Bledsoe took Jesse to Zanesville Ohio — Townsend Brown's hometown — where they recovered a metal piece potentially tied to Brown's antigravity work."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-bM18PJY6_Zc-REFERENCES-claim-bM18PJY6_Zc-bledsoe-zanesville-townsend-brown",
+      "from_node_id": "video-bM18PJY6_Zc",
+      "to_node_id": "claim-bM18PJY6_Zc-bledsoe-zanesville-townsend-brown",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 301
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-bM18PJY6_Zc-bledsoe-zanesville-townsend-brown-REFERENCES-location-zanesville-ohio",
+      "from_node_id": "claim-bM18PJY6_Zc-bledsoe-zanesville-townsend-brown",
+      "to_node_id": "location-zanesville-ohio",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 301
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-bM18PJY6_Zc-bledsoe-zanesville-townsend-brown-REFERENCES-person-townsend-brown",
+      "from_node_id": "claim-bM18PJY6_Zc-bledsoe-zanesville-townsend-brown",
+      "to_node_id": "person-townsend-brown",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 301
+        }
+      ]
     }
   ],
-  "extracted_at": "2026-04-17T11:04:30.973905+00:00",
+  "extracted_at": "2026-04-17T12:55:45.384625+00:00",
   "extractor_version": "v1-inline-claude"
 }

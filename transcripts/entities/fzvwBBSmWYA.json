@@ -1849,6 +1849,376 @@
           "video-fzvwBBSmWYA"
         ]
       }
+    },
+    {
+      "id": "concept-drone-sightings-nj-2024",
+      "node_type": "concept",
+      "label": "2024 New Jersey Drone Sightings Wave",
+      "summary": "Late 2024 wave of mysterious drone sightings over New Jersey and the northeast US; US Air Force denied involvement; Hastings places it in continuity of ongoing UAP incursions at nuclear and critical infrastructure.",
+      "tags": [
+        "politics"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.368277+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fzvwBBSmWYA",
+          "timestamp_start": 7,
+          "timestamp_end": "Nationwide drone sightings over NJ / NY"
+        }
+      ],
+      "type_specific": {
+        "concept_domain": "politics"
+      }
+    },
+    {
+      "id": "event-bentwaters-1980",
+      "node_type": "event",
+      "label": "Bentwaters/Rendlesham UFO 1980",
+      "summary": "December 1980 Rendlesham Forest / Bentwaters AFB incident — site of largest tactical nuclear weapons stockpile in Western Europe; disc-shaped object landed in field, exploded silently into objects.",
+      "tags": [
+        "sighting"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.368503+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fzvwBBSmWYA",
+          "timestamp_start": 39,
+          "timestamp_end": "1980 UK UFO incident at Bentwaters — largest tactical nuclear weapons cache in Western Europe"
+        }
+      ],
+      "type_specific": {
+        "event_type": "sighting",
+        "date_approximate": "1980-12-26"
+      }
+    },
+    {
+      "id": "event-soviet-ukraine-missile-base",
+      "node_type": "event",
+      "label": "Soviet Ukraine Missile Base UFO",
+      "summary": "UFO over Soviet-era Ukraine missile base — one of many non-US-theater cases documenting UFOs targeting nuclear infrastructure globally.",
+      "tags": [
+        "sighting"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.368506+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fzvwBBSmWYA",
+          "timestamp_start": 39,
+          "timestamp_end": "Huge disc-shaped object over Soviet Ukraine missile base"
+        }
+      ],
+      "type_specific": {
+        "event_type": "sighting",
+        "date_approximate": "1982-01-01"
+      }
+    },
+    {
+      "id": "incident-chernobyl-ufo-1986",
+      "node_type": "incident",
+      "label": "Chernobyl Reactor UFO Sighting",
+      "summary": "During the 1986 Chernobyl disaster a UFO was observed coming in, staying 3 minutes, shining light at the reactor, then departing — documented by Harvard PhD Jensen Andreon.",
+      "tags": [
+        "sighting"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.368509+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fzvwBBSmWYA",
+          "timestamp_start": 45,
+          "timestamp_end": "UFO seen at Chernobyl during 1986 disaster"
+        }
+      ],
+      "type_specific": {
+        "incident_type": "sighting",
+        "date_approximate": "1986-04-26"
+      }
+    },
+    {
+      "id": "person-jensen-andreon",
+      "node_type": "person",
+      "label": "Jensen Andreon",
+      "summary": "Harvard PhD researcher who documented the 1986 Chernobyl UFO sighting.",
+      "tags": [
+        "researcher",
+        "Harvard"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.368514+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fzvwBBSmWYA",
+          "timestamp_start": 45,
+          "quote": "Harvard PhD documenting Chernobyl UFO case"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Andreon"
+        ],
+        "profession": "researcher",
+        "notability_tags": [
+          "researcher",
+          "Harvard"
+        ]
+      }
+    },
+    {
+      "id": "claim-fzvwBBSmWYA-hastings-167-nuclear-witnesses",
+      "node_type": "claim",
+      "label": "Hastings has personally interviewed 167 military witnesses of UFOs at US nuclear sites — missile tec",
+      "summary": "Hastings has personally interviewed 167 military witnesses of UFOs at US nuclear sites — missile technicians, ICBM security, missileers, radar operators — all vetted under Personal Reliability Program.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.369655+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fzvwBBSmWYA",
+          "timestamp_start": 21,
+          "quote": "Hastings has personally interviewed 167 employees of nuclear bases across the United States."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Hastings has personally interviewed 167 military witnesses of UFOs at US nuclear sites — missile technicians, ICBM security, missileers, radar operators — all vetted under Personal Reliability Program.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "fzvwBBSmWYA",
+        "timestamp_start_seconds": 21,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-robert-hastings",
+          "document-ufos-and-nukes",
+          "person-robert-salas"
+        ]
+      }
+    },
+    {
+      "id": "claim-fzvwBBSmWYA-hastings-jacobs-vandenberg-threatened",
+      "node_type": "claim",
+      "label": "Bob Jacobs' Air Force records were deleted from Vandenberg; he received phone threats including 'you",
+      "summary": "Bob Jacobs' Air Force records were deleted from Vandenberg; he received phone threats including 'your mailbox — what a beautiful sight — you're going down' after speaking publicly.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.369671+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fzvwBBSmWYA",
+          "timestamp_start": 27,
+          "quote": "His records were deleted from Vandenberg Air Force Base. They threatened my life. They denied there was ever a Robert Jacobs in the Air Force."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Bob Jacobs' Air Force records were deleted from Vandenberg; he received phone threats including 'your mailbox — what a beautiful sight — you're going down' after speaking publicly.",
+        "asserted_by_id": "person-robert-hastings",
+        "source_video_id": "fzvwBBSmWYA",
+        "timestamp_start_seconds": 27,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-bob-jacobs",
+          "location-vandenberg-afb",
+          "incident-1964-big-sur-atlas"
+        ]
+      }
+    },
+    {
+      "id": "claim-fzvwBBSmWYA-hastings-ellsworth-grays-multi-level",
+      "node_type": "claim",
+      "label": "One of Hastings' Ellsworth witnesses claimed to have boarded a craft at Ellsworth AFB South Dakota a",
+      "summary": "One of Hastings' Ellsworth witnesses claimed to have boarded a craft at Ellsworth AFB South Dakota and seen multiple levels filled with small grays.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.369682+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fzvwBBSmWYA",
+          "timestamp_start": 29,
+          "quote": "The other boarded a craft at Ellsworth Air Force Base in South Dakota. They were just multi levels with all these small Grays everywhere."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "One of Hastings' Ellsworth witnesses claimed to have boarded a craft at Ellsworth AFB South Dakota and seen multiple levels filled with small grays.",
+        "asserted_by_id": "person-robert-hastings",
+        "source_video_id": "fzvwBBSmWYA",
+        "timestamp_start_seconds": 29,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-robert-hastings",
+          "location-ellsworth-november-5-site"
+        ]
+      }
+    },
+    {
+      "id": "claim-fzvwBBSmWYA-hastings-heavy-breathing-phone-calls",
+      "node_type": "claim",
+      "label": "After every one of Hastings' witness interviews, within 1-10 minutes his phone would ring with only ",
+      "summary": "After every one of Hastings' witness interviews, within 1-10 minutes his phone would ring with only heavy breathing on the other end — systemic surveillance pattern.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.369692+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fzvwBBSmWYA",
+          "timestamp_start": 31,
+          "quote": "After each one of those calls I would talk to them hang up the phone within a minute or five or 10 the phone would ring I would pick it up and there would be nothing but heavy breathing in the phone."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "After every one of Hastings' witness interviews, within 1-10 minutes his phone would ring with only heavy breathing on the other end — systemic surveillance pattern.",
+        "asserted_by_id": "person-robert-hastings",
+        "source_video_id": "fzvwBBSmWYA",
+        "timestamp_start_seconds": 31,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-robert-hastings"
+        ]
+      }
+    },
+    {
+      "id": "claim-fzvwBBSmWYA-hastings-eno-japan-fukushima-monk",
+      "node_type": "claim",
+      "label": "A 2022 Vice story documented Eno Japan's (near Fukushima) UFO obsession; the chief monk of a local t",
+      "summary": "A 2022 Vice story documented Eno Japan's (near Fukushima) UFO obsession; the chief monk of a local temple reported UFOs 'came after the explosion — so many of them I was shocked.'",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.369700+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fzvwBBSmWYA",
+          "timestamp_start": 43,
+          "quote": "A little town in Japan that's obsessed with UFOs — Eno — right next to Fukushima. The chief monk of a local temple said the UFOs came after the explosion, there were so many of them I was shocked."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "A 2022 Vice story documented Eno Japan's (near Fukushima) UFO obsession; the chief monk of a local temple reported UFOs 'came after the explosion — so many of them I was shocked.'",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "fzvwBBSmWYA",
+        "timestamp_start_seconds": 43,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-robert-hastings",
+          "location-lino-japan"
+        ]
+      }
+    },
+    {
+      "id": "claim-fzvwBBSmWYA-hastings-chernobyl-3-minute-visit",
+      "node_type": "claim",
+      "label": "Harvard PhD Jensen Andreon documented UFO activity at Chernobyl in 1986 — object came, stayed 3 minu",
+      "summary": "Harvard PhD Jensen Andreon documented UFO activity at Chernobyl in 1986 — object came, stayed 3 minutes, shined a light at the reactor, and departed.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.369709+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fzvwBBSmWYA",
+          "timestamp_start": 45,
+          "quote": "Harvard PhD Jensen Andreon writes about UFO activity at the height of the Chernobyl disaster when many people in the area observed a UFO come stay for 3 minutes shine a light at the reactor and depart."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Harvard PhD Jensen Andreon documented UFO activity at Chernobyl in 1986 — object came, stayed 3 minutes, shined a light at the reactor, and departed.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "fzvwBBSmWYA",
+        "timestamp_start_seconds": 45,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-jensen-andreon",
+          "incident-chernobyl-ufo-1986"
+        ]
+      }
+    },
+    {
+      "id": "claim-fzvwBBSmWYA-hastings-nj-2024-drone-continuity",
+      "node_type": "claim",
+      "label": "Hastings frames the 2024 New Jersey drone wave as continuous with ongoing UAP incursions at global n",
+      "summary": "Hastings frames the 2024 New Jersey drone wave as continuous with ongoing UAP incursions at global nuclear facilities dating back to the atomic age.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.369718+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fzvwBBSmWYA",
+          "timestamp_start": 9,
+          "quote": "People in New York and New Jersey see drones the size of an SUV over their house every night. These aren't all drones. This is the continuation of a story that's been unraveling since the dawn of the atomic age."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Hastings frames the 2024 New Jersey drone wave as continuous with ongoing UAP incursions at global nuclear facilities dating back to the atomic age.",
+        "asserted_by_id": "person-robert-hastings",
+        "source_video_id": "fzvwBBSmWYA",
+        "timestamp_start_seconds": 9,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-robert-hastings",
+          "concept-drone-sightings-nj-2024"
+        ]
+      }
     }
   ],
   "edges": [
@@ -2861,8 +3231,379 @@
           "timestamp_start": 0
         }
       ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-fzvwBBSmWYA-hastings-167-nuclear-witnesses",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-fzvwBBSmWYA-hastings-167-nuclear-witnesses",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fzvwBBSmWYA",
+          "timestamp_start": 21,
+          "quote": "Hastings has personally interviewed 167 military witnesses of UFOs at US nuclear sites — missile technicians, ICBM security, missileers, radar operators — all vetted under Personal Reliability Program"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-fzvwBBSmWYA-REFERENCES-claim-fzvwBBSmWYA-hastings-167-nuclear-witnesses",
+      "from_node_id": "video-fzvwBBSmWYA",
+      "to_node_id": "claim-fzvwBBSmWYA-hastings-167-nuclear-witnesses",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fzvwBBSmWYA",
+          "timestamp_start": 21
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-fzvwBBSmWYA-hastings-167-nuclear-witnesses-REFERENCES-person-robert-hastings",
+      "from_node_id": "claim-fzvwBBSmWYA-hastings-167-nuclear-witnesses",
+      "to_node_id": "person-robert-hastings",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fzvwBBSmWYA",
+          "timestamp_start": 21
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-fzvwBBSmWYA-hastings-167-nuclear-witnesses-REFERENCES-document-ufos-and-nukes",
+      "from_node_id": "claim-fzvwBBSmWYA-hastings-167-nuclear-witnesses",
+      "to_node_id": "document-ufos-and-nukes",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fzvwBBSmWYA",
+          "timestamp_start": 21
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-fzvwBBSmWYA-hastings-167-nuclear-witnesses-REFERENCES-person-robert-salas",
+      "from_node_id": "claim-fzvwBBSmWYA-hastings-167-nuclear-witnesses",
+      "to_node_id": "person-robert-salas",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fzvwBBSmWYA",
+          "timestamp_start": 21
+        }
+      ]
+    },
+    {
+      "id": "edge-person-robert-hastings-ASSERTED-claim-fzvwBBSmWYA-hastings-jacobs-vandenberg-threatened",
+      "from_node_id": "person-robert-hastings",
+      "to_node_id": "claim-fzvwBBSmWYA-hastings-jacobs-vandenberg-threatened",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fzvwBBSmWYA",
+          "timestamp_start": 27,
+          "quote": "Bob Jacobs' Air Force records were deleted from Vandenberg; he received phone threats including 'your mailbox — what a beautiful sight — you're going down' after speaking publicly."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-fzvwBBSmWYA-REFERENCES-claim-fzvwBBSmWYA-hastings-jacobs-vandenberg-threatened",
+      "from_node_id": "video-fzvwBBSmWYA",
+      "to_node_id": "claim-fzvwBBSmWYA-hastings-jacobs-vandenberg-threatened",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fzvwBBSmWYA",
+          "timestamp_start": 27
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-fzvwBBSmWYA-hastings-jacobs-vandenberg-threatened-REFERENCES-person-bob-jacobs",
+      "from_node_id": "claim-fzvwBBSmWYA-hastings-jacobs-vandenberg-threatened",
+      "to_node_id": "person-bob-jacobs",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fzvwBBSmWYA",
+          "timestamp_start": 27
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-fzvwBBSmWYA-hastings-jacobs-vandenberg-threatened-REFERENCES-location-vandenberg-afb",
+      "from_node_id": "claim-fzvwBBSmWYA-hastings-jacobs-vandenberg-threatened",
+      "to_node_id": "location-vandenberg-afb",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fzvwBBSmWYA",
+          "timestamp_start": 27
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-fzvwBBSmWYA-hastings-jacobs-vandenberg-threatened-REFERENCES-incident-1964-big-sur-atlas",
+      "from_node_id": "claim-fzvwBBSmWYA-hastings-jacobs-vandenberg-threatened",
+      "to_node_id": "incident-1964-big-sur-atlas",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fzvwBBSmWYA",
+          "timestamp_start": 27
+        }
+      ]
+    },
+    {
+      "id": "edge-person-robert-hastings-ASSERTED-claim-fzvwBBSmWYA-hastings-ellsworth-grays-multi-level",
+      "from_node_id": "person-robert-hastings",
+      "to_node_id": "claim-fzvwBBSmWYA-hastings-ellsworth-grays-multi-level",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fzvwBBSmWYA",
+          "timestamp_start": 29,
+          "quote": "One of Hastings' Ellsworth witnesses claimed to have boarded a craft at Ellsworth AFB South Dakota and seen multiple levels filled with small grays."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-fzvwBBSmWYA-REFERENCES-claim-fzvwBBSmWYA-hastings-ellsworth-grays-multi-level",
+      "from_node_id": "video-fzvwBBSmWYA",
+      "to_node_id": "claim-fzvwBBSmWYA-hastings-ellsworth-grays-multi-level",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fzvwBBSmWYA",
+          "timestamp_start": 29
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-fzvwBBSmWYA-hastings-ellsworth-grays-multi-level-REFERENCES-location-ellsworth-november-5-site",
+      "from_node_id": "claim-fzvwBBSmWYA-hastings-ellsworth-grays-multi-level",
+      "to_node_id": "location-ellsworth-november-5-site",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fzvwBBSmWYA",
+          "timestamp_start": 29
+        }
+      ]
+    },
+    {
+      "id": "edge-person-robert-hastings-ASSERTED-claim-fzvwBBSmWYA-hastings-heavy-breathing-phone-calls",
+      "from_node_id": "person-robert-hastings",
+      "to_node_id": "claim-fzvwBBSmWYA-hastings-heavy-breathing-phone-calls",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fzvwBBSmWYA",
+          "timestamp_start": 31,
+          "quote": "After every one of Hastings' witness interviews, within 1-10 minutes his phone would ring with only heavy breathing on the other end — systemic surveillance pattern."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-fzvwBBSmWYA-REFERENCES-claim-fzvwBBSmWYA-hastings-heavy-breathing-phone-calls",
+      "from_node_id": "video-fzvwBBSmWYA",
+      "to_node_id": "claim-fzvwBBSmWYA-hastings-heavy-breathing-phone-calls",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fzvwBBSmWYA",
+          "timestamp_start": 31
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-fzvwBBSmWYA-hastings-eno-japan-fukushima-monk",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-fzvwBBSmWYA-hastings-eno-japan-fukushima-monk",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fzvwBBSmWYA",
+          "timestamp_start": 43,
+          "quote": "A 2022 Vice story documented Eno Japan's (near Fukushima) UFO obsession; the chief monk of a local temple reported UFOs 'came after the explosion — so many of them I was shocked.'"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-fzvwBBSmWYA-REFERENCES-claim-fzvwBBSmWYA-hastings-eno-japan-fukushima-monk",
+      "from_node_id": "video-fzvwBBSmWYA",
+      "to_node_id": "claim-fzvwBBSmWYA-hastings-eno-japan-fukushima-monk",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fzvwBBSmWYA",
+          "timestamp_start": 43
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-fzvwBBSmWYA-hastings-eno-japan-fukushima-monk-REFERENCES-person-robert-hastings",
+      "from_node_id": "claim-fzvwBBSmWYA-hastings-eno-japan-fukushima-monk",
+      "to_node_id": "person-robert-hastings",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fzvwBBSmWYA",
+          "timestamp_start": 43
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-fzvwBBSmWYA-hastings-eno-japan-fukushima-monk-REFERENCES-location-lino-japan",
+      "from_node_id": "claim-fzvwBBSmWYA-hastings-eno-japan-fukushima-monk",
+      "to_node_id": "location-lino-japan",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fzvwBBSmWYA",
+          "timestamp_start": 43
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-fzvwBBSmWYA-hastings-chernobyl-3-minute-visit",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-fzvwBBSmWYA-hastings-chernobyl-3-minute-visit",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fzvwBBSmWYA",
+          "timestamp_start": 45,
+          "quote": "Harvard PhD Jensen Andreon documented UFO activity at Chernobyl in 1986 — object came, stayed 3 minutes, shined a light at the reactor, and departed."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-fzvwBBSmWYA-REFERENCES-claim-fzvwBBSmWYA-hastings-chernobyl-3-minute-visit",
+      "from_node_id": "video-fzvwBBSmWYA",
+      "to_node_id": "claim-fzvwBBSmWYA-hastings-chernobyl-3-minute-visit",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fzvwBBSmWYA",
+          "timestamp_start": 45
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-fzvwBBSmWYA-hastings-chernobyl-3-minute-visit-REFERENCES-person-jensen-andreon",
+      "from_node_id": "claim-fzvwBBSmWYA-hastings-chernobyl-3-minute-visit",
+      "to_node_id": "person-jensen-andreon",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fzvwBBSmWYA",
+          "timestamp_start": 45
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-fzvwBBSmWYA-hastings-chernobyl-3-minute-visit-REFERENCES-incident-chernobyl-ufo-1986",
+      "from_node_id": "claim-fzvwBBSmWYA-hastings-chernobyl-3-minute-visit",
+      "to_node_id": "incident-chernobyl-ufo-1986",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fzvwBBSmWYA",
+          "timestamp_start": 45
+        }
+      ]
+    },
+    {
+      "id": "edge-person-robert-hastings-ASSERTED-claim-fzvwBBSmWYA-hastings-nj-2024-drone-continuity",
+      "from_node_id": "person-robert-hastings",
+      "to_node_id": "claim-fzvwBBSmWYA-hastings-nj-2024-drone-continuity",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fzvwBBSmWYA",
+          "timestamp_start": 9,
+          "quote": "Hastings frames the 2024 New Jersey drone wave as continuous with ongoing UAP incursions at global nuclear facilities dating back to the atomic age."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-fzvwBBSmWYA-REFERENCES-claim-fzvwBBSmWYA-hastings-nj-2024-drone-continuity",
+      "from_node_id": "video-fzvwBBSmWYA",
+      "to_node_id": "claim-fzvwBBSmWYA-hastings-nj-2024-drone-continuity",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fzvwBBSmWYA",
+          "timestamp_start": 9
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-fzvwBBSmWYA-hastings-nj-2024-drone-continuity-REFERENCES-concept-drone-sightings-nj-2024",
+      "from_node_id": "claim-fzvwBBSmWYA-hastings-nj-2024-drone-continuity",
+      "to_node_id": "concept-drone-sightings-nj-2024",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fzvwBBSmWYA",
+          "timestamp_start": 9
+        }
+      ]
     }
   ],
-  "extracted_at": "2026-04-17T11:04:27.600959+00:00",
+  "extracted_at": "2026-04-17T12:55:45.369731+00:00",
   "extractor_version": "v1-inline-claude"
 }

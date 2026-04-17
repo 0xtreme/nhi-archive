@@ -952,6 +952,260 @@
           "video-aGqFOxuYRT0"
         ]
       }
+    },
+    {
+      "id": "person-dennis-asberg",
+      "node_type": "person",
+      "label": "Dennis Åsberg",
+      "summary": "Swedish treasure hunter; on 2011-06-19 discovered a 60m-wide circular object 90m below the Baltic Sea surface — now known as the Baltic Sea Anomaly.",
+      "tags": [
+        "witness",
+        "investigator"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.485721+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aGqFOxuYRT0",
+          "timestamp_start": 601,
+          "quote": "Swedish treasure hunter; discovered Baltic Sea USO"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Asberg",
+          "Asber"
+        ],
+        "profession": "treasure hunter",
+        "notability_tags": [
+          "witness",
+          "investigator"
+        ]
+      }
+    },
+    {
+      "id": "incident-2011-baltic-sea-anomaly",
+      "node_type": "incident",
+      "label": "Baltic Sea Anomaly (USO)",
+      "summary": "Circular 60m-wide object discovered 90m below the Baltic Sea by Swedish treasure hunter Dennis Åsberg; breaks GPS, disables ROVs, emits gas/'milk'; struck by lightning; tracked by NATO ships. Not attached to seabed.",
+      "tags": [
+        "sighting"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.485723+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aGqFOxuYRT0",
+          "timestamp_start": 603,
+          "timestamp_end": "60m-wide object on Baltic seafloor with EM effects"
+        }
+      ],
+      "type_specific": {
+        "incident_type": "sighting",
+        "date_approximate": "2011-06-19"
+      }
+    },
+    {
+      "id": "location-baltic-sea",
+      "node_type": "location",
+      "label": "Baltic Sea",
+      "summary": "",
+      "tags": [
+        "region"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.485725+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aGqFOxuYRT0",
+          "timestamp_start": 607,
+          "timestamp_end": "Remote section of the Baltic Sea where the anomaly was found"
+        }
+      ],
+      "type_specific": {
+        "location_type": "region",
+        "country": "SE"
+      }
+    },
+    {
+      "id": "claim-aGqFOxuYRT0-asberg-60m-uso-discovery",
+      "node_type": "claim",
+      "label": "On June 19 2011 Dennis Åsberg's Ocean X crew discovered a 60m-wide circular object with straight 90°",
+      "summary": "On June 19 2011 Dennis Åsberg's Ocean X crew discovered a 60m-wide circular object with straight 90° corridors and flat walls sitting 90m below the Baltic Sea — it is not attached to the seabed (not natural geology).",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.507088+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aGqFOxuYRT0",
+          "timestamp_start": 603,
+          "quote": "It's round. And then we have these corridors. You have angles, 90 degree angles. It's not attached to the seabed floor. I have never seen anything like that before."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "On June 19 2011 Dennis Åsberg's Ocean X crew discovered a 60m-wide circular object with straight 90° corridors and flat walls sitting 90m below the Baltic Sea — it is not attached to the seabed (not natural geology).",
+        "asserted_by_id": "person-dennis-asberg",
+        "source_video_id": "aGqFOxuYRT0",
+        "timestamp_start_seconds": 603,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-dennis-asberg",
+          "incident-2011-baltic-sea-anomaly",
+          "location-baltic-sea"
+        ]
+      }
+    },
+    {
+      "id": "claim-aGqFOxuYRT0-asberg-em-anomalies-rov-dead",
+      "node_type": "claim",
+      "label": "Electromagnetic anomalies are rampant around the object — GPS fails, ROVs and drones stop working as",
+      "summary": "Electromagnetic anomalies are rampant around the object — GPS fails, ROVs and drones stop working as they near it.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.507105+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aGqFOxuYRT0",
+          "timestamp_start": 623,
+          "quote": "Electromagnetic anomalies are rampant around it. It breaks down GPS, subc rovers, drones. When we have used the ROV, the ROV stops working. We lost GPS very close to the object."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Electromagnetic anomalies are rampant around the object — GPS fails, ROVs and drones stop working as they near it.",
+        "asserted_by_id": "person-dennis-asberg",
+        "source_video_id": "aGqFOxuYRT0",
+        "timestamp_start_seconds": 623,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-dennis-asberg",
+          "incident-2011-baltic-sea-anomaly"
+        ]
+      }
+    },
+    {
+      "id": "claim-aGqFOxuYRT0-asberg-gas-emission-breathing",
+      "node_type": "claim",
+      "label": "The object visibly emits a milky gas from a hole — Åsberg describes it as 'like breathing' — near-bi",
+      "summary": "The object visibly emits a milky gas from a hole — Åsberg describes it as 'like breathing' — near-biological movement quality.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.507115+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aGqFOxuYRT0",
+          "timestamp_start": 637,
+          "quote": "We have video of smoke coming out of the water above the object as if it's fuming or emitting gas. Almost like a biological organism."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "The object visibly emits a milky gas from a hole — Åsberg describes it as 'like breathing' — near-biological movement quality.",
+        "asserted_by_id": "person-dennis-asberg",
+        "source_video_id": "aGqFOxuYRT0",
+        "timestamp_start_seconds": 637,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-dennis-asberg",
+          "incident-2011-baltic-sea-anomaly"
+        ]
+      }
+    },
+    {
+      "id": "claim-aGqFOxuYRT0-asberg-struck-by-lightning",
+      "node_type": "claim",
+      "label": "The Baltic anomaly was struck by lightning on-video — an extraordinarily unlikely natural coincidenc",
+      "summary": "The Baltic anomaly was struck by lightning on-video — an extraordinarily unlikely natural coincidence for a discrete object under water.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.507123+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aGqFOxuYRT0",
+          "timestamp_start": 657,
+          "quote": "It was literally struck by lightning, an occurrence often considered a high water mark for its unlikeliness."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "The Baltic anomaly was struck by lightning on-video — an extraordinarily unlikely natural coincidence for a discrete object under water.",
+        "asserted_by_id": "person-dennis-asberg",
+        "source_video_id": "aGqFOxuYRT0",
+        "timestamp_start_seconds": 657,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-dennis-asberg",
+          "incident-2011-baltic-sea-anomaly"
+        ]
+      }
+    },
+    {
+      "id": "claim-aGqFOxuYRT0-asberg-nato-tracking",
+      "node_type": "claim",
+      "label": "NATO ships encircled the Ocean X crew during their investigation; Åsberg confronted NATO headquarter",
+      "summary": "NATO ships encircled the Ocean X crew during their investigation; Åsberg confronted NATO headquarters in Stockholm with his footage and received no response.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.507134+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aGqFOxuYRT0",
+          "timestamp_start": 657,
+          "quote": "We also have video of NATO ships encircling this object and tracking Dennis's Ocean X crew in the middle of the Baltic Sea. I have filmed you. So I know you have been there. Nothing. You don't say anything."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "NATO ships encircled the Ocean X crew during their investigation; Åsberg confronted NATO headquarters in Stockholm with his footage and received no response.",
+        "asserted_by_id": "person-dennis-asberg",
+        "source_video_id": "aGqFOxuYRT0",
+        "timestamp_start_seconds": 657,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-dennis-asberg",
+          "incident-2011-baltic-sea-anomaly"
+        ]
+      }
     }
   ],
   "edges": [
@@ -1496,8 +1750,237 @@
           "timestamp_start": 0
         }
       ]
+    },
+    {
+      "id": "edge-person-dennis-asberg-ASSERTED-claim-aGqFOxuYRT0-asberg-60m-uso-discovery",
+      "from_node_id": "person-dennis-asberg",
+      "to_node_id": "claim-aGqFOxuYRT0-asberg-60m-uso-discovery",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aGqFOxuYRT0",
+          "timestamp_start": 603,
+          "quote": "On June 19 2011 Dennis Åsberg's Ocean X crew discovered a 60m-wide circular object with straight 90° corridors and flat walls sitting 90m below the Baltic Sea — it is not attached to the seabed (not n"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-aGqFOxuYRT0-REFERENCES-claim-aGqFOxuYRT0-asberg-60m-uso-discovery",
+      "from_node_id": "video-aGqFOxuYRT0",
+      "to_node_id": "claim-aGqFOxuYRT0-asberg-60m-uso-discovery",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aGqFOxuYRT0",
+          "timestamp_start": 603
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-aGqFOxuYRT0-asberg-60m-uso-discovery-REFERENCES-incident-2011-baltic-sea-anomaly",
+      "from_node_id": "claim-aGqFOxuYRT0-asberg-60m-uso-discovery",
+      "to_node_id": "incident-2011-baltic-sea-anomaly",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aGqFOxuYRT0",
+          "timestamp_start": 603
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-aGqFOxuYRT0-asberg-60m-uso-discovery-REFERENCES-location-baltic-sea",
+      "from_node_id": "claim-aGqFOxuYRT0-asberg-60m-uso-discovery",
+      "to_node_id": "location-baltic-sea",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aGqFOxuYRT0",
+          "timestamp_start": 603
+        }
+      ]
+    },
+    {
+      "id": "edge-person-dennis-asberg-ASSERTED-claim-aGqFOxuYRT0-asberg-em-anomalies-rov-dead",
+      "from_node_id": "person-dennis-asberg",
+      "to_node_id": "claim-aGqFOxuYRT0-asberg-em-anomalies-rov-dead",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aGqFOxuYRT0",
+          "timestamp_start": 623,
+          "quote": "Electromagnetic anomalies are rampant around the object — GPS fails, ROVs and drones stop working as they near it."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-aGqFOxuYRT0-REFERENCES-claim-aGqFOxuYRT0-asberg-em-anomalies-rov-dead",
+      "from_node_id": "video-aGqFOxuYRT0",
+      "to_node_id": "claim-aGqFOxuYRT0-asberg-em-anomalies-rov-dead",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aGqFOxuYRT0",
+          "timestamp_start": 623
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-aGqFOxuYRT0-asberg-em-anomalies-rov-dead-REFERENCES-incident-2011-baltic-sea-anomaly",
+      "from_node_id": "claim-aGqFOxuYRT0-asberg-em-anomalies-rov-dead",
+      "to_node_id": "incident-2011-baltic-sea-anomaly",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aGqFOxuYRT0",
+          "timestamp_start": 623
+        }
+      ]
+    },
+    {
+      "id": "edge-person-dennis-asberg-ASSERTED-claim-aGqFOxuYRT0-asberg-gas-emission-breathing",
+      "from_node_id": "person-dennis-asberg",
+      "to_node_id": "claim-aGqFOxuYRT0-asberg-gas-emission-breathing",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aGqFOxuYRT0",
+          "timestamp_start": 637,
+          "quote": "The object visibly emits a milky gas from a hole — Åsberg describes it as 'like breathing' — near-biological movement quality."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-aGqFOxuYRT0-REFERENCES-claim-aGqFOxuYRT0-asberg-gas-emission-breathing",
+      "from_node_id": "video-aGqFOxuYRT0",
+      "to_node_id": "claim-aGqFOxuYRT0-asberg-gas-emission-breathing",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aGqFOxuYRT0",
+          "timestamp_start": 637
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-aGqFOxuYRT0-asberg-gas-emission-breathing-REFERENCES-incident-2011-baltic-sea-anomaly",
+      "from_node_id": "claim-aGqFOxuYRT0-asberg-gas-emission-breathing",
+      "to_node_id": "incident-2011-baltic-sea-anomaly",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aGqFOxuYRT0",
+          "timestamp_start": 637
+        }
+      ]
+    },
+    {
+      "id": "edge-person-dennis-asberg-ASSERTED-claim-aGqFOxuYRT0-asberg-struck-by-lightning",
+      "from_node_id": "person-dennis-asberg",
+      "to_node_id": "claim-aGqFOxuYRT0-asberg-struck-by-lightning",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aGqFOxuYRT0",
+          "timestamp_start": 657,
+          "quote": "The Baltic anomaly was struck by lightning on-video — an extraordinarily unlikely natural coincidence for a discrete object under water."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-aGqFOxuYRT0-REFERENCES-claim-aGqFOxuYRT0-asberg-struck-by-lightning",
+      "from_node_id": "video-aGqFOxuYRT0",
+      "to_node_id": "claim-aGqFOxuYRT0-asberg-struck-by-lightning",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aGqFOxuYRT0",
+          "timestamp_start": 657
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-aGqFOxuYRT0-asberg-struck-by-lightning-REFERENCES-incident-2011-baltic-sea-anomaly",
+      "from_node_id": "claim-aGqFOxuYRT0-asberg-struck-by-lightning",
+      "to_node_id": "incident-2011-baltic-sea-anomaly",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aGqFOxuYRT0",
+          "timestamp_start": 657
+        }
+      ]
+    },
+    {
+      "id": "edge-person-dennis-asberg-ASSERTED-claim-aGqFOxuYRT0-asberg-nato-tracking",
+      "from_node_id": "person-dennis-asberg",
+      "to_node_id": "claim-aGqFOxuYRT0-asberg-nato-tracking",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aGqFOxuYRT0",
+          "timestamp_start": 657,
+          "quote": "NATO ships encircled the Ocean X crew during their investigation; Åsberg confronted NATO headquarters in Stockholm with his footage and received no response."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-aGqFOxuYRT0-REFERENCES-claim-aGqFOxuYRT0-asberg-nato-tracking",
+      "from_node_id": "video-aGqFOxuYRT0",
+      "to_node_id": "claim-aGqFOxuYRT0-asberg-nato-tracking",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aGqFOxuYRT0",
+          "timestamp_start": 657
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-aGqFOxuYRT0-asberg-nato-tracking-REFERENCES-incident-2011-baltic-sea-anomaly",
+      "from_node_id": "claim-aGqFOxuYRT0-asberg-nato-tracking",
+      "to_node_id": "incident-2011-baltic-sea-anomaly",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aGqFOxuYRT0",
+          "timestamp_start": 657
+        }
+      ]
     }
   ],
-  "extracted_at": "2026-04-17T11:04:19.239349+00:00",
+  "extracted_at": "2026-04-17T12:31:49.507141+00:00",
   "extractor_version": "v1-inline-claude"
 }

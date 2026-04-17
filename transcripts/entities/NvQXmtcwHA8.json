@@ -958,6 +958,318 @@
           "video-NvQXmtcwHA8"
         ]
       }
+    },
+    {
+      "id": "person-christopher-dunn",
+      "node_type": "person",
+      "label": "Christopher Dunn",
+      "summary": "Former aerospace engineer; Joe Rogan guest; author of 'The Giza Power Plant' proposing the Great Pyramid was an ancient energy-generation machine using granite chambers and quartz-resonant geometry.",
+      "tags": [
+        "engineer",
+        "author",
+        "researcher"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.687493+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "NvQXmtcwHA8",
+          "timestamp_start": 250,
+          "quote": "Aerospace engineer; pyramid-as-energy-machine proponent"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Dunn"
+        ],
+        "profession": "engineer",
+        "notability_tags": [
+          "engineer",
+          "author",
+          "researcher"
+        ]
+      }
+    },
+    {
+      "id": "person-jeffrey-drum",
+      "node_type": "person",
+      "label": "Jeffrey Drum",
+      "summary": "YouTube creator (Land of Chem channel); believes pyramids harnessed atmospheric electricity to produce hydrogen gas and ammonium-based compounds — industrial-scale ancient chemistry.",
+      "tags": [
+        "researcher",
+        "chemistry"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.687496+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "NvQXmtcwHA8",
+          "timestamp_start": 252,
+          "quote": "Land of Chem YouTuber; pyramid-as-atmospheric-chemistry proponent"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Drum"
+        ],
+        "profession": "researcher",
+        "notability_tags": [
+          "researcher",
+          "chemistry"
+        ]
+      }
+    },
+    {
+      "id": "person-jean-pierre-houdin",
+      "node_type": "person",
+      "label": "Jean-Pierre Houdin",
+      "summary": "French architect whose internal-spiraling-ramp hypothesis for Great Pyramid construction gained renewed interest after Scan Pyramids project detected unexplained internal voids.",
+      "tags": [
+        "architect"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.687498+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "NvQXmtcwHA8",
+          "timestamp_start": 244,
+          "quote": "French architect proposing internal-ramp pyramid construction theory"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Houdin"
+        ],
+        "profession": "architect",
+        "notability_tags": [
+          "architect"
+        ]
+      }
+    },
+    {
+      "id": "concept-pyramid-chemical-factory",
+      "node_type": "concept",
+      "label": "Pyramids as Chemical Factories (Drum)",
+      "summary": "Jeffrey Drum's hypothesis: each pyramid produces a specific chemical; the sequence of chemicals transforms one product into the next into the next — industrial-scale chemical manufacturing. Not just monuments but functional machines.",
+      "tags": [
+        "technology"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.687500+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "NvQXmtcwHA8",
+          "timestamp_start": 233,
+          "timestamp_end": "Drum's hypothesis: each pyramid produces specific chemical; sequence transforms products"
+        }
+      ],
+      "type_specific": {
+        "concept_domain": "technology"
+      }
+    },
+    {
+      "id": "concept-pyramid-as-energy-machine",
+      "node_type": "concept",
+      "label": "Pyramid as Ancient Energy Machine (Dunn)",
+      "summary": "Christopher Dunn's hypothesis that the Great Pyramid was designed as an ancient energy-generating machine — internal chambers + granite + resonant geometry + quartz crystals working together to produce power through vibration-based mechanisms.",
+      "tags": [
+        "technology"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.687502+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "NvQXmtcwHA8",
+          "timestamp_start": 250,
+          "timestamp_end": "Dunn's hypothesis: vibrations + quartz crystals generating power"
+        }
+      ],
+      "type_specific": {
+        "concept_domain": "technology"
+      }
+    },
+    {
+      "id": "claim-NvQXmtcwHA8-pyramid-tubes-coils-kilometer-deep",
+      "node_type": "claim",
+      "label": "If the SAR-Doppler findings are valid: tubular structures with coil-wrapped pillars extending a kilo",
+      "summary": "If the SAR-Doppler findings are valid: tubular structures with coil-wrapped pillars extending a kilometer deep with a foundation beneath — there is no physically plausible explanation for how ancient civilization could have built this.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.702938+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "NvQXmtcwHA8",
+          "timestamp_start": 234,
+          "quote": "If we do have tubular structures, pillars with coils wrapping around them that go a kilometer deep with a foundation underneath them, that's insane. There's no physical way that these could possibly have been built. Then I'm going with aliens, right?"
+        }
+      ],
+      "type_specific": {
+        "statement_text": "If the SAR-Doppler findings are valid: tubular structures with coil-wrapped pillars extending a kilometer deep with a foundation beneath — there is no physically plausible explanation for how ancient civilization could have built this.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "NvQXmtcwHA8",
+        "timestamp_start_seconds": 234,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "concept-giza-subterranean-tubes",
+          "concept-photon-phonon-sar"
+        ]
+      }
+    },
+    {
+      "id": "claim-NvQXmtcwHA8-pyramid-fossilized-lightning-iron-veins",
+      "node_type": "claim",
+      "label": "Electrical phenomenon documented inside pyramid — fossilized lightning through iron veins. There is ",
+      "summary": "Electrical phenomenon documented inside pyramid — fossilized lightning through iron veins. There is 'something that can't be disclosed' about the Pais-like lack-of-signature inside the pyramid.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.702952+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "NvQXmtcwHA8",
+          "timestamp_start": 226,
+          "quote": "There is also electricity inside this — fossilized lightning through these iron veins. What is creating the lack of signature here? There is something I can't disclose it now."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Electrical phenomenon documented inside pyramid — fossilized lightning through iron veins. There is 'something that can't be disclosed' about the Pais-like lack-of-signature inside the pyramid.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "NvQXmtcwHA8",
+        "timestamp_start_seconds": 226,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "concept-pyramid-as-energy-machine"
+        ]
+      }
+    },
+    {
+      "id": "claim-NvQXmtcwHA8-dunn-pyramid-quartz-resonance",
+      "node_type": "claim",
+      "label": "Dunn's Giza Power Plant hypothesis: internal chambers, granite structures, and resonant geometry wor",
+      "summary": "Dunn's Giza Power Plant hypothesis: internal chambers, granite structures, and resonant geometry worked together generating power through vibrations interacting with quartz crystals inside the stone.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.702960+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "NvQXmtcwHA8",
+          "timestamp_start": 250,
+          "quote": "Christopher Dunn proposed that the Great Pyramid might have functioned as an ancient energy machine. The pyramid's internal chambers, granite structures, and resonant geometry may have all worked together to generate power, possibly through vibrations interacting with quartz crystals inside the stone."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Dunn's Giza Power Plant hypothesis: internal chambers, granite structures, and resonant geometry worked together generating power through vibrations interacting with quartz crystals inside the stone.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "NvQXmtcwHA8",
+        "timestamp_start_seconds": 250,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-christopher-dunn",
+          "concept-pyramid-as-energy-machine"
+        ]
+      }
+    },
+    {
+      "id": "claim-NvQXmtcwHA8-drum-pyramid-hydrogen-ammonium",
+      "node_type": "claim",
+      "label": "Per Jeffrey Drum: pyramids harnessed atmospheric electricity to produce hydrogen gas and ammonium-ba",
+      "summary": "Per Jeffrey Drum: pyramids harnessed atmospheric electricity to produce hydrogen gas and ammonium-based compounds — industrial-scale ancient chemical manufacturing rather than electricity generation.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.702968+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "NvQXmtcwHA8",
+          "timestamp_start": 253,
+          "quote": "Jeffrey Drum, who runs Land of Chem YouTube channel, believes the pyramids weren't producing electricity at all. They were harnessing atmospheric electricity and producing hydrogen gas and ammonium based compounds."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Per Jeffrey Drum: pyramids harnessed atmospheric electricity to produce hydrogen gas and ammonium-based compounds — industrial-scale ancient chemical manufacturing rather than electricity generation.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "NvQXmtcwHA8",
+        "timestamp_start_seconds": 253,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-jeffrey-drum",
+          "concept-pyramid-chemical-factory"
+        ]
+      }
+    },
+    {
+      "id": "claim-NvQXmtcwHA8-houdin-internal-ramp-voids",
+      "node_type": "claim",
+      "label": "French architect Jean-Pierre Houdin's internal-spiraling-ramp pyramid-construction hypothesis gained",
+      "summary": "French architect Jean-Pierre Houdin's internal-spiraling-ramp pyramid-construction hypothesis gained renewed traction after Scan Pyramids project detected unexplained voids inside the Great Pyramid.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.702976+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "NvQXmtcwHA8",
+          "timestamp_start": 244,
+          "quote": "Jean Pierre Houdan suggests that an internal ramp spiraling within the pyramid structure itself carried the blocks. This idea gained renewed interest after the scan pyramids project detected unexplained voids inside the great pyramid."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "French architect Jean-Pierre Houdin's internal-spiraling-ramp pyramid-construction hypothesis gained renewed traction after Scan Pyramids project detected unexplained voids inside the Great Pyramid.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "NvQXmtcwHA8",
+        "timestamp_start_seconds": 244,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-jean-pierre-houdin"
+        ]
+      }
     }
   ],
   "edges": [
@@ -1472,8 +1784,265 @@
           "timestamp_start": 0
         }
       ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-NvQXmtcwHA8-pyramid-tubes-coils-kilometer-deep",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-NvQXmtcwHA8-pyramid-tubes-coils-kilometer-deep",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "NvQXmtcwHA8",
+          "timestamp_start": 234,
+          "quote": "If the SAR-Doppler findings are valid: tubular structures with coil-wrapped pillars extending a kilometer deep with a foundation beneath — there is no physically plausible explanation for how ancient "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-NvQXmtcwHA8-REFERENCES-claim-NvQXmtcwHA8-pyramid-tubes-coils-kilometer-deep",
+      "from_node_id": "video-NvQXmtcwHA8",
+      "to_node_id": "claim-NvQXmtcwHA8-pyramid-tubes-coils-kilometer-deep",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "NvQXmtcwHA8",
+          "timestamp_start": 234
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-NvQXmtcwHA8-pyramid-tubes-coils-kilometer-deep-REFERENCES-concept-giza-subterranean-tubes",
+      "from_node_id": "claim-NvQXmtcwHA8-pyramid-tubes-coils-kilometer-deep",
+      "to_node_id": "concept-giza-subterranean-tubes",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "NvQXmtcwHA8",
+          "timestamp_start": 234
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-NvQXmtcwHA8-pyramid-tubes-coils-kilometer-deep-REFERENCES-concept-photon-phonon-sar",
+      "from_node_id": "claim-NvQXmtcwHA8-pyramid-tubes-coils-kilometer-deep",
+      "to_node_id": "concept-photon-phonon-sar",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "NvQXmtcwHA8",
+          "timestamp_start": 234
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-NvQXmtcwHA8-pyramid-fossilized-lightning-iron-veins",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-NvQXmtcwHA8-pyramid-fossilized-lightning-iron-veins",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "NvQXmtcwHA8",
+          "timestamp_start": 226,
+          "quote": "Electrical phenomenon documented inside pyramid — fossilized lightning through iron veins. There is 'something that can't be disclosed' about the Pais-like lack-of-signature inside the pyramid."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-NvQXmtcwHA8-REFERENCES-claim-NvQXmtcwHA8-pyramid-fossilized-lightning-iron-veins",
+      "from_node_id": "video-NvQXmtcwHA8",
+      "to_node_id": "claim-NvQXmtcwHA8-pyramid-fossilized-lightning-iron-veins",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "NvQXmtcwHA8",
+          "timestamp_start": 226
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-NvQXmtcwHA8-pyramid-fossilized-lightning-iron-veins-REFERENCES-concept-pyramid-as-energy-machine",
+      "from_node_id": "claim-NvQXmtcwHA8-pyramid-fossilized-lightning-iron-veins",
+      "to_node_id": "concept-pyramid-as-energy-machine",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "NvQXmtcwHA8",
+          "timestamp_start": 226
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-NvQXmtcwHA8-dunn-pyramid-quartz-resonance",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-NvQXmtcwHA8-dunn-pyramid-quartz-resonance",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "NvQXmtcwHA8",
+          "timestamp_start": 250,
+          "quote": "Dunn's Giza Power Plant hypothesis: internal chambers, granite structures, and resonant geometry worked together generating power through vibrations interacting with quartz crystals inside the stone."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-NvQXmtcwHA8-REFERENCES-claim-NvQXmtcwHA8-dunn-pyramid-quartz-resonance",
+      "from_node_id": "video-NvQXmtcwHA8",
+      "to_node_id": "claim-NvQXmtcwHA8-dunn-pyramid-quartz-resonance",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "NvQXmtcwHA8",
+          "timestamp_start": 250
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-NvQXmtcwHA8-dunn-pyramid-quartz-resonance-REFERENCES-person-christopher-dunn",
+      "from_node_id": "claim-NvQXmtcwHA8-dunn-pyramid-quartz-resonance",
+      "to_node_id": "person-christopher-dunn",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "NvQXmtcwHA8",
+          "timestamp_start": 250
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-NvQXmtcwHA8-dunn-pyramid-quartz-resonance-REFERENCES-concept-pyramid-as-energy-machine",
+      "from_node_id": "claim-NvQXmtcwHA8-dunn-pyramid-quartz-resonance",
+      "to_node_id": "concept-pyramid-as-energy-machine",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "NvQXmtcwHA8",
+          "timestamp_start": 250
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-NvQXmtcwHA8-drum-pyramid-hydrogen-ammonium",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-NvQXmtcwHA8-drum-pyramid-hydrogen-ammonium",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "NvQXmtcwHA8",
+          "timestamp_start": 253,
+          "quote": "Per Jeffrey Drum: pyramids harnessed atmospheric electricity to produce hydrogen gas and ammonium-based compounds — industrial-scale ancient chemical manufacturing rather than electricity generation."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-NvQXmtcwHA8-REFERENCES-claim-NvQXmtcwHA8-drum-pyramid-hydrogen-ammonium",
+      "from_node_id": "video-NvQXmtcwHA8",
+      "to_node_id": "claim-NvQXmtcwHA8-drum-pyramid-hydrogen-ammonium",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "NvQXmtcwHA8",
+          "timestamp_start": 253
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-NvQXmtcwHA8-drum-pyramid-hydrogen-ammonium-REFERENCES-person-jeffrey-drum",
+      "from_node_id": "claim-NvQXmtcwHA8-drum-pyramid-hydrogen-ammonium",
+      "to_node_id": "person-jeffrey-drum",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "NvQXmtcwHA8",
+          "timestamp_start": 253
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-NvQXmtcwHA8-drum-pyramid-hydrogen-ammonium-REFERENCES-concept-pyramid-chemical-factory",
+      "from_node_id": "claim-NvQXmtcwHA8-drum-pyramid-hydrogen-ammonium",
+      "to_node_id": "concept-pyramid-chemical-factory",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "NvQXmtcwHA8",
+          "timestamp_start": 253
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-NvQXmtcwHA8-houdin-internal-ramp-voids",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-NvQXmtcwHA8-houdin-internal-ramp-voids",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "NvQXmtcwHA8",
+          "timestamp_start": 244,
+          "quote": "French architect Jean-Pierre Houdin's internal-spiraling-ramp pyramid-construction hypothesis gained renewed traction after Scan Pyramids project detected unexplained voids inside the Great Pyramid."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-NvQXmtcwHA8-REFERENCES-claim-NvQXmtcwHA8-houdin-internal-ramp-voids",
+      "from_node_id": "video-NvQXmtcwHA8",
+      "to_node_id": "claim-NvQXmtcwHA8-houdin-internal-ramp-voids",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "NvQXmtcwHA8",
+          "timestamp_start": 244
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-NvQXmtcwHA8-houdin-internal-ramp-voids-REFERENCES-person-jean-pierre-houdin",
+      "from_node_id": "claim-NvQXmtcwHA8-houdin-internal-ramp-voids",
+      "to_node_id": "person-jean-pierre-houdin",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "NvQXmtcwHA8",
+          "timestamp_start": 244
+        }
+      ]
     }
   ],
-  "extracted_at": "2026-04-17T11:04:54.210740+00:00",
+  "extracted_at": "2026-04-17T13:21:38.702983+00:00",
   "extractor_version": "v1-inline-claude"
 }

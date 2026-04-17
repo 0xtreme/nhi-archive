@@ -1442,6 +1442,235 @@
           "video--0g3lLGxNfc"
         ]
       }
+    },
+    {
+      "id": "concept-30-missiles-lost-to-ufos-1966-67",
+      "node_type": "concept",
+      "label": "30 Missiles Lost to UFO Activity Sep 1966-Mar 1967",
+      "summary": "Per Robert Salas: between September 1966 and March 1967, the US Air Force lost 30 nuclear missiles to UFO activity. March 24 1967 Malmstrom incident was one of several.",
+      "tags": [
+        "politics"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.111809+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "-0g3lLGxNfc",
+          "timestamp_start": 356,
+          "timestamp_end": "Salas claim: 30 nuclear missiles lost to UFO activity 1966-1967"
+        }
+      ],
+      "type_specific": {
+        "concept_domain": "politics"
+      }
+    },
+    {
+      "id": "person-bob-jameson",
+      "node_type": "person",
+      "label": "Bob Jameson",
+      "summary": "USAF colleague of Robert Salas present at the March 24 1967 Malmstrom incident; corroborated Salas' testimony on record with Larry King.",
+      "tags": [
+        "witness",
+        "Malmstrom",
+        "USAF"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.111849+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "-0g3lLGxNfc",
+          "timestamp_start": 52,
+          "quote": "Colleague of Robert Salas who corroborated 1967 Malmstrom UFO event"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Jameson"
+        ],
+        "profession": "military veteran",
+        "notability_tags": [
+          "witness",
+          "Malmstrom",
+          "USAF"
+        ]
+      }
+    },
+    {
+      "id": "claim--0g3lLGxNfc-salas-march-24-1967-10-missiles",
+      "node_type": "claim",
+      "label": "March 24 1967 Malmstrom: Robert Salas (missile launch officer 60ft underground) received a call from",
+      "summary": "March 24 1967 Malmstrom: Robert Salas (missile launch officer 60ft underground) received a call from a 'screaming, frightened' topside guard about a red orange pulsating UFO hovering just above the front gate; one missile went off alert, then all 10 went down one at a time.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.131931+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "-0g3lLGxNfc",
+          "timestamp_start": 341,
+          "quote": "They said 'we got all the guards out. They've got their weapons pointed at this red orange pulsating light.' One of the missiles went off alert status. And right after that one went down, all of them went down one at a time."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "March 24 1967 Malmstrom: Robert Salas (missile launch officer 60ft underground) received a call from a 'screaming, frightened' topside guard about a red orange pulsating UFO hovering just above the front gate; one missile went off alert, then all 10 went down one at a time.",
+        "asserted_by_id": "person-robert-salas",
+        "source_video_id": "-0g3lLGxNfc",
+        "timestamp_start_seconds": 341,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-robert-salas",
+          "incident-1967-malmstrom-missiles",
+          "person-bob-jameson"
+        ]
+      }
+    },
+    {
+      "id": "claim--0g3lLGxNfc-salas-30-missiles-lost-67",
+      "node_type": "claim",
+      "label": "Salas claims between September 1966 and March 1967 the US lost 30 nuclear missiles to UFO activity —",
+      "summary": "Salas claims between September 1966 and March 1967 the US lost 30 nuclear missiles to UFO activity — pattern not an isolated event.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.131943+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "-0g3lLGxNfc",
+          "timestamp_start": 356,
+          "quote": "Between September of '66 and March of '67, we lost 30 missiles to UFO activity. 30. 30."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Salas claims between September 1966 and March 1967 the US lost 30 nuclear missiles to UFO activity — pattern not an isolated event.",
+        "asserted_by_id": "person-robert-salas",
+        "source_video_id": "-0g3lLGxNfc",
+        "timestamp_start_seconds": 356,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-robert-salas",
+          "concept-30-missiles-lost-to-ufos-1966-67"
+        ]
+      }
+    },
+    {
+      "id": "claim--0g3lLGxNfc-salas-wsj-hit-piece-nuclear-deterrence",
+      "node_type": "claim",
+      "label": "Salas reframes WSJ hit piece motive: 'Nuclear deterrence is the backbone of our national security. Y",
+      "summary": "Salas reframes WSJ hit piece motive: 'Nuclear deterrence is the backbone of our national security. You have Xi and Putin closer than they've ever been. Iran-Israel is really a proxy war for this larger global conflict. That could be a failed state at any moment.'",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.131950+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "-0g3lLGxNfc",
+          "timestamp_start": 346,
+          "quote": "Well, nuclear deterrence is the backbone of our national security. You have Xi and Putin closer than they've ever been. Iran and Israel is really a proxy war for this larger global conflict. You have Pakistan having nukes."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Salas reframes WSJ hit piece motive: 'Nuclear deterrence is the backbone of our national security. You have Xi and Putin closer than they've ever been. Iran-Israel is really a proxy war for this larger global conflict. That could be a failed state at any moment.'",
+        "asserted_by_id": "person-robert-salas",
+        "source_video_id": "-0g3lLGxNfc",
+        "timestamp_start_seconds": 346,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-robert-salas"
+        ]
+      }
+    },
+    {
+      "id": "claim--0g3lLGxNfc-salas-explicit-disclosure-brink-crisis",
+      "node_type": "claim",
+      "label": "Salas: 'If there was ever an explicit disclosure moment, it might occur around us being on the brink",
+      "summary": "Salas: 'If there was ever an explicit disclosure moment, it might occur around us being on the brink. If you have another kind of Cuban missile crisis' — weaponizing UAP disclosure as tension-release mechanism.",
+      "tags": [
+        "speculation",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.131960+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "-0g3lLGxNfc",
+          "timestamp_start": 353,
+          "quote": "If there was ever an explicit disclosure moment, it might occur around us being on the brink. If you have another kind of Cuban missile crisis between superpowers."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Salas: 'If there was ever an explicit disclosure moment, it might occur around us being on the brink. If you have another kind of Cuban missile crisis' — weaponizing UAP disclosure as tension-release mechanism.",
+        "asserted_by_id": "person-robert-salas",
+        "source_video_id": "-0g3lLGxNfc",
+        "timestamp_start_seconds": 353,
+        "assertability": "speculation",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-robert-salas",
+          "concept-disclosure"
+        ]
+      }
+    },
+    {
+      "id": "claim--0g3lLGxNfc-jameson-backed-salas-larry-king",
+      "node_type": "claim",
+      "label": "Bob Jameson — Salas' USAF colleague present at the March 24 1967 Malmstrom event — backed up Salas' ",
+      "summary": "Bob Jameson — Salas' USAF colleague present at the March 24 1967 Malmstrom event — backed up Salas' testimony on record in a Larry King interview; independent corroboration.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.131968+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "-0g3lLGxNfc",
+          "timestamp_start": 52,
+          "quote": "Salas even had a colleague present named Bob Jameson who backed up his testimony on record with Larry King."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Bob Jameson — Salas' USAF colleague present at the March 24 1967 Malmstrom event — backed up Salas' testimony on record in a Larry King interview; independent corroboration.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "-0g3lLGxNfc",
+        "timestamp_start_seconds": 52,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-bob-jameson",
+          "person-robert-salas",
+          "incident-1967-malmstrom-missiles"
+        ]
+      }
     }
   ],
   "edges": [
@@ -2274,8 +2503,251 @@
           "timestamp_start": 0
         }
       ]
+    },
+    {
+      "id": "edge-person-robert-salas-ASSERTED-claim--0g3lLGxNfc-salas-march-24-1967-10-missiles",
+      "from_node_id": "person-robert-salas",
+      "to_node_id": "claim--0g3lLGxNfc-salas-march-24-1967-10-missiles",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "-0g3lLGxNfc",
+          "timestamp_start": 341,
+          "quote": "March 24 1967 Malmstrom: Robert Salas (missile launch officer 60ft underground) received a call from a 'screaming, frightened' topside guard about a red orange pulsating UFO hovering just above the fr"
+        }
+      ]
+    },
+    {
+      "id": "edge-video--0g3lLGxNfc-REFERENCES-claim--0g3lLGxNfc-salas-march-24-1967-10-missiles",
+      "from_node_id": "video--0g3lLGxNfc",
+      "to_node_id": "claim--0g3lLGxNfc-salas-march-24-1967-10-missiles",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "-0g3lLGxNfc",
+          "timestamp_start": 341
+        }
+      ]
+    },
+    {
+      "id": "edge-claim--0g3lLGxNfc-salas-march-24-1967-10-missiles-REFERENCES-incident-1967-malmstrom-missiles",
+      "from_node_id": "claim--0g3lLGxNfc-salas-march-24-1967-10-missiles",
+      "to_node_id": "incident-1967-malmstrom-missiles",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "-0g3lLGxNfc",
+          "timestamp_start": 341
+        }
+      ]
+    },
+    {
+      "id": "edge-claim--0g3lLGxNfc-salas-march-24-1967-10-missiles-REFERENCES-person-bob-jameson",
+      "from_node_id": "claim--0g3lLGxNfc-salas-march-24-1967-10-missiles",
+      "to_node_id": "person-bob-jameson",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "-0g3lLGxNfc",
+          "timestamp_start": 341
+        }
+      ]
+    },
+    {
+      "id": "edge-person-robert-salas-ASSERTED-claim--0g3lLGxNfc-salas-30-missiles-lost-67",
+      "from_node_id": "person-robert-salas",
+      "to_node_id": "claim--0g3lLGxNfc-salas-30-missiles-lost-67",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "-0g3lLGxNfc",
+          "timestamp_start": 356,
+          "quote": "Salas claims between September 1966 and March 1967 the US lost 30 nuclear missiles to UFO activity — pattern not an isolated event."
+        }
+      ]
+    },
+    {
+      "id": "edge-video--0g3lLGxNfc-REFERENCES-claim--0g3lLGxNfc-salas-30-missiles-lost-67",
+      "from_node_id": "video--0g3lLGxNfc",
+      "to_node_id": "claim--0g3lLGxNfc-salas-30-missiles-lost-67",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "-0g3lLGxNfc",
+          "timestamp_start": 356
+        }
+      ]
+    },
+    {
+      "id": "edge-claim--0g3lLGxNfc-salas-30-missiles-lost-67-REFERENCES-concept-30-missiles-lost-to-ufos-1966-67",
+      "from_node_id": "claim--0g3lLGxNfc-salas-30-missiles-lost-67",
+      "to_node_id": "concept-30-missiles-lost-to-ufos-1966-67",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "-0g3lLGxNfc",
+          "timestamp_start": 356
+        }
+      ]
+    },
+    {
+      "id": "edge-person-robert-salas-ASSERTED-claim--0g3lLGxNfc-salas-wsj-hit-piece-nuclear-deterrence",
+      "from_node_id": "person-robert-salas",
+      "to_node_id": "claim--0g3lLGxNfc-salas-wsj-hit-piece-nuclear-deterrence",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "-0g3lLGxNfc",
+          "timestamp_start": 346,
+          "quote": "Salas reframes WSJ hit piece motive: 'Nuclear deterrence is the backbone of our national security. You have Xi and Putin closer than they've ever been. Iran-Israel is really a proxy war for this large"
+        }
+      ]
+    },
+    {
+      "id": "edge-video--0g3lLGxNfc-REFERENCES-claim--0g3lLGxNfc-salas-wsj-hit-piece-nuclear-deterrence",
+      "from_node_id": "video--0g3lLGxNfc",
+      "to_node_id": "claim--0g3lLGxNfc-salas-wsj-hit-piece-nuclear-deterrence",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "-0g3lLGxNfc",
+          "timestamp_start": 346
+        }
+      ]
+    },
+    {
+      "id": "edge-person-robert-salas-ASSERTED-claim--0g3lLGxNfc-salas-explicit-disclosure-brink-crisis",
+      "from_node_id": "person-robert-salas",
+      "to_node_id": "claim--0g3lLGxNfc-salas-explicit-disclosure-brink-crisis",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "-0g3lLGxNfc",
+          "timestamp_start": 353,
+          "quote": "Salas: 'If there was ever an explicit disclosure moment, it might occur around us being on the brink. If you have another kind of Cuban missile crisis' — weaponizing UAP disclosure as tension-release "
+        }
+      ]
+    },
+    {
+      "id": "edge-video--0g3lLGxNfc-REFERENCES-claim--0g3lLGxNfc-salas-explicit-disclosure-brink-crisis",
+      "from_node_id": "video--0g3lLGxNfc",
+      "to_node_id": "claim--0g3lLGxNfc-salas-explicit-disclosure-brink-crisis",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "-0g3lLGxNfc",
+          "timestamp_start": 353
+        }
+      ]
+    },
+    {
+      "id": "edge-claim--0g3lLGxNfc-salas-explicit-disclosure-brink-crisis-REFERENCES-concept-disclosure",
+      "from_node_id": "claim--0g3lLGxNfc-salas-explicit-disclosure-brink-crisis",
+      "to_node_id": "concept-disclosure",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "-0g3lLGxNfc",
+          "timestamp_start": 353
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim--0g3lLGxNfc-jameson-backed-salas-larry-king",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim--0g3lLGxNfc-jameson-backed-salas-larry-king",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "-0g3lLGxNfc",
+          "timestamp_start": 52,
+          "quote": "Bob Jameson — Salas' USAF colleague present at the March 24 1967 Malmstrom event — backed up Salas' testimony on record in a Larry King interview; independent corroboration."
+        }
+      ]
+    },
+    {
+      "id": "edge-video--0g3lLGxNfc-REFERENCES-claim--0g3lLGxNfc-jameson-backed-salas-larry-king",
+      "from_node_id": "video--0g3lLGxNfc",
+      "to_node_id": "claim--0g3lLGxNfc-jameson-backed-salas-larry-king",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "-0g3lLGxNfc",
+          "timestamp_start": 52
+        }
+      ]
+    },
+    {
+      "id": "edge-claim--0g3lLGxNfc-jameson-backed-salas-larry-king-REFERENCES-person-bob-jameson",
+      "from_node_id": "claim--0g3lLGxNfc-jameson-backed-salas-larry-king",
+      "to_node_id": "person-bob-jameson",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "-0g3lLGxNfc",
+          "timestamp_start": 52
+        }
+      ]
+    },
+    {
+      "id": "edge-claim--0g3lLGxNfc-jameson-backed-salas-larry-king-REFERENCES-person-robert-salas",
+      "from_node_id": "claim--0g3lLGxNfc-jameson-backed-salas-larry-king",
+      "to_node_id": "person-robert-salas",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "-0g3lLGxNfc",
+          "timestamp_start": 52
+        }
+      ]
+    },
+    {
+      "id": "edge-claim--0g3lLGxNfc-jameson-backed-salas-larry-king-REFERENCES-incident-1967-malmstrom-missiles",
+      "from_node_id": "claim--0g3lLGxNfc-jameson-backed-salas-larry-king",
+      "to_node_id": "incident-1967-malmstrom-missiles",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "-0g3lLGxNfc",
+          "timestamp_start": 52
+        }
+      ]
     }
   ],
-  "extracted_at": "2026-04-17T11:05:06.737960+00:00",
+  "extracted_at": "2026-04-17T23:20:40.131976+00:00",
   "extractor_version": "v1-inline-claude"
 }

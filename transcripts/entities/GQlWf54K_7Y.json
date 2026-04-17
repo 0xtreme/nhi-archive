@@ -1849,6 +1849,262 @@
           "video-GQlWf54K_7Y"
         ]
       }
+    },
+    {
+      "id": "person-richard-dolan-extended",
+      "node_type": "person",
+      "label": "Richard Dolan (extended)",
+      "summary": "American UFO historian; two unfinished history PhDs (German diplomatic history / US national security strategy 1950). Left academia after reading Timothy Good's 'Above Top Secret' in 1994 at age ~32. Author of UFOs and the National Security State.",
+      "tags": [
+        "historian",
+        "researcher",
+        "author"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.687177+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 13,
+          "quote": "UFO historian; UFOs and the National Security State; PhD-level academic exit"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Dolan"
+        ],
+        "profession": "historian",
+        "notability_tags": [
+          "historian",
+          "researcher",
+          "author"
+        ]
+      }
+    },
+    {
+      "id": "person-james-forrestal",
+      "node_type": "person",
+      "label": "James Forrestal",
+      "summary": "First US Secretary of Defense (1947-1949). Developed unusual nervous tics; reported being followed by 'strange foreign-looking men'; drank only distilled water. Died May 1949 — official ruling suicide via 16th-floor hospital window; Dolan argues 'two big tough Navy guys grabbed him and threw him out the window.'",
+      "tags": [
+        "DoD",
+        "historical",
+        "UFO-related death"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.687419+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 8,
+          "quote": "First US Secretary of Defense; died May 1949 under suspicious circumstances"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Forrestal",
+          "Forrestal Defense Secretary"
+        ],
+        "profession": "politician",
+        "notability_tags": [
+          "DoD",
+          "historical",
+          "UFO-related death"
+        ]
+      }
+    },
+    {
+      "id": "incident-forrestal-1949-death",
+      "node_type": "incident",
+      "label": "James Forrestal 'Suicide' (1949)",
+      "summary": "May 22 1949: James Forrestal, first US Secretary of Defense, dies falling from 16th floor Bethesda naval hospital. Official ruling: suicide. Dolan asserts he was thrown by Navy men — his nervous ticks and statements about being followed preceded UFO-era discussions.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.687424+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 8,
+          "timestamp_end": "First SecDef murder framed as suicide per Dolan"
+        }
+      ],
+      "type_specific": {
+        "incident_type": "other",
+        "date_approximate": "1949-05-22"
+      }
+    },
+    {
+      "id": "document-above-top-secret-timothy-good",
+      "node_type": "document",
+      "label": "Above Top Secret (Timothy Good)",
+      "summary": "Timothy Good's seminal 1987 UFO book 'Above Top Secret: The Worldwide UFO Cover-Up' — the book that drew Richard Dolan out of academia into UFO research.",
+      "tags": [
+        "book"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.687431+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 27,
+          "timestamp_end": "Timothy Good's 1987 foundational UFO investigative work"
+        }
+      ],
+      "type_specific": {
+        "document_type": "book",
+        "author": "Timothy Good",
+        "publication_year": 1987
+      }
+    },
+    {
+      "id": "claim-GQlWf54K_7Y-dolan-forrestal-thrown-not-suicide",
+      "node_type": "claim",
+      "label": "Per Dolan: two Navy men grabbed Forrestal and threw him out the 16th-floor window — his 'suicide' wa",
+      "summary": "Per Dolan: two Navy men grabbed Forrestal and threw him out the 16th-floor window — his 'suicide' was murder, linked to UFO-era secrecy he was opposing.",
+      "tags": [
+        "speculation",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.688721+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 9,
+          "quote": "A couple of big tough Navy guys grab him and throw him the hell out the window. I'm absolutely convinced that's what happened."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Per Dolan: two Navy men grabbed Forrestal and threw him out the 16th-floor window — his 'suicide' was murder, linked to UFO-era secrecy he was opposing.",
+        "asserted_by_id": "person-richard-dolan-extended",
+        "source_video_id": "GQlWf54K_7Y",
+        "timestamp_start_seconds": 9,
+        "assertability": "speculation",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-richard-dolan-extended",
+          "person-james-forrestal",
+          "incident-forrestal-1949-death"
+        ]
+      }
+    },
+    {
+      "id": "claim-GQlWf54K_7Y-dolan-1980s-flood-the-zone-strategy",
+      "node_type": "claim",
+      "label": "Dolan characterizes US UAP information strategy shift in the 1980s: from secrecy/denial to 'flood th",
+      "summary": "Dolan characterizes US UAP information strategy shift in the 1980s: from secrecy/denial to 'flood the zone' — pushing out many partial truths simultaneously to obscure core truth rather than deny.",
+      "tags": [
+        "speculation",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.688745+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 11,
+          "quote": "In the 80s it felt like maybe the US moved from a strategy of secrecy and denial to flood the zone. Flood the zone doesn't mean put out BS. It means put out partial truths and put out a lot."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Dolan characterizes US UAP information strategy shift in the 1980s: from secrecy/denial to 'flood the zone' — pushing out many partial truths simultaneously to obscure core truth rather than deny.",
+        "asserted_by_id": "person-richard-dolan-extended",
+        "source_video_id": "GQlWf54K_7Y",
+        "timestamp_start_seconds": 11,
+        "assertability": "speculation",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-richard-dolan-extended"
+        ]
+      }
+    },
+    {
+      "id": "claim-GQlWf54K_7Y-dolan-1825-sea-orange-sphere-diary",
+      "node_type": "claim",
+      "label": "Dolan cites 1825-08-12 ship diary: at 3:30 AM night watch reported an orange spherical object rising",
+      "summary": "Dolan cites 1825-08-12 ship diary: at 3:30 AM night watch reported an orange spherical object rising from the ocean — centuries-old evidence of the UAP-from-water phenomenon.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.688754+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 13,
+          "quote": "He writes in his diary at 3:30 a.m. on August 12th, 1825 — the Night Watch reported this orange spherical object rise from the ocean."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Dolan cites 1825-08-12 ship diary: at 3:30 AM night watch reported an orange spherical object rising from the ocean — centuries-old evidence of the UAP-from-water phenomenon.",
+        "asserted_by_id": "person-richard-dolan-extended",
+        "source_video_id": "GQlWf54K_7Y",
+        "timestamp_start_seconds": 13,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-richard-dolan-extended",
+          "concept-underwater-uap-bases-hypothesis"
+        ]
+      }
+    },
+    {
+      "id": "claim-GQlWf54K_7Y-dolan-timothy-good-1994-academic-exit",
+      "node_type": "claim",
+      "label": "Dolan's academic exit catalyst: reading Timothy Good's 'Above Top Secret' in 1994 at age ~32 — two y",
+      "summary": "Dolan's academic exit catalyst: reading Timothy Good's 'Above Top Secret' in 1994 at age ~32 — two years obsessed in bed staring at the ceiling with 'if then' questions about Truman, Eisenhower, Kennedy administrations he had been studying.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.688763+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 27,
+          "quote": "I saw a copy of Timothy Good's Above Top Secret. My question was simply: how come I never read about it in any academic history book? I left the University of Rochester. For an entire year I'd lie in bed staring at the ceiling thinking all of these if-thens."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Dolan's academic exit catalyst: reading Timothy Good's 'Above Top Secret' in 1994 at age ~32 — two years obsessed in bed staring at the ceiling with 'if then' questions about Truman, Eisenhower, Kennedy administrations he had been studying.",
+        "asserted_by_id": "person-richard-dolan-extended",
+        "source_video_id": "GQlWf54K_7Y",
+        "timestamp_start_seconds": 27,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-richard-dolan-extended",
+          "document-above-top-secret-timothy-good"
+        ]
+      }
     }
   ],
   "edges": [
@@ -2876,8 +3132,180 @@
           "timestamp_start": 0
         }
       ]
+    },
+    {
+      "id": "edge-person-richard-dolan-extended-ASSERTED-claim-GQlWf54K_7Y-dolan-forrestal-thrown-not-suicide",
+      "from_node_id": "person-richard-dolan-extended",
+      "to_node_id": "claim-GQlWf54K_7Y-dolan-forrestal-thrown-not-suicide",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 9,
+          "quote": "Per Dolan: two Navy men grabbed Forrestal and threw him out the 16th-floor window — his 'suicide' was murder, linked to UFO-era secrecy he was opposing."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-GQlWf54K_7Y-REFERENCES-claim-GQlWf54K_7Y-dolan-forrestal-thrown-not-suicide",
+      "from_node_id": "video-GQlWf54K_7Y",
+      "to_node_id": "claim-GQlWf54K_7Y-dolan-forrestal-thrown-not-suicide",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 9
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-GQlWf54K_7Y-dolan-forrestal-thrown-not-suicide-REFERENCES-person-james-forrestal",
+      "from_node_id": "claim-GQlWf54K_7Y-dolan-forrestal-thrown-not-suicide",
+      "to_node_id": "person-james-forrestal",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 9
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-GQlWf54K_7Y-dolan-forrestal-thrown-not-suicide-REFERENCES-incident-forrestal-1949-death",
+      "from_node_id": "claim-GQlWf54K_7Y-dolan-forrestal-thrown-not-suicide",
+      "to_node_id": "incident-forrestal-1949-death",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 9
+        }
+      ]
+    },
+    {
+      "id": "edge-person-richard-dolan-extended-ASSERTED-claim-GQlWf54K_7Y-dolan-1980s-flood-the-zone-strategy",
+      "from_node_id": "person-richard-dolan-extended",
+      "to_node_id": "claim-GQlWf54K_7Y-dolan-1980s-flood-the-zone-strategy",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 11,
+          "quote": "Dolan characterizes US UAP information strategy shift in the 1980s: from secrecy/denial to 'flood the zone' — pushing out many partial truths simultaneously to obscure core truth rather than deny."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-GQlWf54K_7Y-REFERENCES-claim-GQlWf54K_7Y-dolan-1980s-flood-the-zone-strategy",
+      "from_node_id": "video-GQlWf54K_7Y",
+      "to_node_id": "claim-GQlWf54K_7Y-dolan-1980s-flood-the-zone-strategy",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 11
+        }
+      ]
+    },
+    {
+      "id": "edge-person-richard-dolan-extended-ASSERTED-claim-GQlWf54K_7Y-dolan-1825-sea-orange-sphere-diary",
+      "from_node_id": "person-richard-dolan-extended",
+      "to_node_id": "claim-GQlWf54K_7Y-dolan-1825-sea-orange-sphere-diary",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 13,
+          "quote": "Dolan cites 1825-08-12 ship diary: at 3:30 AM night watch reported an orange spherical object rising from the ocean — centuries-old evidence of the UAP-from-water phenomenon."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-GQlWf54K_7Y-REFERENCES-claim-GQlWf54K_7Y-dolan-1825-sea-orange-sphere-diary",
+      "from_node_id": "video-GQlWf54K_7Y",
+      "to_node_id": "claim-GQlWf54K_7Y-dolan-1825-sea-orange-sphere-diary",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 13
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-GQlWf54K_7Y-dolan-1825-sea-orange-sphere-diary-REFERENCES-concept-underwater-uap-bases-hypothesis",
+      "from_node_id": "claim-GQlWf54K_7Y-dolan-1825-sea-orange-sphere-diary",
+      "to_node_id": "concept-underwater-uap-bases-hypothesis",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 13
+        }
+      ]
+    },
+    {
+      "id": "edge-person-richard-dolan-extended-ASSERTED-claim-GQlWf54K_7Y-dolan-timothy-good-1994-academic-exit",
+      "from_node_id": "person-richard-dolan-extended",
+      "to_node_id": "claim-GQlWf54K_7Y-dolan-timothy-good-1994-academic-exit",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 27,
+          "quote": "Dolan's academic exit catalyst: reading Timothy Good's 'Above Top Secret' in 1994 at age ~32 — two years obsessed in bed staring at the ceiling with 'if then' questions about Truman, Eisenhower, Kenne"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-GQlWf54K_7Y-REFERENCES-claim-GQlWf54K_7Y-dolan-timothy-good-1994-academic-exit",
+      "from_node_id": "video-GQlWf54K_7Y",
+      "to_node_id": "claim-GQlWf54K_7Y-dolan-timothy-good-1994-academic-exit",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 27
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-GQlWf54K_7Y-dolan-timothy-good-1994-academic-exit-REFERENCES-document-above-top-secret-timothy-good",
+      "from_node_id": "claim-GQlWf54K_7Y-dolan-timothy-good-1994-academic-exit",
+      "to_node_id": "document-above-top-secret-timothy-good",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 27
+        }
+      ]
     }
   ],
-  "extracted_at": "2026-04-17T11:04:49.835187+00:00",
+  "extracted_at": "2026-04-17T13:21:38.688773+00:00",
   "extractor_version": "v1-inline-claude"
 }

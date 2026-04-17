@@ -1142,6 +1142,269 @@
           "video-UkKwa4jU0fc"
         ]
       }
+    },
+    {
+      "id": "person-varginha-neurosurgeon",
+      "node_type": "person",
+      "label": "Varginha 1996 Neurosurgeon (anonymous)",
+      "summary": "Brazilian neurosurgeon who was 3-4 minutes face-to-face with an extraterrestrial being recovering in a Varginha hospital bed after the January 1996 crash. A concert pianist in addition to his medical practice. Says being appeared highly intelligent, not afraid.",
+      "tags": [
+        "witness",
+        "medical",
+        "Varginha"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.912398+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "UkKwa4jU0fc",
+          "timestamp_start": 389,
+          "quote": "Brazilian neurosurgeon who spent 3-4 minutes face-to-face with recovering ET"
+        }
+      ],
+      "type_specific": {
+        "aliases": [],
+        "profession": "neurosurgeon",
+        "notability_tags": [
+          "witness",
+          "medical",
+          "Varginha"
+        ]
+      }
+    },
+    {
+      "id": "person-varginha-autopsy-lead-doctor",
+      "node_type": "person",
+      "label": "Varginha 1996 Autopsy Lead Doctor (anonymous)",
+      "summary": "Lead doctor who performed autopsy on a Brazilian soldier likely wounded by an alien being during the Varginha 1996 incident.",
+      "tags": [
+        "medical",
+        "Varginha"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.912405+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "UkKwa4jU0fc",
+          "timestamp_start": 393,
+          "quote": "Lead doctor who performed autopsy on soldier wounded by alien being"
+        }
+      ],
+      "type_specific": {
+        "aliases": [],
+        "profession": "medical examiner",
+        "notability_tags": [
+          "medical",
+          "Varginha"
+        ]
+      }
+    },
+    {
+      "id": "incident-1996-varginha-neurosurgeon-contact",
+      "node_type": "incident",
+      "label": "1996 Varginha Neurosurgeon ET Contact",
+      "summary": "January 1996 Varginha hospital: a Brazilian neurosurgeon spent 3-4 minutes face-to-face with a recovering extraterrestrial being in a hospital bed. Notes the being appeared to have control of the room, was highly intelligent, not afraid. Alien had forearm with three fingers.",
+      "tags": [
+        "close_encounter"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.912412+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "UkKwa4jU0fc",
+          "timestamp_start": 389,
+          "timestamp_end": "Brazilian neurosurgeon observed recovering ET in hospital bed"
+        }
+      ],
+      "type_specific": {
+        "incident_type": "close_encounter",
+        "date_approximate": "1996-01-13"
+      }
+    },
+    {
+      "id": "claim-UkKwa4jU0fc-varginha-surgeon-face-to-face-3min",
+      "node_type": "claim",
+      "label": "The Varginha neurosurgeon spent 3-4 minutes face-to-face with an extraterrestrial being in a hospita",
+      "summary": "The Varginha neurosurgeon spent 3-4 minutes face-to-face with an extraterrestrial being in a hospital bed; being had forearm with three fingers; 'felt the being had control of the room, was highly intelligent, not afraid.'",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.941582+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "UkKwa4jU0fc",
+          "timestamp_start": 387,
+          "quote": "A neurosurgeon who was face-to-face with an extraterrestrial being for three to four minutes while it was recovering in a hospital bed. The feeling was that he understood what was happening. He wasn't afraid. He was highly intelligent — at least more than I was."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "The Varginha neurosurgeon spent 3-4 minutes face-to-face with an extraterrestrial being in a hospital bed; being had forearm with three fingers; 'felt the being had control of the room, was highly intelligent, not afraid.'",
+        "asserted_by_id": "person-varginha-neurosurgeon",
+        "source_video_id": "UkKwa4jU0fc",
+        "timestamp_start_seconds": 387,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-varginha-neurosurgeon",
+          "incident-1996-varginha-neurosurgeon-contact",
+          "incident-1996-varginha-brazil"
+        ]
+      }
+    },
+    {
+      "id": "claim-UkKwa4jU0fc-varginha-carlos-memory-metal",
+      "node_type": "claim",
+      "label": "UFO material held by Carlos de Souza after the Varginha 1996 crash behaved EXACTLY like Roswell mate",
+      "summary": "UFO material held by Carlos de Souza after the Varginha 1996 crash behaved EXACTLY like Roswell material: light, tinfoil-like, crumpled and immediately returned to original shape — classic memory-metal signature.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.941595+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "UkKwa4jU0fc",
+          "timestamp_start": 403,
+          "quote": "The UFO material held by one of our guests today, Carlos Dosoza, sounds exactly like the crash material at Roswell. Light, tinfoily, and when he bent it, it would immediately go back into its original shape, like some sort of memory metal."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "UFO material held by Carlos de Souza after the Varginha 1996 crash behaved EXACTLY like Roswell material: light, tinfoil-like, crumpled and immediately returned to original shape — classic memory-metal signature.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "UkKwa4jU0fc",
+        "timestamp_start_seconds": 403,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-carlos-dusa",
+          "technology-memory-metal",
+          "incident-1996-varginha-brazil",
+          "incident-1947-roswell"
+        ]
+      }
+    },
+    {
+      "id": "claim-UkKwa4jU0fc-varginha-us-air-force-unauthorized",
+      "node_type": "claim",
+      "label": "The Varginha crash retrieval involved a secret US Air Force plane that landed in Brazil WITHOUT the ",
+      "summary": "The Varginha crash retrieval involved a secret US Air Force plane that landed in Brazil WITHOUT the Brazilian government's authorization — paralleling American pattern of jurisdiction-overriding retrievals.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.941608+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "UkKwa4jU0fc",
+          "timestamp_start": 411,
+          "quote": "How does he know that the Americans were involved? Because they landed without the authorization of the Brazilian government. It was a secret mission and it was a US Air Force plane."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "The Varginha crash retrieval involved a secret US Air Force plane that landed in Brazil WITHOUT the Brazilian government's authorization — paralleling American pattern of jurisdiction-overriding retrievals.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "UkKwa4jU0fc",
+        "timestamp_start_seconds": 411,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "incident-1996-varginha-brazil",
+          "organization-us-air-force",
+          "organization-cia"
+        ]
+      }
+    },
+    {
+      "id": "claim-UkKwa4jU0fc-varginha-12-15-ship-5-body-witnesses",
+      "node_type": "claim",
+      "label": "James Fox has interviewed approximately 12-15 witnesses of the Varginha ships and 5 witnesses of the",
+      "summary": "James Fox has interviewed approximately 12-15 witnesses of the Varginha ships and 5 witnesses of the alien bodies — most extensively-documented post-Roswell case in the Western hemisphere.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.941616+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "UkKwa4jU0fc",
+          "timestamp_start": 395,
+          "quote": "James, how many witnesses? Ship, maybe 12 to 15. And then the alien body, I think it's up to five. It's literally a modern Roswell but in Brazil in 1996."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "James Fox has interviewed approximately 12-15 witnesses of the Varginha ships and 5 witnesses of the alien bodies — most extensively-documented post-Roswell case in the Western hemisphere.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "UkKwa4jU0fc",
+        "timestamp_start_seconds": 395,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-james-fox",
+          "incident-1996-varginha-brazil",
+          "incident-1996-varginha-neurosurgeon-contact"
+        ]
+      }
+    },
+    {
+      "id": "claim-UkKwa4jU0fc-varginha-operating-on-alien-tape",
+      "node_type": "claim",
+      "label": "Per Fox: there is alleged video footage of the Brazilian surgeon operating on the alien being; the t",
+      "summary": "Per Fox: there is alleged video footage of the Brazilian surgeon operating on the alien being; the tape is believed to still be in private civilian hands (the surgeon's house).",
+      "tags": [
+        "hearsay",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.941624+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "UkKwa4jU0fc",
+          "timestamp_start": 417,
+          "quote": "You've mentioned multiple times that there is a video of him essentially performing surgery on this alien. If you had to guess, do you think that the tape is lying around in private civilian hands? You think it's in his house still? Yes, I believe so."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Per Fox: there is alleged video footage of the Brazilian surgeon operating on the alien being; the tape is believed to still be in private civilian hands (the surgeon's house).",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "UkKwa4jU0fc",
+        "timestamp_start_seconds": 417,
+        "assertability": "hearsay",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-james-fox",
+          "person-varginha-neurosurgeon",
+          "incident-1996-varginha-neurosurgeon-contact"
+        ]
+      }
     }
   ],
   "edges": [
@@ -1761,8 +2024,363 @@
           "timestamp_start": 0
         }
       ]
+    },
+    {
+      "id": "edge-person-varginha-neurosurgeon-ASSERTED-claim-UkKwa4jU0fc-varginha-surgeon-face-to-face-3min",
+      "from_node_id": "person-varginha-neurosurgeon",
+      "to_node_id": "claim-UkKwa4jU0fc-varginha-surgeon-face-to-face-3min",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "UkKwa4jU0fc",
+          "timestamp_start": 387,
+          "quote": "The Varginha neurosurgeon spent 3-4 minutes face-to-face with an extraterrestrial being in a hospital bed; being had forearm with three fingers; 'felt the being had control of the room, was highly int"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-UkKwa4jU0fc-REFERENCES-claim-UkKwa4jU0fc-varginha-surgeon-face-to-face-3min",
+      "from_node_id": "video-UkKwa4jU0fc",
+      "to_node_id": "claim-UkKwa4jU0fc-varginha-surgeon-face-to-face-3min",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "UkKwa4jU0fc",
+          "timestamp_start": 387
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-UkKwa4jU0fc-varginha-surgeon-face-to-face-3min-REFERENCES-incident-1996-varginha-neurosurgeon-contact",
+      "from_node_id": "claim-UkKwa4jU0fc-varginha-surgeon-face-to-face-3min",
+      "to_node_id": "incident-1996-varginha-neurosurgeon-contact",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "UkKwa4jU0fc",
+          "timestamp_start": 387
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-UkKwa4jU0fc-varginha-surgeon-face-to-face-3min-REFERENCES-incident-1996-varginha-brazil",
+      "from_node_id": "claim-UkKwa4jU0fc-varginha-surgeon-face-to-face-3min",
+      "to_node_id": "incident-1996-varginha-brazil",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "UkKwa4jU0fc",
+          "timestamp_start": 387
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-UkKwa4jU0fc-varginha-carlos-memory-metal",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-UkKwa4jU0fc-varginha-carlos-memory-metal",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "UkKwa4jU0fc",
+          "timestamp_start": 403,
+          "quote": "UFO material held by Carlos de Souza after the Varginha 1996 crash behaved EXACTLY like Roswell material: light, tinfoil-like, crumpled and immediately returned to original shape — classic memory-meta"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-UkKwa4jU0fc-REFERENCES-claim-UkKwa4jU0fc-varginha-carlos-memory-metal",
+      "from_node_id": "video-UkKwa4jU0fc",
+      "to_node_id": "claim-UkKwa4jU0fc-varginha-carlos-memory-metal",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "UkKwa4jU0fc",
+          "timestamp_start": 403
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-UkKwa4jU0fc-varginha-carlos-memory-metal-REFERENCES-person-carlos-dusa",
+      "from_node_id": "claim-UkKwa4jU0fc-varginha-carlos-memory-metal",
+      "to_node_id": "person-carlos-dusa",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "UkKwa4jU0fc",
+          "timestamp_start": 403
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-UkKwa4jU0fc-varginha-carlos-memory-metal-REFERENCES-technology-memory-metal",
+      "from_node_id": "claim-UkKwa4jU0fc-varginha-carlos-memory-metal",
+      "to_node_id": "technology-memory-metal",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "UkKwa4jU0fc",
+          "timestamp_start": 403
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-UkKwa4jU0fc-varginha-carlos-memory-metal-REFERENCES-incident-1996-varginha-brazil",
+      "from_node_id": "claim-UkKwa4jU0fc-varginha-carlos-memory-metal",
+      "to_node_id": "incident-1996-varginha-brazil",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "UkKwa4jU0fc",
+          "timestamp_start": 403
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-UkKwa4jU0fc-varginha-carlos-memory-metal-REFERENCES-incident-1947-roswell",
+      "from_node_id": "claim-UkKwa4jU0fc-varginha-carlos-memory-metal",
+      "to_node_id": "incident-1947-roswell",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "UkKwa4jU0fc",
+          "timestamp_start": 403
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-UkKwa4jU0fc-varginha-us-air-force-unauthorized",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-UkKwa4jU0fc-varginha-us-air-force-unauthorized",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "UkKwa4jU0fc",
+          "timestamp_start": 411,
+          "quote": "The Varginha crash retrieval involved a secret US Air Force plane that landed in Brazil WITHOUT the Brazilian government's authorization — paralleling American pattern of jurisdiction-overriding retri"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-UkKwa4jU0fc-REFERENCES-claim-UkKwa4jU0fc-varginha-us-air-force-unauthorized",
+      "from_node_id": "video-UkKwa4jU0fc",
+      "to_node_id": "claim-UkKwa4jU0fc-varginha-us-air-force-unauthorized",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "UkKwa4jU0fc",
+          "timestamp_start": 411
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-UkKwa4jU0fc-varginha-us-air-force-unauthorized-REFERENCES-incident-1996-varginha-brazil",
+      "from_node_id": "claim-UkKwa4jU0fc-varginha-us-air-force-unauthorized",
+      "to_node_id": "incident-1996-varginha-brazil",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "UkKwa4jU0fc",
+          "timestamp_start": 411
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-UkKwa4jU0fc-varginha-us-air-force-unauthorized-REFERENCES-organization-us-air-force",
+      "from_node_id": "claim-UkKwa4jU0fc-varginha-us-air-force-unauthorized",
+      "to_node_id": "organization-us-air-force",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "UkKwa4jU0fc",
+          "timestamp_start": 411
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-UkKwa4jU0fc-varginha-us-air-force-unauthorized-REFERENCES-organization-cia",
+      "from_node_id": "claim-UkKwa4jU0fc-varginha-us-air-force-unauthorized",
+      "to_node_id": "organization-cia",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "UkKwa4jU0fc",
+          "timestamp_start": 411
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-UkKwa4jU0fc-varginha-12-15-ship-5-body-witnesses",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-UkKwa4jU0fc-varginha-12-15-ship-5-body-witnesses",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "UkKwa4jU0fc",
+          "timestamp_start": 395,
+          "quote": "James Fox has interviewed approximately 12-15 witnesses of the Varginha ships and 5 witnesses of the alien bodies — most extensively-documented post-Roswell case in the Western hemisphere."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-UkKwa4jU0fc-REFERENCES-claim-UkKwa4jU0fc-varginha-12-15-ship-5-body-witnesses",
+      "from_node_id": "video-UkKwa4jU0fc",
+      "to_node_id": "claim-UkKwa4jU0fc-varginha-12-15-ship-5-body-witnesses",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "UkKwa4jU0fc",
+          "timestamp_start": 395
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-UkKwa4jU0fc-varginha-12-15-ship-5-body-witnesses-REFERENCES-person-james-fox",
+      "from_node_id": "claim-UkKwa4jU0fc-varginha-12-15-ship-5-body-witnesses",
+      "to_node_id": "person-james-fox",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "UkKwa4jU0fc",
+          "timestamp_start": 395
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-UkKwa4jU0fc-varginha-12-15-ship-5-body-witnesses-REFERENCES-incident-1996-varginha-brazil",
+      "from_node_id": "claim-UkKwa4jU0fc-varginha-12-15-ship-5-body-witnesses",
+      "to_node_id": "incident-1996-varginha-brazil",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "UkKwa4jU0fc",
+          "timestamp_start": 395
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-UkKwa4jU0fc-varginha-12-15-ship-5-body-witnesses-REFERENCES-incident-1996-varginha-neurosurgeon-contact",
+      "from_node_id": "claim-UkKwa4jU0fc-varginha-12-15-ship-5-body-witnesses",
+      "to_node_id": "incident-1996-varginha-neurosurgeon-contact",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "UkKwa4jU0fc",
+          "timestamp_start": 395
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-UkKwa4jU0fc-varginha-operating-on-alien-tape",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-UkKwa4jU0fc-varginha-operating-on-alien-tape",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "UkKwa4jU0fc",
+          "timestamp_start": 417,
+          "quote": "Per Fox: there is alleged video footage of the Brazilian surgeon operating on the alien being; the tape is believed to still be in private civilian hands (the surgeon's house)."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-UkKwa4jU0fc-REFERENCES-claim-UkKwa4jU0fc-varginha-operating-on-alien-tape",
+      "from_node_id": "video-UkKwa4jU0fc",
+      "to_node_id": "claim-UkKwa4jU0fc-varginha-operating-on-alien-tape",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "UkKwa4jU0fc",
+          "timestamp_start": 417
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-UkKwa4jU0fc-varginha-operating-on-alien-tape-REFERENCES-person-james-fox",
+      "from_node_id": "claim-UkKwa4jU0fc-varginha-operating-on-alien-tape",
+      "to_node_id": "person-james-fox",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "UkKwa4jU0fc",
+          "timestamp_start": 417
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-UkKwa4jU0fc-varginha-operating-on-alien-tape-REFERENCES-person-varginha-neurosurgeon",
+      "from_node_id": "claim-UkKwa4jU0fc-varginha-operating-on-alien-tape",
+      "to_node_id": "person-varginha-neurosurgeon",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "UkKwa4jU0fc",
+          "timestamp_start": 417
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-UkKwa4jU0fc-varginha-operating-on-alien-tape-REFERENCES-incident-1996-varginha-neurosurgeon-contact",
+      "from_node_id": "claim-UkKwa4jU0fc-varginha-operating-on-alien-tape",
+      "to_node_id": "incident-1996-varginha-neurosurgeon-contact",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "UkKwa4jU0fc",
+          "timestamp_start": 417
+        }
+      ]
     }
   ],
-  "extracted_at": "2026-04-17T11:04:49.108181+00:00",
+  "extracted_at": "2026-04-17T13:13:43.941632+00:00",
   "extractor_version": "v1-inline-claude"
 }

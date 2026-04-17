@@ -2040,6 +2040,299 @@
           "video-51N8OxqZIWY"
         ]
       }
+    },
+    {
+      "id": "person-jay-anderson",
+      "node_type": "person",
+      "label": "Jay Anderson",
+      "summary": "UFO researcher; podcast host; deep investigator of global cabal / Epstein / NHI intersections.",
+      "tags": [
+        "researcher",
+        "journalist"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.912147+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "51N8OxqZIWY",
+          "timestamp_start": 253,
+          "quote": "Project Unity host and UFO researcher"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Anderson"
+        ],
+        "profession": "researcher",
+        "notability_tags": [
+          "researcher",
+          "journalist"
+        ]
+      }
+    },
+    {
+      "id": "person-kurt-metzger",
+      "node_type": "person",
+      "label": "Kurt Metzger",
+      "summary": "American comedian with deep familiarity in conspiracy-theory discourse.",
+      "tags": [
+        "comedian"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.912149+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "51N8OxqZIWY",
+          "timestamp_start": 253,
+          "quote": "Comedian and conspiracy commentator"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Metzger"
+        ],
+        "profession": "comedian",
+        "notability_tags": [
+          "comedian"
+        ]
+      }
+    },
+    {
+      "id": "person-jeffrey-epstein",
+      "node_type": "person",
+      "label": "Jeffrey Epstein",
+      "summary": "American financier; convicted sex trafficker; central to an international compromise/blackmail operation of elites. Officially died in prison 2019; circumstances disputed.",
+      "tags": [
+        "historical",
+        "compromise-operation"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.912151+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "51N8OxqZIWY",
+          "timestamp_start": 275,
+          "quote": "Financier and convicted sex trafficker; global compromise/blackmail operation"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Epstein"
+        ],
+        "profession": "financier",
+        "notability_tags": [
+          "historical",
+          "compromise-operation"
+        ]
+      }
+    },
+    {
+      "id": "person-ghislaine-maxwell",
+      "node_type": "person",
+      "label": "Ghislaine Maxwell",
+      "summary": "British socialite; Epstein's handler in the compromise operation; currently imprisoned in US for sex trafficking. No 'clients' of hers have been publicly prosecuted.",
+      "tags": [
+        "historical",
+        "imprisoned"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.912154+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "51N8OxqZIWY",
+          "timestamp_start": 275,
+          "quote": "Epstein's handler; currently imprisoned for sex trafficking"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Maxwell"
+        ],
+        "profession": "socialite",
+        "notability_tags": [
+          "historical",
+          "imprisoned"
+        ]
+      }
+    },
+    {
+      "id": "person-robert-maxwell",
+      "node_type": "person",
+      "label": "Robert Maxwell",
+      "summary": "British media mogul; father of Ghislaine Maxwell; widely alleged Mossad operative. Died 1991 under suspicious circumstances.",
+      "tags": [
+        "historical",
+        "intelligence"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.912156+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "51N8OxqZIWY",
+          "timestamp_start": 275,
+          "quote": "British media mogul; Ghislaine's father; Mossad ties alleged"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Maxwell Sr"
+        ],
+        "profession": "media mogul",
+        "notability_tags": [
+          "historical",
+          "intelligence"
+        ]
+      }
+    },
+    {
+      "id": "claim-51N8OxqZIWY-epstein-cell-video-metadata-edited",
+      "node_type": "claim",
+      "label": "Wired magazine revealed metadata from Jeffrey Epstein's prison-cell video (the supposed proof of sui",
+      "summary": "Wired magazine revealed metadata from Jeffrey Epstein's prison-cell video (the supposed proof of suicide) had been edited with Adobe Premiere — a full minute was missing from the original release.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.933620+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "51N8OxqZIWY",
+          "timestamp_start": 289,
+          "quote": "Wired magazine just revealed that the metadata from Jeffrey Epstein's prison cell video that was supposed to point to a suicide had been edited, likely using Adobe Premiere. When it was originally released, a whole minute was missing."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Wired magazine revealed metadata from Jeffrey Epstein's prison-cell video (the supposed proof of suicide) had been edited with Adobe Premiere — a full minute was missing from the original release.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "51N8OxqZIWY",
+        "timestamp_start_seconds": 289,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-jeffrey-epstein"
+        ]
+      }
+    },
+    {
+      "id": "claim-51N8OxqZIWY-epstein-clients-unprosecuted",
+      "node_type": "claim",
+      "label": "Ghislaine Maxwell is imprisoned for sex trafficking but NO clients of her operation have been public",
+      "summary": "Ghislaine Maxwell is imprisoned for sex trafficking but NO clients of her operation have been publicly prosecuted — a fundamental logical fallacy, indicating suppressed documents protecting specific individuals.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.933637+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "51N8OxqZIWY",
+          "timestamp_start": 291,
+          "quote": "Ghislaine Maxwell is in jail right now for sex trafficking, but there are no perpetrators of the actual crime. Who were her clients? You have all these women, these victims coming out, but you have no clients. That's a basic logical fallacy."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Ghislaine Maxwell is imprisoned for sex trafficking but NO clients of her operation have been publicly prosecuted — a fundamental logical fallacy, indicating suppressed documents protecting specific individuals.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "51N8OxqZIWY",
+        "timestamp_start_seconds": 291,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-jeffrey-epstein",
+          "person-ghislaine-maxwell"
+        ]
+      }
+    },
+    {
+      "id": "claim-51N8OxqZIWY-anderson-metzger-vatican-city-london",
+      "node_type": "claim",
+      "label": "Jay Anderson and Kurt Metzger: disproportionate global power is held by entities like the Vatican, C",
+      "summary": "Jay Anderson and Kurt Metzger: disproportionate global power is held by entities like the Vatican, City of London, and Knights of Malta — systems that align cleanly with Catherine Klov's deep-power-structure framings.",
+      "tags": [
+        "speculation",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.933647+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "51N8OxqZIWY",
+          "timestamp_start": 259,
+          "quote": "The Vatican, City of London, you know, Knights of Malta. Do you think any of these groups have disproportionate power today? Oh yeah, like I would agree with Klov."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Jay Anderson and Kurt Metzger: disproportionate global power is held by entities like the Vatican, City of London, and Knights of Malta — systems that align cleanly with Catherine Klov's deep-power-structure framings.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "51N8OxqZIWY",
+        "timestamp_start_seconds": 259,
+        "assertability": "speculation",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-jay-anderson",
+          "person-kurt-metzger"
+        ]
+      }
+    },
+    {
+      "id": "claim-51N8OxqZIWY-jfk-lone-shooter-epstein-lone-actor-parallel",
+      "node_type": "claim",
+      "label": "Jesse parallels the JFK 'lone shooter' (Oswald) theory with the Epstein 'lone sex-trafficker' theory",
+      "summary": "Jesse parallels the JFK 'lone shooter' (Oswald) theory with the Epstein 'lone sex-trafficker' theory — both obviously fail the 'no accomplices' test, and both are disbelieved by the public via social media.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.933661+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "51N8OxqZIWY",
+          "timestamp_start": 285,
+          "quote": "Just like you have the lone shooter theory with JFK — you have the lone sex trafficker theory with Jeffrey Epstein. Nobody believes the state line here. And this time, due to social media, nobody believes anybody else believes this."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Jesse parallels the JFK 'lone shooter' (Oswald) theory with the Epstein 'lone sex-trafficker' theory — both obviously fail the 'no accomplices' test, and both are disbelieved by the public via social media.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "51N8OxqZIWY",
+        "timestamp_start_seconds": 285,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-jeffrey-epstein",
+          "person-jfk"
+        ]
+      }
     }
   ],
   "edges": [
@@ -3094,8 +3387,222 @@
           "timestamp_start": 0
         }
       ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-51N8OxqZIWY-epstein-cell-video-metadata-edited",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-51N8OxqZIWY-epstein-cell-video-metadata-edited",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "51N8OxqZIWY",
+          "timestamp_start": 289,
+          "quote": "Wired magazine revealed metadata from Jeffrey Epstein's prison-cell video (the supposed proof of suicide) had been edited with Adobe Premiere — a full minute was missing from the original release."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-51N8OxqZIWY-REFERENCES-claim-51N8OxqZIWY-epstein-cell-video-metadata-edited",
+      "from_node_id": "video-51N8OxqZIWY",
+      "to_node_id": "claim-51N8OxqZIWY-epstein-cell-video-metadata-edited",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "51N8OxqZIWY",
+          "timestamp_start": 289
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-51N8OxqZIWY-epstein-cell-video-metadata-edited-REFERENCES-person-jeffrey-epstein",
+      "from_node_id": "claim-51N8OxqZIWY-epstein-cell-video-metadata-edited",
+      "to_node_id": "person-jeffrey-epstein",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "51N8OxqZIWY",
+          "timestamp_start": 289
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-51N8OxqZIWY-epstein-clients-unprosecuted",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-51N8OxqZIWY-epstein-clients-unprosecuted",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "51N8OxqZIWY",
+          "timestamp_start": 291,
+          "quote": "Ghislaine Maxwell is imprisoned for sex trafficking but NO clients of her operation have been publicly prosecuted — a fundamental logical fallacy, indicating suppressed documents protecting specific i"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-51N8OxqZIWY-REFERENCES-claim-51N8OxqZIWY-epstein-clients-unprosecuted",
+      "from_node_id": "video-51N8OxqZIWY",
+      "to_node_id": "claim-51N8OxqZIWY-epstein-clients-unprosecuted",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "51N8OxqZIWY",
+          "timestamp_start": 291
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-51N8OxqZIWY-epstein-clients-unprosecuted-REFERENCES-person-jeffrey-epstein",
+      "from_node_id": "claim-51N8OxqZIWY-epstein-clients-unprosecuted",
+      "to_node_id": "person-jeffrey-epstein",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "51N8OxqZIWY",
+          "timestamp_start": 291
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-51N8OxqZIWY-epstein-clients-unprosecuted-REFERENCES-person-ghislaine-maxwell",
+      "from_node_id": "claim-51N8OxqZIWY-epstein-clients-unprosecuted",
+      "to_node_id": "person-ghislaine-maxwell",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "51N8OxqZIWY",
+          "timestamp_start": 291
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-51N8OxqZIWY-anderson-metzger-vatican-city-london",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-51N8OxqZIWY-anderson-metzger-vatican-city-london",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "51N8OxqZIWY",
+          "timestamp_start": 259,
+          "quote": "Jay Anderson and Kurt Metzger: disproportionate global power is held by entities like the Vatican, City of London, and Knights of Malta — systems that align cleanly with Catherine Klov's deep-power-st"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-51N8OxqZIWY-REFERENCES-claim-51N8OxqZIWY-anderson-metzger-vatican-city-london",
+      "from_node_id": "video-51N8OxqZIWY",
+      "to_node_id": "claim-51N8OxqZIWY-anderson-metzger-vatican-city-london",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "51N8OxqZIWY",
+          "timestamp_start": 259
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-51N8OxqZIWY-anderson-metzger-vatican-city-london-REFERENCES-person-jay-anderson",
+      "from_node_id": "claim-51N8OxqZIWY-anderson-metzger-vatican-city-london",
+      "to_node_id": "person-jay-anderson",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "51N8OxqZIWY",
+          "timestamp_start": 259
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-51N8OxqZIWY-anderson-metzger-vatican-city-london-REFERENCES-person-kurt-metzger",
+      "from_node_id": "claim-51N8OxqZIWY-anderson-metzger-vatican-city-london",
+      "to_node_id": "person-kurt-metzger",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "51N8OxqZIWY",
+          "timestamp_start": 259
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-51N8OxqZIWY-jfk-lone-shooter-epstein-lone-actor-parallel",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-51N8OxqZIWY-jfk-lone-shooter-epstein-lone-actor-parallel",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "51N8OxqZIWY",
+          "timestamp_start": 285,
+          "quote": "Jesse parallels the JFK 'lone shooter' (Oswald) theory with the Epstein 'lone sex-trafficker' theory — both obviously fail the 'no accomplices' test, and both are disbelieved by the public via social "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-51N8OxqZIWY-REFERENCES-claim-51N8OxqZIWY-jfk-lone-shooter-epstein-lone-actor-parallel",
+      "from_node_id": "video-51N8OxqZIWY",
+      "to_node_id": "claim-51N8OxqZIWY-jfk-lone-shooter-epstein-lone-actor-parallel",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "51N8OxqZIWY",
+          "timestamp_start": 285
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-51N8OxqZIWY-jfk-lone-shooter-epstein-lone-actor-parallel-REFERENCES-person-jeffrey-epstein",
+      "from_node_id": "claim-51N8OxqZIWY-jfk-lone-shooter-epstein-lone-actor-parallel",
+      "to_node_id": "person-jeffrey-epstein",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "51N8OxqZIWY",
+          "timestamp_start": 285
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-51N8OxqZIWY-jfk-lone-shooter-epstein-lone-actor-parallel-REFERENCES-person-jfk",
+      "from_node_id": "claim-51N8OxqZIWY-jfk-lone-shooter-epstein-lone-actor-parallel",
+      "to_node_id": "person-jfk",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "51N8OxqZIWY",
+          "timestamp_start": 285
+        }
+      ]
     }
   ],
-  "extracted_at": "2026-04-17T11:04:46.891861+00:00",
+  "extracted_at": "2026-04-17T13:13:43.933671+00:00",
   "extractor_version": "v1-inline-claude"
 }

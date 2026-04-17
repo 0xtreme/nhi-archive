@@ -533,6 +533,315 @@
           "video-KhmUixSXxDo"
         ]
       }
+    },
+    {
+      "id": "person-alex-jones",
+      "node_type": "person",
+      "label": "Alex Jones",
+      "summary": "Founder of InfoWars; controversial American broadcaster. Started as populist-libertarian anti-war commentator (Richard Linklater's 'Waking Life' speech 2001); later evolved into lightning rod for mainstream-conspiracy discourse.",
+      "tags": [
+        "broadcaster",
+        "journalist",
+        "controversial"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.005974+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KhmUixSXxDo",
+          "timestamp_start": 73,
+          "quote": "InfoWars founder, conspiracy broadcaster"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Jones"
+        ],
+        "profession": "broadcaster",
+        "notability_tags": [
+          "broadcaster",
+          "journalist",
+          "controversial"
+        ]
+      }
+    },
+    {
+      "id": "person-richard-linklater",
+      "node_type": "person",
+      "label": "Richard Linklater",
+      "summary": "American filmmaker who featured Alex Jones in 'Waking Life' (2001).",
+      "tags": [
+        "filmmaker"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.005976+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KhmUixSXxDo",
+          "timestamp_start": 77,
+          "quote": "American filmmaker; Waking Life director"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Linklater"
+        ],
+        "profession": "filmmaker",
+        "notability_tags": [
+          "filmmaker"
+        ]
+      }
+    },
+    {
+      "id": "person-rene-girard",
+      "node_type": "person",
+      "label": "René Girard",
+      "summary": "French philosopher whose scapegoat-mechanism theory Jesse invokes to frame Alex Jones' role in public discourse as sacrificial archetype.",
+      "tags": [
+        "philosopher",
+        "historical"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.005978+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KhmUixSXxDo",
+          "timestamp_start": 113,
+          "quote": "French philosopher of mimetic theory and scapegoat mechanism"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Girard",
+          "Gerard"
+        ],
+        "profession": "philosopher",
+        "notability_tags": [
+          "philosopher",
+          "historical"
+        ]
+      }
+    },
+    {
+      "id": "event-bohemian-grove-infiltration-2000",
+      "node_type": "event",
+      "label": "Alex Jones Bohemian Grove Infiltration",
+      "summary": "July 2000: Alex Jones infiltrated the Bohemian Grove (Northern California elite secret society) and filmed the 'Cremation of Care' pagan midsummer ritual.",
+      "tags": [
+        "meeting"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.005983+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KhmUixSXxDo",
+          "timestamp_start": 93,
+          "timestamp_end": "Jones snuck into California secret society in 2000"
+        }
+      ],
+      "type_specific": {
+        "event_type": "meeting",
+        "date_approximate": "2000-07-15"
+      }
+    },
+    {
+      "id": "concept-cremation-of-care",
+      "node_type": "concept",
+      "label": "Cremation of Care Ritual",
+      "summary": "Pagan midsummer scapegoating ritual performed at Bohemian Grove; Jones describes fusion of Moloch worship, Faustian occultism, and druidic occultism among ~1,000 elite American male attendees.",
+      "tags": [
+        "metaphysics"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.005987+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KhmUixSXxDo",
+          "timestamp_start": 93,
+          "timestamp_end": "Pagan midsummer scapegoating ritual at Bohemian Grove"
+        }
+      ],
+      "type_specific": {
+        "concept_domain": "metaphysics"
+      }
+    },
+    {
+      "id": "location-bohemian-grove",
+      "node_type": "location",
+      "label": "Bohemian Grove",
+      "summary": "",
+      "tags": [
+        "observation_site"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.005989+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KhmUixSXxDo",
+          "timestamp_start": 91,
+          "timestamp_end": "Northern California secret society retreat"
+        }
+      ],
+      "type_specific": {
+        "location_type": "observation_site",
+        "country": "US",
+        "state_or_region": "California"
+      }
+    },
+    {
+      "id": "claim-KhmUixSXxDo-jones-bohemian-grove-cremation-of-care",
+      "node_type": "claim",
+      "label": "In July 2000 Alex Jones infiltrated the Bohemian Grove and witnessed the 'Cremation of Care' ritual ",
+      "summary": "In July 2000 Alex Jones infiltrated the Bohemian Grove and witnessed the 'Cremation of Care' ritual — ~1,000 men in an extended pagan ceremony that Jones frames as a fusion of Moloch worship with Faustian occultism and druidic occultism.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.009716+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KhmUixSXxDo",
+          "timestamp_start": 93,
+          "quote": "When you snuck into the Bohemian Grove, you looked at this crazy ritual called the cremation of care. I was in the crowd with the men and they were taking this extremely seriously. It was a fusion of Moloch worship, Faustian occultism and druidic occultism."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "In July 2000 Alex Jones infiltrated the Bohemian Grove and witnessed the 'Cremation of Care' ritual — ~1,000 men in an extended pagan ceremony that Jones frames as a fusion of Moloch worship with Faustian occultism and druidic occultism.",
+        "asserted_by_id": "person-alex-jones",
+        "source_video_id": "KhmUixSXxDo",
+        "timestamp_start_seconds": 93,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-alex-jones",
+          "event-bohemian-grove-infiltration-2000",
+          "concept-cremation-of-care",
+          "location-bohemian-grove"
+        ]
+      }
+    },
+    {
+      "id": "claim-KhmUixSXxDo-jones-as-scapegoat-girard",
+      "node_type": "claim",
+      "label": "Jesse frames Alex Jones' public trajectory through René Girard's scapegoat-mechanism theory: Jones w",
+      "summary": "Jesse frames Alex Jones' public trajectory through René Girard's scapegoat-mechanism theory: Jones was harvested as the archetype of the marginalized populist dissident — demonized as a pressure valve.",
+      "tags": [
+        "speculation",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.009730+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KhmUixSXxDo",
+          "timestamp_start": 113,
+          "quote": "There's this philosopher I like named René Girard. He has this theory that there are scapegoats that can sometimes be constructed as pressure valve releases. I was used as the archetype of let's just ban Alex Jones."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Jesse frames Alex Jones' public trajectory through René Girard's scapegoat-mechanism theory: Jones was harvested as the archetype of the marginalized populist dissident — demonized as a pressure valve.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "KhmUixSXxDo",
+        "timestamp_start_seconds": 113,
+        "assertability": "speculation",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-alex-jones",
+          "person-rene-girard"
+        ]
+      }
+    },
+    {
+      "id": "claim-KhmUixSXxDo-jones-qanon-disinfo-recognition",
+      "node_type": "claim",
+      "label": "Jones states he recognized QAnon as a disinformation operation early; broke with his own audience ov",
+      "summary": "Jones states he recognized QAnon as a disinformation operation early; broke with his own audience over it ('I'm not being set up this time').",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.009738+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KhmUixSXxDo",
+          "timestamp_start": 109,
+          "quote": "When I saw QAnon come along, I was like 'I've been set up repeatedly. I'm not being set up this time. This is BS.' A lot of my listeners got mad at me."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Jones states he recognized QAnon as a disinformation operation early; broke with his own audience over it ('I'm not being set up this time').",
+        "asserted_by_id": "person-alex-jones",
+        "source_video_id": "KhmUixSXxDo",
+        "timestamp_start_seconds": 109,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-alex-jones"
+        ]
+      }
+    },
+    {
+      "id": "claim-KhmUixSXxDo-jones-waking-life-philosopher",
+      "node_type": "claim",
+      "label": "Jones appeared in Richard Linklater's 'Waking Life' (2001) giving what Jesse calls 'the best speech ",
+      "summary": "Jones appeared in Richard Linklater's 'Waking Life' (2001) giving what Jesse calls 'the best speech ever' on human empowerment — foreshadowing his origin as a philosopher-turned-political-figure.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.009743+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KhmUixSXxDo",
+          "timestamp_start": 117,
+          "quote": "My first exposure to you was watching Richard Linklater's Waking Life. It's like the best speech ever. It's all about human empowerment. You were a philosopher — that got forced into politics."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Jones appeared in Richard Linklater's 'Waking Life' (2001) giving what Jesse calls 'the best speech ever' on human empowerment — foreshadowing his origin as a philosopher-turned-political-figure.",
+        "asserted_by_id": "person-alex-jones",
+        "source_video_id": "KhmUixSXxDo",
+        "timestamp_start_seconds": 117,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-alex-jones",
+          "person-richard-linklater"
+        ]
+      }
     }
   ],
   "edges": [
@@ -837,8 +1146,208 @@
           "timestamp_start": 0
         }
       ]
+    },
+    {
+      "id": "edge-person-alex-jones-ASSERTED-claim-KhmUixSXxDo-jones-bohemian-grove-cremation-of-care",
+      "from_node_id": "person-alex-jones",
+      "to_node_id": "claim-KhmUixSXxDo-jones-bohemian-grove-cremation-of-care",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KhmUixSXxDo",
+          "timestamp_start": 93,
+          "quote": "In July 2000 Alex Jones infiltrated the Bohemian Grove and witnessed the 'Cremation of Care' ritual — ~1,000 men in an extended pagan ceremony that Jones frames as a fusion of Moloch worship with Faus"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-KhmUixSXxDo-REFERENCES-claim-KhmUixSXxDo-jones-bohemian-grove-cremation-of-care",
+      "from_node_id": "video-KhmUixSXxDo",
+      "to_node_id": "claim-KhmUixSXxDo-jones-bohemian-grove-cremation-of-care",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KhmUixSXxDo",
+          "timestamp_start": 93
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-KhmUixSXxDo-jones-bohemian-grove-cremation-of-care-REFERENCES-event-bohemian-grove-infiltration-2000",
+      "from_node_id": "claim-KhmUixSXxDo-jones-bohemian-grove-cremation-of-care",
+      "to_node_id": "event-bohemian-grove-infiltration-2000",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KhmUixSXxDo",
+          "timestamp_start": 93
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-KhmUixSXxDo-jones-bohemian-grove-cremation-of-care-REFERENCES-concept-cremation-of-care",
+      "from_node_id": "claim-KhmUixSXxDo-jones-bohemian-grove-cremation-of-care",
+      "to_node_id": "concept-cremation-of-care",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KhmUixSXxDo",
+          "timestamp_start": 93
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-KhmUixSXxDo-jones-bohemian-grove-cremation-of-care-REFERENCES-location-bohemian-grove",
+      "from_node_id": "claim-KhmUixSXxDo-jones-bohemian-grove-cremation-of-care",
+      "to_node_id": "location-bohemian-grove",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KhmUixSXxDo",
+          "timestamp_start": 93
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-KhmUixSXxDo-jones-as-scapegoat-girard",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-KhmUixSXxDo-jones-as-scapegoat-girard",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KhmUixSXxDo",
+          "timestamp_start": 113,
+          "quote": "Jesse frames Alex Jones' public trajectory through René Girard's scapegoat-mechanism theory: Jones was harvested as the archetype of the marginalized populist dissident — demonized as a pressure valve"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-KhmUixSXxDo-REFERENCES-claim-KhmUixSXxDo-jones-as-scapegoat-girard",
+      "from_node_id": "video-KhmUixSXxDo",
+      "to_node_id": "claim-KhmUixSXxDo-jones-as-scapegoat-girard",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KhmUixSXxDo",
+          "timestamp_start": 113
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-KhmUixSXxDo-jones-as-scapegoat-girard-REFERENCES-person-alex-jones",
+      "from_node_id": "claim-KhmUixSXxDo-jones-as-scapegoat-girard",
+      "to_node_id": "person-alex-jones",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KhmUixSXxDo",
+          "timestamp_start": 113
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-KhmUixSXxDo-jones-as-scapegoat-girard-REFERENCES-person-rene-girard",
+      "from_node_id": "claim-KhmUixSXxDo-jones-as-scapegoat-girard",
+      "to_node_id": "person-rene-girard",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KhmUixSXxDo",
+          "timestamp_start": 113
+        }
+      ]
+    },
+    {
+      "id": "edge-person-alex-jones-ASSERTED-claim-KhmUixSXxDo-jones-qanon-disinfo-recognition",
+      "from_node_id": "person-alex-jones",
+      "to_node_id": "claim-KhmUixSXxDo-jones-qanon-disinfo-recognition",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KhmUixSXxDo",
+          "timestamp_start": 109,
+          "quote": "Jones states he recognized QAnon as a disinformation operation early; broke with his own audience over it ('I'm not being set up this time')."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-KhmUixSXxDo-REFERENCES-claim-KhmUixSXxDo-jones-qanon-disinfo-recognition",
+      "from_node_id": "video-KhmUixSXxDo",
+      "to_node_id": "claim-KhmUixSXxDo-jones-qanon-disinfo-recognition",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KhmUixSXxDo",
+          "timestamp_start": 109
+        }
+      ]
+    },
+    {
+      "id": "edge-person-alex-jones-ASSERTED-claim-KhmUixSXxDo-jones-waking-life-philosopher",
+      "from_node_id": "person-alex-jones",
+      "to_node_id": "claim-KhmUixSXxDo-jones-waking-life-philosopher",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KhmUixSXxDo",
+          "timestamp_start": 117,
+          "quote": "Jones appeared in Richard Linklater's 'Waking Life' (2001) giving what Jesse calls 'the best speech ever' on human empowerment — foreshadowing his origin as a philosopher-turned-political-figure."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-KhmUixSXxDo-REFERENCES-claim-KhmUixSXxDo-jones-waking-life-philosopher",
+      "from_node_id": "video-KhmUixSXxDo",
+      "to_node_id": "claim-KhmUixSXxDo-jones-waking-life-philosopher",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KhmUixSXxDo",
+          "timestamp_start": 117
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-KhmUixSXxDo-jones-waking-life-philosopher-REFERENCES-person-richard-linklater",
+      "from_node_id": "claim-KhmUixSXxDo-jones-waking-life-philosopher",
+      "to_node_id": "person-richard-linklater",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KhmUixSXxDo",
+          "timestamp_start": 117
+        }
+      ]
     }
   ],
-  "extracted_at": "2026-04-17T11:04:21.322253+00:00",
+  "extracted_at": "2026-04-17T12:49:16.009749+00:00",
   "extractor_version": "v1-inline-claude"
 }

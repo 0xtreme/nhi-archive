@@ -869,6 +869,640 @@
           "video-dfPfPB601hw"
         ]
       }
+    },
+    {
+      "id": "concept-younger-dryas-impact",
+      "node_type": "concept",
+      "label": "Younger Dryas Impact Theory",
+      "summary": "Hypothesis that a Torrid-meteor-stream impact ~12,800 years ago caused a global cataclysm wiping out an advanced ice-age civilization — Hancock's preferred framing for the mechanism of a civilizational reset.",
+      "tags": [
+        "physics"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:05:09.445517+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 14,
+          "quote": "Asteroid/comet impact ~12,800 years ago causing global cataclysm"
+        }
+      ],
+      "type_specific": {
+        "concept_domain": "physics"
+      }
+    },
+    {
+      "id": "concept-torrid-meteor-stream",
+      "node_type": "concept",
+      "label": "Taurid Meteor Stream",
+      "summary": "Annual meteor streams (Northern and Southern Taurids) from a disintegrated parent comet ~20,000 years ago. Hancock argues the next 30 years include a dangerous 'lumpy' crossing period.",
+      "tags": [
+        "physics"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:05:09.445520+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 58,
+          "quote": "Ongoing cometary debris stream containing civilization-destroying potential"
+        }
+      ],
+      "type_specific": {
+        "concept_domain": "physics"
+      }
+    },
+    {
+      "id": "document-fingerprints-of-the-gods",
+      "node_type": "document",
+      "label": "Fingerprints of the Gods",
+      "summary": "Graham Hancock's 1995 book proposing that a sophisticated civilization predates Mesopotamian origins and left a worldwide legacy.",
+      "tags": [
+        "book"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:05:09.445522+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 10,
+          "quote": "Hancock's 1995 cult classic on lost civilizations"
+        }
+      ],
+      "type_specific": {
+        "document_type": "book",
+        "author": "Graham Hancock",
+        "publication_year": 1995
+      }
+    },
+    {
+      "id": "document-ancient-apocalypse-netflix",
+      "node_type": "document",
+      "label": "Ancient Apocalypse",
+      "summary": "Graham Hancock's Netflix docuseries examining archaeological evidence for a lost pre-Younger-Dryas civilization.",
+      "tags": [
+        "broadcast"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:05:09.445525+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 10,
+          "quote": "Hancock's 2022+ Netflix docuseries"
+        }
+      ],
+      "type_specific": {
+        "document_type": "broadcast",
+        "author": "Graham Hancock"
+      }
+    },
+    {
+      "id": "document-hancock-supernatural",
+      "node_type": "document",
+      "label": "Supernatural",
+      "summary": "Hancock's 2005 book on psychedelics, consciousness, and the 'other beings' encountered during ayahuasca and DMT use.",
+      "tags": [
+        "book"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:05:09.445527+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 30,
+          "quote": "Hancock's 2005 book on DMT, ayahuasca, and alien contact"
+        }
+      ],
+      "type_specific": {
+        "document_type": "book",
+        "author": "Graham Hancock",
+        "publication_year": 2005
+      }
+    },
+    {
+      "id": "document-gobekli-tepe-record",
+      "node_type": "document",
+      "label": "Göbekli Tepe Archaeological Record",
+      "summary": "Excavated from the 1990s; ~9000 BC megalithic complex in modern Turkey with 50-ton blocks, predating agricultural revolution and complicating the standard civilization timeline.",
+      "tags": [
+        "report"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:05:09.445534+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 20,
+          "quote": "Pre-agricultural megalithic complex in Turkey dating to ~9000 BC"
+        }
+      ],
+      "type_specific": {
+        "document_type": "report"
+      }
+    },
+    {
+      "id": "event-shoemaker-levy-9-jupiter",
+      "node_type": "event",
+      "label": "Shoemaker-Levy 9 Jupiter Impact",
+      "summary": "1994 comet impact on Jupiter; Hancock cites its 6M-megaton equivalent (600× Earth's nuclear arsenal) as evidence of ongoing cometary threat.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:05:09.445537+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 62,
+          "quote": "Half-mile-wide comet impact on Jupiter equivalent to 6M megatons"
+        }
+      ],
+      "type_specific": {
+        "event_type": "other",
+        "date_approximate": "1994-07-01"
+      }
+    },
+    {
+      "id": "event-tunguska-1908",
+      "node_type": "event",
+      "label": "Tunguska Event",
+      "summary": "1908-06-30 airburst in Siberia — flattened ~2,000 square miles of forest; timing suggests Taurid meteor stream origin per Hancock.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:05:09.445539+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 62,
+          "quote": "Taurid-stream airburst flattening 2,000 sq miles of Siberian forest"
+        }
+      ],
+      "type_specific": {
+        "event_type": "other",
+        "date_approximate": "1908-06-30"
+      }
+    },
+    {
+      "id": "person-michael-shermer",
+      "node_type": "person",
+      "label": "Michael Shermer",
+      "summary": "Founder of Skeptic Magazine; debated Hancock on Joe Rogan Experience 2017; later acknowledged Hancock's case for a missing ice-age chapter of human history.",
+      "tags": [
+        "skeptic",
+        "author"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:05:09.445541+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 38,
+          "quote": "Skeptic who debated Hancock on JRE 2017 and later conceded ground"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Shermer"
+        ],
+        "profession": "author",
+        "notability_tags": [
+          "skeptic",
+          "author"
+        ]
+      }
+    },
+    {
+      "id": "person-allan-west",
+      "node_type": "person",
+      "label": "Allan West",
+      "summary": "Comet Research Group scientist cited by Hancock as warning that the next 30 years are dangerous for Taurid-stream encounters.",
+      "tags": [
+        "scientist",
+        "comet-research-group"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:05:09.445544+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 68,
+          "quote": "Comet Research Group scientist warning of Taurid danger"
+        }
+      ],
+      "type_specific": {
+        "aliases": [],
+        "profession": "scientist",
+        "notability_tags": [
+          "scientist",
+          "comet-research-group"
+        ]
+      }
+    },
+    {
+      "id": "person-randall-carlson",
+      "node_type": "person",
+      "label": "Randall Carlson",
+      "summary": "American geologist and Younger Dryas Impact Theory proponent; frequent Hancock collaborator.",
+      "tags": [
+        "researcher",
+        "geologist"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:05:09.445548+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 6,
+          "quote": "Geologist and Younger Dryas Impact proponent; opens the video with Hancock"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Randall"
+        ],
+        "profession": "geologist",
+        "notability_tags": [
+          "researcher",
+          "geologist"
+        ]
+      }
+    },
+    {
+      "id": "claim-dfPfPB601hw-hancock-younger-dryas-thesis",
+      "node_type": "claim",
+      "label": "Hancock's central thesis: an asteroid/comet impact ~12,800 years ago (Younger Dryas boundary) trigge",
+      "summary": "Hancock's central thesis: an asteroid/comet impact ~12,800 years ago (Younger Dryas boundary) triggered a global cataclysm and destroyed an advanced civilization, preserved only in ~2,000 flood myths and transmitted technical knowledge.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:05:09.451437+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 14,
+          "quote": "This hypothesis known as the younger dryas impact theory sustains that an asteroid from the torrid meteor stream hit the earth causing a global cataclysm."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Hancock's central thesis: an asteroid/comet impact ~12,800 years ago (Younger Dryas boundary) triggered a global cataclysm and destroyed an advanced civilization, preserved only in ~2,000 flood myths and transmitted technical knowledge.",
+        "asserted_by_id": "person-graham-hancock",
+        "source_video_id": "dfPfPB601hw",
+        "timestamp_start_seconds": 14,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-graham-hancock",
+          "concept-younger-dryas-impact",
+          "concept-torrid-meteor-stream"
+        ]
+      }
+    },
+    {
+      "id": "claim-dfPfPB601hw-gobekli-tepe-challenges-timeline",
+      "node_type": "claim",
+      "label": "Gobekli Tepe (~9000 BC, 50-ton blocks, pre-agricultural) demonstrates hunter-gatherers could organiz",
+      "summary": "Gobekli Tepe (~9000 BC, 50-ton blocks, pre-agricultural) demonstrates hunter-gatherers could organize megalithic construction, overturning the standard Fertile-Crescent civilization-origin model.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:05:09.451449+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 20,
+          "quote": "Gobekli Tepe an ancient burial site in modern Turkey dating as far back as 9000 BC and involving the complex assembly of 50 ton blocks. It's not something that you're a hunter-gatherer and you wake up one morning and think oh I'm just going to build the largest megalithic site."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Gobekli Tepe (~9000 BC, 50-ton blocks, pre-agricultural) demonstrates hunter-gatherers could organize megalithic construction, overturning the standard Fertile-Crescent civilization-origin model.",
+        "asserted_by_id": "person-graham-hancock",
+        "source_video_id": "dfPfPB601hw",
+        "timestamp_start_seconds": 20,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-graham-hancock",
+          "document-gobekli-tepe-record"
+        ]
+      }
+    },
+    {
+      "id": "claim-dfPfPB601hw-hancock-2000-flood-myths",
+      "node_type": "claim",
+      "label": "Hancock claims ~2,000 flood myths across unconnected cultures corroborate a global flooding event at",
+      "summary": "Hancock claims ~2,000 flood myths across unconnected cultures corroborate a global flooding event at the end of the last ice age.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:05:09.451456+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 26,
+          "quote": "That story is one of approximately 2,000 flood conditions found all around the world, clearly documenting a global phenomenon."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Hancock claims ~2,000 flood myths across unconnected cultures corroborate a global flooding event at the end of the last ice age.",
+        "asserted_by_id": "person-graham-hancock",
+        "source_video_id": "dfPfPB601hw",
+        "timestamp_start_seconds": 26,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-graham-hancock",
+          "concept-younger-dryas-impact"
+        ]
+      }
+    },
+    {
+      "id": "claim-dfPfPB601hw-taurid-stream-ongoing-threat",
+      "node_type": "claim",
+      "label": "Hancock cites Alan West (Comet Research Group) warning the next 30 years include a 'lumpy and danger",
+      "summary": "Hancock cites Alan West (Comet Research Group) warning the next 30 years include a 'lumpy and dangerous' Taurid-stream crossing period.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:05:09.451463+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 58,
+          "quote": "Dr Alan West one of the scientists from the comet research group points that out that the next 30 years are a danger time."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Hancock cites Alan West (Comet Research Group) warning the next 30 years include a 'lumpy and dangerous' Taurid-stream crossing period.",
+        "asserted_by_id": "person-graham-hancock",
+        "source_video_id": "dfPfPB601hw",
+        "timestamp_start_seconds": 58,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-graham-hancock",
+          "person-allan-west",
+          "concept-torrid-meteor-stream"
+        ]
+      }
+    },
+    {
+      "id": "claim-dfPfPB601hw-shoemaker-levy-scale",
+      "node_type": "claim",
+      "label": "Shoemaker-Levy 9's 1994 Jupiter impact released ~6 million megatons — 600× the destructive force of ",
+      "summary": "Shoemaker-Levy 9's 1994 Jupiter impact released ~6 million megatons — 600× the destructive force of Earth's entire nuclear arsenal — despite being only half a mile wide.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:05:09.451471+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 62,
+          "quote": "Its impact on Jupiter was the equivalent to 6 million megatons of TNT or 600 times the destructive force of the entire Earth nuclear Arsenal."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Shoemaker-Levy 9's 1994 Jupiter impact released ~6 million megatons — 600× the destructive force of Earth's entire nuclear arsenal — despite being only half a mile wide.",
+        "asserted_by_id": "person-graham-hancock",
+        "source_video_id": "dfPfPB601hw",
+        "timestamp_start_seconds": 62,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "event-shoemaker-levy-9-jupiter"
+        ]
+      }
+    },
+    {
+      "id": "claim-dfPfPB601hw-tunguska-taurid-origin",
+      "node_type": "claim",
+      "label": "Tunguska 1908 (30 June) airburst's timing coincides with the Taurid-stream peak, suggesting Taurid o",
+      "summary": "Tunguska 1908 (30 June) airburst's timing coincides with the Taurid-stream peak, suggesting Taurid origin per Hancock.",
+      "tags": [
+        "speculation",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:05:09.451478+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 64,
+          "quote": "The fact that it occurred on the 30th of June suggests very strongly that it was part of the Taurid meteor stream because that is the peak of the Taurids in June."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Tunguska 1908 (30 June) airburst's timing coincides with the Taurid-stream peak, suggesting Taurid origin per Hancock.",
+        "asserted_by_id": "person-graham-hancock",
+        "source_video_id": "dfPfPB601hw",
+        "timestamp_start_seconds": 64,
+        "assertability": "speculation",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "event-tunguska-1908",
+          "concept-torrid-meteor-stream"
+        ]
+      }
+    },
+    {
+      "id": "claim-dfPfPB601hw-shermer-concession-hancock",
+      "node_type": "claim",
+      "label": "Michael Shermer — once a dogmatic Hancock skeptic — privately conceded by email that Hancock's Ancie",
+      "summary": "Michael Shermer — once a dogmatic Hancock skeptic — privately conceded by email that Hancock's Ancient Apocalypse made a good case for a forgotten ice-age civilization chapter.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:05:09.451485+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 42,
+          "quote": "I had an email from him concerning my ancient Apocalypse series on Netflix where he kindly said that he felt I'd made a good case for my basic proposition."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Michael Shermer — once a dogmatic Hancock skeptic — privately conceded by email that Hancock's Ancient Apocalypse made a good case for a forgotten ice-age civilization chapter.",
+        "asserted_by_id": "person-graham-hancock",
+        "source_video_id": "dfPfPB601hw",
+        "timestamp_start_seconds": 42,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-graham-hancock",
+          "person-michael-shermer"
+        ]
+      }
+    },
+    {
+      "id": "claim-dfPfPB601hw-nasa-dart-comet-deflection",
+      "node_type": "claim",
+      "label": "NASA's DART mission (2021-2022) successfully altered asteroid Dimorphos' orbit, proving human abilit",
+      "summary": "NASA's DART mission (2021-2022) successfully altered asteroid Dimorphos' orbit, proving human ability to deflect small objects — but Dimorphos' 200m diameter is far below civilization-threatening scale.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:05:09.451492+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 66,
+          "quote": "NASA's DART program aimed to prove that humans can deflect asteroids with satellites. Dimorphos has a diameter of 200 meters, not even close to the half mile width of Shoemaker Levy."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "NASA's DART mission (2021-2022) successfully altered asteroid Dimorphos' orbit, proving human ability to deflect small objects — but Dimorphos' 200m diameter is far below civilization-threatening scale.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "dfPfPB601hw",
+        "timestamp_start_seconds": 66,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "organization-nasa",
+          "concept-torrid-meteor-stream"
+        ]
+      }
+    },
+    {
+      "id": "claim-dfPfPB601hw-hancock-skeptic-reaction-dogmatic",
+      "node_type": "claim",
+      "label": "Hancock argues mainstream archaeology reflexively dismisses pre-Younger-Dryas civilization evidence ",
+      "summary": "Hancock argues mainstream archaeology reflexively dismisses pre-Younger-Dryas civilization evidence because it dovetails with biblical flood narratives, which researchers feel they must oppose as unscientific.",
+      "tags": [
+        "speculation",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:05:09.451503+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 48,
+          "quote": "Why they reflexively might deny this is because it interestingly dovetails with stories in the Bible and other religious texts around great floods."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Hancock argues mainstream archaeology reflexively dismisses pre-Younger-Dryas civilization evidence because it dovetails with biblical flood narratives, which researchers feel they must oppose as unscientific.",
+        "asserted_by_id": "person-graham-hancock",
+        "source_video_id": "dfPfPB601hw",
+        "timestamp_start_seconds": 48,
+        "assertability": "speculation",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-graham-hancock"
+        ]
+      }
+    },
+    {
+      "id": "claim-dfPfPB601hw-supernatural-dmt-alien-contact",
+      "node_type": "claim",
+      "label": "Hancock's 2005 book Supernatural documents his argument that DMT / ayahuasca states access the same ",
+      "summary": "Hancock's 2005 book Supernatural documents his argument that DMT / ayahuasca states access the same class of 'other beings' classically interpreted as aliens or spirits across cultures.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:05:09.451510+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 30,
+          "quote": "His fascinating beliefs on aliens which he writes about in his 2005 hitbook Supernatural."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Hancock's 2005 book Supernatural documents his argument that DMT / ayahuasca states access the same class of 'other beings' classically interpreted as aliens or spirits across cultures.",
+        "asserted_by_id": "person-graham-hancock",
+        "source_video_id": "dfPfPB601hw",
+        "timestamp_start_seconds": 30,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-graham-hancock",
+          "document-hancock-supernatural",
+          "concept-nhi"
+        ]
+      }
     }
   ],
   "edges": [
@@ -1341,8 +1975,494 @@
           "timestamp_start": 0
         }
       ]
+    },
+    {
+      "id": "edge-person-graham-hancock-ASSERTED-claim-dfPfPB601hw-hancock-younger-dryas-thesis",
+      "from_node_id": "person-graham-hancock",
+      "to_node_id": "claim-dfPfPB601hw-hancock-younger-dryas-thesis",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 14,
+          "quote": "Hancock's central thesis: an asteroid/comet impact ~12,800 years ago (Younger Dryas boundary) triggered a global cataclysm and destroyed an advanced civilization, preserved only in ~2,000 flood myths "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dfPfPB601hw-REFERENCES-claim-dfPfPB601hw-hancock-younger-dryas-thesis",
+      "from_node_id": "video-dfPfPB601hw",
+      "to_node_id": "claim-dfPfPB601hw-hancock-younger-dryas-thesis",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 14
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-dfPfPB601hw-hancock-younger-dryas-thesis-REFERENCES-concept-younger-dryas-impact",
+      "from_node_id": "claim-dfPfPB601hw-hancock-younger-dryas-thesis",
+      "to_node_id": "concept-younger-dryas-impact",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 14
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-dfPfPB601hw-hancock-younger-dryas-thesis-REFERENCES-concept-torrid-meteor-stream",
+      "from_node_id": "claim-dfPfPB601hw-hancock-younger-dryas-thesis",
+      "to_node_id": "concept-torrid-meteor-stream",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 14
+        }
+      ]
+    },
+    {
+      "id": "edge-person-graham-hancock-ASSERTED-claim-dfPfPB601hw-gobekli-tepe-challenges-timeline",
+      "from_node_id": "person-graham-hancock",
+      "to_node_id": "claim-dfPfPB601hw-gobekli-tepe-challenges-timeline",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 20,
+          "quote": "Gobekli Tepe (~9000 BC, 50-ton blocks, pre-agricultural) demonstrates hunter-gatherers could organize megalithic construction, overturning the standard Fertile-Crescent civilization-origin model."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dfPfPB601hw-REFERENCES-claim-dfPfPB601hw-gobekli-tepe-challenges-timeline",
+      "from_node_id": "video-dfPfPB601hw",
+      "to_node_id": "claim-dfPfPB601hw-gobekli-tepe-challenges-timeline",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 20
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-dfPfPB601hw-gobekli-tepe-challenges-timeline-REFERENCES-document-gobekli-tepe-record",
+      "from_node_id": "claim-dfPfPB601hw-gobekli-tepe-challenges-timeline",
+      "to_node_id": "document-gobekli-tepe-record",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 20
+        }
+      ]
+    },
+    {
+      "id": "edge-person-graham-hancock-ASSERTED-claim-dfPfPB601hw-hancock-2000-flood-myths",
+      "from_node_id": "person-graham-hancock",
+      "to_node_id": "claim-dfPfPB601hw-hancock-2000-flood-myths",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 26,
+          "quote": "Hancock claims ~2,000 flood myths across unconnected cultures corroborate a global flooding event at the end of the last ice age."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dfPfPB601hw-REFERENCES-claim-dfPfPB601hw-hancock-2000-flood-myths",
+      "from_node_id": "video-dfPfPB601hw",
+      "to_node_id": "claim-dfPfPB601hw-hancock-2000-flood-myths",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 26
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-dfPfPB601hw-hancock-2000-flood-myths-REFERENCES-concept-younger-dryas-impact",
+      "from_node_id": "claim-dfPfPB601hw-hancock-2000-flood-myths",
+      "to_node_id": "concept-younger-dryas-impact",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 26
+        }
+      ]
+    },
+    {
+      "id": "edge-person-graham-hancock-ASSERTED-claim-dfPfPB601hw-taurid-stream-ongoing-threat",
+      "from_node_id": "person-graham-hancock",
+      "to_node_id": "claim-dfPfPB601hw-taurid-stream-ongoing-threat",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 58,
+          "quote": "Hancock cites Alan West (Comet Research Group) warning the next 30 years include a 'lumpy and dangerous' Taurid-stream crossing period."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dfPfPB601hw-REFERENCES-claim-dfPfPB601hw-taurid-stream-ongoing-threat",
+      "from_node_id": "video-dfPfPB601hw",
+      "to_node_id": "claim-dfPfPB601hw-taurid-stream-ongoing-threat",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 58
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-dfPfPB601hw-taurid-stream-ongoing-threat-REFERENCES-person-allan-west",
+      "from_node_id": "claim-dfPfPB601hw-taurid-stream-ongoing-threat",
+      "to_node_id": "person-allan-west",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 58
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-dfPfPB601hw-taurid-stream-ongoing-threat-REFERENCES-concept-torrid-meteor-stream",
+      "from_node_id": "claim-dfPfPB601hw-taurid-stream-ongoing-threat",
+      "to_node_id": "concept-torrid-meteor-stream",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 58
+        }
+      ]
+    },
+    {
+      "id": "edge-person-graham-hancock-ASSERTED-claim-dfPfPB601hw-shoemaker-levy-scale",
+      "from_node_id": "person-graham-hancock",
+      "to_node_id": "claim-dfPfPB601hw-shoemaker-levy-scale",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 62,
+          "quote": "Shoemaker-Levy 9's 1994 Jupiter impact released ~6 million megatons — 600× the destructive force of Earth's entire nuclear arsenal — despite being only half a mile wide."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dfPfPB601hw-REFERENCES-claim-dfPfPB601hw-shoemaker-levy-scale",
+      "from_node_id": "video-dfPfPB601hw",
+      "to_node_id": "claim-dfPfPB601hw-shoemaker-levy-scale",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 62
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-dfPfPB601hw-shoemaker-levy-scale-REFERENCES-event-shoemaker-levy-9-jupiter",
+      "from_node_id": "claim-dfPfPB601hw-shoemaker-levy-scale",
+      "to_node_id": "event-shoemaker-levy-9-jupiter",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 62
+        }
+      ]
+    },
+    {
+      "id": "edge-person-graham-hancock-ASSERTED-claim-dfPfPB601hw-tunguska-taurid-origin",
+      "from_node_id": "person-graham-hancock",
+      "to_node_id": "claim-dfPfPB601hw-tunguska-taurid-origin",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 64,
+          "quote": "Tunguska 1908 (30 June) airburst's timing coincides with the Taurid-stream peak, suggesting Taurid origin per Hancock."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dfPfPB601hw-REFERENCES-claim-dfPfPB601hw-tunguska-taurid-origin",
+      "from_node_id": "video-dfPfPB601hw",
+      "to_node_id": "claim-dfPfPB601hw-tunguska-taurid-origin",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 64
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-dfPfPB601hw-tunguska-taurid-origin-REFERENCES-event-tunguska-1908",
+      "from_node_id": "claim-dfPfPB601hw-tunguska-taurid-origin",
+      "to_node_id": "event-tunguska-1908",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 64
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-dfPfPB601hw-tunguska-taurid-origin-REFERENCES-concept-torrid-meteor-stream",
+      "from_node_id": "claim-dfPfPB601hw-tunguska-taurid-origin",
+      "to_node_id": "concept-torrid-meteor-stream",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 64
+        }
+      ]
+    },
+    {
+      "id": "edge-person-graham-hancock-ASSERTED-claim-dfPfPB601hw-shermer-concession-hancock",
+      "from_node_id": "person-graham-hancock",
+      "to_node_id": "claim-dfPfPB601hw-shermer-concession-hancock",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 42,
+          "quote": "Michael Shermer — once a dogmatic Hancock skeptic — privately conceded by email that Hancock's Ancient Apocalypse made a good case for a forgotten ice-age civilization chapter."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dfPfPB601hw-REFERENCES-claim-dfPfPB601hw-shermer-concession-hancock",
+      "from_node_id": "video-dfPfPB601hw",
+      "to_node_id": "claim-dfPfPB601hw-shermer-concession-hancock",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 42
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-dfPfPB601hw-shermer-concession-hancock-REFERENCES-person-michael-shermer",
+      "from_node_id": "claim-dfPfPB601hw-shermer-concession-hancock",
+      "to_node_id": "person-michael-shermer",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 42
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-dfPfPB601hw-nasa-dart-comet-deflection",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-dfPfPB601hw-nasa-dart-comet-deflection",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 66,
+          "quote": "NASA's DART mission (2021-2022) successfully altered asteroid Dimorphos' orbit, proving human ability to deflect small objects — but Dimorphos' 200m diameter is far below civilization-threatening scal"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dfPfPB601hw-REFERENCES-claim-dfPfPB601hw-nasa-dart-comet-deflection",
+      "from_node_id": "video-dfPfPB601hw",
+      "to_node_id": "claim-dfPfPB601hw-nasa-dart-comet-deflection",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 66
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-dfPfPB601hw-nasa-dart-comet-deflection-REFERENCES-organization-nasa",
+      "from_node_id": "claim-dfPfPB601hw-nasa-dart-comet-deflection",
+      "to_node_id": "organization-nasa",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 66
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-dfPfPB601hw-nasa-dart-comet-deflection-REFERENCES-concept-torrid-meteor-stream",
+      "from_node_id": "claim-dfPfPB601hw-nasa-dart-comet-deflection",
+      "to_node_id": "concept-torrid-meteor-stream",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 66
+        }
+      ]
+    },
+    {
+      "id": "edge-person-graham-hancock-ASSERTED-claim-dfPfPB601hw-hancock-skeptic-reaction-dogmatic",
+      "from_node_id": "person-graham-hancock",
+      "to_node_id": "claim-dfPfPB601hw-hancock-skeptic-reaction-dogmatic",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 48,
+          "quote": "Hancock argues mainstream archaeology reflexively dismisses pre-Younger-Dryas civilization evidence because it dovetails with biblical flood narratives, which researchers feel they must oppose as unsc"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dfPfPB601hw-REFERENCES-claim-dfPfPB601hw-hancock-skeptic-reaction-dogmatic",
+      "from_node_id": "video-dfPfPB601hw",
+      "to_node_id": "claim-dfPfPB601hw-hancock-skeptic-reaction-dogmatic",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 48
+        }
+      ]
+    },
+    {
+      "id": "edge-person-graham-hancock-ASSERTED-claim-dfPfPB601hw-supernatural-dmt-alien-contact",
+      "from_node_id": "person-graham-hancock",
+      "to_node_id": "claim-dfPfPB601hw-supernatural-dmt-alien-contact",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 30,
+          "quote": "Hancock's 2005 book Supernatural documents his argument that DMT / ayahuasca states access the same class of 'other beings' classically interpreted as aliens or spirits across cultures."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dfPfPB601hw-REFERENCES-claim-dfPfPB601hw-supernatural-dmt-alien-contact",
+      "from_node_id": "video-dfPfPB601hw",
+      "to_node_id": "claim-dfPfPB601hw-supernatural-dmt-alien-contact",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 30
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-dfPfPB601hw-supernatural-dmt-alien-contact-REFERENCES-document-hancock-supernatural",
+      "from_node_id": "claim-dfPfPB601hw-supernatural-dmt-alien-contact",
+      "to_node_id": "document-hancock-supernatural",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 30
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-dfPfPB601hw-supernatural-dmt-alien-contact-REFERENCES-concept-nhi",
+      "from_node_id": "claim-dfPfPB601hw-supernatural-dmt-alien-contact",
+      "to_node_id": "concept-nhi",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 30
+        }
+      ]
     }
   ],
-  "extracted_at": "2026-04-17T11:04:10.018396+00:00",
+  "extracted_at": "2026-04-17T12:05:09.451517+00:00",
   "extractor_version": "v1-inline-claude"
 }

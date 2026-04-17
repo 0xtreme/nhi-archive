@@ -1272,6 +1272,261 @@
           "video-TNtlzEnl8rA"
         ]
       }
+    },
+    {
+      "id": "person-greg-rogers",
+      "node_type": "person",
+      "label": "Dr. Gregory Rogers",
+      "summary": "Recently retired Chief Flight Surgeon for NASA and USAF; former Chief of Aerospace Medicine at 45th Space Wing (Cape Canaveral, Patrick AFB, Eastern Missile Range). In 1992 a colleague showed him a ~20ft saucer-shape craft marked 'US Air Force' in a hangar; told it was retro-engineered from non-human origin.",
+      "tags": [
+        "witness",
+        "NASA",
+        "USAF",
+        "medical"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:07:01.191223+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "TNtlzEnl8rA",
+          "timestamp_start": 347,
+          "quote": "Retired Chief Flight Surgeon NASA & USAF; 1992 saucer witness"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Rogers",
+          "Dr. Rogers"
+        ],
+        "profession": "flight surgeon",
+        "notability_tags": [
+          "witness",
+          "NASA",
+          "USAF",
+          "medical"
+        ]
+      }
+    },
+    {
+      "id": "person-chris-leto-letto-files",
+      "node_type": "person",
+      "label": "Chris Leto (Leto Files)",
+      "summary": "Former pilot and host of the Leto Files podcast on UFOs. Introduced Greg Rogers to Jesse Michels.",
+      "tags": [
+        "interviewer",
+        "pilot"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:07:01.191225+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "TNtlzEnl8rA",
+          "timestamp_start": 351,
+          "quote": "UFO interviewer; former pilot"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Leto"
+        ],
+        "profession": "pilot / podcaster",
+        "notability_tags": [
+          "interviewer",
+          "pilot"
+        ]
+      }
+    },
+    {
+      "id": "location-cape-canaveral-afs",
+      "node_type": "location",
+      "label": "Cape Canaveral Air Force Station (Patrick AFB region)",
+      "summary": "",
+      "tags": [
+        "military_base"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:07:01.191228+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "TNtlzEnl8rA",
+          "timestamp_start": 359,
+          "timestamp_end": "Rogers' primary assignment at 45th Space Wing"
+        }
+      ],
+      "type_specific": {
+        "location_type": "military_base",
+        "country": "US",
+        "state_or_region": "Florida"
+      }
+    },
+    {
+      "id": "technology-usaf-reverse-engineered-saucer",
+      "node_type": "technology",
+      "label": "USAF Reverse-Engineered Saucer",
+      "summary": "Per Rogers' 1992 hangar sighting: ~20ft saucer-shape craft resembling a modified egg, no rivets or seams, rotated on demand, marked 'US Air Force' — colleague claimed it was reverse-engineered from retrieved NHI craft.",
+      "tags": [
+        "craft"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:07:01.191230+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "TNtlzEnl8rA",
+          "timestamp_start": 325,
+          "timestamp_end": "~20ft modified-egg saucer with 'US Air Force' marking per Rogers"
+        }
+      ],
+      "type_specific": {
+        "technology_type": "craft"
+      }
+    },
+    {
+      "id": "claim-TNtlzEnl8rA-rogers-1992-saucer-hangar",
+      "node_type": "claim",
+      "label": "In 1992, as Chief of Aerospace Medicine at the 45th Space Wing, Greg Rogers was shown a ~20ft saucer",
+      "summary": "In 1992, as Chief of Aerospace Medicine at the 45th Space Wing, Greg Rogers was shown a ~20ft saucer-shape craft in a hangar — no rivets, no seams, rotating on demand, marked 'US Air Force' — colleague said 'we got it from them' referring to NHI.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:07:01.208949+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "TNtlzEnl8rA",
+          "timestamp_start": 325,
+          "quote": "1992. I was the chief of aerospace medicine and he said, 'I've got something to show you.' A saucer 20 ft across was sort of like a modified egg. There were no rivets, no seams, but then later on it rotated. It said US Air Force. But when I said 'why would we build it in a design like this?' He looked at me and went, 'We got it from them.'"
+        }
+      ],
+      "type_specific": {
+        "statement_text": "In 1992, as Chief of Aerospace Medicine at the 45th Space Wing, Greg Rogers was shown a ~20ft saucer-shape craft in a hangar — no rivets, no seams, rotating on demand, marked 'US Air Force' — colleague said 'we got it from them' referring to NHI.",
+        "asserted_by_id": "person-greg-rogers",
+        "source_video_id": "TNtlzEnl8rA",
+        "timestamp_start_seconds": 325,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-greg-rogers",
+          "technology-usaf-reverse-engineered-saucer",
+          "concept-reverse-engineering"
+        ]
+      }
+    },
+    {
+      "id": "claim-TNtlzEnl8rA-rogers-45deg-attack-no-movement",
+      "node_type": "claim",
+      "label": "Rogers — F-16 and helicopter pilot — asserts no vehicle he has ever known of could obtain a 45° angl",
+      "summary": "Rogers — F-16 and helicopter pilot — asserts no vehicle he has ever known of could obtain a 45° angle of attack without moving, as he witnessed the craft do.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:07:01.208963+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "TNtlzEnl8rA",
+          "timestamp_start": 327,
+          "quote": "I flew helicopters and I flew F-16s. No vehicle I have ever known of could obtain a 45° angle of attack without moving."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Rogers — F-16 and helicopter pilot — asserts no vehicle he has ever known of could obtain a 45° angle of attack without moving, as he witnessed the craft do.",
+        "asserted_by_id": "person-greg-rogers",
+        "source_video_id": "TNtlzEnl8rA",
+        "timestamp_start_seconds": 327,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-greg-rogers",
+          "technology-usaf-reverse-engineered-saucer"
+        ]
+      }
+    },
+    {
+      "id": "claim-TNtlzEnl8rA-rogers-fancy-tech-distraction",
+      "node_type": "claim",
+      "label": "Rogers' framing: 'When companies say look we made this fancy thing — that's to get people's attentio",
+      "summary": "Rogers' framing: 'When companies say look we made this fancy thing — that's to get people's attention so they don't look at the OTHER thing they're spending all the money on.'",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:07:01.208971+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "TNtlzEnl8rA",
+          "timestamp_start": 327,
+          "quote": "So when these companies say, 'Look, we made this thing. Look at how fancy it is' — that's to get the people's attention so they don't look at this other thing that they're spending all the money on."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Rogers' framing: 'When companies say look we made this fancy thing — that's to get people's attention so they don't look at the OTHER thing they're spending all the money on.'",
+        "asserted_by_id": "person-greg-rogers",
+        "source_video_id": "TNtlzEnl8rA",
+        "timestamp_start_seconds": 327,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-greg-rogers"
+        ]
+      }
+    },
+    {
+      "id": "claim-TNtlzEnl8rA-rogers-has-grush-six",
+      "node_type": "claim",
+      "label": "Rogers decided to come forward publicly to 'cover Grusch's six o'clock' — corroborate Grusch's Congr",
+      "summary": "Rogers decided to come forward publicly to 'cover Grusch's six o'clock' — corroborate Grusch's Congressional testimony with firsthand visual evidence Grusch did not claim to have.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:07:01.208978+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "TNtlzEnl8rA",
+          "timestamp_start": 343,
+          "quote": "I thought I've got his six o'clock covered. To stand up in a similar way with all of the risk of reputation and bravely break his silence about what he had seen."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Rogers decided to come forward publicly to 'cover Grusch's six o'clock' — corroborate Grusch's Congressional testimony with firsthand visual evidence Grusch did not claim to have.",
+        "asserted_by_id": "person-greg-rogers",
+        "source_video_id": "TNtlzEnl8rA",
+        "timestamp_start_seconds": 343,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-greg-rogers",
+          "person-david-grusch"
+        ]
+      }
     }
   ],
   "edges": [
@@ -1951,8 +2206,180 @@
           "timestamp_start": 0
         }
       ]
+    },
+    {
+      "id": "edge-person-greg-rogers-ASSERTED-claim-TNtlzEnl8rA-rogers-1992-saucer-hangar",
+      "from_node_id": "person-greg-rogers",
+      "to_node_id": "claim-TNtlzEnl8rA-rogers-1992-saucer-hangar",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "TNtlzEnl8rA",
+          "timestamp_start": 325,
+          "quote": "In 1992, as Chief of Aerospace Medicine at the 45th Space Wing, Greg Rogers was shown a ~20ft saucer-shape craft in a hangar — no rivets, no seams, rotating on demand, marked 'US Air Force' — colleagu"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-TNtlzEnl8rA-REFERENCES-claim-TNtlzEnl8rA-rogers-1992-saucer-hangar",
+      "from_node_id": "video-TNtlzEnl8rA",
+      "to_node_id": "claim-TNtlzEnl8rA-rogers-1992-saucer-hangar",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "TNtlzEnl8rA",
+          "timestamp_start": 325
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-TNtlzEnl8rA-rogers-1992-saucer-hangar-REFERENCES-technology-usaf-reverse-engineered-saucer",
+      "from_node_id": "claim-TNtlzEnl8rA-rogers-1992-saucer-hangar",
+      "to_node_id": "technology-usaf-reverse-engineered-saucer",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "TNtlzEnl8rA",
+          "timestamp_start": 325
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-TNtlzEnl8rA-rogers-1992-saucer-hangar-REFERENCES-concept-reverse-engineering",
+      "from_node_id": "claim-TNtlzEnl8rA-rogers-1992-saucer-hangar",
+      "to_node_id": "concept-reverse-engineering",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "TNtlzEnl8rA",
+          "timestamp_start": 325
+        }
+      ]
+    },
+    {
+      "id": "edge-person-greg-rogers-ASSERTED-claim-TNtlzEnl8rA-rogers-45deg-attack-no-movement",
+      "from_node_id": "person-greg-rogers",
+      "to_node_id": "claim-TNtlzEnl8rA-rogers-45deg-attack-no-movement",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "TNtlzEnl8rA",
+          "timestamp_start": 327,
+          "quote": "Rogers — F-16 and helicopter pilot — asserts no vehicle he has ever known of could obtain a 45° angle of attack without moving, as he witnessed the craft do."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-TNtlzEnl8rA-REFERENCES-claim-TNtlzEnl8rA-rogers-45deg-attack-no-movement",
+      "from_node_id": "video-TNtlzEnl8rA",
+      "to_node_id": "claim-TNtlzEnl8rA-rogers-45deg-attack-no-movement",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "TNtlzEnl8rA",
+          "timestamp_start": 327
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-TNtlzEnl8rA-rogers-45deg-attack-no-movement-REFERENCES-technology-usaf-reverse-engineered-saucer",
+      "from_node_id": "claim-TNtlzEnl8rA-rogers-45deg-attack-no-movement",
+      "to_node_id": "technology-usaf-reverse-engineered-saucer",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "TNtlzEnl8rA",
+          "timestamp_start": 327
+        }
+      ]
+    },
+    {
+      "id": "edge-person-greg-rogers-ASSERTED-claim-TNtlzEnl8rA-rogers-fancy-tech-distraction",
+      "from_node_id": "person-greg-rogers",
+      "to_node_id": "claim-TNtlzEnl8rA-rogers-fancy-tech-distraction",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "TNtlzEnl8rA",
+          "timestamp_start": 327,
+          "quote": "Rogers' framing: 'When companies say look we made this fancy thing — that's to get people's attention so they don't look at the OTHER thing they're spending all the money on.'"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-TNtlzEnl8rA-REFERENCES-claim-TNtlzEnl8rA-rogers-fancy-tech-distraction",
+      "from_node_id": "video-TNtlzEnl8rA",
+      "to_node_id": "claim-TNtlzEnl8rA-rogers-fancy-tech-distraction",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "TNtlzEnl8rA",
+          "timestamp_start": 327
+        }
+      ]
+    },
+    {
+      "id": "edge-person-greg-rogers-ASSERTED-claim-TNtlzEnl8rA-rogers-has-grush-six",
+      "from_node_id": "person-greg-rogers",
+      "to_node_id": "claim-TNtlzEnl8rA-rogers-has-grush-six",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "TNtlzEnl8rA",
+          "timestamp_start": 343,
+          "quote": "Rogers decided to come forward publicly to 'cover Grusch's six o'clock' — corroborate Grusch's Congressional testimony with firsthand visual evidence Grusch did not claim to have."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-TNtlzEnl8rA-REFERENCES-claim-TNtlzEnl8rA-rogers-has-grush-six",
+      "from_node_id": "video-TNtlzEnl8rA",
+      "to_node_id": "claim-TNtlzEnl8rA-rogers-has-grush-six",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "TNtlzEnl8rA",
+          "timestamp_start": 343
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-TNtlzEnl8rA-rogers-has-grush-six-REFERENCES-person-david-grusch",
+      "from_node_id": "claim-TNtlzEnl8rA-rogers-has-grush-six",
+      "to_node_id": "person-david-grusch",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "TNtlzEnl8rA",
+          "timestamp_start": 343
+        }
+      ]
     }
   ],
-  "extracted_at": "2026-04-17T11:04:39.437134+00:00",
+  "extracted_at": "2026-04-17T13:07:01.208985+00:00",
   "extractor_version": "v1-inline-claude"
 }

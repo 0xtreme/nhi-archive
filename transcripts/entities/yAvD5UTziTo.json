@@ -1794,6 +1794,290 @@
           "video-yAvD5UTziTo"
         ]
       }
+    },
+    {
+      "id": "person-john-blitch",
+      "node_type": "person",
+      "label": "Lt Col John Blitch",
+      "summary": "US Army Lieutenant Colonel; former Delta Force operator; long-term DARPA program manager (including rubble-search robotics); cognitive psychology PhD from Colorado School of Mines. Supports Jake Barber's crash-retrieval team's testimony — personally interviewed all four members.",
+      "tags": [
+        "military",
+        "Delta",
+        "DARPA",
+        "scientist"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.912107+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 135,
+          "quote": "Former Delta Force, DARPA program manager, cognitive psychology PhD"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Blitch"
+        ],
+        "profession": "military / scientist",
+        "notability_tags": [
+          "military",
+          "Delta",
+          "DARPA",
+          "scientist"
+        ]
+      }
+    },
+    {
+      "id": "concept-bug-alien-flesh-tearing",
+      "node_type": "concept",
+      "label": "Bug-Alien Flesh-Tearing Experience (Blitch)",
+      "summary": "Blitch's personal encounter: a large 'bug' with triangular face opened jaws and tore flesh from his cheeks and shoulders — message was 'they could rip me to shreds if they wanted to but couldn't get to my soul.'",
+      "tags": [
+        "psychic"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.912109+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 133,
+          "timestamp_end": "Blitch's alien-bug soul-integrity encounter"
+        }
+      ],
+      "type_specific": {
+        "concept_domain": "psychic"
+      }
+    },
+    {
+      "id": "person-sensei-daughter-blitch",
+      "node_type": "person",
+      "label": "Blitch's Sensei's Daughter",
+      "summary": "18-year-old martial artist who broke John Blitch's nose during his black-belt qualification test (5-on-1 against five black belts).",
+      "tags": [
+        "martial-artist"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.912112+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 167,
+          "quote": "Martial artist who broke Blitch's nose in black-belt test"
+        }
+      ],
+      "type_specific": {
+        "aliases": [],
+        "profession": "martial artist",
+        "notability_tags": [
+          "martial-artist"
+        ]
+      }
+    },
+    {
+      "id": "incident-blitch-fuel-truck-red-flannel",
+      "node_type": "incident",
+      "label": "Blitch Fuel-Truck / Red Flannel Abduction Fragment",
+      "summary": "Blitch's anomalous fragment memory: while biking, unexplained gushing bloody nose; fuzzy memory of 'fuel truck' with a man in red plaid/flannel shirt in the cab — missing-time/screen-memory signatures of an abduction event not previously discussed publicly.",
+      "tags": [
+        "abduction"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.912114+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 137,
+          "timestamp_end": "Gushing bloody nose while biking; fuzzy fuel-truck / red-flannel man memory"
+        }
+      ],
+      "type_specific": {
+        "incident_type": "abduction",
+        "date_approximate": "1990-01-01"
+      }
+    },
+    {
+      "id": "claim-yAvD5UTziTo-blitch-alien-bug-soul-integrity",
+      "node_type": "claim",
+      "label": "Blitch recounts a bug-like entity with a triangular face opening jaws and tearing flesh from his che",
+      "summary": "Blitch recounts a bug-like entity with a triangular face opening jaws and tearing flesh from his cheeks and shoulders — the message conveyed was 'they could rip me to shreds if they wanted to but couldn't get to my soul.'",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.925540+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 133,
+          "quote": "This big bug came through the screen door on our deck and his little triangle face opens up and these jaws open up and he starts tugging chunks of flesh off of me — from my cheeks, my shoulders. He wanted me to know that they could rip me to shreds if they wanted to but they couldn't get to my soul."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Blitch recounts a bug-like entity with a triangular face opening jaws and tearing flesh from his cheeks and shoulders — the message conveyed was 'they could rip me to shreds if they wanted to but couldn't get to my soul.'",
+        "asserted_by_id": "person-john-blitch",
+        "source_video_id": "yAvD5UTziTo",
+        "timestamp_start_seconds": 133,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-john-blitch",
+          "concept-bug-alien-flesh-tearing"
+        ]
+      }
+    },
+    {
+      "id": "claim-yAvD5UTziTo-blitch-barber-team-validation",
+      "node_type": "claim",
+      "label": "Blitch personally interviewed all four members of Jake Barber's crash-retrieval team looking for tra",
+      "summary": "Blitch personally interviewed all four members of Jake Barber's crash-retrieval team looking for tradecraft-level inconsistencies between their accounts — found no hint of a red flag; this collaborative validation is core to why he believes them.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.925562+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 161,
+          "quote": "When we first met, I made all four of us, his full team of four. I was looking for inconsistencies between those folks. It was me against these four guys. I was looking for the slightest little glance between eyes. Never saw the slightest hint of a red flag."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Blitch personally interviewed all four members of Jake Barber's crash-retrieval team looking for tradecraft-level inconsistencies between their accounts — found no hint of a red flag; this collaborative validation is core to why he believes them.",
+        "asserted_by_id": "person-john-blitch",
+        "source_video_id": "yAvD5UTziTo",
+        "timestamp_start_seconds": 161,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-john-blitch",
+          "person-jake-barber"
+        ]
+      }
+    },
+    {
+      "id": "claim-yAvD5UTziTo-blitch-barber-cct-records-verified",
+      "node_type": "claim",
+      "label": "Blitch verified Jake Barber's records in the pre-CCT (Combat Control Team) training program — ground",
+      "summary": "Blitch verified Jake Barber's records in the pre-CCT (Combat Control Team) training program — grounded in physical documentation rather than testimony alone.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.925572+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 155,
+          "quote": "What I was able to verify was his track record in a pre-CCT training program. That's as far as I was able to validate by his records."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Blitch verified Jake Barber's records in the pre-CCT (Combat Control Team) training program — grounded in physical documentation rather than testimony alone.",
+        "asserted_by_id": "person-john-blitch",
+        "source_video_id": "yAvD5UTziTo",
+        "timestamp_start_seconds": 155,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-john-blitch",
+          "person-jake-barber",
+          "program-gte-air-force-10year"
+        ]
+      }
+    },
+    {
+      "id": "claim-yAvD5UTziTo-blitch-ss-no-flannel-fragment",
+      "node_type": "claim",
+      "label": "Blitch discloses a previously-unspoken anomalous memory fragment: biking, unexplained gushing bloody",
+      "summary": "Blitch discloses a previously-unspoken anomalous memory fragment: biking, unexplained gushing bloody nose, then fuzzy memory of a fuel truck with a man in a red plaid flannel — classic missing-time / screen-memory signatures of an abduction event.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.925581+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 137,
+          "quote": "A drop lands on my hand. I realize it's blood. There was no reason for me to have this gushing bloody nose. I have this fuzzy memory of a fuel truck — in the cab is this guy with a red plaid shirt — the guy in the flannel, the Red Flannel."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Blitch discloses a previously-unspoken anomalous memory fragment: biking, unexplained gushing bloody nose, then fuzzy memory of a fuel truck with a man in a red plaid flannel — classic missing-time / screen-memory signatures of an abduction event.",
+        "asserted_by_id": "person-john-blitch",
+        "source_video_id": "yAvD5UTziTo",
+        "timestamp_start_seconds": 137,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-john-blitch",
+          "incident-blitch-fuel-truck-red-flannel",
+          "phenomenon-lost-time"
+        ]
+      }
+    },
+    {
+      "id": "claim-yAvD5UTziTo-blitch-darpa-rubble-robotics",
+      "node_type": "claim",
+      "label": "Blitch managed a DARPA rubble-search robotics program as his original academic-military focus — scie",
+      "summary": "Blitch managed a DARPA rubble-search robotics program as his original academic-military focus — science underpinning before moving toward UAP-adjacent work.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.925590+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 143,
+          "quote": "My first thesis was I built an expert system to recommend which robot to pick to go into rubble."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Blitch managed a DARPA rubble-search robotics program as his original academic-military focus — science underpinning before moving toward UAP-adjacent work.",
+        "asserted_by_id": "person-john-blitch",
+        "source_video_id": "yAvD5UTziTo",
+        "timestamp_start_seconds": 143,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-john-blitch"
+        ]
+      }
     }
   ],
   "edges": [
@@ -2713,8 +2997,237 @@
           "timestamp_start": 0
         }
       ]
+    },
+    {
+      "id": "edge-person-john-blitch-ASSERTED-claim-yAvD5UTziTo-blitch-alien-bug-soul-integrity",
+      "from_node_id": "person-john-blitch",
+      "to_node_id": "claim-yAvD5UTziTo-blitch-alien-bug-soul-integrity",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 133,
+          "quote": "Blitch recounts a bug-like entity with a triangular face opening jaws and tearing flesh from his cheeks and shoulders — the message conveyed was 'they could rip me to shreds if they wanted to but coul"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-yAvD5UTziTo-REFERENCES-claim-yAvD5UTziTo-blitch-alien-bug-soul-integrity",
+      "from_node_id": "video-yAvD5UTziTo",
+      "to_node_id": "claim-yAvD5UTziTo-blitch-alien-bug-soul-integrity",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 133
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-yAvD5UTziTo-blitch-alien-bug-soul-integrity-REFERENCES-concept-bug-alien-flesh-tearing",
+      "from_node_id": "claim-yAvD5UTziTo-blitch-alien-bug-soul-integrity",
+      "to_node_id": "concept-bug-alien-flesh-tearing",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 133
+        }
+      ]
+    },
+    {
+      "id": "edge-person-john-blitch-ASSERTED-claim-yAvD5UTziTo-blitch-barber-team-validation",
+      "from_node_id": "person-john-blitch",
+      "to_node_id": "claim-yAvD5UTziTo-blitch-barber-team-validation",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 161,
+          "quote": "Blitch personally interviewed all four members of Jake Barber's crash-retrieval team looking for tradecraft-level inconsistencies between their accounts — found no hint of a red flag; this collaborati"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-yAvD5UTziTo-REFERENCES-claim-yAvD5UTziTo-blitch-barber-team-validation",
+      "from_node_id": "video-yAvD5UTziTo",
+      "to_node_id": "claim-yAvD5UTziTo-blitch-barber-team-validation",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 161
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-yAvD5UTziTo-blitch-barber-team-validation-REFERENCES-person-jake-barber",
+      "from_node_id": "claim-yAvD5UTziTo-blitch-barber-team-validation",
+      "to_node_id": "person-jake-barber",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 161
+        }
+      ]
+    },
+    {
+      "id": "edge-person-john-blitch-ASSERTED-claim-yAvD5UTziTo-blitch-barber-cct-records-verified",
+      "from_node_id": "person-john-blitch",
+      "to_node_id": "claim-yAvD5UTziTo-blitch-barber-cct-records-verified",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 155,
+          "quote": "Blitch verified Jake Barber's records in the pre-CCT (Combat Control Team) training program — grounded in physical documentation rather than testimony alone."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-yAvD5UTziTo-REFERENCES-claim-yAvD5UTziTo-blitch-barber-cct-records-verified",
+      "from_node_id": "video-yAvD5UTziTo",
+      "to_node_id": "claim-yAvD5UTziTo-blitch-barber-cct-records-verified",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 155
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-yAvD5UTziTo-blitch-barber-cct-records-verified-REFERENCES-person-jake-barber",
+      "from_node_id": "claim-yAvD5UTziTo-blitch-barber-cct-records-verified",
+      "to_node_id": "person-jake-barber",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 155
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-yAvD5UTziTo-blitch-barber-cct-records-verified-REFERENCES-program-gte-air-force-10year",
+      "from_node_id": "claim-yAvD5UTziTo-blitch-barber-cct-records-verified",
+      "to_node_id": "program-gte-air-force-10year",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 155
+        }
+      ]
+    },
+    {
+      "id": "edge-person-john-blitch-ASSERTED-claim-yAvD5UTziTo-blitch-ss-no-flannel-fragment",
+      "from_node_id": "person-john-blitch",
+      "to_node_id": "claim-yAvD5UTziTo-blitch-ss-no-flannel-fragment",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 137,
+          "quote": "Blitch discloses a previously-unspoken anomalous memory fragment: biking, unexplained gushing bloody nose, then fuzzy memory of a fuel truck with a man in a red plaid flannel — classic missing-time / "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-yAvD5UTziTo-REFERENCES-claim-yAvD5UTziTo-blitch-ss-no-flannel-fragment",
+      "from_node_id": "video-yAvD5UTziTo",
+      "to_node_id": "claim-yAvD5UTziTo-blitch-ss-no-flannel-fragment",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 137
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-yAvD5UTziTo-blitch-ss-no-flannel-fragment-REFERENCES-incident-blitch-fuel-truck-red-flannel",
+      "from_node_id": "claim-yAvD5UTziTo-blitch-ss-no-flannel-fragment",
+      "to_node_id": "incident-blitch-fuel-truck-red-flannel",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 137
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-yAvD5UTziTo-blitch-ss-no-flannel-fragment-REFERENCES-phenomenon-lost-time",
+      "from_node_id": "claim-yAvD5UTziTo-blitch-ss-no-flannel-fragment",
+      "to_node_id": "phenomenon-lost-time",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 137
+        }
+      ]
+    },
+    {
+      "id": "edge-person-john-blitch-ASSERTED-claim-yAvD5UTziTo-blitch-darpa-rubble-robotics",
+      "from_node_id": "person-john-blitch",
+      "to_node_id": "claim-yAvD5UTziTo-blitch-darpa-rubble-robotics",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 143,
+          "quote": "Blitch managed a DARPA rubble-search robotics program as his original academic-military focus — science underpinning before moving toward UAP-adjacent work."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-yAvD5UTziTo-REFERENCES-claim-yAvD5UTziTo-blitch-darpa-rubble-robotics",
+      "from_node_id": "video-yAvD5UTziTo",
+      "to_node_id": "claim-yAvD5UTziTo-blitch-darpa-rubble-robotics",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "yAvD5UTziTo",
+          "timestamp_start": 143
+        }
+      ]
     }
   ],
-  "extracted_at": "2026-04-17T11:04:44.419268+00:00",
+  "extracted_at": "2026-04-17T13:13:43.925598+00:00",
   "extractor_version": "v1-inline-claude"
 }

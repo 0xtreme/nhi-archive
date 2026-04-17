@@ -953,6 +953,191 @@
           "video-lbGE3EC6StE"
         ]
       }
+    },
+    {
+      "id": "person-halton-arp",
+      "node_type": "person",
+      "label": "Halton Arp",
+      "summary": "American astronomer; found pairs of galaxies exchanging gas with completely different redshifts — challenging the standard cosmological-distance interpretation of redshift. Marginalized by mainstream astronomy.",
+      "tags": [
+        "astronomer",
+        "heretic"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.111231+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 25,
+          "quote": "Astronomer who found non-cosmological redshifts"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Arp",
+          "Heltonarp"
+        ],
+        "profession": "astronomer",
+        "notability_tags": [
+          "astronomer",
+          "heretic"
+        ]
+      }
+    },
+    {
+      "id": "concept-non-cosmological-redshift",
+      "node_type": "concept",
+      "label": "Non-Cosmological (Anomalous) Redshift",
+      "summary": "Halton Arp's observations of interacting galaxy pairs with discordant redshifts — contradicting the Doppler-expansion framework that underlies the Big Bang. Villarroel was fascinated by this in her youth.",
+      "tags": [
+        "physics"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.111702+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 27,
+          "timestamp_end": "Arp's anomalous redshift discoveries"
+        }
+      ],
+      "type_specific": {
+        "concept_domain": "physics"
+      }
+    },
+    {
+      "id": "incident-baltic-sea-burned-biological-material",
+      "node_type": "incident",
+      "label": "Baltic Coast 'Crashed UFO' Burned Biological Material",
+      "summary": "Alleged crashed UFO / artificial structure off the Swedish coast covered in burned biological material. Hard to sample — even scientists claiming it was 'just a rock' never actually studied physical samples. Villarroel argues this is possibly the best-candidate non-human artifact available for analysis.",
+      "tags": [
+        "crash_retrieval"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.111706+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 7,
+          "timestamp_end": "Swedish coast object covered in burned biological material"
+        }
+      ],
+      "type_specific": {
+        "incident_type": "crash_retrieval",
+        "date_approximate": "2020-01-01"
+      }
+    },
+    {
+      "id": "claim-lbGE3EC6StE-villarroel-baltic-artifact-worth-study",
+      "node_type": "claim",
+      "label": "Per Villarroel: the alleged Swedish-coast crashed structure — covered in burned biological material,",
+      "summary": "Per Villarroel: the alleged Swedish-coast crashed structure — covered in burned biological material, sliding into the ocean — may be the best-candidate non-human artifact available for scientific analysis. Scientists claiming 'it's just a rock' never actually studied samples.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.112558+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 7,
+          "quote": "There's something that looks like it has been sliding into the ocean. They found this thing that looked like a crashed UFO covered in burned biological material. The scientists who had claimed it was just a rock never studied the actual samples. There's no paper and no open data."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Per Villarroel: the alleged Swedish-coast crashed structure — covered in burned biological material, sliding into the ocean — may be the best-candidate non-human artifact available for scientific analysis. Scientists claiming 'it's just a rock' never actually studied samples.",
+        "asserted_by_id": "person-beatriz-villarroel",
+        "source_video_id": "lbGE3EC6StE",
+        "timestamp_start_seconds": 7,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-beatriz-villarroel",
+          "incident-baltic-sea-burned-biological-material",
+          "incident-2011-baltic-sea-anomaly"
+        ]
+      }
+    },
+    {
+      "id": "claim-lbGE3EC6StE-villarroel-flying-saucer-cats-child-essay",
+      "node_type": "claim",
+      "label": "Villarroel's charming backstory: at age 6-7 she had already written and illustrated a small essay ab",
+      "summary": "Villarroel's charming backstory: at age 6-7 she had already written and illustrated a small essay about 'cats in flying saucers' — her UAP interest is life-long.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.112577+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 15,
+          "quote": "When I was six or seven I had written a small little essay about cats in flying saucers. I still like cats as well."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Villarroel's charming backstory: at age 6-7 she had already written and illustrated a small essay about 'cats in flying saucers' — her UAP interest is life-long.",
+        "asserted_by_id": "person-beatriz-villarroel",
+        "source_video_id": "lbGE3EC6StE",
+        "timestamp_start_seconds": 15,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-beatriz-villarroel"
+        ]
+      }
+    },
+    {
+      "id": "claim-lbGE3EC6StE-villarroel-arp-anomalous-redshift-inspiration",
+      "node_type": "claim",
+      "label": "Villarroel was fascinated by Halton Arp's non-cosmological redshift discoveries — interacting galaxy",
+      "summary": "Villarroel was fascinated by Halton Arp's non-cosmological redshift discoveries — interacting galaxy pairs with discordant redshifts challenging Big Bang cosmology. 'The verdict on redshifts is still out.'",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.112584+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 25,
+          "quote": "I was so influenced and fascinated by Halton Arp. He found couples of galaxies exchanging gas but they had completely different redshifts. The verdict on redshifts is still out."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Villarroel was fascinated by Halton Arp's non-cosmological redshift discoveries — interacting galaxy pairs with discordant redshifts challenging Big Bang cosmology. 'The verdict on redshifts is still out.'",
+        "asserted_by_id": "person-beatriz-villarroel",
+        "source_video_id": "lbGE3EC6StE",
+        "timestamp_start_seconds": 25,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-beatriz-villarroel",
+          "person-halton-arp",
+          "concept-non-cosmological-redshift"
+        ]
+      }
     }
   ],
   "edges": [
@@ -1497,8 +1682,151 @@
           "timestamp_start": 0
         }
       ]
+    },
+    {
+      "id": "edge-person-beatriz-villarroel-ASSERTED-claim-lbGE3EC6StE-villarroel-baltic-artifact-worth-study",
+      "from_node_id": "person-beatriz-villarroel",
+      "to_node_id": "claim-lbGE3EC6StE-villarroel-baltic-artifact-worth-study",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 7,
+          "quote": "Per Villarroel: the alleged Swedish-coast crashed structure — covered in burned biological material, sliding into the ocean — may be the best-candidate non-human artifact available for scientific anal"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-lbGE3EC6StE-REFERENCES-claim-lbGE3EC6StE-villarroel-baltic-artifact-worth-study",
+      "from_node_id": "video-lbGE3EC6StE",
+      "to_node_id": "claim-lbGE3EC6StE-villarroel-baltic-artifact-worth-study",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 7
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-lbGE3EC6StE-villarroel-baltic-artifact-worth-study-REFERENCES-incident-baltic-sea-burned-biological-material",
+      "from_node_id": "claim-lbGE3EC6StE-villarroel-baltic-artifact-worth-study",
+      "to_node_id": "incident-baltic-sea-burned-biological-material",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 7
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-lbGE3EC6StE-villarroel-baltic-artifact-worth-study-REFERENCES-incident-2011-baltic-sea-anomaly",
+      "from_node_id": "claim-lbGE3EC6StE-villarroel-baltic-artifact-worth-study",
+      "to_node_id": "incident-2011-baltic-sea-anomaly",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 7
+        }
+      ]
+    },
+    {
+      "id": "edge-person-beatriz-villarroel-ASSERTED-claim-lbGE3EC6StE-villarroel-flying-saucer-cats-child-essay",
+      "from_node_id": "person-beatriz-villarroel",
+      "to_node_id": "claim-lbGE3EC6StE-villarroel-flying-saucer-cats-child-essay",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 15,
+          "quote": "Villarroel's charming backstory: at age 6-7 she had already written and illustrated a small essay about 'cats in flying saucers' — her UAP interest is life-long."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-lbGE3EC6StE-REFERENCES-claim-lbGE3EC6StE-villarroel-flying-saucer-cats-child-essay",
+      "from_node_id": "video-lbGE3EC6StE",
+      "to_node_id": "claim-lbGE3EC6StE-villarroel-flying-saucer-cats-child-essay",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 15
+        }
+      ]
+    },
+    {
+      "id": "edge-person-beatriz-villarroel-ASSERTED-claim-lbGE3EC6StE-villarroel-arp-anomalous-redshift-inspiration",
+      "from_node_id": "person-beatriz-villarroel",
+      "to_node_id": "claim-lbGE3EC6StE-villarroel-arp-anomalous-redshift-inspiration",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 25,
+          "quote": "Villarroel was fascinated by Halton Arp's non-cosmological redshift discoveries — interacting galaxy pairs with discordant redshifts challenging Big Bang cosmology. 'The verdict on redshifts is still "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-lbGE3EC6StE-REFERENCES-claim-lbGE3EC6StE-villarroel-arp-anomalous-redshift-inspiration",
+      "from_node_id": "video-lbGE3EC6StE",
+      "to_node_id": "claim-lbGE3EC6StE-villarroel-arp-anomalous-redshift-inspiration",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 25
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-lbGE3EC6StE-villarroel-arp-anomalous-redshift-inspiration-REFERENCES-person-halton-arp",
+      "from_node_id": "claim-lbGE3EC6StE-villarroel-arp-anomalous-redshift-inspiration",
+      "to_node_id": "person-halton-arp",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 25
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-lbGE3EC6StE-villarroel-arp-anomalous-redshift-inspiration-REFERENCES-concept-non-cosmological-redshift",
+      "from_node_id": "claim-lbGE3EC6StE-villarroel-arp-anomalous-redshift-inspiration",
+      "to_node_id": "concept-non-cosmological-redshift",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 25
+        }
+      ]
     }
   ],
-  "extracted_at": "2026-04-17T11:05:02.572614+00:00",
+  "extracted_at": "2026-04-17T23:20:40.112591+00:00",
   "extractor_version": "v1-inline-claude"
 }

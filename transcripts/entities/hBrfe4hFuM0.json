@@ -1516,6 +1516,478 @@
           "video-hBrfe4hFuM0"
         ]
       }
+    },
+    {
+      "id": "person-james-fox",
+      "node_type": "person",
+      "label": "James Fox",
+      "summary": "Documentary filmmaker behind 'The Phenomenon' (2020) and 'Moment of Contact' — investigating Varginha 1996 and surrounding witnesses.",
+      "tags": [
+        "filmmaker",
+        "investigator"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.005704+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "hBrfe4hFuM0",
+          "timestamp_start": 11,
+          "quote": "Documentary filmmaker of 'Moment of Contact' and 'The Phenomenon'"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Fox"
+        ],
+        "profession": "filmmaker",
+        "notability_tags": [
+          "filmmaker",
+          "investigator"
+        ]
+      }
+    },
+    {
+      "id": "person-carlos-dusa",
+      "node_type": "person",
+      "label": "Carlos de Souza",
+      "summary": "Brazilian ultralight pilot who witnessed a cigar-shaped craft in distress on Jan 13 1996 near São Paulo; traveled to Molini Farm crash site; intimidated by black-suited Portuguese-speaking operatives at gunpoint.",
+      "tags": [
+        "witness",
+        "pilot",
+        "Varginha"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.005952+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "hBrfe4hFuM0",
+          "timestamp_start": 29,
+          "quote": "Brazilian ultralight pilot who witnessed cigar-shaped UFO crash Jan 13 1996"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Carlos Dza"
+        ],
+        "profession": "pilot",
+        "notability_tags": [
+          "witness",
+          "pilot",
+          "Varginha"
+        ]
+      }
+    },
+    {
+      "id": "person-fabio-futado",
+      "node_type": "person",
+      "label": "Fabio Furtado",
+      "summary": "Brazilian farmer who witnessed the Varginha cigar-shaped UFO in January 1996.",
+      "tags": [
+        "witness",
+        "Varginha"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.005955+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "hBrfe4hFuM0",
+          "timestamp_start": 21,
+          "quote": "Farmer witness to Varginha 1996 cigar-shaped craft"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Futado",
+          "Furtado"
+        ],
+        "profession": "farmer",
+        "notability_tags": [
+          "witness",
+          "Varginha"
+        ]
+      }
+    },
+    {
+      "id": "person-emma-francis-barwood",
+      "node_type": "person",
+      "label": "Emma Francis Barwood",
+      "summary": "Phoenix City Councilwoman; one of the few officials who publicly investigated the 1997 Phoenix Lights incident.",
+      "tags": [
+        "politician",
+        "investigator"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.005957+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "hBrfe4hFuM0",
+          "timestamp_start": 47,
+          "quote": "Phoenix City Councilwoman who investigated 1997 Phoenix Lights"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Barwood"
+        ],
+        "profession": "politician",
+        "notability_tags": [
+          "politician",
+          "investigator"
+        ]
+      }
+    },
+    {
+      "id": "incident-1996-varginha-brazil",
+      "node_type": "incident",
+      "label": "Varginha Brazil UFO Crash",
+      "summary": "January 13 1996 UFO crash near São Paulo, Brazil. Cigar-shaped craft (~size of school bus) described as intelligent and wounded before crashing. Witnesses include pilot Carlos de Souza. Extensive men-in-black intimidation of witnesses. Alien beings reportedly captured.",
+      "tags": [
+        "crash_retrieval"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.005962+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "hBrfe4hFuM0",
+          "timestamp_start": 19,
+          "timestamp_end": "Cigar-shaped craft crash near São Paulo with alien beings retrieved"
+        }
+      ],
+      "type_specific": {
+        "incident_type": "crash_retrieval",
+        "date_approximate": "1996-01-13"
+      }
+    },
+    {
+      "id": "incident-1997-phoenix-lights",
+      "node_type": "incident",
+      "label": "1997 Phoenix Lights",
+      "summary": "March 13 1997 Phoenix Lights mass sighting — massive boomerang/V-shaped craft witnessed by thousands over Phoenix, including the Arizona governor (who later admitted).",
+      "tags": [
+        "mass_sighting"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.005965+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "hBrfe4hFuM0",
+          "timestamp_start": 49,
+          "timestamp_end": "Massive V-shaped/boomerang craft over Phoenix Arizona"
+        }
+      ],
+      "type_specific": {
+        "incident_type": "mass_sighting",
+        "date_approximate": "1997-03-13"
+      }
+    },
+    {
+      "id": "document-moment-of-contact",
+      "node_type": "document",
+      "label": "Moment of Contact",
+      "summary": "James Fox's Showtime documentary on the Varginha 1996 UFO crash and its witnesses.",
+      "tags": [
+        "broadcast"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.005968+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "hBrfe4hFuM0",
+          "timestamp_start": 23,
+          "timestamp_end": "James Fox's documentary on Varginha 1996"
+        }
+      ],
+      "type_specific": {
+        "document_type": "broadcast",
+        "author": "James Fox"
+      }
+    },
+    {
+      "id": "concept-men-in-black-confiscation",
+      "node_type": "concept",
+      "label": "Men-in-Black Witness Confiscation Pattern",
+      "summary": "Recurring pattern (documented by Richard Dolan) of unmarked-vehicle, black-suited, well-informed operatives arriving within hours of a UFO sighting to confiscate footage and intimidate witnesses — across Varginha, Phoenix Lights, and many other cases.",
+      "tags": [
+        "politics"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.005970+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "hBrfe4hFuM0",
+          "timestamp_start": 55,
+          "timestamp_end": "Richard Dolan catalogs repeated pattern across cases"
+        }
+      ],
+      "type_specific": {
+        "concept_domain": "politics"
+      }
+    },
+    {
+      "id": "claim-hBrfe4hFuM0-varginha-cigar-crash-jan13",
+      "node_type": "claim",
+      "label": "On January 13 1996 a cigar-shaped craft (size of a school bus) crashed at the Molini Farm near São P",
+      "summary": "On January 13 1996 a cigar-shaped craft (size of a school bus) crashed at the Molini Farm near São Paulo Brazil; Carlos de Souza witnessed it descending in distress as he was going up to fly an ultralight.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.006874+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "hBrfe4hFuM0",
+          "timestamp_start": 29,
+          "quote": "He sees an object with a gash in the back. He was like a craft. I'm going down. So it's really early in the morning. A place called the Molini Farm."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "On January 13 1996 a cigar-shaped craft (size of a school bus) crashed at the Molini Farm near São Paulo Brazil; Carlos de Souza witnessed it descending in distress as he was going up to fly an ultralight.",
+        "asserted_by_id": "person-carlos-dusa",
+        "source_video_id": "hBrfe4hFuM0",
+        "timestamp_start_seconds": 29,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-carlos-dusa",
+          "incident-1996-varginha-brazil"
+        ]
+      }
+    },
+    {
+      "id": "claim-hBrfe4hFuM0-varginha-ammonia-memory-metal",
+      "node_type": "claim",
+      "label": "The Varginha crash site emitted a strong ammonia smell; witnesses described debris field bigger than",
+      "summary": "The Varginha crash site emitted a strong ammonia smell; witnesses described debris field bigger than a football field with weightless memory-metal material that reformed after crumpling — mirroring Roswell reports.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.006891+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "hBrfe4hFuM0",
+          "timestamp_start": 31,
+          "quote": "Like a debris field bigger than a football field. Smelled ammonia. He picked up one of the pieces and crumple it up really light. Like Roswell people."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "The Varginha crash site emitted a strong ammonia smell; witnesses described debris field bigger than a football field with weightless memory-metal material that reformed after crumpling — mirroring Roswell reports.",
+        "asserted_by_id": "person-carlos-dusa",
+        "source_video_id": "hBrfe4hFuM0",
+        "timestamp_start_seconds": 31,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-carlos-dusa",
+          "incident-1996-varginha-brazil",
+          "technology-memory-metal",
+          "incident-1947-roswell"
+        ]
+      }
+    },
+    {
+      "id": "claim-hBrfe4hFuM0-varginha-carlos-men-in-black",
+      "node_type": "claim",
+      "label": "Carlos de Souza was intercepted at a gas station by perfectly-aligned black-suited operatives in a p",
+      "summary": "Carlos de Souza was intercepted at a gas station by perfectly-aligned black-suited operatives in a plate-less car who recited his entire personal history (name, wife, address, daughter) and threatened him to silence.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.006905+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "hBrfe4hFuM0",
+          "timestamp_start": 39,
+          "quote": "An unmarked black car without a license plate. Dressed in black suits, all perfectly aligned. They said your family, address — my entire life story right there. They said if you ever talk about it, we'll hunt you down and kill you."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Carlos de Souza was intercepted at a gas station by perfectly-aligned black-suited operatives in a plate-less car who recited his entire personal history (name, wife, address, daughter) and threatened him to silence.",
+        "asserted_by_id": "person-carlos-dusa",
+        "source_video_id": "hBrfe4hFuM0",
+        "timestamp_start_seconds": 39,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-carlos-dusa",
+          "incident-1996-varginha-brazil",
+          "concept-men-in-black-confiscation"
+        ]
+      }
+    },
+    {
+      "id": "claim-hBrfe4hFuM0-varginha-animal-distress",
+      "node_type": "claim",
+      "label": "Animals (dogs, farmers' livestock) detected the Varginha craft before humans — made a ruckus at 2-3 ",
+      "summary": "Animals (dogs, farmers' livestock) detected the Varginha craft before humans — made a ruckus at 2-3 AM before the craft was visible — yet the craft itself was absolutely silent.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.006914+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "hBrfe4hFuM0",
+          "timestamp_start": 25,
+          "quote": "The animals or the farmers — a ruckus at 2:00 or 3:00 in the morning — was there. It was absolutely silent."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Animals (dogs, farmers' livestock) detected the Varginha craft before humans — made a ruckus at 2-3 AM before the craft was visible — yet the craft itself was absolutely silent.",
+        "asserted_by_id": "person-james-fox",
+        "source_video_id": "hBrfe4hFuM0",
+        "timestamp_start_seconds": 25,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-james-fox",
+          "incident-1996-varginha-brazil"
+        ]
+      }
+    },
+    {
+      "id": "claim-hBrfe4hFuM0-phoenix-lights-barwood-investigation",
+      "node_type": "claim",
+      "label": "Phoenix Councilwoman Emma Francis Barwood was one of the only elected officials who publicly investi",
+      "summary": "Phoenix Councilwoman Emma Francis Barwood was one of the only elected officials who publicly investigated the 1997 Phoenix Lights; the Arizona governor later admitted seeing the craft.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.006923+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "hBrfe4hFuM0",
+          "timestamp_start": 47,
+          "quote": "Council woman Francis Barwood — one of the few was willing to hey she said 'Let's just investigate.' The governor has now admitted."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Phoenix Councilwoman Emma Francis Barwood was one of the only elected officials who publicly investigated the 1997 Phoenix Lights; the Arizona governor later admitted seeing the craft.",
+        "asserted_by_id": "person-james-fox",
+        "source_video_id": "hBrfe4hFuM0",
+        "timestamp_start_seconds": 47,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-emma-francis-barwood",
+          "incident-1997-phoenix-lights"
+        ]
+      }
+    },
+    {
+      "id": "claim-hBrfe4hFuM0-phoenix-lights-footage-confiscation",
+      "node_type": "claim",
+      "label": "A Vietnam-vet witness filmed 1997 Phoenix Lights from his rooftop; arranged to share footage with Ba",
+      "summary": "A Vietnam-vet witness filmed 1997 Phoenix Lights from his rooftop; arranged to share footage with Barwood's office — men in dark suits 'from Emma Barwood's office' arrived next day, took the footage, no copies, Barwood never saw it.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.006931+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "hBrfe4hFuM0",
+          "timestamp_start": 51,
+          "quote": "They said they were from Emma Barwood's office. We're here to pick up the footage. Took the footage and left. I didn't send anybody."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "A Vietnam-vet witness filmed 1997 Phoenix Lights from his rooftop; arranged to share footage with Barwood's office — men in dark suits 'from Emma Barwood's office' arrived next day, took the footage, no copies, Barwood never saw it.",
+        "asserted_by_id": "person-james-fox",
+        "source_video_id": "hBrfe4hFuM0",
+        "timestamp_start_seconds": 51,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "incident-1997-phoenix-lights",
+          "concept-men-in-black-confiscation",
+          "person-emma-francis-barwood"
+        ]
+      }
+    },
+    {
+      "id": "claim-hBrfe4hFuM0-dolan-mib-systematic-pattern",
+      "node_type": "claim",
+      "label": "Richard Dolan documents the men-in-black confiscation pattern repeating systematically across Vargin",
+      "summary": "Richard Dolan documents the men-in-black confiscation pattern repeating systematically across Varginha, Phoenix Lights, and other cases — not individual anomalies but operational counterintelligence.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.006949+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "hBrfe4hFuM0",
+          "timestamp_start": 55,
+          "quote": "Richard Dolan — happening time and time and time again."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Richard Dolan documents the men-in-black confiscation pattern repeating systematically across Varginha, Phoenix Lights, and other cases — not individual anomalies but operational counterintelligence.",
+        "asserted_by_id": "person-james-fox",
+        "source_video_id": "hBrfe4hFuM0",
+        "timestamp_start_seconds": 55,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-richard-dolan",
+          "concept-men-in-black-confiscation"
+        ]
+      }
     }
   ],
   "edges": [
@@ -2360,8 +2832,407 @@
           "timestamp_start": 0
         }
       ]
+    },
+    {
+      "id": "edge-person-carlos-dusa-ASSERTED-claim-hBrfe4hFuM0-varginha-cigar-crash-jan13",
+      "from_node_id": "person-carlos-dusa",
+      "to_node_id": "claim-hBrfe4hFuM0-varginha-cigar-crash-jan13",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "hBrfe4hFuM0",
+          "timestamp_start": 29,
+          "quote": "On January 13 1996 a cigar-shaped craft (size of a school bus) crashed at the Molini Farm near São Paulo Brazil; Carlos de Souza witnessed it descending in distress as he was going up to fly an ultral"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-hBrfe4hFuM0-REFERENCES-claim-hBrfe4hFuM0-varginha-cigar-crash-jan13",
+      "from_node_id": "video-hBrfe4hFuM0",
+      "to_node_id": "claim-hBrfe4hFuM0-varginha-cigar-crash-jan13",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "hBrfe4hFuM0",
+          "timestamp_start": 29
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-hBrfe4hFuM0-varginha-cigar-crash-jan13-REFERENCES-incident-1996-varginha-brazil",
+      "from_node_id": "claim-hBrfe4hFuM0-varginha-cigar-crash-jan13",
+      "to_node_id": "incident-1996-varginha-brazil",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "hBrfe4hFuM0",
+          "timestamp_start": 29
+        }
+      ]
+    },
+    {
+      "id": "edge-person-carlos-dusa-ASSERTED-claim-hBrfe4hFuM0-varginha-ammonia-memory-metal",
+      "from_node_id": "person-carlos-dusa",
+      "to_node_id": "claim-hBrfe4hFuM0-varginha-ammonia-memory-metal",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "hBrfe4hFuM0",
+          "timestamp_start": 31,
+          "quote": "The Varginha crash site emitted a strong ammonia smell; witnesses described debris field bigger than a football field with weightless memory-metal material that reformed after crumpling — mirroring Ro"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-hBrfe4hFuM0-REFERENCES-claim-hBrfe4hFuM0-varginha-ammonia-memory-metal",
+      "from_node_id": "video-hBrfe4hFuM0",
+      "to_node_id": "claim-hBrfe4hFuM0-varginha-ammonia-memory-metal",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "hBrfe4hFuM0",
+          "timestamp_start": 31
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-hBrfe4hFuM0-varginha-ammonia-memory-metal-REFERENCES-incident-1996-varginha-brazil",
+      "from_node_id": "claim-hBrfe4hFuM0-varginha-ammonia-memory-metal",
+      "to_node_id": "incident-1996-varginha-brazil",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "hBrfe4hFuM0",
+          "timestamp_start": 31
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-hBrfe4hFuM0-varginha-ammonia-memory-metal-REFERENCES-technology-memory-metal",
+      "from_node_id": "claim-hBrfe4hFuM0-varginha-ammonia-memory-metal",
+      "to_node_id": "technology-memory-metal",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "hBrfe4hFuM0",
+          "timestamp_start": 31
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-hBrfe4hFuM0-varginha-ammonia-memory-metal-REFERENCES-incident-1947-roswell",
+      "from_node_id": "claim-hBrfe4hFuM0-varginha-ammonia-memory-metal",
+      "to_node_id": "incident-1947-roswell",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "hBrfe4hFuM0",
+          "timestamp_start": 31
+        }
+      ]
+    },
+    {
+      "id": "edge-person-carlos-dusa-ASSERTED-claim-hBrfe4hFuM0-varginha-carlos-men-in-black",
+      "from_node_id": "person-carlos-dusa",
+      "to_node_id": "claim-hBrfe4hFuM0-varginha-carlos-men-in-black",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "hBrfe4hFuM0",
+          "timestamp_start": 39,
+          "quote": "Carlos de Souza was intercepted at a gas station by perfectly-aligned black-suited operatives in a plate-less car who recited his entire personal history (name, wife, address, daughter) and threatened"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-hBrfe4hFuM0-REFERENCES-claim-hBrfe4hFuM0-varginha-carlos-men-in-black",
+      "from_node_id": "video-hBrfe4hFuM0",
+      "to_node_id": "claim-hBrfe4hFuM0-varginha-carlos-men-in-black",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "hBrfe4hFuM0",
+          "timestamp_start": 39
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-hBrfe4hFuM0-varginha-carlos-men-in-black-REFERENCES-incident-1996-varginha-brazil",
+      "from_node_id": "claim-hBrfe4hFuM0-varginha-carlos-men-in-black",
+      "to_node_id": "incident-1996-varginha-brazil",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "hBrfe4hFuM0",
+          "timestamp_start": 39
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-hBrfe4hFuM0-varginha-carlos-men-in-black-REFERENCES-concept-men-in-black-confiscation",
+      "from_node_id": "claim-hBrfe4hFuM0-varginha-carlos-men-in-black",
+      "to_node_id": "concept-men-in-black-confiscation",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "hBrfe4hFuM0",
+          "timestamp_start": 39
+        }
+      ]
+    },
+    {
+      "id": "edge-person-james-fox-ASSERTED-claim-hBrfe4hFuM0-varginha-animal-distress",
+      "from_node_id": "person-james-fox",
+      "to_node_id": "claim-hBrfe4hFuM0-varginha-animal-distress",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "hBrfe4hFuM0",
+          "timestamp_start": 25,
+          "quote": "Animals (dogs, farmers' livestock) detected the Varginha craft before humans — made a ruckus at 2-3 AM before the craft was visible — yet the craft itself was absolutely silent."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-hBrfe4hFuM0-REFERENCES-claim-hBrfe4hFuM0-varginha-animal-distress",
+      "from_node_id": "video-hBrfe4hFuM0",
+      "to_node_id": "claim-hBrfe4hFuM0-varginha-animal-distress",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "hBrfe4hFuM0",
+          "timestamp_start": 25
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-hBrfe4hFuM0-varginha-animal-distress-REFERENCES-incident-1996-varginha-brazil",
+      "from_node_id": "claim-hBrfe4hFuM0-varginha-animal-distress",
+      "to_node_id": "incident-1996-varginha-brazil",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "hBrfe4hFuM0",
+          "timestamp_start": 25
+        }
+      ]
+    },
+    {
+      "id": "edge-person-james-fox-ASSERTED-claim-hBrfe4hFuM0-phoenix-lights-barwood-investigation",
+      "from_node_id": "person-james-fox",
+      "to_node_id": "claim-hBrfe4hFuM0-phoenix-lights-barwood-investigation",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "hBrfe4hFuM0",
+          "timestamp_start": 47,
+          "quote": "Phoenix Councilwoman Emma Francis Barwood was one of the only elected officials who publicly investigated the 1997 Phoenix Lights; the Arizona governor later admitted seeing the craft."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-hBrfe4hFuM0-REFERENCES-claim-hBrfe4hFuM0-phoenix-lights-barwood-investigation",
+      "from_node_id": "video-hBrfe4hFuM0",
+      "to_node_id": "claim-hBrfe4hFuM0-phoenix-lights-barwood-investigation",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "hBrfe4hFuM0",
+          "timestamp_start": 47
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-hBrfe4hFuM0-phoenix-lights-barwood-investigation-REFERENCES-person-emma-francis-barwood",
+      "from_node_id": "claim-hBrfe4hFuM0-phoenix-lights-barwood-investigation",
+      "to_node_id": "person-emma-francis-barwood",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "hBrfe4hFuM0",
+          "timestamp_start": 47
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-hBrfe4hFuM0-phoenix-lights-barwood-investigation-REFERENCES-incident-1997-phoenix-lights",
+      "from_node_id": "claim-hBrfe4hFuM0-phoenix-lights-barwood-investigation",
+      "to_node_id": "incident-1997-phoenix-lights",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "hBrfe4hFuM0",
+          "timestamp_start": 47
+        }
+      ]
+    },
+    {
+      "id": "edge-person-james-fox-ASSERTED-claim-hBrfe4hFuM0-phoenix-lights-footage-confiscation",
+      "from_node_id": "person-james-fox",
+      "to_node_id": "claim-hBrfe4hFuM0-phoenix-lights-footage-confiscation",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "hBrfe4hFuM0",
+          "timestamp_start": 51,
+          "quote": "A Vietnam-vet witness filmed 1997 Phoenix Lights from his rooftop; arranged to share footage with Barwood's office — men in dark suits 'from Emma Barwood's office' arrived next day, took the footage, "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-hBrfe4hFuM0-REFERENCES-claim-hBrfe4hFuM0-phoenix-lights-footage-confiscation",
+      "from_node_id": "video-hBrfe4hFuM0",
+      "to_node_id": "claim-hBrfe4hFuM0-phoenix-lights-footage-confiscation",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "hBrfe4hFuM0",
+          "timestamp_start": 51
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-hBrfe4hFuM0-phoenix-lights-footage-confiscation-REFERENCES-incident-1997-phoenix-lights",
+      "from_node_id": "claim-hBrfe4hFuM0-phoenix-lights-footage-confiscation",
+      "to_node_id": "incident-1997-phoenix-lights",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "hBrfe4hFuM0",
+          "timestamp_start": 51
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-hBrfe4hFuM0-phoenix-lights-footage-confiscation-REFERENCES-concept-men-in-black-confiscation",
+      "from_node_id": "claim-hBrfe4hFuM0-phoenix-lights-footage-confiscation",
+      "to_node_id": "concept-men-in-black-confiscation",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "hBrfe4hFuM0",
+          "timestamp_start": 51
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-hBrfe4hFuM0-phoenix-lights-footage-confiscation-REFERENCES-person-emma-francis-barwood",
+      "from_node_id": "claim-hBrfe4hFuM0-phoenix-lights-footage-confiscation",
+      "to_node_id": "person-emma-francis-barwood",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "hBrfe4hFuM0",
+          "timestamp_start": 51
+        }
+      ]
+    },
+    {
+      "id": "edge-person-james-fox-ASSERTED-claim-hBrfe4hFuM0-dolan-mib-systematic-pattern",
+      "from_node_id": "person-james-fox",
+      "to_node_id": "claim-hBrfe4hFuM0-dolan-mib-systematic-pattern",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "hBrfe4hFuM0",
+          "timestamp_start": 55,
+          "quote": "Richard Dolan documents the men-in-black confiscation pattern repeating systematically across Varginha, Phoenix Lights, and other cases — not individual anomalies but operational counterintelligence."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-hBrfe4hFuM0-REFERENCES-claim-hBrfe4hFuM0-dolan-mib-systematic-pattern",
+      "from_node_id": "video-hBrfe4hFuM0",
+      "to_node_id": "claim-hBrfe4hFuM0-dolan-mib-systematic-pattern",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "hBrfe4hFuM0",
+          "timestamp_start": 55
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-hBrfe4hFuM0-dolan-mib-systematic-pattern-REFERENCES-person-richard-dolan",
+      "from_node_id": "claim-hBrfe4hFuM0-dolan-mib-systematic-pattern",
+      "to_node_id": "person-richard-dolan",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "hBrfe4hFuM0",
+          "timestamp_start": 55
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-hBrfe4hFuM0-dolan-mib-systematic-pattern-REFERENCES-concept-men-in-black-confiscation",
+      "from_node_id": "claim-hBrfe4hFuM0-dolan-mib-systematic-pattern",
+      "to_node_id": "concept-men-in-black-confiscation",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "hBrfe4hFuM0",
+          "timestamp_start": 55
+        }
+      ]
     }
   ],
-  "extracted_at": "2026-04-17T11:04:20.908576+00:00",
+  "extracted_at": "2026-04-17T12:49:16.006958+00:00",
   "extractor_version": "v1-inline-claude"
 }

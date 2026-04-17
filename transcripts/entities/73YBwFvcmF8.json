@@ -895,6 +895,324 @@
           "video-73YBwFvcmF8"
         ]
       }
+    },
+    {
+      "id": "person-mario-woods",
+      "node_type": "person",
+      "label": "Mario Woods",
+      "summary": "Former US Air Force Security Police officer stationed at Ellsworth AFB 1977; experienced a UFO encounter with missing time and physical marks at November 5 missile site near Sturgis, South Dakota.",
+      "tags": [
+        "witness",
+        "experiencer",
+        "USAF",
+        "abductee",
+        "Ellsworth"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.485135+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "73YBwFvcmF8",
+          "timestamp_start": 10,
+          "quote": "Former US Air Force Security Police at Ellsworth AFB Nov 1977 abductee"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Woods"
+        ],
+        "profession": "military veteran",
+        "notability_tags": [
+          "witness",
+          "experiencer",
+          "USAF",
+          "abductee",
+          "Ellsworth"
+        ]
+      }
+    },
+    {
+      "id": "person-michael-johnson-ellsworth",
+      "node_type": "person",
+      "label": "Michael Johnson (USAF partner)",
+      "summary": "US Air Force Security Police officer working vacation relief at Ellsworth; Woods' partner on the night of the November 1977 incident.",
+      "tags": [
+        "witness",
+        "USAF"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.485570+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "73YBwFvcmF8",
+          "timestamp_start": 22,
+          "quote": "USAF Security Police partner to Mario Woods during Nov 1977 incident"
+        }
+      ],
+      "type_specific": {
+        "aliases": [],
+        "profession": "military veteran",
+        "notability_tags": [
+          "witness",
+          "USAF"
+        ]
+      }
+    },
+    {
+      "id": "person-bill-hollman",
+      "node_type": "person",
+      "label": "Bill Hollman",
+      "summary": "US Air Force Staff Sergeant and Flight Security Controller on duty at the November 1977 Ellsworth missile facility.",
+      "tags": [
+        "USAF"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.485573+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "73YBwFvcmF8",
+          "timestamp_start": 43,
+          "quote": "USAF Staff Sergeant, Flight Security Controller at Ellsworth November site"
+        }
+      ],
+      "type_specific": {
+        "aliases": [],
+        "profession": "military veteran",
+        "notability_tags": [
+          "USAF"
+        ]
+      }
+    },
+    {
+      "id": "incident-1977-ellsworth-november-5",
+      "node_type": "incident",
+      "label": "November 1977 Ellsworth 'November-5' Missile Site UFO",
+      "summary": "Nov 1977 UFO encounter at Ellsworth AFB's November-5 Minuteman II missile site in South Dakota. Witnessed by USAF SP Mario Woods; involved signaling exchange, hovering sphere, and missing time.",
+      "tags": [
+        "abduction"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.485576+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "73YBwFvcmF8",
+          "timestamp_start": 11,
+          "timestamp_end": "Missing time incident at November 5 missile site near Sturgis"
+        }
+      ],
+      "type_specific": {
+        "incident_type": "abduction",
+        "date_approximate": "1977-11-17"
+      }
+    },
+    {
+      "id": "location-ellsworth-november-5-site",
+      "node_type": "location",
+      "label": "Ellsworth November-5 Missile Site",
+      "summary": "",
+      "tags": [
+        "military_base"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.485578+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "73YBwFvcmF8",
+          "timestamp_start": 13,
+          "timestamp_end": "Minute Man II missile silo north of Sturgis, SD"
+        }
+      ],
+      "type_specific": {
+        "location_type": "military_base",
+        "country": "US",
+        "state_or_region": "South Dakota"
+      }
+    },
+    {
+      "id": "claim-73YBwFvcmF8-woods-blast-door-sphere",
+      "node_type": "claim",
+      "label": "Mario Woods describes a sphere roughly the size of a Walmart building hovering ~10 ft above the blas",
+      "summary": "Mario Woods describes a sphere roughly the size of a Walmart building hovering ~10 ft above the blast door of the November-5 Minuteman II silo at Ellsworth.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.486312+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "73YBwFvcmF8",
+          "timestamp_start": 9,
+          "quote": "There sat this object on top of November 5 that was about 10 ft in the air directly on top of that blast door that was the size of a Walmart building. It was huge and it was a sphere."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Mario Woods describes a sphere roughly the size of a Walmart building hovering ~10 ft above the blast door of the November-5 Minuteman II silo at Ellsworth.",
+        "asserted_by_id": "person-mario-woods",
+        "source_video_id": "73YBwFvcmF8",
+        "timestamp_start_seconds": 9,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-mario-woods",
+          "location-ellsworth-november-5-site",
+          "incident-1977-ellsworth-november-5"
+        ]
+      }
+    },
+    {
+      "id": "claim-73YBwFvcmF8-woods-signal-exchange",
+      "node_type": "claim",
+      "label": "Woods flashed his facility lights three times; the UFO flashed back in the same pattern — then repea",
+      "summary": "Woods flashed his facility lights three times; the UFO flashed back in the same pattern — then repeated with a three-two-three sequence — confirming two-way signaling.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.486327+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "73YBwFvcmF8",
+          "timestamp_start": 47,
+          "quote": "I just flipped it off and on off and on off and on three times. It goes out on out on out and on. It just sent shivers up me. They do see me."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Woods flashed his facility lights three times; the UFO flashed back in the same pattern — then repeated with a three-two-three sequence — confirming two-way signaling.",
+        "asserted_by_id": "person-mario-woods",
+        "source_video_id": "73YBwFvcmF8",
+        "timestamp_start_seconds": 47,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-mario-woods",
+          "incident-1977-ellsworth-november-5"
+        ]
+      }
+    },
+    {
+      "id": "claim-73YBwFvcmF8-woods-prp-clearance",
+      "node_type": "claim",
+      "label": "Woods was cleared under the USAF Personal Reliability Program (PRP) — explicit vetting of mental-hea",
+      "summary": "Woods was cleared under the USAF Personal Reliability Program (PRP) — explicit vetting of mental-health stability required to work around nuclear weapons.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.486336+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "73YBwFvcmF8",
+          "timestamp_start": 19,
+          "quote": "I was part of the personal reliability program also for sensitive nuclear equipment. They really analyze you deeply to see if you can't do that."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Woods was cleared under the USAF Personal Reliability Program (PRP) — explicit vetting of mental-health stability required to work around nuclear weapons.",
+        "asserted_by_id": "person-mario-woods",
+        "source_video_id": "73YBwFvcmF8",
+        "timestamp_start_seconds": 19,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-mario-woods",
+          "organization-us-air-force"
+        ]
+      }
+    },
+    {
+      "id": "claim-73YBwFvcmF8-woods-collie-catatonic-shock",
+      "node_type": "claim",
+      "label": "Woods' dog (a collie) was found in catatonic shock for hours after the incident — corroborating a ph",
+      "summary": "Woods' dog (a collie) was found in catatonic shock for hours after the incident — corroborating a physical disturbance beyond subjective human report.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.486343+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "73YBwFvcmF8",
+          "timestamp_start": 11,
+          "quote": "A collie locked in catatonic shock for hours literally could not get a breath of air it was just all encompassing."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Woods' dog (a collie) was found in catatonic shock for hours after the incident — corroborating a physical disturbance beyond subjective human report.",
+        "asserted_by_id": "person-mario-woods",
+        "source_video_id": "73YBwFvcmF8",
+        "timestamp_start_seconds": 11,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-mario-woods",
+          "incident-1977-ellsworth-november-5"
+        ]
+      }
+    },
+    {
+      "id": "claim-73YBwFvcmF8-woods-missing-time-physical-marks",
+      "node_type": "claim",
+      "label": "Woods' incident left him with missing time and physical marks on his body — classic abduction-case p",
+      "summary": "Woods' incident left him with missing time and physical marks on his body — classic abduction-case physical signatures.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.486352+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "73YBwFvcmF8",
+          "timestamp_start": 11,
+          "quote": "Literally leaving him with missing time marks on his body."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Woods' incident left him with missing time and physical marks on his body — classic abduction-case physical signatures.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "73YBwFvcmF8",
+        "timestamp_start_seconds": 11,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-mario-woods",
+          "phenomenon-lost-time"
+        ]
+      }
     }
   ],
   "edges": [
@@ -1379,8 +1697,251 @@
           "timestamp_start": 0
         }
       ]
+    },
+    {
+      "id": "edge-person-mario-woods-ASSERTED-claim-73YBwFvcmF8-woods-blast-door-sphere",
+      "from_node_id": "person-mario-woods",
+      "to_node_id": "claim-73YBwFvcmF8-woods-blast-door-sphere",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "73YBwFvcmF8",
+          "timestamp_start": 9,
+          "quote": "Mario Woods describes a sphere roughly the size of a Walmart building hovering ~10 ft above the blast door of the November-5 Minuteman II silo at Ellsworth."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-73YBwFvcmF8-REFERENCES-claim-73YBwFvcmF8-woods-blast-door-sphere",
+      "from_node_id": "video-73YBwFvcmF8",
+      "to_node_id": "claim-73YBwFvcmF8-woods-blast-door-sphere",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "73YBwFvcmF8",
+          "timestamp_start": 9
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-73YBwFvcmF8-woods-blast-door-sphere-REFERENCES-location-ellsworth-november-5-site",
+      "from_node_id": "claim-73YBwFvcmF8-woods-blast-door-sphere",
+      "to_node_id": "location-ellsworth-november-5-site",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "73YBwFvcmF8",
+          "timestamp_start": 9
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-73YBwFvcmF8-woods-blast-door-sphere-REFERENCES-incident-1977-ellsworth-november-5",
+      "from_node_id": "claim-73YBwFvcmF8-woods-blast-door-sphere",
+      "to_node_id": "incident-1977-ellsworth-november-5",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "73YBwFvcmF8",
+          "timestamp_start": 9
+        }
+      ]
+    },
+    {
+      "id": "edge-person-mario-woods-ASSERTED-claim-73YBwFvcmF8-woods-signal-exchange",
+      "from_node_id": "person-mario-woods",
+      "to_node_id": "claim-73YBwFvcmF8-woods-signal-exchange",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "73YBwFvcmF8",
+          "timestamp_start": 47,
+          "quote": "Woods flashed his facility lights three times; the UFO flashed back in the same pattern — then repeated with a three-two-three sequence — confirming two-way signaling."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-73YBwFvcmF8-REFERENCES-claim-73YBwFvcmF8-woods-signal-exchange",
+      "from_node_id": "video-73YBwFvcmF8",
+      "to_node_id": "claim-73YBwFvcmF8-woods-signal-exchange",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "73YBwFvcmF8",
+          "timestamp_start": 47
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-73YBwFvcmF8-woods-signal-exchange-REFERENCES-incident-1977-ellsworth-november-5",
+      "from_node_id": "claim-73YBwFvcmF8-woods-signal-exchange",
+      "to_node_id": "incident-1977-ellsworth-november-5",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "73YBwFvcmF8",
+          "timestamp_start": 47
+        }
+      ]
+    },
+    {
+      "id": "edge-person-mario-woods-ASSERTED-claim-73YBwFvcmF8-woods-prp-clearance",
+      "from_node_id": "person-mario-woods",
+      "to_node_id": "claim-73YBwFvcmF8-woods-prp-clearance",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "73YBwFvcmF8",
+          "timestamp_start": 19,
+          "quote": "Woods was cleared under the USAF Personal Reliability Program (PRP) — explicit vetting of mental-health stability required to work around nuclear weapons."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-73YBwFvcmF8-REFERENCES-claim-73YBwFvcmF8-woods-prp-clearance",
+      "from_node_id": "video-73YBwFvcmF8",
+      "to_node_id": "claim-73YBwFvcmF8-woods-prp-clearance",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "73YBwFvcmF8",
+          "timestamp_start": 19
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-73YBwFvcmF8-woods-prp-clearance-REFERENCES-organization-us-air-force",
+      "from_node_id": "claim-73YBwFvcmF8-woods-prp-clearance",
+      "to_node_id": "organization-us-air-force",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "73YBwFvcmF8",
+          "timestamp_start": 19
+        }
+      ]
+    },
+    {
+      "id": "edge-person-mario-woods-ASSERTED-claim-73YBwFvcmF8-woods-collie-catatonic-shock",
+      "from_node_id": "person-mario-woods",
+      "to_node_id": "claim-73YBwFvcmF8-woods-collie-catatonic-shock",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "73YBwFvcmF8",
+          "timestamp_start": 11,
+          "quote": "Woods' dog (a collie) was found in catatonic shock for hours after the incident — corroborating a physical disturbance beyond subjective human report."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-73YBwFvcmF8-REFERENCES-claim-73YBwFvcmF8-woods-collie-catatonic-shock",
+      "from_node_id": "video-73YBwFvcmF8",
+      "to_node_id": "claim-73YBwFvcmF8-woods-collie-catatonic-shock",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "73YBwFvcmF8",
+          "timestamp_start": 11
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-73YBwFvcmF8-woods-collie-catatonic-shock-REFERENCES-incident-1977-ellsworth-november-5",
+      "from_node_id": "claim-73YBwFvcmF8-woods-collie-catatonic-shock",
+      "to_node_id": "incident-1977-ellsworth-november-5",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "73YBwFvcmF8",
+          "timestamp_start": 11
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-73YBwFvcmF8-woods-missing-time-physical-marks",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-73YBwFvcmF8-woods-missing-time-physical-marks",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "73YBwFvcmF8",
+          "timestamp_start": 11,
+          "quote": "Woods' incident left him with missing time and physical marks on his body — classic abduction-case physical signatures."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-73YBwFvcmF8-REFERENCES-claim-73YBwFvcmF8-woods-missing-time-physical-marks",
+      "from_node_id": "video-73YBwFvcmF8",
+      "to_node_id": "claim-73YBwFvcmF8-woods-missing-time-physical-marks",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "73YBwFvcmF8",
+          "timestamp_start": 11
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-73YBwFvcmF8-woods-missing-time-physical-marks-REFERENCES-person-mario-woods",
+      "from_node_id": "claim-73YBwFvcmF8-woods-missing-time-physical-marks",
+      "to_node_id": "person-mario-woods",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "73YBwFvcmF8",
+          "timestamp_start": 11
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-73YBwFvcmF8-woods-missing-time-physical-marks-REFERENCES-phenomenon-lost-time",
+      "from_node_id": "claim-73YBwFvcmF8-woods-missing-time-physical-marks",
+      "to_node_id": "phenomenon-lost-time",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "73YBwFvcmF8",
+          "timestamp_start": 11
+        }
+      ]
     }
   ],
-  "extracted_at": "2026-04-17T11:04:13.928095+00:00",
+  "extracted_at": "2026-04-17T12:31:49.486360+00:00",
   "extractor_version": "v1-inline-claude"
 }

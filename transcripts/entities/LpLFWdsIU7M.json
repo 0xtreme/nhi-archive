@@ -1726,6 +1726,253 @@
           "video-LpLFWdsIU7M"
         ]
       }
+    },
+    {
+      "id": "person-matthew-pines-extended",
+      "node_type": "person",
+      "label": "Matthew Pines (extended)",
+      "summary": "Director of Intelligence at Sentinel One; crypto background. Near-perfect photographic memory; commands UAP literature exhaustively across physics, geopolitics, and program structure. Frequent Jesse Michels guest.",
+      "tags": [
+        "analyst",
+        "researcher"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:30:03.999356+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 13,
+          "quote": "Sentinel One Dir of Intelligence; UAP disclosure policy analyst"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Pines"
+        ],
+        "profession": "analyst",
+        "notability_tags": [
+          "analyst",
+          "researcher"
+        ]
+      }
+    },
+    {
+      "id": "concept-perestroika-american-analog",
+      "node_type": "concept",
+      "label": "American Perestroika Framework",
+      "summary": "Matthew Pines' analogy framework: 2024-2025 US political phase-shift best understood as American perestroika — alliance of ejected technocrats (Thiel, Musk), tech oligarchs, and security-state insiders against decaying managerial establishment. Soviet parallels. UFO disclosure may be part of opening-up.",
+      "tags": [
+        "politics"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:30:03.999557+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 19,
+          "timestamp_end": "Pines framework: Trump era = US perestroika / glasnost analog"
+        }
+      ],
+      "type_specific": {
+        "concept_domain": "politics"
+      }
+    },
+    {
+      "id": "concept-ai-quantum-uap-triangle",
+      "node_type": "concept",
+      "label": "AI / Quantum / UAP Convergence Triangle",
+      "summary": "Per Pines' DoD Intel sources: there is a triangle convergence — AI, quantum computing, and the Grusch-disclosure UAP material. Deep-state insiders are increasingly recognizing these are not separable research threads.",
+      "tags": [
+        "politics"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:30:03.999561+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 12,
+          "timestamp_end": "Convergence of three previously separate domains flagged by DoD insiders"
+        }
+      ],
+      "type_specific": {
+        "concept_domain": "politics"
+      }
+    },
+    {
+      "id": "claim-LpLFWdsIU7M-pines-perestroika-us-parallel",
+      "node_type": "claim",
+      "label": "Pines' framing: 2024-2025 American political phase-shift is best modeled as a US perestroika — allia",
+      "summary": "Pines' framing: 2024-2025 American political phase-shift is best modeled as a US perestroika — alliance of ejected technocrats, tech oligarchs, and security-state insiders displacing managerial establishment. UFO disclosure is part of the opening.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:30:04.000529+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 19,
+          "quote": "The closest analogy is sort of America's perestroika. Perestroika in the Soviet system came with glasnost — reform and opening up. You're witnessing a new anti-establishment heterogeneous alignment displacing the old establishment."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Pines' framing: 2024-2025 American political phase-shift is best modeled as a US perestroika — alliance of ejected technocrats, tech oligarchs, and security-state insiders displacing managerial establishment. UFO disclosure is part of the opening.",
+        "asserted_by_id": "person-matthew-pines-extended",
+        "source_video_id": "LpLFWdsIU7M",
+        "timestamp_start_seconds": 19,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-matthew-pines-extended",
+          "concept-perestroika-american-analog"
+        ]
+      }
+    },
+    {
+      "id": "claim-LpLFWdsIU7M-pines-dod-intel-water-medium-zap",
+      "node_type": "claim",
+      "label": "Pines reports DoD Intel sources told him just recently: 'one of the things came out of the water med",
+      "summary": "Pines reports DoD Intel sources told him just recently: 'one of the things came out of the water medium and zapped hit somebody' — direct-effect UAP incident in active reporting.",
+      "tags": [
+        "hearsay",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:30:04.000543+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 7,
+          "quote": "Just the other day, some people inside DoD Intel told me one of the things came out of the water medium and zapped hit somebody."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Pines reports DoD Intel sources told him just recently: 'one of the things came out of the water medium and zapped hit somebody' — direct-effect UAP incident in active reporting.",
+        "asserted_by_id": "person-matthew-pines-extended",
+        "source_video_id": "LpLFWdsIU7M",
+        "timestamp_start_seconds": 7,
+        "assertability": "hearsay",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-matthew-pines-extended"
+        ]
+      }
+    },
+    {
+      "id": "claim-LpLFWdsIU7M-pines-ai-quantum-uap-triangle",
+      "node_type": "claim",
+      "label": "Pines: DoD Intel insiders explicitly name the convergence — 'they said it's a triangle. AI, quantum,",
+      "summary": "Pines: DoD Intel insiders explicitly name the convergence — 'they said it's a triangle. AI, quantum, and the Grusch stuff. What the hell is actually happening?'",
+      "tags": [
+        "hearsay",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:30:04.000551+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 12,
+          "quote": "They said it's a triangle. AI, quantum, and the Grush stuff. What the hell is actually happening?"
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Pines: DoD Intel insiders explicitly name the convergence — 'they said it's a triangle. AI, quantum, and the Grusch stuff. What the hell is actually happening?'",
+        "asserted_by_id": "person-matthew-pines-extended",
+        "source_video_id": "LpLFWdsIU7M",
+        "timestamp_start_seconds": 12,
+        "assertability": "hearsay",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-matthew-pines-extended",
+          "concept-ai-quantum-uap-triangle"
+        ]
+      }
+    },
+    {
+      "id": "claim-LpLFWdsIU7M-pines-brain-room-temp-quantum",
+      "node_type": "claim",
+      "label": "Pines: 'I think the brain itself is probably maybe a room-temperature quantum system' — aligning con",
+      "summary": "Pines: 'I think the brain itself is probably maybe a room-temperature quantum system' — aligning consciousness-physics with UAP detection/interaction mechanisms.",
+      "tags": [
+        "speculation",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:30:04.000559+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 9,
+          "quote": "I think the brain itself is probably, you know, maybe a room temperature quantum system."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Pines: 'I think the brain itself is probably maybe a room-temperature quantum system' — aligning consciousness-physics with UAP detection/interaction mechanisms.",
+        "asserted_by_id": "person-matthew-pines-extended",
+        "source_video_id": "LpLFWdsIU7M",
+        "timestamp_start_seconds": 9,
+        "assertability": "speculation",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-matthew-pines-extended"
+        ]
+      }
+    },
+    {
+      "id": "claim-LpLFWdsIU7M-pines-cannibalize-periphery",
+      "node_type": "claim",
+      "label": "Pines geopolitical aphorism: 'Any imperial system when it runs into trouble, first thing it does is ",
+      "summary": "Pines geopolitical aphorism: 'Any imperial system when it runs into trouble, first thing it does is it cannibalizes the periphery. Things seem to be unraveling quickly.'",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:30:04.000567+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 9,
+          "quote": "Any imperial system when it runs into trouble, first thing it does is it cannibalizes the periphery. Things seem to be kind of unraveling quickly."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Pines geopolitical aphorism: 'Any imperial system when it runs into trouble, first thing it does is it cannibalizes the periphery. Things seem to be unraveling quickly.'",
+        "asserted_by_id": "person-matthew-pines-extended",
+        "source_video_id": "LpLFWdsIU7M",
+        "timestamp_start_seconds": 9,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-matthew-pines-extended"
+        ]
+      }
     }
   ],
   "edges": [
@@ -2615,8 +2862,181 @@
           "timestamp_start": 0
         }
       ]
+    },
+    {
+      "id": "edge-person-matthew-pines-extended-ASSERTED-claim-LpLFWdsIU7M-pines-perestroika-us-parallel",
+      "from_node_id": "person-matthew-pines-extended",
+      "to_node_id": "claim-LpLFWdsIU7M-pines-perestroika-us-parallel",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 19,
+          "quote": "Pines' framing: 2024-2025 American political phase-shift is best modeled as a US perestroika — alliance of ejected technocrats, tech oligarchs, and security-state insiders displacing managerial establ"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-LpLFWdsIU7M-REFERENCES-claim-LpLFWdsIU7M-pines-perestroika-us-parallel",
+      "from_node_id": "video-LpLFWdsIU7M",
+      "to_node_id": "claim-LpLFWdsIU7M-pines-perestroika-us-parallel",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 19
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-LpLFWdsIU7M-pines-perestroika-us-parallel-REFERENCES-concept-perestroika-american-analog",
+      "from_node_id": "claim-LpLFWdsIU7M-pines-perestroika-us-parallel",
+      "to_node_id": "concept-perestroika-american-analog",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 19
+        }
+      ]
+    },
+    {
+      "id": "edge-person-matthew-pines-extended-ASSERTED-claim-LpLFWdsIU7M-pines-dod-intel-water-medium-zap",
+      "from_node_id": "person-matthew-pines-extended",
+      "to_node_id": "claim-LpLFWdsIU7M-pines-dod-intel-water-medium-zap",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 7,
+          "quote": "Pines reports DoD Intel sources told him just recently: 'one of the things came out of the water medium and zapped hit somebody' — direct-effect UAP incident in active reporting."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-LpLFWdsIU7M-REFERENCES-claim-LpLFWdsIU7M-pines-dod-intel-water-medium-zap",
+      "from_node_id": "video-LpLFWdsIU7M",
+      "to_node_id": "claim-LpLFWdsIU7M-pines-dod-intel-water-medium-zap",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 7
+        }
+      ]
+    },
+    {
+      "id": "edge-person-matthew-pines-extended-ASSERTED-claim-LpLFWdsIU7M-pines-ai-quantum-uap-triangle",
+      "from_node_id": "person-matthew-pines-extended",
+      "to_node_id": "claim-LpLFWdsIU7M-pines-ai-quantum-uap-triangle",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 12,
+          "quote": "Pines: DoD Intel insiders explicitly name the convergence — 'they said it's a triangle. AI, quantum, and the Grusch stuff. What the hell is actually happening?'"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-LpLFWdsIU7M-REFERENCES-claim-LpLFWdsIU7M-pines-ai-quantum-uap-triangle",
+      "from_node_id": "video-LpLFWdsIU7M",
+      "to_node_id": "claim-LpLFWdsIU7M-pines-ai-quantum-uap-triangle",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 12
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-LpLFWdsIU7M-pines-ai-quantum-uap-triangle-REFERENCES-concept-ai-quantum-uap-triangle",
+      "from_node_id": "claim-LpLFWdsIU7M-pines-ai-quantum-uap-triangle",
+      "to_node_id": "concept-ai-quantum-uap-triangle",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 12
+        }
+      ]
+    },
+    {
+      "id": "edge-person-matthew-pines-extended-ASSERTED-claim-LpLFWdsIU7M-pines-brain-room-temp-quantum",
+      "from_node_id": "person-matthew-pines-extended",
+      "to_node_id": "claim-LpLFWdsIU7M-pines-brain-room-temp-quantum",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 9,
+          "quote": "Pines: 'I think the brain itself is probably maybe a room-temperature quantum system' — aligning consciousness-physics with UAP detection/interaction mechanisms."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-LpLFWdsIU7M-REFERENCES-claim-LpLFWdsIU7M-pines-brain-room-temp-quantum",
+      "from_node_id": "video-LpLFWdsIU7M",
+      "to_node_id": "claim-LpLFWdsIU7M-pines-brain-room-temp-quantum",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 9
+        }
+      ]
+    },
+    {
+      "id": "edge-person-matthew-pines-extended-ASSERTED-claim-LpLFWdsIU7M-pines-cannibalize-periphery",
+      "from_node_id": "person-matthew-pines-extended",
+      "to_node_id": "claim-LpLFWdsIU7M-pines-cannibalize-periphery",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 9,
+          "quote": "Pines geopolitical aphorism: 'Any imperial system when it runs into trouble, first thing it does is it cannibalizes the periphery. Things seem to be unraveling quickly.'"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-LpLFWdsIU7M-REFERENCES-claim-LpLFWdsIU7M-pines-cannibalize-periphery",
+      "from_node_id": "video-LpLFWdsIU7M",
+      "to_node_id": "claim-LpLFWdsIU7M-pines-cannibalize-periphery",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 9
+        }
+      ]
     }
   ],
-  "extracted_at": "2026-04-17T11:04:58.036481+00:00",
+  "extracted_at": "2026-04-17T13:30:04.000575+00:00",
   "extractor_version": "v1-inline-claude"
 }

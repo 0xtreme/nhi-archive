@@ -680,6 +680,305 @@
           "video-ZTIO-xAP0Dw"
         ]
       }
+    },
+    {
+      "id": "person-brett-weinstein",
+      "node_type": "person",
+      "label": "Brett Weinstein",
+      "summary": "Evolutionary biologist; Eric Weinstein's younger brother; member of the Intellectual Dark Web; frequently on YouTube 'most wanted list' for heterodox pandemic commentary.",
+      "tags": [
+        "scientist",
+        "biologist",
+        "IDW"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.111793+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ZTIO-xAP0Dw",
+          "timestamp_start": 305,
+          "quote": "Evolutionary biologist; Eric Weinstein's brother"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Weinstein"
+        ],
+        "profession": "biologist",
+        "notability_tags": [
+          "scientist",
+          "biologist",
+          "IDW"
+        ]
+      }
+    },
+    {
+      "id": "concept-intellectual-dark-web",
+      "node_type": "concept",
+      "label": "Intellectual Dark Web (IDW)",
+      "summary": "Eric Weinstein-coined movement ~2018: loose group of pro-reason, pro-democracy centrist intellectuals including Joe Rogan, Jordan Peterson, Sam Harris, Brett Weinstein, and Eric himself. 'Not as ominous as it sounds.'",
+      "tags": [
+        "politics"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.111796+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ZTIO-xAP0Dw",
+          "timestamp_start": 303,
+          "timestamp_end": "Eric Weinstein-coined movement of pro-reason centrist intellectuals"
+        }
+      ],
+      "type_specific": {
+        "concept_domain": "politics"
+      }
+    },
+    {
+      "id": "document-the-portal-podcast",
+      "node_type": "document",
+      "label": "The Portal (Podcast)",
+      "summary": "Eric Weinstein's podcast 'The Portal' — Jesse Michels was producer; a year and a half of pestering Eric preceded launch.",
+      "tags": [
+        "broadcast"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.111798+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ZTIO-xAP0Dw",
+          "timestamp_start": 307,
+          "timestamp_end": "Eric Weinstein's podcast Jesse was producer on"
+        }
+      ],
+      "type_specific": {
+        "document_type": "broadcast",
+        "author": "Eric Weinstein"
+      }
+    },
+    {
+      "id": "concept-geometric-unity-theory-everything",
+      "node_type": "concept",
+      "label": "Geometric Unity / Theory of Everything",
+      "summary": "Eric Weinstein's proposed theory of everything in physics; 14-dimensional observerse; extra temporal dimensions; explicitly entertained as framework reconciling UFO observations with new physics.",
+      "tags": [
+        "physics"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.111804+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ZTIO-xAP0Dw",
+          "timestamp_start": 313,
+          "timestamp_end": "Eric Weinstein's theory of everything in physics"
+        }
+      ],
+      "type_specific": {
+        "concept_domain": "physics"
+      }
+    },
+    {
+      "id": "concept-gain-of-function-research",
+      "node_type": "concept",
+      "label": "Gain-of-Function Research (COVID)",
+      "summary": "Research creating novel pathogens artificially to preemptively develop cures. Obama sunsetted as too dangerous; Fauci restarted 2017 via NIH funding to Wuhan Institute of Virology (poor safety record). Context for Weinstein-Michels COVID-adjacent conversation.",
+      "tags": [
+        "politics"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.111806+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ZTIO-xAP0Dw",
+          "timestamp_start": 313,
+          "timestamp_end": "Obama-sunsetted; Fauci restarted 2017 via Wuhan Institute of Virology"
+        }
+      ],
+      "type_specific": {
+        "concept_domain": "politics"
+      }
+    },
+    {
+      "id": "claim-ZTIO-xAP0Dw-weinstein-fringe-jessie-portal-producer",
+      "node_type": "claim",
+      "label": "Jesse spent 18 months pestering Eric Weinstein to start a podcast; eventually resulted in 'The Porta",
+      "summary": "Jesse spent 18 months pestering Eric Weinstein to start a podcast; eventually resulted in 'The Portal'. Jesse served as its producer.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.129938+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ZTIO-xAP0Dw",
+          "timestamp_start": 307,
+          "quote": "I thought more people should be aware of Eric. Thus began a year and a half of me hounding him to start a podcast, an effort that eventually became The Portal. I was a pain in the ass."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Jesse spent 18 months pestering Eric Weinstein to start a podcast; eventually resulted in 'The Portal'. Jesse served as its producer.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "ZTIO-xAP0Dw",
+        "timestamp_start_seconds": 307,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-eric-weinstein",
+          "document-the-portal-podcast"
+        ]
+      }
+    },
+    {
+      "id": "claim-ZTIO-xAP0Dw-weinstein-idw-centrist-intellectuals",
+      "node_type": "claim",
+      "label": "Eric Weinstein coined 'Intellectual Dark Web' — a bunch of pro-reason, pro-democracy centrist intell",
+      "summary": "Eric Weinstein coined 'Intellectual Dark Web' — a bunch of pro-reason, pro-democracy centrist intellectuals including Joe Rogan, Jordan Peterson, Sam Harris, Brett Weinstein, and Eric.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.129951+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ZTIO-xAP0Dw",
+          "timestamp_start": 303,
+          "quote": "When I first met Eric, he had just started a movement called the intellectual dark web. A bunch of pro-reason, pro-democracy centrist intellectuals. Other members of the group included Joe Rogan, Jordan Peterson, Sam Harris, and Eric's brother, Brett Weinstein."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Eric Weinstein coined 'Intellectual Dark Web' — a bunch of pro-reason, pro-democracy centrist intellectuals including Joe Rogan, Jordan Peterson, Sam Harris, Brett Weinstein, and Eric.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "ZTIO-xAP0Dw",
+        "timestamp_start_seconds": 303,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-eric-weinstein",
+          "person-brett-weinstein",
+          "concept-intellectual-dark-web"
+        ]
+      }
+    },
+    {
+      "id": "claim-ZTIO-xAP0Dw-weinstein-elite-chair-not-elite",
+      "node_type": "claim",
+      "label": "Weinstein's framing: 'Sitting in an elite chair does not make you elite any more than sitting in a p",
+      "summary": "Weinstein's framing: 'Sitting in an elite chair does not make you elite any more than sitting in a pilot seat gives you the ability to fly.' Criticism of US managerial decay.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.129960+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ZTIO-xAP0Dw",
+          "timestamp_start": 331,
+          "quote": "Sitting in an elite chair does not make you elite any more than sitting in a pilot seat in a plane gives you the ability to fly it."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Weinstein's framing: 'Sitting in an elite chair does not make you elite any more than sitting in a pilot seat gives you the ability to fly.' Criticism of US managerial decay.",
+        "asserted_by_id": "person-eric-weinstein",
+        "source_video_id": "ZTIO-xAP0Dw",
+        "timestamp_start_seconds": 331,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-eric-weinstein"
+        ]
+      }
+    },
+    {
+      "id": "claim-ZTIO-xAP0Dw-weinstein-two-china-one-doesnt-exist",
+      "node_type": "claim",
+      "label": "Weinstein's geopolitical reframing: 'You're talking about a country that exists, China — and a count",
+      "summary": "Weinstein's geopolitical reframing: 'You're talking about a country that exists, China — and a country that has existed in the past that does not exist now. We're looking for a disaster to call us into being a country again.'",
+      "tags": [
+        "speculation",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.129969+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ZTIO-xAP0Dw",
+          "timestamp_start": 329,
+          "quote": "I don't think when you say the US and China you're talking about two countries. You're talking about a country that exists, which is China, and a country that has existed in the past that does not exist now. World War II had such coherence that the decay function took a long time to eradicate. Now we're looking for a disaster to call us into being a country again."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Weinstein's geopolitical reframing: 'You're talking about a country that exists, China — and a country that has existed in the past that does not exist now. We're looking for a disaster to call us into being a country again.'",
+        "asserted_by_id": "person-eric-weinstein",
+        "source_video_id": "ZTIO-xAP0Dw",
+        "timestamp_start_seconds": 329,
+        "assertability": "speculation",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-eric-weinstein"
+        ]
+      }
+    },
+    {
+      "id": "claim-ZTIO-xAP0Dw-weinstein-private-co-tyranny-outsourced",
+      "node_type": "claim",
+      "label": "Weinstein: government tyranny has been outsourced to private corporations — 'you don't want to hold ",
+      "summary": "Weinstein: government tyranny has been outsourced to private corporations — 'you don't want to hold secrets inside government because they're vulnerable to lawyer requests, so aerospace companies hold them. Tyranny of censorship runs through private platforms.'",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.129975+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ZTIO-xAP0Dw",
+          "timestamp_start": 323,
+          "quote": "You might put your secrets inside of an aerospace company because you don't want to hold them inside of government. Likewise tyranny of censorship. You want that done through private corporations because the government is under requirements not to do that. We farmed out tyranny to private companies."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Weinstein: government tyranny has been outsourced to private corporations — 'you don't want to hold secrets inside government because they're vulnerable to lawyer requests, so aerospace companies hold them. Tyranny of censorship runs through private platforms.'",
+        "asserted_by_id": "person-eric-weinstein",
+        "source_video_id": "ZTIO-xAP0Dw",
+        "timestamp_start_seconds": 323,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-eric-weinstein"
+        ]
+      }
     }
   ],
   "edges": [
@@ -1062,8 +1361,223 @@
           "timestamp_start": 0
         }
       ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-ZTIO-xAP0Dw-weinstein-fringe-jessie-portal-producer",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-ZTIO-xAP0Dw-weinstein-fringe-jessie-portal-producer",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ZTIO-xAP0Dw",
+          "timestamp_start": 307,
+          "quote": "Jesse spent 18 months pestering Eric Weinstein to start a podcast; eventually resulted in 'The Portal'. Jesse served as its producer."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ZTIO-xAP0Dw-REFERENCES-claim-ZTIO-xAP0Dw-weinstein-fringe-jessie-portal-producer",
+      "from_node_id": "video-ZTIO-xAP0Dw",
+      "to_node_id": "claim-ZTIO-xAP0Dw-weinstein-fringe-jessie-portal-producer",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ZTIO-xAP0Dw",
+          "timestamp_start": 307
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-ZTIO-xAP0Dw-weinstein-fringe-jessie-portal-producer-REFERENCES-person-eric-weinstein",
+      "from_node_id": "claim-ZTIO-xAP0Dw-weinstein-fringe-jessie-portal-producer",
+      "to_node_id": "person-eric-weinstein",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ZTIO-xAP0Dw",
+          "timestamp_start": 307
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-ZTIO-xAP0Dw-weinstein-fringe-jessie-portal-producer-REFERENCES-document-the-portal-podcast",
+      "from_node_id": "claim-ZTIO-xAP0Dw-weinstein-fringe-jessie-portal-producer",
+      "to_node_id": "document-the-portal-podcast",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ZTIO-xAP0Dw",
+          "timestamp_start": 307
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-ZTIO-xAP0Dw-weinstein-idw-centrist-intellectuals",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-ZTIO-xAP0Dw-weinstein-idw-centrist-intellectuals",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ZTIO-xAP0Dw",
+          "timestamp_start": 303,
+          "quote": "Eric Weinstein coined 'Intellectual Dark Web' — a bunch of pro-reason, pro-democracy centrist intellectuals including Joe Rogan, Jordan Peterson, Sam Harris, Brett Weinstein, and Eric."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ZTIO-xAP0Dw-REFERENCES-claim-ZTIO-xAP0Dw-weinstein-idw-centrist-intellectuals",
+      "from_node_id": "video-ZTIO-xAP0Dw",
+      "to_node_id": "claim-ZTIO-xAP0Dw-weinstein-idw-centrist-intellectuals",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ZTIO-xAP0Dw",
+          "timestamp_start": 303
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-ZTIO-xAP0Dw-weinstein-idw-centrist-intellectuals-REFERENCES-person-eric-weinstein",
+      "from_node_id": "claim-ZTIO-xAP0Dw-weinstein-idw-centrist-intellectuals",
+      "to_node_id": "person-eric-weinstein",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ZTIO-xAP0Dw",
+          "timestamp_start": 303
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-ZTIO-xAP0Dw-weinstein-idw-centrist-intellectuals-REFERENCES-person-brett-weinstein",
+      "from_node_id": "claim-ZTIO-xAP0Dw-weinstein-idw-centrist-intellectuals",
+      "to_node_id": "person-brett-weinstein",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ZTIO-xAP0Dw",
+          "timestamp_start": 303
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-ZTIO-xAP0Dw-weinstein-idw-centrist-intellectuals-REFERENCES-concept-intellectual-dark-web",
+      "from_node_id": "claim-ZTIO-xAP0Dw-weinstein-idw-centrist-intellectuals",
+      "to_node_id": "concept-intellectual-dark-web",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ZTIO-xAP0Dw",
+          "timestamp_start": 303
+        }
+      ]
+    },
+    {
+      "id": "edge-person-eric-weinstein-ASSERTED-claim-ZTIO-xAP0Dw-weinstein-elite-chair-not-elite",
+      "from_node_id": "person-eric-weinstein",
+      "to_node_id": "claim-ZTIO-xAP0Dw-weinstein-elite-chair-not-elite",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ZTIO-xAP0Dw",
+          "timestamp_start": 331,
+          "quote": "Weinstein's framing: 'Sitting in an elite chair does not make you elite any more than sitting in a pilot seat gives you the ability to fly.' Criticism of US managerial decay."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ZTIO-xAP0Dw-REFERENCES-claim-ZTIO-xAP0Dw-weinstein-elite-chair-not-elite",
+      "from_node_id": "video-ZTIO-xAP0Dw",
+      "to_node_id": "claim-ZTIO-xAP0Dw-weinstein-elite-chair-not-elite",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ZTIO-xAP0Dw",
+          "timestamp_start": 331
+        }
+      ]
+    },
+    {
+      "id": "edge-person-eric-weinstein-ASSERTED-claim-ZTIO-xAP0Dw-weinstein-two-china-one-doesnt-exist",
+      "from_node_id": "person-eric-weinstein",
+      "to_node_id": "claim-ZTIO-xAP0Dw-weinstein-two-china-one-doesnt-exist",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ZTIO-xAP0Dw",
+          "timestamp_start": 329,
+          "quote": "Weinstein's geopolitical reframing: 'You're talking about a country that exists, China — and a country that has existed in the past that does not exist now. We're looking for a disaster to call us int"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ZTIO-xAP0Dw-REFERENCES-claim-ZTIO-xAP0Dw-weinstein-two-china-one-doesnt-exist",
+      "from_node_id": "video-ZTIO-xAP0Dw",
+      "to_node_id": "claim-ZTIO-xAP0Dw-weinstein-two-china-one-doesnt-exist",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ZTIO-xAP0Dw",
+          "timestamp_start": 329
+        }
+      ]
+    },
+    {
+      "id": "edge-person-eric-weinstein-ASSERTED-claim-ZTIO-xAP0Dw-weinstein-private-co-tyranny-outsourced",
+      "from_node_id": "person-eric-weinstein",
+      "to_node_id": "claim-ZTIO-xAP0Dw-weinstein-private-co-tyranny-outsourced",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ZTIO-xAP0Dw",
+          "timestamp_start": 323,
+          "quote": "Weinstein: government tyranny has been outsourced to private corporations — 'you don't want to hold secrets inside government because they're vulnerable to lawyer requests, so aerospace companies hold"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ZTIO-xAP0Dw-REFERENCES-claim-ZTIO-xAP0Dw-weinstein-private-co-tyranny-outsourced",
+      "from_node_id": "video-ZTIO-xAP0Dw",
+      "to_node_id": "claim-ZTIO-xAP0Dw-weinstein-private-co-tyranny-outsourced",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ZTIO-xAP0Dw",
+          "timestamp_start": 323
+        }
+      ]
     }
   ],
-  "extracted_at": "2026-04-17T11:05:06.287715+00:00",
+  "extracted_at": "2026-04-17T23:20:40.129980+00:00",
   "extractor_version": "v1-inline-claude"
 }

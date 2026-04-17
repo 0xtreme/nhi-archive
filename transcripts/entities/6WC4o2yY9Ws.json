@@ -924,6 +924,322 @@
           "video-6WC4o2yY9Ws"
         ]
       }
+    },
+    {
+      "id": "person-ryan-graves-extended",
+      "node_type": "person",
+      "label": "Ryan Graves (extended)",
+      "summary": "Former US Navy F-18 pilot; UAP witness; co-testified with David Fravor at July 2023 Congressional hearing. Advocate for pilot-safety reporting and stigma reduction.",
+      "tags": [
+        "witness",
+        "pilot",
+        "US Navy"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.111880+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "6WC4o2yY9Ws",
+          "timestamp_start": 451,
+          "quote": "Former USN F-18 pilot; UAP witness; AIP advocate"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Graves"
+        ],
+        "profession": "pilot",
+        "notability_tags": [
+          "witness",
+          "pilot",
+          "US Navy"
+        ]
+      }
+    },
+    {
+      "id": "person-iya-whitley-psychologist",
+      "node_type": "person",
+      "label": "Dr. Iya Whitley",
+      "summary": "Psychologist with career devoted to the psychology of both fighter pilots and astronauts. Interviewed Ryan Graves for her research.",
+      "tags": [
+        "psychologist",
+        "aerospace"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.111882+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "6WC4o2yY9Ws",
+          "timestamp_start": 467,
+          "quote": "Psychologist specializing in fighter pilots and astronauts"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Whitley"
+        ],
+        "profession": "psychologist",
+        "notability_tags": [
+          "psychologist",
+          "aerospace"
+        ]
+      }
+    },
+    {
+      "id": "person-josh-waitzkin",
+      "node_type": "person",
+      "label": "Josh Waitzkin",
+      "summary": "American child chess prodigy (inspiration for the film 'Searching for Bobby Fischer'); later became world champion in Tai Chi push-hands. Author of 'The Art of Learning.'",
+      "tags": [
+        "prodigy",
+        "author"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.111884+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "6WC4o2yY9Ws",
+          "timestamp_start": 475,
+          "quote": "Inspiration for 'Searching for Bobby Fischer'; Tai Chi Push Hands champion"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Waitzkin",
+          "Weightskin"
+        ],
+        "profession": "chess master",
+        "notability_tags": [
+          "prodigy",
+          "author"
+        ]
+      }
+    },
+    {
+      "id": "document-art-of-learning-waitzkin",
+      "node_type": "document",
+      "label": "The Art of Learning",
+      "summary": "Josh Waitzkin's book about how to best learn; emphasizes that mental models must dissolve into embodied skill — 'a dog catching a Frisbee is not doing vector calculus.'",
+      "tags": [
+        "book"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.111890+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "6WC4o2yY9Ws",
+          "timestamp_start": 475,
+          "timestamp_end": "Josh Waitzkin's book on learning across two disciplines"
+        }
+      ],
+      "type_specific": {
+        "document_type": "book",
+        "author": "Josh Waitzkin"
+      }
+    },
+    {
+      "id": "technology-black-cube-in-clear-sphere",
+      "node_type": "technology",
+      "label": "Black-Cube-in-Clear-Sphere UAP",
+      "summary": "Specific UAP craft morphology reported by pilots: dark gray or black cube embedded inside a clear sphere. Came within ~50ft of cockpit. About 5-15 ft diameter. Multiple pilots independently confirm 'cubes and spheres — yeah, we saw those' in a room.",
+      "tags": [
+        "craft"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.111892+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "6WC4o2yY9Ws",
+          "timestamp_start": 453,
+          "timestamp_end": "UAP morphology: dark gray or black cube inside clear sphere"
+        }
+      ],
+      "type_specific": {
+        "technology_type": "craft"
+      }
+    },
+    {
+      "id": "claim-6WC4o2yY9Ws-graves-cube-in-sphere-50ft-cockpit",
+      "node_type": "claim",
+      "label": "Graves describes a reported UAP craft morphology: dark gray or black cube inside clear sphere, 5-15 ",
+      "summary": "Graves describes a reported UAP craft morphology: dark gray or black cube inside clear sphere, 5-15 ft diameter, coming within ~50ft of cockpit. Half the room of pilots raised hands confirming they had seen cubes and spheres.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.138719+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "6WC4o2yY9Ws",
+          "timestamp_start": 453,
+          "quote": "Came within about 50 feet of the cockpit. He described it as a dark gray or black cube inside of a clear sphere. About half the room raised their hand like, 'Oh yeah, the cubes and spheres, you know, we saw those.' About 5 to 15 ft in diameter."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Graves describes a reported UAP craft morphology: dark gray or black cube inside clear sphere, 5-15 ft diameter, coming within ~50ft of cockpit. Half the room of pilots raised hands confirming they had seen cubes and spheres.",
+        "asserted_by_id": "person-ryan-graves-extended",
+        "source_video_id": "6WC4o2yY9Ws",
+        "timestamp_start_seconds": 453,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-ryan-graves-extended",
+          "technology-black-cube-in-clear-sphere"
+        ]
+      }
+    },
+    {
+      "id": "claim-6WC4o2yY9Ws-graves-uap-routine-not-rare",
+      "node_type": "claim",
+      "label": "Graves' Congressional testimony: 'UAP are in our airspace. These sightings are not rare or isolated.",
+      "summary": "Graves' Congressional testimony: 'UAP are in our airspace. These sightings are not rare or isolated. They are routine.'",
+      "tags": [
+        "testimony_under_oath",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.138735+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "6WC4o2yY9Ws",
+          "timestamp_start": 451,
+          "quote": "As we convene here, UAP are in our airspace. These sightings are not rare or isolated. They are routine."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Graves' Congressional testimony: 'UAP are in our airspace. These sightings are not rare or isolated. They are routine.'",
+        "asserted_by_id": "person-ryan-graves-extended",
+        "source_video_id": "6WC4o2yY9Ws",
+        "timestamp_start_seconds": 451,
+        "assertability": "testimony_under_oath",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-ryan-graves-extended",
+          "event-2023-07-uap-hearing"
+        ]
+      }
+    },
+    {
+      "id": "claim-6WC4o2yY9Ws-graves-objects-over-speed-of-sound",
+      "node_type": "claim",
+      "label": "Graves' pilots observed UAPs solid on radar going over the speed of sound without sonic boom — 'as s",
+      "summary": "Graves' pilots observed UAPs solid on radar going over the speed of sound without sonic boom — 'as soon as they crossed that threshold, boom, object shoots down.'",
+      "tags": [
+        "testimony_under_oath",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.138747+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "6WC4o2yY9Ws",
+          "timestamp_start": 453,
+          "quote": "Our assumption at first was that these were just radar errors. But they weren't behaving like false tracks. They were steady. They were solid. They were consistent. And some of these objects were even going over the speed of sound."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Graves' pilots observed UAPs solid on radar going over the speed of sound without sonic boom — 'as soon as they crossed that threshold, boom, object shoots down.'",
+        "asserted_by_id": "person-ryan-graves-extended",
+        "source_video_id": "6WC4o2yY9Ws",
+        "timestamp_start_seconds": 453,
+        "assertability": "testimony_under_oath",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-ryan-graves-extended",
+          "concept-five-observables"
+        ]
+      }
+    },
+    {
+      "id": "claim-6WC4o2yY9Ws-graves-jet-becomes-body-appendage",
+      "node_type": "claim",
+      "label": "Graves describes the flight experience phenomenologically: 'The jet becomes like an appendage of you",
+      "summary": "Graves describes the flight experience phenomenologically: 'The jet becomes like an appendage of your body. 100%. You think and the aircraft moves. It just feels like you're part of the jet.'",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.138754+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "6WC4o2yY9Ws",
+          "timestamp_start": 465,
+          "quote": "It almost feels like the jet becomes like an appendage of your body. 100%. You're strapped in there. There's no it's not the jet and you — it's just you think and the aircraft moves. You become so synchronized."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Graves describes the flight experience phenomenologically: 'The jet becomes like an appendage of your body. 100%. You think and the aircraft moves. It just feels like you're part of the jet.'",
+        "asserted_by_id": "person-ryan-graves-extended",
+        "source_video_id": "6WC4o2yY9Ws",
+        "timestamp_start_seconds": 465,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-ryan-graves-extended"
+        ]
+      }
+    },
+    {
+      "id": "claim-6WC4o2yY9Ws-graves-carrier-landing-peak-flow",
+      "node_type": "claim",
+      "label": "Graves describes landing on an aircraft carrier at night as 'penultimate presence moment' — 'flying ",
+      "summary": "Graves describes landing on an aircraft carrier at night as 'penultimate presence moment' — 'flying towards this singular little light in a sea of blackness and literally a sea.' Peak flow-state.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.138763+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "6WC4o2yY9Ws",
+          "timestamp_start": 461,
+          "quote": "The greatest example of peak presence — landing on the aircraft carrier, especially at night. It can be almost meditative — flying towards this singular little light in a sea of blackness and literally a sea as well."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Graves describes landing on an aircraft carrier at night as 'penultimate presence moment' — 'flying towards this singular little light in a sea of blackness and literally a sea.' Peak flow-state.",
+        "asserted_by_id": "person-ryan-graves-extended",
+        "source_video_id": "6WC4o2yY9Ws",
+        "timestamp_start_seconds": 461,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-ryan-graves-extended"
+        ]
+      }
     }
   ],
   "edges": [
@@ -1456,8 +1772,195 @@
           "timestamp_start": 0
         }
       ]
+    },
+    {
+      "id": "edge-person-ryan-graves-extended-ASSERTED-claim-6WC4o2yY9Ws-graves-cube-in-sphere-50ft-cockpit",
+      "from_node_id": "person-ryan-graves-extended",
+      "to_node_id": "claim-6WC4o2yY9Ws-graves-cube-in-sphere-50ft-cockpit",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "6WC4o2yY9Ws",
+          "timestamp_start": 453,
+          "quote": "Graves describes a reported UAP craft morphology: dark gray or black cube inside clear sphere, 5-15 ft diameter, coming within ~50ft of cockpit. Half the room of pilots raised hands confirming they ha"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-6WC4o2yY9Ws-REFERENCES-claim-6WC4o2yY9Ws-graves-cube-in-sphere-50ft-cockpit",
+      "from_node_id": "video-6WC4o2yY9Ws",
+      "to_node_id": "claim-6WC4o2yY9Ws-graves-cube-in-sphere-50ft-cockpit",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "6WC4o2yY9Ws",
+          "timestamp_start": 453
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-6WC4o2yY9Ws-graves-cube-in-sphere-50ft-cockpit-REFERENCES-technology-black-cube-in-clear-sphere",
+      "from_node_id": "claim-6WC4o2yY9Ws-graves-cube-in-sphere-50ft-cockpit",
+      "to_node_id": "technology-black-cube-in-clear-sphere",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "6WC4o2yY9Ws",
+          "timestamp_start": 453
+        }
+      ]
+    },
+    {
+      "id": "edge-person-ryan-graves-extended-ASSERTED-claim-6WC4o2yY9Ws-graves-uap-routine-not-rare",
+      "from_node_id": "person-ryan-graves-extended",
+      "to_node_id": "claim-6WC4o2yY9Ws-graves-uap-routine-not-rare",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "6WC4o2yY9Ws",
+          "timestamp_start": 451,
+          "quote": "Graves' Congressional testimony: 'UAP are in our airspace. These sightings are not rare or isolated. They are routine.'"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-6WC4o2yY9Ws-REFERENCES-claim-6WC4o2yY9Ws-graves-uap-routine-not-rare",
+      "from_node_id": "video-6WC4o2yY9Ws",
+      "to_node_id": "claim-6WC4o2yY9Ws-graves-uap-routine-not-rare",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "6WC4o2yY9Ws",
+          "timestamp_start": 451
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-6WC4o2yY9Ws-graves-uap-routine-not-rare-REFERENCES-event-2023-07-uap-hearing",
+      "from_node_id": "claim-6WC4o2yY9Ws-graves-uap-routine-not-rare",
+      "to_node_id": "event-2023-07-uap-hearing",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "6WC4o2yY9Ws",
+          "timestamp_start": 451
+        }
+      ]
+    },
+    {
+      "id": "edge-person-ryan-graves-extended-ASSERTED-claim-6WC4o2yY9Ws-graves-objects-over-speed-of-sound",
+      "from_node_id": "person-ryan-graves-extended",
+      "to_node_id": "claim-6WC4o2yY9Ws-graves-objects-over-speed-of-sound",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "6WC4o2yY9Ws",
+          "timestamp_start": 453,
+          "quote": "Graves' pilots observed UAPs solid on radar going over the speed of sound without sonic boom — 'as soon as they crossed that threshold, boom, object shoots down.'"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-6WC4o2yY9Ws-REFERENCES-claim-6WC4o2yY9Ws-graves-objects-over-speed-of-sound",
+      "from_node_id": "video-6WC4o2yY9Ws",
+      "to_node_id": "claim-6WC4o2yY9Ws-graves-objects-over-speed-of-sound",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "6WC4o2yY9Ws",
+          "timestamp_start": 453
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-6WC4o2yY9Ws-graves-objects-over-speed-of-sound-REFERENCES-concept-five-observables",
+      "from_node_id": "claim-6WC4o2yY9Ws-graves-objects-over-speed-of-sound",
+      "to_node_id": "concept-five-observables",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "6WC4o2yY9Ws",
+          "timestamp_start": 453
+        }
+      ]
+    },
+    {
+      "id": "edge-person-ryan-graves-extended-ASSERTED-claim-6WC4o2yY9Ws-graves-jet-becomes-body-appendage",
+      "from_node_id": "person-ryan-graves-extended",
+      "to_node_id": "claim-6WC4o2yY9Ws-graves-jet-becomes-body-appendage",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "6WC4o2yY9Ws",
+          "timestamp_start": 465,
+          "quote": "Graves describes the flight experience phenomenologically: 'The jet becomes like an appendage of your body. 100%. You think and the aircraft moves. It just feels like you're part of the jet.'"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-6WC4o2yY9Ws-REFERENCES-claim-6WC4o2yY9Ws-graves-jet-becomes-body-appendage",
+      "from_node_id": "video-6WC4o2yY9Ws",
+      "to_node_id": "claim-6WC4o2yY9Ws-graves-jet-becomes-body-appendage",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "6WC4o2yY9Ws",
+          "timestamp_start": 465
+        }
+      ]
+    },
+    {
+      "id": "edge-person-ryan-graves-extended-ASSERTED-claim-6WC4o2yY9Ws-graves-carrier-landing-peak-flow",
+      "from_node_id": "person-ryan-graves-extended",
+      "to_node_id": "claim-6WC4o2yY9Ws-graves-carrier-landing-peak-flow",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "6WC4o2yY9Ws",
+          "timestamp_start": 461,
+          "quote": "Graves describes landing on an aircraft carrier at night as 'penultimate presence moment' — 'flying towards this singular little light in a sea of blackness and literally a sea.' Peak flow-state."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-6WC4o2yY9Ws-REFERENCES-claim-6WC4o2yY9Ws-graves-carrier-landing-peak-flow",
+      "from_node_id": "video-6WC4o2yY9Ws",
+      "to_node_id": "claim-6WC4o2yY9Ws-graves-carrier-landing-peak-flow",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "6WC4o2yY9Ws",
+          "timestamp_start": 461
+        }
+      ]
     }
   ],
-  "extracted_at": "2026-04-17T11:05:07.966994+00:00",
+  "extracted_at": "2026-04-17T23:20:40.138769+00:00",
   "extractor_version": "v1-inline-claude"
 }

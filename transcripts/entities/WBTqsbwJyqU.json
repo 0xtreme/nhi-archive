@@ -1524,6 +1524,356 @@
           "video-WBTqsbwJyqU"
         ]
       }
+    },
+    {
+      "id": "person-greg-bishop",
+      "node_type": "person",
+      "label": "Greg Bishop",
+      "summary": "American UFO journalist; author of 'Project Beta' (on Paul Bennewitz AFOSI disinfo case) and 'It Defies Language' (most recent). Hard-headed reporter — 'sometimes reports on things that fly in the face of what believers want.'",
+      "tags": [
+        "journalist",
+        "investigator",
+        "author"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.111867+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "WBTqsbwJyqU",
+          "timestamp_start": 420,
+          "quote": "UFO journalist; Project Beta author; Bennewitz-case chronicler"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Bishop"
+        ],
+        "profession": "journalist",
+        "notability_tags": [
+          "journalist",
+          "investigator",
+          "author"
+        ]
+      }
+    },
+    {
+      "id": "person-bill-moore-ufologist",
+      "node_type": "person",
+      "label": "Bill Moore",
+      "summary": "UFO researcher who knew Paul Bennewitz in the late 1970s-1980s. Per Greg Bishop: was complicit in the AFOSI disinfo operation against Bennewitz.",
+      "tags": [
+        "researcher",
+        "disinfo"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.111870+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "WBTqsbwJyqU",
+          "timestamp_start": 432,
+          "quote": "UFO researcher who knew Bennewitz; per Bishop, involved in disinfo"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Moore"
+        ],
+        "profession": "researcher",
+        "notability_tags": [
+          "researcher",
+          "disinfo"
+        ]
+      }
+    },
+    {
+      "id": "person-gabe-valdez-state-police",
+      "node_type": "person",
+      "label": "Gabe Valdez",
+      "summary": "Area NM state police officer; one of three people Greg Bishop talked to who directly knew Paul Bennewitz.",
+      "tags": [
+        "witness",
+        "researcher"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.111871+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "WBTqsbwJyqU",
+          "timestamp_start": 432,
+          "quote": "Dulce area NM state police officer who knew Bennewitz"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Valdez"
+        ],
+        "profession": "officer",
+        "notability_tags": [
+          "witness",
+          "researcher"
+        ]
+      }
+    },
+    {
+      "id": "person-paul-bennewitz-extended",
+      "node_type": "person",
+      "label": "Paul Bennewitz (extended)",
+      "summary": "Electronics entrepreneur; Thunder Scientific company across the street from Kirtland AFB (Albuquerque). Owner of temperature/humidity instruments for military/aerospace. Already mentally unstable per Bishop before AFOSI AFOSI operation made it worse. Private pilot; acrobatic flying.",
+      "tags": [
+        "witness",
+        "target-of-disinfo"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.111873+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "WBTqsbwJyqU",
+          "timestamp_start": 420,
+          "quote": "Kirtland-adjacent electronics entrepreneur; target of AFOSI disinfo campaign"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Bennewitz"
+        ],
+        "profession": "entrepreneur",
+        "notability_tags": [
+          "witness",
+          "target-of-disinfo"
+        ]
+      }
+    },
+    {
+      "id": "document-project-beta-bishop",
+      "node_type": "document",
+      "label": "Project Beta",
+      "summary": "Greg Bishop's book documenting the Paul Bennewitz case — AFOSI counterintelligence operation that exploited his pre-existing instability; Bennewitz receiving fabricated UFO material from Richard Doty led to mental breakdown. Demonstrates 'UFOs as Swiss Army knife for intelligence.'",
+      "tags": [
+        "book"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.111875+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "WBTqsbwJyqU",
+          "timestamp_start": 421,
+          "timestamp_end": "Greg Bishop's book documenting Paul Bennewitz AFOSI disinfo case"
+        }
+      ],
+      "type_specific": {
+        "document_type": "book",
+        "author": "Greg Bishop"
+      }
+    },
+    {
+      "id": "document-it-defies-language-bishop",
+      "node_type": "document",
+      "label": "It Defies Language",
+      "summary": "Greg Bishop's more recent book — 'It Defies Language' — on UFO phenomena.",
+      "tags": [
+        "book"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.111877+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "WBTqsbwJyqU",
+          "timestamp_start": 421,
+          "timestamp_end": "Greg Bishop's most recent book on UFO phenomena"
+        }
+      ],
+      "type_specific": {
+        "document_type": "book",
+        "author": "Greg Bishop"
+      }
+    },
+    {
+      "id": "claim-WBTqsbwJyqU-bishop-ufo-as-swiss-army-knife-intel",
+      "node_type": "claim",
+      "label": "Bishop's framing: 'UFOs are a Swiss Army knife for intelligence. They can use them for anything.' Th",
+      "summary": "Bishop's framing: 'UFOs are a Swiss Army knife for intelligence. They can use them for anything.' The Bennewitz operation was a 24-hour-long stage play where Bennewitz was only briefly onstage.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.136299+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "WBTqsbwJyqU",
+          "timestamp_start": 415,
+          "quote": "UFOs are a Swiss Army knife for intelligence. They can use them for anything. Imagine the Bennewitz operation as a 24-hour long stage play. Bennewitz is five minutes in one scene."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Bishop's framing: 'UFOs are a Swiss Army knife for intelligence. They can use them for anything.' The Bennewitz operation was a 24-hour-long stage play where Bennewitz was only briefly onstage.",
+        "asserted_by_id": "person-greg-bishop",
+        "source_video_id": "WBTqsbwJyqU",
+        "timestamp_start_seconds": 415,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-greg-bishop",
+          "document-project-beta-bishop",
+          "event-1979-bennewitz-psyop"
+        ]
+      }
+    },
+    {
+      "id": "claim-WBTqsbwJyqU-bishop-prosaic-cover-for-ufo-not-reverse",
+      "node_type": "claim",
+      "label": "Bishop rejects the common 'UFOs are cover for classified prosaic tech' framing: 'It's the opposite. ",
+      "summary": "Bishop rejects the common 'UFOs are cover for classified prosaic tech' framing: 'It's the opposite. Prosaic technology is often used as a cover for UFO.' Often both operate simultaneously.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.136310+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "WBTqsbwJyqU",
+          "timestamp_start": 419,
+          "quote": "The idea that UFOs are a cover for just prosaic technology is totally wrong. In fact, it's the opposite. Prosaic technology is often used as a cover for UFO. In fact, it's demonstrably both."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Bishop rejects the common 'UFOs are cover for classified prosaic tech' framing: 'It's the opposite. Prosaic technology is often used as a cover for UFO.' Often both operate simultaneously.",
+        "asserted_by_id": "person-greg-bishop",
+        "source_video_id": "WBTqsbwJyqU",
+        "timestamp_start_seconds": 419,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-greg-bishop"
+        ]
+      }
+    },
+    {
+      "id": "claim-WBTqsbwJyqU-bishop-bennewitz-unstable-before",
+      "node_type": "claim",
+      "label": "Bishop insists Bennewitz was already 'kind of unstable to begin with' before AFOSI operation. The AF",
+      "summary": "Bishop insists Bennewitz was already 'kind of unstable to begin with' before AFOSI operation. The AFOSI disinfo didn't CREATE his breakdown — they 'encouraged it and made it worse.' 'No excuse, but he was kind of heading down that road.'",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.136317+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "WBTqsbwJyqU",
+          "timestamp_start": 425,
+          "quote": "Bennewitz wasn't perfectly okay — he was already kind of unstable to begin with. The Air Force AFOSI and other people just encouraged it and made it worse. There you go — which is no excuse, but everybody says, 'Oh, he was perfectly okay.' No, he was kind of heading down that road."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Bishop insists Bennewitz was already 'kind of unstable to begin with' before AFOSI operation. The AFOSI disinfo didn't CREATE his breakdown — they 'encouraged it and made it worse.' 'No excuse, but he was kind of heading down that road.'",
+        "asserted_by_id": "person-greg-bishop",
+        "source_video_id": "WBTqsbwJyqU",
+        "timestamp_start_seconds": 425,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-greg-bishop",
+          "person-paul-bennewitz-extended",
+          "event-1979-bennewitz-psyop"
+        ]
+      }
+    },
+    {
+      "id": "claim-WBTqsbwJyqU-bennewitz-thunder-scientific-kirtland-across-street",
+      "node_type": "claim",
+      "label": "Paul Bennewitz's Thunder Scientific company was across the street from Kirtland AFB (Albuquerque). P",
+      "summary": "Paul Bennewitz's Thunder Scientific company was across the street from Kirtland AFB (Albuquerque). Per Bishop: 'You could walk out his front door and down a street two minutes and be at the fence.' Still operational today with his son as president.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.136325+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "WBTqsbwJyqU",
+          "timestamp_start": 427,
+          "quote": "His office was near the Wyoming gate of Kirtland Air Force Base. At work or at home, he was always like right next to the [base]. The company's still there. If you go there, there's a sign that says Thunder Scientific. One of his sons is still the president."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Paul Bennewitz's Thunder Scientific company was across the street from Kirtland AFB (Albuquerque). Per Bishop: 'You could walk out his front door and down a street two minutes and be at the fence.' Still operational today with his son as president.",
+        "asserted_by_id": "person-greg-bishop",
+        "source_video_id": "WBTqsbwJyqU",
+        "timestamp_start_seconds": 427,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-paul-bennewitz-extended"
+        ]
+      }
+    },
+    {
+      "id": "claim-WBTqsbwJyqU-bishop-bennewitz-aerial-phenomena-research-photo",
+      "node_type": "claim",
+      "label": "Per Bishop: Bennewitz's APRO (Aerial Phenomena Research Organization) application photo shows him ki",
+      "summary": "Per Bishop: Bennewitz's APRO (Aerial Phenomena Research Organization) application photo shows him kind of mischievous and happy — contrary to Bishop's mental picture of him as scared and paranoid.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.136334+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "WBTqsbwJyqU",
+          "timestamp_start": 437,
+          "quote": "I've seen a picture of his application to APRO, Aerial Phenomena Research Organization, and he's just kind of standing there. He looks actually pretty happy and funny. I think of him as this scared, paranoid person, but in the picture he looks different."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Per Bishop: Bennewitz's APRO (Aerial Phenomena Research Organization) application photo shows him kind of mischievous and happy — contrary to Bishop's mental picture of him as scared and paranoid.",
+        "asserted_by_id": "person-greg-bishop",
+        "source_video_id": "WBTqsbwJyqU",
+        "timestamp_start_seconds": 437,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-greg-bishop",
+          "person-paul-bennewitz-extended"
+        ]
+      }
     }
   ],
   "edges": [
@@ -2323,8 +2673,237 @@
           "timestamp_start": 0
         }
       ]
+    },
+    {
+      "id": "edge-person-greg-bishop-ASSERTED-claim-WBTqsbwJyqU-bishop-ufo-as-swiss-army-knife-intel",
+      "from_node_id": "person-greg-bishop",
+      "to_node_id": "claim-WBTqsbwJyqU-bishop-ufo-as-swiss-army-knife-intel",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "WBTqsbwJyqU",
+          "timestamp_start": 415,
+          "quote": "Bishop's framing: 'UFOs are a Swiss Army knife for intelligence. They can use them for anything.' The Bennewitz operation was a 24-hour-long stage play where Bennewitz was only briefly onstage."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-WBTqsbwJyqU-REFERENCES-claim-WBTqsbwJyqU-bishop-ufo-as-swiss-army-knife-intel",
+      "from_node_id": "video-WBTqsbwJyqU",
+      "to_node_id": "claim-WBTqsbwJyqU-bishop-ufo-as-swiss-army-knife-intel",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "WBTqsbwJyqU",
+          "timestamp_start": 415
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-WBTqsbwJyqU-bishop-ufo-as-swiss-army-knife-intel-REFERENCES-document-project-beta-bishop",
+      "from_node_id": "claim-WBTqsbwJyqU-bishop-ufo-as-swiss-army-knife-intel",
+      "to_node_id": "document-project-beta-bishop",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "WBTqsbwJyqU",
+          "timestamp_start": 415
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-WBTqsbwJyqU-bishop-ufo-as-swiss-army-knife-intel-REFERENCES-event-1979-bennewitz-psyop",
+      "from_node_id": "claim-WBTqsbwJyqU-bishop-ufo-as-swiss-army-knife-intel",
+      "to_node_id": "event-1979-bennewitz-psyop",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "WBTqsbwJyqU",
+          "timestamp_start": 415
+        }
+      ]
+    },
+    {
+      "id": "edge-person-greg-bishop-ASSERTED-claim-WBTqsbwJyqU-bishop-prosaic-cover-for-ufo-not-reverse",
+      "from_node_id": "person-greg-bishop",
+      "to_node_id": "claim-WBTqsbwJyqU-bishop-prosaic-cover-for-ufo-not-reverse",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "WBTqsbwJyqU",
+          "timestamp_start": 419,
+          "quote": "Bishop rejects the common 'UFOs are cover for classified prosaic tech' framing: 'It's the opposite. Prosaic technology is often used as a cover for UFO.' Often both operate simultaneously."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-WBTqsbwJyqU-REFERENCES-claim-WBTqsbwJyqU-bishop-prosaic-cover-for-ufo-not-reverse",
+      "from_node_id": "video-WBTqsbwJyqU",
+      "to_node_id": "claim-WBTqsbwJyqU-bishop-prosaic-cover-for-ufo-not-reverse",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "WBTqsbwJyqU",
+          "timestamp_start": 419
+        }
+      ]
+    },
+    {
+      "id": "edge-person-greg-bishop-ASSERTED-claim-WBTqsbwJyqU-bishop-bennewitz-unstable-before",
+      "from_node_id": "person-greg-bishop",
+      "to_node_id": "claim-WBTqsbwJyqU-bishop-bennewitz-unstable-before",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "WBTqsbwJyqU",
+          "timestamp_start": 425,
+          "quote": "Bishop insists Bennewitz was already 'kind of unstable to begin with' before AFOSI operation. The AFOSI disinfo didn't CREATE his breakdown — they 'encouraged it and made it worse.' 'No excuse, but he"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-WBTqsbwJyqU-REFERENCES-claim-WBTqsbwJyqU-bishop-bennewitz-unstable-before",
+      "from_node_id": "video-WBTqsbwJyqU",
+      "to_node_id": "claim-WBTqsbwJyqU-bishop-bennewitz-unstable-before",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "WBTqsbwJyqU",
+          "timestamp_start": 425
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-WBTqsbwJyqU-bishop-bennewitz-unstable-before-REFERENCES-person-paul-bennewitz-extended",
+      "from_node_id": "claim-WBTqsbwJyqU-bishop-bennewitz-unstable-before",
+      "to_node_id": "person-paul-bennewitz-extended",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "WBTqsbwJyqU",
+          "timestamp_start": 425
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-WBTqsbwJyqU-bishop-bennewitz-unstable-before-REFERENCES-event-1979-bennewitz-psyop",
+      "from_node_id": "claim-WBTqsbwJyqU-bishop-bennewitz-unstable-before",
+      "to_node_id": "event-1979-bennewitz-psyop",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "WBTqsbwJyqU",
+          "timestamp_start": 425
+        }
+      ]
+    },
+    {
+      "id": "edge-person-greg-bishop-ASSERTED-claim-WBTqsbwJyqU-bennewitz-thunder-scientific-kirtland-across-street",
+      "from_node_id": "person-greg-bishop",
+      "to_node_id": "claim-WBTqsbwJyqU-bennewitz-thunder-scientific-kirtland-across-street",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "WBTqsbwJyqU",
+          "timestamp_start": 427,
+          "quote": "Paul Bennewitz's Thunder Scientific company was across the street from Kirtland AFB (Albuquerque). Per Bishop: 'You could walk out his front door and down a street two minutes and be at the fence.' St"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-WBTqsbwJyqU-REFERENCES-claim-WBTqsbwJyqU-bennewitz-thunder-scientific-kirtland-across-street",
+      "from_node_id": "video-WBTqsbwJyqU",
+      "to_node_id": "claim-WBTqsbwJyqU-bennewitz-thunder-scientific-kirtland-across-street",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "WBTqsbwJyqU",
+          "timestamp_start": 427
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-WBTqsbwJyqU-bennewitz-thunder-scientific-kirtland-across-street-REFERENCES-person-paul-bennewitz-extended",
+      "from_node_id": "claim-WBTqsbwJyqU-bennewitz-thunder-scientific-kirtland-across-street",
+      "to_node_id": "person-paul-bennewitz-extended",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "WBTqsbwJyqU",
+          "timestamp_start": 427
+        }
+      ]
+    },
+    {
+      "id": "edge-person-greg-bishop-ASSERTED-claim-WBTqsbwJyqU-bishop-bennewitz-aerial-phenomena-research-photo",
+      "from_node_id": "person-greg-bishop",
+      "to_node_id": "claim-WBTqsbwJyqU-bishop-bennewitz-aerial-phenomena-research-photo",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "WBTqsbwJyqU",
+          "timestamp_start": 437,
+          "quote": "Per Bishop: Bennewitz's APRO (Aerial Phenomena Research Organization) application photo shows him kind of mischievous and happy — contrary to Bishop's mental picture of him as scared and paranoid."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-WBTqsbwJyqU-REFERENCES-claim-WBTqsbwJyqU-bishop-bennewitz-aerial-phenomena-research-photo",
+      "from_node_id": "video-WBTqsbwJyqU",
+      "to_node_id": "claim-WBTqsbwJyqU-bishop-bennewitz-aerial-phenomena-research-photo",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "WBTqsbwJyqU",
+          "timestamp_start": 437
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-WBTqsbwJyqU-bishop-bennewitz-aerial-phenomena-research-photo-REFERENCES-person-paul-bennewitz-extended",
+      "from_node_id": "claim-WBTqsbwJyqU-bishop-bennewitz-aerial-phenomena-research-photo",
+      "to_node_id": "person-paul-bennewitz-extended",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "WBTqsbwJyqU",
+          "timestamp_start": 437
+        }
+      ]
     }
   ],
-  "extracted_at": "2026-04-17T11:05:07.485605+00:00",
+  "extracted_at": "2026-04-17T23:20:40.136341+00:00",
   "extractor_version": "v1-inline-claude"
 }

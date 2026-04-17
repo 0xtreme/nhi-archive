@@ -881,6 +881,488 @@
           "video-0qlppHc3-gg"
         ]
       }
+    },
+    {
+      "id": "person-ky-dickens",
+      "node_type": "person",
+      "label": "Ky Dickens",
+      "summary": "Documentary filmmaker (5 feature films) behind The Telepathy Tapes podcast/series documenting telepathic communication in autistic non-speaking children.",
+      "tags": [
+        "filmmaker",
+        "investigator"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.485586+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "0qlppHc3-gg",
+          "timestamp_start": 85,
+          "quote": "Documentary filmmaker behind The Telepathy Tapes"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Dickens",
+          "Kai"
+        ],
+        "profession": "filmmaker",
+        "notability_tags": [
+          "filmmaker",
+          "investigator"
+        ]
+      }
+    },
+    {
+      "id": "person-diane-powell",
+      "node_type": "person",
+      "label": "Diane Powell",
+      "summary": "Harvard-trained neuroscientist who researches autistic savants with claimed telepathic abilities; central expert in The Telepathy Tapes.",
+      "tags": [
+        "scientist",
+        "Harvard",
+        "researcher"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.485589+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "0qlppHc3-gg",
+          "timestamp_start": 87,
+          "quote": "Harvard-trained neuroscientist studying autistic savant telepathy"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Dr. Powell"
+        ],
+        "profession": "neuroscientist",
+        "notability_tags": [
+          "scientist",
+          "Harvard",
+          "researcher"
+        ]
+      }
+    },
+    {
+      "id": "person-oliver-sacks",
+      "node_type": "person",
+      "label": "Oliver Sacks",
+      "summary": "Neurologist and author (Awakenings, The Man Who Mistook His Wife for a Hat). Diane Powell met him in 1986; introduced her to autistic savants.",
+      "tags": [
+        "scientist",
+        "author",
+        "historical"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.485591+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "0qlppHc3-gg",
+          "timestamp_start": 113,
+          "quote": "Neurologist, author of Awakenings, studied autistic savants"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Sacks"
+        ],
+        "profession": "neurologist",
+        "notability_tags": [
+          "scientist",
+          "author",
+          "historical"
+        ]
+      }
+    },
+    {
+      "id": "person-mia-telepathy-mexico",
+      "node_type": "person",
+      "label": "Mia (Telepathy Tapes subject)",
+      "summary": "Young non-speaking autistic girl from Monterrey Mexico brought to Glendale CA for controlled telepathy tests in The Telepathy Tapes.",
+      "tags": [
+        "experiencer",
+        "child",
+        "autistic"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.485593+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "0qlppHc3-gg",
+          "timestamp_start": 91,
+          "quote": "Young non-speaking autistic girl from Monterrey Mexico tested telepathically"
+        }
+      ],
+      "type_specific": {
+        "aliases": [],
+        "notability_tags": [
+          "experiencer",
+          "child",
+          "autistic"
+        ]
+      }
+    },
+    {
+      "id": "person-amelia-telepathy",
+      "node_type": "person",
+      "label": "Amelia (Telepathy Tapes subject)",
+      "summary": "Non-speaking autistic girl featured in episode 7 of The Telepathy Tapes.",
+      "tags": [
+        "experiencer",
+        "child",
+        "autistic"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.485595+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "0qlppHc3-gg",
+          "timestamp_start": 127,
+          "quote": "Non-speaking autistic girl featured in episode 7 of The Telepathy Tapes"
+        }
+      ],
+      "type_specific": {
+        "aliases": [],
+        "notability_tags": [
+          "experiencer",
+          "child",
+          "autistic"
+        ]
+      }
+    },
+    {
+      "id": "document-telepathy-tapes-series",
+      "node_type": "document",
+      "label": "The Telepathy Tapes",
+      "summary": "Ky Dickens' podcast/documentary series documenting controlled tests of telepathic communication in autistic non-speaking children.",
+      "tags": [
+        "broadcast"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.485597+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "0qlppHc3-gg",
+          "timestamp_start": 83,
+          "timestamp_end": "Podcast/documentary series documenting autistic telepathy"
+        }
+      ],
+      "type_specific": {
+        "document_type": "broadcast",
+        "author": "Ky Dickens"
+      }
+    },
+    {
+      "id": "document-awakenings-sacks",
+      "node_type": "document",
+      "label": "Awakenings",
+      "summary": "Oliver Sacks' book on Parkinson's patients treated with L-DOPA; part of his body of work on unusual neurological syndromes.",
+      "tags": [
+        "book"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.485600+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "0qlppHc3-gg",
+          "timestamp_start": 115,
+          "timestamp_end": "Oliver Sacks book; introduced Powell to autistic savants"
+        }
+      ],
+      "type_specific": {
+        "document_type": "book",
+        "author": "Oliver Sacks"
+      }
+    },
+    {
+      "id": "concept-autistic-telepathy",
+      "node_type": "concept",
+      "label": "Autistic Savant Telepathy",
+      "summary": "Phenomenon documented across many independent families: non-speaking autistic children demonstrating statistically significant telepathic reception of numbers, words, images — validated in controlled tests.",
+      "tags": [
+        "metaphysics"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.485604+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "0qlppHc3-gg",
+          "timestamp_start": 83,
+          "timestamp_end": "Non-speaking autistic children demonstrating telepathic ability"
+        }
+      ],
+      "type_specific": {
+        "concept_domain": "metaphysics"
+      }
+    },
+    {
+      "id": "claim-0qlppHc3-gg-dickens-telepathy-tapes-thesis",
+      "node_type": "claim",
+      "label": "Ky Dickens asserts that non-speaking autistic children demonstrate statistically significant telepat",
+      "summary": "Ky Dickens asserts that non-speaking autistic children demonstrate statistically significant telepathic abilities under controlled conditions, documented across many independent families.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.488394+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "0qlppHc3-gg",
+          "timestamp_start": 83,
+          "quote": "Autistic individuals have these incredible abilities. The science behind this is so much bigger than our knee-jerk reactions of truth."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Ky Dickens asserts that non-speaking autistic children demonstrate statistically significant telepathic abilities under controlled conditions, documented across many independent families.",
+        "asserted_by_id": "person-ky-dickens",
+        "source_video_id": "0qlppHc3-gg",
+        "timestamp_start_seconds": 83,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-ky-dickens",
+          "document-telepathy-tapes-series",
+          "concept-autistic-telepathy"
+        ]
+      }
+    },
+    {
+      "id": "claim-0qlppHc3-gg-mia-controlled-glendale-test",
+      "node_type": "claim",
+      "label": "Dickens rented a Glendale CA house; removed mirrors and TVs; blindfolded Mia; partitioned her from h",
+      "summary": "Dickens rented a Glendale CA house; removed mirrors and TVs; blindfolded Mia; partitioned her from her mother; tested with random number/picture generators — Mia was accurate every time.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.488412+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "0qlppHc3-gg",
+          "timestamp_start": 91,
+          "quote": "We rented a house in Glendale California and we took all the mirrors down and all the TVs down. We'd blindfold Mia. She was right every time."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Dickens rented a Glendale CA house; removed mirrors and TVs; blindfolded Mia; partitioned her from her mother; tested with random number/picture generators — Mia was accurate every time.",
+        "asserted_by_id": "person-ky-dickens",
+        "source_video_id": "0qlppHc3-gg",
+        "timestamp_start_seconds": 91,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-ky-dickens",
+          "person-mia-telepathy-mexico",
+          "person-diane-powell",
+          "concept-autistic-telepathy"
+        ]
+      }
+    },
+    {
+      "id": "claim-0qlppHc3-gg-popsicle-stick-test-beyond-telepathy",
+      "node_type": "claim",
+      "label": "The popsicle-stick test had Mia correctly pile sticks while blindfolded — Dickens notes this goes BE",
+      "summary": "The popsicle-stick test had Mia correctly pile sticks while blindfolded — Dickens notes this goes BEYOND telepathy because no one was 'sending' information; suggests clairvoyance.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.488420+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "0qlppHc3-gg",
+          "timestamp_start": 147,
+          "quote": "Popsicle stick tests which was beyond telepathy because no one's sending information. She could see them blind perfect blindfold."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "The popsicle-stick test had Mia correctly pile sticks while blindfolded — Dickens notes this goes BEYOND telepathy because no one was 'sending' information; suggests clairvoyance.",
+        "asserted_by_id": "person-ky-dickens",
+        "source_video_id": "0qlppHc3-gg",
+        "timestamp_start_seconds": 147,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-ky-dickens",
+          "person-mia-telepathy-mexico",
+          "concept-autistic-telepathy"
+        ]
+      }
+    },
+    {
+      "id": "claim-0qlppHc3-gg-powell-email-flood-from-parents",
+      "node_type": "claim",
+      "label": "Diane Powell's inbox contains hundreds of emails from independent, siloed parents describing their n",
+      "summary": "Diane Powell's inbox contains hundreds of emails from independent, siloed parents describing their non-speaking autistic child reading their thoughts — convincing Dickens this is widespread.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.488431+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "0qlppHc3-gg",
+          "timestamp_start": 111,
+          "quote": "Her email box was filled of parents reaching out saying I'm finding that my child can read my thoughts this seems impossible."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Diane Powell's inbox contains hundreds of emails from independent, siloed parents describing their non-speaking autistic child reading their thoughts — convincing Dickens this is widespread.",
+        "asserted_by_id": "person-diane-powell",
+        "source_video_id": "0qlppHc3-gg",
+        "timestamp_start_seconds": 111,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-diane-powell",
+          "concept-autistic-telepathy"
+        ]
+      }
+    },
+    {
+      "id": "claim-0qlppHc3-gg-sacks-twin-prime-numbers",
+      "node_type": "claim",
+      "label": "Oliver Sacks documented institutionalized autistic twins exchanging six-digit prime numbers with no ",
+      "summary": "Oliver Sacks documented institutionalized autistic twins exchanging six-digit prime numbers with no algorithm — 'they just saw them' — foreshadowing extra-cognitive savant abilities.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.488439+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "0qlppHc3-gg",
+          "timestamp_start": 117,
+          "quote": "These twins who are institutionalized who were autistic who played a game in which they would say prime numbers back and forth to one another. They just knew these prime numbers and they just saw them."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Oliver Sacks documented institutionalized autistic twins exchanging six-digit prime numbers with no algorithm — 'they just saw them' — foreshadowing extra-cognitive savant abilities.",
+        "asserted_by_id": "person-diane-powell",
+        "source_video_id": "0qlppHc3-gg",
+        "timestamp_start_seconds": 117,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-oliver-sacks",
+          "person-diane-powell",
+          "document-awakenings-sacks"
+        ]
+      }
+    },
+    {
+      "id": "claim-0qlppHc3-gg-covid-homeschooling-revealed-telepathy",
+      "node_type": "claim",
+      "label": "During COVID homeschooling, two independent families (Mia's and Amelia's) discovered their child's t",
+      "summary": "During COVID homeschooling, two independent families (Mia's and Amelia's) discovered their child's telepathic ability once parents spent extended one-on-one time — ability hadn't manifested in school.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.488447+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "0qlppHc3-gg",
+          "timestamp_start": 127,
+          "quote": "Two families - both Mia and another girl Amelia - when the parents were homeschooling with covid and they had to spend tons of time with their child all of a sudden their child started spelling on iPads doing things they weren't ever doing in school."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "During COVID homeschooling, two independent families (Mia's and Amelia's) discovered their child's telepathic ability once parents spent extended one-on-one time — ability hadn't manifested in school.",
+        "asserted_by_id": "person-ky-dickens",
+        "source_video_id": "0qlppHc3-gg",
+        "timestamp_start_seconds": 127,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-ky-dickens",
+          "person-mia-telepathy-mexico",
+          "person-amelia-telepathy",
+          "concept-autistic-telepathy"
+        ]
+      }
+    },
+    {
+      "id": "claim-0qlppHc3-gg-non-speakers-spiritual-gift-framing",
+      "node_type": "claim",
+      "label": "Non-speaking autistic children in The Telepathy Tapes universally describe their telepathic ability ",
+      "summary": "Non-speaking autistic children in The Telepathy Tapes universally describe their telepathic ability as a 'spiritual gift from God' — not pathological or demonic.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.488455+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "0qlppHc3-gg",
+          "timestamp_start": 135,
+          "quote": "What the non-speakers would say is this is a spiritual gift from God that is I think what every single one would say."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Non-speaking autistic children in The Telepathy Tapes universally describe their telepathic ability as a 'spiritual gift from God' — not pathological or demonic.",
+        "asserted_by_id": "person-ky-dickens",
+        "source_video_id": "0qlppHc3-gg",
+        "timestamp_start_seconds": 135,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-ky-dickens",
+          "concept-autistic-telepathy"
+        ]
+      }
     }
   ],
   "edges": [
@@ -1350,8 +1832,407 @@
           "timestamp_start": 0
         }
       ]
+    },
+    {
+      "id": "edge-person-ky-dickens-ASSERTED-claim-0qlppHc3-gg-dickens-telepathy-tapes-thesis",
+      "from_node_id": "person-ky-dickens",
+      "to_node_id": "claim-0qlppHc3-gg-dickens-telepathy-tapes-thesis",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "0qlppHc3-gg",
+          "timestamp_start": 83,
+          "quote": "Ky Dickens asserts that non-speaking autistic children demonstrate statistically significant telepathic abilities under controlled conditions, documented across many independent families."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-0qlppHc3-gg-REFERENCES-claim-0qlppHc3-gg-dickens-telepathy-tapes-thesis",
+      "from_node_id": "video-0qlppHc3-gg",
+      "to_node_id": "claim-0qlppHc3-gg-dickens-telepathy-tapes-thesis",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "0qlppHc3-gg",
+          "timestamp_start": 83
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-0qlppHc3-gg-dickens-telepathy-tapes-thesis-REFERENCES-document-telepathy-tapes-series",
+      "from_node_id": "claim-0qlppHc3-gg-dickens-telepathy-tapes-thesis",
+      "to_node_id": "document-telepathy-tapes-series",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "0qlppHc3-gg",
+          "timestamp_start": 83
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-0qlppHc3-gg-dickens-telepathy-tapes-thesis-REFERENCES-concept-autistic-telepathy",
+      "from_node_id": "claim-0qlppHc3-gg-dickens-telepathy-tapes-thesis",
+      "to_node_id": "concept-autistic-telepathy",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "0qlppHc3-gg",
+          "timestamp_start": 83
+        }
+      ]
+    },
+    {
+      "id": "edge-person-ky-dickens-ASSERTED-claim-0qlppHc3-gg-mia-controlled-glendale-test",
+      "from_node_id": "person-ky-dickens",
+      "to_node_id": "claim-0qlppHc3-gg-mia-controlled-glendale-test",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "0qlppHc3-gg",
+          "timestamp_start": 91,
+          "quote": "Dickens rented a Glendale CA house; removed mirrors and TVs; blindfolded Mia; partitioned her from her mother; tested with random number/picture generators — Mia was accurate every time."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-0qlppHc3-gg-REFERENCES-claim-0qlppHc3-gg-mia-controlled-glendale-test",
+      "from_node_id": "video-0qlppHc3-gg",
+      "to_node_id": "claim-0qlppHc3-gg-mia-controlled-glendale-test",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "0qlppHc3-gg",
+          "timestamp_start": 91
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-0qlppHc3-gg-mia-controlled-glendale-test-REFERENCES-person-mia-telepathy-mexico",
+      "from_node_id": "claim-0qlppHc3-gg-mia-controlled-glendale-test",
+      "to_node_id": "person-mia-telepathy-mexico",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "0qlppHc3-gg",
+          "timestamp_start": 91
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-0qlppHc3-gg-mia-controlled-glendale-test-REFERENCES-person-diane-powell",
+      "from_node_id": "claim-0qlppHc3-gg-mia-controlled-glendale-test",
+      "to_node_id": "person-diane-powell",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "0qlppHc3-gg",
+          "timestamp_start": 91
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-0qlppHc3-gg-mia-controlled-glendale-test-REFERENCES-concept-autistic-telepathy",
+      "from_node_id": "claim-0qlppHc3-gg-mia-controlled-glendale-test",
+      "to_node_id": "concept-autistic-telepathy",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "0qlppHc3-gg",
+          "timestamp_start": 91
+        }
+      ]
+    },
+    {
+      "id": "edge-person-ky-dickens-ASSERTED-claim-0qlppHc3-gg-popsicle-stick-test-beyond-telepathy",
+      "from_node_id": "person-ky-dickens",
+      "to_node_id": "claim-0qlppHc3-gg-popsicle-stick-test-beyond-telepathy",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "0qlppHc3-gg",
+          "timestamp_start": 147,
+          "quote": "The popsicle-stick test had Mia correctly pile sticks while blindfolded — Dickens notes this goes BEYOND telepathy because no one was 'sending' information; suggests clairvoyance."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-0qlppHc3-gg-REFERENCES-claim-0qlppHc3-gg-popsicle-stick-test-beyond-telepathy",
+      "from_node_id": "video-0qlppHc3-gg",
+      "to_node_id": "claim-0qlppHc3-gg-popsicle-stick-test-beyond-telepathy",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "0qlppHc3-gg",
+          "timestamp_start": 147
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-0qlppHc3-gg-popsicle-stick-test-beyond-telepathy-REFERENCES-person-mia-telepathy-mexico",
+      "from_node_id": "claim-0qlppHc3-gg-popsicle-stick-test-beyond-telepathy",
+      "to_node_id": "person-mia-telepathy-mexico",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "0qlppHc3-gg",
+          "timestamp_start": 147
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-0qlppHc3-gg-popsicle-stick-test-beyond-telepathy-REFERENCES-concept-autistic-telepathy",
+      "from_node_id": "claim-0qlppHc3-gg-popsicle-stick-test-beyond-telepathy",
+      "to_node_id": "concept-autistic-telepathy",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "0qlppHc3-gg",
+          "timestamp_start": 147
+        }
+      ]
+    },
+    {
+      "id": "edge-person-diane-powell-ASSERTED-claim-0qlppHc3-gg-powell-email-flood-from-parents",
+      "from_node_id": "person-diane-powell",
+      "to_node_id": "claim-0qlppHc3-gg-powell-email-flood-from-parents",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "0qlppHc3-gg",
+          "timestamp_start": 111,
+          "quote": "Diane Powell's inbox contains hundreds of emails from independent, siloed parents describing their non-speaking autistic child reading their thoughts — convincing Dickens this is widespread."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-0qlppHc3-gg-REFERENCES-claim-0qlppHc3-gg-powell-email-flood-from-parents",
+      "from_node_id": "video-0qlppHc3-gg",
+      "to_node_id": "claim-0qlppHc3-gg-powell-email-flood-from-parents",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "0qlppHc3-gg",
+          "timestamp_start": 111
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-0qlppHc3-gg-powell-email-flood-from-parents-REFERENCES-concept-autistic-telepathy",
+      "from_node_id": "claim-0qlppHc3-gg-powell-email-flood-from-parents",
+      "to_node_id": "concept-autistic-telepathy",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "0qlppHc3-gg",
+          "timestamp_start": 111
+        }
+      ]
+    },
+    {
+      "id": "edge-person-diane-powell-ASSERTED-claim-0qlppHc3-gg-sacks-twin-prime-numbers",
+      "from_node_id": "person-diane-powell",
+      "to_node_id": "claim-0qlppHc3-gg-sacks-twin-prime-numbers",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "0qlppHc3-gg",
+          "timestamp_start": 117,
+          "quote": "Oliver Sacks documented institutionalized autistic twins exchanging six-digit prime numbers with no algorithm — 'they just saw them' — foreshadowing extra-cognitive savant abilities."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-0qlppHc3-gg-REFERENCES-claim-0qlppHc3-gg-sacks-twin-prime-numbers",
+      "from_node_id": "video-0qlppHc3-gg",
+      "to_node_id": "claim-0qlppHc3-gg-sacks-twin-prime-numbers",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "0qlppHc3-gg",
+          "timestamp_start": 117
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-0qlppHc3-gg-sacks-twin-prime-numbers-REFERENCES-person-oliver-sacks",
+      "from_node_id": "claim-0qlppHc3-gg-sacks-twin-prime-numbers",
+      "to_node_id": "person-oliver-sacks",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "0qlppHc3-gg",
+          "timestamp_start": 117
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-0qlppHc3-gg-sacks-twin-prime-numbers-REFERENCES-document-awakenings-sacks",
+      "from_node_id": "claim-0qlppHc3-gg-sacks-twin-prime-numbers",
+      "to_node_id": "document-awakenings-sacks",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "0qlppHc3-gg",
+          "timestamp_start": 117
+        }
+      ]
+    },
+    {
+      "id": "edge-person-ky-dickens-ASSERTED-claim-0qlppHc3-gg-covid-homeschooling-revealed-telepathy",
+      "from_node_id": "person-ky-dickens",
+      "to_node_id": "claim-0qlppHc3-gg-covid-homeschooling-revealed-telepathy",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "0qlppHc3-gg",
+          "timestamp_start": 127,
+          "quote": "During COVID homeschooling, two independent families (Mia's and Amelia's) discovered their child's telepathic ability once parents spent extended one-on-one time — ability hadn't manifested in school."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-0qlppHc3-gg-REFERENCES-claim-0qlppHc3-gg-covid-homeschooling-revealed-telepathy",
+      "from_node_id": "video-0qlppHc3-gg",
+      "to_node_id": "claim-0qlppHc3-gg-covid-homeschooling-revealed-telepathy",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "0qlppHc3-gg",
+          "timestamp_start": 127
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-0qlppHc3-gg-covid-homeschooling-revealed-telepathy-REFERENCES-person-mia-telepathy-mexico",
+      "from_node_id": "claim-0qlppHc3-gg-covid-homeschooling-revealed-telepathy",
+      "to_node_id": "person-mia-telepathy-mexico",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "0qlppHc3-gg",
+          "timestamp_start": 127
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-0qlppHc3-gg-covid-homeschooling-revealed-telepathy-REFERENCES-person-amelia-telepathy",
+      "from_node_id": "claim-0qlppHc3-gg-covid-homeschooling-revealed-telepathy",
+      "to_node_id": "person-amelia-telepathy",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "0qlppHc3-gg",
+          "timestamp_start": 127
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-0qlppHc3-gg-covid-homeschooling-revealed-telepathy-REFERENCES-concept-autistic-telepathy",
+      "from_node_id": "claim-0qlppHc3-gg-covid-homeschooling-revealed-telepathy",
+      "to_node_id": "concept-autistic-telepathy",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "0qlppHc3-gg",
+          "timestamp_start": 127
+        }
+      ]
+    },
+    {
+      "id": "edge-person-ky-dickens-ASSERTED-claim-0qlppHc3-gg-non-speakers-spiritual-gift-framing",
+      "from_node_id": "person-ky-dickens",
+      "to_node_id": "claim-0qlppHc3-gg-non-speakers-spiritual-gift-framing",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "0qlppHc3-gg",
+          "timestamp_start": 135,
+          "quote": "Non-speaking autistic children in The Telepathy Tapes universally describe their telepathic ability as a 'spiritual gift from God' — not pathological or demonic."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-0qlppHc3-gg-REFERENCES-claim-0qlppHc3-gg-non-speakers-spiritual-gift-framing",
+      "from_node_id": "video-0qlppHc3-gg",
+      "to_node_id": "claim-0qlppHc3-gg-non-speakers-spiritual-gift-framing",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "0qlppHc3-gg",
+          "timestamp_start": 135
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-0qlppHc3-gg-non-speakers-spiritual-gift-framing-REFERENCES-concept-autistic-telepathy",
+      "from_node_id": "claim-0qlppHc3-gg-non-speakers-spiritual-gift-framing",
+      "to_node_id": "concept-autistic-telepathy",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "0qlppHc3-gg",
+          "timestamp_start": 135
+        }
+      ]
     }
   ],
-  "extracted_at": "2026-04-17T11:04:14.701545+00:00",
+  "extracted_at": "2026-04-17T12:31:49.488466+00:00",
   "extractor_version": "v1-inline-claude"
 }

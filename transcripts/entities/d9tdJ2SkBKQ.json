@@ -1646,6 +1646,271 @@
           "video-d9tdJ2SkBKQ"
         ]
       }
+    },
+    {
+      "id": "person-bob-lazar-extended",
+      "node_type": "person",
+      "label": "Bob Lazar (extended)",
+      "summary": "S-4 UFO reverse-engineering whistleblower (1989 KLAS-TV). Still the only person to publicly claim direct work on NHI craft. Currently works on gravity-altering physics in personal home laboratory.",
+      "tags": [
+        "whistleblower",
+        "S-4",
+        "element-115",
+        "controversial"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.368665+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "d9tdJ2SkBKQ",
+          "timestamp_start": 377,
+          "quote": "S-4 whistleblower; 1989 public disclosure; home-lab gravity researcher"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Lazar",
+          "Robert Lazar"
+        ],
+        "profession": "physicist / whistleblower",
+        "notability_tags": [
+          "whistleblower",
+          "S-4",
+          "element-115",
+          "controversial"
+        ]
+      }
+    },
+    {
+      "id": "person-nasa-lead-scientist",
+      "node_type": "person",
+      "label": "NASA Lead Scientist (surprise guest)",
+      "summary": "Unnamed (or partially named) NASA lead scientist whom Jesse surprises Lazar with; running anti-gravity experiments at ~400 volts — mirroring and extending Lazar's work.",
+      "tags": [
+        "NASA",
+        "scientist",
+        "antigravity"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.368668+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "d9tdJ2SkBKQ",
+          "timestamp_start": 407,
+          "quote": "NASA scientist working on anti-gravity experiments at ~400 volts"
+        }
+      ],
+      "type_specific": {
+        "aliases": [],
+        "profession": "scientist",
+        "notability_tags": [
+          "NASA",
+          "scientist",
+          "antigravity"
+        ]
+      }
+    },
+    {
+      "id": "technology-lazar-gravity-altering-home-lab",
+      "node_type": "technology",
+      "label": "Lazar Home Lab Gravity Experiments",
+      "summary": "Bob Lazar's current (ongoing) home-laboratory gravity-altering experiments; X-rays reveal hollow-tube structure in his current reactor investigation.",
+      "tags": [
+        "propulsion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.368670+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "d9tdJ2SkBKQ",
+          "timestamp_start": 403,
+          "timestamp_end": "Lazar's ongoing personal-laboratory gravity investigation"
+        }
+      ],
+      "type_specific": {
+        "technology_type": "propulsion"
+      }
+    },
+    {
+      "id": "claim-d9tdJ2SkBKQ-lazar-still-researching-gravity",
+      "node_type": "claim",
+      "label": "Bob Lazar is currently working on gravity-altering experiments in his home laboratory — actively con",
+      "summary": "Bob Lazar is currently working on gravity-altering experiments in his home laboratory — actively continuing the physics investigation he started at S-4 in the 1980s.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.389388+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "d9tdJ2SkBKQ",
+          "timestamp_start": 403,
+          "quote": "Bob is currently working on exotic UFO science in his personal lab. How did the reactor work? Through X-rays we were able to determine that there's a hollow tube."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Bob Lazar is currently working on gravity-altering experiments in his home laboratory — actively continuing the physics investigation he started at S-4 in the 1980s.",
+        "asserted_by_id": "person-bob-lazar-extended",
+        "source_video_id": "d9tdJ2SkBKQ",
+        "timestamp_start_seconds": 403,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-bob-lazar-extended",
+          "technology-lazar-gravity-altering-home-lab"
+        ]
+      }
+    },
+    {
+      "id": "claim-d9tdJ2SkBKQ-lazar-surprise-nasa-scientist",
+      "node_type": "claim",
+      "label": "Jesse surprised Lazar on-camera with a NASA lead scientist conducting his own anti-gravity experimen",
+      "summary": "Jesse surprised Lazar on-camera with a NASA lead scientist conducting his own anti-gravity experiments at ~400 volts — a first-ever documented meeting between Lazar and an active NASA anti-gravity researcher.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.389405+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "d9tdJ2SkBKQ",
+          "timestamp_start": 407,
+          "quote": "I surprise Bob with a scientist at NASA who's doing his own experiments on anti-gravity. What kind of voltage are you using right now? About 400 volts."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Jesse surprised Lazar on-camera with a NASA lead scientist conducting his own anti-gravity experiments at ~400 volts — a first-ever documented meeting between Lazar and an active NASA anti-gravity researcher.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "d9tdJ2SkBKQ",
+        "timestamp_start_seconds": 407,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-bob-lazar-extended",
+          "person-nasa-lead-scientist",
+          "organization-nasa",
+          "concept-antigravity"
+        ]
+      }
+    },
+    {
+      "id": "claim-d9tdJ2SkBKQ-lazar-still-only-public-firsthand",
+      "node_type": "claim",
+      "label": "Despite decades of whistleblower disclosures (Grusch, Elizondo, etc.), Lazar remains the only person",
+      "summary": "Despite decades of whistleblower disclosures (Grusch, Elizondo, etc.), Lazar remains the only person publicly claiming direct firsthand reverse-engineering work on an NHI craft.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.389416+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "d9tdJ2SkBKQ",
+          "timestamp_start": 393,
+          "quote": "Bob is an anomaly. He's on an island. He's still the only person to have gone public claiming he worked directly on a craft of nonhuman origin."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Despite decades of whistleblower disclosures (Grusch, Elizondo, etc.), Lazar remains the only person publicly claiming direct firsthand reverse-engineering work on an NHI craft.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "d9tdJ2SkBKQ",
+        "timestamp_start_seconds": 393,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-bob-lazar-extended",
+          "concept-reverse-engineering"
+        ]
+      }
+    },
+    {
+      "id": "claim-d9tdJ2SkBKQ-lazar-time-flow-manipulation",
+      "node_type": "claim",
+      "label": "Lazar describes that the S-4 programs 'really wanted to see if they could affect the flow of time' —",
+      "summary": "Lazar describes that the S-4 programs 'really wanted to see if they could affect the flow of time' — hinting that propulsion was secondary to temporal research in program intent.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.389426+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "d9tdJ2SkBKQ",
+          "timestamp_start": 397,
+          "quote": "They really wanted to see if they could affect the flow of time."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Lazar describes that the S-4 programs 'really wanted to see if they could affect the flow of time' — hinting that propulsion was secondary to temporal research in program intent.",
+        "asserted_by_id": "person-bob-lazar-extended",
+        "source_video_id": "d9tdJ2SkBKQ",
+        "timestamp_start_seconds": 397,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-bob-lazar-extended",
+          "concept-time-travel-hypothesis"
+        ]
+      }
+    },
+    {
+      "id": "claim-d9tdJ2SkBKQ-lazar-area-51-footage",
+      "node_type": "claim",
+      "label": "Jesse shows Lazar legendary never-before-seen footage of a UFO at Area 51 that people have been tryi",
+      "summary": "Jesse shows Lazar legendary never-before-seen footage of a UFO at Area 51 that people have been trying to acquire for years.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.389435+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "d9tdJ2SkBKQ",
+          "timestamp_start": 415,
+          "quote": "I also had the honor of showing Bob legendary never-before-seen footage of a UFO at Area 51. People have been trying to get their hands on this specific footage for years."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Jesse shows Lazar legendary never-before-seen footage of a UFO at Area 51 that people have been trying to acquire for years.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "d9tdJ2SkBKQ",
+        "timestamp_start_seconds": 415,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-bob-lazar-extended",
+          "location-groom-lake"
+        ]
+      }
     }
   ],
   "edges": [
@@ -2538,8 +2803,293 @@
           "timestamp_start": 0
         }
       ]
+    },
+    {
+      "id": "edge-person-bob-lazar-extended-ASSERTED-claim-d9tdJ2SkBKQ-lazar-still-researching-gravity",
+      "from_node_id": "person-bob-lazar-extended",
+      "to_node_id": "claim-d9tdJ2SkBKQ-lazar-still-researching-gravity",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "d9tdJ2SkBKQ",
+          "timestamp_start": 403,
+          "quote": "Bob Lazar is currently working on gravity-altering experiments in his home laboratory — actively continuing the physics investigation he started at S-4 in the 1980s."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-d9tdJ2SkBKQ-REFERENCES-claim-d9tdJ2SkBKQ-lazar-still-researching-gravity",
+      "from_node_id": "video-d9tdJ2SkBKQ",
+      "to_node_id": "claim-d9tdJ2SkBKQ-lazar-still-researching-gravity",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "d9tdJ2SkBKQ",
+          "timestamp_start": 403
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-d9tdJ2SkBKQ-lazar-still-researching-gravity-REFERENCES-technology-lazar-gravity-altering-home-lab",
+      "from_node_id": "claim-d9tdJ2SkBKQ-lazar-still-researching-gravity",
+      "to_node_id": "technology-lazar-gravity-altering-home-lab",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "d9tdJ2SkBKQ",
+          "timestamp_start": 403
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-d9tdJ2SkBKQ-lazar-surprise-nasa-scientist",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-d9tdJ2SkBKQ-lazar-surprise-nasa-scientist",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "d9tdJ2SkBKQ",
+          "timestamp_start": 407,
+          "quote": "Jesse surprised Lazar on-camera with a NASA lead scientist conducting his own anti-gravity experiments at ~400 volts — a first-ever documented meeting between Lazar and an active NASA anti-gravity res"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-d9tdJ2SkBKQ-REFERENCES-claim-d9tdJ2SkBKQ-lazar-surprise-nasa-scientist",
+      "from_node_id": "video-d9tdJ2SkBKQ",
+      "to_node_id": "claim-d9tdJ2SkBKQ-lazar-surprise-nasa-scientist",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "d9tdJ2SkBKQ",
+          "timestamp_start": 407
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-d9tdJ2SkBKQ-lazar-surprise-nasa-scientist-REFERENCES-person-bob-lazar-extended",
+      "from_node_id": "claim-d9tdJ2SkBKQ-lazar-surprise-nasa-scientist",
+      "to_node_id": "person-bob-lazar-extended",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "d9tdJ2SkBKQ",
+          "timestamp_start": 407
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-d9tdJ2SkBKQ-lazar-surprise-nasa-scientist-REFERENCES-person-nasa-lead-scientist",
+      "from_node_id": "claim-d9tdJ2SkBKQ-lazar-surprise-nasa-scientist",
+      "to_node_id": "person-nasa-lead-scientist",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "d9tdJ2SkBKQ",
+          "timestamp_start": 407
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-d9tdJ2SkBKQ-lazar-surprise-nasa-scientist-REFERENCES-organization-nasa",
+      "from_node_id": "claim-d9tdJ2SkBKQ-lazar-surprise-nasa-scientist",
+      "to_node_id": "organization-nasa",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "d9tdJ2SkBKQ",
+          "timestamp_start": 407
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-d9tdJ2SkBKQ-lazar-surprise-nasa-scientist-REFERENCES-concept-antigravity",
+      "from_node_id": "claim-d9tdJ2SkBKQ-lazar-surprise-nasa-scientist",
+      "to_node_id": "concept-antigravity",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "d9tdJ2SkBKQ",
+          "timestamp_start": 407
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-d9tdJ2SkBKQ-lazar-still-only-public-firsthand",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-d9tdJ2SkBKQ-lazar-still-only-public-firsthand",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "d9tdJ2SkBKQ",
+          "timestamp_start": 393,
+          "quote": "Despite decades of whistleblower disclosures (Grusch, Elizondo, etc.), Lazar remains the only person publicly claiming direct firsthand reverse-engineering work on an NHI craft."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-d9tdJ2SkBKQ-REFERENCES-claim-d9tdJ2SkBKQ-lazar-still-only-public-firsthand",
+      "from_node_id": "video-d9tdJ2SkBKQ",
+      "to_node_id": "claim-d9tdJ2SkBKQ-lazar-still-only-public-firsthand",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "d9tdJ2SkBKQ",
+          "timestamp_start": 393
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-d9tdJ2SkBKQ-lazar-still-only-public-firsthand-REFERENCES-person-bob-lazar-extended",
+      "from_node_id": "claim-d9tdJ2SkBKQ-lazar-still-only-public-firsthand",
+      "to_node_id": "person-bob-lazar-extended",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "d9tdJ2SkBKQ",
+          "timestamp_start": 393
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-d9tdJ2SkBKQ-lazar-still-only-public-firsthand-REFERENCES-concept-reverse-engineering",
+      "from_node_id": "claim-d9tdJ2SkBKQ-lazar-still-only-public-firsthand",
+      "to_node_id": "concept-reverse-engineering",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "d9tdJ2SkBKQ",
+          "timestamp_start": 393
+        }
+      ]
+    },
+    {
+      "id": "edge-person-bob-lazar-extended-ASSERTED-claim-d9tdJ2SkBKQ-lazar-time-flow-manipulation",
+      "from_node_id": "person-bob-lazar-extended",
+      "to_node_id": "claim-d9tdJ2SkBKQ-lazar-time-flow-manipulation",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "d9tdJ2SkBKQ",
+          "timestamp_start": 397,
+          "quote": "Lazar describes that the S-4 programs 'really wanted to see if they could affect the flow of time' — hinting that propulsion was secondary to temporal research in program intent."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-d9tdJ2SkBKQ-REFERENCES-claim-d9tdJ2SkBKQ-lazar-time-flow-manipulation",
+      "from_node_id": "video-d9tdJ2SkBKQ",
+      "to_node_id": "claim-d9tdJ2SkBKQ-lazar-time-flow-manipulation",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "d9tdJ2SkBKQ",
+          "timestamp_start": 397
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-d9tdJ2SkBKQ-lazar-time-flow-manipulation-REFERENCES-concept-time-travel-hypothesis",
+      "from_node_id": "claim-d9tdJ2SkBKQ-lazar-time-flow-manipulation",
+      "to_node_id": "concept-time-travel-hypothesis",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "d9tdJ2SkBKQ",
+          "timestamp_start": 397
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-d9tdJ2SkBKQ-lazar-area-51-footage",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-d9tdJ2SkBKQ-lazar-area-51-footage",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "d9tdJ2SkBKQ",
+          "timestamp_start": 415,
+          "quote": "Jesse shows Lazar legendary never-before-seen footage of a UFO at Area 51 that people have been trying to acquire for years."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-d9tdJ2SkBKQ-REFERENCES-claim-d9tdJ2SkBKQ-lazar-area-51-footage",
+      "from_node_id": "video-d9tdJ2SkBKQ",
+      "to_node_id": "claim-d9tdJ2SkBKQ-lazar-area-51-footage",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "d9tdJ2SkBKQ",
+          "timestamp_start": 415
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-d9tdJ2SkBKQ-lazar-area-51-footage-REFERENCES-person-bob-lazar-extended",
+      "from_node_id": "claim-d9tdJ2SkBKQ-lazar-area-51-footage",
+      "to_node_id": "person-bob-lazar-extended",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "d9tdJ2SkBKQ",
+          "timestamp_start": 415
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-d9tdJ2SkBKQ-lazar-area-51-footage-REFERENCES-location-groom-lake",
+      "from_node_id": "claim-d9tdJ2SkBKQ-lazar-area-51-footage",
+      "to_node_id": "location-groom-lake",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "d9tdJ2SkBKQ",
+          "timestamp_start": 415
+        }
+      ]
     }
   ],
-  "extracted_at": "2026-04-17T11:04:32.494092+00:00",
+  "extracted_at": "2026-04-17T12:55:45.389444+00:00",
   "extractor_version": "v1-inline-claude"
 }

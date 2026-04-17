@@ -1786,6 +1786,326 @@
           "video-IWui5cBkwoE"
         ]
       }
+    },
+    {
+      "id": "person-alan-bean",
+      "node_type": "person",
+      "label": "Alan Bean",
+      "summary": "American astronaut; fourth person on moon (Apollo 12, 1969); Skylab commander; told Knuth that on Skylab they photographed a red flashing light — 'nobody puts lights on satellites.'",
+      "tags": [
+        "astronaut",
+        "NASA",
+        "witness"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.912089+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "IWui5cBkwoE",
+          "timestamp_start": 93,
+          "quote": "Apollo 12 astronaut; Skylab commander who photographed UFO"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Bean"
+        ],
+        "profession": "astronaut",
+        "notability_tags": [
+          "astronaut",
+          "NASA",
+          "witness"
+        ]
+      }
+    },
+    {
+      "id": "person-story-musgrave",
+      "node_type": "person",
+      "label": "Story Musgrave",
+      "summary": "American astronaut; shuttle pilot; reported seeing 'snake-like objects writhing around in space' during missions.",
+      "tags": [
+        "astronaut",
+        "NASA",
+        "witness"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.912098+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "IWui5cBkwoE",
+          "timestamp_start": 99,
+          "quote": "Shuttle astronaut who witnessed 'snake-like objects' in space"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Musgrave"
+        ],
+        "profession": "astronaut",
+        "notability_tags": [
+          "astronaut",
+          "NASA",
+          "witness"
+        ]
+      }
+    },
+    {
+      "id": "incident-1988-bozeman-cattle-mutilation",
+      "node_type": "incident",
+      "label": "1988 Bozeman Cattle Mutilation + UFO Reports",
+      "summary": "September 1988 incident at Montana ranch near Bozeman — two cows killed, blood drained, sensory organs and genitals removed, one with a cylindrical-core-sample hole punched through it. Hundreds of UFO reports in the county same night. Knuth's formative UAP encounter.",
+      "tags": [
+        "sighting"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.912101+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "IWui5cBkwoE",
+          "timestamp_start": 119,
+          "timestamp_end": "Two cows surgically manipulated with cylindrical core sample; hundreds of UFO reports same night"
+        }
+      ],
+      "type_specific": {
+        "incident_type": "sighting",
+        "date_approximate": "1988-09-01"
+      }
+    },
+    {
+      "id": "concept-underwater-uap-bases-hypothesis",
+      "node_type": "concept",
+      "label": "Underwater UAP Bases Hypothesis",
+      "summary": "Hypothesis (per Knuth and many witnesses): UAPs emerging from water, following ships, centuries of sightings — most likely explanation is UAP bases underwater.",
+      "tags": [
+        "physics"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.912103+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "IWui5cBkwoE",
+          "timestamp_start": 103,
+          "timestamp_end": "UAP phenomena around water suggest underwater bases"
+        }
+      ],
+      "type_specific": {
+        "concept_domain": "physics"
+      }
+    },
+    {
+      "id": "claim-IWui5cBkwoE-bean-skylab-red-flashing-light",
+      "node_type": "claim",
+      "label": "Apollo 12 and Skylab astronaut Alan Bean told Knuth that on Skylab they actually photographed a red ",
+      "summary": "Apollo 12 and Skylab astronaut Alan Bean told Knuth that on Skylab they actually photographed a red flashing light — 'nobody puts lights on satellites, you don't need them, it's more weight.'",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.921139+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "IWui5cBkwoE",
+          "timestamp_start": 93,
+          "quote": "I talked to Alan Bean. He was from Apollo 12. When he went up to Skylab, they actually photographed a red flashing light. Nobody puts lights on satellites."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Apollo 12 and Skylab astronaut Alan Bean told Knuth that on Skylab they actually photographed a red flashing light — 'nobody puts lights on satellites, you don't need them, it's more weight.'",
+        "asserted_by_id": "person-kevin-knuth",
+        "source_video_id": "IWui5cBkwoE",
+        "timestamp_start_seconds": 93,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-kevin-knuth",
+          "person-alan-bean"
+        ]
+      }
+    },
+    {
+      "id": "claim-IWui5cBkwoE-knuth-cosmonaut-craft-alongside",
+      "node_type": "claim",
+      "label": "Per Knuth: a Russian cosmonaut drew a picture of an object that pulled up alongside his craft and ma",
+      "summary": "Per Knuth: a Russian cosmonaut drew a picture of an object that pulled up alongside his craft and matched their orbit.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.921194+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "IWui5cBkwoE",
+          "timestamp_start": 99,
+          "quote": "They actually had a craft pull up alongside of them. They had their orbit. And the cosmonaut drew a picture of the object."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Per Knuth: a Russian cosmonaut drew a picture of an object that pulled up alongside his craft and matched their orbit.",
+        "asserted_by_id": "person-kevin-knuth",
+        "source_video_id": "IWui5cBkwoE",
+        "timestamp_start_seconds": 99,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-kevin-knuth"
+        ]
+      }
+    },
+    {
+      "id": "claim-IWui5cBkwoE-musgrave-snakes-in-space",
+      "node_type": "claim",
+      "label": "Shuttle astronaut Story Musgrave reported seeing 'snakes writhing around in space' during missions —",
+      "summary": "Shuttle astronaut Story Musgrave reported seeing 'snakes writhing around in space' during missions — anomalous observation with no conventional explanation.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.921207+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "IWui5cBkwoE",
+          "timestamp_start": 99,
+          "quote": "Story Musgrave, a shuttle pilot, also talked about seeing things like snakes writhing around in space."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Shuttle astronaut Story Musgrave reported seeing 'snakes writhing around in space' during missions — anomalous observation with no conventional explanation.",
+        "asserted_by_id": "person-kevin-knuth",
+        "source_video_id": "IWui5cBkwoE",
+        "timestamp_start_seconds": 99,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-kevin-knuth",
+          "person-story-musgrave"
+        ]
+      }
+    },
+    {
+      "id": "claim-IWui5cBkwoE-knuth-1988-cattle-mutilation-ufo-reports",
+      "node_type": "claim",
+      "label": "Knuth's formative UAP experience: September 1988 at Montana State University — two ranch cows surgic",
+      "summary": "Knuth's formative UAP experience: September 1988 at Montana State University — two ranch cows surgically manipulated (cylindrical core sample, blood drained, organs removed), coincident with hundreds of UFO reports in the county same night.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.921216+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "IWui5cBkwoE",
+          "timestamp_start": 119,
+          "quote": "Our first week or two there, there was a cattle mutilation. Two cows were killed and surgically manipulated. The blood was drained, the sensory organs removed, the genitals removed. One of them had like a core sample. A cylindrical hole punched through it. There were UFO reports in the county that night, hundreds of reports."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Knuth's formative UAP experience: September 1988 at Montana State University — two ranch cows surgically manipulated (cylindrical core sample, blood drained, organs removed), coincident with hundreds of UFO reports in the county same night.",
+        "asserted_by_id": "person-kevin-knuth",
+        "source_video_id": "IWui5cBkwoE",
+        "timestamp_start_seconds": 119,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-kevin-knuth",
+          "incident-1988-bozeman-cattle-mutilation"
+        ]
+      }
+    },
+    {
+      "id": "claim-IWui5cBkwoE-knuth-underwater-bases-bet",
+      "node_type": "claim",
+      "label": "Knuth: UAPs emerging from water, hovering by ships, and flying into clouds has been documented since",
+      "summary": "Knuth: UAPs emerging from water, hovering by ships, and flying into clouds has been documented since the 1800s — 'that's why I think there's probably bases underwater is your best bet.'",
+      "tags": [
+        "speculation",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.921225+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "IWui5cBkwoE",
+          "timestamp_start": 103,
+          "quote": "This is a phenomena that people have seen for centuries. Balls of light coming out of the water, hovering next to the ship, following the ship, and then taking off into the clouds. I think there's probably bases underwater is your best bet."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Knuth: UAPs emerging from water, hovering by ships, and flying into clouds has been documented since the 1800s — 'that's why I think there's probably bases underwater is your best bet.'",
+        "asserted_by_id": "person-kevin-knuth",
+        "source_video_id": "IWui5cBkwoE",
+        "timestamp_start_seconds": 103,
+        "assertability": "speculation",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-kevin-knuth",
+          "concept-underwater-uap-bases-hypothesis"
+        ]
+      }
+    },
+    {
+      "id": "claim-IWui5cBkwoE-knuth-nasa-nocommission-astronauts",
+      "node_type": "claim",
+      "label": "Knuth asks: why, when the NASA UAP commission convened, was there no section on what astronauts have",
+      "summary": "Knuth asks: why, when the NASA UAP commission convened, was there no section on what astronauts have seen in space — despite well-documented astronaut UFO accounts?",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.921234+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "IWui5cBkwoE",
+          "timestamp_start": 93,
+          "quote": "Why when we had the NASA commission, why was there no section on what astronauts have seen in space?"
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Knuth asks: why, when the NASA UAP commission convened, was there no section on what astronauts have seen in space — despite well-documented astronaut UFO accounts?",
+        "asserted_by_id": "person-kevin-knuth",
+        "source_video_id": "IWui5cBkwoE",
+        "timestamp_start_seconds": 93,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-kevin-knuth",
+          "organization-nasa"
+        ]
+      }
     }
   ],
   "edges": [
@@ -2705,8 +3025,252 @@
           "timestamp_start": 0
         }
       ]
+    },
+    {
+      "id": "edge-person-kevin-knuth-ASSERTED-claim-IWui5cBkwoE-bean-skylab-red-flashing-light",
+      "from_node_id": "person-kevin-knuth",
+      "to_node_id": "claim-IWui5cBkwoE-bean-skylab-red-flashing-light",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "IWui5cBkwoE",
+          "timestamp_start": 93,
+          "quote": "Apollo 12 and Skylab astronaut Alan Bean told Knuth that on Skylab they actually photographed a red flashing light — 'nobody puts lights on satellites, you don't need them, it's more weight.'"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-IWui5cBkwoE-REFERENCES-claim-IWui5cBkwoE-bean-skylab-red-flashing-light",
+      "from_node_id": "video-IWui5cBkwoE",
+      "to_node_id": "claim-IWui5cBkwoE-bean-skylab-red-flashing-light",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "IWui5cBkwoE",
+          "timestamp_start": 93
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-IWui5cBkwoE-bean-skylab-red-flashing-light-REFERENCES-person-alan-bean",
+      "from_node_id": "claim-IWui5cBkwoE-bean-skylab-red-flashing-light",
+      "to_node_id": "person-alan-bean",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "IWui5cBkwoE",
+          "timestamp_start": 93
+        }
+      ]
+    },
+    {
+      "id": "edge-person-kevin-knuth-ASSERTED-claim-IWui5cBkwoE-knuth-cosmonaut-craft-alongside",
+      "from_node_id": "person-kevin-knuth",
+      "to_node_id": "claim-IWui5cBkwoE-knuth-cosmonaut-craft-alongside",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "IWui5cBkwoE",
+          "timestamp_start": 99,
+          "quote": "Per Knuth: a Russian cosmonaut drew a picture of an object that pulled up alongside his craft and matched their orbit."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-IWui5cBkwoE-REFERENCES-claim-IWui5cBkwoE-knuth-cosmonaut-craft-alongside",
+      "from_node_id": "video-IWui5cBkwoE",
+      "to_node_id": "claim-IWui5cBkwoE-knuth-cosmonaut-craft-alongside",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "IWui5cBkwoE",
+          "timestamp_start": 99
+        }
+      ]
+    },
+    {
+      "id": "edge-person-kevin-knuth-ASSERTED-claim-IWui5cBkwoE-musgrave-snakes-in-space",
+      "from_node_id": "person-kevin-knuth",
+      "to_node_id": "claim-IWui5cBkwoE-musgrave-snakes-in-space",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "IWui5cBkwoE",
+          "timestamp_start": 99,
+          "quote": "Shuttle astronaut Story Musgrave reported seeing 'snakes writhing around in space' during missions — anomalous observation with no conventional explanation."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-IWui5cBkwoE-REFERENCES-claim-IWui5cBkwoE-musgrave-snakes-in-space",
+      "from_node_id": "video-IWui5cBkwoE",
+      "to_node_id": "claim-IWui5cBkwoE-musgrave-snakes-in-space",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "IWui5cBkwoE",
+          "timestamp_start": 99
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-IWui5cBkwoE-musgrave-snakes-in-space-REFERENCES-person-story-musgrave",
+      "from_node_id": "claim-IWui5cBkwoE-musgrave-snakes-in-space",
+      "to_node_id": "person-story-musgrave",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "IWui5cBkwoE",
+          "timestamp_start": 99
+        }
+      ]
+    },
+    {
+      "id": "edge-person-kevin-knuth-ASSERTED-claim-IWui5cBkwoE-knuth-1988-cattle-mutilation-ufo-reports",
+      "from_node_id": "person-kevin-knuth",
+      "to_node_id": "claim-IWui5cBkwoE-knuth-1988-cattle-mutilation-ufo-reports",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "IWui5cBkwoE",
+          "timestamp_start": 119,
+          "quote": "Knuth's formative UAP experience: September 1988 at Montana State University — two ranch cows surgically manipulated (cylindrical core sample, blood drained, organs removed), coincident with hundreds "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-IWui5cBkwoE-REFERENCES-claim-IWui5cBkwoE-knuth-1988-cattle-mutilation-ufo-reports",
+      "from_node_id": "video-IWui5cBkwoE",
+      "to_node_id": "claim-IWui5cBkwoE-knuth-1988-cattle-mutilation-ufo-reports",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "IWui5cBkwoE",
+          "timestamp_start": 119
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-IWui5cBkwoE-knuth-1988-cattle-mutilation-ufo-reports-REFERENCES-incident-1988-bozeman-cattle-mutilation",
+      "from_node_id": "claim-IWui5cBkwoE-knuth-1988-cattle-mutilation-ufo-reports",
+      "to_node_id": "incident-1988-bozeman-cattle-mutilation",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "IWui5cBkwoE",
+          "timestamp_start": 119
+        }
+      ]
+    },
+    {
+      "id": "edge-person-kevin-knuth-ASSERTED-claim-IWui5cBkwoE-knuth-underwater-bases-bet",
+      "from_node_id": "person-kevin-knuth",
+      "to_node_id": "claim-IWui5cBkwoE-knuth-underwater-bases-bet",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "IWui5cBkwoE",
+          "timestamp_start": 103,
+          "quote": "Knuth: UAPs emerging from water, hovering by ships, and flying into clouds has been documented since the 1800s — 'that's why I think there's probably bases underwater is your best bet.'"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-IWui5cBkwoE-REFERENCES-claim-IWui5cBkwoE-knuth-underwater-bases-bet",
+      "from_node_id": "video-IWui5cBkwoE",
+      "to_node_id": "claim-IWui5cBkwoE-knuth-underwater-bases-bet",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "IWui5cBkwoE",
+          "timestamp_start": 103
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-IWui5cBkwoE-knuth-underwater-bases-bet-REFERENCES-concept-underwater-uap-bases-hypothesis",
+      "from_node_id": "claim-IWui5cBkwoE-knuth-underwater-bases-bet",
+      "to_node_id": "concept-underwater-uap-bases-hypothesis",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "IWui5cBkwoE",
+          "timestamp_start": 103
+        }
+      ]
+    },
+    {
+      "id": "edge-person-kevin-knuth-ASSERTED-claim-IWui5cBkwoE-knuth-nasa-nocommission-astronauts",
+      "from_node_id": "person-kevin-knuth",
+      "to_node_id": "claim-IWui5cBkwoE-knuth-nasa-nocommission-astronauts",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "IWui5cBkwoE",
+          "timestamp_start": 93,
+          "quote": "Knuth asks: why, when the NASA UAP commission convened, was there no section on what astronauts have seen in space — despite well-documented astronaut UFO accounts?"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-IWui5cBkwoE-REFERENCES-claim-IWui5cBkwoE-knuth-nasa-nocommission-astronauts",
+      "from_node_id": "video-IWui5cBkwoE",
+      "to_node_id": "claim-IWui5cBkwoE-knuth-nasa-nocommission-astronauts",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "IWui5cBkwoE",
+          "timestamp_start": 93
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-IWui5cBkwoE-knuth-nasa-nocommission-astronauts-REFERENCES-organization-nasa",
+      "from_node_id": "claim-IWui5cBkwoE-knuth-nasa-nocommission-astronauts",
+      "to_node_id": "organization-nasa",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "IWui5cBkwoE",
+          "timestamp_start": 93
+        }
+      ]
     }
   ],
-  "extracted_at": "2026-04-17T11:04:43.589098+00:00",
+  "extracted_at": "2026-04-17T13:13:43.921242+00:00",
   "extractor_version": "v1-inline-claude"
 }

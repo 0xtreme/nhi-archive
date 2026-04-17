@@ -1321,6 +1321,286 @@
           "video-8TYMQOUDQBo"
         ]
       }
+    },
+    {
+      "id": "person-salvatore-pais",
+      "node_type": "person",
+      "label": "Salvatore Pais",
+      "summary": "US Navy and former US Space Force scientist. Filed patents (2017+) on 'Hybrid Aerospace-Underwater Craft Using Inertial Mass Modification' and related UFO-adjacent technologies. The 'Pais Effect' is named after him.",
+      "tags": [
+        "scientist",
+        "Navy",
+        "Space Force"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.912137+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 229,
+          "quote": "US Navy scientist; filed patents on UFO-like propulsion"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Pais",
+          "Sal Pais"
+        ],
+        "profession": "physicist / engineer",
+        "notability_tags": [
+          "scientist",
+          "Navy",
+          "Space Force"
+        ]
+      }
+    },
+    {
+      "id": "concept-pais-effect",
+      "node_type": "concept",
+      "label": "Pais Effect",
+      "summary": "Salvatore Pais' proposed effect: modifying inertial/gravitational mass of an object via controlled electromagnetic fields (based on Oliver Heaviside's formulation of Maxwell's equations). If real, enables non-Newtonian propulsion.",
+      "tags": [
+        "physics"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.912140+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 219,
+          "timestamp_end": "Inertial-mass modification via controlled electromagnetic fields"
+        }
+      ],
+      "type_specific": {
+        "concept_domain": "physics"
+      }
+    },
+    {
+      "id": "document-pais-patents",
+      "node_type": "document",
+      "label": "Pais Navy UFO Patents",
+      "summary": "Patents filed by Salvatore Pais through the US Navy: Hybrid Aerospace-Underwater Craft Using Inertial Mass Modification Device; Room Temperature Superconductor; Force-Field Generator; High-Frequency Gravitational-Wave Generator.",
+      "tags": [
+        "patent"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.912142+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 225,
+          "timestamp_end": "2017+ Navy patents on mass-modification hybrid craft"
+        }
+      ],
+      "type_specific": {
+        "document_type": "patent",
+        "author": "Salvatore Pais"
+      }
+    },
+    {
+      "id": "incident-mh370-pais-effect-sighting",
+      "node_type": "incident",
+      "label": "MH370 Pais-Effect Sighting",
+      "summary": "Pais claims the Malaysian Airlines MH370 2014 disappearance videos show a craft opening up which he identifies as the Pais Effect in action — i.e., NHI craft intervention.",
+      "tags": [
+        "sighting"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.912144+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 217,
+          "timestamp_end": "Pais attributes MH370 disappearance to Pais-Effect signature"
+        }
+      ],
+      "type_specific": {
+        "incident_type": "sighting",
+        "date_approximate": "2014-03-08"
+      }
+    },
+    {
+      "id": "claim-8TYMQOUDQBo-pais-mh370-sighting",
+      "node_type": "claim",
+      "label": "Pais states publicly that he saw the Pais Effect in the MH370 disappearance videos — 'when I saw tha",
+      "summary": "Pais states publicly that he saw the Pais Effect in the MH370 disappearance videos — 'when I saw that thing open up, I saw the Pais Effect, man. This is the Pais Effect. I'm gone.'",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.931026+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 217,
+          "quote": "You have spoken publicly with these MH370 videos. When I saw that thing open up, I saw the Pais Effect, man. This is the Pais Effect. I'm gone."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Pais states publicly that he saw the Pais Effect in the MH370 disappearance videos — 'when I saw that thing open up, I saw the Pais Effect, man. This is the Pais Effect. I'm gone.'",
+        "asserted_by_id": "person-salvatore-pais",
+        "source_video_id": "8TYMQOUDQBo",
+        "timestamp_start_seconds": 217,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-salvatore-pais",
+          "concept-pais-effect",
+          "incident-mh370-pais-effect-sighting"
+        ]
+      }
+    },
+    {
+      "id": "claim-8TYMQOUDQBo-pais-external-enemy-warning",
+      "node_type": "claim",
+      "label": "Pais warns: 'We must unite the factions because one day we shall have an external enemy — and by ext",
+      "summary": "Pais warns: 'We must unite the factions because one day we shall have an external enemy — and by external I mean very external, ni. Think of the earth, we are a very yummy apple.'",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.931046+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 217,
+          "quote": "I truly think that one day we must unite the factions because one day we shall have an external enemy and by external enemy I mean very external. Think of the earth, we are a very yummy apple."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Pais warns: 'We must unite the factions because one day we shall have an external enemy — and by external I mean very external, ni. Think of the earth, we are a very yummy apple.'",
+        "asserted_by_id": "person-salvatore-pais",
+        "source_video_id": "8TYMQOUDQBo",
+        "timestamp_start_seconds": 217,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-salvatore-pais"
+        ]
+      }
+    },
+    {
+      "id": "claim-8TYMQOUDQBo-pais-remote-action-at-distance",
+      "node_type": "claim",
+      "label": "Pais contends 'remote action is possible — can you imagine stopping a heart just by thinking about i",
+      "summary": "Pais contends 'remote action is possible — can you imagine stopping a heart just by thinking about it, say from Qatar? That's some scary stuff.'",
+      "tags": [
+        "speculation",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.931054+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 217,
+          "quote": "I think remote action is possible. Can you imagine stopping a heart just by thinking about it? Say from Qatar? That's some scary stuff."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Pais contends 'remote action is possible — can you imagine stopping a heart just by thinking about it, say from Qatar? That's some scary stuff.'",
+        "asserted_by_id": "person-salvatore-pais",
+        "source_video_id": "8TYMQOUDQBo",
+        "timestamp_start_seconds": 217,
+        "assertability": "speculation",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-salvatore-pais"
+        ]
+      }
+    },
+    {
+      "id": "claim-8TYMQOUDQBo-pais-patents-maxwell-heaviside",
+      "node_type": "claim",
+      "label": "Pais' patents are based on Oliver Heaviside's four-equation-four-unknown formulation of Maxwell's eq",
+      "summary": "Pais' patents are based on Oliver Heaviside's four-equation-four-unknown formulation of Maxwell's equations (not the original 21-variable quaternion formalism) — engineering reality of non-Newtonian propulsion via field manipulation.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.931061+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 251,
+          "quote": "Everything I've done is really based on Oliver Heaviside's version of Maxwell's equations. The four equation four unknowns that electrical engineers have grown up to love and use."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Pais' patents are based on Oliver Heaviside's four-equation-four-unknown formulation of Maxwell's equations (not the original 21-variable quaternion formalism) — engineering reality of non-Newtonian propulsion via field manipulation.",
+        "asserted_by_id": "person-salvatore-pais",
+        "source_video_id": "8TYMQOUDQBo",
+        "timestamp_start_seconds": 251,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-salvatore-pais",
+          "document-pais-patents",
+          "concept-pais-effect"
+        ]
+      }
+    },
+    {
+      "id": "claim-8TYMQOUDQBo-pais-expected-classified-contact",
+      "node_type": "claim",
+      "label": "Pais expected to be contacted by classified US programs after filing his patents — his lack of conta",
+      "summary": "Pais expected to be contacted by classified US programs after filing his patents — his lack of contact leads him to conclude the programs already have this technology figured out and operational.",
+      "tags": [
+        "speculation",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.931070+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 249,
+          "quote": "At one point in time, I almost expected to be contacted. The idea occurred to me almost instantaneously that they must have this somewhere — they've already figured it out and they're already operating certain devices."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Pais expected to be contacted by classified US programs after filing his patents — his lack of contact leads him to conclude the programs already have this technology figured out and operational.",
+        "asserted_by_id": "person-salvatore-pais",
+        "source_video_id": "8TYMQOUDQBo",
+        "timestamp_start_seconds": 249,
+        "assertability": "speculation",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-salvatore-pais",
+          "document-pais-patents",
+          "concept-reverse-engineering"
+        ]
+      }
     }
   ],
   "edges": [
@@ -2045,8 +2325,237 @@
           "timestamp_start": 0
         }
       ]
+    },
+    {
+      "id": "edge-person-salvatore-pais-ASSERTED-claim-8TYMQOUDQBo-pais-mh370-sighting",
+      "from_node_id": "person-salvatore-pais",
+      "to_node_id": "claim-8TYMQOUDQBo-pais-mh370-sighting",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 217,
+          "quote": "Pais states publicly that he saw the Pais Effect in the MH370 disappearance videos — 'when I saw that thing open up, I saw the Pais Effect, man. This is the Pais Effect. I'm gone.'"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-8TYMQOUDQBo-REFERENCES-claim-8TYMQOUDQBo-pais-mh370-sighting",
+      "from_node_id": "video-8TYMQOUDQBo",
+      "to_node_id": "claim-8TYMQOUDQBo-pais-mh370-sighting",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 217
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-8TYMQOUDQBo-pais-mh370-sighting-REFERENCES-concept-pais-effect",
+      "from_node_id": "claim-8TYMQOUDQBo-pais-mh370-sighting",
+      "to_node_id": "concept-pais-effect",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 217
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-8TYMQOUDQBo-pais-mh370-sighting-REFERENCES-incident-mh370-pais-effect-sighting",
+      "from_node_id": "claim-8TYMQOUDQBo-pais-mh370-sighting",
+      "to_node_id": "incident-mh370-pais-effect-sighting",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 217
+        }
+      ]
+    },
+    {
+      "id": "edge-person-salvatore-pais-ASSERTED-claim-8TYMQOUDQBo-pais-external-enemy-warning",
+      "from_node_id": "person-salvatore-pais",
+      "to_node_id": "claim-8TYMQOUDQBo-pais-external-enemy-warning",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 217,
+          "quote": "Pais warns: 'We must unite the factions because one day we shall have an external enemy — and by external I mean very external, ni. Think of the earth, we are a very yummy apple.'"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-8TYMQOUDQBo-REFERENCES-claim-8TYMQOUDQBo-pais-external-enemy-warning",
+      "from_node_id": "video-8TYMQOUDQBo",
+      "to_node_id": "claim-8TYMQOUDQBo-pais-external-enemy-warning",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 217
+        }
+      ]
+    },
+    {
+      "id": "edge-person-salvatore-pais-ASSERTED-claim-8TYMQOUDQBo-pais-remote-action-at-distance",
+      "from_node_id": "person-salvatore-pais",
+      "to_node_id": "claim-8TYMQOUDQBo-pais-remote-action-at-distance",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 217,
+          "quote": "Pais contends 'remote action is possible — can you imagine stopping a heart just by thinking about it, say from Qatar? That's some scary stuff.'"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-8TYMQOUDQBo-REFERENCES-claim-8TYMQOUDQBo-pais-remote-action-at-distance",
+      "from_node_id": "video-8TYMQOUDQBo",
+      "to_node_id": "claim-8TYMQOUDQBo-pais-remote-action-at-distance",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 217
+        }
+      ]
+    },
+    {
+      "id": "edge-person-salvatore-pais-ASSERTED-claim-8TYMQOUDQBo-pais-patents-maxwell-heaviside",
+      "from_node_id": "person-salvatore-pais",
+      "to_node_id": "claim-8TYMQOUDQBo-pais-patents-maxwell-heaviside",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 251,
+          "quote": "Pais' patents are based on Oliver Heaviside's four-equation-four-unknown formulation of Maxwell's equations (not the original 21-variable quaternion formalism) — engineering reality of non-Newtonian p"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-8TYMQOUDQBo-REFERENCES-claim-8TYMQOUDQBo-pais-patents-maxwell-heaviside",
+      "from_node_id": "video-8TYMQOUDQBo",
+      "to_node_id": "claim-8TYMQOUDQBo-pais-patents-maxwell-heaviside",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 251
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-8TYMQOUDQBo-pais-patents-maxwell-heaviside-REFERENCES-document-pais-patents",
+      "from_node_id": "claim-8TYMQOUDQBo-pais-patents-maxwell-heaviside",
+      "to_node_id": "document-pais-patents",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 251
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-8TYMQOUDQBo-pais-patents-maxwell-heaviside-REFERENCES-concept-pais-effect",
+      "from_node_id": "claim-8TYMQOUDQBo-pais-patents-maxwell-heaviside",
+      "to_node_id": "concept-pais-effect",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 251
+        }
+      ]
+    },
+    {
+      "id": "edge-person-salvatore-pais-ASSERTED-claim-8TYMQOUDQBo-pais-expected-classified-contact",
+      "from_node_id": "person-salvatore-pais",
+      "to_node_id": "claim-8TYMQOUDQBo-pais-expected-classified-contact",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 249,
+          "quote": "Pais expected to be contacted by classified US programs after filing his patents — his lack of contact leads him to conclude the programs already have this technology figured out and operational."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-8TYMQOUDQBo-REFERENCES-claim-8TYMQOUDQBo-pais-expected-classified-contact",
+      "from_node_id": "video-8TYMQOUDQBo",
+      "to_node_id": "claim-8TYMQOUDQBo-pais-expected-classified-contact",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 249
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-8TYMQOUDQBo-pais-expected-classified-contact-REFERENCES-document-pais-patents",
+      "from_node_id": "claim-8TYMQOUDQBo-pais-expected-classified-contact",
+      "to_node_id": "document-pais-patents",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 249
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-8TYMQOUDQBo-pais-expected-classified-contact-REFERENCES-concept-reverse-engineering",
+      "from_node_id": "claim-8TYMQOUDQBo-pais-expected-classified-contact",
+      "to_node_id": "concept-reverse-engineering",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 249
+        }
+      ]
     }
   ],
-  "extracted_at": "2026-04-17T11:04:45.741282+00:00",
+  "extracted_at": "2026-04-17T13:13:43.931078+00:00",
   "extractor_version": "v1-inline-claude"
 }

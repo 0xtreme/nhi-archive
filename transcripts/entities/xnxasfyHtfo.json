@@ -1780,6 +1780,270 @@
           "video-xnxasfyHtfo"
         ]
       }
+    },
+    {
+      "id": "person-eric-davis",
+      "node_type": "person",
+      "label": "Eric Davis",
+      "summary": "Physicist with deep aerospace credentials (Aerospace Corporation, Earth Tech, NASA Lewis); claims direct personal knowledge of crash retrieval / non-human technology; has met ~5 people who worked on such programs.",
+      "tags": [
+        "scientist",
+        "witness",
+        "AATIP"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.006100+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "xnxasfyHtfo",
+          "timestamp_start": 527,
+          "quote": "Pentagon scientist; crash retrieval program confirmer"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Dr. Davis"
+        ],
+        "profession": "physicist",
+        "notability_tags": [
+          "scientist",
+          "witness",
+          "AATIP"
+        ]
+      }
+    },
+    {
+      "id": "document-weinstein-davis-dialogue",
+      "node_type": "document",
+      "label": "Weinstein-Davis Dialogue (2024)",
+      "summary": "Long-form Jesse Michels-mediated debate between Eric Weinstein (theoretical physicist) and Eric Davis (UFO-program insider) on the status and authenticity of crash retrieval programs.",
+      "tags": [
+        "transcript"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.006102+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "xnxasfyHtfo",
+          "timestamp_start": 527,
+          "timestamp_end": "Debate between Weinstein and Davis on crash retrievals"
+        }
+      ],
+      "type_specific": {
+        "document_type": "transcript"
+      }
+    },
+    {
+      "id": "claim-xnxasfyHtfo-davis-roswell-was-real",
+      "node_type": "claim",
+      "label": "Eric Davis on camera asserts: 'The alleged Roswell crash was real. There was a there, there. It real",
+      "summary": "Eric Davis on camera asserts: 'The alleged Roswell crash was real. There was a there, there. It really happened.'",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.027921+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "xnxasfyHtfo",
+          "timestamp_start": 531,
+          "quote": "The alleged Roswell crash was real. There was a there there really happened."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Eric Davis on camera asserts: 'The alleged Roswell crash was real. There was a there, there. It really happened.'",
+        "asserted_by_id": "person-eric-davis",
+        "source_video_id": "xnxasfyHtfo",
+        "timestamp_start_seconds": 531,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-eric-davis",
+          "incident-1947-roswell",
+          "concept-crash-retrieval"
+        ]
+      }
+    },
+    {
+      "id": "claim-xnxasfyHtfo-davis-five-program-personnel",
+      "node_type": "claim",
+      "label": "Davis states he has personally met approximately 5 people who worked on crash retrieval programs.",
+      "summary": "Davis states he has personally met approximately 5 people who worked on crash retrieval programs.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.027936+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "xnxasfyHtfo",
+          "timestamp_start": 543,
+          "quote": "How many of those crash retrieval program people have you met? I think it's five total."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Davis states he has personally met approximately 5 people who worked on crash retrieval programs.",
+        "asserted_by_id": "person-eric-davis",
+        "source_video_id": "xnxasfyHtfo",
+        "timestamp_start_seconds": 543,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-eric-davis",
+          "concept-crash-retrieval"
+        ]
+      }
+    },
+    {
+      "id": "claim-xnxasfyHtfo-weinstein-no-physics-in-retrieval",
+      "node_type": "claim",
+      "label": "Weinstein challenges Davis: 'There's no physics in it. They're just — it defies the laws of physics.",
+      "summary": "Weinstein challenges Davis: 'There's no physics in it. They're just — it defies the laws of physics. We haven't made progress. We have no physicists. How are they doing on this project decades in?'",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.027947+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "xnxasfyHtfo",
+          "timestamp_start": 551,
+          "quote": "There's no physics in it. It defies the laws of physics. We haven't made progress. We have no physicists. How are they doing on this project decades in?"
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Weinstein challenges Davis: 'There's no physics in it. They're just — it defies the laws of physics. We haven't made progress. We have no physicists. How are they doing on this project decades in?'",
+        "asserted_by_id": "person-eric-weinstein",
+        "source_video_id": "xnxasfyHtfo",
+        "timestamp_start_seconds": 551,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-eric-weinstein",
+          "person-eric-davis",
+          "concept-crash-retrieval"
+        ]
+      }
+    },
+    {
+      "id": "claim-xnxasfyHtfo-weinstein-not-manhattan-project",
+      "node_type": "claim",
+      "label": "Weinstein rejects the Manhattan-Project framing of US reverse-engineering programs: 'This thing is n",
+      "summary": "Weinstein rejects the Manhattan-Project framing of US reverse-engineering programs: 'This thing is not a Manhattan Project.'",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.027957+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "xnxasfyHtfo",
+          "timestamp_start": 555,
+          "quote": "This thing is not a Manhattan project. And you know what the Manhattan project was?"
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Weinstein rejects the Manhattan-Project framing of US reverse-engineering programs: 'This thing is not a Manhattan Project.'",
+        "asserted_by_id": "person-eric-weinstein",
+        "source_video_id": "xnxasfyHtfo",
+        "timestamp_start_seconds": 555,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-eric-weinstein",
+          "program-manhattan-project",
+          "concept-reverse-engineering"
+        ]
+      }
+    },
+    {
+      "id": "claim-xnxasfyHtfo-davis-wormhole-traversable",
+      "node_type": "claim",
+      "label": "Eric Davis claims his research shows one should be able to create a traversable wormhole on demand, ",
+      "summary": "Eric Davis claims his research shows one should be able to create a traversable wormhole on demand, enabling transit to Alpha Centauri.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.027979+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "xnxasfyHtfo",
+          "timestamp_start": 523,
+          "quote": "You're going to create a wormhole on demand. You should be able to. That's what my research showed."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Eric Davis claims his research shows one should be able to create a traversable wormhole on demand, enabling transit to Alpha Centauri.",
+        "asserted_by_id": "person-eric-davis",
+        "source_video_id": "xnxasfyHtfo",
+        "timestamp_start_seconds": 523,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-eric-davis",
+          "concept-alcubierre-drive"
+        ]
+      }
+    },
+    {
+      "id": "claim-xnxasfyHtfo-weinstein-not-tweaking-gr",
+      "node_type": "claim",
+      "label": "Weinstein criticizes physicists for not 'tweaking GR' — insisting current proposals are 'boring as s",
+      "summary": "Weinstein criticizes physicists for not 'tweaking GR' — insisting current proposals are 'boring as sin' and the field has stagnated.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.027990+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "xnxasfyHtfo",
+          "timestamp_start": 557,
+          "quote": "Not one of these proposals excites me. They're boring as sin. I don't like GR. Why are you not tweaking it?"
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Weinstein criticizes physicists for not 'tweaking GR' — insisting current proposals are 'boring as sin' and the field has stagnated.",
+        "asserted_by_id": "person-eric-weinstein",
+        "source_video_id": "xnxasfyHtfo",
+        "timestamp_start_seconds": 557,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-eric-weinstein"
+        ]
+      }
     }
   ],
   "edges": [
@@ -2732,8 +2996,294 @@
           "timestamp_start": 0
         }
       ]
+    },
+    {
+      "id": "edge-person-eric-davis-ASSERTED-claim-xnxasfyHtfo-davis-roswell-was-real",
+      "from_node_id": "person-eric-davis",
+      "to_node_id": "claim-xnxasfyHtfo-davis-roswell-was-real",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "xnxasfyHtfo",
+          "timestamp_start": 531,
+          "quote": "Eric Davis on camera asserts: 'The alleged Roswell crash was real. There was a there, there. It really happened.'"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-xnxasfyHtfo-REFERENCES-claim-xnxasfyHtfo-davis-roswell-was-real",
+      "from_node_id": "video-xnxasfyHtfo",
+      "to_node_id": "claim-xnxasfyHtfo-davis-roswell-was-real",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "xnxasfyHtfo",
+          "timestamp_start": 531
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-xnxasfyHtfo-davis-roswell-was-real-REFERENCES-incident-1947-roswell",
+      "from_node_id": "claim-xnxasfyHtfo-davis-roswell-was-real",
+      "to_node_id": "incident-1947-roswell",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "xnxasfyHtfo",
+          "timestamp_start": 531
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-xnxasfyHtfo-davis-roswell-was-real-REFERENCES-concept-crash-retrieval",
+      "from_node_id": "claim-xnxasfyHtfo-davis-roswell-was-real",
+      "to_node_id": "concept-crash-retrieval",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "xnxasfyHtfo",
+          "timestamp_start": 531
+        }
+      ]
+    },
+    {
+      "id": "edge-person-eric-davis-ASSERTED-claim-xnxasfyHtfo-davis-five-program-personnel",
+      "from_node_id": "person-eric-davis",
+      "to_node_id": "claim-xnxasfyHtfo-davis-five-program-personnel",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "xnxasfyHtfo",
+          "timestamp_start": 543,
+          "quote": "Davis states he has personally met approximately 5 people who worked on crash retrieval programs."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-xnxasfyHtfo-REFERENCES-claim-xnxasfyHtfo-davis-five-program-personnel",
+      "from_node_id": "video-xnxasfyHtfo",
+      "to_node_id": "claim-xnxasfyHtfo-davis-five-program-personnel",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "xnxasfyHtfo",
+          "timestamp_start": 543
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-xnxasfyHtfo-davis-five-program-personnel-REFERENCES-concept-crash-retrieval",
+      "from_node_id": "claim-xnxasfyHtfo-davis-five-program-personnel",
+      "to_node_id": "concept-crash-retrieval",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "xnxasfyHtfo",
+          "timestamp_start": 543
+        }
+      ]
+    },
+    {
+      "id": "edge-person-eric-weinstein-ASSERTED-claim-xnxasfyHtfo-weinstein-no-physics-in-retrieval",
+      "from_node_id": "person-eric-weinstein",
+      "to_node_id": "claim-xnxasfyHtfo-weinstein-no-physics-in-retrieval",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "xnxasfyHtfo",
+          "timestamp_start": 551,
+          "quote": "Weinstein challenges Davis: 'There's no physics in it. They're just — it defies the laws of physics. We haven't made progress. We have no physicists. How are they doing on this project decades in?'"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-xnxasfyHtfo-REFERENCES-claim-xnxasfyHtfo-weinstein-no-physics-in-retrieval",
+      "from_node_id": "video-xnxasfyHtfo",
+      "to_node_id": "claim-xnxasfyHtfo-weinstein-no-physics-in-retrieval",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "xnxasfyHtfo",
+          "timestamp_start": 551
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-xnxasfyHtfo-weinstein-no-physics-in-retrieval-REFERENCES-person-eric-davis",
+      "from_node_id": "claim-xnxasfyHtfo-weinstein-no-physics-in-retrieval",
+      "to_node_id": "person-eric-davis",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "xnxasfyHtfo",
+          "timestamp_start": 551
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-xnxasfyHtfo-weinstein-no-physics-in-retrieval-REFERENCES-concept-crash-retrieval",
+      "from_node_id": "claim-xnxasfyHtfo-weinstein-no-physics-in-retrieval",
+      "to_node_id": "concept-crash-retrieval",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "xnxasfyHtfo",
+          "timestamp_start": 551
+        }
+      ]
+    },
+    {
+      "id": "edge-person-eric-weinstein-ASSERTED-claim-xnxasfyHtfo-weinstein-not-manhattan-project",
+      "from_node_id": "person-eric-weinstein",
+      "to_node_id": "claim-xnxasfyHtfo-weinstein-not-manhattan-project",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "xnxasfyHtfo",
+          "timestamp_start": 555,
+          "quote": "Weinstein rejects the Manhattan-Project framing of US reverse-engineering programs: 'This thing is not a Manhattan Project.'"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-xnxasfyHtfo-REFERENCES-claim-xnxasfyHtfo-weinstein-not-manhattan-project",
+      "from_node_id": "video-xnxasfyHtfo",
+      "to_node_id": "claim-xnxasfyHtfo-weinstein-not-manhattan-project",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "xnxasfyHtfo",
+          "timestamp_start": 555
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-xnxasfyHtfo-weinstein-not-manhattan-project-REFERENCES-program-manhattan-project",
+      "from_node_id": "claim-xnxasfyHtfo-weinstein-not-manhattan-project",
+      "to_node_id": "program-manhattan-project",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "xnxasfyHtfo",
+          "timestamp_start": 555
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-xnxasfyHtfo-weinstein-not-manhattan-project-REFERENCES-concept-reverse-engineering",
+      "from_node_id": "claim-xnxasfyHtfo-weinstein-not-manhattan-project",
+      "to_node_id": "concept-reverse-engineering",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "xnxasfyHtfo",
+          "timestamp_start": 555
+        }
+      ]
+    },
+    {
+      "id": "edge-person-eric-davis-ASSERTED-claim-xnxasfyHtfo-davis-wormhole-traversable",
+      "from_node_id": "person-eric-davis",
+      "to_node_id": "claim-xnxasfyHtfo-davis-wormhole-traversable",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "xnxasfyHtfo",
+          "timestamp_start": 523,
+          "quote": "Eric Davis claims his research shows one should be able to create a traversable wormhole on demand, enabling transit to Alpha Centauri."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-xnxasfyHtfo-REFERENCES-claim-xnxasfyHtfo-davis-wormhole-traversable",
+      "from_node_id": "video-xnxasfyHtfo",
+      "to_node_id": "claim-xnxasfyHtfo-davis-wormhole-traversable",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "xnxasfyHtfo",
+          "timestamp_start": 523
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-xnxasfyHtfo-davis-wormhole-traversable-REFERENCES-concept-alcubierre-drive",
+      "from_node_id": "claim-xnxasfyHtfo-davis-wormhole-traversable",
+      "to_node_id": "concept-alcubierre-drive",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "xnxasfyHtfo",
+          "timestamp_start": 523
+        }
+      ]
+    },
+    {
+      "id": "edge-person-eric-weinstein-ASSERTED-claim-xnxasfyHtfo-weinstein-not-tweaking-gr",
+      "from_node_id": "person-eric-weinstein",
+      "to_node_id": "claim-xnxasfyHtfo-weinstein-not-tweaking-gr",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "xnxasfyHtfo",
+          "timestamp_start": 557,
+          "quote": "Weinstein criticizes physicists for not 'tweaking GR' — insisting current proposals are 'boring as sin' and the field has stagnated."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-xnxasfyHtfo-REFERENCES-claim-xnxasfyHtfo-weinstein-not-tweaking-gr",
+      "from_node_id": "video-xnxasfyHtfo",
+      "to_node_id": "claim-xnxasfyHtfo-weinstein-not-tweaking-gr",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "xnxasfyHtfo",
+          "timestamp_start": 557
+        }
+      ]
     }
   ],
-  "extracted_at": "2026-04-17T11:04:26.796492+00:00",
+  "extracted_at": "2026-04-17T12:49:16.027997+00:00",
   "extractor_version": "v1-inline-claude"
 }

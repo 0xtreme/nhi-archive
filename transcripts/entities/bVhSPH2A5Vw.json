@@ -1995,6 +1995,298 @@
           "video-bVhSPH2A5Vw"
         ]
       }
+    },
+    {
+      "id": "program-robertson-panel-1953",
+      "node_type": "program",
+      "label": "Robertson Panel (1953)",
+      "summary": "January 1953 CIA-convened scientific committee headed by H.P. Robertson arising from a December 1952 recommendation to the Intelligence Advisory Committee. Officially adopted the policy of ridicule toward UFO research — a highly effective stigma campaign that lasted decades.",
+      "tags": [
+        "program"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.368519+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bVhSPH2A5Vw",
+          "timestamp_start": 103,
+          "timestamp_end": "CIA-led scientific panel that adopted official policy of UFO ridicule"
+        }
+      ],
+      "type_specific": {
+        "acronym": "Robertson Panel"
+      }
+    },
+    {
+      "id": "person-ted-peters-theologian",
+      "node_type": "person",
+      "label": "Ted Peters",
+      "summary": "Theologian at Berkeley University's Graduate Theological Union; interviewed in Fox's 'UFOs: 50 Years of Denial' for his thesis that UFO phenomena does not conflict with Christian theology — 'room for all God's creation.'",
+      "tags": [
+        "theologian",
+        "academic"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.368521+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bVhSPH2A5Vw",
+          "timestamp_start": 77,
+          "quote": "Berkeley theologian who integrates UFOs with Christian theology"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Peters"
+        ],
+        "profession": "theologian",
+        "notability_tags": [
+          "theologian",
+          "academic"
+        ]
+      }
+    },
+    {
+      "id": "document-fox-50-years-of-denial",
+      "node_type": "document",
+      "label": "UFOs: 50 Years of Denial",
+      "summary": "James Fox's first UFO documentary.",
+      "tags": [
+        "broadcast"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.368524+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bVhSPH2A5Vw",
+          "timestamp_start": 61,
+          "timestamp_end": "Fox's first UFO documentary"
+        }
+      ],
+      "type_specific": {
+        "document_type": "broadcast",
+        "author": "James Fox"
+      }
+    },
+    {
+      "id": "document-fox-out-of-the-blue",
+      "node_type": "document",
+      "label": "Out of the Blue",
+      "summary": "James Fox's second UFO documentary (with director's cut reworked over 2.5 years).",
+      "tags": [
+        "broadcast"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.368526+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bVhSPH2A5Vw",
+          "timestamp_start": 61,
+          "timestamp_end": "Fox's second UFO documentary with director's cut"
+        }
+      ],
+      "type_specific": {
+        "document_type": "broadcast",
+        "author": "James Fox"
+      }
+    },
+    {
+      "id": "document-fox-i-know-what-i-saw",
+      "node_type": "document",
+      "label": "I Know What I Saw",
+      "summary": "James Fox's UFO documentary featuring military witnesses from Disclosure Project.",
+      "tags": [
+        "broadcast"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.368528+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bVhSPH2A5Vw",
+          "timestamp_start": 61,
+          "timestamp_end": "Fox's UFO documentary featuring Disclosure Project witnesses"
+        }
+      ],
+      "type_specific": {
+        "document_type": "broadcast",
+        "author": "James Fox"
+      }
+    },
+    {
+      "id": "document-fox-the-program",
+      "node_type": "document",
+      "label": "The Program (upcoming)",
+      "summary": "James Fox's upcoming documentary that features Hal Puthoff; screened with Puthoff attending.",
+      "tags": [
+        "broadcast"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.368530+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bVhSPH2A5Vw",
+          "timestamp_start": 63,
+          "timestamp_end": "Fox's upcoming documentary featuring Hal Puthoff"
+        }
+      ],
+      "type_specific": {
+        "document_type": "broadcast",
+        "author": "James Fox"
+      }
+    },
+    {
+      "id": "claim-bVhSPH2A5Vw-robertson-panel-ridicule-policy",
+      "node_type": "claim",
+      "label": "The 1953 CIA-led Robertson Panel adopted an explicit policy of public ridicule toward UFO research —",
+      "summary": "The 1953 CIA-led Robertson Panel adopted an explicit policy of public ridicule toward UFO research — a campaign Fox credits as highly effective and culturally-ingrained for decades.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.373099+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bVhSPH2A5Vw",
+          "timestamp_start": 103,
+          "quote": "The Robertson panel in 1953 absolutely adopted this policy of ridicule and it was very effective campaign and it stuck."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "The 1953 CIA-led Robertson Panel adopted an explicit policy of public ridicule toward UFO research — a campaign Fox credits as highly effective and culturally-ingrained for decades.",
+        "asserted_by_id": "person-james-fox",
+        "source_video_id": "bVhSPH2A5Vw",
+        "timestamp_start_seconds": 103,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-james-fox",
+          "program-robertson-panel-1953"
+        ]
+      }
+    },
+    {
+      "id": "claim-bVhSPH2A5Vw-fox-seven-documentaries",
+      "node_type": "claim",
+      "label": "Fox has produced approximately 6-7 feature documentaries on UFOs, from 50 Years of Denial through Th",
+      "summary": "Fox has produced approximately 6-7 feature documentaries on UFOs, from 50 Years of Denial through The Phenomenon and Moment of Contact, with The Program forthcoming.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.373114+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bVhSPH2A5Vw",
+          "timestamp_start": 61,
+          "quote": "I did 50 years of denial, then Out of the Blue, director's cut, I Know What I Saw, The Phenomenon, Moment of Contact, and The Program which is coming out."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Fox has produced approximately 6-7 feature documentaries on UFOs, from 50 Years of Denial through The Phenomenon and Moment of Contact, with The Program forthcoming.",
+        "asserted_by_id": "person-james-fox",
+        "source_video_id": "bVhSPH2A5Vw",
+        "timestamp_start_seconds": 61,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-james-fox",
+          "document-fox-50-years-of-denial",
+          "document-moment-of-contact"
+        ]
+      }
+    },
+    {
+      "id": "claim-bVhSPH2A5Vw-fox-ted-peters-theology-compatible",
+      "node_type": "claim",
+      "label": "Berkeley theologian Ted Peters, interviewed by Fox, argues UFO phenomena does not conflict with Chri",
+      "summary": "Berkeley theologian Ted Peters, interviewed by Fox, argues UFO phenomena does not conflict with Christian theology — 'there's room for both and room for all God's creation.'",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.373125+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bVhSPH2A5Vw",
+          "timestamp_start": 77,
+          "quote": "I interviewed a theologian at Berkeley named Ted Peters way back from my first film. He's like no, there's room for both and there's room for all God's creation."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Berkeley theologian Ted Peters, interviewed by Fox, argues UFO phenomena does not conflict with Christian theology — 'there's room for both and room for all God's creation.'",
+        "asserted_by_id": "person-james-fox",
+        "source_video_id": "bVhSPH2A5Vw",
+        "timestamp_start_seconds": 77,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-james-fox",
+          "person-ted-peters-theologian"
+        ]
+      }
+    },
+    {
+      "id": "claim-bVhSPH2A5Vw-fox-biggest-story-in-history",
+      "node_type": "claim",
+      "label": "Fox's framing: 'If UFOs are real, how significant would that story be? Everybody says it'd be the bi",
+      "summary": "Fox's framing: 'If UFOs are real, how significant would that story be? Everybody says it'd be the biggest story in history — and I'm convinced it's happening, so it's not a story that's easily dropped.'",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.373134+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bVhSPH2A5Vw",
+          "timestamp_start": 67,
+          "quote": "If it were true, how significant of a story would you give it? Everybody says: 'It'd be the biggest story in history.' I'm convinced it's happening, so it's not a story that's easily just dropped."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Fox's framing: 'If UFOs are real, how significant would that story be? Everybody says it'd be the biggest story in history — and I'm convinced it's happening, so it's not a story that's easily dropped.'",
+        "asserted_by_id": "person-james-fox",
+        "source_video_id": "bVhSPH2A5Vw",
+        "timestamp_start_seconds": 67,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-james-fox"
+        ]
+      }
     }
   ],
   "edges": [
@@ -3109,8 +3401,180 @@
           "timestamp_start": 0
         }
       ]
+    },
+    {
+      "id": "edge-person-james-fox-ASSERTED-claim-bVhSPH2A5Vw-robertson-panel-ridicule-policy",
+      "from_node_id": "person-james-fox",
+      "to_node_id": "claim-bVhSPH2A5Vw-robertson-panel-ridicule-policy",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bVhSPH2A5Vw",
+          "timestamp_start": 103,
+          "quote": "The 1953 CIA-led Robertson Panel adopted an explicit policy of public ridicule toward UFO research — a campaign Fox credits as highly effective and culturally-ingrained for decades."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-bVhSPH2A5Vw-REFERENCES-claim-bVhSPH2A5Vw-robertson-panel-ridicule-policy",
+      "from_node_id": "video-bVhSPH2A5Vw",
+      "to_node_id": "claim-bVhSPH2A5Vw-robertson-panel-ridicule-policy",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bVhSPH2A5Vw",
+          "timestamp_start": 103
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-bVhSPH2A5Vw-robertson-panel-ridicule-policy-REFERENCES-program-robertson-panel-1953",
+      "from_node_id": "claim-bVhSPH2A5Vw-robertson-panel-ridicule-policy",
+      "to_node_id": "program-robertson-panel-1953",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bVhSPH2A5Vw",
+          "timestamp_start": 103
+        }
+      ]
+    },
+    {
+      "id": "edge-person-james-fox-ASSERTED-claim-bVhSPH2A5Vw-fox-seven-documentaries",
+      "from_node_id": "person-james-fox",
+      "to_node_id": "claim-bVhSPH2A5Vw-fox-seven-documentaries",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bVhSPH2A5Vw",
+          "timestamp_start": 61,
+          "quote": "Fox has produced approximately 6-7 feature documentaries on UFOs, from 50 Years of Denial through The Phenomenon and Moment of Contact, with The Program forthcoming."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-bVhSPH2A5Vw-REFERENCES-claim-bVhSPH2A5Vw-fox-seven-documentaries",
+      "from_node_id": "video-bVhSPH2A5Vw",
+      "to_node_id": "claim-bVhSPH2A5Vw-fox-seven-documentaries",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bVhSPH2A5Vw",
+          "timestamp_start": 61
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-bVhSPH2A5Vw-fox-seven-documentaries-REFERENCES-document-fox-50-years-of-denial",
+      "from_node_id": "claim-bVhSPH2A5Vw-fox-seven-documentaries",
+      "to_node_id": "document-fox-50-years-of-denial",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bVhSPH2A5Vw",
+          "timestamp_start": 61
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-bVhSPH2A5Vw-fox-seven-documentaries-REFERENCES-document-moment-of-contact",
+      "from_node_id": "claim-bVhSPH2A5Vw-fox-seven-documentaries",
+      "to_node_id": "document-moment-of-contact",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bVhSPH2A5Vw",
+          "timestamp_start": 61
+        }
+      ]
+    },
+    {
+      "id": "edge-person-james-fox-ASSERTED-claim-bVhSPH2A5Vw-fox-ted-peters-theology-compatible",
+      "from_node_id": "person-james-fox",
+      "to_node_id": "claim-bVhSPH2A5Vw-fox-ted-peters-theology-compatible",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bVhSPH2A5Vw",
+          "timestamp_start": 77,
+          "quote": "Berkeley theologian Ted Peters, interviewed by Fox, argues UFO phenomena does not conflict with Christian theology — 'there's room for both and room for all God's creation.'"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-bVhSPH2A5Vw-REFERENCES-claim-bVhSPH2A5Vw-fox-ted-peters-theology-compatible",
+      "from_node_id": "video-bVhSPH2A5Vw",
+      "to_node_id": "claim-bVhSPH2A5Vw-fox-ted-peters-theology-compatible",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bVhSPH2A5Vw",
+          "timestamp_start": 77
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-bVhSPH2A5Vw-fox-ted-peters-theology-compatible-REFERENCES-person-ted-peters-theologian",
+      "from_node_id": "claim-bVhSPH2A5Vw-fox-ted-peters-theology-compatible",
+      "to_node_id": "person-ted-peters-theologian",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bVhSPH2A5Vw",
+          "timestamp_start": 77
+        }
+      ]
+    },
+    {
+      "id": "edge-person-james-fox-ASSERTED-claim-bVhSPH2A5Vw-fox-biggest-story-in-history",
+      "from_node_id": "person-james-fox",
+      "to_node_id": "claim-bVhSPH2A5Vw-fox-biggest-story-in-history",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bVhSPH2A5Vw",
+          "timestamp_start": 67,
+          "quote": "Fox's framing: 'If UFOs are real, how significant would that story be? Everybody says it'd be the biggest story in history — and I'm convinced it's happening, so it's not a story that's easily dropped"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-bVhSPH2A5Vw-REFERENCES-claim-bVhSPH2A5Vw-fox-biggest-story-in-history",
+      "from_node_id": "video-bVhSPH2A5Vw",
+      "to_node_id": "claim-bVhSPH2A5Vw-fox-biggest-story-in-history",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bVhSPH2A5Vw",
+          "timestamp_start": 67
+        }
+      ]
     }
   ],
-  "extracted_at": "2026-04-17T11:04:28.624876+00:00",
+  "extracted_at": "2026-04-17T12:55:45.373143+00:00",
   "extractor_version": "v1-inline-claude"
 }

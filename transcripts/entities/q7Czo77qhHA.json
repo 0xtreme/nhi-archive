@@ -996,6 +996,350 @@
           "video-q7Czo77qhHA"
         ]
       }
+    },
+    {
+      "id": "person-brigham-buhler",
+      "node_type": "person",
+      "label": "Brigham Buhler",
+      "summary": "American healthcare entrepreneur; founder of Ways to Well; pharma-industry insider exposing big-pharma corporate-capture of American healthcare system.",
+      "tags": [
+        "entrepreneur",
+        "healthcare",
+        "whistleblower"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.111742+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "q7Czo77qhHA",
+          "timestamp_start": 143,
+          "quote": "Healthcare entrepreneur; founder Ways to Well"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Buhler",
+          "Bigham Buer"
+        ],
+        "profession": "entrepreneur",
+        "notability_tags": [
+          "entrepreneur",
+          "healthcare",
+          "whistleblower"
+        ]
+      }
+    },
+    {
+      "id": "person-john-d-rockefeller",
+      "node_type": "person",
+      "label": "John D. Rockefeller",
+      "summary": "Richest man on earth via Standard Oil (now Exxon Mobile). Per Buhler: used Flexner Report (1910) to monopolize American medicine — shutting down half of US medical schools and promoting petrochemical-derived synthetic pharma.",
+      "tags": [
+        "industrialist",
+        "historical"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.111744+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "q7Czo77qhHA",
+          "timestamp_start": 132,
+          "quote": "Standard Oil founder; architect of US pharmaceutical monopoly"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Rockefeller"
+        ],
+        "profession": "industrialist",
+        "notability_tags": [
+          "industrialist",
+          "historical"
+        ]
+      }
+    },
+    {
+      "id": "person-abraham-flexner",
+      "node_type": "person",
+      "label": "Abraham Flexner",
+      "summary": "American educator; author of 1910 Flexner Report that condemned most American medical schools (~50% shut down). Per Buhler: founded the AMA and FDA on behalf of the Rockefeller Foundation (1908).",
+      "tags": [
+        "historical",
+        "pharma"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.111750+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "q7Czo77qhHA",
+          "timestamp_start": 134,
+          "quote": "Author of the 1910 Flexner Report; set up AMA and FDA"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Flexner"
+        ],
+        "profession": "educator",
+        "notability_tags": [
+          "historical",
+          "pharma"
+        ]
+      }
+    },
+    {
+      "id": "document-flexner-report-1910",
+      "node_type": "document",
+      "label": "Flexner Report (1910)",
+      "summary": "Abraham Flexner's 1910 report condemning most American medical schools, especially those teaching anything other than drug-based symptom-focused treatment. Backed by Rockefeller and Carnegie. Over half of US medical schools shut down; AMA becomes enforcer. Birth of modern US pharmaceutical system.",
+      "tags": [
+        "report"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.111752+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "q7Czo77qhHA",
+          "timestamp_start": 134,
+          "timestamp_end": "1910 Carnegie/Rockefeller-backed report that shut down half of US medical schools"
+        }
+      ],
+      "type_specific": {
+        "document_type": "report",
+        "author": "Abraham Flexner",
+        "publication_year": 1910
+      }
+    },
+    {
+      "id": "concept-sick-care-vs-health-care",
+      "node_type": "concept",
+      "label": "Sick-Care System vs Healthcare",
+      "summary": "Buhler/Jesse framing: the modern US healthcare system is 'sick care' — turning illness into profit — engineered by Rockefeller-Flexner consolidation. Natural medicine and osteopath practices were 20-30% of doctors pre-1910; shut down because they couldn't scale patentable profits.",
+      "tags": [
+        "politics"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.111755+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "q7Czo77qhHA",
+          "timestamp_start": 143,
+          "timestamp_end": "System designed to turn illness into profit"
+        }
+      ],
+      "type_specific": {
+        "concept_domain": "politics"
+      }
+    },
+    {
+      "id": "concept-blanket-of-deception-health-ufo",
+      "node_type": "concept",
+      "label": "Blanket-of-Deception Parallel (Health / UFO)",
+      "summary": "Jesse's framing: the same suppression-blanket used by 'secret government programs in big business' to hide UFO truths has been used to disguise the truth about health — the 'classified breakthroughs in science and medicine' are adjacent to the classified UFO breakthroughs.",
+      "tags": [
+        "politics"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.111756+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "q7Czo77qhHA",
+          "timestamp_start": 127,
+          "timestamp_end": "Jesse's framing: same blanket hides UFO truth and health truth"
+        }
+      ],
+      "type_specific": {
+        "concept_domain": "politics"
+      }
+    },
+    {
+      "id": "claim-q7Czo77qhHA-flexner-report-1910-shutdown-schools",
+      "node_type": "claim",
+      "label": "1910 Flexner Report (Carnegie + Rockefeller funded, authored by Abraham Flexner) condemned most Amer",
+      "summary": "1910 Flexner Report (Carnegie + Rockefeller funded, authored by Abraham Flexner) condemned most American medical schools teaching non-pharma approaches — over HALF of US medical schools shut down. AMA became enforcer. Birth of modern pharma system.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.120014+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "q7Czo77qhHA",
+          "timestamp_start": 134,
+          "quote": "In 1910, with backing from Rockefeller and fellow titan Andrew Carnegie, the Flexner report was released. Written by Abraham Flexner, it condemned most of America's medical schools. Over half the medical schools in the United States shut down. The AMA became the enforcer."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "1910 Flexner Report (Carnegie + Rockefeller funded, authored by Abraham Flexner) condemned most American medical schools teaching non-pharma approaches — over HALF of US medical schools shut down. AMA became enforcer. Birth of modern pharma system.",
+        "asserted_by_id": "person-brigham-buhler",
+        "source_video_id": "q7Czo77qhHA",
+        "timestamp_start_seconds": 134,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-brigham-buhler",
+          "person-abraham-flexner",
+          "person-john-d-rockefeller",
+          "document-flexner-report-1910"
+        ]
+      }
+    },
+    {
+      "id": "claim-q7Czo77qhHA-buhler-brown-brothers-cap-table",
+      "node_type": "claim",
+      "label": "Buhler: the same investment firm that funded CIA formation — Brown Brothers Harriman — had the same ",
+      "summary": "Buhler: the same investment firm that funded CIA formation — Brown Brothers Harriman — had the same people on the cap table of the Federal Reserve in the 1913 Payne-Aldrich Act. Pharma, CIA, and Fed share founding capital.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.120027+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "q7Czo77qhHA",
+          "timestamp_start": 139,
+          "quote": "The investment firm that funded the CIA basically formed it — a lot of the personnel came out of it — was called the Brown Brothers Harriman. Same people are on the cap table of that. Same people were on the cap table of the Federal Reserve in the 1913 Payne Aldrich Act. It's the same people."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Buhler: the same investment firm that funded CIA formation — Brown Brothers Harriman — had the same people on the cap table of the Federal Reserve in the 1913 Payne-Aldrich Act. Pharma, CIA, and Fed share founding capital.",
+        "asserted_by_id": "person-brigham-buhler",
+        "source_video_id": "q7Czo77qhHA",
+        "timestamp_start_seconds": 139,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-brigham-buhler"
+        ]
+      }
+    },
+    {
+      "id": "claim-q7Czo77qhHA-buhler-20-30-percent-natural-medicine-pre-1910",
+      "node_type": "claim",
+      "label": "Before 1910 Flexner Report: 20-30% of US doctors were osteopaths, homeopaths, and natural-medicine p",
+      "summary": "Before 1910 Flexner Report: 20-30% of US doctors were osteopaths, homeopaths, and natural-medicine practitioners. Some were snake oil; others worked but couldn't scale as patentable profits. All shut out.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.120034+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "q7Czo77qhHA",
+          "timestamp_start": 141,
+          "quote": "Before this, 20 to 30% of doctors in the United States were osteopaths, homeopaths, people that worked with unconventional modalities. In certain cases these modalities were snake oil. But in others, they worked. They just couldn't scale."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Before 1910 Flexner Report: 20-30% of US doctors were osteopaths, homeopaths, and natural-medicine practitioners. Some were snake oil; others worked but couldn't scale as patentable profits. All shut out.",
+        "asserted_by_id": "person-brigham-buhler",
+        "source_video_id": "q7Czo77qhHA",
+        "timestamp_start_seconds": 141,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-brigham-buhler",
+          "concept-sick-care-vs-health-care"
+        ]
+      }
+    },
+    {
+      "id": "claim-q7Czo77qhHA-buhler-sick-care-turn-illness-to-profit",
+      "node_type": "claim",
+      "label": "Buhler characterization: 'It was never about health. It was about big business and it was about cont",
+      "summary": "Buhler characterization: 'It was never about health. It was about big business and it was about control. A system of sick care, not health care. A system designed to turn your illness into profit.'",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.120040+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "q7Czo77qhHA",
+          "timestamp_start": 143,
+          "quote": "It was never about health. It was about big business and it was about control. A system of sick care, not health care. A system designed to turn your illness into profit."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Buhler characterization: 'It was never about health. It was about big business and it was about control. A system of sick care, not health care. A system designed to turn your illness into profit.'",
+        "asserted_by_id": "person-brigham-buhler",
+        "source_video_id": "q7Czo77qhHA",
+        "timestamp_start_seconds": 143,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-brigham-buhler",
+          "concept-sick-care-vs-health-care"
+        ]
+      }
+    },
+    {
+      "id": "claim-q7Czo77qhHA-jesse-blanket-health-ufo-parallel",
+      "node_type": "claim",
+      "label": "Jesse's framework: 'The blanket similar to the one that has hidden truths about UFOs, non-human inte",
+      "summary": "Jesse's framework: 'The blanket similar to the one that has hidden truths about UFOs, non-human intelligences, and physics-redefining technologies has also been used to disguise the truth about health.'",
+      "tags": [
+        "speculation",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.120049+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "q7Czo77qhHA",
+          "timestamp_start": 127,
+          "quote": "It's not a wildly outlandish claim to suggest that a blanket similar to the one that has hidden truths about UFOs, non-human intelligences, and physics-redefining technologies has also been used to disguise the truth about health."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Jesse's framework: 'The blanket similar to the one that has hidden truths about UFOs, non-human intelligences, and physics-redefining technologies has also been used to disguise the truth about health.'",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "q7Czo77qhHA",
+        "timestamp_start_seconds": 127,
+        "assertability": "speculation",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "concept-blanket-of-deception-health-ufo",
+          "concept-disclosure"
+        ]
+      }
     }
   ],
   "edges": [
@@ -1540,8 +1884,251 @@
           "timestamp_start": 0
         }
       ]
+    },
+    {
+      "id": "edge-person-brigham-buhler-ASSERTED-claim-q7Czo77qhHA-flexner-report-1910-shutdown-schools",
+      "from_node_id": "person-brigham-buhler",
+      "to_node_id": "claim-q7Czo77qhHA-flexner-report-1910-shutdown-schools",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "q7Czo77qhHA",
+          "timestamp_start": 134,
+          "quote": "1910 Flexner Report (Carnegie + Rockefeller funded, authored by Abraham Flexner) condemned most American medical schools teaching non-pharma approaches — over HALF of US medical schools shut down. AMA"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-q7Czo77qhHA-REFERENCES-claim-q7Czo77qhHA-flexner-report-1910-shutdown-schools",
+      "from_node_id": "video-q7Czo77qhHA",
+      "to_node_id": "claim-q7Czo77qhHA-flexner-report-1910-shutdown-schools",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "q7Czo77qhHA",
+          "timestamp_start": 134
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-q7Czo77qhHA-flexner-report-1910-shutdown-schools-REFERENCES-person-abraham-flexner",
+      "from_node_id": "claim-q7Czo77qhHA-flexner-report-1910-shutdown-schools",
+      "to_node_id": "person-abraham-flexner",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "q7Czo77qhHA",
+          "timestamp_start": 134
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-q7Czo77qhHA-flexner-report-1910-shutdown-schools-REFERENCES-person-john-d-rockefeller",
+      "from_node_id": "claim-q7Czo77qhHA-flexner-report-1910-shutdown-schools",
+      "to_node_id": "person-john-d-rockefeller",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "q7Czo77qhHA",
+          "timestamp_start": 134
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-q7Czo77qhHA-flexner-report-1910-shutdown-schools-REFERENCES-document-flexner-report-1910",
+      "from_node_id": "claim-q7Czo77qhHA-flexner-report-1910-shutdown-schools",
+      "to_node_id": "document-flexner-report-1910",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "q7Czo77qhHA",
+          "timestamp_start": 134
+        }
+      ]
+    },
+    {
+      "id": "edge-person-brigham-buhler-ASSERTED-claim-q7Czo77qhHA-buhler-brown-brothers-cap-table",
+      "from_node_id": "person-brigham-buhler",
+      "to_node_id": "claim-q7Czo77qhHA-buhler-brown-brothers-cap-table",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "q7Czo77qhHA",
+          "timestamp_start": 139,
+          "quote": "Buhler: the same investment firm that funded CIA formation — Brown Brothers Harriman — had the same people on the cap table of the Federal Reserve in the 1913 Payne-Aldrich Act. Pharma, CIA, and Fed s"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-q7Czo77qhHA-REFERENCES-claim-q7Czo77qhHA-buhler-brown-brothers-cap-table",
+      "from_node_id": "video-q7Czo77qhHA",
+      "to_node_id": "claim-q7Czo77qhHA-buhler-brown-brothers-cap-table",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "q7Czo77qhHA",
+          "timestamp_start": 139
+        }
+      ]
+    },
+    {
+      "id": "edge-person-brigham-buhler-ASSERTED-claim-q7Czo77qhHA-buhler-20-30-percent-natural-medicine-pre-1910",
+      "from_node_id": "person-brigham-buhler",
+      "to_node_id": "claim-q7Czo77qhHA-buhler-20-30-percent-natural-medicine-pre-1910",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "q7Czo77qhHA",
+          "timestamp_start": 141,
+          "quote": "Before 1910 Flexner Report: 20-30% of US doctors were osteopaths, homeopaths, and natural-medicine practitioners. Some were snake oil; others worked but couldn't scale as patentable profits. All shut "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-q7Czo77qhHA-REFERENCES-claim-q7Czo77qhHA-buhler-20-30-percent-natural-medicine-pre-1910",
+      "from_node_id": "video-q7Czo77qhHA",
+      "to_node_id": "claim-q7Czo77qhHA-buhler-20-30-percent-natural-medicine-pre-1910",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "q7Czo77qhHA",
+          "timestamp_start": 141
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-q7Czo77qhHA-buhler-20-30-percent-natural-medicine-pre-1910-REFERENCES-concept-sick-care-vs-health-care",
+      "from_node_id": "claim-q7Czo77qhHA-buhler-20-30-percent-natural-medicine-pre-1910",
+      "to_node_id": "concept-sick-care-vs-health-care",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "q7Czo77qhHA",
+          "timestamp_start": 141
+        }
+      ]
+    },
+    {
+      "id": "edge-person-brigham-buhler-ASSERTED-claim-q7Czo77qhHA-buhler-sick-care-turn-illness-to-profit",
+      "from_node_id": "person-brigham-buhler",
+      "to_node_id": "claim-q7Czo77qhHA-buhler-sick-care-turn-illness-to-profit",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "q7Czo77qhHA",
+          "timestamp_start": 143,
+          "quote": "Buhler characterization: 'It was never about health. It was about big business and it was about control. A system of sick care, not health care. A system designed to turn your illness into profit.'"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-q7Czo77qhHA-REFERENCES-claim-q7Czo77qhHA-buhler-sick-care-turn-illness-to-profit",
+      "from_node_id": "video-q7Czo77qhHA",
+      "to_node_id": "claim-q7Czo77qhHA-buhler-sick-care-turn-illness-to-profit",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "q7Czo77qhHA",
+          "timestamp_start": 143
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-q7Czo77qhHA-buhler-sick-care-turn-illness-to-profit-REFERENCES-concept-sick-care-vs-health-care",
+      "from_node_id": "claim-q7Czo77qhHA-buhler-sick-care-turn-illness-to-profit",
+      "to_node_id": "concept-sick-care-vs-health-care",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "q7Czo77qhHA",
+          "timestamp_start": 143
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-q7Czo77qhHA-jesse-blanket-health-ufo-parallel",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-q7Czo77qhHA-jesse-blanket-health-ufo-parallel",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "q7Czo77qhHA",
+          "timestamp_start": 127,
+          "quote": "Jesse's framework: 'The blanket similar to the one that has hidden truths about UFOs, non-human intelligences, and physics-redefining technologies has also been used to disguise the truth about health"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-q7Czo77qhHA-REFERENCES-claim-q7Czo77qhHA-jesse-blanket-health-ufo-parallel",
+      "from_node_id": "video-q7Czo77qhHA",
+      "to_node_id": "claim-q7Czo77qhHA-jesse-blanket-health-ufo-parallel",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "q7Czo77qhHA",
+          "timestamp_start": 127
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-q7Czo77qhHA-jesse-blanket-health-ufo-parallel-REFERENCES-concept-blanket-of-deception-health-ufo",
+      "from_node_id": "claim-q7Czo77qhHA-jesse-blanket-health-ufo-parallel",
+      "to_node_id": "concept-blanket-of-deception-health-ufo",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "q7Czo77qhHA",
+          "timestamp_start": 127
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-q7Czo77qhHA-jesse-blanket-health-ufo-parallel-REFERENCES-concept-disclosure",
+      "from_node_id": "claim-q7Czo77qhHA-jesse-blanket-health-ufo-parallel",
+      "to_node_id": "concept-disclosure",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "q7Czo77qhHA",
+          "timestamp_start": 127
+        }
+      ]
     }
   ],
-  "extracted_at": "2026-04-17T11:05:04.476445+00:00",
+  "extracted_at": "2026-04-17T23:20:40.120056+00:00",
   "extractor_version": "v1-inline-claude"
 }

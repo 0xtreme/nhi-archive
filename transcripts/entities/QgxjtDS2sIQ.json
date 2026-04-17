@@ -1319,6 +1319,518 @@
           "video-QgxjtDS2sIQ"
         ]
       }
+    },
+    {
+      "id": "person-charles-hall",
+      "node_type": "person",
+      "label": "Charles Hall",
+      "summary": "USAF weather observer at Nellis AFB Indian Springs Gunnery Range 1965-1967. Claims 2+ years of direct interactions with extraterrestrial 'Tall Whites'. Authored the 'Millennial Hospitality' series and 'whole photon theory'.",
+      "tags": [
+        "witness",
+        "USAF",
+        "experiencer",
+        "author"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:05:09.445290+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "QgxjtDS2sIQ",
+          "timestamp_start": 10,
+          "quote": "USAF Air Force weather observer stationed at Nellis AFB"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Hall"
+        ],
+        "profession": "military veteran / author",
+        "notability_tags": [
+          "witness",
+          "USAF",
+          "experiencer",
+          "author"
+        ]
+      }
+    },
+    {
+      "id": "person-timothy-taylor-nasa",
+      "node_type": "person",
+      "label": "Timothy Taylor",
+      "summary": "NASA scientist with research interest in experiencer phenomena; friend of Charles Hall.",
+      "tags": [
+        "NASA",
+        "researcher"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:05:09.445484+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "QgxjtDS2sIQ",
+          "timestamp_start": 13,
+          "quote": "NASA researcher with interest in experiencers"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Taylor"
+        ],
+        "profession": "scientist",
+        "notability_tags": [
+          "NASA",
+          "researcher"
+        ]
+      }
+    },
+    {
+      "id": "concept-whole-photon-theory",
+      "node_type": "concept",
+      "label": "Whole Photon Theory",
+      "summary": "Charles Hall's subatomic-particle theory proposing many more particles and force fields exist than relativity accounts for; reportedly developed after observing Tall White craft exceeding speed of light.",
+      "tags": [
+        "physics"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:05:09.445488+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "QgxjtDS2sIQ",
+          "timestamp_start": 37,
+          "quote": "First copyrighted whole photon theory in 1997"
+        }
+      ],
+      "type_specific": {
+        "concept_domain": "physics"
+      }
+    },
+    {
+      "id": "technology-tall-white-craft",
+      "node_type": "technology",
+      "label": "Tall White Craft",
+      "summary": "Smooth, rounded, ellipsoidal egg-shaped craft per Hall; resembling Tic Tac / Nimitz morphology; faster-than-light capability.",
+      "tags": [
+        "craft"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:05:09.445491+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "QgxjtDS2sIQ",
+          "timestamp_start": 66,
+          "quote": "Egg-shaped craft used by the Tall Whites"
+        }
+      ],
+      "type_specific": {
+        "technology_type": "craft"
+      }
+    },
+    {
+      "id": "technology-gray-craft",
+      "node_type": "technology",
+      "label": "Gray Craft",
+      "summary": "Per Hall, 90% of extraterrestrial craft sightings are Gray technology; origin claimed to be a star closer than the Tall Whites' system.",
+      "tags": [
+        "craft"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:05:09.445494+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "QgxjtDS2sIQ",
+          "timestamp_start": 52,
+          "quote": "Craft used by Grays, lesser technology but more numerous"
+        }
+      ],
+      "type_specific": {
+        "technology_type": "craft"
+      }
+    },
+    {
+      "id": "person-amal-marzac",
+      "node_type": "person",
+      "label": "Amal Marzac",
+      "summary": "Documentary filmmaker; collaborated with Charles Hall on 'Walking with the Tall Whites Aftermath'.",
+      "tags": [
+        "filmmaker"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:05:09.445497+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "QgxjtDS2sIQ",
+          "timestamp_start": 36,
+          "quote": "Filmmaker who made Walking With The Tall Whites Aftermath with Hall"
+        }
+      ],
+      "type_specific": {
+        "aliases": [],
+        "profession": "filmmaker",
+        "notability_tags": [
+          "filmmaker"
+        ]
+      }
+    },
+    {
+      "id": "claim-QgxjtDS2sIQ-hall-nellis-1965-1967",
+      "node_type": "claim",
+      "label": "Charles Hall served as a USAF weather observer at Nellis AFB's Indian Springs Gunnery Range from Mar",
+      "summary": "Charles Hall served as a USAF weather observer at Nellis AFB's Indian Springs Gunnery Range from March 1965 to May 1967.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:05:09.446337+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "QgxjtDS2sIQ",
+          "timestamp_start": 22,
+          "quote": "I was a weather observer in the US Air Force and I was stationed at Nellis Air Force Base from March of 1965 until May of 1967."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Charles Hall served as a USAF weather observer at Nellis AFB's Indian Springs Gunnery Range from March 1965 to May 1967.",
+        "asserted_by_id": "person-charles-hall",
+        "source_video_id": "QgxjtDS2sIQ",
+        "timestamp_start_seconds": 22,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-charles-hall",
+          "organization-us-air-force",
+          "location-nellis-air-force-base"
+        ]
+      }
+    },
+    {
+      "id": "claim-QgxjtDS2sIQ-hall-tall-whites-interactions",
+      "node_type": "claim",
+      "label": "Hall claims years of direct interactions with extraterrestrial 'Tall Whites' at Indian Springs, deve",
+      "summary": "Hall claims years of direct interactions with extraterrestrial 'Tall Whites' at Indian Springs, developing trust and recognizing family groups (parents, children, elders).",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:05:09.446349+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "QgxjtDS2sIQ",
+          "timestamp_start": 28,
+          "quote": "He saw family groups, parents, children, elders. He would even end up referring to one of them as something like a brother."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Hall claims years of direct interactions with extraterrestrial 'Tall Whites' at Indian Springs, developing trust and recognizing family groups (parents, children, elders).",
+        "asserted_by_id": "person-charles-hall",
+        "source_video_id": "QgxjtDS2sIQ",
+        "timestamp_start_seconds": 28,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-charles-hall",
+          "concept-nhi"
+        ]
+      }
+    },
+    {
+      "id": "claim-QgxjtDS2sIQ-hall-three-species",
+      "node_type": "claim",
+      "label": "Hall describes encountering three distinct extraterrestrial species: Tall Whites, Grays (more numero",
+      "summary": "Hall describes encountering three distinct extraterrestrial species: Tall Whites, Grays (more numerous, closer origin), and Nordics (most diplomatic).",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:05:09.446357+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "QgxjtDS2sIQ",
+          "timestamp_start": 30,
+          "quote": "The tall white technology was better than the technology of the grays. The grays come from a planet that's closer. Then there are the Nordics."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Hall describes encountering three distinct extraterrestrial species: Tall Whites, Grays (more numerous, closer origin), and Nordics (most diplomatic).",
+        "asserted_by_id": "person-charles-hall",
+        "source_video_id": "QgxjtDS2sIQ",
+        "timestamp_start_seconds": 30,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-charles-hall",
+          "concept-nhi"
+        ]
+      }
+    },
+    {
+      "id": "claim-QgxjtDS2sIQ-hall-einstein-wrong",
+      "node_type": "claim",
+      "label": "Hall asserts the shock of his Air Force experience was not that extraterrestrials existed, but that ",
+      "summary": "Hall asserts the shock of his Air Force experience was not that extraterrestrials existed, but that Einstein's relativity was wrong — the craft he observed exceeded light speed many times over.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:05:09.446366+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "QgxjtDS2sIQ",
+          "timestamp_start": 46,
+          "quote": "The biggest shock that I felt was discovering that Einstein was wrong about relativity. The craft could easily exceed the speed of light by many times."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Hall asserts the shock of his Air Force experience was not that extraterrestrials existed, but that Einstein's relativity was wrong — the craft he observed exceeded light speed many times over.",
+        "asserted_by_id": "person-charles-hall",
+        "source_video_id": "QgxjtDS2sIQ",
+        "timestamp_start_seconds": 46,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-charles-hall",
+          "concept-whole-photon-theory"
+        ]
+      }
+    },
+    {
+      "id": "claim-QgxjtDS2sIQ-hall-arcturus-trip",
+      "node_type": "claim",
+      "label": "Hall recounts a 2-month period in 1965 where he believed his Tall White interlocutors had traveled t",
+      "summary": "Hall recounts a 2-month period in 1965 where he believed his Tall White interlocutors had traveled to a star near Arcturus (~36 light years), requiring craft capable of ~44× light speed minimum.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:05:09.446375+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "QgxjtDS2sIQ",
+          "timestamp_start": 60,
+          "quote": "A reasonable guess would have been the star Arcturus. Arcturus is 36 light years away. To go anywhere and come back in 2 months, the craft had to travel quite a few times faster than the speed of light, like 44 times."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Hall recounts a 2-month period in 1965 where he believed his Tall White interlocutors had traveled to a star near Arcturus (~36 light years), requiring craft capable of ~44× light speed minimum.",
+        "asserted_by_id": "person-charles-hall",
+        "source_video_id": "QgxjtDS2sIQ",
+        "timestamp_start_seconds": 60,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-charles-hall",
+          "concept-whole-photon-theory"
+        ]
+      }
+    },
+    {
+      "id": "claim-QgxjtDS2sIQ-hall-craft-morphology",
+      "node_type": "claim",
+      "label": "Hall describes Tall White craft as smooth ellipsoidal egg-shaped, comparable to a Tic Tac or engine ",
+      "summary": "Hall describes Tall White craft as smooth ellipsoidal egg-shaped, comparable to a Tic Tac or engine of a passenger train with rounded features — morphology later popularized by the 2004 Nimitz Tic Tac incident.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:05:09.446382+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "QgxjtDS2sIQ",
+          "timestamp_start": 68,
+          "quote": "Like tic tacs. Like white eggs. They were eggshaped. Smooth and round like a round. It was ellipsoidal."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Hall describes Tall White craft as smooth ellipsoidal egg-shaped, comparable to a Tic Tac or engine of a passenger train with rounded features — morphology later popularized by the 2004 Nimitz Tic Tac incident.",
+        "asserted_by_id": "person-charles-hall",
+        "source_video_id": "QgxjtDS2sIQ",
+        "timestamp_start_seconds": 68,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-charles-hall",
+          "technology-tall-white-craft",
+          "technology-tic-tac"
+        ]
+      }
+    },
+    {
+      "id": "claim-QgxjtDS2sIQ-hall-hieroglyphics-writing",
+      "node_type": "claim",
+      "label": "Hall claims Tall White writing resembled Egyptian hieroglyphics, leading some other rangemen to hypo",
+      "summary": "Hall claims Tall White writing resembled Egyptian hieroglyphics, leading some other rangemen to hypothesize they were ancient Egyptians trapped in Indian Springs Valley.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:05:09.446392+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "QgxjtDS2sIQ",
+          "timestamp_start": 74,
+          "quote": "A couple of the other rangemen thought that they were ancient Egyptians who had somehow or another gotten into Indian Springs Valley."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Hall claims Tall White writing resembled Egyptian hieroglyphics, leading some other rangemen to hypothesize they were ancient Egyptians trapped in Indian Springs Valley.",
+        "asserted_by_id": "person-charles-hall",
+        "source_video_id": "QgxjtDS2sIQ",
+        "timestamp_start_seconds": 74,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-charles-hall",
+          "technology-tall-white-craft"
+        ]
+      }
+    },
+    {
+      "id": "claim-QgxjtDS2sIQ-hall-underground-facility-indian-springs",
+      "node_type": "claim",
+      "label": "Hall claims the Tall Whites lived in underground facilities with hangars at the north end of Indian ",
+      "summary": "Hall claims the Tall Whites lived in underground facilities with hangars at the north end of Indian Springs Valley, a story strikingly parallel to Bob Lazar's S-4 account.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:05:09.446399+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "QgxjtDS2sIQ",
+          "timestamp_start": 29,
+          "quote": "Hall claims that the tall whites lived in underground facilities at the north end of Indian Springs Valley, complete with hangers for their craft, a story bearing striking resemblance to that of Bob Lazar."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Hall claims the Tall Whites lived in underground facilities with hangars at the north end of Indian Springs Valley, a story strikingly parallel to Bob Lazar's S-4 account.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "QgxjtDS2sIQ",
+        "timestamp_start_seconds": 29,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-charles-hall",
+          "location-s4-papoose",
+          "person-bob-lazar"
+        ]
+      }
+    },
+    {
+      "id": "claim-QgxjtDS2sIQ-hall-dreamland-area-53-54",
+      "node_type": "claim",
+      "label": "Hall asserts that the real 'Dreamland' was Areas 53 and 54 (northern Indian Springs Valley and Dog B",
+      "summary": "Hall asserts that the real 'Dreamland' was Areas 53 and 54 (northern Indian Springs Valley and Dog Bone Valley), not Area 51 / Groom Lake which was merely the entry area in 1965.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:05:09.446408+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "QgxjtDS2sIQ",
+          "timestamp_start": 50,
+          "quote": "Area 51 was not actually Dreamland itself. It was merely Groom Lake. Dreamland was area 53 and 54, which was the northern half of Indian Springs Valley."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Hall asserts that the real 'Dreamland' was Areas 53 and 54 (northern Indian Springs Valley and Dog Bone Valley), not Area 51 / Groom Lake which was merely the entry area in 1965.",
+        "asserted_by_id": "person-charles-hall",
+        "source_video_id": "QgxjtDS2sIQ",
+        "timestamp_start_seconds": 50,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-charles-hall",
+          "location-groom-lake"
+        ]
+      }
+    },
+    {
+      "id": "claim-QgxjtDS2sIQ-hall-nasa-timothy-taylor",
+      "node_type": "claim",
+      "label": "NASA scientist Timothy Taylor has a deep research interest in UAP experiencers and is a personal fri",
+      "summary": "NASA scientist Timothy Taylor has a deep research interest in UAP experiencers and is a personal friend of Charles Hall.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:05:09.446417+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "QgxjtDS2sIQ",
+          "timestamp_start": 12,
+          "quote": "There's a guy at NASA who has a deep interest in these sorts of things, experiencers. His name is Timothy Taylor."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "NASA scientist Timothy Taylor has a deep research interest in UAP experiencers and is a personal friend of Charles Hall.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "QgxjtDS2sIQ",
+        "timestamp_start_seconds": 12,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-timothy-taylor-nasa",
+          "person-charles-hall",
+          "organization-nasa"
+        ]
+      }
     }
   ],
   "edges": [
@@ -2013,8 +2525,522 @@
           "timestamp_start": 0
         }
       ]
+    },
+    {
+      "id": "edge-person-charles-hall-ASSERTED-claim-QgxjtDS2sIQ-hall-nellis-1965-1967",
+      "from_node_id": "person-charles-hall",
+      "to_node_id": "claim-QgxjtDS2sIQ-hall-nellis-1965-1967",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "QgxjtDS2sIQ",
+          "timestamp_start": 22,
+          "quote": "Charles Hall served as a USAF weather observer at Nellis AFB's Indian Springs Gunnery Range from March 1965 to May 1967."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-QgxjtDS2sIQ-REFERENCES-claim-QgxjtDS2sIQ-hall-nellis-1965-1967",
+      "from_node_id": "video-QgxjtDS2sIQ",
+      "to_node_id": "claim-QgxjtDS2sIQ-hall-nellis-1965-1967",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "QgxjtDS2sIQ",
+          "timestamp_start": 22
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-QgxjtDS2sIQ-hall-nellis-1965-1967-REFERENCES-organization-us-air-force",
+      "from_node_id": "claim-QgxjtDS2sIQ-hall-nellis-1965-1967",
+      "to_node_id": "organization-us-air-force",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "QgxjtDS2sIQ",
+          "timestamp_start": 22
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-QgxjtDS2sIQ-hall-nellis-1965-1967-REFERENCES-location-nellis-air-force-base",
+      "from_node_id": "claim-QgxjtDS2sIQ-hall-nellis-1965-1967",
+      "to_node_id": "location-nellis-air-force-base",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "QgxjtDS2sIQ",
+          "timestamp_start": 22
+        }
+      ]
+    },
+    {
+      "id": "edge-person-charles-hall-ASSERTED-claim-QgxjtDS2sIQ-hall-tall-whites-interactions",
+      "from_node_id": "person-charles-hall",
+      "to_node_id": "claim-QgxjtDS2sIQ-hall-tall-whites-interactions",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "QgxjtDS2sIQ",
+          "timestamp_start": 28,
+          "quote": "Hall claims years of direct interactions with extraterrestrial 'Tall Whites' at Indian Springs, developing trust and recognizing family groups (parents, children, elders)."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-QgxjtDS2sIQ-REFERENCES-claim-QgxjtDS2sIQ-hall-tall-whites-interactions",
+      "from_node_id": "video-QgxjtDS2sIQ",
+      "to_node_id": "claim-QgxjtDS2sIQ-hall-tall-whites-interactions",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "QgxjtDS2sIQ",
+          "timestamp_start": 28
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-QgxjtDS2sIQ-hall-tall-whites-interactions-REFERENCES-concept-nhi",
+      "from_node_id": "claim-QgxjtDS2sIQ-hall-tall-whites-interactions",
+      "to_node_id": "concept-nhi",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "QgxjtDS2sIQ",
+          "timestamp_start": 28
+        }
+      ]
+    },
+    {
+      "id": "edge-person-charles-hall-ASSERTED-claim-QgxjtDS2sIQ-hall-three-species",
+      "from_node_id": "person-charles-hall",
+      "to_node_id": "claim-QgxjtDS2sIQ-hall-three-species",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "QgxjtDS2sIQ",
+          "timestamp_start": 30,
+          "quote": "Hall describes encountering three distinct extraterrestrial species: Tall Whites, Grays (more numerous, closer origin), and Nordics (most diplomatic)."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-QgxjtDS2sIQ-REFERENCES-claim-QgxjtDS2sIQ-hall-three-species",
+      "from_node_id": "video-QgxjtDS2sIQ",
+      "to_node_id": "claim-QgxjtDS2sIQ-hall-three-species",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "QgxjtDS2sIQ",
+          "timestamp_start": 30
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-QgxjtDS2sIQ-hall-three-species-REFERENCES-concept-nhi",
+      "from_node_id": "claim-QgxjtDS2sIQ-hall-three-species",
+      "to_node_id": "concept-nhi",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "QgxjtDS2sIQ",
+          "timestamp_start": 30
+        }
+      ]
+    },
+    {
+      "id": "edge-person-charles-hall-ASSERTED-claim-QgxjtDS2sIQ-hall-einstein-wrong",
+      "from_node_id": "person-charles-hall",
+      "to_node_id": "claim-QgxjtDS2sIQ-hall-einstein-wrong",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "QgxjtDS2sIQ",
+          "timestamp_start": 46,
+          "quote": "Hall asserts the shock of his Air Force experience was not that extraterrestrials existed, but that Einstein's relativity was wrong — the craft he observed exceeded light speed many times over."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-QgxjtDS2sIQ-REFERENCES-claim-QgxjtDS2sIQ-hall-einstein-wrong",
+      "from_node_id": "video-QgxjtDS2sIQ",
+      "to_node_id": "claim-QgxjtDS2sIQ-hall-einstein-wrong",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "QgxjtDS2sIQ",
+          "timestamp_start": 46
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-QgxjtDS2sIQ-hall-einstein-wrong-REFERENCES-concept-whole-photon-theory",
+      "from_node_id": "claim-QgxjtDS2sIQ-hall-einstein-wrong",
+      "to_node_id": "concept-whole-photon-theory",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "QgxjtDS2sIQ",
+          "timestamp_start": 46
+        }
+      ]
+    },
+    {
+      "id": "edge-person-charles-hall-ASSERTED-claim-QgxjtDS2sIQ-hall-arcturus-trip",
+      "from_node_id": "person-charles-hall",
+      "to_node_id": "claim-QgxjtDS2sIQ-hall-arcturus-trip",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "QgxjtDS2sIQ",
+          "timestamp_start": 60,
+          "quote": "Hall recounts a 2-month period in 1965 where he believed his Tall White interlocutors had traveled to a star near Arcturus (~36 light years), requiring craft capable of ~44× light speed minimum."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-QgxjtDS2sIQ-REFERENCES-claim-QgxjtDS2sIQ-hall-arcturus-trip",
+      "from_node_id": "video-QgxjtDS2sIQ",
+      "to_node_id": "claim-QgxjtDS2sIQ-hall-arcturus-trip",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "QgxjtDS2sIQ",
+          "timestamp_start": 60
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-QgxjtDS2sIQ-hall-arcturus-trip-REFERENCES-concept-whole-photon-theory",
+      "from_node_id": "claim-QgxjtDS2sIQ-hall-arcturus-trip",
+      "to_node_id": "concept-whole-photon-theory",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "QgxjtDS2sIQ",
+          "timestamp_start": 60
+        }
+      ]
+    },
+    {
+      "id": "edge-person-charles-hall-ASSERTED-claim-QgxjtDS2sIQ-hall-craft-morphology",
+      "from_node_id": "person-charles-hall",
+      "to_node_id": "claim-QgxjtDS2sIQ-hall-craft-morphology",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "QgxjtDS2sIQ",
+          "timestamp_start": 68,
+          "quote": "Hall describes Tall White craft as smooth ellipsoidal egg-shaped, comparable to a Tic Tac or engine of a passenger train with rounded features — morphology later popularized by the 2004 Nimitz Tic Tac"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-QgxjtDS2sIQ-REFERENCES-claim-QgxjtDS2sIQ-hall-craft-morphology",
+      "from_node_id": "video-QgxjtDS2sIQ",
+      "to_node_id": "claim-QgxjtDS2sIQ-hall-craft-morphology",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "QgxjtDS2sIQ",
+          "timestamp_start": 68
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-QgxjtDS2sIQ-hall-craft-morphology-REFERENCES-technology-tall-white-craft",
+      "from_node_id": "claim-QgxjtDS2sIQ-hall-craft-morphology",
+      "to_node_id": "technology-tall-white-craft",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "QgxjtDS2sIQ",
+          "timestamp_start": 68
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-QgxjtDS2sIQ-hall-craft-morphology-REFERENCES-technology-tic-tac",
+      "from_node_id": "claim-QgxjtDS2sIQ-hall-craft-morphology",
+      "to_node_id": "technology-tic-tac",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "QgxjtDS2sIQ",
+          "timestamp_start": 68
+        }
+      ]
+    },
+    {
+      "id": "edge-person-charles-hall-ASSERTED-claim-QgxjtDS2sIQ-hall-hieroglyphics-writing",
+      "from_node_id": "person-charles-hall",
+      "to_node_id": "claim-QgxjtDS2sIQ-hall-hieroglyphics-writing",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "QgxjtDS2sIQ",
+          "timestamp_start": 74,
+          "quote": "Hall claims Tall White writing resembled Egyptian hieroglyphics, leading some other rangemen to hypothesize they were ancient Egyptians trapped in Indian Springs Valley."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-QgxjtDS2sIQ-REFERENCES-claim-QgxjtDS2sIQ-hall-hieroglyphics-writing",
+      "from_node_id": "video-QgxjtDS2sIQ",
+      "to_node_id": "claim-QgxjtDS2sIQ-hall-hieroglyphics-writing",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "QgxjtDS2sIQ",
+          "timestamp_start": 74
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-QgxjtDS2sIQ-hall-hieroglyphics-writing-REFERENCES-technology-tall-white-craft",
+      "from_node_id": "claim-QgxjtDS2sIQ-hall-hieroglyphics-writing",
+      "to_node_id": "technology-tall-white-craft",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "QgxjtDS2sIQ",
+          "timestamp_start": 74
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-QgxjtDS2sIQ-hall-underground-facility-indian-springs",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-QgxjtDS2sIQ-hall-underground-facility-indian-springs",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "QgxjtDS2sIQ",
+          "timestamp_start": 29,
+          "quote": "Hall claims the Tall Whites lived in underground facilities with hangars at the north end of Indian Springs Valley, a story strikingly parallel to Bob Lazar's S-4 account."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-QgxjtDS2sIQ-REFERENCES-claim-QgxjtDS2sIQ-hall-underground-facility-indian-springs",
+      "from_node_id": "video-QgxjtDS2sIQ",
+      "to_node_id": "claim-QgxjtDS2sIQ-hall-underground-facility-indian-springs",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "QgxjtDS2sIQ",
+          "timestamp_start": 29
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-QgxjtDS2sIQ-hall-underground-facility-indian-springs-REFERENCES-person-charles-hall",
+      "from_node_id": "claim-QgxjtDS2sIQ-hall-underground-facility-indian-springs",
+      "to_node_id": "person-charles-hall",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "QgxjtDS2sIQ",
+          "timestamp_start": 29
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-QgxjtDS2sIQ-hall-underground-facility-indian-springs-REFERENCES-location-s4-papoose",
+      "from_node_id": "claim-QgxjtDS2sIQ-hall-underground-facility-indian-springs",
+      "to_node_id": "location-s4-papoose",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "QgxjtDS2sIQ",
+          "timestamp_start": 29
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-QgxjtDS2sIQ-hall-underground-facility-indian-springs-REFERENCES-person-bob-lazar",
+      "from_node_id": "claim-QgxjtDS2sIQ-hall-underground-facility-indian-springs",
+      "to_node_id": "person-bob-lazar",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "QgxjtDS2sIQ",
+          "timestamp_start": 29
+        }
+      ]
+    },
+    {
+      "id": "edge-person-charles-hall-ASSERTED-claim-QgxjtDS2sIQ-hall-dreamland-area-53-54",
+      "from_node_id": "person-charles-hall",
+      "to_node_id": "claim-QgxjtDS2sIQ-hall-dreamland-area-53-54",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "QgxjtDS2sIQ",
+          "timestamp_start": 50,
+          "quote": "Hall asserts that the real 'Dreamland' was Areas 53 and 54 (northern Indian Springs Valley and Dog Bone Valley), not Area 51 / Groom Lake which was merely the entry area in 1965."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-QgxjtDS2sIQ-REFERENCES-claim-QgxjtDS2sIQ-hall-dreamland-area-53-54",
+      "from_node_id": "video-QgxjtDS2sIQ",
+      "to_node_id": "claim-QgxjtDS2sIQ-hall-dreamland-area-53-54",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "QgxjtDS2sIQ",
+          "timestamp_start": 50
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-QgxjtDS2sIQ-hall-dreamland-area-53-54-REFERENCES-location-groom-lake",
+      "from_node_id": "claim-QgxjtDS2sIQ-hall-dreamland-area-53-54",
+      "to_node_id": "location-groom-lake",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "QgxjtDS2sIQ",
+          "timestamp_start": 50
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-QgxjtDS2sIQ-hall-nasa-timothy-taylor",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-QgxjtDS2sIQ-hall-nasa-timothy-taylor",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "QgxjtDS2sIQ",
+          "timestamp_start": 12,
+          "quote": "NASA scientist Timothy Taylor has a deep research interest in UAP experiencers and is a personal friend of Charles Hall."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-QgxjtDS2sIQ-REFERENCES-claim-QgxjtDS2sIQ-hall-nasa-timothy-taylor",
+      "from_node_id": "video-QgxjtDS2sIQ",
+      "to_node_id": "claim-QgxjtDS2sIQ-hall-nasa-timothy-taylor",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "QgxjtDS2sIQ",
+          "timestamp_start": 12
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-QgxjtDS2sIQ-hall-nasa-timothy-taylor-REFERENCES-person-timothy-taylor-nasa",
+      "from_node_id": "claim-QgxjtDS2sIQ-hall-nasa-timothy-taylor",
+      "to_node_id": "person-timothy-taylor-nasa",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "QgxjtDS2sIQ",
+          "timestamp_start": 12
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-QgxjtDS2sIQ-hall-nasa-timothy-taylor-REFERENCES-person-charles-hall",
+      "from_node_id": "claim-QgxjtDS2sIQ-hall-nasa-timothy-taylor",
+      "to_node_id": "person-charles-hall",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "QgxjtDS2sIQ",
+          "timestamp_start": 12
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-QgxjtDS2sIQ-hall-nasa-timothy-taylor-REFERENCES-organization-nasa",
+      "from_node_id": "claim-QgxjtDS2sIQ-hall-nasa-timothy-taylor",
+      "to_node_id": "organization-nasa",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "QgxjtDS2sIQ",
+          "timestamp_start": 12
+        }
+      ]
     }
   ],
-  "extracted_at": "2026-04-17T11:03:44.780230+00:00",
+  "extracted_at": "2026-04-17T12:05:09.446426+00:00",
   "extractor_version": "v1-inline-claude"
 }

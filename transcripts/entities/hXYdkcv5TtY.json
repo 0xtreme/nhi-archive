@@ -1017,6 +1017,346 @@
           "video-hXYdkcv5TtY"
         ]
       }
+    },
+    {
+      "id": "person-eric-wargo",
+      "node_type": "person",
+      "label": "Eric Wargo",
+      "summary": "American theorist and author of 'Time Loops' (2018) and 'From Nowhere' — presents a new theory of precognition, block-universe causation, and prophetic dreams as information-transmission from future self to past self.",
+      "tags": [
+        "author",
+        "researcher"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:07:01.191233+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "hXYdkcv5TtY",
+          "timestamp_start": 371,
+          "quote": "Author of Time Loops and From Nowhere; precognition researcher"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Wargo"
+        ],
+        "profession": "author / theorist",
+        "notability_tags": [
+          "author",
+          "researcher"
+        ]
+      }
+    },
+    {
+      "id": "person-sigmund-freud",
+      "node_type": "person",
+      "label": "Sigmund Freud",
+      "summary": "Founder of psychoanalysis; per Wargo, denied precognition while himself living out the Oedipus myth — his 1895 dream contained premonitory elements of his later oral cancer (caused by smoking) which he failed to heed.",
+      "tags": [
+        "psychoanalyst",
+        "historical"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:07:01.191235+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "hXYdkcv5TtY",
+          "timestamp_start": 409,
+          "quote": "Psychoanalyst who denied precognition yet lived out Oedipus"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Freud"
+        ],
+        "profession": "psychoanalyst",
+        "notability_tags": [
+          "psychoanalyst",
+          "historical"
+        ]
+      }
+    },
+    {
+      "id": "person-carl-jung-patient-scarab",
+      "node_type": "person",
+      "label": "Carl Jung (scarab patient)",
+      "summary": "Swiss psychiatrist. Central Wargo example: Jung's hyper-rationalist patient dreamed of being gifted a golden scarab beetle; the next day Jung gifted her an actual scarab beetle that flew into his office — paradigm-shifting synchronicity.",
+      "tags": [
+        "psychiatrist",
+        "historical"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:07:01.191278+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "hXYdkcv5TtY",
+          "timestamp_start": 395,
+          "quote": "Psychiatrist whose golden-scarab synchronicity is canonical Time Loop example"
+        }
+      ],
+      "type_specific": {
+        "aliases": [],
+        "profession": "psychiatrist",
+        "notability_tags": [
+          "psychiatrist",
+          "historical"
+        ]
+      }
+    },
+    {
+      "id": "document-time-loops-wargo",
+      "node_type": "document",
+      "label": "Time Loops",
+      "summary": "Eric Wargo's 'Time Loops' (2018) — theory that precognitive dreams transmit information backward from the future, causing behavioral changes that self-fulfill the prophecy. Based on closed-timelike-curve mathematics.",
+      "tags": [
+        "book"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:07:01.191281+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "hXYdkcv5TtY",
+          "timestamp_start": 371,
+          "timestamp_end": "Wargo's theory of self-fulfilling prophecies via information time-travel"
+        }
+      ],
+      "type_specific": {
+        "document_type": "book",
+        "author": "Eric Wargo",
+        "publication_year": 2018
+      }
+    },
+    {
+      "id": "document-from-nowhere-wargo",
+      "node_type": "document",
+      "label": "From Nowhere",
+      "summary": "Eric Wargo's follow-up book extending Time Loops into creativity, artistic inspiration, and information coming 'from nowhere' as psi-phenomena.",
+      "tags": [
+        "book"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:07:01.191283+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "hXYdkcv5TtY",
+          "timestamp_start": 371,
+          "timestamp_end": "Wargo's follow-up theory on creativity and precognition"
+        }
+      ],
+      "type_specific": {
+        "document_type": "book",
+        "author": "Eric Wargo"
+      }
+    },
+    {
+      "id": "concept-closed-timelike-curve",
+      "node_type": "concept",
+      "label": "Closed Timelike Curve",
+      "summary": "Physics mathematics (1980s): particles sent through wormholes to deflect themselves away always self-deflect INTO the wormhole — universe is self-consistent, no paradox possible. Basis of Wargo's block-universe time-loop causation model.",
+      "tags": [
+        "physics"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:07:01.191285+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "hXYdkcv5TtY",
+          "timestamp_start": 381,
+          "timestamp_end": "Mathematical result: wormhole-paradox attempts always self-resolve"
+        }
+      ],
+      "type_specific": {
+        "concept_domain": "physics"
+      }
+    },
+    {
+      "id": "claim-hXYdkcv5TtY-wargo-jung-scarab-example",
+      "node_type": "claim",
+      "label": "Wargo's canonical Time Loop example: Jung's hyper-rationalist patient dreamed of receiving a golden ",
+      "summary": "Wargo's canonical Time Loop example: Jung's hyper-rationalist patient dreamed of receiving a golden scarab beetle; the next day in Jung's office a real scarab flew in, Jung gifted it to her, breaking her paradigm — the dream's knowledge led to the attentional state that produced the event.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:07:01.211457+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "hXYdkcv5TtY",
+          "timestamp_start": 397,
+          "quote": "Her dream changes her reaction and being aware of that dream actually caused the whole thing to happen. That's my favorite example of a Time Loop. It shows exactly how a dream changes behavior and the behavior leads to the outcome in an unforeseen way."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Wargo's canonical Time Loop example: Jung's hyper-rationalist patient dreamed of receiving a golden scarab beetle; the next day in Jung's office a real scarab flew in, Jung gifted it to her, breaking her paradigm — the dream's knowledge led to the attentional state that produced the event.",
+        "asserted_by_id": "person-eric-wargo",
+        "source_video_id": "hXYdkcv5TtY",
+        "timestamp_start_seconds": 397,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-eric-wargo",
+          "person-carl-jung-patient-scarab",
+          "document-time-loops-wargo"
+        ]
+      }
+    },
+    {
+      "id": "claim-hXYdkcv5TtY-wargo-freud-oral-cancer-premonition",
+      "node_type": "claim",
+      "label": "Wargo demonstrates Freud's 1895 landmark dream (analyzed in 14 pages of Interpretation of Dreams) co",
+      "summary": "Wargo demonstrates Freud's 1895 landmark dream (analyzed in 14 pages of Interpretation of Dreams) contained premonitory elements of his 1923 oral cancer — caused by Freud's smoking; Freud denied precognition and never acknowledged the dream as warning.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:07:01.211473+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "hXYdkcv5TtY",
+          "timestamp_start": 411,
+          "quote": "He had a famous 1895 dream. Like 28 years later he developed an oral cancer. All these key elements in that dream he'd had almost three decades earlier came true in his life. Had he paid attention to this dream as a warning from his future, he might have quit smoking."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Wargo demonstrates Freud's 1895 landmark dream (analyzed in 14 pages of Interpretation of Dreams) contained premonitory elements of his 1923 oral cancer — caused by Freud's smoking; Freud denied precognition and never acknowledged the dream as warning.",
+        "asserted_by_id": "person-eric-wargo",
+        "source_video_id": "hXYdkcv5TtY",
+        "timestamp_start_seconds": 411,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-eric-wargo",
+          "person-sigmund-freud"
+        ]
+      }
+    },
+    {
+      "id": "claim-hXYdkcv5TtY-wargo-closed-timelike-self-consistent",
+      "node_type": "claim",
+      "label": "Wargo: 1980s physicists' mathematics of closed timelike curves showed the universe is self-consisten",
+      "summary": "Wargo: 1980s physicists' mathematics of closed timelike curves showed the universe is self-consistent — any attempt to use wormhole/time-travel to prevent an event actually causes the event. No paradox possible.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:07:01.211480+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "hXYdkcv5TtY",
+          "timestamp_start": 381,
+          "quote": "Physicists in the 80s did the math. They got interested in wormholes. If you send a billiard ball through a wormhole and try to deflect it away, it fails — you're always going to deflect yourself into the wormhole."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Wargo: 1980s physicists' mathematics of closed timelike curves showed the universe is self-consistent — any attempt to use wormhole/time-travel to prevent an event actually causes the event. No paradox possible.",
+        "asserted_by_id": "person-eric-wargo",
+        "source_video_id": "hXYdkcv5TtY",
+        "timestamp_start_seconds": 381,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-eric-wargo",
+          "concept-closed-timelike-curve"
+        ]
+      }
+    },
+    {
+      "id": "claim-hXYdkcv5TtY-wargo-prophecy-self-fulfilling",
+      "node_type": "claim",
+      "label": "Wargo's core thesis: all prophecies are self-fulfilling; you are already the product of information ",
+      "summary": "Wargo's core thesis: all prophecies are self-fulfilling; you are already the product of information reflexing from your future and influencing your past — 'you now are the product of time-traveling information already.'",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:07:01.211487+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "hXYdkcv5TtY",
+          "timestamp_start": 377,
+          "quote": "Prophecies have to be self-fulfilling. You now are the product of information reflexing from your future and influencing your past and influencing your present."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Wargo's core thesis: all prophecies are self-fulfilling; you are already the product of information reflexing from your future and influencing your past — 'you now are the product of time-traveling information already.'",
+        "asserted_by_id": "person-eric-wargo",
+        "source_video_id": "hXYdkcv5TtY",
+        "timestamp_start_seconds": 377,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-eric-wargo",
+          "document-time-loops-wargo"
+        ]
+      }
+    },
+    {
+      "id": "claim-hXYdkcv5TtY-wargo-oedipus-time-loop",
+      "node_type": "claim",
+      "label": "Wargo frames Oedipus as the archetypal Time Loop — the prophecy's flight fulfills it (flees home, ki",
+      "summary": "Wargo frames Oedipus as the archetypal Time Loop — the prophecy's flight fulfills it (flees home, kills father at crossroads, marries mother) — yet Freud paradoxically denied precognition in his psychoanalytic reading of the same myth.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:07:01.211493+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "hXYdkcv5TtY",
+          "timestamp_start": 407,
+          "quote": "He fulfills the prophecy exactly in his efforts to evade the prophecy. Freud was only interested in that incestuous idea — he denied precognition and denied the rest of the story about the prophecy."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Wargo frames Oedipus as the archetypal Time Loop — the prophecy's flight fulfills it (flees home, kills father at crossroads, marries mother) — yet Freud paradoxically denied precognition in his psychoanalytic reading of the same myth.",
+        "asserted_by_id": "person-eric-wargo",
+        "source_video_id": "hXYdkcv5TtY",
+        "timestamp_start_seconds": 407,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-eric-wargo",
+          "person-sigmund-freud"
+        ]
+      }
     }
   ],
   "edges": [
@@ -1531,8 +1871,237 @@
           "timestamp_start": 0
         }
       ]
+    },
+    {
+      "id": "edge-person-eric-wargo-ASSERTED-claim-hXYdkcv5TtY-wargo-jung-scarab-example",
+      "from_node_id": "person-eric-wargo",
+      "to_node_id": "claim-hXYdkcv5TtY-wargo-jung-scarab-example",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "hXYdkcv5TtY",
+          "timestamp_start": 397,
+          "quote": "Wargo's canonical Time Loop example: Jung's hyper-rationalist patient dreamed of receiving a golden scarab beetle; the next day in Jung's office a real scarab flew in, Jung gifted it to her, breaking "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-hXYdkcv5TtY-REFERENCES-claim-hXYdkcv5TtY-wargo-jung-scarab-example",
+      "from_node_id": "video-hXYdkcv5TtY",
+      "to_node_id": "claim-hXYdkcv5TtY-wargo-jung-scarab-example",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "hXYdkcv5TtY",
+          "timestamp_start": 397
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-hXYdkcv5TtY-wargo-jung-scarab-example-REFERENCES-person-carl-jung-patient-scarab",
+      "from_node_id": "claim-hXYdkcv5TtY-wargo-jung-scarab-example",
+      "to_node_id": "person-carl-jung-patient-scarab",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "hXYdkcv5TtY",
+          "timestamp_start": 397
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-hXYdkcv5TtY-wargo-jung-scarab-example-REFERENCES-document-time-loops-wargo",
+      "from_node_id": "claim-hXYdkcv5TtY-wargo-jung-scarab-example",
+      "to_node_id": "document-time-loops-wargo",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "hXYdkcv5TtY",
+          "timestamp_start": 397
+        }
+      ]
+    },
+    {
+      "id": "edge-person-eric-wargo-ASSERTED-claim-hXYdkcv5TtY-wargo-freud-oral-cancer-premonition",
+      "from_node_id": "person-eric-wargo",
+      "to_node_id": "claim-hXYdkcv5TtY-wargo-freud-oral-cancer-premonition",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "hXYdkcv5TtY",
+          "timestamp_start": 411,
+          "quote": "Wargo demonstrates Freud's 1895 landmark dream (analyzed in 14 pages of Interpretation of Dreams) contained premonitory elements of his 1923 oral cancer — caused by Freud's smoking; Freud denied preco"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-hXYdkcv5TtY-REFERENCES-claim-hXYdkcv5TtY-wargo-freud-oral-cancer-premonition",
+      "from_node_id": "video-hXYdkcv5TtY",
+      "to_node_id": "claim-hXYdkcv5TtY-wargo-freud-oral-cancer-premonition",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "hXYdkcv5TtY",
+          "timestamp_start": 411
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-hXYdkcv5TtY-wargo-freud-oral-cancer-premonition-REFERENCES-person-sigmund-freud",
+      "from_node_id": "claim-hXYdkcv5TtY-wargo-freud-oral-cancer-premonition",
+      "to_node_id": "person-sigmund-freud",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "hXYdkcv5TtY",
+          "timestamp_start": 411
+        }
+      ]
+    },
+    {
+      "id": "edge-person-eric-wargo-ASSERTED-claim-hXYdkcv5TtY-wargo-closed-timelike-self-consistent",
+      "from_node_id": "person-eric-wargo",
+      "to_node_id": "claim-hXYdkcv5TtY-wargo-closed-timelike-self-consistent",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "hXYdkcv5TtY",
+          "timestamp_start": 381,
+          "quote": "Wargo: 1980s physicists' mathematics of closed timelike curves showed the universe is self-consistent — any attempt to use wormhole/time-travel to prevent an event actually causes the event. No parado"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-hXYdkcv5TtY-REFERENCES-claim-hXYdkcv5TtY-wargo-closed-timelike-self-consistent",
+      "from_node_id": "video-hXYdkcv5TtY",
+      "to_node_id": "claim-hXYdkcv5TtY-wargo-closed-timelike-self-consistent",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "hXYdkcv5TtY",
+          "timestamp_start": 381
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-hXYdkcv5TtY-wargo-closed-timelike-self-consistent-REFERENCES-concept-closed-timelike-curve",
+      "from_node_id": "claim-hXYdkcv5TtY-wargo-closed-timelike-self-consistent",
+      "to_node_id": "concept-closed-timelike-curve",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "hXYdkcv5TtY",
+          "timestamp_start": 381
+        }
+      ]
+    },
+    {
+      "id": "edge-person-eric-wargo-ASSERTED-claim-hXYdkcv5TtY-wargo-prophecy-self-fulfilling",
+      "from_node_id": "person-eric-wargo",
+      "to_node_id": "claim-hXYdkcv5TtY-wargo-prophecy-self-fulfilling",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "hXYdkcv5TtY",
+          "timestamp_start": 377,
+          "quote": "Wargo's core thesis: all prophecies are self-fulfilling; you are already the product of information reflexing from your future and influencing your past — 'you now are the product of time-traveling in"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-hXYdkcv5TtY-REFERENCES-claim-hXYdkcv5TtY-wargo-prophecy-self-fulfilling",
+      "from_node_id": "video-hXYdkcv5TtY",
+      "to_node_id": "claim-hXYdkcv5TtY-wargo-prophecy-self-fulfilling",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "hXYdkcv5TtY",
+          "timestamp_start": 377
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-hXYdkcv5TtY-wargo-prophecy-self-fulfilling-REFERENCES-document-time-loops-wargo",
+      "from_node_id": "claim-hXYdkcv5TtY-wargo-prophecy-self-fulfilling",
+      "to_node_id": "document-time-loops-wargo",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "hXYdkcv5TtY",
+          "timestamp_start": 377
+        }
+      ]
+    },
+    {
+      "id": "edge-person-eric-wargo-ASSERTED-claim-hXYdkcv5TtY-wargo-oedipus-time-loop",
+      "from_node_id": "person-eric-wargo",
+      "to_node_id": "claim-hXYdkcv5TtY-wargo-oedipus-time-loop",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "hXYdkcv5TtY",
+          "timestamp_start": 407,
+          "quote": "Wargo frames Oedipus as the archetypal Time Loop — the prophecy's flight fulfills it (flees home, kills father at crossroads, marries mother) — yet Freud paradoxically denied precognition in his psych"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-hXYdkcv5TtY-REFERENCES-claim-hXYdkcv5TtY-wargo-oedipus-time-loop",
+      "from_node_id": "video-hXYdkcv5TtY",
+      "to_node_id": "claim-hXYdkcv5TtY-wargo-oedipus-time-loop",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "hXYdkcv5TtY",
+          "timestamp_start": 407
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-hXYdkcv5TtY-wargo-oedipus-time-loop-REFERENCES-person-sigmund-freud",
+      "from_node_id": "claim-hXYdkcv5TtY-wargo-oedipus-time-loop",
+      "to_node_id": "person-sigmund-freud",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "hXYdkcv5TtY",
+          "timestamp_start": 407
+        }
+      ]
     }
   ],
-  "extracted_at": "2026-04-17T11:04:39.938360+00:00",
+  "extracted_at": "2026-04-17T13:07:01.211500+00:00",
   "extractor_version": "v1-inline-claude"
 }

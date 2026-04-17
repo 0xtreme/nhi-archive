@@ -1033,6 +1033,589 @@
           "video-aKZ_MUbuk_Q"
         ]
       }
+    },
+    {
+      "id": "person-riz-virk",
+      "node_type": "person",
+      "label": "Rizwan Virk",
+      "summary": "MIT and Stanford educated computer scientist; successful video-game entrepreneur; author of The Simulation Hypothesis and books extending Bostrom's simulation theory with physics, information theory, and cross-religious commentary.",
+      "tags": [
+        "scientist",
+        "entrepreneur",
+        "author"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.485622+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aKZ_MUbuk_Q",
+          "timestamp_start": 255,
+          "quote": "MIT/Stanford computer scientist, game entrepreneur, simulation theorist"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Virk",
+          "Riz",
+          "Rizwan"
+        ],
+        "profession": "computer scientist",
+        "notability_tags": [
+          "scientist",
+          "entrepreneur",
+          "author"
+        ]
+      }
+    },
+    {
+      "id": "person-philip-k-dick",
+      "node_type": "person",
+      "label": "Philip K. Dick",
+      "summary": "Sci-fi author; early proponent of simulation/altered-reality fiction (e.g., Ubik, Man in the High Castle); cited as founding intellectual ancestor of modern simulation theory.",
+      "tags": [
+        "author",
+        "historical"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.485625+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aKZ_MUbuk_Q",
+          "timestamp_start": 239,
+          "quote": "Sci-fi author, early simulation-reality proponent"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "PKD",
+          "Dick"
+        ],
+        "profession": "author",
+        "notability_tags": [
+          "author",
+          "historical"
+        ]
+      }
+    },
+    {
+      "id": "person-william-gibson",
+      "node_type": "person",
+      "label": "William Gibson",
+      "summary": "Cyberpunk sci-fi author (Neuromancer); early proponent of simulated/virtual-reality themes in fiction.",
+      "tags": [
+        "author"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.485627+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aKZ_MUbuk_Q",
+          "timestamp_start": 239,
+          "quote": "Cyberpunk sci-fi author"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Gibson"
+        ],
+        "profession": "author",
+        "notability_tags": [
+          "author"
+        ]
+      }
+    },
+    {
+      "id": "person-nick-bostrom",
+      "node_type": "person",
+      "label": "Nick Bostrom",
+      "summary": "Oxford philosopher; author of 'Are You Living in a Computer Simulation?' (2003) and Superintelligence (2014). Central academic voice on simulation theory.",
+      "tags": [
+        "philosopher",
+        "academic"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.485629+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aKZ_MUbuk_Q",
+          "timestamp_start": 239,
+          "quote": "Oxford philosopher; author of simulation-hypothesis paper and Superintelligence"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Bostrom"
+        ],
+        "profession": "philosopher",
+        "notability_tags": [
+          "philosopher",
+          "academic"
+        ]
+      }
+    },
+    {
+      "id": "person-john-wheeler",
+      "node_type": "person",
+      "label": "John Wheeler",
+      "summary": "American theoretical physicist; coined 'it from bit' framework: reality is fundamentally informational, answered by a series of yes/no questions.",
+      "tags": [
+        "physicist",
+        "historical"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.485631+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aKZ_MUbuk_Q",
+          "timestamp_start": 261,
+          "quote": "Physicist of the 'it from bit' hypothesis"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Wheeler"
+        ],
+        "profession": "physicist",
+        "notability_tags": [
+          "physicist",
+          "historical"
+        ]
+      }
+    },
+    {
+      "id": "person-claude-shannon",
+      "node_type": "person",
+      "label": "Claude Shannon",
+      "summary": "American mathematician; founder of information theory (Shannon bits, mutual information); theoretical foundation of modern computation and the simulation argument.",
+      "tags": [
+        "mathematician",
+        "historical"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.485633+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aKZ_MUbuk_Q",
+          "timestamp_start": 295,
+          "quote": "Architect of information theory"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Shannon"
+        ],
+        "profession": "mathematician",
+        "notability_tags": [
+          "mathematician",
+          "historical"
+        ]
+      }
+    },
+    {
+      "id": "concept-simulation-multiverse",
+      "node_type": "concept",
+      "label": "Simulated Multiverse",
+      "summary": "Virk's hypothesis that all possible constant-values have been simulated across a multiverse of timelines; the observed fine-tuning is our surviving branch.",
+      "tags": [
+        "metaphysics"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.485635+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aKZ_MUbuk_Q",
+          "timestamp_start": 269,
+          "timestamp_end": "Virk's extension of the simulation hypothesis across the Multiverse"
+        }
+      ],
+      "type_specific": {
+        "concept_domain": "metaphysics"
+      }
+    },
+    {
+      "id": "concept-mandela-effect",
+      "node_type": "concept",
+      "label": "Mandela Effect",
+      "summary": "Phenomenon where large groups remember events that never occurred. Named after Nelson Mandela dying in prison (he didn't). Virk catalogues Bible, Quran, Star Wars, Berenstein/Berenstain Bears changes.",
+      "tags": [
+        "metaphysics"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.485636+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aKZ_MUbuk_Q",
+          "timestamp_start": 285,
+          "timestamp_end": "Collective misremembered 'facts' across scripture and pop culture"
+        }
+      ],
+      "type_specific": {
+        "concept_domain": "metaphysics"
+      }
+    },
+    {
+      "id": "concept-jin-beings",
+      "node_type": "concept",
+      "label": "Jin (time-shifting beings)",
+      "summary": "Per a Sufi Imam cited by Virk: beings that exist outside normal spacetime, can change physical objects but cannot change memory — proposed as mechanism behind the Mandela Effect and requirement to memorize scripture word-for-word.",
+      "tags": [
+        "metaphysics"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.485638+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aKZ_MUbuk_Q",
+          "timestamp_start": 293,
+          "timestamp_end": "Sufi framework: beings that can change physical objects but not memory"
+        }
+      ],
+      "type_specific": {
+        "concept_domain": "metaphysics"
+      }
+    },
+    {
+      "id": "document-superintelligence-bostrom",
+      "node_type": "document",
+      "label": "Superintelligence",
+      "summary": "Bostrom's 2014 academic treatment of AI safety and the simulation argument.",
+      "tags": [
+        "book"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.485643+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aKZ_MUbuk_Q",
+          "timestamp_start": 239,
+          "timestamp_end": "Nick Bostrom's 2014 book"
+        }
+      ],
+      "type_specific": {
+        "document_type": "book",
+        "author": "Nick Bostrom",
+        "publication_year": 2014
+      }
+    },
+    {
+      "id": "document-simulation-hypothesis-virk",
+      "node_type": "document",
+      "label": "The Simulation Hypothesis",
+      "summary": "Rizwan Virk's primary book extending Bostrom's simulation argument with physics, information theory, and cross-religious commentary.",
+      "tags": [
+        "book"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.485645+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aKZ_MUbuk_Q",
+          "timestamp_start": 255,
+          "timestamp_end": "Virk's central work"
+        }
+      ],
+      "type_specific": {
+        "document_type": "book",
+        "author": "Rizwan Virk"
+      }
+    },
+    {
+      "id": "document-sex-in-the-city-mandela",
+      "node_type": "document",
+      "label": "Collective Mandela-Effect Catalog",
+      "summary": "Virk's body of catalog work on the Mandela Effect: scripture changes (Isaiah's lion and lamb), pop-culture changes (Sex and the City, Berenstein Bears, Empire Strikes Back 'Luke I am your father' vs 'No I am your father').",
+      "tags": [
+        "paper"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.485647+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aKZ_MUbuk_Q",
+          "timestamp_start": 287,
+          "timestamp_end": "Virk's catalog of Mandela-Effect examples including scripture"
+        }
+      ],
+      "type_specific": {
+        "document_type": "paper"
+      }
+    },
+    {
+      "id": "claim-aKZ_MUbuk_Q-virk-simulation-hypothesis",
+      "node_type": "claim",
+      "label": "Virk's central thesis: physical reality is best modeled as an informational simulation rendered 'jus",
+      "summary": "Virk's central thesis: physical reality is best modeled as an informational simulation rendered 'just in time' for observers; physics (Wheeler's it-from-bit, quantum indeterminacy) supports this framing.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.493270+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aKZ_MUbuk_Q",
+          "timestamp_start": 259,
+          "quote": "The more I looked into the idea of the physical universe the more I realized that many physicists are telling us that the physical world doesn't really exist."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Virk's central thesis: physical reality is best modeled as an informational simulation rendered 'just in time' for observers; physics (Wheeler's it-from-bit, quantum indeterminacy) supports this framing.",
+        "asserted_by_id": "person-riz-virk",
+        "source_video_id": "aKZ_MUbuk_Q",
+        "timestamp_start_seconds": 259,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-riz-virk",
+          "person-john-wheeler",
+          "person-nick-bostrom",
+          "concept-simulation-hypothesis"
+        ]
+      }
+    },
+    {
+      "id": "claim-aKZ_MUbuk_Q-musk-one-in-billions-simulation",
+      "node_type": "claim",
+      "label": "Elon Musk has publicly stated the odds we're in base reality are 'one in billions' — aligning with t",
+      "summary": "Elon Musk has publicly stated the odds we're in base reality are 'one in billions' — aligning with the simulation hypothesis.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.493287+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aKZ_MUbuk_Q",
+          "timestamp_start": 255,
+          "quote": "Even Elon Musk - 'There's a one in billion chance that this is based reality.'"
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Elon Musk has publicly stated the odds we're in base reality are 'one in billions' — aligning with the simulation hypothesis.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "aKZ_MUbuk_Q",
+        "timestamp_start_seconds": 255,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "concept-simulation-hypothesis"
+        ]
+      }
+    },
+    {
+      "id": "claim-aKZ_MUbuk_Q-tyson-50-pct-simulation",
+      "node_type": "claim",
+      "label": "Neil deGrasse Tyson has publicly accepted the simulation hypothesis is ~50% likely.",
+      "summary": "Neil deGrasse Tyson has publicly accepted the simulation hypothesis is ~50% likely.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.493296+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aKZ_MUbuk_Q",
+          "timestamp_start": 257,
+          "quote": "Even a totally close-minded midwit like Neil deGrasse Tyson accepts that we are 50% likely to be living in a simulation."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Neil deGrasse Tyson has publicly accepted the simulation hypothesis is ~50% likely.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "aKZ_MUbuk_Q",
+        "timestamp_start_seconds": 257,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-neil-degrasse-tyson",
+          "concept-simulation-hypothesis"
+        ]
+      }
+    },
+    {
+      "id": "claim-aKZ_MUbuk_Q-virk-fibonacci-golden-ratio-code",
+      "node_type": "claim",
+      "label": "Virk cites Fibonacci/Golden-Ratio patterns recurring across DNA dimensions, leaf arrangements, and g",
+      "summary": "Virk cites Fibonacci/Golden-Ratio patterns recurring across DNA dimensions, leaf arrangements, and galactic spiral arms as evidence of reused procedural code across biological and cosmological scales.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.493304+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aKZ_MUbuk_Q",
+          "timestamp_start": 275,
+          "quote": "The dimensions of DNA follow Fibonacci numbers. Biological patterns often look like fractals of larger cosmological patterns — spiral galaxies form logarithmic spirals displaying the golden ratio."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Virk cites Fibonacci/Golden-Ratio patterns recurring across DNA dimensions, leaf arrangements, and galactic spiral arms as evidence of reused procedural code across biological and cosmological scales.",
+        "asserted_by_id": "person-riz-virk",
+        "source_video_id": "aKZ_MUbuk_Q",
+        "timestamp_start_seconds": 275,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-riz-virk",
+          "concept-simulation-hypothesis"
+        ]
+      }
+    },
+    {
+      "id": "claim-aKZ_MUbuk_Q-virk-binary-matter-antimatter",
+      "node_type": "claim",
+      "label": "Virk points to matter/antimatter particle pairs and DNA base-pairing (A-T, C-G) as evidence of binar",
+      "summary": "Virk points to matter/antimatter particle pairs and DNA base-pairing (A-T, C-G) as evidence of binary structure analogous to bits in a simulation.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.493311+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aKZ_MUbuk_Q",
+          "timestamp_start": 281,
+          "quote": "Where might we find ones and zeros in nature? Plenty of particles have matter antimatter pairs. We all have four nucleotides A-T C-G — base pairs like bits."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Virk points to matter/antimatter particle pairs and DNA base-pairing (A-T, C-G) as evidence of binary structure analogous to bits in a simulation.",
+        "asserted_by_id": "person-riz-virk",
+        "source_video_id": "aKZ_MUbuk_Q",
+        "timestamp_start_seconds": 281,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-riz-virk",
+          "concept-simulation-hypothesis"
+        ]
+      }
+    },
+    {
+      "id": "claim-aKZ_MUbuk_Q-virk-jin-mandela-explanation",
+      "node_type": "claim",
+      "label": "Per a Sufi Imam Virk interviewed, the reason Quran must be memorized word-for-word is that 'jin' can",
+      "summary": "Per a Sufi Imam Virk interviewed, the reason Quran must be memorized word-for-word is that 'jin' can change physical objects (books, scripture) but not human memory — this explains Mandela-effect scripture changes.",
+      "tags": [
+        "hearsay",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.493319+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aKZ_MUbuk_Q",
+          "timestamp_start": 293,
+          "quote": "There are these entities out there who don't live in normal space and time the way we do. They can go back and change physical objects but they're not allowed to change our memory. Those beings are called jin."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Per a Sufi Imam Virk interviewed, the reason Quran must be memorized word-for-word is that 'jin' can change physical objects (books, scripture) but not human memory — this explains Mandela-effect scripture changes.",
+        "asserted_by_id": "person-riz-virk",
+        "source_video_id": "aKZ_MUbuk_Q",
+        "timestamp_start_seconds": 293,
+        "assertability": "hearsay",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-riz-virk",
+          "concept-mandela-effect",
+          "concept-jin-beings"
+        ]
+      }
+    },
+    {
+      "id": "claim-aKZ_MUbuk_Q-virk-render-only-observable",
+      "node_type": "claim",
+      "label": "Rendering optimization in 3D MMO RPG games — 'render only that which can be observed by the avatar' ",
+      "summary": "Rendering optimization in 3D MMO RPG games — 'render only that which can be observed by the avatar' — Virk uses this to explain quantum wave-function collapse upon observation.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.493327+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aKZ_MUbuk_Q",
+          "timestamp_start": 231,
+          "quote": "The rule of thumb in video games for 3D MMO RPGs is render only that which can be observed by the avatar."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Rendering optimization in 3D MMO RPG games — 'render only that which can be observed by the avatar' — Virk uses this to explain quantum wave-function collapse upon observation.",
+        "asserted_by_id": "person-riz-virk",
+        "source_video_id": "aKZ_MUbuk_Q",
+        "timestamp_start_seconds": 231,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-riz-virk",
+          "concept-simulation-hypothesis",
+          "concept-holographic-principle"
+        ]
+      }
     }
   ],
   "edges": [
@@ -1607,8 +2190,379 @@
           "timestamp_start": 0
         }
       ]
+    },
+    {
+      "id": "edge-person-riz-virk-ASSERTED-claim-aKZ_MUbuk_Q-virk-simulation-hypothesis",
+      "from_node_id": "person-riz-virk",
+      "to_node_id": "claim-aKZ_MUbuk_Q-virk-simulation-hypothesis",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aKZ_MUbuk_Q",
+          "timestamp_start": 259,
+          "quote": "Virk's central thesis: physical reality is best modeled as an informational simulation rendered 'just in time' for observers; physics (Wheeler's it-from-bit, quantum indeterminacy) supports this frami"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-aKZ_MUbuk_Q-REFERENCES-claim-aKZ_MUbuk_Q-virk-simulation-hypothesis",
+      "from_node_id": "video-aKZ_MUbuk_Q",
+      "to_node_id": "claim-aKZ_MUbuk_Q-virk-simulation-hypothesis",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aKZ_MUbuk_Q",
+          "timestamp_start": 259
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-aKZ_MUbuk_Q-virk-simulation-hypothesis-REFERENCES-person-john-wheeler",
+      "from_node_id": "claim-aKZ_MUbuk_Q-virk-simulation-hypothesis",
+      "to_node_id": "person-john-wheeler",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aKZ_MUbuk_Q",
+          "timestamp_start": 259
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-aKZ_MUbuk_Q-virk-simulation-hypothesis-REFERENCES-person-nick-bostrom",
+      "from_node_id": "claim-aKZ_MUbuk_Q-virk-simulation-hypothesis",
+      "to_node_id": "person-nick-bostrom",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aKZ_MUbuk_Q",
+          "timestamp_start": 259
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-aKZ_MUbuk_Q-virk-simulation-hypothesis-REFERENCES-concept-simulation-hypothesis",
+      "from_node_id": "claim-aKZ_MUbuk_Q-virk-simulation-hypothesis",
+      "to_node_id": "concept-simulation-hypothesis",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aKZ_MUbuk_Q",
+          "timestamp_start": 259
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-aKZ_MUbuk_Q-musk-one-in-billions-simulation",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-aKZ_MUbuk_Q-musk-one-in-billions-simulation",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aKZ_MUbuk_Q",
+          "timestamp_start": 255,
+          "quote": "Elon Musk has publicly stated the odds we're in base reality are 'one in billions' — aligning with the simulation hypothesis."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-aKZ_MUbuk_Q-REFERENCES-claim-aKZ_MUbuk_Q-musk-one-in-billions-simulation",
+      "from_node_id": "video-aKZ_MUbuk_Q",
+      "to_node_id": "claim-aKZ_MUbuk_Q-musk-one-in-billions-simulation",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aKZ_MUbuk_Q",
+          "timestamp_start": 255
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-aKZ_MUbuk_Q-musk-one-in-billions-simulation-REFERENCES-concept-simulation-hypothesis",
+      "from_node_id": "claim-aKZ_MUbuk_Q-musk-one-in-billions-simulation",
+      "to_node_id": "concept-simulation-hypothesis",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aKZ_MUbuk_Q",
+          "timestamp_start": 255
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-aKZ_MUbuk_Q-tyson-50-pct-simulation",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-aKZ_MUbuk_Q-tyson-50-pct-simulation",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aKZ_MUbuk_Q",
+          "timestamp_start": 257,
+          "quote": "Neil deGrasse Tyson has publicly accepted the simulation hypothesis is ~50% likely."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-aKZ_MUbuk_Q-REFERENCES-claim-aKZ_MUbuk_Q-tyson-50-pct-simulation",
+      "from_node_id": "video-aKZ_MUbuk_Q",
+      "to_node_id": "claim-aKZ_MUbuk_Q-tyson-50-pct-simulation",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aKZ_MUbuk_Q",
+          "timestamp_start": 257
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-aKZ_MUbuk_Q-tyson-50-pct-simulation-REFERENCES-person-neil-degrasse-tyson",
+      "from_node_id": "claim-aKZ_MUbuk_Q-tyson-50-pct-simulation",
+      "to_node_id": "person-neil-degrasse-tyson",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aKZ_MUbuk_Q",
+          "timestamp_start": 257
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-aKZ_MUbuk_Q-tyson-50-pct-simulation-REFERENCES-concept-simulation-hypothesis",
+      "from_node_id": "claim-aKZ_MUbuk_Q-tyson-50-pct-simulation",
+      "to_node_id": "concept-simulation-hypothesis",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aKZ_MUbuk_Q",
+          "timestamp_start": 257
+        }
+      ]
+    },
+    {
+      "id": "edge-person-riz-virk-ASSERTED-claim-aKZ_MUbuk_Q-virk-fibonacci-golden-ratio-code",
+      "from_node_id": "person-riz-virk",
+      "to_node_id": "claim-aKZ_MUbuk_Q-virk-fibonacci-golden-ratio-code",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aKZ_MUbuk_Q",
+          "timestamp_start": 275,
+          "quote": "Virk cites Fibonacci/Golden-Ratio patterns recurring across DNA dimensions, leaf arrangements, and galactic spiral arms as evidence of reused procedural code across biological and cosmological scales."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-aKZ_MUbuk_Q-REFERENCES-claim-aKZ_MUbuk_Q-virk-fibonacci-golden-ratio-code",
+      "from_node_id": "video-aKZ_MUbuk_Q",
+      "to_node_id": "claim-aKZ_MUbuk_Q-virk-fibonacci-golden-ratio-code",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aKZ_MUbuk_Q",
+          "timestamp_start": 275
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-aKZ_MUbuk_Q-virk-fibonacci-golden-ratio-code-REFERENCES-concept-simulation-hypothesis",
+      "from_node_id": "claim-aKZ_MUbuk_Q-virk-fibonacci-golden-ratio-code",
+      "to_node_id": "concept-simulation-hypothesis",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aKZ_MUbuk_Q",
+          "timestamp_start": 275
+        }
+      ]
+    },
+    {
+      "id": "edge-person-riz-virk-ASSERTED-claim-aKZ_MUbuk_Q-virk-binary-matter-antimatter",
+      "from_node_id": "person-riz-virk",
+      "to_node_id": "claim-aKZ_MUbuk_Q-virk-binary-matter-antimatter",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aKZ_MUbuk_Q",
+          "timestamp_start": 281,
+          "quote": "Virk points to matter/antimatter particle pairs and DNA base-pairing (A-T, C-G) as evidence of binary structure analogous to bits in a simulation."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-aKZ_MUbuk_Q-REFERENCES-claim-aKZ_MUbuk_Q-virk-binary-matter-antimatter",
+      "from_node_id": "video-aKZ_MUbuk_Q",
+      "to_node_id": "claim-aKZ_MUbuk_Q-virk-binary-matter-antimatter",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aKZ_MUbuk_Q",
+          "timestamp_start": 281
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-aKZ_MUbuk_Q-virk-binary-matter-antimatter-REFERENCES-concept-simulation-hypothesis",
+      "from_node_id": "claim-aKZ_MUbuk_Q-virk-binary-matter-antimatter",
+      "to_node_id": "concept-simulation-hypothesis",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aKZ_MUbuk_Q",
+          "timestamp_start": 281
+        }
+      ]
+    },
+    {
+      "id": "edge-person-riz-virk-ASSERTED-claim-aKZ_MUbuk_Q-virk-jin-mandela-explanation",
+      "from_node_id": "person-riz-virk",
+      "to_node_id": "claim-aKZ_MUbuk_Q-virk-jin-mandela-explanation",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aKZ_MUbuk_Q",
+          "timestamp_start": 293,
+          "quote": "Per a Sufi Imam Virk interviewed, the reason Quran must be memorized word-for-word is that 'jin' can change physical objects (books, scripture) but not human memory — this explains Mandela-effect scri"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-aKZ_MUbuk_Q-REFERENCES-claim-aKZ_MUbuk_Q-virk-jin-mandela-explanation",
+      "from_node_id": "video-aKZ_MUbuk_Q",
+      "to_node_id": "claim-aKZ_MUbuk_Q-virk-jin-mandela-explanation",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aKZ_MUbuk_Q",
+          "timestamp_start": 293
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-aKZ_MUbuk_Q-virk-jin-mandela-explanation-REFERENCES-concept-mandela-effect",
+      "from_node_id": "claim-aKZ_MUbuk_Q-virk-jin-mandela-explanation",
+      "to_node_id": "concept-mandela-effect",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aKZ_MUbuk_Q",
+          "timestamp_start": 293
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-aKZ_MUbuk_Q-virk-jin-mandela-explanation-REFERENCES-concept-jin-beings",
+      "from_node_id": "claim-aKZ_MUbuk_Q-virk-jin-mandela-explanation",
+      "to_node_id": "concept-jin-beings",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aKZ_MUbuk_Q",
+          "timestamp_start": 293
+        }
+      ]
+    },
+    {
+      "id": "edge-person-riz-virk-ASSERTED-claim-aKZ_MUbuk_Q-virk-render-only-observable",
+      "from_node_id": "person-riz-virk",
+      "to_node_id": "claim-aKZ_MUbuk_Q-virk-render-only-observable",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aKZ_MUbuk_Q",
+          "timestamp_start": 231,
+          "quote": "Rendering optimization in 3D MMO RPG games — 'render only that which can be observed by the avatar' — Virk uses this to explain quantum wave-function collapse upon observation."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-aKZ_MUbuk_Q-REFERENCES-claim-aKZ_MUbuk_Q-virk-render-only-observable",
+      "from_node_id": "video-aKZ_MUbuk_Q",
+      "to_node_id": "claim-aKZ_MUbuk_Q-virk-render-only-observable",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aKZ_MUbuk_Q",
+          "timestamp_start": 231
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-aKZ_MUbuk_Q-virk-render-only-observable-REFERENCES-concept-simulation-hypothesis",
+      "from_node_id": "claim-aKZ_MUbuk_Q-virk-render-only-observable",
+      "to_node_id": "concept-simulation-hypothesis",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aKZ_MUbuk_Q",
+          "timestamp_start": 231
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-aKZ_MUbuk_Q-virk-render-only-observable-REFERENCES-concept-holographic-principle",
+      "from_node_id": "claim-aKZ_MUbuk_Q-virk-render-only-observable",
+      "to_node_id": "concept-holographic-principle",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "aKZ_MUbuk_Q",
+          "timestamp_start": 231
+        }
+      ]
     }
   ],
-  "extracted_at": "2026-04-17T11:04:16.080083+00:00",
+  "extracted_at": "2026-04-17T12:31:49.493334+00:00",
   "extractor_version": "v1-inline-claude"
 }

@@ -790,6 +790,377 @@
           "video-y_8IKKcTntQ"
         ]
       }
+    },
+    {
+      "id": "person-james-valor",
+      "node_type": "person",
+      "label": "James Valor",
+      "summary": "Retired US Army sergeant major (23 years government service, 2020 retirement); lead operations of Skywatcher UAP detection startup; worked with Jake Barber and Ross Coulthart.",
+      "tags": [
+        "military",
+        "entrepreneur"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.006084+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "y_8IKKcTntQ",
+          "timestamp_start": 467,
+          "quote": "Skywatcher lead operations; retired USAF sergeant major"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Valor"
+        ],
+        "profession": "military veteran / entrepreneur",
+        "notability_tags": [
+          "military",
+          "entrepreneur"
+        ]
+      }
+    },
+    {
+      "id": "person-mr-k-skywatcher",
+      "node_type": "person",
+      "label": "Mr. K (Skywatcher physicist)",
+      "summary": "Anonymous Skywatcher co-pioneer; physicist who builds jet engines, flamethrowers, and hot rods; first discovered the UAPs over their 2021 war-game location and the 'dog whistle' mechanism.",
+      "tags": [
+        "scientist",
+        "anonymous"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.006087+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "y_8IKKcTntQ",
+          "timestamp_start": 481,
+          "quote": "Skywatcher pioneer; physicist working on jet engines and hot rods"
+        }
+      ],
+      "type_specific": {
+        "aliases": [],
+        "profession": "physicist / engineer",
+        "notability_tags": [
+          "scientist",
+          "anonymous"
+        ]
+      }
+    },
+    {
+      "id": "person-mr-d-skywatcher",
+      "node_type": "person",
+      "label": "Mr. D (Skywatcher signals)",
+      "summary": "Anonymous Skywatcher co-pioneer; discovered how to detect UAP craft signals via direction-finding and cueing optical cameras to locate them.",
+      "tags": [
+        "scientist",
+        "anonymous"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.006089+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "y_8IKKcTntQ",
+          "timestamp_start": 485,
+          "quote": "Skywatcher pioneer; signals-detection discovery"
+        }
+      ],
+      "type_specific": {
+        "aliases": [],
+        "profession": "signals engineer",
+        "notability_tags": [
+          "scientist",
+          "anonymous"
+        ]
+      }
+    },
+    {
+      "id": "concept-uap-dog-whistle",
+      "node_type": "concept",
+      "label": "UAP Dog Whistle",
+      "summary": "Skywatcher's central technology: a signal emission that reliably attracts UAP presence at their location; 'after we turn on the dog whistle, UAPs literally come to us day after day.' Origin discovered by Skywatcher co-pioneer Mr. K.",
+      "tags": [
+        "technology"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.006093+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "y_8IKKcTntQ",
+          "timestamp_start": 457,
+          "timestamp_end": "Skywatcher technology that reliably summons UAPs"
+        }
+      ],
+      "type_specific": {
+        "concept_domain": "technology"
+      }
+    },
+    {
+      "id": "concept-nine-uap-classes",
+      "node_type": "concept",
+      "label": "Skywatcher UAP Taxonomy (9 Classes)",
+      "summary": "Skywatcher's proposed 9-class UAP taxonomy spanning characteristics like shimmer, tumble, spin, apparent-alive-flight, black-body, vapor-sheath, and metallic-glinty morphologies.",
+      "tags": [
+        "physics"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.006095+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "y_8IKKcTntQ",
+          "timestamp_start": 471,
+          "timestamp_end": "Skywatcher's proposed 9-class UAP taxonomy"
+        }
+      ],
+      "type_specific": {
+        "concept_domain": "physics"
+      }
+    },
+    {
+      "id": "technology-class-one-tetrahedron",
+      "node_type": "technology",
+      "label": "Class-1 Tetrahedron UAP",
+      "summary": "Skywatcher class-1 UAP: tumbling/spinning high-speed black-bodied tetrahedron wearing a low/high-pressure vapor sheath that reflects sunlight. First sighting was a formation of seven during a 2021 government war-game.",
+      "tags": [
+        "craft"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.006097+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "y_8IKKcTntQ",
+          "timestamp_start": 503,
+          "timestamp_end": "Skywatcher's first-documented UAP class; tumbling black-body tetrahedron"
+        }
+      ],
+      "type_specific": {
+        "technology_type": "craft"
+      }
+    },
+    {
+      "id": "claim-y_8IKKcTntQ-skywatcher-origin-2021-wargame",
+      "node_type": "claim",
+      "label": "Skywatcher's UAP discovery occurred by accident during a 2021 DoD-contracted war-game event; a forma",
+      "summary": "Skywatcher's UAP discovery occurred by accident during a 2021 DoD-contracted war-game event; a formation of 7 Class-1 tetrahedral UAPs was observed over the blue/red-team exercise.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.025620+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "y_8IKKcTntQ",
+          "timestamp_start": 477,
+          "quote": "At one of those war game events in 2021, we had an observation. It turned out to be class one UAPs. We originally thought that was a government made, US government made tool."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Skywatcher's UAP discovery occurred by accident during a 2021 DoD-contracted war-game event; a formation of 7 Class-1 tetrahedral UAPs was observed over the blue/red-team exercise.",
+        "asserted_by_id": "person-james-valor",
+        "source_video_id": "y_8IKKcTntQ",
+        "timestamp_start_seconds": 477,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-james-valor",
+          "technology-class-one-tetrahedron",
+          "concept-nine-uap-classes"
+        ]
+      }
+    },
+    {
+      "id": "claim-y_8IKKcTntQ-skywatcher-dog-whistle-summoning",
+      "node_type": "claim",
+      "label": "Skywatcher's 'dog whistle' technology reliably summons UAPs at their location day after day; their s",
+      "summary": "Skywatcher's 'dog whistle' technology reliably summons UAPs at their location day after day; their sonic-lead Jordan predicts the class and conflict of next-day sightings.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.025638+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "y_8IKKcTntQ",
+          "timestamp_start": 457,
+          "quote": "After we turn on the dog whistle, UAPs literally come to us day after day. Jordan our sonic lead came up to me like, tomorrow we're going to see a conflict in the sky."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Skywatcher's 'dog whistle' technology reliably summons UAPs at their location day after day; their sonic-lead Jordan predicts the class and conflict of next-day sightings.",
+        "asserted_by_id": "person-james-valor",
+        "source_video_id": "y_8IKKcTntQ",
+        "timestamp_start_seconds": 457,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-james-valor",
+          "concept-uap-dog-whistle",
+          "concept-nine-uap-classes"
+        ]
+      }
+    },
+    {
+      "id": "claim-y_8IKKcTntQ-skywatcher-class-7-visual-purple",
+      "node_type": "claim",
+      "label": "Skywatcher observed a Class-7 UAP with the naked eye hovering directly overhead — 'very glinty, look",
+      "summary": "Skywatcher observed a Class-7 UAP with the naked eye hovering directly overhead — 'very glinty, looked metallic', purple or black through optics, with chrome-like reflections.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.025646+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "y_8IKKcTntQ",
+          "timestamp_start": 489,
+          "quote": "We had a class 7 UAP. Before the helo got here it came and hovered right over us. For the first time we saw a class 7 with a naked eye. It was very glinty, looked metallic."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Skywatcher observed a Class-7 UAP with the naked eye hovering directly overhead — 'very glinty, looked metallic', purple or black through optics, with chrome-like reflections.",
+        "asserted_by_id": "person-james-valor",
+        "source_video_id": "y_8IKKcTntQ",
+        "timestamp_start_seconds": 489,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-james-valor",
+          "concept-nine-uap-classes"
+        ]
+      }
+    },
+    {
+      "id": "claim-y_8IKKcTntQ-skywatcher-hit-with-energy-weapon",
+      "node_type": "claim",
+      "label": "A Skywatcher helicopter pursuing a Class-7 UAP was struck by an 'energy weapon' from the UAP mid-tur",
+      "summary": "A Skywatcher helicopter pursuing a Class-7 UAP was struck by an 'energy weapon' from the UAP mid-turn before the helicopter could orient toward it.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.025653+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "y_8IKKcTntQ",
+          "timestamp_start": 467,
+          "quote": "Mid-turn before he could actually turn it to the UAP, the UAP hit us with an energy weapon."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "A Skywatcher helicopter pursuing a Class-7 UAP was struck by an 'energy weapon' from the UAP mid-turn before the helicopter could orient toward it.",
+        "asserted_by_id": "person-james-valor",
+        "source_video_id": "y_8IKKcTntQ",
+        "timestamp_start_seconds": 467,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-james-valor",
+          "concept-nine-uap-classes"
+        ]
+      }
+    },
+    {
+      "id": "claim-y_8IKKcTntQ-skywatcher-barber-collaboration",
+      "node_type": "claim",
+      "label": "Skywatcher's origin and operations overlap with Jake Barber's retrieval program; Coulthart publicly ",
+      "summary": "Skywatcher's origin and operations overlap with Jake Barber's retrieval program; Coulthart publicly disclosed Skywatcher's existence in his Barber interview.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.025659+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "y_8IKKcTntQ",
+          "timestamp_start": 469,
+          "quote": "A mutual friend Jake Barber who gave me the honor of helping tell his story after Ross Coulthart came out as the first person to retrieve this craft of non-human origin. He mentioned he had this private enterprise he was working on called Skywatcher."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Skywatcher's origin and operations overlap with Jake Barber's retrieval program; Coulthart publicly disclosed Skywatcher's existence in his Barber interview.",
+        "asserted_by_id": "person-james-valor",
+        "source_video_id": "y_8IKKcTntQ",
+        "timestamp_start_seconds": 469,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-james-valor",
+          "person-jake-barber",
+          "person-ross-coulthart"
+        ]
+      }
+    },
+    {
+      "id": "claim-y_8IKKcTntQ-skywatcher-detection-spectrum-gap",
+      "node_type": "claim",
+      "label": "Skywatcher confirms UAPs are emitting in narrow spectral bands that electro-optical sensors cannot s",
+      "summary": "Skywatcher confirms UAPs are emitting in narrow spectral bands that electro-optical sensors cannot see natively but cued cameras can — explaining 'UAPs visible on radar but invisible to naked eye.'",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.025667+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "y_8IKKcTntQ",
+          "timestamp_start": 459,
+          "quote": "That little bit of extra is where they're actually emitting light. We have three spectrums and we see them on radar. We're sitting there with binoculars and can't see them."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Skywatcher confirms UAPs are emitting in narrow spectral bands that electro-optical sensors cannot see natively but cued cameras can — explaining 'UAPs visible on radar but invisible to naked eye.'",
+        "asserted_by_id": "person-james-valor",
+        "source_video_id": "y_8IKKcTntQ",
+        "timestamp_start_seconds": 459,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-james-valor",
+          "concept-nine-uap-classes"
+        ]
+      }
     }
   ],
   "edges": [
@@ -1244,8 +1615,308 @@
           "timestamp_start": 0
         }
       ]
+    },
+    {
+      "id": "edge-person-james-valor-ASSERTED-claim-y_8IKKcTntQ-skywatcher-origin-2021-wargame",
+      "from_node_id": "person-james-valor",
+      "to_node_id": "claim-y_8IKKcTntQ-skywatcher-origin-2021-wargame",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "y_8IKKcTntQ",
+          "timestamp_start": 477,
+          "quote": "Skywatcher's UAP discovery occurred by accident during a 2021 DoD-contracted war-game event; a formation of 7 Class-1 tetrahedral UAPs was observed over the blue/red-team exercise."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-y_8IKKcTntQ-REFERENCES-claim-y_8IKKcTntQ-skywatcher-origin-2021-wargame",
+      "from_node_id": "video-y_8IKKcTntQ",
+      "to_node_id": "claim-y_8IKKcTntQ-skywatcher-origin-2021-wargame",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "y_8IKKcTntQ",
+          "timestamp_start": 477
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-y_8IKKcTntQ-skywatcher-origin-2021-wargame-REFERENCES-technology-class-one-tetrahedron",
+      "from_node_id": "claim-y_8IKKcTntQ-skywatcher-origin-2021-wargame",
+      "to_node_id": "technology-class-one-tetrahedron",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "y_8IKKcTntQ",
+          "timestamp_start": 477
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-y_8IKKcTntQ-skywatcher-origin-2021-wargame-REFERENCES-concept-nine-uap-classes",
+      "from_node_id": "claim-y_8IKKcTntQ-skywatcher-origin-2021-wargame",
+      "to_node_id": "concept-nine-uap-classes",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "y_8IKKcTntQ",
+          "timestamp_start": 477
+        }
+      ]
+    },
+    {
+      "id": "edge-person-james-valor-ASSERTED-claim-y_8IKKcTntQ-skywatcher-dog-whistle-summoning",
+      "from_node_id": "person-james-valor",
+      "to_node_id": "claim-y_8IKKcTntQ-skywatcher-dog-whistle-summoning",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "y_8IKKcTntQ",
+          "timestamp_start": 457,
+          "quote": "Skywatcher's 'dog whistle' technology reliably summons UAPs at their location day after day; their sonic-lead Jordan predicts the class and conflict of next-day sightings."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-y_8IKKcTntQ-REFERENCES-claim-y_8IKKcTntQ-skywatcher-dog-whistle-summoning",
+      "from_node_id": "video-y_8IKKcTntQ",
+      "to_node_id": "claim-y_8IKKcTntQ-skywatcher-dog-whistle-summoning",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "y_8IKKcTntQ",
+          "timestamp_start": 457
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-y_8IKKcTntQ-skywatcher-dog-whistle-summoning-REFERENCES-concept-uap-dog-whistle",
+      "from_node_id": "claim-y_8IKKcTntQ-skywatcher-dog-whistle-summoning",
+      "to_node_id": "concept-uap-dog-whistle",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "y_8IKKcTntQ",
+          "timestamp_start": 457
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-y_8IKKcTntQ-skywatcher-dog-whistle-summoning-REFERENCES-concept-nine-uap-classes",
+      "from_node_id": "claim-y_8IKKcTntQ-skywatcher-dog-whistle-summoning",
+      "to_node_id": "concept-nine-uap-classes",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "y_8IKKcTntQ",
+          "timestamp_start": 457
+        }
+      ]
+    },
+    {
+      "id": "edge-person-james-valor-ASSERTED-claim-y_8IKKcTntQ-skywatcher-class-7-visual-purple",
+      "from_node_id": "person-james-valor",
+      "to_node_id": "claim-y_8IKKcTntQ-skywatcher-class-7-visual-purple",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "y_8IKKcTntQ",
+          "timestamp_start": 489,
+          "quote": "Skywatcher observed a Class-7 UAP with the naked eye hovering directly overhead — 'very glinty, looked metallic', purple or black through optics, with chrome-like reflections."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-y_8IKKcTntQ-REFERENCES-claim-y_8IKKcTntQ-skywatcher-class-7-visual-purple",
+      "from_node_id": "video-y_8IKKcTntQ",
+      "to_node_id": "claim-y_8IKKcTntQ-skywatcher-class-7-visual-purple",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "y_8IKKcTntQ",
+          "timestamp_start": 489
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-y_8IKKcTntQ-skywatcher-class-7-visual-purple-REFERENCES-concept-nine-uap-classes",
+      "from_node_id": "claim-y_8IKKcTntQ-skywatcher-class-7-visual-purple",
+      "to_node_id": "concept-nine-uap-classes",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "y_8IKKcTntQ",
+          "timestamp_start": 489
+        }
+      ]
+    },
+    {
+      "id": "edge-person-james-valor-ASSERTED-claim-y_8IKKcTntQ-skywatcher-hit-with-energy-weapon",
+      "from_node_id": "person-james-valor",
+      "to_node_id": "claim-y_8IKKcTntQ-skywatcher-hit-with-energy-weapon",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "y_8IKKcTntQ",
+          "timestamp_start": 467,
+          "quote": "A Skywatcher helicopter pursuing a Class-7 UAP was struck by an 'energy weapon' from the UAP mid-turn before the helicopter could orient toward it."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-y_8IKKcTntQ-REFERENCES-claim-y_8IKKcTntQ-skywatcher-hit-with-energy-weapon",
+      "from_node_id": "video-y_8IKKcTntQ",
+      "to_node_id": "claim-y_8IKKcTntQ-skywatcher-hit-with-energy-weapon",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "y_8IKKcTntQ",
+          "timestamp_start": 467
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-y_8IKKcTntQ-skywatcher-hit-with-energy-weapon-REFERENCES-concept-nine-uap-classes",
+      "from_node_id": "claim-y_8IKKcTntQ-skywatcher-hit-with-energy-weapon",
+      "to_node_id": "concept-nine-uap-classes",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "y_8IKKcTntQ",
+          "timestamp_start": 467
+        }
+      ]
+    },
+    {
+      "id": "edge-person-james-valor-ASSERTED-claim-y_8IKKcTntQ-skywatcher-barber-collaboration",
+      "from_node_id": "person-james-valor",
+      "to_node_id": "claim-y_8IKKcTntQ-skywatcher-barber-collaboration",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "y_8IKKcTntQ",
+          "timestamp_start": 469,
+          "quote": "Skywatcher's origin and operations overlap with Jake Barber's retrieval program; Coulthart publicly disclosed Skywatcher's existence in his Barber interview."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-y_8IKKcTntQ-REFERENCES-claim-y_8IKKcTntQ-skywatcher-barber-collaboration",
+      "from_node_id": "video-y_8IKKcTntQ",
+      "to_node_id": "claim-y_8IKKcTntQ-skywatcher-barber-collaboration",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "y_8IKKcTntQ",
+          "timestamp_start": 469
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-y_8IKKcTntQ-skywatcher-barber-collaboration-REFERENCES-person-jake-barber",
+      "from_node_id": "claim-y_8IKKcTntQ-skywatcher-barber-collaboration",
+      "to_node_id": "person-jake-barber",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "y_8IKKcTntQ",
+          "timestamp_start": 469
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-y_8IKKcTntQ-skywatcher-barber-collaboration-REFERENCES-person-ross-coulthart",
+      "from_node_id": "claim-y_8IKKcTntQ-skywatcher-barber-collaboration",
+      "to_node_id": "person-ross-coulthart",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "y_8IKKcTntQ",
+          "timestamp_start": 469
+        }
+      ]
+    },
+    {
+      "id": "edge-person-james-valor-ASSERTED-claim-y_8IKKcTntQ-skywatcher-detection-spectrum-gap",
+      "from_node_id": "person-james-valor",
+      "to_node_id": "claim-y_8IKKcTntQ-skywatcher-detection-spectrum-gap",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "y_8IKKcTntQ",
+          "timestamp_start": 459,
+          "quote": "Skywatcher confirms UAPs are emitting in narrow spectral bands that electro-optical sensors cannot see natively but cued cameras can — explaining 'UAPs visible on radar but invisible to naked eye.'"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-y_8IKKcTntQ-REFERENCES-claim-y_8IKKcTntQ-skywatcher-detection-spectrum-gap",
+      "from_node_id": "video-y_8IKKcTntQ",
+      "to_node_id": "claim-y_8IKKcTntQ-skywatcher-detection-spectrum-gap",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "y_8IKKcTntQ",
+          "timestamp_start": 459
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-y_8IKKcTntQ-skywatcher-detection-spectrum-gap-REFERENCES-concept-nine-uap-classes",
+      "from_node_id": "claim-y_8IKKcTntQ-skywatcher-detection-spectrum-gap",
+      "to_node_id": "concept-nine-uap-classes",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "y_8IKKcTntQ",
+          "timestamp_start": 459
+        }
+      ]
     }
   ],
-  "extracted_at": "2026-04-17T11:04:25.677122+00:00",
+  "extracted_at": "2026-04-17T12:49:16.025677+00:00",
   "extractor_version": "v1-inline-claude"
 }

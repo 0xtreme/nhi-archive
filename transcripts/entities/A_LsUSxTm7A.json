@@ -978,6 +978,418 @@
           "video-A_LsUSxTm7A"
         ]
       }
+    },
+    {
+      "id": "person-matt-lacroix",
+      "node_type": "person",
+      "label": "Matt LaCroix",
+      "summary": "American researcher and author focused on lost ice-age civilizations; builds on Hancock's Younger-Dryas framework with specific civilization-identification research including Sphinx, Giza subterranean complexes, and Mesopotamian parallels.",
+      "tags": [
+        "researcher",
+        "author"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.485735+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "A_LsUSxTm7A",
+          "timestamp_start": 679,
+          "quote": "Author and researcher of lost civilizations"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "LaCroix",
+          "Matt lroy"
+        ],
+        "profession": "researcher / author",
+        "notability_tags": [
+          "researcher",
+          "author"
+        ]
+      }
+    },
+    {
+      "id": "person-robert-schoch",
+      "node_type": "person",
+      "label": "Robert Schoch",
+      "summary": "Boston University geologist; established the Sphinx water-erosion thesis (vs. wind erosion) in 1991, forcing a re-dating of the Sphinx to the pre-dynastic era.",
+      "tags": [
+        "scientist",
+        "geologist"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.485739+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "A_LsUSxTm7A",
+          "timestamp_start": 691,
+          "quote": "Boston University geologist; Sphinx water-erosion theorist"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Schoch",
+          "Dr. Robert Schoch"
+        ],
+        "profession": "geologist",
+        "notability_tags": [
+          "scientist",
+          "geologist"
+        ]
+      }
+    },
+    {
+      "id": "person-john-anthony-west",
+      "node_type": "person",
+      "label": "John Anthony West",
+      "summary": "Independent Egyptologist who in 1991 recruited Robert Schoch to investigate the Sphinx enclosure water-erosion hypothesis.",
+      "tags": [
+        "researcher",
+        "historical"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.485741+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "A_LsUSxTm7A",
+          "timestamp_start": 691,
+          "quote": "Egyptologist who recruited Schoch to investigate the Sphinx enclosure"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "John A. West"
+        ],
+        "profession": "egyptologist",
+        "notability_tags": [
+          "researcher",
+          "historical"
+        ]
+      }
+    },
+    {
+      "id": "person-edgar-cayce",
+      "node_type": "person",
+      "label": "Edgar Cayce",
+      "summary": "Early-20th-century American psychic; predicted an 'ancient library' or Hall of Records beneath the Sphinx — the 'Halls of Amenti'.",
+      "tags": [
+        "historical",
+        "psychic"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.485746+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "A_LsUSxTm7A",
+          "timestamp_start": 711,
+          "quote": "American psychic who predicted the Halls of Amenti under the Sphinx"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Cayce"
+        ],
+        "profession": "psychic / healer",
+        "notability_tags": [
+          "historical",
+          "psychic"
+        ]
+      }
+    },
+    {
+      "id": "concept-sphinx-water-erosion",
+      "node_type": "concept",
+      "label": "Sphinx Water Erosion Hypothesis",
+      "summary": "Robert Schoch's hypothesis that erosion on the Sphinx enclosure is water-caused rather than wind-caused — implying construction during a wet climatic period pushing the Sphinx's date back thousands of years to pre-dynastic Egypt.",
+      "tags": [
+        "physics"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.485748+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "A_LsUSxTm7A",
+          "timestamp_start": 691,
+          "timestamp_end": "Water-erosion pattern on the Sphinx enclosure"
+        }
+      ],
+      "type_specific": {
+        "concept_domain": "physics"
+      }
+    },
+    {
+      "id": "location-giza-plateau",
+      "node_type": "location",
+      "label": "Giza Plateau / Egypt",
+      "summary": "",
+      "tags": [
+        "region"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.485750+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "A_LsUSxTm7A",
+          "timestamp_start": 675,
+          "timestamp_end": "Sphinx, pyramids, and subterranean void complex"
+        }
+      ],
+      "type_specific": {
+        "location_type": "region",
+        "country": "EG"
+      }
+    },
+    {
+      "id": "concept-halls-of-amenti",
+      "node_type": "concept",
+      "label": "Halls of Amenti / Hall of Records",
+      "summary": "Alleged ancient library system beneath the Giza Sphinx, referenced by Edgar Cayce and supported by 1990s sonar/ground-penetrating-radar readings showing large voids with discrete objects.",
+      "tags": [
+        "metaphysics"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.485752+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "A_LsUSxTm7A",
+          "timestamp_start": 711,
+          "timestamp_end": "Alleged ancient library beneath the Sphinx"
+        }
+      ],
+      "type_specific": {
+        "concept_domain": "metaphysics"
+      }
+    },
+    {
+      "id": "claim-A_LsUSxTm7A-schoch-sphinx-water-erosion",
+      "node_type": "claim",
+      "label": "Robert Schoch established (1991 with John Anthony West) that the Sphinx enclosure shows water-erosio",
+      "summary": "Robert Schoch established (1991 with John Anthony West) that the Sphinx enclosure shows water-erosion patterns inconsistent with dynastic-era dating — implying Sphinx construction during a wet climate ~10,500 BCE.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.509279+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "A_LsUSxTm7A",
+          "timestamp_start": 693,
+          "quote": "Dr Robert Schoch is one of the main players that was brought over by John Anthony West to go investigate the Sphinx enclosure to see if it is truly wind erosion or whether or not it's really water erosion."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Robert Schoch established (1991 with John Anthony West) that the Sphinx enclosure shows water-erosion patterns inconsistent with dynastic-era dating — implying Sphinx construction during a wet climate ~10,500 BCE.",
+        "asserted_by_id": "person-matt-lacroix",
+        "source_video_id": "A_LsUSxTm7A",
+        "timestamp_start_seconds": 693,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-matt-lacroix",
+          "person-robert-schoch",
+          "person-john-anthony-west",
+          "concept-sphinx-water-erosion"
+        ]
+      }
+    },
+    {
+      "id": "claim-A_LsUSxTm7A-giza-subterranean-voids",
+      "node_type": "claim",
+      "label": "1990s sonar/ground-penetrating-radar readings (led by Schoch's team) documented large subterranean v",
+      "summary": "1990s sonar/ground-penetrating-radar readings (led by Schoch's team) documented large subterranean voids with discrete cut objects beneath the Sphinx and Great Pyramids — four entrances identified on the Sphinx itself.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.509294+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "A_LsUSxTm7A",
+          "timestamp_start": 707,
+          "quote": "In the 90s they found these massive voids and it's not just under the Sphinx it's under the Great Pyramids as well. They all connect with these subterranean underworld type of areas. Four entrances under the Sphinx — one under the left paw, one on the top of the head."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "1990s sonar/ground-penetrating-radar readings (led by Schoch's team) documented large subterranean voids with discrete cut objects beneath the Sphinx and Great Pyramids — four entrances identified on the Sphinx itself.",
+        "asserted_by_id": "person-matt-lacroix",
+        "source_video_id": "A_LsUSxTm7A",
+        "timestamp_start_seconds": 707,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-matt-lacroix",
+          "person-robert-schoch",
+          "location-giza-plateau",
+          "concept-halls-of-amenti"
+        ]
+      }
+    },
+    {
+      "id": "claim-A_LsUSxTm7A-egypt-ministry-drilling-misdirection",
+      "node_type": "claim",
+      "label": "Per LaCroix: after the 1990s void findings became public, Egyptian authorities boarded over the Sphi",
+      "summary": "Per LaCroix: after the 1990s void findings became public, Egyptian authorities boarded over the Sphinx's paw entrance and conducted misleading drill-tests in locations that were NOT void locations — producing a 'no voids here' disinformation narrative.",
+      "tags": [
+        "speculation",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.509303+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "A_LsUSxTm7A",
+          "timestamp_start": 721,
+          "quote": "The Egyptian authorities came through and they boarded up the front of the Paw with boards. They ended up drilling down to prove to the public that there was no voids but they purposely went where that wasn't entrances."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Per LaCroix: after the 1990s void findings became public, Egyptian authorities boarded over the Sphinx's paw entrance and conducted misleading drill-tests in locations that were NOT void locations — producing a 'no voids here' disinformation narrative.",
+        "asserted_by_id": "person-matt-lacroix",
+        "source_video_id": "A_LsUSxTm7A",
+        "timestamp_start_seconds": 721,
+        "assertability": "speculation",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-matt-lacroix",
+          "location-giza-plateau"
+        ]
+      }
+    },
+    {
+      "id": "claim-A_LsUSxTm7A-sphinx-head-disproportion-relion",
+      "node_type": "claim",
+      "label": "LaCroix asserts the Sphinx's head is disproportionately small to its body because it was originally ",
+      "summary": "LaCroix asserts the Sphinx's head is disproportionately small to its body because it was originally a lion (aligned with the 10,500 BCE Leo vernal equinox) — dynastic Egyptians later recarved the head into the pharaonic likeness.",
+      "tags": [
+        "speculation",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.509310+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "A_LsUSxTm7A",
+          "timestamp_start": 699,
+          "quote": "I believe 100% that if you look at the way the body of the Sphinx is versus the head, the head's too small. I believe as well it was a lion."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "LaCroix asserts the Sphinx's head is disproportionately small to its body because it was originally a lion (aligned with the 10,500 BCE Leo vernal equinox) — dynastic Egyptians later recarved the head into the pharaonic likeness.",
+        "asserted_by_id": "person-matt-lacroix",
+        "source_video_id": "A_LsUSxTm7A",
+        "timestamp_start_seconds": 699,
+        "assertability": "speculation",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-matt-lacroix",
+          "concept-sphinx-water-erosion"
+        ]
+      }
+    },
+    {
+      "id": "claim-A_LsUSxTm7A-pink-granite-500-miles-silica",
+      "node_type": "claim",
+      "label": "LaCroix notes pink granite found throughout the Giza Plateau was transported from 500 miles away (As",
+      "summary": "LaCroix notes pink granite found throughout the Giza Plateau was transported from 500 miles away (Aswan Quarry) — this silica-quartz specificity may be intentional because quartz has information-storage potential; proposes lost-tech encoded recording in stone.",
+      "tags": [
+        "speculation",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.509320+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "A_LsUSxTm7A",
+          "timestamp_start": 735,
+          "quote": "All the pink granite we find throughout the Giza Plateau came from 500 miles away in the Aswan Quarry. That type of pink granite is extremely high in silica quartz — the same substance we use for watches. Is there something there with keeping recording messages?"
+        }
+      ],
+      "type_specific": {
+        "statement_text": "LaCroix notes pink granite found throughout the Giza Plateau was transported from 500 miles away (Aswan Quarry) — this silica-quartz specificity may be intentional because quartz has information-storage potential; proposes lost-tech encoded recording in stone.",
+        "asserted_by_id": "person-matt-lacroix",
+        "source_video_id": "A_LsUSxTm7A",
+        "timestamp_start_seconds": 735,
+        "assertability": "speculation",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-matt-lacroix",
+          "location-giza-plateau"
+        ]
+      }
+    },
+    {
+      "id": "claim-A_LsUSxTm7A-lacroix-atlantis-sealed-by-flood",
+      "node_type": "claim",
+      "label": "LaCroix's framing: the Atlantis myth refers to the civilization whose subterranean cities at Giza we",
+      "summary": "LaCroix's framing: the Atlantis myth refers to the civilization whose subterranean cities at Giza were sealed and buried by the Younger-Dryas flood.",
+      "tags": [
+        "speculation",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.509327+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "A_LsUSxTm7A",
+          "timestamp_start": 677,
+          "quote": "It was sealed and buried and concealed by the flood. I think this is what we call Atlantis — I would say that it's what we're looking for, the lost civilizations."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "LaCroix's framing: the Atlantis myth refers to the civilization whose subterranean cities at Giza were sealed and buried by the Younger-Dryas flood.",
+        "asserted_by_id": "person-matt-lacroix",
+        "source_video_id": "A_LsUSxTm7A",
+        "timestamp_start_seconds": 677,
+        "assertability": "speculation",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-matt-lacroix",
+          "concept-younger-dryas-impact",
+          "concept-halls-of-amenti"
+        ]
+      }
     }
   ],
   "edges": [
@@ -1492,8 +1904,336 @@
           "timestamp_start": 0
         }
       ]
+    },
+    {
+      "id": "edge-person-matt-lacroix-ASSERTED-claim-A_LsUSxTm7A-schoch-sphinx-water-erosion",
+      "from_node_id": "person-matt-lacroix",
+      "to_node_id": "claim-A_LsUSxTm7A-schoch-sphinx-water-erosion",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "A_LsUSxTm7A",
+          "timestamp_start": 693,
+          "quote": "Robert Schoch established (1991 with John Anthony West) that the Sphinx enclosure shows water-erosion patterns inconsistent with dynastic-era dating — implying Sphinx construction during a wet climate"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-A_LsUSxTm7A-REFERENCES-claim-A_LsUSxTm7A-schoch-sphinx-water-erosion",
+      "from_node_id": "video-A_LsUSxTm7A",
+      "to_node_id": "claim-A_LsUSxTm7A-schoch-sphinx-water-erosion",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "A_LsUSxTm7A",
+          "timestamp_start": 693
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-A_LsUSxTm7A-schoch-sphinx-water-erosion-REFERENCES-person-robert-schoch",
+      "from_node_id": "claim-A_LsUSxTm7A-schoch-sphinx-water-erosion",
+      "to_node_id": "person-robert-schoch",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "A_LsUSxTm7A",
+          "timestamp_start": 693
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-A_LsUSxTm7A-schoch-sphinx-water-erosion-REFERENCES-person-john-anthony-west",
+      "from_node_id": "claim-A_LsUSxTm7A-schoch-sphinx-water-erosion",
+      "to_node_id": "person-john-anthony-west",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "A_LsUSxTm7A",
+          "timestamp_start": 693
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-A_LsUSxTm7A-schoch-sphinx-water-erosion-REFERENCES-concept-sphinx-water-erosion",
+      "from_node_id": "claim-A_LsUSxTm7A-schoch-sphinx-water-erosion",
+      "to_node_id": "concept-sphinx-water-erosion",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "A_LsUSxTm7A",
+          "timestamp_start": 693
+        }
+      ]
+    },
+    {
+      "id": "edge-person-matt-lacroix-ASSERTED-claim-A_LsUSxTm7A-giza-subterranean-voids",
+      "from_node_id": "person-matt-lacroix",
+      "to_node_id": "claim-A_LsUSxTm7A-giza-subterranean-voids",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "A_LsUSxTm7A",
+          "timestamp_start": 707,
+          "quote": "1990s sonar/ground-penetrating-radar readings (led by Schoch's team) documented large subterranean voids with discrete cut objects beneath the Sphinx and Great Pyramids — four entrances identified on "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-A_LsUSxTm7A-REFERENCES-claim-A_LsUSxTm7A-giza-subterranean-voids",
+      "from_node_id": "video-A_LsUSxTm7A",
+      "to_node_id": "claim-A_LsUSxTm7A-giza-subterranean-voids",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "A_LsUSxTm7A",
+          "timestamp_start": 707
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-A_LsUSxTm7A-giza-subterranean-voids-REFERENCES-person-robert-schoch",
+      "from_node_id": "claim-A_LsUSxTm7A-giza-subterranean-voids",
+      "to_node_id": "person-robert-schoch",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "A_LsUSxTm7A",
+          "timestamp_start": 707
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-A_LsUSxTm7A-giza-subterranean-voids-REFERENCES-location-giza-plateau",
+      "from_node_id": "claim-A_LsUSxTm7A-giza-subterranean-voids",
+      "to_node_id": "location-giza-plateau",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "A_LsUSxTm7A",
+          "timestamp_start": 707
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-A_LsUSxTm7A-giza-subterranean-voids-REFERENCES-concept-halls-of-amenti",
+      "from_node_id": "claim-A_LsUSxTm7A-giza-subterranean-voids",
+      "to_node_id": "concept-halls-of-amenti",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "A_LsUSxTm7A",
+          "timestamp_start": 707
+        }
+      ]
+    },
+    {
+      "id": "edge-person-matt-lacroix-ASSERTED-claim-A_LsUSxTm7A-egypt-ministry-drilling-misdirection",
+      "from_node_id": "person-matt-lacroix",
+      "to_node_id": "claim-A_LsUSxTm7A-egypt-ministry-drilling-misdirection",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "A_LsUSxTm7A",
+          "timestamp_start": 721,
+          "quote": "Per LaCroix: after the 1990s void findings became public, Egyptian authorities boarded over the Sphinx's paw entrance and conducted misleading drill-tests in locations that were NOT void locations — p"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-A_LsUSxTm7A-REFERENCES-claim-A_LsUSxTm7A-egypt-ministry-drilling-misdirection",
+      "from_node_id": "video-A_LsUSxTm7A",
+      "to_node_id": "claim-A_LsUSxTm7A-egypt-ministry-drilling-misdirection",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "A_LsUSxTm7A",
+          "timestamp_start": 721
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-A_LsUSxTm7A-egypt-ministry-drilling-misdirection-REFERENCES-location-giza-plateau",
+      "from_node_id": "claim-A_LsUSxTm7A-egypt-ministry-drilling-misdirection",
+      "to_node_id": "location-giza-plateau",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "A_LsUSxTm7A",
+          "timestamp_start": 721
+        }
+      ]
+    },
+    {
+      "id": "edge-person-matt-lacroix-ASSERTED-claim-A_LsUSxTm7A-sphinx-head-disproportion-relion",
+      "from_node_id": "person-matt-lacroix",
+      "to_node_id": "claim-A_LsUSxTm7A-sphinx-head-disproportion-relion",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "A_LsUSxTm7A",
+          "timestamp_start": 699,
+          "quote": "LaCroix asserts the Sphinx's head is disproportionately small to its body because it was originally a lion (aligned with the 10,500 BCE Leo vernal equinox) — dynastic Egyptians later recarved the head"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-A_LsUSxTm7A-REFERENCES-claim-A_LsUSxTm7A-sphinx-head-disproportion-relion",
+      "from_node_id": "video-A_LsUSxTm7A",
+      "to_node_id": "claim-A_LsUSxTm7A-sphinx-head-disproportion-relion",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "A_LsUSxTm7A",
+          "timestamp_start": 699
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-A_LsUSxTm7A-sphinx-head-disproportion-relion-REFERENCES-concept-sphinx-water-erosion",
+      "from_node_id": "claim-A_LsUSxTm7A-sphinx-head-disproportion-relion",
+      "to_node_id": "concept-sphinx-water-erosion",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "A_LsUSxTm7A",
+          "timestamp_start": 699
+        }
+      ]
+    },
+    {
+      "id": "edge-person-matt-lacroix-ASSERTED-claim-A_LsUSxTm7A-pink-granite-500-miles-silica",
+      "from_node_id": "person-matt-lacroix",
+      "to_node_id": "claim-A_LsUSxTm7A-pink-granite-500-miles-silica",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "A_LsUSxTm7A",
+          "timestamp_start": 735,
+          "quote": "LaCroix notes pink granite found throughout the Giza Plateau was transported from 500 miles away (Aswan Quarry) — this silica-quartz specificity may be intentional because quartz has information-stora"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-A_LsUSxTm7A-REFERENCES-claim-A_LsUSxTm7A-pink-granite-500-miles-silica",
+      "from_node_id": "video-A_LsUSxTm7A",
+      "to_node_id": "claim-A_LsUSxTm7A-pink-granite-500-miles-silica",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "A_LsUSxTm7A",
+          "timestamp_start": 735
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-A_LsUSxTm7A-pink-granite-500-miles-silica-REFERENCES-location-giza-plateau",
+      "from_node_id": "claim-A_LsUSxTm7A-pink-granite-500-miles-silica",
+      "to_node_id": "location-giza-plateau",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "A_LsUSxTm7A",
+          "timestamp_start": 735
+        }
+      ]
+    },
+    {
+      "id": "edge-person-matt-lacroix-ASSERTED-claim-A_LsUSxTm7A-lacroix-atlantis-sealed-by-flood",
+      "from_node_id": "person-matt-lacroix",
+      "to_node_id": "claim-A_LsUSxTm7A-lacroix-atlantis-sealed-by-flood",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "A_LsUSxTm7A",
+          "timestamp_start": 677,
+          "quote": "LaCroix's framing: the Atlantis myth refers to the civilization whose subterranean cities at Giza were sealed and buried by the Younger-Dryas flood."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-A_LsUSxTm7A-REFERENCES-claim-A_LsUSxTm7A-lacroix-atlantis-sealed-by-flood",
+      "from_node_id": "video-A_LsUSxTm7A",
+      "to_node_id": "claim-A_LsUSxTm7A-lacroix-atlantis-sealed-by-flood",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "A_LsUSxTm7A",
+          "timestamp_start": 677
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-A_LsUSxTm7A-lacroix-atlantis-sealed-by-flood-REFERENCES-concept-younger-dryas-impact",
+      "from_node_id": "claim-A_LsUSxTm7A-lacroix-atlantis-sealed-by-flood",
+      "to_node_id": "concept-younger-dryas-impact",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "A_LsUSxTm7A",
+          "timestamp_start": 677
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-A_LsUSxTm7A-lacroix-atlantis-sealed-by-flood-REFERENCES-concept-halls-of-amenti",
+      "from_node_id": "claim-A_LsUSxTm7A-lacroix-atlantis-sealed-by-flood",
+      "to_node_id": "concept-halls-of-amenti",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "A_LsUSxTm7A",
+          "timestamp_start": 677
+        }
+      ]
     }
   ],
-  "extracted_at": "2026-04-17T11:04:20.372151+00:00",
+  "extracted_at": "2026-04-17T12:31:49.509337+00:00",
   "extractor_version": "v1-inline-claude"
 }

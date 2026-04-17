@@ -1420,6 +1420,343 @@
           "video-tS_64sTN5AU"
         ]
       }
+    },
+    {
+      "id": "document-encounters-pasulka",
+      "node_type": "document",
+      "label": "Encounters",
+      "summary": "Diana Pasulka's second book; extends American Cosmic into more specific case studies of contemporary UFO contact experiences.",
+      "tags": [
+        "book"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.737312+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "tS_64sTN5AU",
+          "timestamp_start": 185,
+          "timestamp_end": "Diana Pasulka's second book"
+        }
+      ],
+      "type_specific": {
+        "document_type": "book",
+        "author": "Diana Pasulka"
+      }
+    },
+    {
+      "id": "person-tyler-pasulka-pseudonym",
+      "node_type": "person",
+      "label": "Tyler (Pasulka pseudonym)",
+      "summary": "Pseudonymous NASA Challenger-mission controller and Space-Force-affiliated operative from Pasulka's American Cosmic; allegedly uses consciousness protocols in a machine-room to receive innovation downloads.",
+      "tags": [
+        "researcher",
+        "experiencer",
+        "NASA"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.737314+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "tS_64sTN5AU",
+          "timestamp_start": 187,
+          "quote": "NASA mission controller / Space Force operative from American Cosmic"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Tyler"
+        ],
+        "notability_tags": [
+          "researcher",
+          "experiencer",
+          "NASA"
+        ]
+      }
+    },
+    {
+      "id": "concept-protocols-pasulka",
+      "node_type": "concept",
+      "label": "Pasulka Protocols",
+      "summary": "Set of religious-practice-like protocols (sleep, hydration, prayer/meditation) used by UAP experiencers like Tyler to access what they experience as a communicable 'signal'.",
+      "tags": [
+        "psychology"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.737316+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "tS_64sTN5AU",
+          "timestamp_start": 197,
+          "timestamp_end": "Religious-like practices used by UAP experiencers to access insight"
+        }
+      ],
+      "type_specific": {
+        "concept_domain": "psychology"
+      }
+    },
+    {
+      "id": "concept-analytical-overlay",
+      "node_type": "concept",
+      "label": "Analytical Overlay",
+      "summary": "Pasulka's concept (echoing Vallee) that contemporary mythology defines how people recollect anomalous experiences — e.g. Tic Tac is today's version of the 1950s 'flying butane tank'.",
+      "tags": [
+        "psychology"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.737319+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "tS_64sTN5AU",
+          "timestamp_start": 179,
+          "timestamp_end": "Cultural imagery shapes how experiencers recollect encounters"
+        }
+      ],
+      "type_specific": {
+        "concept_domain": "psychology"
+      }
+    },
+    {
+      "id": "event-soul-conference-stanford",
+      "node_type": "event",
+      "label": "Gary Nolan Soul Conference (Stanford)",
+      "summary": "Invite-only meeting of leading academic, military, and civilian UAP researchers hosted by Garry Nolan at Stanford University.",
+      "tags": [
+        "meeting"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.737321+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "tS_64sTN5AU",
+          "timestamp_start": 165,
+          "timestamp_end": "Academic/military/civilian UAP researcher meeting at Stanford"
+        }
+      ],
+      "type_specific": {
+        "event_type": "meeting",
+        "date_approximate": "2023-01-01"
+      }
+    },
+    {
+      "id": "claim-tS_64sTN5AU-pasulka-american-cosmic-crash-site",
+      "node_type": "claim",
+      "label": "Pasulka's American Cosmic opens at a 2016 crash-retrieval site she visited with pseudonymous figures",
+      "summary": "Pasulka's American Cosmic opens at a 2016 crash-retrieval site she visited with pseudonymous figures later identified as Garry Nolan and Tyler.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.746843+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "tS_64sTN5AU",
+          "timestamp_start": 187,
+          "quote": "American Cosmic opens at a crash retrieval site that was in 2016 that I went with people that I had to have as pseudonyms. Now Gary Nolan has come out. Tyler who's still a pseudonym for a person who is a mission controller and works in the space force."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Pasulka's American Cosmic opens at a 2016 crash-retrieval site she visited with pseudonymous figures later identified as Garry Nolan and Tyler.",
+        "asserted_by_id": "person-diana-pasulka",
+        "source_video_id": "tS_64sTN5AU",
+        "timestamp_start_seconds": 187,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-diana-pasulka",
+          "document-american-cosmic",
+          "person-garry-nolan",
+          "person-tyler-pasulka-pseudonym"
+        ]
+      }
+    },
+    {
+      "id": "claim-tS_64sTN5AU-st-francis-translation-retranslation",
+      "node_type": "claim",
+      "label": "Pasulka's retranslation of Thomas of Celano's original account of St Francis of Assisi's stigmata ex",
+      "summary": "Pasulka's retranslation of Thomas of Celano's original account of St Francis of Assisi's stigmata experience describes 'sound and fury, atmospheric sparks, a flaming torch, telepathic communication' — consistent with modern UFO encounter descriptions.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.746866+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "tS_64sTN5AU",
+          "timestamp_start": 169,
+          "quote": "The original translations describe Francis encountering a sound and fury, atmospheric sparks and a flaming torch. Telepathic communication between Francis and the torch occurs in which Francis is treated harshly and wounded with rays of light."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Pasulka's retranslation of Thomas of Celano's original account of St Francis of Assisi's stigmata experience describes 'sound and fury, atmospheric sparks, a flaming torch, telepathic communication' — consistent with modern UFO encounter descriptions.",
+        "asserted_by_id": "person-diana-pasulka",
+        "source_video_id": "tS_64sTN5AU",
+        "timestamp_start_seconds": 169,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-diana-pasulka"
+        ]
+      }
+    },
+    {
+      "id": "claim-tS_64sTN5AU-stigmata-uv-blue-shift-explanation",
+      "node_type": "claim",
+      "label": "Pasulka and Michels propose the stigmata / 'rays of light' burns are interpretable as ultraviolet ra",
+      "summary": "Pasulka and Michels propose the stigmata / 'rays of light' burns are interpretable as ultraviolet radiation from blue-shifted light at the boundary of a warp-bubble craft.",
+      "tags": [
+        "speculation",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.746874+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "tS_64sTN5AU",
+          "timestamp_start": 173,
+          "quote": "The same radiation damage that occurs in what we now call UFO experiences. That's ultraviolet, that's like ionizing radiation. Light being blue shifted into the ultraviolet as it's lensed across the bubble that the craft creates."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Pasulka and Michels propose the stigmata / 'rays of light' burns are interpretable as ultraviolet radiation from blue-shifted light at the boundary of a warp-bubble craft.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "tS_64sTN5AU",
+        "timestamp_start_seconds": 173,
+        "assertability": "speculation",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-diana-pasulka",
+          "concept-alcubierre-drive"
+        ]
+      }
+    },
+    {
+      "id": "claim-tS_64sTN5AU-tyler-consciousness-tech-innovation",
+      "node_type": "claim",
+      "label": "Tyler describes accessing a 'signal' via a machine-room, receiving biomedical-innovation downloads t",
+      "summary": "Tyler describes accessing a 'signal' via a machine-room, receiving biomedical-innovation downloads that he converts into successful companies.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.746883+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "tS_64sTN5AU",
+          "timestamp_start": 199,
+          "quote": "He goes to a room where there's a machine and he doesn't know exactly what the machine does but he gets a lot of ideas about biomedical innovations and goes on to actually start companies that are super successful."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Tyler describes accessing a 'signal' via a machine-room, receiving biomedical-innovation downloads that he converts into successful companies.",
+        "asserted_by_id": "person-diana-pasulka",
+        "source_video_id": "tS_64sTN5AU",
+        "timestamp_start_seconds": 199,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-tyler-pasulka-pseudonym",
+          "concept-protocols-pasulka"
+        ]
+      }
+    },
+    {
+      "id": "claim-tS_64sTN5AU-vallee-angels-demons-library",
+      "node_type": "claim",
+      "label": "In Encounters, Pasulka recounts a lunch in Vallee's Bay Area study where he pulls a book on angels f",
+      "summary": "In Encounters, Pasulka recounts a lunch in Vallee's Bay Area study where he pulls a book on angels from his shelf to explain: 'you can't have one without the other' — demons and angels as two aspects of NHI contact.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.746894+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "tS_64sTN5AU",
+          "timestamp_start": 205,
+          "quote": "This is a scene in encounters where I'm having lunch with Jacques Vallee. He takes one of the books off and it was a book about angels and he says of course you can't have one without the other."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "In Encounters, Pasulka recounts a lunch in Vallee's Bay Area study where he pulls a book on angels from his shelf to explain: 'you can't have one without the other' — demons and angels as two aspects of NHI contact.",
+        "asserted_by_id": "person-diana-pasulka",
+        "source_video_id": "tS_64sTN5AU",
+        "timestamp_start_seconds": 205,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-diana-pasulka",
+          "person-jacques-vallee",
+          "document-encounters-pasulka"
+        ]
+      }
+    },
+    {
+      "id": "claim-tS_64sTN5AU-pasulka-new-religion-thesis",
+      "node_type": "claim",
+      "label": "Pasulka frames modern UFO-contact experience as a new form of religion — a Lutheran-like return to o",
+      "summary": "Pasulka frames modern UFO-contact experience as a new form of religion — a Lutheran-like return to original texts that reveal commonalities between historical divine encounters and modern UAP reports.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.746902+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "tS_64sTN5AU",
+          "timestamp_start": 177,
+          "quote": "This is a new form of religion. We do have UFO religions, but this is a new form of religion. Just as Martin Luther believed the word of God was all one needed for salvation, Diana is going back to the original texts."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Pasulka frames modern UFO-contact experience as a new form of religion — a Lutheran-like return to original texts that reveal commonalities between historical divine encounters and modern UAP reports.",
+        "asserted_by_id": "person-diana-pasulka",
+        "source_video_id": "tS_64sTN5AU",
+        "timestamp_start_seconds": 177,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-diana-pasulka",
+          "document-american-cosmic"
+        ]
+      }
     }
   ],
   "edges": [
@@ -2162,8 +2499,322 @@
           "timestamp_start": 0
         }
       ]
+    },
+    {
+      "id": "edge-person-diana-pasulka-ASSERTED-claim-tS_64sTN5AU-pasulka-american-cosmic-crash-site",
+      "from_node_id": "person-diana-pasulka",
+      "to_node_id": "claim-tS_64sTN5AU-pasulka-american-cosmic-crash-site",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "tS_64sTN5AU",
+          "timestamp_start": 187,
+          "quote": "Pasulka's American Cosmic opens at a 2016 crash-retrieval site she visited with pseudonymous figures later identified as Garry Nolan and Tyler."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-tS_64sTN5AU-REFERENCES-claim-tS_64sTN5AU-pasulka-american-cosmic-crash-site",
+      "from_node_id": "video-tS_64sTN5AU",
+      "to_node_id": "claim-tS_64sTN5AU-pasulka-american-cosmic-crash-site",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "tS_64sTN5AU",
+          "timestamp_start": 187
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-tS_64sTN5AU-pasulka-american-cosmic-crash-site-REFERENCES-document-american-cosmic",
+      "from_node_id": "claim-tS_64sTN5AU-pasulka-american-cosmic-crash-site",
+      "to_node_id": "document-american-cosmic",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "tS_64sTN5AU",
+          "timestamp_start": 187
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-tS_64sTN5AU-pasulka-american-cosmic-crash-site-REFERENCES-person-garry-nolan",
+      "from_node_id": "claim-tS_64sTN5AU-pasulka-american-cosmic-crash-site",
+      "to_node_id": "person-garry-nolan",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "tS_64sTN5AU",
+          "timestamp_start": 187
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-tS_64sTN5AU-pasulka-american-cosmic-crash-site-REFERENCES-person-tyler-pasulka-pseudonym",
+      "from_node_id": "claim-tS_64sTN5AU-pasulka-american-cosmic-crash-site",
+      "to_node_id": "person-tyler-pasulka-pseudonym",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "tS_64sTN5AU",
+          "timestamp_start": 187
+        }
+      ]
+    },
+    {
+      "id": "edge-person-diana-pasulka-ASSERTED-claim-tS_64sTN5AU-st-francis-translation-retranslation",
+      "from_node_id": "person-diana-pasulka",
+      "to_node_id": "claim-tS_64sTN5AU-st-francis-translation-retranslation",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "tS_64sTN5AU",
+          "timestamp_start": 169,
+          "quote": "Pasulka's retranslation of Thomas of Celano's original account of St Francis of Assisi's stigmata experience describes 'sound and fury, atmospheric sparks, a flaming torch, telepathic communication' —"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-tS_64sTN5AU-REFERENCES-claim-tS_64sTN5AU-st-francis-translation-retranslation",
+      "from_node_id": "video-tS_64sTN5AU",
+      "to_node_id": "claim-tS_64sTN5AU-st-francis-translation-retranslation",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "tS_64sTN5AU",
+          "timestamp_start": 169
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-tS_64sTN5AU-stigmata-uv-blue-shift-explanation",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-tS_64sTN5AU-stigmata-uv-blue-shift-explanation",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "tS_64sTN5AU",
+          "timestamp_start": 173,
+          "quote": "Pasulka and Michels propose the stigmata / 'rays of light' burns are interpretable as ultraviolet radiation from blue-shifted light at the boundary of a warp-bubble craft."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-tS_64sTN5AU-REFERENCES-claim-tS_64sTN5AU-stigmata-uv-blue-shift-explanation",
+      "from_node_id": "video-tS_64sTN5AU",
+      "to_node_id": "claim-tS_64sTN5AU-stigmata-uv-blue-shift-explanation",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "tS_64sTN5AU",
+          "timestamp_start": 173
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-tS_64sTN5AU-stigmata-uv-blue-shift-explanation-REFERENCES-person-diana-pasulka",
+      "from_node_id": "claim-tS_64sTN5AU-stigmata-uv-blue-shift-explanation",
+      "to_node_id": "person-diana-pasulka",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "tS_64sTN5AU",
+          "timestamp_start": 173
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-tS_64sTN5AU-stigmata-uv-blue-shift-explanation-REFERENCES-concept-alcubierre-drive",
+      "from_node_id": "claim-tS_64sTN5AU-stigmata-uv-blue-shift-explanation",
+      "to_node_id": "concept-alcubierre-drive",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "tS_64sTN5AU",
+          "timestamp_start": 173
+        }
+      ]
+    },
+    {
+      "id": "edge-person-diana-pasulka-ASSERTED-claim-tS_64sTN5AU-tyler-consciousness-tech-innovation",
+      "from_node_id": "person-diana-pasulka",
+      "to_node_id": "claim-tS_64sTN5AU-tyler-consciousness-tech-innovation",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "tS_64sTN5AU",
+          "timestamp_start": 199,
+          "quote": "Tyler describes accessing a 'signal' via a machine-room, receiving biomedical-innovation downloads that he converts into successful companies."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-tS_64sTN5AU-REFERENCES-claim-tS_64sTN5AU-tyler-consciousness-tech-innovation",
+      "from_node_id": "video-tS_64sTN5AU",
+      "to_node_id": "claim-tS_64sTN5AU-tyler-consciousness-tech-innovation",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "tS_64sTN5AU",
+          "timestamp_start": 199
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-tS_64sTN5AU-tyler-consciousness-tech-innovation-REFERENCES-person-tyler-pasulka-pseudonym",
+      "from_node_id": "claim-tS_64sTN5AU-tyler-consciousness-tech-innovation",
+      "to_node_id": "person-tyler-pasulka-pseudonym",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "tS_64sTN5AU",
+          "timestamp_start": 199
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-tS_64sTN5AU-tyler-consciousness-tech-innovation-REFERENCES-concept-protocols-pasulka",
+      "from_node_id": "claim-tS_64sTN5AU-tyler-consciousness-tech-innovation",
+      "to_node_id": "concept-protocols-pasulka",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "tS_64sTN5AU",
+          "timestamp_start": 199
+        }
+      ]
+    },
+    {
+      "id": "edge-person-diana-pasulka-ASSERTED-claim-tS_64sTN5AU-vallee-angels-demons-library",
+      "from_node_id": "person-diana-pasulka",
+      "to_node_id": "claim-tS_64sTN5AU-vallee-angels-demons-library",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "tS_64sTN5AU",
+          "timestamp_start": 205,
+          "quote": "In Encounters, Pasulka recounts a lunch in Vallee's Bay Area study where he pulls a book on angels from his shelf to explain: 'you can't have one without the other' — demons and angels as two aspects "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-tS_64sTN5AU-REFERENCES-claim-tS_64sTN5AU-vallee-angels-demons-library",
+      "from_node_id": "video-tS_64sTN5AU",
+      "to_node_id": "claim-tS_64sTN5AU-vallee-angels-demons-library",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "tS_64sTN5AU",
+          "timestamp_start": 205
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-tS_64sTN5AU-vallee-angels-demons-library-REFERENCES-person-jacques-vallee",
+      "from_node_id": "claim-tS_64sTN5AU-vallee-angels-demons-library",
+      "to_node_id": "person-jacques-vallee",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "tS_64sTN5AU",
+          "timestamp_start": 205
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-tS_64sTN5AU-vallee-angels-demons-library-REFERENCES-document-encounters-pasulka",
+      "from_node_id": "claim-tS_64sTN5AU-vallee-angels-demons-library",
+      "to_node_id": "document-encounters-pasulka",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "tS_64sTN5AU",
+          "timestamp_start": 205
+        }
+      ]
+    },
+    {
+      "id": "edge-person-diana-pasulka-ASSERTED-claim-tS_64sTN5AU-pasulka-new-religion-thesis",
+      "from_node_id": "person-diana-pasulka",
+      "to_node_id": "claim-tS_64sTN5AU-pasulka-new-religion-thesis",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "tS_64sTN5AU",
+          "timestamp_start": 177,
+          "quote": "Pasulka frames modern UFO-contact experience as a new form of religion — a Lutheran-like return to original texts that reveal commonalities between historical divine encounters and modern UAP reports."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-tS_64sTN5AU-REFERENCES-claim-tS_64sTN5AU-pasulka-new-religion-thesis",
+      "from_node_id": "video-tS_64sTN5AU",
+      "to_node_id": "claim-tS_64sTN5AU-pasulka-new-religion-thesis",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "tS_64sTN5AU",
+          "timestamp_start": 177
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-tS_64sTN5AU-pasulka-new-religion-thesis-REFERENCES-document-american-cosmic",
+      "from_node_id": "claim-tS_64sTN5AU-pasulka-new-religion-thesis",
+      "to_node_id": "document-american-cosmic",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "tS_64sTN5AU",
+          "timestamp_start": 177
+        }
+      ]
     }
   ],
-  "extracted_at": "2026-04-17T11:04:12.317115+00:00",
+  "extracted_at": "2026-04-17T12:13:23.746909+00:00",
   "extractor_version": "v1-inline-claude"
 }

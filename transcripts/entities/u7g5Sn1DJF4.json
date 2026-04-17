@@ -2240,6 +2240,452 @@
           "video-u7g5Sn1DJF4"
         ]
       }
+    },
+    {
+      "id": "person-sammy-uap-gerb",
+      "node_type": "person",
+      "label": "Sammy 'UAPGerb' Gerb",
+      "summary": "YouTube UFO researcher ('UAPGerb' channel) with exceptionally detailed knowledge of US government UFO-program acronyms, personalities, and program structures. Investigated Michael Herrera and Jonathan Wagant cases.",
+      "tags": [
+        "researcher",
+        "journalist"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:07:01.191188+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "u7g5Sn1DJF4",
+          "timestamp_start": 229,
+          "quote": "YouTube UFO researcher famous for acronym-detail knowledge of UFO programs"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "UAPGerb",
+          "Gerb"
+        ],
+        "profession": "researcher",
+        "notability_tags": [
+          "researcher",
+          "journalist"
+        ]
+      }
+    },
+    {
+      "id": "person-doug-wolf",
+      "node_type": "person",
+      "label": "Doug Wolf",
+      "summary": "Intelligence executive: 16 years NRO; executive assistant to NRO Director; CIA DS&T Deputy Director; started the Office of Global Access (OGA); DDNI ATNF (Deputy Director for National Intelligence, Acquisition Technology and Facilities) with direct oversight over NRO acquisitions.",
+      "tags": [
+        "intelligence",
+        "NRO",
+        "CIA"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:07:01.191190+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "u7g5Sn1DJF4",
+          "timestamp_start": 245,
+          "quote": "First Director of Office of Global Access (OGA)"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Wolf"
+        ],
+        "profession": "intelligence executive",
+        "notability_tags": [
+          "intelligence",
+          "NRO",
+          "CIA"
+        ]
+      }
+    },
+    {
+      "id": "person-jonathan-wagant",
+      "node_type": "person",
+      "label": "Jonathan Wagant",
+      "summary": "US Marine Corps Lance Corporal stationed in Peru 1997 under Operation Laser Strike. Encountered a downed egg-shaped craft with arm/four-fingers hanging out; syrup-like purplish-green liquid dripping; telepathic contact with being.",
+      "tags": [
+        "witness",
+        "USMC",
+        "experiencer"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:07:01.191192+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "u7g5Sn1DJF4",
+          "timestamp_start": 215,
+          "quote": "1997 USMC UAP crash-retrieval witness in Peru"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Wagant",
+          "Wayant"
+        ],
+        "profession": "military veteran",
+        "notability_tags": [
+          "witness",
+          "USMC",
+          "experiencer"
+        ]
+      }
+    },
+    {
+      "id": "person-michael-herrera",
+      "node_type": "person",
+      "label": "Michael Herrera",
+      "summary": "US Marine Corps veteran who in 2009 encountered a vanta-black octagonal craft over Indonesian treetops; his unit intercepted by elite paramilitary team with bioscanners; possibly tied to psionic-asset trafficking scheme via crash-retrieval program.",
+      "tags": [
+        "witness",
+        "USMC",
+        "experiencer"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:07:01.191197+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "u7g5Sn1DJF4",
+          "timestamp_start": 505,
+          "quote": "USMC Indonesia 2009 encounter witness"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Herrera"
+        ],
+        "profession": "military veteran",
+        "notability_tags": [
+          "witness",
+          "USMC",
+          "experiencer"
+        ]
+      }
+    },
+    {
+      "id": "program-oga-office-global-access",
+      "node_type": "program",
+      "label": "Office of Global Access (OGA)",
+      "summary": "Office of Global Access (OGA): CIA directorate of science & technology successor organization first directed by Doug Wolf; acquisitions authority relevant to NRO-adjacent UAP programs.",
+      "tags": [
+        "program"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:07:01.191199+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "u7g5Sn1DJF4",
+          "timestamp_start": 245,
+          "timestamp_end": "CIA-DS&T successor organization first directed by Doug Wolf"
+        }
+      ],
+      "type_specific": {
+        "acronym": "OGA"
+      }
+    },
+    {
+      "id": "program-looking-glass",
+      "node_type": "program",
+      "label": "Project Looking Glass",
+      "summary": "Alleged program involving manipulation of timelines / parallel-universe probing, combining Planck-scale temporal framing with many-worlds quantum interpretation. Bob Lazar was reportedly briefed on it.",
+      "tags": [
+        "program"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:07:01.191201+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "u7g5Sn1DJF4",
+          "timestamp_start": 253,
+          "timestamp_end": "Timeline-manipulation program allegedly briefed to Bob Lazar"
+        }
+      ],
+      "type_specific": {
+        "acronym": "Looking Glass"
+      }
+    },
+    {
+      "id": "event-operation-laser-strike-1997",
+      "node_type": "event",
+      "label": "Operation Laser Strike (Peru 1997)",
+      "summary": "1997 US anti-narco operation in Peru; ground-based radar systems tracking drug-running planes. Lance Corporal Jonathan Wagant was sent to investigate what was presented as a downed friendly plane — encountered a crashed UAP.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:07:01.191204+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "u7g5Sn1DJF4",
+          "timestamp_start": 493,
+          "timestamp_end": "US counter-narcotics operation in Peru where Wagant encountered UAP"
+        }
+      ],
+      "type_specific": {
+        "event_type": "other",
+        "date_approximate": "1997-01-01"
+      }
+    },
+    {
+      "id": "incident-1997-peru-wagant-ufo-crash",
+      "node_type": "incident",
+      "label": "Peru 1997 UFO Crash (Wagant)",
+      "summary": "1997 Peru crash witnessed by Jonathan Wagant (USMC Lance Corporal) under Operation Laser Strike. Egg-shaped/teardrop craft embedded in cliff face, hatch open, four-fingered arm hanging out, purplish-green liquid dripping, being telepathically asking for help.",
+      "tags": [
+        "crash_retrieval"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:07:01.191206+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "u7g5Sn1DJF4",
+          "timestamp_start": 215,
+          "timestamp_end": "Egg-shaped craft embedded in cliff face with alien arm visible"
+        }
+      ],
+      "type_specific": {
+        "incident_type": "crash_retrieval",
+        "date_approximate": "1997-06-01"
+      }
+    },
+    {
+      "id": "claim-u7g5Sn1DJF4-gerb-tim-taylor-timeline-bureau",
+      "node_type": "claim",
+      "label": "UAPGerb notes Tim Taylor thinks of himself as an 'Adjustment Bureau timeline-management person' — sp",
+      "summary": "UAPGerb notes Tim Taylor thinks of himself as an 'Adjustment Bureau timeline-management person' — sphere used to 'coagulate time onto Planck scale' and view parallel timelines via many-worlds interpretation.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:07:01.202562+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "u7g5Sn1DJF4",
+          "timestamp_start": 255,
+          "quote": "You have Tim Taylor. He kind of thinks of himself as like an Adjustment Bureau timeline management person. This sphere was basically used to coagulate time onto the Planck scale, viewing time as frames of Planck scale and combined with the many worlds interpretation of quantum physics to view parallel timelines."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "UAPGerb notes Tim Taylor thinks of himself as an 'Adjustment Bureau timeline-management person' — sphere used to 'coagulate time onto Planck scale' and view parallel timelines via many-worlds interpretation.",
+        "asserted_by_id": "person-sammy-uap-gerb",
+        "source_video_id": "u7g5Sn1DJF4",
+        "timestamp_start_seconds": 255,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-sammy-uap-gerb",
+          "person-tim-taylor-cape-canaveral",
+          "program-looking-glass",
+          "concept-many-worlds-everett"
+        ]
+      }
+    },
+    {
+      "id": "claim-u7g5Sn1DJF4-wagant-peru-1997-egg-craft",
+      "node_type": "claim",
+      "label": "In 1997 Peru under Operation Laser Strike, Marine Lance Corporal Jonathan Wagant encountered a crash",
+      "summary": "In 1997 Peru under Operation Laser Strike, Marine Lance Corporal Jonathan Wagant encountered a crashed egg-shaped craft embedded in a cliff face with an open hatch, four-fingered arm dangling out, and dripping purplish-green syrup-like liquid.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:07:01.202585+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "u7g5Sn1DJF4",
+          "timestamp_start": 215,
+          "quote": "There's an enormous egg-shaped, teardrop-shaped craft embedded in the cliff face, and there seemed to be a hatch open with an arm hanging out with four fingers. It was dripping this syrup-like liquid. It was a purplish green color."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "In 1997 Peru under Operation Laser Strike, Marine Lance Corporal Jonathan Wagant encountered a crashed egg-shaped craft embedded in a cliff face with an open hatch, four-fingered arm dangling out, and dripping purplish-green syrup-like liquid.",
+        "asserted_by_id": "person-sammy-uap-gerb",
+        "source_video_id": "u7g5Sn1DJF4",
+        "timestamp_start_seconds": 215,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-jonathan-wagant",
+          "incident-1997-peru-wagant-ufo-crash",
+          "event-operation-laser-strike-1997"
+        ]
+      }
+    },
+    {
+      "id": "claim-u7g5Sn1DJF4-wagant-telepathic-plea-help",
+      "node_type": "claim",
+      "label": "Wagant reports a being communicated to him telepathically during the Peru 1997 encounter — 'not goin",
+      "summary": "Wagant reports a being communicated to him telepathically during the Peru 1997 encounter — 'not going to harm me, everything will be all right, help us get out of here.'",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:07:01.202597+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "u7g5Sn1DJF4",
+          "timestamp_start": 221,
+          "quote": "He feels like a being is communicating to him in his mind, telling him not to be scared, but also asking for help. They were not going to harm me. Just help us get out of here."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Wagant reports a being communicated to him telepathically during the Peru 1997 encounter — 'not going to harm me, everything will be all right, help us get out of here.'",
+        "asserted_by_id": "person-jonathan-wagant",
+        "source_video_id": "u7g5Sn1DJF4",
+        "timestamp_start_seconds": 221,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-jonathan-wagant",
+          "incident-1997-peru-wagant-ufo-crash",
+          "phenomenon-alien-telepathy"
+        ]
+      }
+    },
+    {
+      "id": "claim-u7g5Sn1DJF4-8-to-12-operators-black-no-insignia",
+      "node_type": "claim",
+      "label": "Common thread across three independent crash-retrieval witnesses: intercepted by 8-12 operators in a",
+      "summary": "Common thread across three independent crash-retrieval witnesses: intercepted by 8-12 operators in all black with no insignia / name tags, held at gunpoint, and dosed with what they were told were 'anthrax vaccine boosters.'",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:07:01.202607+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "u7g5Sn1DJF4",
+          "timestamp_start": 225,
+          "quote": "They're immediately intercepted by between 8 and 12 operators in all black, no insignia, no name tags, held at gunpoint. All three of these men directly after their encounters were given what they were told were anthrax vaccine boosters."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Common thread across three independent crash-retrieval witnesses: intercepted by 8-12 operators in all black with no insignia / name tags, held at gunpoint, and dosed with what they were told were 'anthrax vaccine boosters.'",
+        "asserted_by_id": "person-sammy-uap-gerb",
+        "source_video_id": "u7g5Sn1DJF4",
+        "timestamp_start_seconds": 225,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-sammy-uap-gerb",
+          "person-jonathan-wagant",
+          "person-michael-herrera",
+          "person-jake-barber"
+        ]
+      }
+    },
+    {
+      "id": "claim-u7g5Sn1DJF4-gerb-doug-wolf-nro-oga",
+      "node_type": "claim",
+      "label": "Doug Wolf: 16 years NRO, executive assistant to the NRO director, CIA DS&T Deputy Director, started ",
+      "summary": "Doug Wolf: 16 years NRO, executive assistant to the NRO director, CIA DS&T Deputy Director, started the OGA, DDNI ATNF — holds direct oversight over NRO acquisitions.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:07:01.202662+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "u7g5Sn1DJF4",
+          "timestamp_start": 245,
+          "quote": "Doug Wolf spent 16 years in the NRO. He was the executive assistant to the director of the NRO. He was CIA DS&T deputy director. He started the OGA. He was the DDNI ATNF — deputy director for national intelligence for acquisition technology and facilities — has direct oversight over NRO acquisitions."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Doug Wolf: 16 years NRO, executive assistant to the NRO director, CIA DS&T Deputy Director, started the OGA, DDNI ATNF — holds direct oversight over NRO acquisitions.",
+        "asserted_by_id": "person-sammy-uap-gerb",
+        "source_video_id": "u7g5Sn1DJF4",
+        "timestamp_start_seconds": 245,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-sammy-uap-gerb",
+          "person-doug-wolf",
+          "program-oga-office-global-access",
+          "organization-nro"
+        ]
+      }
+    },
+    {
+      "id": "claim-u7g5Sn1DJF4-looking-glass-lazar-briefed",
+      "node_type": "claim",
+      "label": "Per Jesse: Bob Lazar was briefed on Project Looking Glass — timeline manipulation via Planck-scale t",
+      "summary": "Per Jesse: Bob Lazar was briefed on Project Looking Glass — timeline manipulation via Planck-scale time frames combined with many-worlds quantum mechanics.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:07:01.202673+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "u7g5Sn1DJF4",
+          "timestamp_start": 253,
+          "quote": "Obviously Bob Lazar was briefed on project Looking Glass. Which is like the manipulation of timelines."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Per Jesse: Bob Lazar was briefed on Project Looking Glass — timeline manipulation via Planck-scale time frames combined with many-worlds quantum mechanics.",
+        "asserted_by_id": "person-sammy-uap-gerb",
+        "source_video_id": "u7g5Sn1DJF4",
+        "timestamp_start_seconds": 253,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-bob-lazar-extended",
+          "program-looking-glass"
+        ]
+      }
     }
   ],
   "edges": [
@@ -3429,8 +3875,406 @@
           "timestamp_start": 0
         }
       ]
+    },
+    {
+      "id": "edge-person-sammy-uap-gerb-ASSERTED-claim-u7g5Sn1DJF4-gerb-tim-taylor-timeline-bureau",
+      "from_node_id": "person-sammy-uap-gerb",
+      "to_node_id": "claim-u7g5Sn1DJF4-gerb-tim-taylor-timeline-bureau",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "u7g5Sn1DJF4",
+          "timestamp_start": 255,
+          "quote": "UAPGerb notes Tim Taylor thinks of himself as an 'Adjustment Bureau timeline-management person' — sphere used to 'coagulate time onto Planck scale' and view parallel timelines via many-worlds interpre"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-u7g5Sn1DJF4-REFERENCES-claim-u7g5Sn1DJF4-gerb-tim-taylor-timeline-bureau",
+      "from_node_id": "video-u7g5Sn1DJF4",
+      "to_node_id": "claim-u7g5Sn1DJF4-gerb-tim-taylor-timeline-bureau",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "u7g5Sn1DJF4",
+          "timestamp_start": 255
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-u7g5Sn1DJF4-gerb-tim-taylor-timeline-bureau-REFERENCES-person-tim-taylor-cape-canaveral",
+      "from_node_id": "claim-u7g5Sn1DJF4-gerb-tim-taylor-timeline-bureau",
+      "to_node_id": "person-tim-taylor-cape-canaveral",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "u7g5Sn1DJF4",
+          "timestamp_start": 255
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-u7g5Sn1DJF4-gerb-tim-taylor-timeline-bureau-REFERENCES-program-looking-glass",
+      "from_node_id": "claim-u7g5Sn1DJF4-gerb-tim-taylor-timeline-bureau",
+      "to_node_id": "program-looking-glass",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "u7g5Sn1DJF4",
+          "timestamp_start": 255
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-u7g5Sn1DJF4-gerb-tim-taylor-timeline-bureau-REFERENCES-concept-many-worlds-everett",
+      "from_node_id": "claim-u7g5Sn1DJF4-gerb-tim-taylor-timeline-bureau",
+      "to_node_id": "concept-many-worlds-everett",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "u7g5Sn1DJF4",
+          "timestamp_start": 255
+        }
+      ]
+    },
+    {
+      "id": "edge-person-sammy-uap-gerb-ASSERTED-claim-u7g5Sn1DJF4-wagant-peru-1997-egg-craft",
+      "from_node_id": "person-sammy-uap-gerb",
+      "to_node_id": "claim-u7g5Sn1DJF4-wagant-peru-1997-egg-craft",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "u7g5Sn1DJF4",
+          "timestamp_start": 215,
+          "quote": "In 1997 Peru under Operation Laser Strike, Marine Lance Corporal Jonathan Wagant encountered a crashed egg-shaped craft embedded in a cliff face with an open hatch, four-fingered arm dangling out, and"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-u7g5Sn1DJF4-REFERENCES-claim-u7g5Sn1DJF4-wagant-peru-1997-egg-craft",
+      "from_node_id": "video-u7g5Sn1DJF4",
+      "to_node_id": "claim-u7g5Sn1DJF4-wagant-peru-1997-egg-craft",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "u7g5Sn1DJF4",
+          "timestamp_start": 215
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-u7g5Sn1DJF4-wagant-peru-1997-egg-craft-REFERENCES-person-jonathan-wagant",
+      "from_node_id": "claim-u7g5Sn1DJF4-wagant-peru-1997-egg-craft",
+      "to_node_id": "person-jonathan-wagant",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "u7g5Sn1DJF4",
+          "timestamp_start": 215
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-u7g5Sn1DJF4-wagant-peru-1997-egg-craft-REFERENCES-incident-1997-peru-wagant-ufo-crash",
+      "from_node_id": "claim-u7g5Sn1DJF4-wagant-peru-1997-egg-craft",
+      "to_node_id": "incident-1997-peru-wagant-ufo-crash",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "u7g5Sn1DJF4",
+          "timestamp_start": 215
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-u7g5Sn1DJF4-wagant-peru-1997-egg-craft-REFERENCES-event-operation-laser-strike-1997",
+      "from_node_id": "claim-u7g5Sn1DJF4-wagant-peru-1997-egg-craft",
+      "to_node_id": "event-operation-laser-strike-1997",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "u7g5Sn1DJF4",
+          "timestamp_start": 215
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jonathan-wagant-ASSERTED-claim-u7g5Sn1DJF4-wagant-telepathic-plea-help",
+      "from_node_id": "person-jonathan-wagant",
+      "to_node_id": "claim-u7g5Sn1DJF4-wagant-telepathic-plea-help",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "u7g5Sn1DJF4",
+          "timestamp_start": 221,
+          "quote": "Wagant reports a being communicated to him telepathically during the Peru 1997 encounter — 'not going to harm me, everything will be all right, help us get out of here.'"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-u7g5Sn1DJF4-REFERENCES-claim-u7g5Sn1DJF4-wagant-telepathic-plea-help",
+      "from_node_id": "video-u7g5Sn1DJF4",
+      "to_node_id": "claim-u7g5Sn1DJF4-wagant-telepathic-plea-help",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "u7g5Sn1DJF4",
+          "timestamp_start": 221
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-u7g5Sn1DJF4-wagant-telepathic-plea-help-REFERENCES-incident-1997-peru-wagant-ufo-crash",
+      "from_node_id": "claim-u7g5Sn1DJF4-wagant-telepathic-plea-help",
+      "to_node_id": "incident-1997-peru-wagant-ufo-crash",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "u7g5Sn1DJF4",
+          "timestamp_start": 221
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-u7g5Sn1DJF4-wagant-telepathic-plea-help-REFERENCES-phenomenon-alien-telepathy",
+      "from_node_id": "claim-u7g5Sn1DJF4-wagant-telepathic-plea-help",
+      "to_node_id": "phenomenon-alien-telepathy",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "u7g5Sn1DJF4",
+          "timestamp_start": 221
+        }
+      ]
+    },
+    {
+      "id": "edge-person-sammy-uap-gerb-ASSERTED-claim-u7g5Sn1DJF4-8-to-12-operators-black-no-insignia",
+      "from_node_id": "person-sammy-uap-gerb",
+      "to_node_id": "claim-u7g5Sn1DJF4-8-to-12-operators-black-no-insignia",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "u7g5Sn1DJF4",
+          "timestamp_start": 225,
+          "quote": "Common thread across three independent crash-retrieval witnesses: intercepted by 8-12 operators in all black with no insignia / name tags, held at gunpoint, and dosed with what they were told were 'an"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-u7g5Sn1DJF4-REFERENCES-claim-u7g5Sn1DJF4-8-to-12-operators-black-no-insignia",
+      "from_node_id": "video-u7g5Sn1DJF4",
+      "to_node_id": "claim-u7g5Sn1DJF4-8-to-12-operators-black-no-insignia",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "u7g5Sn1DJF4",
+          "timestamp_start": 225
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-u7g5Sn1DJF4-8-to-12-operators-black-no-insignia-REFERENCES-person-jonathan-wagant",
+      "from_node_id": "claim-u7g5Sn1DJF4-8-to-12-operators-black-no-insignia",
+      "to_node_id": "person-jonathan-wagant",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "u7g5Sn1DJF4",
+          "timestamp_start": 225
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-u7g5Sn1DJF4-8-to-12-operators-black-no-insignia-REFERENCES-person-michael-herrera",
+      "from_node_id": "claim-u7g5Sn1DJF4-8-to-12-operators-black-no-insignia",
+      "to_node_id": "person-michael-herrera",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "u7g5Sn1DJF4",
+          "timestamp_start": 225
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-u7g5Sn1DJF4-8-to-12-operators-black-no-insignia-REFERENCES-person-jake-barber",
+      "from_node_id": "claim-u7g5Sn1DJF4-8-to-12-operators-black-no-insignia",
+      "to_node_id": "person-jake-barber",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "u7g5Sn1DJF4",
+          "timestamp_start": 225
+        }
+      ]
+    },
+    {
+      "id": "edge-person-sammy-uap-gerb-ASSERTED-claim-u7g5Sn1DJF4-gerb-doug-wolf-nro-oga",
+      "from_node_id": "person-sammy-uap-gerb",
+      "to_node_id": "claim-u7g5Sn1DJF4-gerb-doug-wolf-nro-oga",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "u7g5Sn1DJF4",
+          "timestamp_start": 245,
+          "quote": "Doug Wolf: 16 years NRO, executive assistant to the NRO director, CIA DS&T Deputy Director, started the OGA, DDNI ATNF — holds direct oversight over NRO acquisitions."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-u7g5Sn1DJF4-REFERENCES-claim-u7g5Sn1DJF4-gerb-doug-wolf-nro-oga",
+      "from_node_id": "video-u7g5Sn1DJF4",
+      "to_node_id": "claim-u7g5Sn1DJF4-gerb-doug-wolf-nro-oga",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "u7g5Sn1DJF4",
+          "timestamp_start": 245
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-u7g5Sn1DJF4-gerb-doug-wolf-nro-oga-REFERENCES-person-doug-wolf",
+      "from_node_id": "claim-u7g5Sn1DJF4-gerb-doug-wolf-nro-oga",
+      "to_node_id": "person-doug-wolf",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "u7g5Sn1DJF4",
+          "timestamp_start": 245
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-u7g5Sn1DJF4-gerb-doug-wolf-nro-oga-REFERENCES-program-oga-office-global-access",
+      "from_node_id": "claim-u7g5Sn1DJF4-gerb-doug-wolf-nro-oga",
+      "to_node_id": "program-oga-office-global-access",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "u7g5Sn1DJF4",
+          "timestamp_start": 245
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-u7g5Sn1DJF4-gerb-doug-wolf-nro-oga-REFERENCES-organization-nro",
+      "from_node_id": "claim-u7g5Sn1DJF4-gerb-doug-wolf-nro-oga",
+      "to_node_id": "organization-nro",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "u7g5Sn1DJF4",
+          "timestamp_start": 245
+        }
+      ]
+    },
+    {
+      "id": "edge-person-sammy-uap-gerb-ASSERTED-claim-u7g5Sn1DJF4-looking-glass-lazar-briefed",
+      "from_node_id": "person-sammy-uap-gerb",
+      "to_node_id": "claim-u7g5Sn1DJF4-looking-glass-lazar-briefed",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "u7g5Sn1DJF4",
+          "timestamp_start": 253,
+          "quote": "Per Jesse: Bob Lazar was briefed on Project Looking Glass — timeline manipulation via Planck-scale time frames combined with many-worlds quantum mechanics."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-u7g5Sn1DJF4-REFERENCES-claim-u7g5Sn1DJF4-looking-glass-lazar-briefed",
+      "from_node_id": "video-u7g5Sn1DJF4",
+      "to_node_id": "claim-u7g5Sn1DJF4-looking-glass-lazar-briefed",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "u7g5Sn1DJF4",
+          "timestamp_start": 253
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-u7g5Sn1DJF4-looking-glass-lazar-briefed-REFERENCES-person-bob-lazar-extended",
+      "from_node_id": "claim-u7g5Sn1DJF4-looking-glass-lazar-briefed",
+      "to_node_id": "person-bob-lazar-extended",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "u7g5Sn1DJF4",
+          "timestamp_start": 253
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-u7g5Sn1DJF4-looking-glass-lazar-briefed-REFERENCES-program-looking-glass",
+      "from_node_id": "claim-u7g5Sn1DJF4-looking-glass-lazar-briefed",
+      "to_node_id": "program-looking-glass",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "u7g5Sn1DJF4",
+          "timestamp_start": 253
+        }
+      ]
     }
   ],
-  "extracted_at": "2026-04-17T11:04:38.482450+00:00",
+  "extracted_at": "2026-04-17T13:07:01.202683+00:00",
   "extractor_version": "v1-inline-claude"
 }

@@ -638,6 +638,389 @@
           "video-ePdH01pphbk"
         ]
       }
+    },
+    {
+      "id": "person-michael-pillsbury",
+      "node_type": "person",
+      "label": "Michael Pillsbury",
+      "summary": "American strategist specializing in China; decades in US national security apparatus. Author of 'The Hundred-Year Marathon' on China's long-term plan to replace US as global superpower. Jesse Michels interview guest.",
+      "tags": [
+        "strategist",
+        "China-expert",
+        "author"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.111930+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ePdH01pphbk",
+          "timestamp_start": 562,
+          "quote": "US China-hawk strategist; The Hundred-Year Marathon author"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Pillsbury"
+        ],
+        "profession": "strategist",
+        "notability_tags": [
+          "strategist",
+          "China-expert",
+          "author"
+        ]
+      }
+    },
+    {
+      "id": "person-josh-rogin",
+      "node_type": "person",
+      "label": "Josh Rogin",
+      "summary": "Washington Post columnist; consistent public critic of CCP human rights abuses and US-China dynamics.",
+      "tags": [
+        "journalist",
+        "China-analyst"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.111932+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ePdH01pphbk",
+          "timestamp_start": 562,
+          "quote": "Washington Post columnist; CCP-scrutiny journalist"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Rogin"
+        ],
+        "profession": "journalist",
+        "notability_tags": [
+          "journalist",
+          "China-analyst"
+        ]
+      }
+    },
+    {
+      "id": "person-xi-jinping",
+      "node_type": "person",
+      "label": "Xi Jinping",
+      "summary": "General Secretary of the Chinese Communist Party since 2012. Per Pillsbury: Chinese people see him as the leader who will restore China to 'its rightful place.'",
+      "tags": [
+        "politician",
+        "China",
+        "CCP"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.111934+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ePdH01pphbk",
+          "timestamp_start": 562,
+          "quote": "Chinese Communist Party General Secretary"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Xi"
+        ],
+        "profession": "politician",
+        "notability_tags": [
+          "politician",
+          "China",
+          "CCP"
+        ]
+      }
+    },
+    {
+      "id": "person-bill-nelson-nasa",
+      "node_type": "person",
+      "label": "Bill Nelson (NASA Administrator)",
+      "summary": "Bill Nelson — NASA Administrator; publicly expressed confusion over China's decision to send rovers to the dark side of the moon — 'I have no idea why they made that decision.'",
+      "tags": [
+        "NASA",
+        "official"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.111936+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ePdH01pphbk",
+          "timestamp_start": 574,
+          "quote": "NASA Administrator; publicly befuddled by China Moon dark-side rovers"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Nelson"
+        ],
+        "profession": "official",
+        "notability_tags": [
+          "NASA",
+          "official"
+        ]
+      }
+    },
+    {
+      "id": "event-2023-chinese-spy-balloon",
+      "node_type": "event",
+      "label": "2023 Chinese Spy Balloon (Billings Montana)",
+      "summary": "January 2023: Chinese surveillance balloon spotted over Billings Montana — flew over Aleutian island chain on approach (first line of US ICBM-radar defense). Possibly testing US radar detection limits. Possibly delivery mechanism for EMP.",
+      "tags": [
+        "sighting"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.111939+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ePdH01pphbk",
+          "timestamp_start": 578,
+          "timestamp_end": "Chinese high-altitude surveillance balloon spotted over Billings MT Jan 2023"
+        }
+      ],
+      "type_specific": {
+        "event_type": "sighting",
+        "date_approximate": "2023-01-28"
+      }
+    },
+    {
+      "id": "concept-hundred-year-marathon",
+      "node_type": "concept",
+      "label": "The Hundred-Year Marathon (Pillsbury Thesis)",
+      "summary": "Michael Pillsbury's thesis: the CCP has been executing a hundred-year marathon to replace the United States as global superpower by 2049 (centenary of founding of PRC). FBI now opening new China-related counterintelligence cases every ~10 hours.",
+      "tags": [
+        "politics"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.111941+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ePdH01pphbk",
+          "timestamp_start": 562,
+          "timestamp_end": "Pillsbury's thesis on China's 100-year plan to replace US"
+        }
+      ],
+      "type_specific": {
+        "concept_domain": "politics"
+      }
+    },
+    {
+      "id": "claim-ePdH01pphbk-pillsbury-fbi-10-hours-china-case",
+      "node_type": "claim",
+      "label": "Per Pillsbury: the FBI is opening a new China-related counterintelligence case approximately every 1",
+      "summary": "Per Pillsbury: the FBI is opening a new China-related counterintelligence case approximately every 10 hours — quantitative pace-of-threat metric.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.144826+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ePdH01pphbk",
+          "timestamp_start": 562,
+          "quote": "The FBI is opening a new China related counterintelligence case about every 10 hours. Didn't you find that unusual? Yes, I found that quite unusual."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Per Pillsbury: the FBI is opening a new China-related counterintelligence case approximately every 10 hours — quantitative pace-of-threat metric.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "ePdH01pphbk",
+        "timestamp_start_seconds": 562,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-michael-pillsbury",
+          "concept-hundred-year-marathon"
+        ]
+      }
+    },
+    {
+      "id": "claim-ePdH01pphbk-pillsbury-xi-restore-china",
+      "node_type": "claim",
+      "label": "Pillsbury's framing: Chinese people see Xi Jinping as 'the guy who's going to restore China to its r",
+      "summary": "Pillsbury's framing: Chinese people see Xi Jinping as 'the guy who's going to restore China to its rightful place' — geopolitical vision driving hundred-year-marathon execution.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.144837+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ePdH01pphbk",
+          "timestamp_start": 562,
+          "quote": "Xi Jinping to Chinese as I understand it — they see him as the guy who's going to restore China to its rightful place."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Pillsbury's framing: Chinese people see Xi Jinping as 'the guy who's going to restore China to its rightful place' — geopolitical vision driving hundred-year-marathon execution.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "ePdH01pphbk",
+        "timestamp_start_seconds": 562,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-michael-pillsbury",
+          "person-xi-jinping",
+          "concept-hundred-year-marathon"
+        ]
+      }
+    },
+    {
+      "id": "claim-ePdH01pphbk-ccp-recommending-three-body-problem-students",
+      "node_type": "claim",
+      "label": "CCP and its education officials have been recommending The Three-Body Problem trilogy to Chinese stu",
+      "summary": "CCP and its education officials have been recommending The Three-Body Problem trilogy to Chinese students — despite the trilogy's depiction of Chinese Cultural Revolution brutalities and anti-government undercurrents. Possibly soft-disclosure of alien-threat framework.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.144844+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ePdH01pphbk",
+          "timestamp_start": 568,
+          "quote": "The CCP and its education officials have been recommending the three-body problem to students across China. Does the Chinese Communist Party believe in aliens? I don't know, maybe that's a way for the Chinese government to acclimatize the populace."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "CCP and its education officials have been recommending The Three-Body Problem trilogy to Chinese students — despite the trilogy's depiction of Chinese Cultural Revolution brutalities and anti-government undercurrents. Possibly soft-disclosure of alien-threat framework.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "ePdH01pphbk",
+        "timestamp_start_seconds": 568,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-michael-pillsbury",
+          "document-three-body-problem"
+        ]
+      }
+    },
+    {
+      "id": "claim-ePdH01pphbk-china-moon-dark-side-rovers",
+      "node_type": "claim",
+      "label": "China sending rovers to the dark side of the moon — NASA Administrator Bill Nelson publicly admits '",
+      "summary": "China sending rovers to the dark side of the moon — NASA Administrator Bill Nelson publicly admits 'I have no idea' why they made that decision. Strategic or UAP-related motivation unclear.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.144853+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ePdH01pphbk",
+          "timestamp_start": 574,
+          "quote": "They are sending Rovers to the dark side of the moon — a move that's even befuddling to NASA administrator Bill Nelson. Why do you think they made that decision? I'm curious. I have no idea."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "China sending rovers to the dark side of the moon — NASA Administrator Bill Nelson publicly admits 'I have no idea' why they made that decision. Strategic or UAP-related motivation unclear.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "ePdH01pphbk",
+        "timestamp_start_seconds": 574,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-bill-nelson-nasa"
+        ]
+      }
+    },
+    {
+      "id": "claim-ePdH01pphbk-china-spy-balloon-aleutian-path",
+      "node_type": "claim",
+      "label": "January 2023 Chinese spy balloon flew over Aleutian island chain in Alaska before hitting Montana — ",
+      "summary": "January 2023 Chinese spy balloon flew over Aleutian island chain in Alaska before hitting Montana — the US's first line of ICBM-radar defense. Flight path suggests testing limits of US radar detection of high-altitude objects (modern spy balloons can reach 200,000 ft).",
+      "tags": [
+        "speculation",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.144859+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ePdH01pphbk",
+          "timestamp_start": 581,
+          "quote": "Before hitting Montana, it flew over the Aleutian island chain in Alaska. This is the US's first line of defense, an ICBM radar system meant to detect foreign missiles. Modern spy balloons can now travel up to 200,000 ft. Could this spy balloon have been testing the limit of US radar detection capabilities?"
+        }
+      ],
+      "type_specific": {
+        "statement_text": "January 2023 Chinese spy balloon flew over Aleutian island chain in Alaska before hitting Montana — the US's first line of ICBM-radar defense. Flight path suggests testing limits of US radar detection of high-altitude objects (modern spy balloons can reach 200,000 ft).",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "ePdH01pphbk",
+        "timestamp_start_seconds": 581,
+        "assertability": "speculation",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "event-2023-chinese-spy-balloon"
+        ]
+      }
+    },
+    {
+      "id": "claim-ePdH01pphbk-tiktok-bytedance-track-us-citizen",
+      "node_type": "claim",
+      "label": "2022 revelation: ByteDance (TikTok parent) planned to use the app to monitor the location of specifi",
+      "summary": "2022 revelation: ByteDance (TikTok parent) planned to use the app to monitor the location of specific American citizens — weaponized investigations team to collect data about a US citizen who was simply a TikTok consumer.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.144865+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ePdH01pphbk",
+          "timestamp_start": 585,
+          "quote": "In 2022 it was revealed that ByteDance, the parent company of TikTok, planned to use the social media app to monitor the location of specific American citizens. The company weaponized an investigations team to collect data about the location of a US citizen."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "2022 revelation: ByteDance (TikTok parent) planned to use the app to monitor the location of specific American citizens — weaponized investigations team to collect data about a US citizen who was simply a TikTok consumer.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "ePdH01pphbk",
+        "timestamp_start_seconds": 585,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "event-2023-chinese-spy-balloon"
+        ]
+      }
     }
   ],
   "edges": [
@@ -1002,8 +1385,322 @@
           "timestamp_start": 0
         }
       ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-ePdH01pphbk-pillsbury-fbi-10-hours-china-case",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-ePdH01pphbk-pillsbury-fbi-10-hours-china-case",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ePdH01pphbk",
+          "timestamp_start": 562,
+          "quote": "Per Pillsbury: the FBI is opening a new China-related counterintelligence case approximately every 10 hours — quantitative pace-of-threat metric."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ePdH01pphbk-REFERENCES-claim-ePdH01pphbk-pillsbury-fbi-10-hours-china-case",
+      "from_node_id": "video-ePdH01pphbk",
+      "to_node_id": "claim-ePdH01pphbk-pillsbury-fbi-10-hours-china-case",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ePdH01pphbk",
+          "timestamp_start": 562
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-ePdH01pphbk-pillsbury-fbi-10-hours-china-case-REFERENCES-person-michael-pillsbury",
+      "from_node_id": "claim-ePdH01pphbk-pillsbury-fbi-10-hours-china-case",
+      "to_node_id": "person-michael-pillsbury",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ePdH01pphbk",
+          "timestamp_start": 562
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-ePdH01pphbk-pillsbury-fbi-10-hours-china-case-REFERENCES-concept-hundred-year-marathon",
+      "from_node_id": "claim-ePdH01pphbk-pillsbury-fbi-10-hours-china-case",
+      "to_node_id": "concept-hundred-year-marathon",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ePdH01pphbk",
+          "timestamp_start": 562
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-ePdH01pphbk-pillsbury-xi-restore-china",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-ePdH01pphbk-pillsbury-xi-restore-china",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ePdH01pphbk",
+          "timestamp_start": 562,
+          "quote": "Pillsbury's framing: Chinese people see Xi Jinping as 'the guy who's going to restore China to its rightful place' — geopolitical vision driving hundred-year-marathon execution."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ePdH01pphbk-REFERENCES-claim-ePdH01pphbk-pillsbury-xi-restore-china",
+      "from_node_id": "video-ePdH01pphbk",
+      "to_node_id": "claim-ePdH01pphbk-pillsbury-xi-restore-china",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ePdH01pphbk",
+          "timestamp_start": 562
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-ePdH01pphbk-pillsbury-xi-restore-china-REFERENCES-person-michael-pillsbury",
+      "from_node_id": "claim-ePdH01pphbk-pillsbury-xi-restore-china",
+      "to_node_id": "person-michael-pillsbury",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ePdH01pphbk",
+          "timestamp_start": 562
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-ePdH01pphbk-pillsbury-xi-restore-china-REFERENCES-person-xi-jinping",
+      "from_node_id": "claim-ePdH01pphbk-pillsbury-xi-restore-china",
+      "to_node_id": "person-xi-jinping",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ePdH01pphbk",
+          "timestamp_start": 562
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-ePdH01pphbk-pillsbury-xi-restore-china-REFERENCES-concept-hundred-year-marathon",
+      "from_node_id": "claim-ePdH01pphbk-pillsbury-xi-restore-china",
+      "to_node_id": "concept-hundred-year-marathon",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ePdH01pphbk",
+          "timestamp_start": 562
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-ePdH01pphbk-ccp-recommending-three-body-problem-students",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-ePdH01pphbk-ccp-recommending-three-body-problem-students",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ePdH01pphbk",
+          "timestamp_start": 568,
+          "quote": "CCP and its education officials have been recommending The Three-Body Problem trilogy to Chinese students — despite the trilogy's depiction of Chinese Cultural Revolution brutalities and anti-governme"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ePdH01pphbk-REFERENCES-claim-ePdH01pphbk-ccp-recommending-three-body-problem-students",
+      "from_node_id": "video-ePdH01pphbk",
+      "to_node_id": "claim-ePdH01pphbk-ccp-recommending-three-body-problem-students",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ePdH01pphbk",
+          "timestamp_start": 568
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-ePdH01pphbk-ccp-recommending-three-body-problem-students-REFERENCES-person-michael-pillsbury",
+      "from_node_id": "claim-ePdH01pphbk-ccp-recommending-three-body-problem-students",
+      "to_node_id": "person-michael-pillsbury",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ePdH01pphbk",
+          "timestamp_start": 568
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-ePdH01pphbk-ccp-recommending-three-body-problem-students-REFERENCES-document-three-body-problem",
+      "from_node_id": "claim-ePdH01pphbk-ccp-recommending-three-body-problem-students",
+      "to_node_id": "document-three-body-problem",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ePdH01pphbk",
+          "timestamp_start": 568
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-ePdH01pphbk-china-moon-dark-side-rovers",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-ePdH01pphbk-china-moon-dark-side-rovers",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ePdH01pphbk",
+          "timestamp_start": 574,
+          "quote": "China sending rovers to the dark side of the moon — NASA Administrator Bill Nelson publicly admits 'I have no idea' why they made that decision. Strategic or UAP-related motivation unclear."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ePdH01pphbk-REFERENCES-claim-ePdH01pphbk-china-moon-dark-side-rovers",
+      "from_node_id": "video-ePdH01pphbk",
+      "to_node_id": "claim-ePdH01pphbk-china-moon-dark-side-rovers",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ePdH01pphbk",
+          "timestamp_start": 574
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-ePdH01pphbk-china-moon-dark-side-rovers-REFERENCES-person-bill-nelson-nasa",
+      "from_node_id": "claim-ePdH01pphbk-china-moon-dark-side-rovers",
+      "to_node_id": "person-bill-nelson-nasa",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ePdH01pphbk",
+          "timestamp_start": 574
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-ePdH01pphbk-china-spy-balloon-aleutian-path",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-ePdH01pphbk-china-spy-balloon-aleutian-path",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ePdH01pphbk",
+          "timestamp_start": 581,
+          "quote": "January 2023 Chinese spy balloon flew over Aleutian island chain in Alaska before hitting Montana — the US's first line of ICBM-radar defense. Flight path suggests testing limits of US radar detection"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ePdH01pphbk-REFERENCES-claim-ePdH01pphbk-china-spy-balloon-aleutian-path",
+      "from_node_id": "video-ePdH01pphbk",
+      "to_node_id": "claim-ePdH01pphbk-china-spy-balloon-aleutian-path",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ePdH01pphbk",
+          "timestamp_start": 581
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-ePdH01pphbk-china-spy-balloon-aleutian-path-REFERENCES-event-2023-chinese-spy-balloon",
+      "from_node_id": "claim-ePdH01pphbk-china-spy-balloon-aleutian-path",
+      "to_node_id": "event-2023-chinese-spy-balloon",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ePdH01pphbk",
+          "timestamp_start": 581
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-ePdH01pphbk-tiktok-bytedance-track-us-citizen",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-ePdH01pphbk-tiktok-bytedance-track-us-citizen",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ePdH01pphbk",
+          "timestamp_start": 585,
+          "quote": "2022 revelation: ByteDance (TikTok parent) planned to use the app to monitor the location of specific American citizens — weaponized investigations team to collect data about a US citizen who was simp"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ePdH01pphbk-REFERENCES-claim-ePdH01pphbk-tiktok-bytedance-track-us-citizen",
+      "from_node_id": "video-ePdH01pphbk",
+      "to_node_id": "claim-ePdH01pphbk-tiktok-bytedance-track-us-citizen",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ePdH01pphbk",
+          "timestamp_start": 585
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-ePdH01pphbk-tiktok-bytedance-track-us-citizen-REFERENCES-event-2023-chinese-spy-balloon",
+      "from_node_id": "claim-ePdH01pphbk-tiktok-bytedance-track-us-citizen",
+      "to_node_id": "event-2023-chinese-spy-balloon",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ePdH01pphbk",
+          "timestamp_start": 585
+        }
+      ]
     }
   ],
-  "extracted_at": "2026-04-17T11:05:09.101266+00:00",
+  "extracted_at": "2026-04-17T23:20:40.144871+00:00",
   "extractor_version": "v1-inline-claude"
 }

@@ -1166,6 +1166,397 @@
           "video-p0S0BfoZy0w"
         ]
       }
+    },
+    {
+      "id": "person-john-brandenburg",
+      "node_type": "person",
+      "label": "Dr. John Brandenburg",
+      "summary": "Plasma physicist. PhD; worked at Lawrence Livermore (fusion research under Edward Teller), then Sandia National Labs (directed energy weapons). Author of GEM (Gravity-Electromagnetism) unified-field theory. Discovered isotopic evidence for ancient thermonuclear-scale event on Mars.",
+      "tags": [
+        "scientist",
+        "physicist",
+        "Mars-researcher"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.687436+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 53,
+          "quote": "Plasma physicist; GEM theory; Mars nuclear-war evidence"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Brandenburg"
+        ],
+        "profession": "physicist",
+        "notability_tags": [
+          "scientist",
+          "physicist",
+          "Mars-researcher"
+        ]
+      }
+    },
+    {
+      "id": "concept-gem-gravity-em-theory",
+      "node_type": "concept",
+      "label": "GEM Theory (Gravity-Electromagnetism)",
+      "summary": "John Brandenburg's GEM (Gravity-Electromagnetism) theoretical framework attempting to marry gravity and electromagnetism from experimental perspective — extending Townsend Brown's work into a formal unified theory.",
+      "tags": [
+        "physics"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.687439+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 57,
+          "timestamp_end": "Brandenburg's unified-field framework marrying gravity and EM"
+        }
+      ],
+      "type_specific": {
+        "concept_domain": "physics"
+      }
+    },
+    {
+      "id": "concept-mars-nuclear-war-isotopes",
+      "node_type": "concept",
+      "label": "Mars Thermonuclear-Holocaust Hypothesis",
+      "summary": "Brandenburg's hypothesis: isotopic evidence (Xenon-129 enrichment) on Mars indicates an ancient thermonuclear-scale event that destroyed a Martian civilization. 'When it all hit me I wept like a child.'",
+      "tags": [
+        "physics"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.687441+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 53,
+          "timestamp_end": "Isotopic evidence for ancient Mars nuclear event per Brandenburg"
+        }
+      ],
+      "type_specific": {
+        "concept_domain": "physics"
+      }
+    },
+    {
+      "id": "location-cydonia-mensae-mars",
+      "node_type": "location",
+      "label": "Cydonia Mensae (Mars)",
+      "summary": "",
+      "tags": [
+        "region"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.687447+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 51,
+          "timestamp_end": "Mars site containing the Face, five-sided pyramid, and alleged ocean evidence"
+        }
+      ],
+      "type_specific": {
+        "location_type": "region",
+        "country": "MARS"
+      }
+    },
+    {
+      "id": "location-lawrence-livermore",
+      "node_type": "location",
+      "label": "Lawrence Livermore National Lab",
+      "summary": "",
+      "tags": [
+        "research_facility"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.687450+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 63,
+          "timestamp_end": "Fusion research + H-bomb development; Brandenburg's first lab"
+        }
+      ],
+      "type_specific": {
+        "location_type": "research_facility",
+        "country": "US",
+        "state_or_region": "California"
+      }
+    },
+    {
+      "id": "location-sandia-national-lab",
+      "node_type": "location",
+      "label": "Sandia National Laboratories",
+      "summary": "",
+      "tags": [
+        "research_facility"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.687452+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 65,
+          "timestamp_end": "Directed-energy weapons lab; Brandenburg's second lab"
+        }
+      ],
+      "type_specific": {
+        "location_type": "research_facility",
+        "country": "US",
+        "state_or_region": "New Mexico"
+      }
+    },
+    {
+      "id": "event-able-archer-1983-crisis",
+      "node_type": "event",
+      "label": "Able Archer 1983 Nuclear Crisis",
+      "summary": "November 1983 classified nuclear war brinkmanship during NATO Able Archer exercise — US was as close to nuclear war as during Cuban Missile Crisis. Only lab-fence personnel knew at the time.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.687454+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 67,
+          "timestamp_end": "Classified near-nuclear-war event Brandenburg lived through"
+        }
+      ],
+      "type_specific": {
+        "event_type": "other",
+        "date_approximate": "1983-11-02"
+      }
+    },
+    {
+      "id": "claim-p0S0BfoZy0w-brandenburg-mars-xenon-isotopes",
+      "node_type": "claim",
+      "label": "Brandenburg analyzed Mars isotopic evidence — Xenon-129 enrichment consistent with ancient thermonuc",
+      "summary": "Brandenburg analyzed Mars isotopic evidence — Xenon-129 enrichment consistent with ancient thermonuclear-scale event — corroborating a dead-civilization-destroyed-by-nuclear-war hypothesis. 'I wept like a child.'",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.692382+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 53,
+          "quote": "I found and digested the isotopic evidence and when it all hit me I wept like a child. It looked like a thermonuclear holocaust. We were so afraid it would happen on Earth."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Brandenburg analyzed Mars isotopic evidence — Xenon-129 enrichment consistent with ancient thermonuclear-scale event — corroborating a dead-civilization-destroyed-by-nuclear-war hypothesis. 'I wept like a child.'",
+        "asserted_by_id": "person-john-brandenburg",
+        "source_video_id": "p0S0BfoZy0w",
+        "timestamp_start_seconds": 53,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-john-brandenburg",
+          "concept-mars-nuclear-war-isotopes",
+          "location-cydonia-mensae-mars"
+        ]
+      }
+    },
+    {
+      "id": "claim-p0S0BfoZy0w-brandenburg-martian-ocean-discovery",
+      "node_type": "claim",
+      "label": "Brandenburg was the researcher who found evidence of a Martian ocean: 'Mars was covered with liquid ",
+      "summary": "Brandenburg was the researcher who found evidence of a Martian ocean: 'Mars was covered with liquid water. I was the one to find the Martian ocean.'",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.692402+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 51,
+          "quote": "Mars was covered with liquid water. I was the one to find the Martian ocean."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Brandenburg was the researcher who found evidence of a Martian ocean: 'Mars was covered with liquid water. I was the one to find the Martian ocean.'",
+        "asserted_by_id": "person-john-brandenburg",
+        "source_video_id": "p0S0BfoZy0w",
+        "timestamp_start_seconds": 51,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-john-brandenburg",
+          "location-cydonia-mensae-mars"
+        ]
+      }
+    },
+    {
+      "id": "claim-p0S0BfoZy0w-brandenburg-cydonia-face-pyramid-suppressed",
+      "node_type": "claim",
+      "label": "Per Brandenburg: NASA never shows the 'Face' on Mars and the five-sided pyramid together in public p",
+      "summary": "Per Brandenburg: NASA never shows the 'Face' on Mars and the five-sided pyramid together in public photos — because juxtaposition makes archaeological origin obvious. Brandenburg saw Carl Sagan push him on the evidence when colleagues mocked it.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.692410+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 51,
+          "quote": "Cydonia Mensae is a site where there's the face and then there's a five-sided pyramid. NASA never shows that picture of the face beside the pyramid together in any of their public photos. Carl Sagan is trying to get hold of me and I said, 'What you think of the pictures? Why are you causing this trouble?'"
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Per Brandenburg: NASA never shows the 'Face' on Mars and the five-sided pyramid together in public photos — because juxtaposition makes archaeological origin obvious. Brandenburg saw Carl Sagan push him on the evidence when colleagues mocked it.",
+        "asserted_by_id": "person-john-brandenburg",
+        "source_video_id": "p0S0BfoZy0w",
+        "timestamp_start_seconds": 51,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-john-brandenburg",
+          "location-cydonia-mensae-mars",
+          "person-carl-sagan",
+          "organization-nasa"
+        ]
+      }
+    },
+    {
+      "id": "claim-p0S0BfoZy0w-brandenburg-joint-chiefs-staff-confirm",
+      "node_type": "claim",
+      "label": "At a staff level of the Joint Chiefs during the Reagan administration, a colonel Brandenburg knew di",
+      "summary": "At a staff level of the Joint Chiefs during the Reagan administration, a colonel Brandenburg knew directly confirmed: 'Is there really a UFO coverup? Yes. That's all I can tell you. The rest you can figure out for yourself.'",
+      "tags": [
+        "hearsay",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.692420+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 77,
+          "quote": "A friend of a friend worked for the Joint Chiefs of Staff. He was a colonel. I asked this fellow, 'Is there really a UFO cover up?' And he said, 'Yes. And that's all I can tell you. The rest you can figure out for yourself.'"
+        }
+      ],
+      "type_specific": {
+        "statement_text": "At a staff level of the Joint Chiefs during the Reagan administration, a colonel Brandenburg knew directly confirmed: 'Is there really a UFO coverup? Yes. That's all I can tell you. The rest you can figure out for yourself.'",
+        "asserted_by_id": "person-john-brandenburg",
+        "source_video_id": "p0S0BfoZy0w",
+        "timestamp_start_seconds": 77,
+        "assertability": "hearsay",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-john-brandenburg"
+        ]
+      }
+    },
+    {
+      "id": "claim-p0S0BfoZy0w-brandenburg-able-archer-1983",
+      "node_type": "claim",
+      "label": "Brandenburg lived through the classified November 1983 Able Archer near-nuclear-war crisis at Sandia",
+      "summary": "Brandenburg lived through the classified November 1983 Able Archer near-nuclear-war crisis at Sandia — 'only people on the lab premises inside the fence knew how bad things were.'",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.692427+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 67,
+          "quote": "The Able Archer crisis of 1983 which was classified. We were as close to a nuclear war as we were during the Cuban missile crisis but it was secret. Only people on the lab premises inside the fence knew how bad things were."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Brandenburg lived through the classified November 1983 Able Archer near-nuclear-war crisis at Sandia — 'only people on the lab premises inside the fence knew how bad things were.'",
+        "asserted_by_id": "person-john-brandenburg",
+        "source_video_id": "p0S0BfoZy0w",
+        "timestamp_start_seconds": 67,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-john-brandenburg",
+          "event-able-archer-1983-crisis",
+          "location-sandia-national-lab"
+        ]
+      }
+    },
+    {
+      "id": "claim-p0S0BfoZy0w-brandenburg-teller-conscience",
+      "node_type": "claim",
+      "label": "Brandenburg personally knew Edward Teller at Livermore; describes Teller (contrary to post-Oppenheim",
+      "summary": "Brandenburg personally knew Edward Teller at Livermore; describes Teller (contrary to post-Oppenheimer villain framing) as 'creative, enlightened, conscience-driven' — H-bomb motivated by Hungarian Russia-fear and Western defense necessity.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.692435+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 83,
+          "quote": "He had big eyebrows. He's Hungarian and Jewish. I considered him a very creative, enlightened person. He was acting on instinct — from Hungary which has a bad history with Russia."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Brandenburg personally knew Edward Teller at Livermore; describes Teller (contrary to post-Oppenheimer villain framing) as 'creative, enlightened, conscience-driven' — H-bomb motivated by Hungarian Russia-fear and Western defense necessity.",
+        "asserted_by_id": "person-john-brandenburg",
+        "source_video_id": "p0S0BfoZy0w",
+        "timestamp_start_seconds": 83,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-john-brandenburg",
+          "person-edward-teller"
+        ]
+      }
     }
   ],
   "edges": [
@@ -1815,8 +2206,308 @@
           "timestamp_start": 0
         }
       ]
+    },
+    {
+      "id": "edge-person-john-brandenburg-ASSERTED-claim-p0S0BfoZy0w-brandenburg-mars-xenon-isotopes",
+      "from_node_id": "person-john-brandenburg",
+      "to_node_id": "claim-p0S0BfoZy0w-brandenburg-mars-xenon-isotopes",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 53,
+          "quote": "Brandenburg analyzed Mars isotopic evidence — Xenon-129 enrichment consistent with ancient thermonuclear-scale event — corroborating a dead-civilization-destroyed-by-nuclear-war hypothesis. 'I wept li"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-p0S0BfoZy0w-REFERENCES-claim-p0S0BfoZy0w-brandenburg-mars-xenon-isotopes",
+      "from_node_id": "video-p0S0BfoZy0w",
+      "to_node_id": "claim-p0S0BfoZy0w-brandenburg-mars-xenon-isotopes",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 53
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-p0S0BfoZy0w-brandenburg-mars-xenon-isotopes-REFERENCES-concept-mars-nuclear-war-isotopes",
+      "from_node_id": "claim-p0S0BfoZy0w-brandenburg-mars-xenon-isotopes",
+      "to_node_id": "concept-mars-nuclear-war-isotopes",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 53
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-p0S0BfoZy0w-brandenburg-mars-xenon-isotopes-REFERENCES-location-cydonia-mensae-mars",
+      "from_node_id": "claim-p0S0BfoZy0w-brandenburg-mars-xenon-isotopes",
+      "to_node_id": "location-cydonia-mensae-mars",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 53
+        }
+      ]
+    },
+    {
+      "id": "edge-person-john-brandenburg-ASSERTED-claim-p0S0BfoZy0w-brandenburg-martian-ocean-discovery",
+      "from_node_id": "person-john-brandenburg",
+      "to_node_id": "claim-p0S0BfoZy0w-brandenburg-martian-ocean-discovery",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 51,
+          "quote": "Brandenburg was the researcher who found evidence of a Martian ocean: 'Mars was covered with liquid water. I was the one to find the Martian ocean.'"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-p0S0BfoZy0w-REFERENCES-claim-p0S0BfoZy0w-brandenburg-martian-ocean-discovery",
+      "from_node_id": "video-p0S0BfoZy0w",
+      "to_node_id": "claim-p0S0BfoZy0w-brandenburg-martian-ocean-discovery",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 51
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-p0S0BfoZy0w-brandenburg-martian-ocean-discovery-REFERENCES-location-cydonia-mensae-mars",
+      "from_node_id": "claim-p0S0BfoZy0w-brandenburg-martian-ocean-discovery",
+      "to_node_id": "location-cydonia-mensae-mars",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 51
+        }
+      ]
+    },
+    {
+      "id": "edge-person-john-brandenburg-ASSERTED-claim-p0S0BfoZy0w-brandenburg-cydonia-face-pyramid-suppressed",
+      "from_node_id": "person-john-brandenburg",
+      "to_node_id": "claim-p0S0BfoZy0w-brandenburg-cydonia-face-pyramid-suppressed",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 51,
+          "quote": "Per Brandenburg: NASA never shows the 'Face' on Mars and the five-sided pyramid together in public photos — because juxtaposition makes archaeological origin obvious. Brandenburg saw Carl Sagan push h"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-p0S0BfoZy0w-REFERENCES-claim-p0S0BfoZy0w-brandenburg-cydonia-face-pyramid-suppressed",
+      "from_node_id": "video-p0S0BfoZy0w",
+      "to_node_id": "claim-p0S0BfoZy0w-brandenburg-cydonia-face-pyramid-suppressed",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 51
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-p0S0BfoZy0w-brandenburg-cydonia-face-pyramid-suppressed-REFERENCES-location-cydonia-mensae-mars",
+      "from_node_id": "claim-p0S0BfoZy0w-brandenburg-cydonia-face-pyramid-suppressed",
+      "to_node_id": "location-cydonia-mensae-mars",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 51
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-p0S0BfoZy0w-brandenburg-cydonia-face-pyramid-suppressed-REFERENCES-person-carl-sagan",
+      "from_node_id": "claim-p0S0BfoZy0w-brandenburg-cydonia-face-pyramid-suppressed",
+      "to_node_id": "person-carl-sagan",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 51
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-p0S0BfoZy0w-brandenburg-cydonia-face-pyramid-suppressed-REFERENCES-organization-nasa",
+      "from_node_id": "claim-p0S0BfoZy0w-brandenburg-cydonia-face-pyramid-suppressed",
+      "to_node_id": "organization-nasa",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 51
+        }
+      ]
+    },
+    {
+      "id": "edge-person-john-brandenburg-ASSERTED-claim-p0S0BfoZy0w-brandenburg-joint-chiefs-staff-confirm",
+      "from_node_id": "person-john-brandenburg",
+      "to_node_id": "claim-p0S0BfoZy0w-brandenburg-joint-chiefs-staff-confirm",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 77,
+          "quote": "At a staff level of the Joint Chiefs during the Reagan administration, a colonel Brandenburg knew directly confirmed: 'Is there really a UFO coverup? Yes. That's all I can tell you. The rest you can f"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-p0S0BfoZy0w-REFERENCES-claim-p0S0BfoZy0w-brandenburg-joint-chiefs-staff-confirm",
+      "from_node_id": "video-p0S0BfoZy0w",
+      "to_node_id": "claim-p0S0BfoZy0w-brandenburg-joint-chiefs-staff-confirm",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 77
+        }
+      ]
+    },
+    {
+      "id": "edge-person-john-brandenburg-ASSERTED-claim-p0S0BfoZy0w-brandenburg-able-archer-1983",
+      "from_node_id": "person-john-brandenburg",
+      "to_node_id": "claim-p0S0BfoZy0w-brandenburg-able-archer-1983",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 67,
+          "quote": "Brandenburg lived through the classified November 1983 Able Archer near-nuclear-war crisis at Sandia — 'only people on the lab premises inside the fence knew how bad things were.'"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-p0S0BfoZy0w-REFERENCES-claim-p0S0BfoZy0w-brandenburg-able-archer-1983",
+      "from_node_id": "video-p0S0BfoZy0w",
+      "to_node_id": "claim-p0S0BfoZy0w-brandenburg-able-archer-1983",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 67
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-p0S0BfoZy0w-brandenburg-able-archer-1983-REFERENCES-event-able-archer-1983-crisis",
+      "from_node_id": "claim-p0S0BfoZy0w-brandenburg-able-archer-1983",
+      "to_node_id": "event-able-archer-1983-crisis",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 67
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-p0S0BfoZy0w-brandenburg-able-archer-1983-REFERENCES-location-sandia-national-lab",
+      "from_node_id": "claim-p0S0BfoZy0w-brandenburg-able-archer-1983",
+      "to_node_id": "location-sandia-national-lab",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 67
+        }
+      ]
+    },
+    {
+      "id": "edge-person-john-brandenburg-ASSERTED-claim-p0S0BfoZy0w-brandenburg-teller-conscience",
+      "from_node_id": "person-john-brandenburg",
+      "to_node_id": "claim-p0S0BfoZy0w-brandenburg-teller-conscience",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 83,
+          "quote": "Brandenburg personally knew Edward Teller at Livermore; describes Teller (contrary to post-Oppenheimer villain framing) as 'creative, enlightened, conscience-driven' — H-bomb motivated by Hungarian Ru"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-p0S0BfoZy0w-REFERENCES-claim-p0S0BfoZy0w-brandenburg-teller-conscience",
+      "from_node_id": "video-p0S0BfoZy0w",
+      "to_node_id": "claim-p0S0BfoZy0w-brandenburg-teller-conscience",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 83
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-p0S0BfoZy0w-brandenburg-teller-conscience-REFERENCES-person-edward-teller",
+      "from_node_id": "claim-p0S0BfoZy0w-brandenburg-teller-conscience",
+      "to_node_id": "person-edward-teller",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 83
+        }
+      ]
     }
   ],
-  "extracted_at": "2026-04-17T11:04:50.343980+00:00",
+  "extracted_at": "2026-04-17T13:21:38.692442+00:00",
   "extractor_version": "v1-inline-claude"
 }

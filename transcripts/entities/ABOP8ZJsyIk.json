@@ -1664,6 +1664,352 @@
           "video-ABOP8ZJsyIk"
         ]
       }
+    },
+    {
+      "id": "person-whitley-strieber-extended",
+      "node_type": "person",
+      "label": "Whitley Strieber (extended)",
+      "summary": "American author; 'Communion' (1987) defined modern alien-abduction mythology and imagery of the Grays. Currently has alleged alien implant in body that activates every 2-3 years. Uncle (Mickey) worked with General Exxon at Air Material Command in 1947.",
+      "tags": [
+        "author",
+        "experiencer",
+        "abductee",
+        "implant-carrier"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.912168+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 347,
+          "quote": "Author of Communion; canonical abductee experiencer; implant carrier"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Strieber"
+        ],
+        "profession": "author",
+        "notability_tags": [
+          "author",
+          "experiencer",
+          "abductee",
+          "implant-carrier"
+        ]
+      }
+    },
+    {
+      "id": "person-david-webb-nasa",
+      "node_type": "person",
+      "label": "David W. Webb",
+      "summary": "NASA-adjacent space scientist; deeply connected in the US intelligence community; came into Strieber's life through Stanton Friedman; supported Strieber's work and visited his cabin.",
+      "tags": [
+        "scientist",
+        "NASA",
+        "intelligence"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.912171+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 367,
+          "quote": "Space scientist well-connected in intelligence community; supportive of Strieber"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Webb"
+        ],
+        "profession": "scientist",
+        "notability_tags": [
+          "scientist",
+          "NASA",
+          "intelligence"
+        ]
+      }
+    },
+    {
+      "id": "person-strieber-uncle-mickey",
+      "node_type": "person",
+      "label": "Uncle Mickey (Strieber)",
+      "summary": "Whitley Strieber's uncle; worked at Air Material Command at Wright-Patterson in 1947 alongside General James 'Stan' Exxon during Roswell era.",
+      "tags": [
+        "historical"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.912356+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 375,
+          "quote": "Air Material Command 1947 insider; Strieber family pipeline"
+        }
+      ],
+      "type_specific": {
+        "aliases": [],
+        "profession": "military",
+        "notability_tags": [
+          "historical"
+        ]
+      }
+    },
+    {
+      "id": "document-communion-strieber",
+      "node_type": "document",
+      "label": "Communion",
+      "summary": "Whitley Strieber's 1987 memoir that defined modern alien-abduction imagery; sold millions of copies; inspired a 1989 Christopher Walken film; the cover's 'Gray' illustration established the visual mythology.",
+      "tags": [
+        "book"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.912371+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 347,
+          "timestamp_end": "Whitley Strieber's 1987 abduction-experience memoir"
+        }
+      ],
+      "type_specific": {
+        "document_type": "book",
+        "author": "Whitley Strieber",
+        "publication_year": 1987
+      }
+    },
+    {
+      "id": "document-top-secret-friedman",
+      "node_type": "document",
+      "label": "Top Secret (Stanton Friedman)",
+      "summary": "Stanton Friedman's book on the Majestic 12 leaked documents; Whitley Strieber wrote the foreword.",
+      "tags": [
+        "book"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.912378+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 349,
+          "timestamp_end": "Stanton Friedman book on Majestic 12 with Strieber foreword"
+        }
+      ],
+      "type_specific": {
+        "document_type": "book",
+        "author": "Stanton Friedman"
+      }
+    },
+    {
+      "id": "technology-strieber-implant",
+      "node_type": "technology",
+      "label": "Strieber Alien Implant",
+      "summary": "Alleged alien implant in Whitley Strieber's body that activates cyclically every 2-3 years with physiological heat. CT-scannable. Strieber demonstrated it on camera.",
+      "tags": [
+        "material"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.912386+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 345,
+          "timestamp_end": "Alleged alien implant in Strieber's body; activates every 2-3 years"
+        }
+      ],
+      "type_specific": {
+        "technology_type": "material"
+      }
+    },
+    {
+      "id": "claim-ABOP8ZJsyIk-strieber-communion-1987-jumped-publish",
+      "node_type": "claim",
+      "label": "Per Strieber: boxes of Communion appeared in bookstores ~2 weeks before the declared publication dat",
+      "summary": "Per Strieber: boxes of Communion appeared in bookstores ~2 weeks before the declared publication date without warning; his editor said 'we felt there was some kind of resistance' — unclear whether resistance from the publisher or external.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.938873+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 361,
+          "quote": "I was told a publication date and then all of a sudden the books were in bookstores. My editor was very coy about I said, 'What? You jumped it.' Boxes of books appeared without warning at bookstores all over the country. He said, 'Well, we felt like there was some kind of resistance.'"
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Per Strieber: boxes of Communion appeared in bookstores ~2 weeks before the declared publication date without warning; his editor said 'we felt there was some kind of resistance' — unclear whether resistance from the publisher or external.",
+        "asserted_by_id": "person-whitley-strieber-extended",
+        "source_video_id": "ABOP8ZJsyIk",
+        "timestamp_start_seconds": 361,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-whitley-strieber-extended",
+          "document-communion-strieber"
+        ]
+      }
+    },
+    {
+      "id": "claim-ABOP8ZJsyIk-strieber-active-implant-demonstration",
+      "node_type": "claim",
+      "label": "Strieber has an alleged alien implant that activates every 2-3 years with physiological heat; he dem",
+      "summary": "Strieber has an alleged alien implant that activates every 2-3 years with physiological heat; he demonstrates it on camera — can be touched, palpable, runs warm during active cycles. CT scan available.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.938886+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 345,
+          "quote": "There's something in your body that you believe is an implant. You can touch it. I feel like might be a little hot because it's been working two-three years ago. I can give you a CT scan of it."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Strieber has an alleged alien implant that activates every 2-3 years with physiological heat; he demonstrates it on camera — can be touched, palpable, runs warm during active cycles. CT scan available.",
+        "asserted_by_id": "person-whitley-strieber-extended",
+        "source_video_id": "ABOP8ZJsyIk",
+        "timestamp_start_seconds": 345,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-whitley-strieber-extended",
+          "technology-strieber-implant"
+        ]
+      }
+    },
+    {
+      "id": "claim-ABOP8ZJsyIk-strieber-uncle-airmaterial-1947",
+      "node_type": "claim",
+      "label": "Strieber reveals: his uncle Mickey worked at Air Material Command at Wright-Patterson in 1947 alongs",
+      "summary": "Strieber reveals: his uncle Mickey worked at Air Material Command at Wright-Patterson in 1947 alongside General Exxon — during the Roswell era — providing a family-pipeline explanation for why Strieber was 'chosen' for contact.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.938895+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 375,
+          "quote": "One of my uncles was heavily involved in this at Wright-Patt — General Exxon. No, it's my uncle Mickey and General Exxon were — worked at the Air Material Command in 47."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Strieber reveals: his uncle Mickey worked at Air Material Command at Wright-Patterson in 1947 alongside General Exxon — during the Roswell era — providing a family-pipeline explanation for why Strieber was 'chosen' for contact.",
+        "asserted_by_id": "person-whitley-strieber-extended",
+        "source_video_id": "ABOP8ZJsyIk",
+        "timestamp_start_seconds": 375,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-whitley-strieber-extended",
+          "person-strieber-uncle-mickey",
+          "location-wright-patterson-afb",
+          "incident-1947-roswell"
+        ]
+      }
+    },
+    {
+      "id": "claim-ABOP8ZJsyIk-strieber-david-webb-intel-support",
+      "node_type": "claim",
+      "label": "Per Strieber: space scientist David W. Webb (introduced through Stanton Friedman) was well-connected",
+      "summary": "Per Strieber: space scientist David W. Webb (introduced through Stanton Friedman) was well-connected in the intelligence community and very supportive of Strieber's work — visited Strieber's cabin; the government 'was aware of this whole abduction scenario' even then.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.938905+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 367,
+          "quote": "I had met a space scientist David W. Webb who had come into our lives through Stanton Friedman, and he was very well-connected in the intelligence community and very supportive. So I knew the government was aware of this whole abduction scenario."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Per Strieber: space scientist David W. Webb (introduced through Stanton Friedman) was well-connected in the intelligence community and very supportive of Strieber's work — visited Strieber's cabin; the government 'was aware of this whole abduction scenario' even then.",
+        "asserted_by_id": "person-whitley-strieber-extended",
+        "source_video_id": "ABOP8ZJsyIk",
+        "timestamp_start_seconds": 367,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-whitley-strieber-extended",
+          "person-david-webb-nasa",
+          "person-stanton-friedman"
+        ]
+      }
+    },
+    {
+      "id": "claim-ABOP8ZJsyIk-strieber-family-affair-chosen",
+      "node_type": "claim",
+      "label": "Strieber states he knows precisely why 'they' (NHI) chose him — 'it's a family affair.' Multiple fam",
+      "summary": "Strieber states he knows precisely why 'they' (NHI) chose him — 'it's a family affair.' Multiple family members with 1947-era insider positions; childhood incidents he attributes to same phenomenon.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.938918+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 375,
+          "quote": "I know exactly why they chose me. First, it's a family affair. One of my uncles was involved in this. My father was apparently involved."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Strieber states he knows precisely why 'they' (NHI) chose him — 'it's a family affair.' Multiple family members with 1947-era insider positions; childhood incidents he attributes to same phenomenon.",
+        "asserted_by_id": "person-whitley-strieber-extended",
+        "source_video_id": "ABOP8ZJsyIk",
+        "timestamp_start_seconds": 375,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-whitley-strieber-extended",
+          "person-strieber-uncle-mickey"
+        ]
+      }
     }
   ],
   "edges": [
@@ -2556,8 +2902,265 @@
           "timestamp_start": 0
         }
       ]
+    },
+    {
+      "id": "edge-person-whitley-strieber-extended-ASSERTED-claim-ABOP8ZJsyIk-strieber-communion-1987-jumped-publish",
+      "from_node_id": "person-whitley-strieber-extended",
+      "to_node_id": "claim-ABOP8ZJsyIk-strieber-communion-1987-jumped-publish",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 361,
+          "quote": "Per Strieber: boxes of Communion appeared in bookstores ~2 weeks before the declared publication date without warning; his editor said 'we felt there was some kind of resistance' — unclear whether res"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ABOP8ZJsyIk-REFERENCES-claim-ABOP8ZJsyIk-strieber-communion-1987-jumped-publish",
+      "from_node_id": "video-ABOP8ZJsyIk",
+      "to_node_id": "claim-ABOP8ZJsyIk-strieber-communion-1987-jumped-publish",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 361
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-ABOP8ZJsyIk-strieber-communion-1987-jumped-publish-REFERENCES-document-communion-strieber",
+      "from_node_id": "claim-ABOP8ZJsyIk-strieber-communion-1987-jumped-publish",
+      "to_node_id": "document-communion-strieber",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 361
+        }
+      ]
+    },
+    {
+      "id": "edge-person-whitley-strieber-extended-ASSERTED-claim-ABOP8ZJsyIk-strieber-active-implant-demonstration",
+      "from_node_id": "person-whitley-strieber-extended",
+      "to_node_id": "claim-ABOP8ZJsyIk-strieber-active-implant-demonstration",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 345,
+          "quote": "Strieber has an alleged alien implant that activates every 2-3 years with physiological heat; he demonstrates it on camera — can be touched, palpable, runs warm during active cycles. CT scan available"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ABOP8ZJsyIk-REFERENCES-claim-ABOP8ZJsyIk-strieber-active-implant-demonstration",
+      "from_node_id": "video-ABOP8ZJsyIk",
+      "to_node_id": "claim-ABOP8ZJsyIk-strieber-active-implant-demonstration",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 345
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-ABOP8ZJsyIk-strieber-active-implant-demonstration-REFERENCES-technology-strieber-implant",
+      "from_node_id": "claim-ABOP8ZJsyIk-strieber-active-implant-demonstration",
+      "to_node_id": "technology-strieber-implant",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 345
+        }
+      ]
+    },
+    {
+      "id": "edge-person-whitley-strieber-extended-ASSERTED-claim-ABOP8ZJsyIk-strieber-uncle-airmaterial-1947",
+      "from_node_id": "person-whitley-strieber-extended",
+      "to_node_id": "claim-ABOP8ZJsyIk-strieber-uncle-airmaterial-1947",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 375,
+          "quote": "Strieber reveals: his uncle Mickey worked at Air Material Command at Wright-Patterson in 1947 alongside General Exxon — during the Roswell era — providing a family-pipeline explanation for why Striebe"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ABOP8ZJsyIk-REFERENCES-claim-ABOP8ZJsyIk-strieber-uncle-airmaterial-1947",
+      "from_node_id": "video-ABOP8ZJsyIk",
+      "to_node_id": "claim-ABOP8ZJsyIk-strieber-uncle-airmaterial-1947",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 375
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-ABOP8ZJsyIk-strieber-uncle-airmaterial-1947-REFERENCES-person-strieber-uncle-mickey",
+      "from_node_id": "claim-ABOP8ZJsyIk-strieber-uncle-airmaterial-1947",
+      "to_node_id": "person-strieber-uncle-mickey",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 375
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-ABOP8ZJsyIk-strieber-uncle-airmaterial-1947-REFERENCES-location-wright-patterson-afb",
+      "from_node_id": "claim-ABOP8ZJsyIk-strieber-uncle-airmaterial-1947",
+      "to_node_id": "location-wright-patterson-afb",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 375
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-ABOP8ZJsyIk-strieber-uncle-airmaterial-1947-REFERENCES-incident-1947-roswell",
+      "from_node_id": "claim-ABOP8ZJsyIk-strieber-uncle-airmaterial-1947",
+      "to_node_id": "incident-1947-roswell",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 375
+        }
+      ]
+    },
+    {
+      "id": "edge-person-whitley-strieber-extended-ASSERTED-claim-ABOP8ZJsyIk-strieber-david-webb-intel-support",
+      "from_node_id": "person-whitley-strieber-extended",
+      "to_node_id": "claim-ABOP8ZJsyIk-strieber-david-webb-intel-support",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 367,
+          "quote": "Per Strieber: space scientist David W. Webb (introduced through Stanton Friedman) was well-connected in the intelligence community and very supportive of Strieber's work — visited Strieber's cabin; th"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ABOP8ZJsyIk-REFERENCES-claim-ABOP8ZJsyIk-strieber-david-webb-intel-support",
+      "from_node_id": "video-ABOP8ZJsyIk",
+      "to_node_id": "claim-ABOP8ZJsyIk-strieber-david-webb-intel-support",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 367
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-ABOP8ZJsyIk-strieber-david-webb-intel-support-REFERENCES-person-david-webb-nasa",
+      "from_node_id": "claim-ABOP8ZJsyIk-strieber-david-webb-intel-support",
+      "to_node_id": "person-david-webb-nasa",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 367
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-ABOP8ZJsyIk-strieber-david-webb-intel-support-REFERENCES-person-stanton-friedman",
+      "from_node_id": "claim-ABOP8ZJsyIk-strieber-david-webb-intel-support",
+      "to_node_id": "person-stanton-friedman",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 367
+        }
+      ]
+    },
+    {
+      "id": "edge-person-whitley-strieber-extended-ASSERTED-claim-ABOP8ZJsyIk-strieber-family-affair-chosen",
+      "from_node_id": "person-whitley-strieber-extended",
+      "to_node_id": "claim-ABOP8ZJsyIk-strieber-family-affair-chosen",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 375,
+          "quote": "Strieber states he knows precisely why 'they' (NHI) chose him — 'it's a family affair.' Multiple family members with 1947-era insider positions; childhood incidents he attributes to same phenomenon."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ABOP8ZJsyIk-REFERENCES-claim-ABOP8ZJsyIk-strieber-family-affair-chosen",
+      "from_node_id": "video-ABOP8ZJsyIk",
+      "to_node_id": "claim-ABOP8ZJsyIk-strieber-family-affair-chosen",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 375
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-ABOP8ZJsyIk-strieber-family-affair-chosen-REFERENCES-person-strieber-uncle-mickey",
+      "from_node_id": "claim-ABOP8ZJsyIk-strieber-family-affair-chosen",
+      "to_node_id": "person-strieber-uncle-mickey",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 375
+        }
+      ]
     }
   ],
-  "extracted_at": "2026-04-17T11:04:48.025352+00:00",
+  "extracted_at": "2026-04-17T13:13:43.938925+00:00",
   "extractor_version": "v1-inline-claude"
 }

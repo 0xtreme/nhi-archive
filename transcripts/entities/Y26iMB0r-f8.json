@@ -1151,6 +1151,461 @@
           "video-Y26iMB0r-f8"
         ]
       }
+    },
+    {
+      "id": "document-identified-flying-objects",
+      "node_type": "document",
+      "label": "Identified Flying Objects",
+      "summary": "Mike Masters' first book arguing UFO occupants are time-traveling future humans rather than extraterrestrials.",
+      "tags": [
+        "book"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.737349+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Y26iMB0r-f8",
+          "timestamp_start": 269,
+          "timestamp_end": "Mike Masters' first book on extratempestrial hypothesis"
+        }
+      ],
+      "type_specific": {
+        "document_type": "book",
+        "author": "Mike Masters"
+      }
+    },
+    {
+      "id": "document-revelation-future-human-past",
+      "node_type": "document",
+      "label": "Revelation: The Future Human Past",
+      "summary": "Mike Masters' third book in his extratempestrial (time-traveling humans) series.",
+      "tags": [
+        "book"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.737351+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Y26iMB0r-f8",
+          "timestamp_start": 269,
+          "timestamp_end": "Mike Masters' third book"
+        }
+      ],
+      "type_specific": {
+        "document_type": "book",
+        "author": "Mike Masters"
+      }
+    },
+    {
+      "id": "person-george-hoover-navy",
+      "node_type": "person",
+      "label": "George Hoover",
+      "summary": "US Navy Commander who held top-secret clearance; per Mike Masters, Hoover admitted near end of life that Roswell NHI were time-traveling humans.",
+      "tags": [
+        "US Navy",
+        "witness",
+        "historical"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.737353+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Y26iMB0r-f8",
+          "timestamp_start": 275,
+          "quote": "Navy Commander who admitted Roswell beings were time-traveling humans"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Hoover",
+          "Commander Hoover"
+        ],
+        "profession": "military officer",
+        "notability_tags": [
+          "US Navy",
+          "witness",
+          "historical"
+        ]
+      }
+    },
+    {
+      "id": "person-herman-oberth",
+      "node_type": "person",
+      "label": "Hermann Oberth",
+      "summary": "Father of German rocketry, mentor to Wernher von Braun; speculated UFOs jump between space-time coordinates rather than traversing space.",
+      "tags": [
+        "engineer",
+        "physicist",
+        "historical"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.737356+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Y26iMB0r-f8",
+          "timestamp_start": 275,
+          "quote": "Father of German rocketry; speculated UFOs are time-travel craft"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Oberth"
+        ],
+        "profession": "scientist",
+        "notability_tags": [
+          "engineer",
+          "physicist",
+          "historical"
+        ]
+      }
+    },
+    {
+      "id": "person-paul-hill",
+      "node_type": "person",
+      "label": "Paul R. Hill",
+      "summary": "NASA aerospace engineer whose posthumous 'Unconventional Flying Objects' documents his personal UAP sightings and analysis; his son noted UFOs' care for humanity.",
+      "tags": [
+        "NASA",
+        "aerodynamicist",
+        "author"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.737357+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Y26iMB0r-f8",
+          "timestamp_start": 279,
+          "quote": "NASA aerospace engineer whose son co-noted time-travel hypothesis"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Hill"
+        ],
+        "profession": "engineer",
+        "notability_tags": [
+          "NASA",
+          "aerodynamicist",
+          "author"
+        ]
+      }
+    },
+    {
+      "id": "event-free-edgar-mitchell-study",
+      "node_type": "event",
+      "label": "FREE / Edgar Mitchell Study",
+      "summary": "Free/Edgar Mitchell foundation's contactee/abductee study (~5,000 respondents); 52% report humanoid contact, 85% of those friendly.",
+      "tags": [
+        "publication"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.737359+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Y26iMB0r-f8",
+          "timestamp_start": 293,
+          "timestamp_end": "Largest academic study of contactees/abductees"
+        }
+      ],
+      "type_specific": {
+        "event_type": "publication",
+        "date_approximate": "2015-01-01"
+      }
+    },
+    {
+      "id": "claim-Y26iMB0r-f8-masters-extratempestrial-thesis",
+      "node_type": "claim",
+      "label": "Mike Masters proposes the 'extratempestrial' model: UFO occupants are future humans who developed ti",
+      "summary": "Mike Masters proposes the 'extratempestrial' model: UFO occupants are future humans who developed time travel, not extraterrestrials.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.752131+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Y26iMB0r-f8",
+          "timestamp_start": 269,
+          "quote": "Aliens are humans from the future who figured out time travel and are coming back to visit us."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Mike Masters proposes the 'extratempestrial' model: UFO occupants are future humans who developed time travel, not extraterrestrials.",
+        "asserted_by_id": "person-mike-masters",
+        "source_video_id": "Y26iMB0r-f8",
+        "timestamp_start_seconds": 269,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-mike-masters",
+          "document-identified-flying-objects",
+          "concept-time-travel-hypothesis"
+        ]
+      }
+    },
+    {
+      "id": "claim-Y26iMB0r-f8-neoton-gray-child-morphology",
+      "node_type": "claim",
+      "label": "Per Masters, the 'neoton' evolutionary concept (distant offspring resembling current children) predi",
+      "summary": "Per Masters, the 'neoton' evolutionary concept (distant offspring resembling current children) predicts gray alien morphology — small noses, slit eyes — aligning with how humans are evolving with less sensory dependence.",
+      "tags": [
+        "speculation",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.752146+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Y26iMB0r-f8",
+          "timestamp_start": 273,
+          "quote": "The gray aliens have very small noses and ears. There's an evolutionary concept called neoton where a species distant descendants look like its current children."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Per Masters, the 'neoton' evolutionary concept (distant offspring resembling current children) predicts gray alien morphology — small noses, slit eyes — aligning with how humans are evolving with less sensory dependence.",
+        "asserted_by_id": "person-mike-masters",
+        "source_video_id": "Y26iMB0r-f8",
+        "timestamp_start_seconds": 273,
+        "assertability": "speculation",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-mike-masters",
+          "concept-time-travel-hypothesis",
+          "concept-neoteny"
+        ]
+      }
+    },
+    {
+      "id": "claim-Y26iMB0r-f8-hoover-roswell-time-humans",
+      "node_type": "claim",
+      "label": "Navy Commander George Hoover (top-secret clearance) admitted that the beings in the Roswell crash we",
+      "summary": "Navy Commander George Hoover (top-secret clearance) admitted that the beings in the Roswell crash were time-traveling humans.",
+      "tags": [
+        "hearsay",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.752154+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Y26iMB0r-f8",
+          "timestamp_start": 275,
+          "quote": "Navy Commander George Hoover who held the top secret clearance for most of his life admitted that the beings in the Roswell crash were just time traveling humans."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Navy Commander George Hoover (top-secret clearance) admitted that the beings in the Roswell crash were time-traveling humans.",
+        "asserted_by_id": "person-mike-masters",
+        "source_video_id": "Y26iMB0r-f8",
+        "timestamp_start_seconds": 275,
+        "assertability": "hearsay",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-george-hoover-navy",
+          "incident-1947-roswell",
+          "concept-time-travel-hypothesis"
+        ]
+      }
+    },
+    {
+      "id": "claim-Y26iMB0r-f8-oberth-time-jump-ufos",
+      "node_type": "claim",
+      "label": "Hermann Oberth, father of German rocketry, argued UFOs don't traverse large distances in space but j",
+      "summary": "Hermann Oberth, father of German rocketry, argued UFOs don't traverse large distances in space but jump between space-time coordinates.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.752167+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Y26iMB0r-f8",
+          "timestamp_start": 275,
+          "quote": "Hermann Oberth the father of German rocketry and Werner von Braun's mentor said that UFOs likely don't traverse large distances in space. They jump from one time space coordinate to another."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Hermann Oberth, father of German rocketry, argued UFOs don't traverse large distances in space but jump between space-time coordinates.",
+        "asserted_by_id": "person-mike-masters",
+        "source_video_id": "Y26iMB0r-f8",
+        "timestamp_start_seconds": 275,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-herman-oberth",
+          "concept-time-travel-hypothesis"
+        ]
+      }
+    },
+    {
+      "id": "claim-Y26iMB0r-f8-free-study-humanoid-majority",
+      "node_type": "claim",
+      "label": "The FREE/Edgar Mitchell contactee study (~5,000 respondents) found 52% report humanoid contact; 85% ",
+      "summary": "The FREE/Edgar Mitchell contactee study (~5,000 respondents) found 52% report humanoid contact; 85% of those describe the experience as friendly or neutral.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.752175+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Y26iMB0r-f8",
+          "timestamp_start": 293,
+          "quote": "You cite the FREE Edgar Mitchell study. They had about 3,500 — up about 5,000 now. 52% of the respondents contactee experience humanoid-like creatures in their kind of contact experience. 85% of those cases have a friendly or neutral experience."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "The FREE/Edgar Mitchell contactee study (~5,000 respondents) found 52% report humanoid contact; 85% of those describe the experience as friendly or neutral.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "Y26iMB0r-f8",
+        "timestamp_start_seconds": 293,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "event-free-edgar-mitchell-study",
+          "person-ed-mitchell",
+          "concept-time-travel-hypothesis"
+        ]
+      }
+    },
+    {
+      "id": "claim-Y26iMB0r-f8-masters-own-download-experience",
+      "node_type": "claim",
+      "label": "Masters personally experienced a visual 'download' of information accompanied by another being askin",
+      "summary": "Masters personally experienced a visual 'download' of information accompanied by another being asking him 'did you get that?' — he describes it as a QR-code-like communication.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.752186+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Y26iMB0r-f8",
+          "timestamp_start": 285,
+          "quote": "My eyes went black and all of a sudden I feel all of this information coming in my brain. It was almost like a QR code loaded in their brain was the communication."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Masters personally experienced a visual 'download' of information accompanied by another being asking him 'did you get that?' — he describes it as a QR-code-like communication.",
+        "asserted_by_id": "person-mike-masters",
+        "source_video_id": "Y26iMB0r-f8",
+        "timestamp_start_seconds": 285,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-mike-masters",
+          "concept-time-travel-hypothesis"
+        ]
+      }
+    },
+    {
+      "id": "claim-Y26iMB0r-f8-chemical-rinse-abductees",
+      "node_type": "claim",
+      "label": "Abductees commonly report being required to undergo chemical rinses before boarding craft — Masters ",
+      "summary": "Abductees commonly report being required to undergo chemical rinses before boarding craft — Masters interprets this as time-sanitation to prevent contaminating the future with eliminated pathogens.",
+      "tags": [
+        "speculation",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.752194+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Y26iMB0r-f8",
+          "timestamp_start": 283,
+          "quote": "Contactees report having to take chemical rinses in what's speculated to be antiseptic liquid perhaps so they don't contaminate the future with pathogens that's already been wiped out."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Abductees commonly report being required to undergo chemical rinses before boarding craft — Masters interprets this as time-sanitation to prevent contaminating the future with eliminated pathogens.",
+        "asserted_by_id": "person-mike-masters",
+        "source_video_id": "Y26iMB0r-f8",
+        "timestamp_start_seconds": 283,
+        "assertability": "speculation",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-mike-masters",
+          "concept-time-travel-hypothesis",
+          "phenomenon-lost-time"
+        ]
+      }
+    },
+    {
+      "id": "claim-Y26iMB0r-f8-delonge-time-not-space",
+      "node_type": "claim",
+      "label": "Tom DeLonge has publicly stated UFOs 'might be coming through time' rather than from other planets, ",
+      "summary": "Tom DeLonge has publicly stated UFOs 'might be coming through time' rather than from other planets, aligning with the time-travel hypothesis.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.752205+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Y26iMB0r-f8",
+          "timestamp_start": 279,
+          "quote": "Tom DeLonge said these things aren't coming from other planets these things might be coming through time."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Tom DeLonge has publicly stated UFOs 'might be coming through time' rather than from other planets, aligning with the time-travel hypothesis.",
+        "asserted_by_id": "person-mike-masters",
+        "source_video_id": "Y26iMB0r-f8",
+        "timestamp_start_seconds": 279,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-tom-delonge",
+          "concept-time-travel-hypothesis"
+        ]
+      }
     }
   ],
   "edges": [
@@ -1773,8 +2228,478 @@
           "timestamp_start": 0
         }
       ]
+    },
+    {
+      "id": "edge-person-mike-masters-ASSERTED-claim-Y26iMB0r-f8-masters-extratempestrial-thesis",
+      "from_node_id": "person-mike-masters",
+      "to_node_id": "claim-Y26iMB0r-f8-masters-extratempestrial-thesis",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Y26iMB0r-f8",
+          "timestamp_start": 269,
+          "quote": "Mike Masters proposes the 'extratempestrial' model: UFO occupants are future humans who developed time travel, not extraterrestrials."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-Y26iMB0r-f8-REFERENCES-claim-Y26iMB0r-f8-masters-extratempestrial-thesis",
+      "from_node_id": "video-Y26iMB0r-f8",
+      "to_node_id": "claim-Y26iMB0r-f8-masters-extratempestrial-thesis",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Y26iMB0r-f8",
+          "timestamp_start": 269
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-Y26iMB0r-f8-masters-extratempestrial-thesis-REFERENCES-document-identified-flying-objects",
+      "from_node_id": "claim-Y26iMB0r-f8-masters-extratempestrial-thesis",
+      "to_node_id": "document-identified-flying-objects",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Y26iMB0r-f8",
+          "timestamp_start": 269
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-Y26iMB0r-f8-masters-extratempestrial-thesis-REFERENCES-concept-time-travel-hypothesis",
+      "from_node_id": "claim-Y26iMB0r-f8-masters-extratempestrial-thesis",
+      "to_node_id": "concept-time-travel-hypothesis",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Y26iMB0r-f8",
+          "timestamp_start": 269
+        }
+      ]
+    },
+    {
+      "id": "edge-person-mike-masters-ASSERTED-claim-Y26iMB0r-f8-neoton-gray-child-morphology",
+      "from_node_id": "person-mike-masters",
+      "to_node_id": "claim-Y26iMB0r-f8-neoton-gray-child-morphology",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Y26iMB0r-f8",
+          "timestamp_start": 273,
+          "quote": "Per Masters, the 'neoton' evolutionary concept (distant offspring resembling current children) predicts gray alien morphology — small noses, slit eyes — aligning with how humans are evolving with less"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-Y26iMB0r-f8-REFERENCES-claim-Y26iMB0r-f8-neoton-gray-child-morphology",
+      "from_node_id": "video-Y26iMB0r-f8",
+      "to_node_id": "claim-Y26iMB0r-f8-neoton-gray-child-morphology",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Y26iMB0r-f8",
+          "timestamp_start": 273
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-Y26iMB0r-f8-neoton-gray-child-morphology-REFERENCES-concept-time-travel-hypothesis",
+      "from_node_id": "claim-Y26iMB0r-f8-neoton-gray-child-morphology",
+      "to_node_id": "concept-time-travel-hypothesis",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Y26iMB0r-f8",
+          "timestamp_start": 273
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-Y26iMB0r-f8-neoton-gray-child-morphology-REFERENCES-concept-neoteny",
+      "from_node_id": "claim-Y26iMB0r-f8-neoton-gray-child-morphology",
+      "to_node_id": "concept-neoteny",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Y26iMB0r-f8",
+          "timestamp_start": 273
+        }
+      ]
+    },
+    {
+      "id": "edge-person-mike-masters-ASSERTED-claim-Y26iMB0r-f8-hoover-roswell-time-humans",
+      "from_node_id": "person-mike-masters",
+      "to_node_id": "claim-Y26iMB0r-f8-hoover-roswell-time-humans",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Y26iMB0r-f8",
+          "timestamp_start": 275,
+          "quote": "Navy Commander George Hoover (top-secret clearance) admitted that the beings in the Roswell crash were time-traveling humans."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-Y26iMB0r-f8-REFERENCES-claim-Y26iMB0r-f8-hoover-roswell-time-humans",
+      "from_node_id": "video-Y26iMB0r-f8",
+      "to_node_id": "claim-Y26iMB0r-f8-hoover-roswell-time-humans",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Y26iMB0r-f8",
+          "timestamp_start": 275
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-Y26iMB0r-f8-hoover-roswell-time-humans-REFERENCES-person-george-hoover-navy",
+      "from_node_id": "claim-Y26iMB0r-f8-hoover-roswell-time-humans",
+      "to_node_id": "person-george-hoover-navy",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Y26iMB0r-f8",
+          "timestamp_start": 275
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-Y26iMB0r-f8-hoover-roswell-time-humans-REFERENCES-incident-1947-roswell",
+      "from_node_id": "claim-Y26iMB0r-f8-hoover-roswell-time-humans",
+      "to_node_id": "incident-1947-roswell",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Y26iMB0r-f8",
+          "timestamp_start": 275
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-Y26iMB0r-f8-hoover-roswell-time-humans-REFERENCES-concept-time-travel-hypothesis",
+      "from_node_id": "claim-Y26iMB0r-f8-hoover-roswell-time-humans",
+      "to_node_id": "concept-time-travel-hypothesis",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Y26iMB0r-f8",
+          "timestamp_start": 275
+        }
+      ]
+    },
+    {
+      "id": "edge-person-mike-masters-ASSERTED-claim-Y26iMB0r-f8-oberth-time-jump-ufos",
+      "from_node_id": "person-mike-masters",
+      "to_node_id": "claim-Y26iMB0r-f8-oberth-time-jump-ufos",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Y26iMB0r-f8",
+          "timestamp_start": 275,
+          "quote": "Hermann Oberth, father of German rocketry, argued UFOs don't traverse large distances in space but jump between space-time coordinates."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-Y26iMB0r-f8-REFERENCES-claim-Y26iMB0r-f8-oberth-time-jump-ufos",
+      "from_node_id": "video-Y26iMB0r-f8",
+      "to_node_id": "claim-Y26iMB0r-f8-oberth-time-jump-ufos",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Y26iMB0r-f8",
+          "timestamp_start": 275
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-Y26iMB0r-f8-oberth-time-jump-ufos-REFERENCES-person-herman-oberth",
+      "from_node_id": "claim-Y26iMB0r-f8-oberth-time-jump-ufos",
+      "to_node_id": "person-herman-oberth",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Y26iMB0r-f8",
+          "timestamp_start": 275
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-Y26iMB0r-f8-oberth-time-jump-ufos-REFERENCES-concept-time-travel-hypothesis",
+      "from_node_id": "claim-Y26iMB0r-f8-oberth-time-jump-ufos",
+      "to_node_id": "concept-time-travel-hypothesis",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Y26iMB0r-f8",
+          "timestamp_start": 275
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-Y26iMB0r-f8-free-study-humanoid-majority",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-Y26iMB0r-f8-free-study-humanoid-majority",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Y26iMB0r-f8",
+          "timestamp_start": 293,
+          "quote": "The FREE/Edgar Mitchell contactee study (~5,000 respondents) found 52% report humanoid contact; 85% of those describe the experience as friendly or neutral."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-Y26iMB0r-f8-REFERENCES-claim-Y26iMB0r-f8-free-study-humanoid-majority",
+      "from_node_id": "video-Y26iMB0r-f8",
+      "to_node_id": "claim-Y26iMB0r-f8-free-study-humanoid-majority",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Y26iMB0r-f8",
+          "timestamp_start": 293
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-Y26iMB0r-f8-free-study-humanoid-majority-REFERENCES-event-free-edgar-mitchell-study",
+      "from_node_id": "claim-Y26iMB0r-f8-free-study-humanoid-majority",
+      "to_node_id": "event-free-edgar-mitchell-study",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Y26iMB0r-f8",
+          "timestamp_start": 293
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-Y26iMB0r-f8-free-study-humanoid-majority-REFERENCES-person-ed-mitchell",
+      "from_node_id": "claim-Y26iMB0r-f8-free-study-humanoid-majority",
+      "to_node_id": "person-ed-mitchell",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Y26iMB0r-f8",
+          "timestamp_start": 293
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-Y26iMB0r-f8-free-study-humanoid-majority-REFERENCES-concept-time-travel-hypothesis",
+      "from_node_id": "claim-Y26iMB0r-f8-free-study-humanoid-majority",
+      "to_node_id": "concept-time-travel-hypothesis",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Y26iMB0r-f8",
+          "timestamp_start": 293
+        }
+      ]
+    },
+    {
+      "id": "edge-person-mike-masters-ASSERTED-claim-Y26iMB0r-f8-masters-own-download-experience",
+      "from_node_id": "person-mike-masters",
+      "to_node_id": "claim-Y26iMB0r-f8-masters-own-download-experience",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Y26iMB0r-f8",
+          "timestamp_start": 285,
+          "quote": "Masters personally experienced a visual 'download' of information accompanied by another being asking him 'did you get that?' — he describes it as a QR-code-like communication."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-Y26iMB0r-f8-REFERENCES-claim-Y26iMB0r-f8-masters-own-download-experience",
+      "from_node_id": "video-Y26iMB0r-f8",
+      "to_node_id": "claim-Y26iMB0r-f8-masters-own-download-experience",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Y26iMB0r-f8",
+          "timestamp_start": 285
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-Y26iMB0r-f8-masters-own-download-experience-REFERENCES-concept-time-travel-hypothesis",
+      "from_node_id": "claim-Y26iMB0r-f8-masters-own-download-experience",
+      "to_node_id": "concept-time-travel-hypothesis",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Y26iMB0r-f8",
+          "timestamp_start": 285
+        }
+      ]
+    },
+    {
+      "id": "edge-person-mike-masters-ASSERTED-claim-Y26iMB0r-f8-chemical-rinse-abductees",
+      "from_node_id": "person-mike-masters",
+      "to_node_id": "claim-Y26iMB0r-f8-chemical-rinse-abductees",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Y26iMB0r-f8",
+          "timestamp_start": 283,
+          "quote": "Abductees commonly report being required to undergo chemical rinses before boarding craft — Masters interprets this as time-sanitation to prevent contaminating the future with eliminated pathogens."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-Y26iMB0r-f8-REFERENCES-claim-Y26iMB0r-f8-chemical-rinse-abductees",
+      "from_node_id": "video-Y26iMB0r-f8",
+      "to_node_id": "claim-Y26iMB0r-f8-chemical-rinse-abductees",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Y26iMB0r-f8",
+          "timestamp_start": 283
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-Y26iMB0r-f8-chemical-rinse-abductees-REFERENCES-concept-time-travel-hypothesis",
+      "from_node_id": "claim-Y26iMB0r-f8-chemical-rinse-abductees",
+      "to_node_id": "concept-time-travel-hypothesis",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Y26iMB0r-f8",
+          "timestamp_start": 283
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-Y26iMB0r-f8-chemical-rinse-abductees-REFERENCES-phenomenon-lost-time",
+      "from_node_id": "claim-Y26iMB0r-f8-chemical-rinse-abductees",
+      "to_node_id": "phenomenon-lost-time",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Y26iMB0r-f8",
+          "timestamp_start": 283
+        }
+      ]
+    },
+    {
+      "id": "edge-person-mike-masters-ASSERTED-claim-Y26iMB0r-f8-delonge-time-not-space",
+      "from_node_id": "person-mike-masters",
+      "to_node_id": "claim-Y26iMB0r-f8-delonge-time-not-space",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Y26iMB0r-f8",
+          "timestamp_start": 279,
+          "quote": "Tom DeLonge has publicly stated UFOs 'might be coming through time' rather than from other planets, aligning with the time-travel hypothesis."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-Y26iMB0r-f8-REFERENCES-claim-Y26iMB0r-f8-delonge-time-not-space",
+      "from_node_id": "video-Y26iMB0r-f8",
+      "to_node_id": "claim-Y26iMB0r-f8-delonge-time-not-space",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Y26iMB0r-f8",
+          "timestamp_start": 279
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-Y26iMB0r-f8-delonge-time-not-space-REFERENCES-person-tom-delonge",
+      "from_node_id": "claim-Y26iMB0r-f8-delonge-time-not-space",
+      "to_node_id": "person-tom-delonge",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Y26iMB0r-f8",
+          "timestamp_start": 279
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-Y26iMB0r-f8-delonge-time-not-space-REFERENCES-concept-time-travel-hypothesis",
+      "from_node_id": "claim-Y26iMB0r-f8-delonge-time-not-space",
+      "to_node_id": "concept-time-travel-hypothesis",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Y26iMB0r-f8",
+          "timestamp_start": 279
+        }
+      ]
     }
   ],
-  "extracted_at": "2026-04-17T11:04:12.931324+00:00",
+  "extracted_at": "2026-04-17T12:13:23.752212+00:00",
   "extractor_version": "v1-inline-claude"
 }

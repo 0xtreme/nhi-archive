@@ -918,6 +918,287 @@
           "video-h3u8EkGI8OQ"
         ]
       }
+    },
+    {
+      "id": "person-chris-ramsay",
+      "node_type": "person",
+      "label": "Chris Ramsay",
+      "summary": "Canadian magician / illusionist; operated puzzle/magic YouTube channel for a decade before pivoting to UFO investigation (Area 52 channel). Unique angle: applies magician's eye for misdirection and illusion to UFO topic.",
+      "tags": [
+        "magician",
+        "filmmaker",
+        "investigator"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:30:03.999624+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "h3u8EkGI8OQ",
+          "timestamp_start": 219,
+          "quote": "Magician turned UFO researcher; Area 52 YouTube channel"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Ramsay"
+        ],
+        "profession": "magician / YouTuber",
+        "notability_tags": [
+          "magician",
+          "filmmaker",
+          "investigator"
+        ]
+      }
+    },
+    {
+      "id": "person-nelson-dellis",
+      "node_type": "person",
+      "label": "Nelson Dellis",
+      "summary": "Six-time US memory champion; physics background; computer-science instructor at university. Introduced Chris Ramsay to remote viewing after a hedge fund reached out to him about using remote viewing for stock-market prediction.",
+      "tags": [
+        "athlete",
+        "scientist"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:30:03.999627+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "h3u8EkGI8OQ",
+          "timestamp_start": 241,
+          "quote": "6x US memory champion; physicist who introduced Ramsay to remote viewing"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Dellis",
+          "Delos"
+        ],
+        "profession": "memory champion",
+        "notability_tags": [
+          "athlete",
+          "scientist"
+        ]
+      }
+    },
+    {
+      "id": "person-brett-stewart-remote-viewer",
+      "node_type": "person",
+      "label": "Brett Stewart",
+      "summary": "Professional remote viewer; head-hunter-connected; reportedly earns a living from remote-viewing practice.",
+      "tags": [
+        "remote-viewer"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:30:03.999629+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "h3u8EkGI8OQ",
+          "timestamp_start": 249,
+          "quote": "Professional remote viewer; lives off remote-viewing income"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Stewart"
+        ],
+        "profession": "remote viewer",
+        "notability_tags": [
+          "remote-viewer"
+        ]
+      }
+    },
+    {
+      "id": "concept-ai-security-system-zoo",
+      "node_type": "concept",
+      "label": "AI Security-System 'Zoo' Hypothesis (Ramsay)",
+      "summary": "Chris Ramsay's frame: the phenomenon 'feels like a zoo — but in a way that's the preservation of the seed of life throughout the universe. AI security system.' Lowest-form robotic entities encountered by humans are the 'tip of the iceberg' of the higher-dimensional non-human structure.",
+      "tags": [
+        "metaphysics"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:30:03.999631+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "h3u8EkGI8OQ",
+          "timestamp_start": 217,
+          "timestamp_end": "Ramsay: phenomenon functions as AI-style preservation system"
+        }
+      ],
+      "type_specific": {
+        "concept_domain": "metaphysics"
+      }
+    },
+    {
+      "id": "document-area-52-ramsay-channel",
+      "node_type": "document",
+      "label": "Area 52 (YouTube channel)",
+      "summary": "Chris Ramsay's UFO investigation channel 'Area 52' — unique combination of magician's perspective on misdirection plus deep-research interviews.",
+      "tags": [
+        "broadcast"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:30:03.999633+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "h3u8EkGI8OQ",
+          "timestamp_start": 239,
+          "timestamp_end": "Chris Ramsay's UFO YouTube channel"
+        }
+      ],
+      "type_specific": {
+        "document_type": "broadcast",
+        "author": "Chris Ramsay"
+      }
+    },
+    {
+      "id": "claim-h3u8EkGI8OQ-ramsay-zoo-ai-security-seed-preservation",
+      "node_type": "claim",
+      "label": "Ramsay's framing: the phenomenon 'feels like a zoo but not in a way that's like a zoo — in a way tha",
+      "summary": "Ramsay's framing: the phenomenon 'feels like a zoo but not in a way that's like a zoo — in a way that's the preservation of the seed of life throughout the universe. AI security system.' The robotic/biological NHI forms we encounter are lowest-tier manifestations.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:30:04.013706+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "h3u8EkGI8OQ",
+          "timestamp_start": 217,
+          "quote": "This all feels like this zoo, but in a way that's like the preservation of the seed of life throughout the universe. It seems like an AI security system. They're kind of here until something else gets here. Some of us may by chance through accident get to meet the lowest form of their kind of this robotic whatever and we're like oh my it's God."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Ramsay's framing: the phenomenon 'feels like a zoo but not in a way that's like a zoo — in a way that's the preservation of the seed of life throughout the universe. AI security system.' The robotic/biological NHI forms we encounter are lowest-tier manifestations.",
+        "asserted_by_id": "person-chris-ramsay",
+        "source_video_id": "h3u8EkGI8OQ",
+        "timestamp_start_seconds": 217,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-chris-ramsay",
+          "concept-ai-security-system-zoo"
+        ]
+      }
+    },
+    {
+      "id": "claim-h3u8EkGI8OQ-ramsay-hedge-fund-remote-viewing-market",
+      "node_type": "claim",
+      "label": "Per Ramsay: a hedge fund reached out to memory-champion Nelson Dellis to be trained in remote viewin",
+      "summary": "Per Ramsay: a hedge fund reached out to memory-champion Nelson Dellis to be trained in remote viewing the stock market — cash-adjacent psi application.",
+      "tags": [
+        "hearsay",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:30:04.013722+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "h3u8EkGI8OQ",
+          "timestamp_start": 247,
+          "quote": "This sort of hedge fund reached out to me to see if I'd be willing to be trained in remote viewing in order to remote view the stock market for them."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Per Ramsay: a hedge fund reached out to memory-champion Nelson Dellis to be trained in remote viewing the stock market — cash-adjacent psi application.",
+        "asserted_by_id": "person-chris-ramsay",
+        "source_video_id": "h3u8EkGI8OQ",
+        "timestamp_start_seconds": 247,
+        "assertability": "hearsay",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-chris-ramsay",
+          "person-nelson-dellis",
+          "person-brett-stewart-remote-viewer"
+        ]
+      }
+    },
+    {
+      "id": "claim-h3u8EkGI8OQ-ramsay-magician-misdirection-lens",
+      "node_type": "claim",
+      "label": "Ramsay: magician training provides superior lens for UFO investigation — methodology/psychology/misd",
+      "summary": "Ramsay: magician training provides superior lens for UFO investigation — methodology/psychology/misdirection patterns characterize the phenomenon's 'big magic trick' nature; 'ultimate puzzle.'",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:30:04.013731+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "h3u8EkGI8OQ",
+          "timestamp_start": 229,
+          "quote": "UFO stuff is just a big puzzle. It's like a big magic trick. What's the mechanism? It's almost the ultimate puzzle. Your mind works a lot like a magician's mind would — but instead of sleight of hand, you've learned about the phenomenon."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Ramsay: magician training provides superior lens for UFO investigation — methodology/psychology/misdirection patterns characterize the phenomenon's 'big magic trick' nature; 'ultimate puzzle.'",
+        "asserted_by_id": "person-chris-ramsay",
+        "source_video_id": "h3u8EkGI8OQ",
+        "timestamp_start_seconds": 229,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-chris-ramsay"
+        ]
+      }
+    },
+    {
+      "id": "claim-h3u8EkGI8OQ-ramsay-local-threads-no-comprehensive",
+      "node_type": "claim",
+      "label": "Ramsay observes: 'I know very few people who spend significant time in the topic who have a very int",
+      "summary": "Ramsay observes: 'I know very few people who spend significant time in the topic who have a very internally consistent and comprehensive worldview as to how it works.' Local-thread pattern-matches exist; overall coherent model remains out of reach.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:30:04.013738+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "h3u8EkGI8OQ",
+          "timestamp_start": 231,
+          "quote": "I know very few people who spend a significant amount of time in the topic who have a very internally consistent and comprehensive worldview as to how it works."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Ramsay observes: 'I know very few people who spend significant time in the topic who have a very internally consistent and comprehensive worldview as to how it works.' Local-thread pattern-matches exist; overall coherent model remains out of reach.",
+        "asserted_by_id": "person-chris-ramsay",
+        "source_video_id": "h3u8EkGI8OQ",
+        "timestamp_start_seconds": 231,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-chris-ramsay"
+        ]
+      }
     }
   ],
   "edges": [
@@ -1432,8 +1713,166 @@
           "timestamp_start": 0
         }
       ]
+    },
+    {
+      "id": "edge-person-chris-ramsay-ASSERTED-claim-h3u8EkGI8OQ-ramsay-zoo-ai-security-seed-preservation",
+      "from_node_id": "person-chris-ramsay",
+      "to_node_id": "claim-h3u8EkGI8OQ-ramsay-zoo-ai-security-seed-preservation",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "h3u8EkGI8OQ",
+          "timestamp_start": 217,
+          "quote": "Ramsay's framing: the phenomenon 'feels like a zoo but not in a way that's like a zoo — in a way that's the preservation of the seed of life throughout the universe. AI security system.' The robotic/b"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-h3u8EkGI8OQ-REFERENCES-claim-h3u8EkGI8OQ-ramsay-zoo-ai-security-seed-preservation",
+      "from_node_id": "video-h3u8EkGI8OQ",
+      "to_node_id": "claim-h3u8EkGI8OQ-ramsay-zoo-ai-security-seed-preservation",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "h3u8EkGI8OQ",
+          "timestamp_start": 217
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-h3u8EkGI8OQ-ramsay-zoo-ai-security-seed-preservation-REFERENCES-concept-ai-security-system-zoo",
+      "from_node_id": "claim-h3u8EkGI8OQ-ramsay-zoo-ai-security-seed-preservation",
+      "to_node_id": "concept-ai-security-system-zoo",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "h3u8EkGI8OQ",
+          "timestamp_start": 217
+        }
+      ]
+    },
+    {
+      "id": "edge-person-chris-ramsay-ASSERTED-claim-h3u8EkGI8OQ-ramsay-hedge-fund-remote-viewing-market",
+      "from_node_id": "person-chris-ramsay",
+      "to_node_id": "claim-h3u8EkGI8OQ-ramsay-hedge-fund-remote-viewing-market",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "h3u8EkGI8OQ",
+          "timestamp_start": 247,
+          "quote": "Per Ramsay: a hedge fund reached out to memory-champion Nelson Dellis to be trained in remote viewing the stock market — cash-adjacent psi application."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-h3u8EkGI8OQ-REFERENCES-claim-h3u8EkGI8OQ-ramsay-hedge-fund-remote-viewing-market",
+      "from_node_id": "video-h3u8EkGI8OQ",
+      "to_node_id": "claim-h3u8EkGI8OQ-ramsay-hedge-fund-remote-viewing-market",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "h3u8EkGI8OQ",
+          "timestamp_start": 247
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-h3u8EkGI8OQ-ramsay-hedge-fund-remote-viewing-market-REFERENCES-person-nelson-dellis",
+      "from_node_id": "claim-h3u8EkGI8OQ-ramsay-hedge-fund-remote-viewing-market",
+      "to_node_id": "person-nelson-dellis",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "h3u8EkGI8OQ",
+          "timestamp_start": 247
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-h3u8EkGI8OQ-ramsay-hedge-fund-remote-viewing-market-REFERENCES-person-brett-stewart-remote-viewer",
+      "from_node_id": "claim-h3u8EkGI8OQ-ramsay-hedge-fund-remote-viewing-market",
+      "to_node_id": "person-brett-stewart-remote-viewer",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "h3u8EkGI8OQ",
+          "timestamp_start": 247
+        }
+      ]
+    },
+    {
+      "id": "edge-person-chris-ramsay-ASSERTED-claim-h3u8EkGI8OQ-ramsay-magician-misdirection-lens",
+      "from_node_id": "person-chris-ramsay",
+      "to_node_id": "claim-h3u8EkGI8OQ-ramsay-magician-misdirection-lens",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "h3u8EkGI8OQ",
+          "timestamp_start": 229,
+          "quote": "Ramsay: magician training provides superior lens for UFO investigation — methodology/psychology/misdirection patterns characterize the phenomenon's 'big magic trick' nature; 'ultimate puzzle.'"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-h3u8EkGI8OQ-REFERENCES-claim-h3u8EkGI8OQ-ramsay-magician-misdirection-lens",
+      "from_node_id": "video-h3u8EkGI8OQ",
+      "to_node_id": "claim-h3u8EkGI8OQ-ramsay-magician-misdirection-lens",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "h3u8EkGI8OQ",
+          "timestamp_start": 229
+        }
+      ]
+    },
+    {
+      "id": "edge-person-chris-ramsay-ASSERTED-claim-h3u8EkGI8OQ-ramsay-local-threads-no-comprehensive",
+      "from_node_id": "person-chris-ramsay",
+      "to_node_id": "claim-h3u8EkGI8OQ-ramsay-local-threads-no-comprehensive",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "h3u8EkGI8OQ",
+          "timestamp_start": 231,
+          "quote": "Ramsay observes: 'I know very few people who spend significant time in the topic who have a very internally consistent and comprehensive worldview as to how it works.' Local-thread pattern-matches exi"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-h3u8EkGI8OQ-REFERENCES-claim-h3u8EkGI8OQ-ramsay-local-threads-no-comprehensive",
+      "from_node_id": "video-h3u8EkGI8OQ",
+      "to_node_id": "claim-h3u8EkGI8OQ-ramsay-local-threads-no-comprehensive",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "h3u8EkGI8OQ",
+          "timestamp_start": 231
+        }
+      ]
     }
   ],
-  "extracted_at": "2026-04-17T11:05:01.143204+00:00",
+  "extracted_at": "2026-04-17T13:30:04.013744+00:00",
   "extractor_version": "v1-inline-claude"
 }

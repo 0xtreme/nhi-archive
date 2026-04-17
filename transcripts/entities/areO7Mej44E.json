@@ -2195,6 +2195,496 @@
           "video-areO7Mej44E"
         ]
       }
+    },
+    {
+      "id": "person-steven-greer-full",
+      "node_type": "person",
+      "label": "Steven Greer",
+      "summary": "American medical doctor; founded Disclosure Project (1993) and CSETI; has gathered more first-hand UFO witnesses than anyone. Controversial figure in UFO community.",
+      "tags": [
+        "advocate",
+        "researcher",
+        "disclosure",
+        "controversial"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.005993+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "areO7Mej44E",
+          "timestamp_start": 143,
+          "quote": "Medical doctor turned UFO disclosure advocate; Disclosure Project"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Greer",
+          "Dr. Greer",
+          "Stephen Greer"
+        ],
+        "profession": "medical doctor",
+        "notability_tags": [
+          "advocate",
+          "researcher",
+          "disclosure",
+          "controversial"
+        ]
+      }
+    },
+    {
+      "id": "person-john-warner-iv",
+      "node_type": "person",
+      "label": "John Warner IV",
+      "summary": "Grandson of Paul Mellon; son of Senator John Warner III. In conversation with Steven Greer, acknowledged family history of fascism support and grandfather Paul Mellon's retrieval of a Nazi flying disc.",
+      "tags": [
+        "witness",
+        "historical"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.005995+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "areO7Mej44E",
+          "timestamp_start": 175,
+          "quote": "Grandson of Paul Mellon who admitted family fascism/Nazi-UFO history to Greer"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Warner"
+        ],
+        "notability_tags": [
+          "witness",
+          "historical"
+        ]
+      }
+    },
+    {
+      "id": "person-paul-mellon",
+      "node_type": "person",
+      "label": "Paul Mellon",
+      "summary": "American billionaire industrialist; OSS WWII; per grandson John Warner IV, retrieved a Nazi electrogravitic flying disc from Germany in 1945.",
+      "tags": [
+        "intelligence",
+        "historical",
+        "financier"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.005999+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "areO7Mej44E",
+          "timestamp_start": 175,
+          "quote": "Billionaire industrialist; retrieved Nazi disc post-WWII"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Mellon"
+        ],
+        "profession": "industrialist",
+        "notability_tags": [
+          "intelligence",
+          "historical",
+          "financier"
+        ]
+      }
+    },
+    {
+      "id": "person-richard-foch",
+      "node_type": "person",
+      "label": "Richard Foch",
+      "summary": "Top scientist at US Naval Research Labs who privately revealed to Greer he had seen vault documents confirming gravity control was mastered in October 1954. Deceased.",
+      "tags": [
+        "scientist",
+        "Navy",
+        "whistleblower"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.006002+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "areO7Mej44E",
+          "timestamp_start": 185,
+          "quote": "Naval Research Labs top scientist; confirmed gravity control mastered Oct 1954"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Foch"
+        ],
+        "profession": "scientist",
+        "notability_tags": [
+          "scientist",
+          "Navy",
+          "whistleblower"
+        ]
+      }
+    },
+    {
+      "id": "person-prescott-bush",
+      "node_type": "person",
+      "label": "Prescott Bush",
+      "summary": "US Senator from Connecticut; father of George H.W. Bush; cited by Greer (per Warner IV) as among the financial-elite Americans supporting fascism via Union Bank / Brown Brothers Harriman.",
+      "tags": [
+        "historical",
+        "senator"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.006004+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "areO7Mej44E",
+          "timestamp_start": 179,
+          "quote": "Senator; George H.W. Bush's father; alleged Hitler supporter"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Bush"
+        ],
+        "profession": "senator / financier",
+        "notability_tags": [
+          "historical",
+          "senator"
+        ]
+      }
+    },
+    {
+      "id": "person-jackie-gleason",
+      "node_type": "person",
+      "label": "Jackie Gleason",
+      "summary": "American entertainer/comedian; per long-standing UFO lore and Greer's sources, shown UFO bodies by President Nixon at Homestead AFB.",
+      "tags": [
+        "witness",
+        "historical"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.006006+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "areO7Mej44E",
+          "timestamp_start": 171,
+          "quote": "Entertainer allegedly shown UFO bodies by Richard Nixon"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Gleason"
+        ],
+        "profession": "entertainer",
+        "notability_tags": [
+          "witness",
+          "historical"
+        ]
+      }
+    },
+    {
+      "id": "document-disclosure-project-briefing-2025",
+      "node_type": "document",
+      "label": "Disclosure Project Briefing Document 2025",
+      "summary": "Steven Greer's Disclosure Project 2025 briefing document prepared for the incoming US President with 90%+ of relevant content; redacted and released publicly.",
+      "tags": [
+        "report"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.006008+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "areO7Mej44E",
+          "timestamp_start": 155,
+          "timestamp_end": "Briefing prepared for new US President post-2024 election"
+        }
+      ],
+      "type_specific": {
+        "document_type": "report"
+      }
+    },
+    {
+      "id": "program-project-starlight",
+      "node_type": "program",
+      "label": "Project Starlight (Disclosure Project precursor)",
+      "summary": "Mid-1990s effort led by Greer that became the public Disclosure Project launched at the National Press Club in 2001.",
+      "tags": [
+        "program"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.006010+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "areO7Mej44E",
+          "timestamp_start": 171,
+          "timestamp_end": "Mid-1990s Greer initiative; precursor to Disclosure Project"
+        }
+      ],
+      "type_specific": {
+        "acronym": "Starlight"
+      }
+    },
+    {
+      "id": "claim-areO7Mej44E-greer-paul-mellon-nazi-disc-1945",
+      "node_type": "claim",
+      "label": "Per John Warner IV's conversation with Greer: Paul Mellon personally retrieved a Nazi electrograviti",
+      "summary": "Per John Warner IV's conversation with Greer: Paul Mellon personally retrieved a Nazi electrogravitic flying disc (not a ramjet) from Germany in 1945; it was unstable.",
+      "tags": [
+        "hearsay",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.011962+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "areO7Mej44E",
+          "timestamp_start": 181,
+          "quote": "I walked in, he goes well my whole family are fascists. Paul Mellon admitted going over and getting a Nazi disc. It was actually electrogravidic."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Per John Warner IV's conversation with Greer: Paul Mellon personally retrieved a Nazi electrogravitic flying disc (not a ramjet) from Germany in 1945; it was unstable.",
+        "asserted_by_id": "person-steven-greer-full",
+        "source_video_id": "areO7Mej44E",
+        "timestamp_start_seconds": 181,
+        "assertability": "hearsay",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-steven-greer-full",
+          "person-john-warner-iv",
+          "person-paul-mellon",
+          "program-operation-paperclip"
+        ]
+      }
+    },
+    {
+      "id": "claim-areO7Mej44E-foch-gravity-mastered-october-1954",
+      "node_type": "claim",
+      "label": "Naval Research Labs top scientist Richard Foch confirmed to Greer he had been in the vault and seen ",
+      "summary": "Naval Research Labs top scientist Richard Foch confirmed to Greer he had been in the vault and seen documents dated October 1954 for the date the US mastered gravity control.",
+      "tags": [
+        "hearsay",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.011979+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "areO7Mej44E",
+          "timestamp_start": 185,
+          "quote": "Rick had been in the vault and saw the documents for the date we mastered gravity control and it was October 1954."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Naval Research Labs top scientist Richard Foch confirmed to Greer he had been in the vault and seen documents dated October 1954 for the date the US mastered gravity control.",
+        "asserted_by_id": "person-steven-greer-full",
+        "source_video_id": "areO7Mej44E",
+        "timestamp_start_seconds": 185,
+        "assertability": "hearsay",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-steven-greer-full",
+          "person-richard-foch",
+          "concept-antigravity"
+        ]
+      }
+    },
+    {
+      "id": "claim-areO7Mej44E-greer-911-as-ufo-disclosure-diversion",
+      "node_type": "claim",
+      "label": "Greer argues that the Disclosure Project's 2001 National Press Club event (seen by 800M people) was ",
+      "summary": "Greer argues that the Disclosure Project's 2001 National Press Club event (seen by 800M people) was about to break UAP wide open — and 9/11 happened months later 'as a direct consequence' diversion.",
+      "tags": [
+        "speculation",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.012031+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "areO7Mej44E",
+          "timestamp_start": 173,
+          "quote": "When we kicked off the whole disclosure project effort — at the National Press Club that had 800 million people see it. And then 9/11 happened a few months later as a direct consequence."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Greer argues that the Disclosure Project's 2001 National Press Club event (seen by 800M people) was about to break UAP wide open — and 9/11 happened months later 'as a direct consequence' diversion.",
+        "asserted_by_id": "person-steven-greer-full",
+        "source_video_id": "areO7Mej44E",
+        "timestamp_start_seconds": 173,
+        "assertability": "speculation",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-steven-greer-full",
+          "program-project-starlight"
+        ]
+      }
+    },
+    {
+      "id": "claim-areO7Mej44E-greer-jfk-killed-over-ufo",
+      "node_type": "claim",
+      "label": "Greer states (citing sources with 'actionable intelligence') that JFK was killed over the UAP issue ",
+      "summary": "Greer states (citing sources with 'actionable intelligence') that JFK was killed over the UAP issue — specifically over the constellation of programs attached to the 'Gaps' science-and-technology branch.",
+      "tags": [
+        "hearsay",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.012041+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "areO7Mej44E",
+          "timestamp_start": 165,
+          "quote": "Jack Kennedy was killed over this issue and the constellation of programs attached to Gaps and particularly the science and technology branch of it."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Greer states (citing sources with 'actionable intelligence') that JFK was killed over the UAP issue — specifically over the constellation of programs attached to the 'Gaps' science-and-technology branch.",
+        "asserted_by_id": "person-steven-greer-full",
+        "source_video_id": "areO7Mej44E",
+        "timestamp_start_seconds": 165,
+        "assertability": "hearsay",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-steven-greer-full",
+          "person-jfk"
+        ]
+      }
+    },
+    {
+      "id": "claim-areO7Mej44E-greer-alien-threat-is-psyop",
+      "node_type": "claim",
+      "label": "Greer asserts there is an active government effort to spin UAP as an 'alien threat' in order to lay ",
+      "summary": "Greer asserts there is an active government effort to spin UAP as an 'alien threat' in order to lay foundation for a totalitarian superstate — calling this a 'total hoax and nonsense' and a CIA-authored script.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.012053+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "areO7Mej44E",
+          "timestamp_start": 167,
+          "quote": "They want people to go out publicly who will spin the subject in the direction of it being an alien threat for the purpose of a totalitarian superstate uniting the world against aliens, which is a total hoax and nonsense. That whole script was like out of CIA central scripting casting."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Greer asserts there is an active government effort to spin UAP as an 'alien threat' in order to lay foundation for a totalitarian superstate — calling this a 'total hoax and nonsense' and a CIA-authored script.",
+        "asserted_by_id": "person-steven-greer-full",
+        "source_video_id": "areO7Mej44E",
+        "timestamp_start_seconds": 167,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-steven-greer-full",
+          "concept-disclosure"
+        ]
+      }
+    },
+    {
+      "id": "claim-areO7Mej44E-greer-had-abduction-squad-confessions",
+      "node_type": "claim",
+      "label": "Greer states on camera he met people who worked on the human-operated 'abduction squad' — made to im",
+      "summary": "Greer states on camera he met people who worked on the human-operated 'abduction squad' — made to impersonate aliens — who now feel terrible about their past actions.",
+      "tags": [
+        "hearsay",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.012063+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "areO7Mej44E",
+          "timestamp_start": 141,
+          "quote": "I had guys come forward who had actually been on the abduction squad made to look like aliens. And they feel terrible later in life."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Greer states on camera he met people who worked on the human-operated 'abduction squad' — made to impersonate aliens — who now feel terrible about their past actions.",
+        "asserted_by_id": "person-steven-greer-full",
+        "source_video_id": "areO7Mej44E",
+        "timestamp_start_seconds": 141,
+        "assertability": "hearsay",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-steven-greer-full",
+          "concept-nhi"
+        ]
+      }
+    },
+    {
+      "id": "claim-areO7Mej44E-greer-disclosure-briefing-2025",
+      "node_type": "claim",
+      "label": "Greer prepared a redacted Disclosure Project briefing document for the new US administration with 90",
+      "summary": "Greer prepared a redacted Disclosure Project briefing document for the new US administration with 90%+ of the content the President sees — now publicly released.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.012072+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "areO7Mej44E",
+          "timestamp_start": 155,
+          "quote": "You'll have 90 plus% of what the new president has. The disclosure project briefing document 2025."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Greer prepared a redacted Disclosure Project briefing document for the new US administration with 90%+ of the content the President sees — now publicly released.",
+        "asserted_by_id": "person-steven-greer-full",
+        "source_video_id": "areO7Mej44E",
+        "timestamp_start_seconds": 155,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-steven-greer-full",
+          "document-disclosure-project-briefing-2025"
+        ]
+      }
     }
   ],
   "edges": [
@@ -3342,8 +3832,351 @@
           "timestamp_start": 0
         }
       ]
+    },
+    {
+      "id": "edge-person-steven-greer-full-ASSERTED-claim-areO7Mej44E-greer-paul-mellon-nazi-disc-1945",
+      "from_node_id": "person-steven-greer-full",
+      "to_node_id": "claim-areO7Mej44E-greer-paul-mellon-nazi-disc-1945",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "areO7Mej44E",
+          "timestamp_start": 181,
+          "quote": "Per John Warner IV's conversation with Greer: Paul Mellon personally retrieved a Nazi electrogravitic flying disc (not a ramjet) from Germany in 1945; it was unstable."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-areO7Mej44E-REFERENCES-claim-areO7Mej44E-greer-paul-mellon-nazi-disc-1945",
+      "from_node_id": "video-areO7Mej44E",
+      "to_node_id": "claim-areO7Mej44E-greer-paul-mellon-nazi-disc-1945",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "areO7Mej44E",
+          "timestamp_start": 181
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-areO7Mej44E-greer-paul-mellon-nazi-disc-1945-REFERENCES-person-john-warner-iv",
+      "from_node_id": "claim-areO7Mej44E-greer-paul-mellon-nazi-disc-1945",
+      "to_node_id": "person-john-warner-iv",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "areO7Mej44E",
+          "timestamp_start": 181
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-areO7Mej44E-greer-paul-mellon-nazi-disc-1945-REFERENCES-person-paul-mellon",
+      "from_node_id": "claim-areO7Mej44E-greer-paul-mellon-nazi-disc-1945",
+      "to_node_id": "person-paul-mellon",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "areO7Mej44E",
+          "timestamp_start": 181
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-areO7Mej44E-greer-paul-mellon-nazi-disc-1945-REFERENCES-program-operation-paperclip",
+      "from_node_id": "claim-areO7Mej44E-greer-paul-mellon-nazi-disc-1945",
+      "to_node_id": "program-operation-paperclip",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "areO7Mej44E",
+          "timestamp_start": 181
+        }
+      ]
+    },
+    {
+      "id": "edge-person-steven-greer-full-ASSERTED-claim-areO7Mej44E-foch-gravity-mastered-october-1954",
+      "from_node_id": "person-steven-greer-full",
+      "to_node_id": "claim-areO7Mej44E-foch-gravity-mastered-october-1954",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "areO7Mej44E",
+          "timestamp_start": 185,
+          "quote": "Naval Research Labs top scientist Richard Foch confirmed to Greer he had been in the vault and seen documents dated October 1954 for the date the US mastered gravity control."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-areO7Mej44E-REFERENCES-claim-areO7Mej44E-foch-gravity-mastered-october-1954",
+      "from_node_id": "video-areO7Mej44E",
+      "to_node_id": "claim-areO7Mej44E-foch-gravity-mastered-october-1954",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "areO7Mej44E",
+          "timestamp_start": 185
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-areO7Mej44E-foch-gravity-mastered-october-1954-REFERENCES-person-richard-foch",
+      "from_node_id": "claim-areO7Mej44E-foch-gravity-mastered-october-1954",
+      "to_node_id": "person-richard-foch",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "areO7Mej44E",
+          "timestamp_start": 185
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-areO7Mej44E-foch-gravity-mastered-october-1954-REFERENCES-concept-antigravity",
+      "from_node_id": "claim-areO7Mej44E-foch-gravity-mastered-october-1954",
+      "to_node_id": "concept-antigravity",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "areO7Mej44E",
+          "timestamp_start": 185
+        }
+      ]
+    },
+    {
+      "id": "edge-person-steven-greer-full-ASSERTED-claim-areO7Mej44E-greer-911-as-ufo-disclosure-diversion",
+      "from_node_id": "person-steven-greer-full",
+      "to_node_id": "claim-areO7Mej44E-greer-911-as-ufo-disclosure-diversion",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "areO7Mej44E",
+          "timestamp_start": 173,
+          "quote": "Greer argues that the Disclosure Project's 2001 National Press Club event (seen by 800M people) was about to break UAP wide open — and 9/11 happened months later 'as a direct consequence' diversion."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-areO7Mej44E-REFERENCES-claim-areO7Mej44E-greer-911-as-ufo-disclosure-diversion",
+      "from_node_id": "video-areO7Mej44E",
+      "to_node_id": "claim-areO7Mej44E-greer-911-as-ufo-disclosure-diversion",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "areO7Mej44E",
+          "timestamp_start": 173
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-areO7Mej44E-greer-911-as-ufo-disclosure-diversion-REFERENCES-program-project-starlight",
+      "from_node_id": "claim-areO7Mej44E-greer-911-as-ufo-disclosure-diversion",
+      "to_node_id": "program-project-starlight",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "areO7Mej44E",
+          "timestamp_start": 173
+        }
+      ]
+    },
+    {
+      "id": "edge-person-steven-greer-full-ASSERTED-claim-areO7Mej44E-greer-jfk-killed-over-ufo",
+      "from_node_id": "person-steven-greer-full",
+      "to_node_id": "claim-areO7Mej44E-greer-jfk-killed-over-ufo",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "areO7Mej44E",
+          "timestamp_start": 165,
+          "quote": "Greer states (citing sources with 'actionable intelligence') that JFK was killed over the UAP issue — specifically over the constellation of programs attached to the 'Gaps' science-and-technology bran"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-areO7Mej44E-REFERENCES-claim-areO7Mej44E-greer-jfk-killed-over-ufo",
+      "from_node_id": "video-areO7Mej44E",
+      "to_node_id": "claim-areO7Mej44E-greer-jfk-killed-over-ufo",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "areO7Mej44E",
+          "timestamp_start": 165
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-areO7Mej44E-greer-jfk-killed-over-ufo-REFERENCES-person-jfk",
+      "from_node_id": "claim-areO7Mej44E-greer-jfk-killed-over-ufo",
+      "to_node_id": "person-jfk",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "areO7Mej44E",
+          "timestamp_start": 165
+        }
+      ]
+    },
+    {
+      "id": "edge-person-steven-greer-full-ASSERTED-claim-areO7Mej44E-greer-alien-threat-is-psyop",
+      "from_node_id": "person-steven-greer-full",
+      "to_node_id": "claim-areO7Mej44E-greer-alien-threat-is-psyop",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "areO7Mej44E",
+          "timestamp_start": 167,
+          "quote": "Greer asserts there is an active government effort to spin UAP as an 'alien threat' in order to lay foundation for a totalitarian superstate — calling this a 'total hoax and nonsense' and a CIA-author"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-areO7Mej44E-REFERENCES-claim-areO7Mej44E-greer-alien-threat-is-psyop",
+      "from_node_id": "video-areO7Mej44E",
+      "to_node_id": "claim-areO7Mej44E-greer-alien-threat-is-psyop",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "areO7Mej44E",
+          "timestamp_start": 167
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-areO7Mej44E-greer-alien-threat-is-psyop-REFERENCES-concept-disclosure",
+      "from_node_id": "claim-areO7Mej44E-greer-alien-threat-is-psyop",
+      "to_node_id": "concept-disclosure",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "areO7Mej44E",
+          "timestamp_start": 167
+        }
+      ]
+    },
+    {
+      "id": "edge-person-steven-greer-full-ASSERTED-claim-areO7Mej44E-greer-had-abduction-squad-confessions",
+      "from_node_id": "person-steven-greer-full",
+      "to_node_id": "claim-areO7Mej44E-greer-had-abduction-squad-confessions",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "areO7Mej44E",
+          "timestamp_start": 141,
+          "quote": "Greer states on camera he met people who worked on the human-operated 'abduction squad' — made to impersonate aliens — who now feel terrible about their past actions."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-areO7Mej44E-REFERENCES-claim-areO7Mej44E-greer-had-abduction-squad-confessions",
+      "from_node_id": "video-areO7Mej44E",
+      "to_node_id": "claim-areO7Mej44E-greer-had-abduction-squad-confessions",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "areO7Mej44E",
+          "timestamp_start": 141
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-areO7Mej44E-greer-had-abduction-squad-confessions-REFERENCES-concept-nhi",
+      "from_node_id": "claim-areO7Mej44E-greer-had-abduction-squad-confessions",
+      "to_node_id": "concept-nhi",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "areO7Mej44E",
+          "timestamp_start": 141
+        }
+      ]
+    },
+    {
+      "id": "edge-person-steven-greer-full-ASSERTED-claim-areO7Mej44E-greer-disclosure-briefing-2025",
+      "from_node_id": "person-steven-greer-full",
+      "to_node_id": "claim-areO7Mej44E-greer-disclosure-briefing-2025",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "areO7Mej44E",
+          "timestamp_start": 155,
+          "quote": "Greer prepared a redacted Disclosure Project briefing document for the new US administration with 90%+ of the content the President sees — now publicly released."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-areO7Mej44E-REFERENCES-claim-areO7Mej44E-greer-disclosure-briefing-2025",
+      "from_node_id": "video-areO7Mej44E",
+      "to_node_id": "claim-areO7Mej44E-greer-disclosure-briefing-2025",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "areO7Mej44E",
+          "timestamp_start": 155
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-areO7Mej44E-greer-disclosure-briefing-2025-REFERENCES-document-disclosure-project-briefing-2025",
+      "from_node_id": "claim-areO7Mej44E-greer-disclosure-briefing-2025",
+      "to_node_id": "document-disclosure-project-briefing-2025",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "areO7Mej44E",
+          "timestamp_start": 155
+        }
+      ]
     }
   ],
-  "extracted_at": "2026-04-17T11:04:22.342846+00:00",
+  "extracted_at": "2026-04-17T12:49:16.012081+00:00",
   "extractor_version": "v1-inline-claude"
 }

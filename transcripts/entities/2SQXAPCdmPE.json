@@ -1674,6 +1674,434 @@
           "video-2SQXAPCdmPE"
         ]
       }
+    },
+    {
+      "id": "person-daniel-sheehan",
+      "node_type": "person",
+      "label": "Daniel P. Sheehan",
+      "summary": "American public-interest attorney; represented Elizondo, Greer, John Mack, Karen Silkwood; personally involved in Watergate; Church Committee files; UAP Disclosure Act advocacy.",
+      "tags": [
+        "attorney",
+        "public-interest",
+        "advocate"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.485692+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2SQXAPCdmPE",
+          "timestamp_start": 456,
+          "quote": "Attorney involved in every major American conspiracy"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Sheehan",
+          "Shean"
+        ],
+        "profession": "attorney",
+        "notability_tags": [
+          "attorney",
+          "public-interest",
+          "advocate"
+        ]
+      }
+    },
+    {
+      "id": "person-mike-johnson-speaker",
+      "node_type": "person",
+      "label": "Mike Johnson (Speaker)",
+      "summary": "US Speaker of the House; represents Dayton Ohio (Wright-Patterson district); Sheehan alleges his top aerospace-contractor donors drove dilution of Schumer's UAP Disclosure Act.",
+      "tags": [
+        "politician",
+        "congress"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.485694+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2SQXAPCdmPE",
+          "timestamp_start": 485,
+          "quote": "US Speaker of the House; diluted Schumer UAP amendment"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Speaker Johnson"
+        ],
+        "profession": "politician",
+        "notability_tags": [
+          "politician",
+          "congress"
+        ]
+      }
+    },
+    {
+      "id": "person-bud-hopkins",
+      "node_type": "person",
+      "label": "Bud Hopkins",
+      "summary": "American artist and investigator of UFO abduction cases; childhood friend of John Mack; referred abduction cases to Mack at Harvard.",
+      "tags": [
+        "investigator",
+        "researcher"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.485696+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2SQXAPCdmPE",
+          "timestamp_start": 513,
+          "quote": "Artist and investigator of abductee cases, childhood friend of John Mack"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Hopkins"
+        ],
+        "profession": "artist / investigator",
+        "notability_tags": [
+          "investigator",
+          "researcher"
+        ]
+      }
+    },
+    {
+      "id": "person-ted-stevens",
+      "node_type": "person",
+      "label": "Ted Stevens",
+      "summary": "US Senator from Alaska; co-secured $22M AATIP funding alongside Harry Reid.",
+      "tags": [
+        "politician",
+        "senator",
+        "historical"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.485698+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2SQXAPCdmPE",
+          "timestamp_start": 479,
+          "quote": "US Senator from Alaska, secured AATIP funding with Reid"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Stevens"
+        ],
+        "profession": "politician",
+        "notability_tags": [
+          "politician",
+          "senator",
+          "historical"
+        ]
+      }
+    },
+    {
+      "id": "document-schumer-rounds-amendment",
+      "node_type": "document",
+      "label": "Schumer-Rounds UAP Disclosure Amendment",
+      "summary": "Senate Majority Leader Schumer and Senator Rounds' UAP Disclosure Act amendment to the NDAA — creating independent board of review for declassifying UAP material. Diluted in the House by Speaker Johnson.",
+      "tags": [
+        "legislation"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.485700+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2SQXAPCdmPE",
+          "timestamp_start": 483,
+          "timestamp_end": "Authorization-act amendment creating independent UAP disclosure review board"
+        }
+      ],
+      "type_specific": {
+        "document_type": "legislation"
+      }
+    },
+    {
+      "id": "program-mj-12-elite-group",
+      "node_type": "program",
+      "label": "Majestic 12 (MJ-12)",
+      "summary": "Alleged elite group of military, science, and government advisers governing the UFO issue since the late 1940s; described in MJ-12 document leaks in the 1980s-1990s.",
+      "tags": [
+        "program"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.485702+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2SQXAPCdmPE",
+          "timestamp_start": 319,
+          "timestamp_end": "Elite panel of military/science/government UFO advisers"
+        }
+      ],
+      "type_specific": {
+        "acronym": "MJ-12"
+      }
+    },
+    {
+      "id": "claim-2SQXAPCdmPE-sheehan-represented-everyone",
+      "node_type": "claim",
+      "label": "Sheehan represented UFO whistleblower Luis Elizondo, Stephen Greer, John Mack, and Karen Silkwood; h",
+      "summary": "Sheehan represented UFO whistleblower Luis Elizondo, Stephen Greer, John Mack, and Karen Silkwood; he was also personally involved in the Watergate case.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.501332+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2SQXAPCdmPE",
+          "timestamp_start": 459,
+          "quote": "Represented UFO whistleblower Lou Elizondo, Harvard researcher John Mack and Karen Silkwood. Personally involved in the Watergate case."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Sheehan represented UFO whistleblower Luis Elizondo, Stephen Greer, John Mack, and Karen Silkwood; he was also personally involved in the Watergate case.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "2SQXAPCdmPE",
+        "timestamp_start_seconds": 459,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-daniel-sheehan",
+          "person-luis-elizondo",
+          "person-steven-greer",
+          "person-john-mack"
+        ]
+      }
+    },
+    {
+      "id": "claim-2SQXAPCdmPE-aatip-22m-reid-stevens-inouye",
+      "node_type": "claim",
+      "label": "AATIP was initially authorized under Senator Harry Reid with $22M, co-secured with Senator Ted Steve",
+      "summary": "AATIP was initially authorized under Senator Harry Reid with $22M, co-secured with Senator Ted Stevens of Alaska and Senator Inouye.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.501347+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2SQXAPCdmPE",
+          "timestamp_start": 479,
+          "quote": "Lou Elizondo was the program — it was actually under Senator Harry Reid, $22 million, Harry Reid, Ted Stevens from Alaska."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "AATIP was initially authorized under Senator Harry Reid with $22M, co-secured with Senator Ted Stevens of Alaska and Senator Inouye.",
+        "asserted_by_id": "person-daniel-sheehan",
+        "source_video_id": "2SQXAPCdmPE",
+        "timestamp_start_seconds": 479,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-harry-reid",
+          "person-ted-stevens",
+          "program-aatip"
+        ]
+      }
+    },
+    {
+      "id": "claim-2SQXAPCdmPE-schumer-amendment-johnson-dilution",
+      "node_type": "claim",
+      "label": "Sheehan alleges Mike Johnson, as House Speaker and representative of Wright-Patterson's district, di",
+      "summary": "Sheehan alleges Mike Johnson, as House Speaker and representative of Wright-Patterson's district, diluted the Schumer UAP Disclosure amendment at the direction of top aerospace donors including Lockheed.",
+      "tags": [
+        "speculation",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.501357+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2SQXAPCdmPE",
+          "timestamp_start": 485,
+          "quote": "My understanding of the behind-the-scenes: he's the chair of this house intelligence but also represents Dayton Ohio which is where Wright Patterson — his top three donors are Lockheed."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Sheehan alleges Mike Johnson, as House Speaker and representative of Wright-Patterson's district, diluted the Schumer UAP Disclosure amendment at the direction of top aerospace donors including Lockheed.",
+        "asserted_by_id": "person-daniel-sheehan",
+        "source_video_id": "2SQXAPCdmPE",
+        "timestamp_start_seconds": 485,
+        "assertability": "speculation",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-daniel-sheehan",
+          "person-mike-johnson-speaker",
+          "document-schumer-rounds-amendment",
+          "organization-lockheed-martin",
+          "location-wright-patterson-afb"
+        ]
+      }
+    },
+    {
+      "id": "claim-2SQXAPCdmPE-skunkworks-patents-superluminal",
+      "node_type": "claim",
+      "label": "Sheehan alleges Skunkworks / Lockheed are holding out on agreeing to a UAP disclosure law because th",
+      "summary": "Sheehan alleges Skunkworks / Lockheed are holding out on agreeing to a UAP disclosure law because they want patent rights on superluminal/anti-gravity technology.",
+      "tags": [
+        "speculation",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.501367+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2SQXAPCdmPE",
+          "timestamp_start": 501,
+          "quote": "They want to get patent rights to the for the next thousand years. For super luminal flight or anti-gravity stuff."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Sheehan alleges Skunkworks / Lockheed are holding out on agreeing to a UAP disclosure law because they want patent rights on superluminal/anti-gravity technology.",
+        "asserted_by_id": "person-daniel-sheehan",
+        "source_video_id": "2SQXAPCdmPE",
+        "timestamp_start_seconds": 501,
+        "assertability": "speculation",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-daniel-sheehan",
+          "organization-skunkworks",
+          "organization-lockheed-martin",
+          "concept-reverse-engineering"
+        ]
+      }
+    },
+    {
+      "id": "claim-2SQXAPCdmPE-mack-represented-silkwood-similar",
+      "node_type": "claim",
+      "label": "Sheehan represented John Mack at Harvard regarding the abduction research and at the pattern-evaluat",
+      "summary": "Sheehan represented John Mack at Harvard regarding the abduction research and at the pattern-evaluation phase of witness credibility assessment.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.501377+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2SQXAPCdmPE",
+          "timestamp_start": 513,
+          "quote": "John Mack was the head through his friend Bud Hopkins. I represented him — he had worked with — was involved in vetting which ones weren't, what detailed information, several absolutely totally credible witnesses."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Sheehan represented John Mack at Harvard regarding the abduction research and at the pattern-evaluation phase of witness credibility assessment.",
+        "asserted_by_id": "person-daniel-sheehan",
+        "source_video_id": "2SQXAPCdmPE",
+        "timestamp_start_seconds": 513,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-daniel-sheehan",
+          "person-john-mack",
+          "person-bud-hopkins"
+        ]
+      }
+    },
+    {
+      "id": "claim-2SQXAPCdmPE-direct-face-to-face-underground-bases",
+      "node_type": "claim",
+      "label": "Per Sheehan's witnesses: direct face-to-face contact with NHI has occurred in American underground m",
+      "summary": "Per Sheehan's witnesses: direct face-to-face contact with NHI has occurred in American underground military bases; beings communicate telepathically — e.g., speaking French to French interviewees.",
+      "tags": [
+        "hearsay",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.501386+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2SQXAPCdmPE",
+          "timestamp_start": 515,
+          "quote": "Direct face-to-face contact with one or more of them in American Underground military bases. They telepathic — they talk French to French people."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Per Sheehan's witnesses: direct face-to-face contact with NHI has occurred in American underground military bases; beings communicate telepathically — e.g., speaking French to French interviewees.",
+        "asserted_by_id": "person-daniel-sheehan",
+        "source_video_id": "2SQXAPCdmPE",
+        "timestamp_start_seconds": 515,
+        "assertability": "hearsay",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-daniel-sheehan",
+          "phenomenon-alien-telepathy"
+        ]
+      }
+    },
+    {
+      "id": "claim-2SQXAPCdmPE-sheehan-face-to-face-evidence-copious",
+      "node_type": "claim",
+      "label": "Sheehan argues the evidence of face-to-face NHI contact across databases and witnesses is 'plain as ",
+      "summary": "Sheehan argues the evidence of face-to-face NHI contact across databases and witnesses is 'plain as day' — skeptic framing undercounts this body of testimony.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.501394+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2SQXAPCdmPE",
+          "timestamp_start": 505,
+          "quote": "Databases around this stuff — I actually think it's from another planet. People have been face to face with. For every one that says they're from Zeta they're also super deceptive."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Sheehan argues the evidence of face-to-face NHI contact across databases and witnesses is 'plain as day' — skeptic framing undercounts this body of testimony.",
+        "asserted_by_id": "person-daniel-sheehan",
+        "source_video_id": "2SQXAPCdmPE",
+        "timestamp_start_seconds": 505,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-daniel-sheehan",
+          "concept-nhi"
+        ]
+      }
     }
   ],
   "edges": [
@@ -2548,8 +2976,463 @@
           "timestamp_start": 0
         }
       ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-2SQXAPCdmPE-sheehan-represented-everyone",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-2SQXAPCdmPE-sheehan-represented-everyone",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2SQXAPCdmPE",
+          "timestamp_start": 459,
+          "quote": "Sheehan represented UFO whistleblower Luis Elizondo, Stephen Greer, John Mack, and Karen Silkwood; he was also personally involved in the Watergate case."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-2SQXAPCdmPE-REFERENCES-claim-2SQXAPCdmPE-sheehan-represented-everyone",
+      "from_node_id": "video-2SQXAPCdmPE",
+      "to_node_id": "claim-2SQXAPCdmPE-sheehan-represented-everyone",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2SQXAPCdmPE",
+          "timestamp_start": 459
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-2SQXAPCdmPE-sheehan-represented-everyone-REFERENCES-person-daniel-sheehan",
+      "from_node_id": "claim-2SQXAPCdmPE-sheehan-represented-everyone",
+      "to_node_id": "person-daniel-sheehan",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2SQXAPCdmPE",
+          "timestamp_start": 459
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-2SQXAPCdmPE-sheehan-represented-everyone-REFERENCES-person-luis-elizondo",
+      "from_node_id": "claim-2SQXAPCdmPE-sheehan-represented-everyone",
+      "to_node_id": "person-luis-elizondo",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2SQXAPCdmPE",
+          "timestamp_start": 459
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-2SQXAPCdmPE-sheehan-represented-everyone-REFERENCES-person-steven-greer",
+      "from_node_id": "claim-2SQXAPCdmPE-sheehan-represented-everyone",
+      "to_node_id": "person-steven-greer",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2SQXAPCdmPE",
+          "timestamp_start": 459
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-2SQXAPCdmPE-sheehan-represented-everyone-REFERENCES-person-john-mack",
+      "from_node_id": "claim-2SQXAPCdmPE-sheehan-represented-everyone",
+      "to_node_id": "person-john-mack",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2SQXAPCdmPE",
+          "timestamp_start": 459
+        }
+      ]
+    },
+    {
+      "id": "edge-person-daniel-sheehan-ASSERTED-claim-2SQXAPCdmPE-aatip-22m-reid-stevens-inouye",
+      "from_node_id": "person-daniel-sheehan",
+      "to_node_id": "claim-2SQXAPCdmPE-aatip-22m-reid-stevens-inouye",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2SQXAPCdmPE",
+          "timestamp_start": 479,
+          "quote": "AATIP was initially authorized under Senator Harry Reid with $22M, co-secured with Senator Ted Stevens of Alaska and Senator Inouye."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-2SQXAPCdmPE-REFERENCES-claim-2SQXAPCdmPE-aatip-22m-reid-stevens-inouye",
+      "from_node_id": "video-2SQXAPCdmPE",
+      "to_node_id": "claim-2SQXAPCdmPE-aatip-22m-reid-stevens-inouye",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2SQXAPCdmPE",
+          "timestamp_start": 479
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-2SQXAPCdmPE-aatip-22m-reid-stevens-inouye-REFERENCES-person-harry-reid",
+      "from_node_id": "claim-2SQXAPCdmPE-aatip-22m-reid-stevens-inouye",
+      "to_node_id": "person-harry-reid",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2SQXAPCdmPE",
+          "timestamp_start": 479
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-2SQXAPCdmPE-aatip-22m-reid-stevens-inouye-REFERENCES-person-ted-stevens",
+      "from_node_id": "claim-2SQXAPCdmPE-aatip-22m-reid-stevens-inouye",
+      "to_node_id": "person-ted-stevens",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2SQXAPCdmPE",
+          "timestamp_start": 479
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-2SQXAPCdmPE-aatip-22m-reid-stevens-inouye-REFERENCES-program-aatip",
+      "from_node_id": "claim-2SQXAPCdmPE-aatip-22m-reid-stevens-inouye",
+      "to_node_id": "program-aatip",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2SQXAPCdmPE",
+          "timestamp_start": 479
+        }
+      ]
+    },
+    {
+      "id": "edge-person-daniel-sheehan-ASSERTED-claim-2SQXAPCdmPE-schumer-amendment-johnson-dilution",
+      "from_node_id": "person-daniel-sheehan",
+      "to_node_id": "claim-2SQXAPCdmPE-schumer-amendment-johnson-dilution",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2SQXAPCdmPE",
+          "timestamp_start": 485,
+          "quote": "Sheehan alleges Mike Johnson, as House Speaker and representative of Wright-Patterson's district, diluted the Schumer UAP Disclosure amendment at the direction of top aerospace donors including Lockhe"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-2SQXAPCdmPE-REFERENCES-claim-2SQXAPCdmPE-schumer-amendment-johnson-dilution",
+      "from_node_id": "video-2SQXAPCdmPE",
+      "to_node_id": "claim-2SQXAPCdmPE-schumer-amendment-johnson-dilution",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2SQXAPCdmPE",
+          "timestamp_start": 485
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-2SQXAPCdmPE-schumer-amendment-johnson-dilution-REFERENCES-person-mike-johnson-speaker",
+      "from_node_id": "claim-2SQXAPCdmPE-schumer-amendment-johnson-dilution",
+      "to_node_id": "person-mike-johnson-speaker",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2SQXAPCdmPE",
+          "timestamp_start": 485
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-2SQXAPCdmPE-schumer-amendment-johnson-dilution-REFERENCES-document-schumer-rounds-amendment",
+      "from_node_id": "claim-2SQXAPCdmPE-schumer-amendment-johnson-dilution",
+      "to_node_id": "document-schumer-rounds-amendment",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2SQXAPCdmPE",
+          "timestamp_start": 485
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-2SQXAPCdmPE-schumer-amendment-johnson-dilution-REFERENCES-organization-lockheed-martin",
+      "from_node_id": "claim-2SQXAPCdmPE-schumer-amendment-johnson-dilution",
+      "to_node_id": "organization-lockheed-martin",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2SQXAPCdmPE",
+          "timestamp_start": 485
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-2SQXAPCdmPE-schumer-amendment-johnson-dilution-REFERENCES-location-wright-patterson-afb",
+      "from_node_id": "claim-2SQXAPCdmPE-schumer-amendment-johnson-dilution",
+      "to_node_id": "location-wright-patterson-afb",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2SQXAPCdmPE",
+          "timestamp_start": 485
+        }
+      ]
+    },
+    {
+      "id": "edge-person-daniel-sheehan-ASSERTED-claim-2SQXAPCdmPE-skunkworks-patents-superluminal",
+      "from_node_id": "person-daniel-sheehan",
+      "to_node_id": "claim-2SQXAPCdmPE-skunkworks-patents-superluminal",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2SQXAPCdmPE",
+          "timestamp_start": 501,
+          "quote": "Sheehan alleges Skunkworks / Lockheed are holding out on agreeing to a UAP disclosure law because they want patent rights on superluminal/anti-gravity technology."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-2SQXAPCdmPE-REFERENCES-claim-2SQXAPCdmPE-skunkworks-patents-superluminal",
+      "from_node_id": "video-2SQXAPCdmPE",
+      "to_node_id": "claim-2SQXAPCdmPE-skunkworks-patents-superluminal",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2SQXAPCdmPE",
+          "timestamp_start": 501
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-2SQXAPCdmPE-skunkworks-patents-superluminal-REFERENCES-organization-skunkworks",
+      "from_node_id": "claim-2SQXAPCdmPE-skunkworks-patents-superluminal",
+      "to_node_id": "organization-skunkworks",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2SQXAPCdmPE",
+          "timestamp_start": 501
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-2SQXAPCdmPE-skunkworks-patents-superluminal-REFERENCES-organization-lockheed-martin",
+      "from_node_id": "claim-2SQXAPCdmPE-skunkworks-patents-superluminal",
+      "to_node_id": "organization-lockheed-martin",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2SQXAPCdmPE",
+          "timestamp_start": 501
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-2SQXAPCdmPE-skunkworks-patents-superluminal-REFERENCES-concept-reverse-engineering",
+      "from_node_id": "claim-2SQXAPCdmPE-skunkworks-patents-superluminal",
+      "to_node_id": "concept-reverse-engineering",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2SQXAPCdmPE",
+          "timestamp_start": 501
+        }
+      ]
+    },
+    {
+      "id": "edge-person-daniel-sheehan-ASSERTED-claim-2SQXAPCdmPE-mack-represented-silkwood-similar",
+      "from_node_id": "person-daniel-sheehan",
+      "to_node_id": "claim-2SQXAPCdmPE-mack-represented-silkwood-similar",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2SQXAPCdmPE",
+          "timestamp_start": 513,
+          "quote": "Sheehan represented John Mack at Harvard regarding the abduction research and at the pattern-evaluation phase of witness credibility assessment."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-2SQXAPCdmPE-REFERENCES-claim-2SQXAPCdmPE-mack-represented-silkwood-similar",
+      "from_node_id": "video-2SQXAPCdmPE",
+      "to_node_id": "claim-2SQXAPCdmPE-mack-represented-silkwood-similar",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2SQXAPCdmPE",
+          "timestamp_start": 513
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-2SQXAPCdmPE-mack-represented-silkwood-similar-REFERENCES-person-john-mack",
+      "from_node_id": "claim-2SQXAPCdmPE-mack-represented-silkwood-similar",
+      "to_node_id": "person-john-mack",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2SQXAPCdmPE",
+          "timestamp_start": 513
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-2SQXAPCdmPE-mack-represented-silkwood-similar-REFERENCES-person-bud-hopkins",
+      "from_node_id": "claim-2SQXAPCdmPE-mack-represented-silkwood-similar",
+      "to_node_id": "person-bud-hopkins",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2SQXAPCdmPE",
+          "timestamp_start": 513
+        }
+      ]
+    },
+    {
+      "id": "edge-person-daniel-sheehan-ASSERTED-claim-2SQXAPCdmPE-direct-face-to-face-underground-bases",
+      "from_node_id": "person-daniel-sheehan",
+      "to_node_id": "claim-2SQXAPCdmPE-direct-face-to-face-underground-bases",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2SQXAPCdmPE",
+          "timestamp_start": 515,
+          "quote": "Per Sheehan's witnesses: direct face-to-face contact with NHI has occurred in American underground military bases; beings communicate telepathically — e.g., speaking French to French interviewees."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-2SQXAPCdmPE-REFERENCES-claim-2SQXAPCdmPE-direct-face-to-face-underground-bases",
+      "from_node_id": "video-2SQXAPCdmPE",
+      "to_node_id": "claim-2SQXAPCdmPE-direct-face-to-face-underground-bases",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2SQXAPCdmPE",
+          "timestamp_start": 515
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-2SQXAPCdmPE-direct-face-to-face-underground-bases-REFERENCES-phenomenon-alien-telepathy",
+      "from_node_id": "claim-2SQXAPCdmPE-direct-face-to-face-underground-bases",
+      "to_node_id": "phenomenon-alien-telepathy",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2SQXAPCdmPE",
+          "timestamp_start": 515
+        }
+      ]
+    },
+    {
+      "id": "edge-person-daniel-sheehan-ASSERTED-claim-2SQXAPCdmPE-sheehan-face-to-face-evidence-copious",
+      "from_node_id": "person-daniel-sheehan",
+      "to_node_id": "claim-2SQXAPCdmPE-sheehan-face-to-face-evidence-copious",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2SQXAPCdmPE",
+          "timestamp_start": 505,
+          "quote": "Sheehan argues the evidence of face-to-face NHI contact across databases and witnesses is 'plain as day' — skeptic framing undercounts this body of testimony."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-2SQXAPCdmPE-REFERENCES-claim-2SQXAPCdmPE-sheehan-face-to-face-evidence-copious",
+      "from_node_id": "video-2SQXAPCdmPE",
+      "to_node_id": "claim-2SQXAPCdmPE-sheehan-face-to-face-evidence-copious",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2SQXAPCdmPE",
+          "timestamp_start": 505
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-2SQXAPCdmPE-sheehan-face-to-face-evidence-copious-REFERENCES-concept-nhi",
+      "from_node_id": "claim-2SQXAPCdmPE-sheehan-face-to-face-evidence-copious",
+      "to_node_id": "concept-nhi",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2SQXAPCdmPE",
+          "timestamp_start": 505
+        }
+      ]
     }
   ],
-  "extracted_at": "2026-04-17T11:04:17.825119+00:00",
+  "extracted_at": "2026-04-17T12:31:49.501404+00:00",
   "extractor_version": "v1-inline-claude"
 }

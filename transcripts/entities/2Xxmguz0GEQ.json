@@ -1315,6 +1315,357 @@
           "video-2Xxmguz0GEQ"
         ]
       }
+    },
+    {
+      "id": "person-bob-maguire",
+      "node_type": "person",
+      "label": "Bob Maguire",
+      "summary": "Former intelligence-community contractor (several decades, multiple three-letter agencies); founder of Federated Wireless; deep-physics UFO researcher. Personally met John Wheeler ('it from bit') in retirement and received autographs.",
+      "tags": [
+        "intelligence",
+        "entrepreneur",
+        "researcher"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.368673+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2Xxmguz0GEQ",
+          "timestamp_start": 425,
+          "quote": "Former CIA contractor; hot-guy-360 / Federated Wireless founder; UFO physics"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Maguire"
+        ],
+        "profession": "intelligence contractor / entrepreneur",
+        "notability_tags": [
+          "intelligence",
+          "entrepreneur",
+          "researcher"
+        ]
+      }
+    },
+    {
+      "id": "person-john-wheeler",
+      "node_type": "person",
+      "label": "John Archibald Wheeler",
+      "summary": "American theoretical physicist (1911-2008); originator of 'it from bit' informational ontology. Met Bob Maguire in his retirement village and became regular visitor.",
+      "tags": [
+        "physicist",
+        "historical"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.368675+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2Xxmguz0GEQ",
+          "timestamp_start": 463,
+          "quote": "Physicist of 'it from bit' hypothesis; Maguire's mentor"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Wheeler",
+          "John Archer Wheeler"
+        ],
+        "profession": "physicist",
+        "notability_tags": [
+          "physicist",
+          "historical"
+        ]
+      }
+    },
+    {
+      "id": "person-matthew-pines",
+      "node_type": "person",
+      "label": "Matthew Pines",
+      "summary": "Independent national-security/UAP analyst with near-perfect photographic memory; commands the UAP literature exhaustively across physics, geopolitics, and program structure; referenced by Maguire and Michels as exceptional.",
+      "tags": [
+        "analyst",
+        "researcher"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.368678+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2Xxmguz0GEQ",
+          "timestamp_start": 433,
+          "quote": "Photographic-memory UAP-field analyst"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Pines"
+        ],
+        "profession": "analyst",
+        "notability_tags": [
+          "analyst",
+          "researcher"
+        ]
+      }
+    },
+    {
+      "id": "person-sabine-hossenfelder",
+      "node_type": "person",
+      "label": "Sabine Hossenfelder",
+      "summary": "German theoretical physicist; publicly critical of untestable hypotheses (multiverse) as non-scientific; left academia after angering too many people.",
+      "tags": [
+        "physicist",
+        "scientist"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.368680+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2Xxmguz0GEQ",
+          "timestamp_start": 461,
+          "quote": "Theoretical physicist who argues multiverse is untestable"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Hossenfelder"
+        ],
+        "profession": "physicist",
+        "notability_tags": [
+          "physicist",
+          "scientist"
+        ]
+      }
+    },
+    {
+      "id": "concept-it-from-bit",
+      "node_type": "concept",
+      "label": "It From Bit (Wheeler)",
+      "summary": "John Wheeler's hypothesis that all physical reality is fundamentally informational — 'yes/no' bits constitute matter; physical state is the answer to a series of yes/no questions. Referenced by Maguire as foundational.",
+      "tags": [
+        "physics"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.368682+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2Xxmguz0GEQ",
+          "timestamp_start": 447,
+          "timestamp_end": "Wheeler's informational ontology for physical reality"
+        }
+      ],
+      "type_specific": {
+        "concept_domain": "physics"
+      }
+    },
+    {
+      "id": "concept-many-worlds-everett",
+      "node_type": "concept",
+      "label": "Many-Worlds / Everett Interpretation",
+      "summary": "Hugh Everett's interpretation: wavefunction never collapses; universe continuously branches. Everett was Wheeler's student. Maguire describes it as mathematically sound but empirically untestable per Sabine Hossenfelder.",
+      "tags": [
+        "physics"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.368683+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2Xxmguz0GEQ",
+          "timestamp_start": 457,
+          "timestamp_end": "Everett's quantum multiverse interpretation"
+        }
+      ],
+      "type_specific": {
+        "concept_domain": "physics"
+      }
+    },
+    {
+      "id": "claim-2Xxmguz0GEQ-maguire-obama-bledsoe-napkin",
+      "node_type": "claim",
+      "label": "Per Bob Maguire: the address on a picture mailed to Chris Bledsoe matched Bledsoe's own address; the",
+      "summary": "Per Bob Maguire: the address on a picture mailed to Chris Bledsoe matched Bledsoe's own address; the napkin bore the presidential seal from Camp David; only plausible sender of that mailing was Barack Obama.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.392118+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2Xxmguz0GEQ",
+          "timestamp_start": 423,
+          "quote": "I knew the address because it was the address of Chris Bledsoe. I knew the napkin because it was the presidential seal on a napkin from Camp David. The picture was mailed to him by Tim Taylor. The only person that story can have been told to in that envelope was Barack Obama."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Per Bob Maguire: the address on a picture mailed to Chris Bledsoe matched Bledsoe's own address; the napkin bore the presidential seal from Camp David; only plausible sender of that mailing was Barack Obama.",
+        "asserted_by_id": "person-bob-maguire",
+        "source_video_id": "2Xxmguz0GEQ",
+        "timestamp_start_seconds": 423,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-bob-maguire",
+          "person-chris-bledsoe",
+          "person-tim-taylor-cape-canaveral"
+        ]
+      }
+    },
+    {
+      "id": "claim-2Xxmguz0GEQ-maguire-wheeler-retirement-meetings",
+      "node_type": "claim",
+      "label": "Maguire's wife worked at the New Jersey retirement community where John Wheeler lived; Maguire repea",
+      "summary": "Maguire's wife worked at the New Jersey retirement community where John Wheeler lived; Maguire repeatedly visited Wheeler for extended discussions covering gravitation and 'it from bit.'",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.392132+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2Xxmguz0GEQ",
+          "timestamp_start": 463,
+          "quote": "My wife was a nurse at a retirement community. She says it's the same name on a bunch of your books. I said John Wheeler. I went over, had tea with him, became a regular visitor."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Maguire's wife worked at the New Jersey retirement community where John Wheeler lived; Maguire repeatedly visited Wheeler for extended discussions covering gravitation and 'it from bit.'",
+        "asserted_by_id": "person-bob-maguire",
+        "source_video_id": "2Xxmguz0GEQ",
+        "timestamp_start_seconds": 463,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-bob-maguire",
+          "person-john-wheeler"
+        ]
+      }
+    },
+    {
+      "id": "claim-2Xxmguz0GEQ-maguire-pines-photographic-memory",
+      "node_type": "claim",
+      "label": "Matthew Pines commands the UAP field with near-perfect photographic memory — speaks at detail level ",
+      "summary": "Matthew Pines commands the UAP field with near-perfect photographic memory — speaks at detail level of branchial/branchical space hypersurface foliations, computationally-bounded relative equivalencing, for hours without notes.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.392141+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2Xxmguz0GEQ",
+          "timestamp_start": 433,
+          "quote": "Matthew Pines is that person who has a mere perfect photographic memory. Talk to you about detail stuff that excited my imagination — hypersurface foliations of branchial space that are computationally bounded — he did it without looking at a single note for hours."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Matthew Pines commands the UAP field with near-perfect photographic memory — speaks at detail level of branchial/branchical space hypersurface foliations, computationally-bounded relative equivalencing, for hours without notes.",
+        "asserted_by_id": "person-bob-maguire",
+        "source_video_id": "2Xxmguz0GEQ",
+        "timestamp_start_seconds": 433,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-bob-maguire",
+          "person-matthew-pines"
+        ]
+      }
+    },
+    {
+      "id": "claim-2Xxmguz0GEQ-maguire-it-from-bit-wheeler",
+      "node_type": "claim",
+      "label": "Per Maguire: Wheeler summarized his ultimate ontology as 'it from bit' — matter and energy are const",
+      "summary": "Per Maguire: Wheeler summarized his ultimate ontology as 'it from bit' — matter and energy are constituted by bits of information describing their configuration.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.392149+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2Xxmguz0GEQ",
+          "timestamp_start": 447,
+          "quote": "He said 'it from bit' and what he meant was that which constitutes the universe all around us are actually bits of information that describe their configuration and the state they're in."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Per Maguire: Wheeler summarized his ultimate ontology as 'it from bit' — matter and energy are constituted by bits of information describing their configuration.",
+        "asserted_by_id": "person-bob-maguire",
+        "source_video_id": "2Xxmguz0GEQ",
+        "timestamp_start_seconds": 447,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-bob-maguire",
+          "person-john-wheeler",
+          "concept-it-from-bit"
+        ]
+      }
+    },
+    {
+      "id": "claim-2Xxmguz0GEQ-hossenfelder-multiverse-untestable",
+      "node_type": "claim",
+      "label": "Sabine Hossenfelder argues the Many-Worlds multiverse is experimentally untestable and therefore a n",
+      "summary": "Sabine Hossenfelder argues the Many-Worlds multiverse is experimentally untestable and therefore a non-scientific hypothesis — a position that contributed to her leaving academia.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.392158+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2Xxmguz0GEQ",
+          "timestamp_start": 461,
+          "quote": "Sabine Hossenfelder has recently argued that you can't test it — that it's an untestable hypothesis and therefore a non-scientific hypothesis. She's had to give up on her academic career because she's angered too many people."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Sabine Hossenfelder argues the Many-Worlds multiverse is experimentally untestable and therefore a non-scientific hypothesis — a position that contributed to her leaving academia.",
+        "asserted_by_id": "person-bob-maguire",
+        "source_video_id": "2Xxmguz0GEQ",
+        "timestamp_start_seconds": 461,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-sabine-hossenfelder",
+          "concept-many-worlds-everett"
+        ]
+      }
     }
   ],
   "edges": [
@@ -2009,8 +2360,265 @@
           "timestamp_start": 0
         }
       ]
+    },
+    {
+      "id": "edge-person-bob-maguire-ASSERTED-claim-2Xxmguz0GEQ-maguire-obama-bledsoe-napkin",
+      "from_node_id": "person-bob-maguire",
+      "to_node_id": "claim-2Xxmguz0GEQ-maguire-obama-bledsoe-napkin",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2Xxmguz0GEQ",
+          "timestamp_start": 423,
+          "quote": "Per Bob Maguire: the address on a picture mailed to Chris Bledsoe matched Bledsoe's own address; the napkin bore the presidential seal from Camp David; only plausible sender of that mailing was Barack"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-2Xxmguz0GEQ-REFERENCES-claim-2Xxmguz0GEQ-maguire-obama-bledsoe-napkin",
+      "from_node_id": "video-2Xxmguz0GEQ",
+      "to_node_id": "claim-2Xxmguz0GEQ-maguire-obama-bledsoe-napkin",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2Xxmguz0GEQ",
+          "timestamp_start": 423
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-2Xxmguz0GEQ-maguire-obama-bledsoe-napkin-REFERENCES-person-chris-bledsoe",
+      "from_node_id": "claim-2Xxmguz0GEQ-maguire-obama-bledsoe-napkin",
+      "to_node_id": "person-chris-bledsoe",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2Xxmguz0GEQ",
+          "timestamp_start": 423
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-2Xxmguz0GEQ-maguire-obama-bledsoe-napkin-REFERENCES-person-tim-taylor-cape-canaveral",
+      "from_node_id": "claim-2Xxmguz0GEQ-maguire-obama-bledsoe-napkin",
+      "to_node_id": "person-tim-taylor-cape-canaveral",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2Xxmguz0GEQ",
+          "timestamp_start": 423
+        }
+      ]
+    },
+    {
+      "id": "edge-person-bob-maguire-ASSERTED-claim-2Xxmguz0GEQ-maguire-wheeler-retirement-meetings",
+      "from_node_id": "person-bob-maguire",
+      "to_node_id": "claim-2Xxmguz0GEQ-maguire-wheeler-retirement-meetings",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2Xxmguz0GEQ",
+          "timestamp_start": 463,
+          "quote": "Maguire's wife worked at the New Jersey retirement community where John Wheeler lived; Maguire repeatedly visited Wheeler for extended discussions covering gravitation and 'it from bit.'"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-2Xxmguz0GEQ-REFERENCES-claim-2Xxmguz0GEQ-maguire-wheeler-retirement-meetings",
+      "from_node_id": "video-2Xxmguz0GEQ",
+      "to_node_id": "claim-2Xxmguz0GEQ-maguire-wheeler-retirement-meetings",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2Xxmguz0GEQ",
+          "timestamp_start": 463
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-2Xxmguz0GEQ-maguire-wheeler-retirement-meetings-REFERENCES-person-john-wheeler",
+      "from_node_id": "claim-2Xxmguz0GEQ-maguire-wheeler-retirement-meetings",
+      "to_node_id": "person-john-wheeler",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2Xxmguz0GEQ",
+          "timestamp_start": 463
+        }
+      ]
+    },
+    {
+      "id": "edge-person-bob-maguire-ASSERTED-claim-2Xxmguz0GEQ-maguire-pines-photographic-memory",
+      "from_node_id": "person-bob-maguire",
+      "to_node_id": "claim-2Xxmguz0GEQ-maguire-pines-photographic-memory",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2Xxmguz0GEQ",
+          "timestamp_start": 433,
+          "quote": "Matthew Pines commands the UAP field with near-perfect photographic memory — speaks at detail level of branchial/branchical space hypersurface foliations, computationally-bounded relative equivalencin"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-2Xxmguz0GEQ-REFERENCES-claim-2Xxmguz0GEQ-maguire-pines-photographic-memory",
+      "from_node_id": "video-2Xxmguz0GEQ",
+      "to_node_id": "claim-2Xxmguz0GEQ-maguire-pines-photographic-memory",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2Xxmguz0GEQ",
+          "timestamp_start": 433
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-2Xxmguz0GEQ-maguire-pines-photographic-memory-REFERENCES-person-matthew-pines",
+      "from_node_id": "claim-2Xxmguz0GEQ-maguire-pines-photographic-memory",
+      "to_node_id": "person-matthew-pines",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2Xxmguz0GEQ",
+          "timestamp_start": 433
+        }
+      ]
+    },
+    {
+      "id": "edge-person-bob-maguire-ASSERTED-claim-2Xxmguz0GEQ-maguire-it-from-bit-wheeler",
+      "from_node_id": "person-bob-maguire",
+      "to_node_id": "claim-2Xxmguz0GEQ-maguire-it-from-bit-wheeler",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2Xxmguz0GEQ",
+          "timestamp_start": 447,
+          "quote": "Per Maguire: Wheeler summarized his ultimate ontology as 'it from bit' — matter and energy are constituted by bits of information describing their configuration."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-2Xxmguz0GEQ-REFERENCES-claim-2Xxmguz0GEQ-maguire-it-from-bit-wheeler",
+      "from_node_id": "video-2Xxmguz0GEQ",
+      "to_node_id": "claim-2Xxmguz0GEQ-maguire-it-from-bit-wheeler",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2Xxmguz0GEQ",
+          "timestamp_start": 447
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-2Xxmguz0GEQ-maguire-it-from-bit-wheeler-REFERENCES-person-john-wheeler",
+      "from_node_id": "claim-2Xxmguz0GEQ-maguire-it-from-bit-wheeler",
+      "to_node_id": "person-john-wheeler",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2Xxmguz0GEQ",
+          "timestamp_start": 447
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-2Xxmguz0GEQ-maguire-it-from-bit-wheeler-REFERENCES-concept-it-from-bit",
+      "from_node_id": "claim-2Xxmguz0GEQ-maguire-it-from-bit-wheeler",
+      "to_node_id": "concept-it-from-bit",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2Xxmguz0GEQ",
+          "timestamp_start": 447
+        }
+      ]
+    },
+    {
+      "id": "edge-person-bob-maguire-ASSERTED-claim-2Xxmguz0GEQ-hossenfelder-multiverse-untestable",
+      "from_node_id": "person-bob-maguire",
+      "to_node_id": "claim-2Xxmguz0GEQ-hossenfelder-multiverse-untestable",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2Xxmguz0GEQ",
+          "timestamp_start": 461,
+          "quote": "Sabine Hossenfelder argues the Many-Worlds multiverse is experimentally untestable and therefore a non-scientific hypothesis — a position that contributed to her leaving academia."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-2Xxmguz0GEQ-REFERENCES-claim-2Xxmguz0GEQ-hossenfelder-multiverse-untestable",
+      "from_node_id": "video-2Xxmguz0GEQ",
+      "to_node_id": "claim-2Xxmguz0GEQ-hossenfelder-multiverse-untestable",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2Xxmguz0GEQ",
+          "timestamp_start": 461
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-2Xxmguz0GEQ-hossenfelder-multiverse-untestable-REFERENCES-person-sabine-hossenfelder",
+      "from_node_id": "claim-2Xxmguz0GEQ-hossenfelder-multiverse-untestable",
+      "to_node_id": "person-sabine-hossenfelder",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2Xxmguz0GEQ",
+          "timestamp_start": 461
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-2Xxmguz0GEQ-hossenfelder-multiverse-untestable-REFERENCES-concept-many-worlds-everett",
+      "from_node_id": "claim-2Xxmguz0GEQ-hossenfelder-multiverse-untestable",
+      "to_node_id": "concept-many-worlds-everett",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2Xxmguz0GEQ",
+          "timestamp_start": 461
+        }
+      ]
     }
   ],
-  "extracted_at": "2026-04-17T11:04:33.047945+00:00",
+  "extracted_at": "2026-04-17T12:55:45.392165+00:00",
   "extractor_version": "v1-inline-claude"
 }

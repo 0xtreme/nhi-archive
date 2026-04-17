@@ -1690,6 +1690,368 @@
           "video-CiQTBOQ1dTg"
         ]
       }
+    },
+    {
+      "id": "person-tim-alberino",
+      "node_type": "person",
+      "label": "Tim Alberino",
+      "summary": "American researcher and author focused on the Nephilim / Anakim narrative of ancient giants; Kandahar giant investigator; deep scholar of Book of Enoch and Hebrew antediluvian cosmology.",
+      "tags": [
+        "researcher",
+        "author",
+        "biblical-scholar"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.006030+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 281,
+          "quote": "Researcher on Nephilim, ancient giants, Book of Enoch"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Alberino"
+        ],
+        "profession": "researcher / author",
+        "notability_tags": [
+          "researcher",
+          "author",
+          "biblical-scholar"
+        ]
+      }
+    },
+    {
+      "id": "document-book-of-enoch",
+      "node_type": "document",
+      "label": "Book of Enoch",
+      "summary": "Non-canonical Hebrew text attributed to Enoch; provides foundation for Hebrew cosmology of the antediluvian world; describes 'watchers' (extraterrestrial beings) who mated with humans producing the Nephilim giants.",
+      "tags": [
+        "book"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.006032+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 301,
+          "timestamp_end": "Foundational Hebrew antediluvian cosmological text"
+        }
+      ],
+      "type_specific": {
+        "document_type": "book",
+        "author": "Enoch (attributed)"
+      }
+    },
+    {
+      "id": "document-epic-of-gilgamesh",
+      "node_type": "document",
+      "label": "Epic of Gilgamesh",
+      "summary": "Ancient Mesopotamian epic; Gilgamesh himself is described as a giant. Parallels Hebrew Nephilim tradition with the Anunnakic/Sumerian account of divine-human hybrid beings.",
+      "tags": [
+        "book"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.006034+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 309,
+          "timestamp_end": "Mesopotamian epic with giant protagonist"
+        }
+      ],
+      "type_specific": {
+        "document_type": "book"
+      }
+    },
+    {
+      "id": "concept-watchers-nephilim",
+      "node_type": "concept",
+      "label": "The Watchers & Nephilim",
+      "summary": "Hebrew antediluvian tradition of 'watchers' — extraterrestrial entities who descended, mated with human women, and produced the Nephilim race of hybrid demigod giants. Paralleled across pagan traditions (Greek titans, Mesopotamian Anunnaki, Egyptian gods).",
+      "tags": [
+        "metaphysics"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.006036+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 271,
+          "timestamp_end": "Extraterrestrial beings who mated with humans producing giants"
+        }
+      ],
+      "type_specific": {
+        "concept_domain": "metaphysics"
+      }
+    },
+    {
+      "id": "incident-kandahar-giant",
+      "node_type": "incident",
+      "label": "Kandahar Giant Recovery",
+      "summary": "Tim Alberino's investigation: US Air Force cargo pilot witnessed a 12-ft tall, 1,100-lb, red-haired, pale-skinned being with six fingers on each hand and six toes on each foot being transported on an air cargo pallet in Afghanistan (classified operation).",
+      "tags": [
+        "crash_retrieval"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.006038+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 287,
+          "timestamp_end": "US cargo pilot witnessed 12-ft red-haired six-fingered giant"
+        }
+      ],
+      "type_specific": {
+        "incident_type": "crash_retrieval",
+        "date_approximate": "2002-01-01"
+      }
+    },
+    {
+      "id": "concept-sidonia-mars-ruins",
+      "node_type": "concept",
+      "label": "Sidonia (Mars) Ruins",
+      "summary": "Per Alberino: NHI-era civilizational ruins on Mars in the Sidonia region. Per ancient traditions, the gods descended from Mars.",
+      "tags": [
+        "metaphysics"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.006040+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 275,
+          "timestamp_end": "Alleged ancient civilization ruins in Sidonia region of Mars"
+        }
+      ],
+      "type_specific": {
+        "concept_domain": "metaphysics"
+      }
+    },
+    {
+      "id": "claim-CiQTBOQ1dTg-alberino-kandahar-giant",
+      "node_type": "claim",
+      "label": "Per Alberino: A US cargo pilot on classified missions witnessed a 12-ft tall, 1,100-lb, six-fingered",
+      "summary": "Per Alberino: A US cargo pilot on classified missions witnessed a 12-ft tall, 1,100-lb, six-fingered giant being transported on an air-cargo pallet in Kandahar — hair red, skin pale, 'solid as a rock', never-speak-about-it order.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.017488+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 287,
+          "quote": "He sees a forklift bringing over an air cargo pallet. The hair of this being was red. The skin was pale. It had six fingers on each hand and six toes on each foot. Let's say it was 12 feet tall. The whole thing weighed 1,100 lb."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Per Alberino: A US cargo pilot on classified missions witnessed a 12-ft tall, 1,100-lb, six-fingered giant being transported on an air-cargo pallet in Kandahar — hair red, skin pale, 'solid as a rock', never-speak-about-it order.",
+        "asserted_by_id": "person-tim-alberino",
+        "source_video_id": "CiQTBOQ1dTg",
+        "timestamp_start_seconds": 287,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-tim-alberino",
+          "incident-kandahar-giant"
+        ]
+      }
+    },
+    {
+      "id": "claim-CiQTBOQ1dTg-alberino-watchers-nephilim",
+      "node_type": "claim",
+      "label": "Alberino argues the Book of Enoch documents 'watchers' — extraterrestrial entities who mated with hu",
+      "summary": "Alberino argues the Book of Enoch documents 'watchers' — extraterrestrial entities who mated with humans producing the Nephilim hybrid race — and this archetype is preserved across Hebrew, Mesopotamian, Greek, Roman, and Egyptian traditions.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.017510+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 271,
+          "quote": "So we have these watchers that came down. They were extraterrestrial. They mated with man. They created Nephilim. These traditions are ubiquitous across the earth."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Alberino argues the Book of Enoch documents 'watchers' — extraterrestrial entities who mated with humans producing the Nephilim hybrid race — and this archetype is preserved across Hebrew, Mesopotamian, Greek, Roman, and Egyptian traditions.",
+        "asserted_by_id": "person-tim-alberino",
+        "source_video_id": "CiQTBOQ1dTg",
+        "timestamp_start_seconds": 271,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-tim-alberino",
+          "document-book-of-enoch",
+          "concept-watchers-nephilim"
+        ]
+      }
+    },
+    {
+      "id": "claim-CiQTBOQ1dTg-alberino-sidonia-mars-ruins",
+      "node_type": "claim",
+      "label": "Alberino points to alleged ancient civilization ruins in the Sidonia region of Mars as material evid",
+      "summary": "Alberino points to alleged ancient civilization ruins in the Sidonia region of Mars as material evidence corroborating ancient traditions of the gods descending from Mars.",
+      "tags": [
+        "speculation",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.017521+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 275,
+          "quote": "There are ruins of an ancient civilization on the planet Mars, specifically in the region of Sidonia. The ancients believed that the gods descended from Mars."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Alberino points to alleged ancient civilization ruins in the Sidonia region of Mars as material evidence corroborating ancient traditions of the gods descending from Mars.",
+        "asserted_by_id": "person-tim-alberino",
+        "source_video_id": "CiQTBOQ1dTg",
+        "timestamp_start_seconds": 275,
+        "assertability": "speculation",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-tim-alberino",
+          "concept-sidonia-mars-ruins"
+        ]
+      }
+    },
+    {
+      "id": "claim-CiQTBOQ1dTg-gilgamesh-giant-parallel",
+      "node_type": "claim",
+      "label": "Alberino notes Gilgamesh himself is described as a giant in the Mesopotamian epic, paralleling the H",
+      "summary": "Alberino notes Gilgamesh himself is described as a giant in the Mesopotamian epic, paralleling the Hebrew Nephilim tradition and suggesting a common antediluvian memory of divine-human hybrid beings.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.017530+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 309,
+          "quote": "In the biblical account and the ancient Mesopotamian account, the epic of Gilgamesh. Gilgamesh himself was a giant."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Alberino notes Gilgamesh himself is described as a giant in the Mesopotamian epic, paralleling the Hebrew Nephilim tradition and suggesting a common antediluvian memory of divine-human hybrid beings.",
+        "asserted_by_id": "person-tim-alberino",
+        "source_video_id": "CiQTBOQ1dTg",
+        "timestamp_start_seconds": 309,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-tim-alberino",
+          "document-epic-of-gilgamesh",
+          "concept-watchers-nephilim"
+        ]
+      }
+    },
+    {
+      "id": "claim-CiQTBOQ1dTg-alberino-golden-age-zep-tepi",
+      "node_type": "claim",
+      "label": "Per Alberino: in Egyptian tradition the antediluvian era is 'Zep Tepi' — a golden age when gods co-m",
+      "summary": "Per Alberino: in Egyptian tradition the antediluvian era is 'Zep Tepi' — a golden age when gods co-mingled with mankind and procreated with human women producing hybrid demigods.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.017542+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 309,
+          "quote": "In the pagan world, this was known as the golden age or Zep Tepi to the ancient Egyptians. It was a time when the gods co-mingled with mankind. Literally, they procreated with human women."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Per Alberino: in Egyptian tradition the antediluvian era is 'Zep Tepi' — a golden age when gods co-mingled with mankind and procreated with human women producing hybrid demigods.",
+        "asserted_by_id": "person-tim-alberino",
+        "source_video_id": "CiQTBOQ1dTg",
+        "timestamp_start_seconds": 309,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-tim-alberino",
+          "concept-watchers-nephilim"
+        ]
+      }
+    },
+    {
+      "id": "claim-CiQTBOQ1dTg-alberino-enoch-greatest-preflood-patriarch",
+      "node_type": "claim",
+      "label": "Alberino notes Enoch is described as the greatest pre-flood patriarch yet canonical Bible says very ",
+      "summary": "Alberino notes Enoch is described as the greatest pre-flood patriarch yet canonical Bible says very little about him — extensive Enochian content exists only in extra-canonical Book of Enoch.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.017550+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 311,
+          "quote": "Among the Jews, there was no greater prophet and scribe than Enoch. The Bible says very little about Enoch — 'walked with God for 365 years and then God took him' — and that's pretty much all."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Alberino notes Enoch is described as the greatest pre-flood patriarch yet canonical Bible says very little about him — extensive Enochian content exists only in extra-canonical Book of Enoch.",
+        "asserted_by_id": "person-tim-alberino",
+        "source_video_id": "CiQTBOQ1dTg",
+        "timestamp_start_seconds": 311,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-tim-alberino",
+          "document-book-of-enoch"
+        ]
+      }
     }
   ],
   "edges": [
@@ -2594,8 +2956,294 @@
           "timestamp_start": 0
         }
       ]
+    },
+    {
+      "id": "edge-person-tim-alberino-ASSERTED-claim-CiQTBOQ1dTg-alberino-kandahar-giant",
+      "from_node_id": "person-tim-alberino",
+      "to_node_id": "claim-CiQTBOQ1dTg-alberino-kandahar-giant",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 287,
+          "quote": "Per Alberino: A US cargo pilot on classified missions witnessed a 12-ft tall, 1,100-lb, six-fingered giant being transported on an air-cargo pallet in Kandahar — hair red, skin pale, 'solid as a rock'"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-CiQTBOQ1dTg-REFERENCES-claim-CiQTBOQ1dTg-alberino-kandahar-giant",
+      "from_node_id": "video-CiQTBOQ1dTg",
+      "to_node_id": "claim-CiQTBOQ1dTg-alberino-kandahar-giant",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 287
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-CiQTBOQ1dTg-alberino-kandahar-giant-REFERENCES-incident-kandahar-giant",
+      "from_node_id": "claim-CiQTBOQ1dTg-alberino-kandahar-giant",
+      "to_node_id": "incident-kandahar-giant",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 287
+        }
+      ]
+    },
+    {
+      "id": "edge-person-tim-alberino-ASSERTED-claim-CiQTBOQ1dTg-alberino-watchers-nephilim",
+      "from_node_id": "person-tim-alberino",
+      "to_node_id": "claim-CiQTBOQ1dTg-alberino-watchers-nephilim",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 271,
+          "quote": "Alberino argues the Book of Enoch documents 'watchers' — extraterrestrial entities who mated with humans producing the Nephilim hybrid race — and this archetype is preserved across Hebrew, Mesopotamia"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-CiQTBOQ1dTg-REFERENCES-claim-CiQTBOQ1dTg-alberino-watchers-nephilim",
+      "from_node_id": "video-CiQTBOQ1dTg",
+      "to_node_id": "claim-CiQTBOQ1dTg-alberino-watchers-nephilim",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 271
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-CiQTBOQ1dTg-alberino-watchers-nephilim-REFERENCES-document-book-of-enoch",
+      "from_node_id": "claim-CiQTBOQ1dTg-alberino-watchers-nephilim",
+      "to_node_id": "document-book-of-enoch",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 271
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-CiQTBOQ1dTg-alberino-watchers-nephilim-REFERENCES-concept-watchers-nephilim",
+      "from_node_id": "claim-CiQTBOQ1dTg-alberino-watchers-nephilim",
+      "to_node_id": "concept-watchers-nephilim",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 271
+        }
+      ]
+    },
+    {
+      "id": "edge-person-tim-alberino-ASSERTED-claim-CiQTBOQ1dTg-alberino-sidonia-mars-ruins",
+      "from_node_id": "person-tim-alberino",
+      "to_node_id": "claim-CiQTBOQ1dTg-alberino-sidonia-mars-ruins",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 275,
+          "quote": "Alberino points to alleged ancient civilization ruins in the Sidonia region of Mars as material evidence corroborating ancient traditions of the gods descending from Mars."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-CiQTBOQ1dTg-REFERENCES-claim-CiQTBOQ1dTg-alberino-sidonia-mars-ruins",
+      "from_node_id": "video-CiQTBOQ1dTg",
+      "to_node_id": "claim-CiQTBOQ1dTg-alberino-sidonia-mars-ruins",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 275
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-CiQTBOQ1dTg-alberino-sidonia-mars-ruins-REFERENCES-concept-sidonia-mars-ruins",
+      "from_node_id": "claim-CiQTBOQ1dTg-alberino-sidonia-mars-ruins",
+      "to_node_id": "concept-sidonia-mars-ruins",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 275
+        }
+      ]
+    },
+    {
+      "id": "edge-person-tim-alberino-ASSERTED-claim-CiQTBOQ1dTg-gilgamesh-giant-parallel",
+      "from_node_id": "person-tim-alberino",
+      "to_node_id": "claim-CiQTBOQ1dTg-gilgamesh-giant-parallel",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 309,
+          "quote": "Alberino notes Gilgamesh himself is described as a giant in the Mesopotamian epic, paralleling the Hebrew Nephilim tradition and suggesting a common antediluvian memory of divine-human hybrid beings."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-CiQTBOQ1dTg-REFERENCES-claim-CiQTBOQ1dTg-gilgamesh-giant-parallel",
+      "from_node_id": "video-CiQTBOQ1dTg",
+      "to_node_id": "claim-CiQTBOQ1dTg-gilgamesh-giant-parallel",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 309
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-CiQTBOQ1dTg-gilgamesh-giant-parallel-REFERENCES-document-epic-of-gilgamesh",
+      "from_node_id": "claim-CiQTBOQ1dTg-gilgamesh-giant-parallel",
+      "to_node_id": "document-epic-of-gilgamesh",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 309
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-CiQTBOQ1dTg-gilgamesh-giant-parallel-REFERENCES-concept-watchers-nephilim",
+      "from_node_id": "claim-CiQTBOQ1dTg-gilgamesh-giant-parallel",
+      "to_node_id": "concept-watchers-nephilim",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 309
+        }
+      ]
+    },
+    {
+      "id": "edge-person-tim-alberino-ASSERTED-claim-CiQTBOQ1dTg-alberino-golden-age-zep-tepi",
+      "from_node_id": "person-tim-alberino",
+      "to_node_id": "claim-CiQTBOQ1dTg-alberino-golden-age-zep-tepi",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 309,
+          "quote": "Per Alberino: in Egyptian tradition the antediluvian era is 'Zep Tepi' — a golden age when gods co-mingled with mankind and procreated with human women producing hybrid demigods."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-CiQTBOQ1dTg-REFERENCES-claim-CiQTBOQ1dTg-alberino-golden-age-zep-tepi",
+      "from_node_id": "video-CiQTBOQ1dTg",
+      "to_node_id": "claim-CiQTBOQ1dTg-alberino-golden-age-zep-tepi",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 309
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-CiQTBOQ1dTg-alberino-golden-age-zep-tepi-REFERENCES-concept-watchers-nephilim",
+      "from_node_id": "claim-CiQTBOQ1dTg-alberino-golden-age-zep-tepi",
+      "to_node_id": "concept-watchers-nephilim",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 309
+        }
+      ]
+    },
+    {
+      "id": "edge-person-tim-alberino-ASSERTED-claim-CiQTBOQ1dTg-alberino-enoch-greatest-preflood-patriarch",
+      "from_node_id": "person-tim-alberino",
+      "to_node_id": "claim-CiQTBOQ1dTg-alberino-enoch-greatest-preflood-patriarch",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 311,
+          "quote": "Alberino notes Enoch is described as the greatest pre-flood patriarch yet canonical Bible says very little about him — extensive Enochian content exists only in extra-canonical Book of Enoch."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-CiQTBOQ1dTg-REFERENCES-claim-CiQTBOQ1dTg-alberino-enoch-greatest-preflood-patriarch",
+      "from_node_id": "video-CiQTBOQ1dTg",
+      "to_node_id": "claim-CiQTBOQ1dTg-alberino-enoch-greatest-preflood-patriarch",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 311
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-CiQTBOQ1dTg-alberino-enoch-greatest-preflood-patriarch-REFERENCES-document-book-of-enoch",
+      "from_node_id": "claim-CiQTBOQ1dTg-alberino-enoch-greatest-preflood-patriarch",
+      "to_node_id": "document-book-of-enoch",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 311
+        }
+      ]
     }
   ],
-  "extracted_at": "2026-04-17T11:04:23.956697+00:00",
+  "extracted_at": "2026-04-17T12:49:16.017561+00:00",
   "extractor_version": "v1-inline-claude"
 }

@@ -968,6 +968,331 @@
           "video-IFaXi-NrPV0"
         ]
       }
+    },
+    {
+      "id": "person-kirsan-ilyumzhinov",
+      "node_type": "person",
+      "label": "Kirsan Ilyumzhinov",
+      "summary": "Former President of the Russian Republic of Kalmykia (only Buddhist republic in Russian Federation). Long-serving FIDE (World Chess Federation) President. Publicly claims September 1997 abduction from his Moscow penthouse by yellow-garmented beings.",
+      "tags": [
+        "politician",
+        "abductee",
+        "experiencer",
+        "Russia"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.368686+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "IFaXi-NrPV0",
+          "timestamp_start": 475,
+          "quote": "President of Kalmykia 1993-2010; FIDE President 1995-2018; alleged 1997 abductee"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Xenov",
+          "Ilyumzhinov"
+        ],
+        "profession": "politician / chess administrator",
+        "notability_tags": [
+          "politician",
+          "abductee",
+          "experiencer",
+          "Russia"
+        ]
+      }
+    },
+    {
+      "id": "person-tsiolkovsky",
+      "node_type": "person",
+      "label": "Konstantin Tsiolkovsky",
+      "summary": "Soviet rocket-science pioneer; Russian father of spaceflight theory. Cited by Ilyumzhinov as having anticipated extraterrestrial contact.",
+      "tags": [
+        "scientist",
+        "Russia",
+        "historical"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.368690+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "IFaXi-NrPV0",
+          "timestamp_start": 507,
+          "quote": "Soviet rocket pioneer; Russian space father"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Tsiolkovsky"
+        ],
+        "profession": "scientist",
+        "notability_tags": [
+          "scientist",
+          "Russia",
+          "historical"
+        ]
+      }
+    },
+    {
+      "id": "person-yuri-gagarin",
+      "node_type": "person",
+      "label": "Yuri Gagarin",
+      "summary": "First human in space; referenced by Ilyumzhinov for his famous 'from the ground towards the new' statement upon engine ignition.",
+      "tags": [
+        "cosmonaut",
+        "Russia",
+        "historical"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.368692+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "IFaXi-NrPV0",
+          "timestamp_start": 499,
+          "quote": "First human in space; cited by Ilyumzhinov"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Gagarin"
+        ],
+        "profession": "astronaut",
+        "notability_tags": [
+          "cosmonaut",
+          "Russia",
+          "historical"
+        ]
+      }
+    },
+    {
+      "id": "incident-1997-ilyumzhinov-abduction",
+      "node_type": "incident",
+      "label": "1997 Ilyumzhinov Moscow Abduction",
+      "summary": "September 1997: Ilyumzhinov (then-sitting President of Kalmykia) abducted from his Moscow penthouse by beings in yellow garments. Entered via balcony-tube; shown football-field-sized laboratory-like interior; beings communicated telepathically; Ilyumzhinov confronted the driver, friend, and assistant who searched his apartment for over an hour.",
+      "tags": [
+        "abduction"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.368694+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "IFaXi-NrPV0",
+          "timestamp_start": 485,
+          "timestamp_end": "Sitting president abducted from Moscow penthouse by yellow-garmented beings"
+        }
+      ],
+      "type_specific": {
+        "incident_type": "abduction",
+        "date_approximate": "1997-09-25"
+      }
+    },
+    {
+      "id": "location-kalmykia-russia",
+      "node_type": "location",
+      "label": "Republic of Kalmykia (Russian Federation)",
+      "summary": "",
+      "tags": [
+        "region"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.368696+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "IFaXi-NrPV0",
+          "timestamp_start": 474,
+          "timestamp_end": "Only Buddhist republic in Russian Federation"
+        }
+      ],
+      "type_specific": {
+        "location_type": "region",
+        "country": "RU"
+      }
+    },
+    {
+      "id": "claim-IFaXi-NrPV0-ilyumzhinov-sitting-president-abduction",
+      "node_type": "claim",
+      "label": "Kirsan Ilyumzhinov is a sitting president of a prominent nation (Kalmykia, Russian Federation) publi",
+      "summary": "Kirsan Ilyumzhinov is a sitting president of a prominent nation (Kalmykia, Russian Federation) publicly claiming he was abducted by aliens in September 1997 — unprecedented.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.394401+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "IFaXi-NrPV0",
+          "timestamp_start": 475,
+          "quote": "A prominent nation who was abducted by aliens — sitting president in 1997. Kirsan Ilyumzhinov."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Kirsan Ilyumzhinov is a sitting president of a prominent nation (Kalmykia, Russian Federation) publicly claiming he was abducted by aliens in September 1997 — unprecedented.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "IFaXi-NrPV0",
+        "timestamp_start_seconds": 475,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-kirsan-ilyumzhinov",
+          "incident-1997-ilyumzhinov-abduction"
+        ]
+      }
+    },
+    {
+      "id": "claim-IFaXi-NrPV0-ilyumzhinov-three-witnesses",
+      "node_type": "claim",
+      "label": "Ilyumzhinov cites three witnesses (driver, friend, assistant) who searched his apartment for over an",
+      "summary": "Ilyumzhinov cites three witnesses (driver, friend, assistant) who searched his apartment for over an hour finding only his slippers — corroborating his physical disappearance.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.394415+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "IFaXi-NrPV0",
+          "timestamp_start": 487,
+          "quote": "I had three witnesses. The driver, my friend who came for me, and my assistant. They searched the apartment for over an hour and couldn't find me. They went in — slippers are there."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Ilyumzhinov cites three witnesses (driver, friend, assistant) who searched his apartment for over an hour finding only his slippers — corroborating his physical disappearance.",
+        "asserted_by_id": "person-kirsan-ilyumzhinov",
+        "source_video_id": "IFaXi-NrPV0",
+        "timestamp_start_seconds": 487,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-kirsan-ilyumzhinov",
+          "incident-1997-ilyumzhinov-abduction"
+        ]
+      }
+    },
+    {
+      "id": "claim-IFaXi-NrPV0-ilyumzhinov-telepathic-yellow-garmented",
+      "node_type": "claim",
+      "label": "The beings wore yellow garments and communicated through thoughts; interior was ~several football-fi",
+      "summary": "The beings wore yellow garments and communicated through thoughts; interior was ~several football-fields in size; beings were experimenting on boxes brought up from somewhere else.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.394422+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "IFaXi-NrPV0",
+          "timestamp_start": 493,
+          "quote": "They were wearing yellow garments. Large space like several soccer fields. Communicated through thoughts."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "The beings wore yellow garments and communicated through thoughts; interior was ~several football-fields in size; beings were experimenting on boxes brought up from somewhere else.",
+        "asserted_by_id": "person-kirsan-ilyumzhinov",
+        "source_video_id": "IFaXi-NrPV0",
+        "timestamp_start_seconds": 493,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-kirsan-ilyumzhinov",
+          "incident-1997-ilyumzhinov-abduction",
+          "phenomenon-alien-telepathy"
+        ]
+      }
+    },
+    {
+      "id": "claim-IFaXi-NrPV0-ilyumzhinov-gorbachev-kissinger-aware",
+      "node_type": "claim",
+      "label": "Ilyumzhinov claims Henry Kissinger, Gorbachev, and current leaders (Trump, Putin, Xi Jinping) are aw",
+      "summary": "Ilyumzhinov claims Henry Kissinger, Gorbachev, and current leaders (Trump, Putin, Xi Jinping) are aware of the alien presence; directly names Kissinger as having relevant knowledge.",
+      "tags": [
+        "hearsay",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.394430+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "IFaXi-NrPV0",
+          "timestamp_start": 480,
+          "quote": "American Secretary of State Henry Kissinger. Henry had a small folder. Gorbachev sitting next to him said, not all but after that meeting. Trump, Putin, Xi Jinping, these they're aware of the alien presence and UFOs."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Ilyumzhinov claims Henry Kissinger, Gorbachev, and current leaders (Trump, Putin, Xi Jinping) are aware of the alien presence; directly names Kissinger as having relevant knowledge.",
+        "asserted_by_id": "person-kirsan-ilyumzhinov",
+        "source_video_id": "IFaXi-NrPV0",
+        "timestamp_start_seconds": 480,
+        "assertability": "hearsay",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-kirsan-ilyumzhinov"
+        ]
+      }
+    },
+    {
+      "id": "claim-IFaXi-NrPV0-ilyumzhinov-fifth-civilization",
+      "node_type": "claim",
+      "label": "Ilyumzhinov asserts humans are the 'fifth civilization' — beings told him human history has ended pr",
+      "summary": "Ilyumzhinov asserts humans are the 'fifth civilization' — beings told him human history has ended prior civilizations; current one must overcome weapons-invention addiction or end similarly.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.394437+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "IFaXi-NrPV0",
+          "timestamp_start": 485,
+          "quote": "We are the fifth civilization. All your science and efforts towards inventing weapons — bacterial, chemical, atomic weapons, with ways to kill more people."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Ilyumzhinov asserts humans are the 'fifth civilization' — beings told him human history has ended prior civilizations; current one must overcome weapons-invention addiction or end similarly.",
+        "asserted_by_id": "person-kirsan-ilyumzhinov",
+        "source_video_id": "IFaXi-NrPV0",
+        "timestamp_start_seconds": 485,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-kirsan-ilyumzhinov",
+          "incident-1997-ilyumzhinov-abduction"
+        ]
+      }
     }
   ],
   "edges": [
@@ -1497,8 +1822,237 @@
           "timestamp_start": 0
         }
       ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-IFaXi-NrPV0-ilyumzhinov-sitting-president-abduction",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-IFaXi-NrPV0-ilyumzhinov-sitting-president-abduction",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "IFaXi-NrPV0",
+          "timestamp_start": 475,
+          "quote": "Kirsan Ilyumzhinov is a sitting president of a prominent nation (Kalmykia, Russian Federation) publicly claiming he was abducted by aliens in September 1997 — unprecedented."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-IFaXi-NrPV0-REFERENCES-claim-IFaXi-NrPV0-ilyumzhinov-sitting-president-abduction",
+      "from_node_id": "video-IFaXi-NrPV0",
+      "to_node_id": "claim-IFaXi-NrPV0-ilyumzhinov-sitting-president-abduction",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "IFaXi-NrPV0",
+          "timestamp_start": 475
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-IFaXi-NrPV0-ilyumzhinov-sitting-president-abduction-REFERENCES-person-kirsan-ilyumzhinov",
+      "from_node_id": "claim-IFaXi-NrPV0-ilyumzhinov-sitting-president-abduction",
+      "to_node_id": "person-kirsan-ilyumzhinov",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "IFaXi-NrPV0",
+          "timestamp_start": 475
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-IFaXi-NrPV0-ilyumzhinov-sitting-president-abduction-REFERENCES-incident-1997-ilyumzhinov-abduction",
+      "from_node_id": "claim-IFaXi-NrPV0-ilyumzhinov-sitting-president-abduction",
+      "to_node_id": "incident-1997-ilyumzhinov-abduction",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "IFaXi-NrPV0",
+          "timestamp_start": 475
+        }
+      ]
+    },
+    {
+      "id": "edge-person-kirsan-ilyumzhinov-ASSERTED-claim-IFaXi-NrPV0-ilyumzhinov-three-witnesses",
+      "from_node_id": "person-kirsan-ilyumzhinov",
+      "to_node_id": "claim-IFaXi-NrPV0-ilyumzhinov-three-witnesses",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "IFaXi-NrPV0",
+          "timestamp_start": 487,
+          "quote": "Ilyumzhinov cites three witnesses (driver, friend, assistant) who searched his apartment for over an hour finding only his slippers — corroborating his physical disappearance."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-IFaXi-NrPV0-REFERENCES-claim-IFaXi-NrPV0-ilyumzhinov-three-witnesses",
+      "from_node_id": "video-IFaXi-NrPV0",
+      "to_node_id": "claim-IFaXi-NrPV0-ilyumzhinov-three-witnesses",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "IFaXi-NrPV0",
+          "timestamp_start": 487
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-IFaXi-NrPV0-ilyumzhinov-three-witnesses-REFERENCES-incident-1997-ilyumzhinov-abduction",
+      "from_node_id": "claim-IFaXi-NrPV0-ilyumzhinov-three-witnesses",
+      "to_node_id": "incident-1997-ilyumzhinov-abduction",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "IFaXi-NrPV0",
+          "timestamp_start": 487
+        }
+      ]
+    },
+    {
+      "id": "edge-person-kirsan-ilyumzhinov-ASSERTED-claim-IFaXi-NrPV0-ilyumzhinov-telepathic-yellow-garmented",
+      "from_node_id": "person-kirsan-ilyumzhinov",
+      "to_node_id": "claim-IFaXi-NrPV0-ilyumzhinov-telepathic-yellow-garmented",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "IFaXi-NrPV0",
+          "timestamp_start": 493,
+          "quote": "The beings wore yellow garments and communicated through thoughts; interior was ~several football-fields in size; beings were experimenting on boxes brought up from somewhere else."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-IFaXi-NrPV0-REFERENCES-claim-IFaXi-NrPV0-ilyumzhinov-telepathic-yellow-garmented",
+      "from_node_id": "video-IFaXi-NrPV0",
+      "to_node_id": "claim-IFaXi-NrPV0-ilyumzhinov-telepathic-yellow-garmented",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "IFaXi-NrPV0",
+          "timestamp_start": 493
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-IFaXi-NrPV0-ilyumzhinov-telepathic-yellow-garmented-REFERENCES-incident-1997-ilyumzhinov-abduction",
+      "from_node_id": "claim-IFaXi-NrPV0-ilyumzhinov-telepathic-yellow-garmented",
+      "to_node_id": "incident-1997-ilyumzhinov-abduction",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "IFaXi-NrPV0",
+          "timestamp_start": 493
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-IFaXi-NrPV0-ilyumzhinov-telepathic-yellow-garmented-REFERENCES-phenomenon-alien-telepathy",
+      "from_node_id": "claim-IFaXi-NrPV0-ilyumzhinov-telepathic-yellow-garmented",
+      "to_node_id": "phenomenon-alien-telepathy",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "IFaXi-NrPV0",
+          "timestamp_start": 493
+        }
+      ]
+    },
+    {
+      "id": "edge-person-kirsan-ilyumzhinov-ASSERTED-claim-IFaXi-NrPV0-ilyumzhinov-gorbachev-kissinger-aware",
+      "from_node_id": "person-kirsan-ilyumzhinov",
+      "to_node_id": "claim-IFaXi-NrPV0-ilyumzhinov-gorbachev-kissinger-aware",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "IFaXi-NrPV0",
+          "timestamp_start": 480,
+          "quote": "Ilyumzhinov claims Henry Kissinger, Gorbachev, and current leaders (Trump, Putin, Xi Jinping) are aware of the alien presence; directly names Kissinger as having relevant knowledge."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-IFaXi-NrPV0-REFERENCES-claim-IFaXi-NrPV0-ilyumzhinov-gorbachev-kissinger-aware",
+      "from_node_id": "video-IFaXi-NrPV0",
+      "to_node_id": "claim-IFaXi-NrPV0-ilyumzhinov-gorbachev-kissinger-aware",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "IFaXi-NrPV0",
+          "timestamp_start": 480
+        }
+      ]
+    },
+    {
+      "id": "edge-person-kirsan-ilyumzhinov-ASSERTED-claim-IFaXi-NrPV0-ilyumzhinov-fifth-civilization",
+      "from_node_id": "person-kirsan-ilyumzhinov",
+      "to_node_id": "claim-IFaXi-NrPV0-ilyumzhinov-fifth-civilization",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "IFaXi-NrPV0",
+          "timestamp_start": 485,
+          "quote": "Ilyumzhinov asserts humans are the 'fifth civilization' — beings told him human history has ended prior civilizations; current one must overcome weapons-invention addiction or end similarly."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-IFaXi-NrPV0-REFERENCES-claim-IFaXi-NrPV0-ilyumzhinov-fifth-civilization",
+      "from_node_id": "video-IFaXi-NrPV0",
+      "to_node_id": "claim-IFaXi-NrPV0-ilyumzhinov-fifth-civilization",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "IFaXi-NrPV0",
+          "timestamp_start": 485
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-IFaXi-NrPV0-ilyumzhinov-fifth-civilization-REFERENCES-incident-1997-ilyumzhinov-abduction",
+      "from_node_id": "claim-IFaXi-NrPV0-ilyumzhinov-fifth-civilization",
+      "to_node_id": "incident-1997-ilyumzhinov-abduction",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "IFaXi-NrPV0",
+          "timestamp_start": 485
+        }
+      ]
     }
   ],
-  "extracted_at": "2026-04-17T11:04:33.367840+00:00",
+  "extracted_at": "2026-04-17T12:55:45.394443+00:00",
   "extractor_version": "v1-inline-claude"
 }

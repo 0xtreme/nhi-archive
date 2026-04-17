@@ -745,6 +745,355 @@
           "video-AVJEXCTAJUc"
         ]
       }
+    },
+    {
+      "id": "person-phil-stutz",
+      "node_type": "person",
+      "label": "Phil Stutz",
+      "summary": "American psychiatrist; Riker's Island prison psychiatrist for 5 years; afflicted with chronic fatigue syndrome in his 30s which became generative. Rudolph Steiner-influenced; Jungian-symbology therapy visualizations. Jesse's godfather. Jonah Hill's Netflix documentary 'Stutz' subject.",
+      "tags": [
+        "psychiatrist",
+        "therapist"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.111914+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "AVJEXCTAJUc",
+          "timestamp_start": 527,
+          "quote": "Jungian-influenced psychiatrist; Riker's Island 5 yrs; Jonah Hill's Netflix subject"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Stutz"
+        ],
+        "profession": "psychiatrist",
+        "notability_tags": [
+          "psychiatrist",
+          "therapist"
+        ]
+      }
+    },
+    {
+      "id": "person-barry-michels",
+      "node_type": "person",
+      "label": "Barry Michels",
+      "summary": "Jesse Michels' father; longtime business partner of Phil Stutz. Co-developed and communicated Stutz's therapy-visualization framework. Co-author of 'The Tools' (NYT bestseller) and 'Coming Alive'. Treated CEOs, actors, producers, directors.",
+      "tags": [
+        "therapist",
+        "author"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.111916+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "AVJEXCTAJUc",
+          "timestamp_start": 533,
+          "quote": "Jesse's father; Stutz's business partner; The Tools co-author"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Michels"
+        ],
+        "profession": "therapist",
+        "notability_tags": [
+          "therapist",
+          "author"
+        ]
+      }
+    },
+    {
+      "id": "person-jonah-hill",
+      "node_type": "person",
+      "label": "Jonah Hill",
+      "summary": "American actor and filmmaker; directed Netflix documentary 'Stutz' (2022) about Jesse's godfather Phil Stutz.",
+      "tags": [
+        "actor",
+        "filmmaker"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.111918+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "AVJEXCTAJUc",
+          "timestamp_start": 527,
+          "quote": "American actor; directed Netflix documentary 'Stutz'"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Hill"
+        ],
+        "profession": "actor / filmmaker",
+        "notability_tags": [
+          "actor",
+          "filmmaker"
+        ]
+      }
+    },
+    {
+      "id": "person-rudolph-steiner",
+      "node_type": "person",
+      "label": "Rudolph Steiner",
+      "summary": "Austrian philosopher (1861-1925); founder of anthroposophy; defining worldview influence on Phil Stutz during his chronic-fatigue recovery period.",
+      "tags": [
+        "philosopher",
+        "historical"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.111920+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "AVJEXCTAJUc",
+          "timestamp_start": 531,
+          "quote": "Austrian philosopher; anthroposophy founder; influenced Stutz"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Steiner"
+        ],
+        "profession": "philosopher",
+        "notability_tags": [
+          "philosopher",
+          "historical"
+        ]
+      }
+    },
+    {
+      "id": "document-stutz-michels-the-tools",
+      "node_type": "document",
+      "label": "The Tools",
+      "summary": "NYT bestselling book by Phil Stutz and Barry Michels on mental-visualization therapy — patient visualizations for everyday situations incorporating Jungian archetypal symbology. Works empirically in practice.",
+      "tags": [
+        "book"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.111925+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "AVJEXCTAJUc",
+          "timestamp_start": 537,
+          "timestamp_end": "Phil Stutz and Barry Michels' NYT bestseller on mental visualization therapy"
+        }
+      ],
+      "type_specific": {
+        "document_type": "book",
+        "author": "Phil Stutz & Barry Michels"
+      }
+    },
+    {
+      "id": "document-stutz-netflix-documentary",
+      "node_type": "document",
+      "label": "Stutz (Netflix Documentary)",
+      "summary": "Jonah Hill's Netflix documentary on Phil Stutz.",
+      "tags": [
+        "broadcast"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.111927+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "AVJEXCTAJUc",
+          "timestamp_start": 527,
+          "timestamp_end": "Jonah Hill's Netflix documentary on Phil Stutz"
+        }
+      ],
+      "type_specific": {
+        "document_type": "broadcast",
+        "author": "Jonah Hill"
+      }
+    },
+    {
+      "id": "claim-AVJEXCTAJUc-stutz-rikers-island-5-years",
+      "node_type": "claim",
+      "label": "Phil Stutz served as Riker's Island prison psychiatrist for 5 years — formative period where 'evalua",
+      "summary": "Phil Stutz served as Riker's Island prison psychiatrist for 5 years — formative period where 'evaluating and helping people was almost a matter of life or death' from the start.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.142871+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "AVJEXCTAJUc",
+          "timestamp_start": 529,
+          "quote": "Phil was also the Riker's Island prison psychiatrist for 5 years, so evaluating and helping people was almost a matter of life or death for him from the start."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Phil Stutz served as Riker's Island prison psychiatrist for 5 years — formative period where 'evaluating and helping people was almost a matter of life or death' from the start.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "AVJEXCTAJUc",
+        "timestamp_start_seconds": 529,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-phil-stutz"
+        ]
+      }
+    },
+    {
+      "id": "claim-AVJEXCTAJUc-stutz-chronic-fatigue-generative",
+      "node_type": "claim",
+      "label": "In his early 30s Stutz was afflicted with chronic fatigue syndrome — 'bizarrely generative' breakdow",
+      "summary": "In his early 30s Stutz was afflicted with chronic fatigue syndrome — 'bizarrely generative' breakdown. Led him to Rudolph Steiner and Jung, defining his worldview and practice.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.142882+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "AVJEXCTAJUc",
+          "timestamp_start": 529,
+          "quote": "In his early 30s Phil became afflicted with a mysterious condition called chronic fatigue syndrome. This breakdown was bizarrely generative. He found a turn-of-the-century Austrian philosopher named Rudolph Steiner who came to define his worldview and influence his practice."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "In his early 30s Stutz was afflicted with chronic fatigue syndrome — 'bizarrely generative' breakdown. Led him to Rudolph Steiner and Jung, defining his worldview and practice.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "AVJEXCTAJUc",
+        "timestamp_start_seconds": 529,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-phil-stutz",
+          "person-rudolph-steiner"
+        ]
+      }
+    },
+    {
+      "id": "claim-AVJEXCTAJUc-michels-stutz-business-partners",
+      "node_type": "claim",
+      "label": "Barry Michels (Jesse's father) is Phil Stutz's longtime business partner — co-developed and communic",
+      "summary": "Barry Michels (Jesse's father) is Phil Stutz's longtime business partner — co-developed and communicated Stutz's framework; treats 'CEOs of billion-dollar companies, actors, producers, directors, some on the verge of self-destruction.'",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.142891+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "AVJEXCTAJUc",
+          "timestamp_start": 533,
+          "quote": "I'm also talking about my dad Barry Michels — Phil's longtime business partner who helped develop Phil's ideas. He's turned around the lives of countless people — CEOs of billion dollar companies, actors, producers, directors, some of whom were on the verge of self-destruction."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Barry Michels (Jesse's father) is Phil Stutz's longtime business partner — co-developed and communicated Stutz's framework; treats 'CEOs of billion-dollar companies, actors, producers, directors, some on the verge of self-destruction.'",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "AVJEXCTAJUc",
+        "timestamp_start_seconds": 533,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-barry-michels",
+          "person-phil-stutz"
+        ]
+      }
+    },
+    {
+      "id": "claim-AVJEXCTAJUc-stutz-michels-the-tools-bestseller",
+      "node_type": "claim",
+      "label": "Phil Stutz and Barry Michels wrote NYT bestseller 'The Tools' and follow-up 'Coming Alive' — practic",
+      "summary": "Phil Stutz and Barry Michels wrote NYT bestseller 'The Tools' and follow-up 'Coming Alive' — practice involves Jungian archetypal-symbology visualizations for daunting everyday situations. Unconventional but empirically works.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.142899+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "AVJEXCTAJUc",
+          "timestamp_start": 537,
+          "quote": "Phil and my dad wrote A New York Times best-selling book called The Tools and a follow-up called Coming Alive. Their practice involves mental visualizations that incorporate archetypal Jungian symbology. Whatever they're doing empirically seems to work."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Phil Stutz and Barry Michels wrote NYT bestseller 'The Tools' and follow-up 'Coming Alive' — practice involves Jungian archetypal-symbology visualizations for daunting everyday situations. Unconventional but empirically works.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "AVJEXCTAJUc",
+        "timestamp_start_seconds": 537,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-phil-stutz",
+          "person-barry-michels",
+          "document-stutz-michels-the-tools"
+        ]
+      }
+    },
+    {
+      "id": "claim-AVJEXCTAJUc-hill-stutz-netflix-doc",
+      "node_type": "claim",
+      "label": "Jonah Hill directed Netflix documentary 'Stutz' (2022) about Jesse's godfather Phil Stutz — public p",
+      "summary": "Jonah Hill directed Netflix documentary 'Stutz' (2022) about Jesse's godfather Phil Stutz — public platform for Stutz's unorthodox therapeutic methodology.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.142907+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "AVJEXCTAJUc",
+          "timestamp_start": 527,
+          "quote": "Jonah Hill made a Netflix documentary about him a year ago called Stutz."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Jonah Hill directed Netflix documentary 'Stutz' (2022) about Jesse's godfather Phil Stutz — public platform for Stutz's unorthodox therapeutic methodology.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "AVJEXCTAJUc",
+        "timestamp_start_seconds": 527,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-jonah-hill",
+          "person-phil-stutz",
+          "document-stutz-netflix-documentary"
+        ]
+      }
     }
   ],
   "edges": [
@@ -1205,8 +1554,307 @@
           "timestamp_start": 0
         }
       ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-AVJEXCTAJUc-stutz-rikers-island-5-years",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-AVJEXCTAJUc-stutz-rikers-island-5-years",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "AVJEXCTAJUc",
+          "timestamp_start": 529,
+          "quote": "Phil Stutz served as Riker's Island prison psychiatrist for 5 years — formative period where 'evaluating and helping people was almost a matter of life or death' from the start."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-AVJEXCTAJUc-REFERENCES-claim-AVJEXCTAJUc-stutz-rikers-island-5-years",
+      "from_node_id": "video-AVJEXCTAJUc",
+      "to_node_id": "claim-AVJEXCTAJUc-stutz-rikers-island-5-years",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "AVJEXCTAJUc",
+          "timestamp_start": 529
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-AVJEXCTAJUc-stutz-rikers-island-5-years-REFERENCES-person-phil-stutz",
+      "from_node_id": "claim-AVJEXCTAJUc-stutz-rikers-island-5-years",
+      "to_node_id": "person-phil-stutz",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "AVJEXCTAJUc",
+          "timestamp_start": 529
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-AVJEXCTAJUc-stutz-chronic-fatigue-generative",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-AVJEXCTAJUc-stutz-chronic-fatigue-generative",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "AVJEXCTAJUc",
+          "timestamp_start": 529,
+          "quote": "In his early 30s Stutz was afflicted with chronic fatigue syndrome — 'bizarrely generative' breakdown. Led him to Rudolph Steiner and Jung, defining his worldview and practice."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-AVJEXCTAJUc-REFERENCES-claim-AVJEXCTAJUc-stutz-chronic-fatigue-generative",
+      "from_node_id": "video-AVJEXCTAJUc",
+      "to_node_id": "claim-AVJEXCTAJUc-stutz-chronic-fatigue-generative",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "AVJEXCTAJUc",
+          "timestamp_start": 529
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-AVJEXCTAJUc-stutz-chronic-fatigue-generative-REFERENCES-person-phil-stutz",
+      "from_node_id": "claim-AVJEXCTAJUc-stutz-chronic-fatigue-generative",
+      "to_node_id": "person-phil-stutz",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "AVJEXCTAJUc",
+          "timestamp_start": 529
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-AVJEXCTAJUc-stutz-chronic-fatigue-generative-REFERENCES-person-rudolph-steiner",
+      "from_node_id": "claim-AVJEXCTAJUc-stutz-chronic-fatigue-generative",
+      "to_node_id": "person-rudolph-steiner",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "AVJEXCTAJUc",
+          "timestamp_start": 529
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-AVJEXCTAJUc-michels-stutz-business-partners",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-AVJEXCTAJUc-michels-stutz-business-partners",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "AVJEXCTAJUc",
+          "timestamp_start": 533,
+          "quote": "Barry Michels (Jesse's father) is Phil Stutz's longtime business partner — co-developed and communicated Stutz's framework; treats 'CEOs of billion-dollar companies, actors, producers, directors, some"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-AVJEXCTAJUc-REFERENCES-claim-AVJEXCTAJUc-michels-stutz-business-partners",
+      "from_node_id": "video-AVJEXCTAJUc",
+      "to_node_id": "claim-AVJEXCTAJUc-michels-stutz-business-partners",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "AVJEXCTAJUc",
+          "timestamp_start": 533
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-AVJEXCTAJUc-michels-stutz-business-partners-REFERENCES-person-barry-michels",
+      "from_node_id": "claim-AVJEXCTAJUc-michels-stutz-business-partners",
+      "to_node_id": "person-barry-michels",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "AVJEXCTAJUc",
+          "timestamp_start": 533
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-AVJEXCTAJUc-michels-stutz-business-partners-REFERENCES-person-phil-stutz",
+      "from_node_id": "claim-AVJEXCTAJUc-michels-stutz-business-partners",
+      "to_node_id": "person-phil-stutz",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "AVJEXCTAJUc",
+          "timestamp_start": 533
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-AVJEXCTAJUc-stutz-michels-the-tools-bestseller",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-AVJEXCTAJUc-stutz-michels-the-tools-bestseller",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "AVJEXCTAJUc",
+          "timestamp_start": 537,
+          "quote": "Phil Stutz and Barry Michels wrote NYT bestseller 'The Tools' and follow-up 'Coming Alive' — practice involves Jungian archetypal-symbology visualizations for daunting everyday situations. Unconventio"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-AVJEXCTAJUc-REFERENCES-claim-AVJEXCTAJUc-stutz-michels-the-tools-bestseller",
+      "from_node_id": "video-AVJEXCTAJUc",
+      "to_node_id": "claim-AVJEXCTAJUc-stutz-michels-the-tools-bestseller",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "AVJEXCTAJUc",
+          "timestamp_start": 537
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-AVJEXCTAJUc-stutz-michels-the-tools-bestseller-REFERENCES-person-phil-stutz",
+      "from_node_id": "claim-AVJEXCTAJUc-stutz-michels-the-tools-bestseller",
+      "to_node_id": "person-phil-stutz",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "AVJEXCTAJUc",
+          "timestamp_start": 537
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-AVJEXCTAJUc-stutz-michels-the-tools-bestseller-REFERENCES-person-barry-michels",
+      "from_node_id": "claim-AVJEXCTAJUc-stutz-michels-the-tools-bestseller",
+      "to_node_id": "person-barry-michels",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "AVJEXCTAJUc",
+          "timestamp_start": 537
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-AVJEXCTAJUc-stutz-michels-the-tools-bestseller-REFERENCES-document-stutz-michels-the-tools",
+      "from_node_id": "claim-AVJEXCTAJUc-stutz-michels-the-tools-bestseller",
+      "to_node_id": "document-stutz-michels-the-tools",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "AVJEXCTAJUc",
+          "timestamp_start": 537
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-AVJEXCTAJUc-hill-stutz-netflix-doc",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-AVJEXCTAJUc-hill-stutz-netflix-doc",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "AVJEXCTAJUc",
+          "timestamp_start": 527,
+          "quote": "Jonah Hill directed Netflix documentary 'Stutz' (2022) about Jesse's godfather Phil Stutz — public platform for Stutz's unorthodox therapeutic methodology."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-AVJEXCTAJUc-REFERENCES-claim-AVJEXCTAJUc-hill-stutz-netflix-doc",
+      "from_node_id": "video-AVJEXCTAJUc",
+      "to_node_id": "claim-AVJEXCTAJUc-hill-stutz-netflix-doc",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "AVJEXCTAJUc",
+          "timestamp_start": 527
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-AVJEXCTAJUc-hill-stutz-netflix-doc-REFERENCES-person-jonah-hill",
+      "from_node_id": "claim-AVJEXCTAJUc-hill-stutz-netflix-doc",
+      "to_node_id": "person-jonah-hill",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "AVJEXCTAJUc",
+          "timestamp_start": 527
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-AVJEXCTAJUc-hill-stutz-netflix-doc-REFERENCES-person-phil-stutz",
+      "from_node_id": "claim-AVJEXCTAJUc-hill-stutz-netflix-doc",
+      "to_node_id": "person-phil-stutz",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "AVJEXCTAJUc",
+          "timestamp_start": 527
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-AVJEXCTAJUc-hill-stutz-netflix-doc-REFERENCES-document-stutz-netflix-documentary",
+      "from_node_id": "claim-AVJEXCTAJUc-hill-stutz-netflix-doc",
+      "to_node_id": "document-stutz-netflix-documentary",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "AVJEXCTAJUc",
+          "timestamp_start": 527
+        }
+      ]
     }
   ],
-  "extracted_at": "2026-04-17T11:05:08.879639+00:00",
+  "extracted_at": "2026-04-17T23:20:40.142917+00:00",
   "extractor_version": "v1-inline-claude"
 }

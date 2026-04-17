@@ -1291,6 +1291,352 @@
           "video-fyX8V1XXmQM"
         ]
       }
+    },
+    {
+      "id": "person-paola-harris",
+      "node_type": "person",
+      "label": "Paola Harris",
+      "summary": "Italian UFO researcher who introduced Jacques Vallee to the 1945 Trinity crash case; tracked down and interviewed surviving witnesses Remy Baca and Jose Padilla.",
+      "tags": [
+        "researcher",
+        "author",
+        "Italian"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.368534+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 139,
+          "quote": "Italian UFO researcher; co-author of Trinity with Vallee"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Harris"
+        ],
+        "profession": "researcher",
+        "notability_tags": [
+          "researcher",
+          "author",
+          "Italian"
+        ]
+      }
+    },
+    {
+      "id": "person-remy-baca",
+      "node_type": "person",
+      "label": "Remy Baca",
+      "summary": "Age 7 at time of 1945 San Antonio NM crash; nephew of local cattle rancher; one of two children who observed the crashed craft and three alien beings inside.",
+      "tags": [
+        "witness",
+        "Trinity"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.368544+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 131,
+          "quote": "1945 Trinity crash witness (age 7)"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Baca"
+        ],
+        "notability_tags": [
+          "witness",
+          "Trinity"
+        ]
+      }
+    },
+    {
+      "id": "person-jose-padilla",
+      "node_type": "person",
+      "label": "Jose Padilla",
+      "summary": "Age 9 at time of 1945 San Antonio NM crash; son of local cattle rancher; observed the crashed craft and three 3-ft alien beings inside with 2 eyes, 2 arms, 3 fingers.",
+      "tags": [
+        "witness",
+        "Trinity"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.368547+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 131,
+          "quote": "1945 Trinity crash witness (age 9)"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Padilla"
+        ],
+        "notability_tags": [
+          "witness",
+          "Trinity"
+        ]
+      }
+    },
+    {
+      "id": "document-vallee-trinity",
+      "node_type": "document",
+      "label": "Trinity: The Best-Kept Secret",
+      "summary": "Jacques Vallee and Paola Harris' book on the August 1945 San Antonio NM UFO crash — 20 days after the first Trinity atomic test and 2 days after Japan's surrender. Documents witness testimony of Remy Baca and Jose Padilla.",
+      "tags": [
+        "book"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.368549+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 125,
+          "timestamp_end": "Vallee/Harris book on 1945 San Antonio NM UFO crash"
+        }
+      ],
+      "type_specific": {
+        "document_type": "book",
+        "author": "Jacques Vallee & Paola Harris"
+      }
+    },
+    {
+      "id": "incident-1945-san-antonio-nm-crash",
+      "node_type": "incident",
+      "label": "San Antonio NM 1945 UFO Crash (Trinity)",
+      "summary": "August 1945: a damaged metallic avocado-shaped craft fell from the sky in San Antonio NM next to the Trinity test site — 20 days after the first US atomic test and 2 days after Japanese concession. Witnessed by two local children (Baca age 7, Padilla age 9) who observed 3 human-like beings inside (~3ft, 2 eyes, 2 arms, 3 fingers, 2 legs, sliding locomotion). Predates Roswell and the term 'flying saucer'.",
+      "tags": [
+        "crash_retrieval"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.368551+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 129,
+          "timestamp_end": "Metallic avocado-shaped craft crashed 20 days after Trinity test"
+        }
+      ],
+      "type_specific": {
+        "incident_type": "crash_retrieval",
+        "date_approximate": "1945-08-16"
+      }
+    },
+    {
+      "id": "document-vallee-revelations",
+      "node_type": "document",
+      "label": "Revelations: Alien Contact and Human Deception",
+      "summary": "Jacques Vallee's book; on page 9 hints that Bob Lazar may have been an MK-Ultra patient brainwashed into believing he worked on UFO reverse engineering.",
+      "tags": [
+        "book"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.368553+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 119,
+          "timestamp_end": "Vallee book hinting at Lazar MK-Ultra connection"
+        }
+      ],
+      "type_specific": {
+        "document_type": "book",
+        "author": "Jacques Vallee"
+      }
+    },
+    {
+      "id": "claim-fyX8V1XXmQM-trinity-1945-predates-roswell",
+      "node_type": "claim",
+      "label": "The 1945 San Antonio NM crash occurred 20 days after Trinity test and 2 years BEFORE Roswell — also ",
+      "summary": "The 1945 San Antonio NM crash occurred 20 days after Trinity test and 2 years BEFORE Roswell — also before the term 'flying saucer' was coined (Kenneth Arnold, 1947) — demonstrating UAP contact precedes Roswell in the American record.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.376256+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 129,
+          "quote": "Just 20 days after the first atomic test on US soil and two days after the Japanese concession a metallic avocado shaped object dropped from the sky in San Antonio New Mexico right next to the test site. The term Flying Saucer doesn't exist. It's going to be invented two years later by Kenneth Arnold."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "The 1945 San Antonio NM crash occurred 20 days after Trinity test and 2 years BEFORE Roswell — also before the term 'flying saucer' was coined (Kenneth Arnold, 1947) — demonstrating UAP contact precedes Roswell in the American record.",
+        "asserted_by_id": "person-jacques-vallee",
+        "source_video_id": "fyX8V1XXmQM",
+        "timestamp_start_seconds": 129,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-jacques-vallee",
+          "incident-1945-san-antonio-nm-crash",
+          "incident-1947-roswell",
+          "document-vallee-trinity"
+        ]
+      }
+    },
+    {
+      "id": "claim-fyX8V1XXmQM-trinity-baca-padilla-3-beings",
+      "node_type": "claim",
+      "label": "Children Remy Baca (7) and Jose Padilla (9) observed three ~3ft human-like beings inside the crashed",
+      "summary": "Children Remy Baca (7) and Jose Padilla (9) observed three ~3ft human-like beings inside the crashed craft — 2 eyes, 2 arms, 3 fingers, 2 legs, moving by sliding locomotion.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.376275+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 131,
+          "quote": "They see three creatures. They were human-like, they had two eyes, about three feet. Two arms, three fingers, two legs. They were walking by moving like that without moving their legs — translate or slide."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Children Remy Baca (7) and Jose Padilla (9) observed three ~3ft human-like beings inside the crashed craft — 2 eyes, 2 arms, 3 fingers, 2 legs, moving by sliding locomotion.",
+        "asserted_by_id": "person-jacques-vallee",
+        "source_video_id": "fyX8V1XXmQM",
+        "timestamp_start_seconds": 131,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-jacques-vallee",
+          "person-remy-baca",
+          "person-jose-padilla",
+          "incident-1945-san-antonio-nm-crash"
+        ]
+      }
+    },
+    {
+      "id": "claim-fyX8V1XXmQM-vallee-no-above-top-secret-knew",
+      "node_type": "claim",
+      "label": "Vallee asserts that no one with above-top-secret clearance he has queried knew about the Trinity 194",
+      "summary": "Vallee asserts that no one with above-top-secret clearance he has queried knew about the Trinity 1945 case — reinforcing his thesis that UFO secrecy runs through a separate Manhattan-Project/DOE lineage.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.376285+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 141,
+          "quote": "When Jacques inquired about Trinity no one with top secret clearances in the US federal government had even heard of the case. I can't find among the people I know who have clearances above top secret — they've never heard of this."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Vallee asserts that no one with above-top-secret clearance he has queried knew about the Trinity 1945 case — reinforcing his thesis that UFO secrecy runs through a separate Manhattan-Project/DOE lineage.",
+        "asserted_by_id": "person-jacques-vallee",
+        "source_video_id": "fyX8V1XXmQM",
+        "timestamp_start_seconds": 141,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-jacques-vallee",
+          "incident-1945-san-antonio-nm-crash",
+          "concept-manhattan-project-clearance-system"
+        ]
+      }
+    },
+    {
+      "id": "claim-fyX8V1XXmQM-vallee-lazar-mk-ultra",
+      "node_type": "claim",
+      "label": "In Vallee's 'Revelations' book (page 9) he hints that Bob Lazar may have been an MK-Ultra subject — ",
+      "summary": "In Vallee's 'Revelations' book (page 9) he hints that Bob Lazar may have been an MK-Ultra subject — describing Lazar's strange memory lapses and the 'peculiar liquid he was made to drink.'",
+      "tags": [
+        "speculation",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.376294+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 119,
+          "quote": "Robert Lazar also told me of his strange memory lapses of the peculiar liquid he was made to drink. It violated a lot of what we thought was impossible to violate."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "In Vallee's 'Revelations' book (page 9) he hints that Bob Lazar may have been an MK-Ultra subject — describing Lazar's strange memory lapses and the 'peculiar liquid he was made to drink.'",
+        "asserted_by_id": "person-jacques-vallee",
+        "source_video_id": "fyX8V1XXmQM",
+        "timestamp_start_seconds": 119,
+        "assertability": "speculation",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-jacques-vallee",
+          "person-bob-lazar",
+          "document-vallee-revelations"
+        ]
+      }
+    },
+    {
+      "id": "claim-fyX8V1XXmQM-vallee-arpanet-engelbart",
+      "node_type": "claim",
+      "label": "Vallee helped build the earliest version of the internet (ARPANET) alongside legendary computer scie",
+      "summary": "Vallee helped build the earliest version of the internet (ARPANET) alongside legendary computer scientist Doug Engelbart.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.376303+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 115,
+          "quote": "He is a serious researcher with the computer science, physics and astronomy background. He even helped build the earliest version of the internet, a project called ARPANET with legendary computer scientist Doug Engelbart."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Vallee helped build the earliest version of the internet (ARPANET) alongside legendary computer scientist Doug Engelbart.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "fyX8V1XXmQM",
+        "timestamp_start_seconds": 115,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-jacques-vallee"
+        ]
+      }
     }
   ],
   "edges": [
@@ -2003,8 +2349,307 @@
           "timestamp_start": 0
         }
       ]
+    },
+    {
+      "id": "edge-person-jacques-vallee-ASSERTED-claim-fyX8V1XXmQM-trinity-1945-predates-roswell",
+      "from_node_id": "person-jacques-vallee",
+      "to_node_id": "claim-fyX8V1XXmQM-trinity-1945-predates-roswell",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 129,
+          "quote": "The 1945 San Antonio NM crash occurred 20 days after Trinity test and 2 years BEFORE Roswell — also before the term 'flying saucer' was coined (Kenneth Arnold, 1947) — demonstrating UAP contact preced"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-fyX8V1XXmQM-REFERENCES-claim-fyX8V1XXmQM-trinity-1945-predates-roswell",
+      "from_node_id": "video-fyX8V1XXmQM",
+      "to_node_id": "claim-fyX8V1XXmQM-trinity-1945-predates-roswell",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 129
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-fyX8V1XXmQM-trinity-1945-predates-roswell-REFERENCES-incident-1945-san-antonio-nm-crash",
+      "from_node_id": "claim-fyX8V1XXmQM-trinity-1945-predates-roswell",
+      "to_node_id": "incident-1945-san-antonio-nm-crash",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 129
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-fyX8V1XXmQM-trinity-1945-predates-roswell-REFERENCES-incident-1947-roswell",
+      "from_node_id": "claim-fyX8V1XXmQM-trinity-1945-predates-roswell",
+      "to_node_id": "incident-1947-roswell",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 129
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-fyX8V1XXmQM-trinity-1945-predates-roswell-REFERENCES-document-vallee-trinity",
+      "from_node_id": "claim-fyX8V1XXmQM-trinity-1945-predates-roswell",
+      "to_node_id": "document-vallee-trinity",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 129
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jacques-vallee-ASSERTED-claim-fyX8V1XXmQM-trinity-baca-padilla-3-beings",
+      "from_node_id": "person-jacques-vallee",
+      "to_node_id": "claim-fyX8V1XXmQM-trinity-baca-padilla-3-beings",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 131,
+          "quote": "Children Remy Baca (7) and Jose Padilla (9) observed three ~3ft human-like beings inside the crashed craft — 2 eyes, 2 arms, 3 fingers, 2 legs, moving by sliding locomotion."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-fyX8V1XXmQM-REFERENCES-claim-fyX8V1XXmQM-trinity-baca-padilla-3-beings",
+      "from_node_id": "video-fyX8V1XXmQM",
+      "to_node_id": "claim-fyX8V1XXmQM-trinity-baca-padilla-3-beings",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 131
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-fyX8V1XXmQM-trinity-baca-padilla-3-beings-REFERENCES-person-remy-baca",
+      "from_node_id": "claim-fyX8V1XXmQM-trinity-baca-padilla-3-beings",
+      "to_node_id": "person-remy-baca",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 131
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-fyX8V1XXmQM-trinity-baca-padilla-3-beings-REFERENCES-person-jose-padilla",
+      "from_node_id": "claim-fyX8V1XXmQM-trinity-baca-padilla-3-beings",
+      "to_node_id": "person-jose-padilla",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 131
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-fyX8V1XXmQM-trinity-baca-padilla-3-beings-REFERENCES-incident-1945-san-antonio-nm-crash",
+      "from_node_id": "claim-fyX8V1XXmQM-trinity-baca-padilla-3-beings",
+      "to_node_id": "incident-1945-san-antonio-nm-crash",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 131
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jacques-vallee-ASSERTED-claim-fyX8V1XXmQM-vallee-no-above-top-secret-knew",
+      "from_node_id": "person-jacques-vallee",
+      "to_node_id": "claim-fyX8V1XXmQM-vallee-no-above-top-secret-knew",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 141,
+          "quote": "Vallee asserts that no one with above-top-secret clearance he has queried knew about the Trinity 1945 case — reinforcing his thesis that UFO secrecy runs through a separate Manhattan-Project/DOE linea"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-fyX8V1XXmQM-REFERENCES-claim-fyX8V1XXmQM-vallee-no-above-top-secret-knew",
+      "from_node_id": "video-fyX8V1XXmQM",
+      "to_node_id": "claim-fyX8V1XXmQM-vallee-no-above-top-secret-knew",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 141
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-fyX8V1XXmQM-vallee-no-above-top-secret-knew-REFERENCES-incident-1945-san-antonio-nm-crash",
+      "from_node_id": "claim-fyX8V1XXmQM-vallee-no-above-top-secret-knew",
+      "to_node_id": "incident-1945-san-antonio-nm-crash",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 141
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-fyX8V1XXmQM-vallee-no-above-top-secret-knew-REFERENCES-concept-manhattan-project-clearance-system",
+      "from_node_id": "claim-fyX8V1XXmQM-vallee-no-above-top-secret-knew",
+      "to_node_id": "concept-manhattan-project-clearance-system",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 141
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jacques-vallee-ASSERTED-claim-fyX8V1XXmQM-vallee-lazar-mk-ultra",
+      "from_node_id": "person-jacques-vallee",
+      "to_node_id": "claim-fyX8V1XXmQM-vallee-lazar-mk-ultra",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 119,
+          "quote": "In Vallee's 'Revelations' book (page 9) he hints that Bob Lazar may have been an MK-Ultra subject — describing Lazar's strange memory lapses and the 'peculiar liquid he was made to drink.'"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-fyX8V1XXmQM-REFERENCES-claim-fyX8V1XXmQM-vallee-lazar-mk-ultra",
+      "from_node_id": "video-fyX8V1XXmQM",
+      "to_node_id": "claim-fyX8V1XXmQM-vallee-lazar-mk-ultra",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 119
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-fyX8V1XXmQM-vallee-lazar-mk-ultra-REFERENCES-person-bob-lazar",
+      "from_node_id": "claim-fyX8V1XXmQM-vallee-lazar-mk-ultra",
+      "to_node_id": "person-bob-lazar",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 119
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-fyX8V1XXmQM-vallee-lazar-mk-ultra-REFERENCES-document-vallee-revelations",
+      "from_node_id": "claim-fyX8V1XXmQM-vallee-lazar-mk-ultra",
+      "to_node_id": "document-vallee-revelations",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 119
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-fyX8V1XXmQM-vallee-arpanet-engelbart",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-fyX8V1XXmQM-vallee-arpanet-engelbart",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 115,
+          "quote": "Vallee helped build the earliest version of the internet (ARPANET) alongside legendary computer scientist Doug Engelbart."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-fyX8V1XXmQM-REFERENCES-claim-fyX8V1XXmQM-vallee-arpanet-engelbart",
+      "from_node_id": "video-fyX8V1XXmQM",
+      "to_node_id": "claim-fyX8V1XXmQM-vallee-arpanet-engelbart",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 115
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-fyX8V1XXmQM-vallee-arpanet-engelbart-REFERENCES-person-jacques-vallee",
+      "from_node_id": "claim-fyX8V1XXmQM-vallee-arpanet-engelbart",
+      "to_node_id": "person-jacques-vallee",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "fyX8V1XXmQM",
+          "timestamp_start": 115
+        }
+      ]
     }
   ],
-  "extracted_at": "2026-04-17T11:04:28.828562+00:00",
+  "extracted_at": "2026-04-17T12:55:45.376310+00:00",
   "extractor_version": "v1-inline-claude"
 }

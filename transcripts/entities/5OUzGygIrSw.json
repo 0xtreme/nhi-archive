@@ -1058,6 +1058,321 @@
           "video-5OUzGygIrSw"
         ]
       }
+    },
+    {
+      "id": "person-dave-rossi",
+      "node_type": "person",
+      "label": "Dave Rossi",
+      "summary": "Former construction worker; self-taught into quantum physics and extended electrodynamics after blue-alien-energy-being contact experience. Knowledge impressed Navy scientist, Hal Puthoff, and Eric Davis. Host of Generation Zed podcast.",
+      "tags": [
+        "experiencer",
+        "researcher",
+        "autodidact"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:30:03.999595+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "5OUzGygIrSw",
+          "timestamp_start": 151,
+          "quote": "Former construction worker; autodidact physicist; DMT-adjacent blue-being contact"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Rossi"
+        ],
+        "profession": "autodidact researcher",
+        "notability_tags": [
+          "experiencer",
+          "researcher",
+          "autodidact"
+        ]
+      }
+    },
+    {
+      "id": "concept-extended-electrodynamics",
+      "node_type": "concept",
+      "label": "Extended Electrodynamics (Scalar-Longitudinal Waves)",
+      "summary": "Extended electrodynamics framework: by introducing the scalar field, at least three completely new kinds of waves (scalar-longitudinal-etc) become mathematically predicted — framework initially considered 'quackery' but subsequently supported by National Science Foundation / NASA investigation per Jesse's note.",
+      "tags": [
+        "physics"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:30:03.999600+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "5OUzGygIrSw",
+          "timestamp_start": 133,
+          "timestamp_end": "Three new wave types beyond classical E/M by introducing scalar field"
+        }
+      ],
+      "type_specific": {
+        "concept_domain": "physics"
+      }
+    },
+    {
+      "id": "concept-blue-energy-being",
+      "node_type": "concept",
+      "label": "Blue Energy Being (Rossi)",
+      "summary": "Rossi's contactor: plasma-electric humanoid being of pure blue energy; not dense, hand passes through; significantly taller than Rossi; communicated physics concepts of scalar/longitudinal waves. Not technically remembered as physical abduction — spiritual/energetic experience boundary unclear.",
+      "tags": [
+        "metaphysics"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:30:03.999602+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "5OUzGygIrSw",
+          "timestamp_start": 163,
+          "timestamp_end": "Rossi's alleged plasma-body entity encounter"
+        }
+      ],
+      "type_specific": {
+        "concept_domain": "metaphysics"
+      }
+    },
+    {
+      "id": "incident-ufo-plants-aged-10yr",
+      "node_type": "incident",
+      "label": "UFO Over Plants — 10yr Accelerated Aging Incident",
+      "summary": "Per Rossi: a UAP hovered near some plants; when individual approached, UAP departed at high speed. Plants subsequently analyzed showed they had aged 10 years within hours — anomalous accelerated-aging biological effect.",
+      "tags": [
+        "sighting"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:30:03.999604+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "5OUzGygIrSw",
+          "timestamp_start": 137,
+          "timestamp_end": "Plants analyzed post-UFO hover aged 10 years in hours"
+        }
+      ],
+      "type_specific": {
+        "incident_type": "sighting",
+        "date_approximate": "1980-01-01"
+      }
+    },
+    {
+      "id": "claim-5OUzGygIrSw-rossi-blue-being-scalar-wave-physics",
+      "node_type": "claim",
+      "label": "Rossi describes a plasma-electric blue-energy humanoid being (not dense, hand passes through) that s",
+      "summary": "Rossi describes a plasma-electric blue-energy humanoid being (not dense, hand passes through) that showed him scalar-longitudinal wave physics via visual slinkies — initiating his autodidact journey into extended electrodynamics.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:30:04.008207+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "5OUzGygIrSw",
+          "timestamp_start": 163,
+          "quote": "I remember essentially being taken by a blue energy type humanoid. Pure blue energy, electric plasma type being, not dense whatsoever. Because of what this being had showed me, I started looking into longitudinal scalar waves shown to me as slinkies."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Rossi describes a plasma-electric blue-energy humanoid being (not dense, hand passes through) that showed him scalar-longitudinal wave physics via visual slinkies — initiating his autodidact journey into extended electrodynamics.",
+        "asserted_by_id": "person-dave-rossi",
+        "source_video_id": "5OUzGygIrSw",
+        "timestamp_start_seconds": 163,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-dave-rossi",
+          "concept-blue-energy-being",
+          "concept-extended-electrodynamics"
+        ]
+      }
+    },
+    {
+      "id": "claim-5OUzGygIrSw-rossi-puthoff-davis-vindication",
+      "node_type": "claim",
+      "label": "Rossi's physics understanding was confirmed impressive by Eric Davis and Hal Puthoff personally — de",
+      "summary": "Rossi's physics understanding was confirmed impressive by Eric Davis and Hal Puthoff personally — despite Rossi's lack of formal training.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:30:04.008223+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "5OUzGygIrSw",
+          "timestamp_start": 143,
+          "quote": "Our next guest was also spotted by the legendary Hal Puthoff and Eric Davis, who have also noted his impressive knowledge in areas of unorthodox science."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Rossi's physics understanding was confirmed impressive by Eric Davis and Hal Puthoff personally — despite Rossi's lack of formal training.",
+        "asserted_by_id": "person-dave-rossi",
+        "source_video_id": "5OUzGygIrSw",
+        "timestamp_start_seconds": 143,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-dave-rossi",
+          "person-hal-puthoff",
+          "person-eric-davis",
+          "concept-extended-electrodynamics"
+        ]
+      }
+    },
+    {
+      "id": "claim-5OUzGygIrSw-rossi-extended-electrodynamics-vindicated-nsf-nasa",
+      "node_type": "claim",
+      "label": "Shortly after Rossi's interview recording (Dec 2024), the National Science Foundation and NASA co-sp",
+      "summary": "Shortly after Rossi's interview recording (Dec 2024), the National Science Foundation and NASA co-sponsored a panel with elite scientists investigating extended electrodynamics — the framework Rossi said was being called quackery.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:30:04.008236+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "5OUzGygIrSw",
+          "timestamp_start": 147,
+          "quote": "We recorded in early December 2024. At the time, extended electrodynamics was considered quackery. But right after we recorded, the National Science Foundation and NASA co-sponsored a podcast with some elite scientists claiming to investigate extended electrodynamics."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Shortly after Rossi's interview recording (Dec 2024), the National Science Foundation and NASA co-sponsored a panel with elite scientists investigating extended electrodynamics — the framework Rossi said was being called quackery.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "5OUzGygIrSw",
+        "timestamp_start_seconds": 147,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-dave-rossi",
+          "concept-extended-electrodynamics",
+          "organization-nasa"
+        ]
+      }
+    },
+    {
+      "id": "claim-5OUzGygIrSw-rossi-plants-aged-10yrs",
+      "node_type": "claim",
+      "label": "Per Rossi: when a UAP hovered near plants and then left, subsequent analysis showed the plants had a",
+      "summary": "Per Rossi: when a UAP hovered near plants and then left, subsequent analysis showed the plants had aged 10 years within hours — biological accelerated-aging anomaly.",
+      "tags": [
+        "hearsay",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:30:04.008245+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "5OUzGygIrSw",
+          "timestamp_start": 137,
+          "quote": "A UAP was hovering near some plants. When the plants that were close to the UAP were analyzed, they had aged 10 years within X amount of hours."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Per Rossi: when a UAP hovered near plants and then left, subsequent analysis showed the plants had aged 10 years within hours — biological accelerated-aging anomaly.",
+        "asserted_by_id": "person-dave-rossi",
+        "source_video_id": "5OUzGygIrSw",
+        "timestamp_start_seconds": 137,
+        "assertability": "hearsay",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-dave-rossi",
+          "incident-ufo-plants-aged-10yr"
+        ]
+      }
+    },
+    {
+      "id": "claim-5OUzGygIrSw-rossi-vacuum-potentials-surveillance",
+      "node_type": "claim",
+      "label": "Rossi claims a government group has been working since the 1990s on using quantum-vacuum potentials ",
+      "summary": "Rossi claims a government group has been working since the 1990s on using quantum-vacuum potentials to surveil entire rooms — operational success; he won't elaborate on mechanism due to sensitivity.",
+      "tags": [
+        "hearsay",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:30:04.008252+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "5OUzGygIrSw",
+          "timestamp_start": 133,
+          "quote": "You can use the potentials that exist all around us right now in the quantum vacuum to surveil an entire room. I know a group that is working in the government that has been working on this since the '90s and they've had massive success."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Rossi claims a government group has been working since the 1990s on using quantum-vacuum potentials to surveil entire rooms — operational success; he won't elaborate on mechanism due to sensitivity.",
+        "asserted_by_id": "person-dave-rossi",
+        "source_video_id": "5OUzGygIrSw",
+        "timestamp_start_seconds": 133,
+        "assertability": "hearsay",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-dave-rossi",
+          "concept-extended-electrodynamics"
+        ]
+      }
+    },
+    {
+      "id": "claim-5OUzGygIrSw-rossi-6-month-weaponization-risk",
+      "node_type": "claim",
+      "label": "Rossi warns: 'mutual friends working privately on some of these things — 6-7 months worth of lab wor",
+      "summary": "Rossi warns: 'mutual friends working privately on some of these things — 6-7 months worth of lab work, all of a sudden it's a weapon. If someone gets hold of that weapon, it's game over.'",
+      "tags": [
+        "speculation",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:30:04.008259+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "5OUzGygIrSw",
+          "timestamp_start": 139,
+          "quote": "We have mutual friends privately working on some of these things where 6-7 months worth of work in the lab, all of a sudden it's a weapon. If someone gets a hold of that weapon, it's game over."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Rossi warns: 'mutual friends working privately on some of these things — 6-7 months worth of lab work, all of a sudden it's a weapon. If someone gets hold of that weapon, it's game over.'",
+        "asserted_by_id": "person-dave-rossi",
+        "source_video_id": "5OUzGygIrSw",
+        "timestamp_start_seconds": 139,
+        "assertability": "speculation",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-dave-rossi",
+          "concept-extended-electrodynamics"
+        ]
+      }
     }
   ],
   "edges": [
@@ -1617,8 +1932,336 @@
           "timestamp_start": 0
         }
       ]
+    },
+    {
+      "id": "edge-person-dave-rossi-ASSERTED-claim-5OUzGygIrSw-rossi-blue-being-scalar-wave-physics",
+      "from_node_id": "person-dave-rossi",
+      "to_node_id": "claim-5OUzGygIrSw-rossi-blue-being-scalar-wave-physics",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "5OUzGygIrSw",
+          "timestamp_start": 163,
+          "quote": "Rossi describes a plasma-electric blue-energy humanoid being (not dense, hand passes through) that showed him scalar-longitudinal wave physics via visual slinkies — initiating his autodidact journey i"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-5OUzGygIrSw-REFERENCES-claim-5OUzGygIrSw-rossi-blue-being-scalar-wave-physics",
+      "from_node_id": "video-5OUzGygIrSw",
+      "to_node_id": "claim-5OUzGygIrSw-rossi-blue-being-scalar-wave-physics",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "5OUzGygIrSw",
+          "timestamp_start": 163
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-5OUzGygIrSw-rossi-blue-being-scalar-wave-physics-REFERENCES-concept-blue-energy-being",
+      "from_node_id": "claim-5OUzGygIrSw-rossi-blue-being-scalar-wave-physics",
+      "to_node_id": "concept-blue-energy-being",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "5OUzGygIrSw",
+          "timestamp_start": 163
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-5OUzGygIrSw-rossi-blue-being-scalar-wave-physics-REFERENCES-concept-extended-electrodynamics",
+      "from_node_id": "claim-5OUzGygIrSw-rossi-blue-being-scalar-wave-physics",
+      "to_node_id": "concept-extended-electrodynamics",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "5OUzGygIrSw",
+          "timestamp_start": 163
+        }
+      ]
+    },
+    {
+      "id": "edge-person-dave-rossi-ASSERTED-claim-5OUzGygIrSw-rossi-puthoff-davis-vindication",
+      "from_node_id": "person-dave-rossi",
+      "to_node_id": "claim-5OUzGygIrSw-rossi-puthoff-davis-vindication",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "5OUzGygIrSw",
+          "timestamp_start": 143,
+          "quote": "Rossi's physics understanding was confirmed impressive by Eric Davis and Hal Puthoff personally — despite Rossi's lack of formal training."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-5OUzGygIrSw-REFERENCES-claim-5OUzGygIrSw-rossi-puthoff-davis-vindication",
+      "from_node_id": "video-5OUzGygIrSw",
+      "to_node_id": "claim-5OUzGygIrSw-rossi-puthoff-davis-vindication",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "5OUzGygIrSw",
+          "timestamp_start": 143
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-5OUzGygIrSw-rossi-puthoff-davis-vindication-REFERENCES-person-hal-puthoff",
+      "from_node_id": "claim-5OUzGygIrSw-rossi-puthoff-davis-vindication",
+      "to_node_id": "person-hal-puthoff",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "5OUzGygIrSw",
+          "timestamp_start": 143
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-5OUzGygIrSw-rossi-puthoff-davis-vindication-REFERENCES-person-eric-davis",
+      "from_node_id": "claim-5OUzGygIrSw-rossi-puthoff-davis-vindication",
+      "to_node_id": "person-eric-davis",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "5OUzGygIrSw",
+          "timestamp_start": 143
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-5OUzGygIrSw-rossi-puthoff-davis-vindication-REFERENCES-concept-extended-electrodynamics",
+      "from_node_id": "claim-5OUzGygIrSw-rossi-puthoff-davis-vindication",
+      "to_node_id": "concept-extended-electrodynamics",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "5OUzGygIrSw",
+          "timestamp_start": 143
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-5OUzGygIrSw-rossi-extended-electrodynamics-vindicated-nsf-nasa",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-5OUzGygIrSw-rossi-extended-electrodynamics-vindicated-nsf-nasa",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "5OUzGygIrSw",
+          "timestamp_start": 147,
+          "quote": "Shortly after Rossi's interview recording (Dec 2024), the National Science Foundation and NASA co-sponsored a panel with elite scientists investigating extended electrodynamics — the framework Rossi s"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-5OUzGygIrSw-REFERENCES-claim-5OUzGygIrSw-rossi-extended-electrodynamics-vindicated-nsf-nasa",
+      "from_node_id": "video-5OUzGygIrSw",
+      "to_node_id": "claim-5OUzGygIrSw-rossi-extended-electrodynamics-vindicated-nsf-nasa",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "5OUzGygIrSw",
+          "timestamp_start": 147
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-5OUzGygIrSw-rossi-extended-electrodynamics-vindicated-nsf-nasa-REFERENCES-person-dave-rossi",
+      "from_node_id": "claim-5OUzGygIrSw-rossi-extended-electrodynamics-vindicated-nsf-nasa",
+      "to_node_id": "person-dave-rossi",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "5OUzGygIrSw",
+          "timestamp_start": 147
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-5OUzGygIrSw-rossi-extended-electrodynamics-vindicated-nsf-nasa-REFERENCES-concept-extended-electrodynamics",
+      "from_node_id": "claim-5OUzGygIrSw-rossi-extended-electrodynamics-vindicated-nsf-nasa",
+      "to_node_id": "concept-extended-electrodynamics",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "5OUzGygIrSw",
+          "timestamp_start": 147
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-5OUzGygIrSw-rossi-extended-electrodynamics-vindicated-nsf-nasa-REFERENCES-organization-nasa",
+      "from_node_id": "claim-5OUzGygIrSw-rossi-extended-electrodynamics-vindicated-nsf-nasa",
+      "to_node_id": "organization-nasa",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "5OUzGygIrSw",
+          "timestamp_start": 147
+        }
+      ]
+    },
+    {
+      "id": "edge-person-dave-rossi-ASSERTED-claim-5OUzGygIrSw-rossi-plants-aged-10yrs",
+      "from_node_id": "person-dave-rossi",
+      "to_node_id": "claim-5OUzGygIrSw-rossi-plants-aged-10yrs",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "5OUzGygIrSw",
+          "timestamp_start": 137,
+          "quote": "Per Rossi: when a UAP hovered near plants and then left, subsequent analysis showed the plants had aged 10 years within hours — biological accelerated-aging anomaly."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-5OUzGygIrSw-REFERENCES-claim-5OUzGygIrSw-rossi-plants-aged-10yrs",
+      "from_node_id": "video-5OUzGygIrSw",
+      "to_node_id": "claim-5OUzGygIrSw-rossi-plants-aged-10yrs",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "5OUzGygIrSw",
+          "timestamp_start": 137
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-5OUzGygIrSw-rossi-plants-aged-10yrs-REFERENCES-incident-ufo-plants-aged-10yr",
+      "from_node_id": "claim-5OUzGygIrSw-rossi-plants-aged-10yrs",
+      "to_node_id": "incident-ufo-plants-aged-10yr",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "5OUzGygIrSw",
+          "timestamp_start": 137
+        }
+      ]
+    },
+    {
+      "id": "edge-person-dave-rossi-ASSERTED-claim-5OUzGygIrSw-rossi-vacuum-potentials-surveillance",
+      "from_node_id": "person-dave-rossi",
+      "to_node_id": "claim-5OUzGygIrSw-rossi-vacuum-potentials-surveillance",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "5OUzGygIrSw",
+          "timestamp_start": 133,
+          "quote": "Rossi claims a government group has been working since the 1990s on using quantum-vacuum potentials to surveil entire rooms — operational success; he won't elaborate on mechanism due to sensitivity."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-5OUzGygIrSw-REFERENCES-claim-5OUzGygIrSw-rossi-vacuum-potentials-surveillance",
+      "from_node_id": "video-5OUzGygIrSw",
+      "to_node_id": "claim-5OUzGygIrSw-rossi-vacuum-potentials-surveillance",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "5OUzGygIrSw",
+          "timestamp_start": 133
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-5OUzGygIrSw-rossi-vacuum-potentials-surveillance-REFERENCES-concept-extended-electrodynamics",
+      "from_node_id": "claim-5OUzGygIrSw-rossi-vacuum-potentials-surveillance",
+      "to_node_id": "concept-extended-electrodynamics",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "5OUzGygIrSw",
+          "timestamp_start": 133
+        }
+      ]
+    },
+    {
+      "id": "edge-person-dave-rossi-ASSERTED-claim-5OUzGygIrSw-rossi-6-month-weaponization-risk",
+      "from_node_id": "person-dave-rossi",
+      "to_node_id": "claim-5OUzGygIrSw-rossi-6-month-weaponization-risk",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "5OUzGygIrSw",
+          "timestamp_start": 139,
+          "quote": "Rossi warns: 'mutual friends working privately on some of these things — 6-7 months worth of lab work, all of a sudden it's a weapon. If someone gets hold of that weapon, it's game over.'"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-5OUzGygIrSw-REFERENCES-claim-5OUzGygIrSw-rossi-6-month-weaponization-risk",
+      "from_node_id": "video-5OUzGygIrSw",
+      "to_node_id": "claim-5OUzGygIrSw-rossi-6-month-weaponization-risk",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "5OUzGygIrSw",
+          "timestamp_start": 139
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-5OUzGygIrSw-rossi-6-month-weaponization-risk-REFERENCES-concept-extended-electrodynamics",
+      "from_node_id": "claim-5OUzGygIrSw-rossi-6-month-weaponization-risk",
+      "to_node_id": "concept-extended-electrodynamics",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "5OUzGygIrSw",
+          "timestamp_start": 139
+        }
+      ]
     }
   ],
-  "extracted_at": "2026-04-17T11:04:59.704060+00:00",
+  "extracted_at": "2026-04-17T13:30:04.008266+00:00",
   "extractor_version": "v1-inline-claude"
 }

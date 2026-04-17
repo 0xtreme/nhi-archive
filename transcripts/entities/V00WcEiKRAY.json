@@ -1781,6 +1781,482 @@
           "video-V00WcEiKRAY"
         ]
       }
+    },
+    {
+      "id": "person-jaime-maussan",
+      "node_type": "person",
+      "label": "Jaime Maussan",
+      "summary": "Mexican UFO journalist; central proponent of Peruvian tridactyl mummies and receiver of the Bogota sphere.",
+      "tags": [
+        "journalist"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.737276+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 70,
+          "quote": "Mexican UFO journalist central to Peru mummies and Bogota sphere cases"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Maussan"
+        ],
+        "profession": "journalist",
+        "notability_tags": [
+          "journalist"
+        ]
+      }
+    },
+    {
+      "id": "person-patrick-jackson",
+      "node_type": "person",
+      "label": "Patrick Jackson",
+      "summary": "Individual featured in a Ross Coulthart story who possessed a sphere similar to the Bogota UAP sphere.",
+      "tags": [
+        "witness"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.737278+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 87,
+          "quote": "Possessed a sphere similar to the Bogota sphere"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Jackson"
+        ],
+        "notability_tags": [
+          "witness"
+        ]
+      }
+    },
+    {
+      "id": "person-mario-woods",
+      "node_type": "person",
+      "label": "Mario Woods",
+      "summary": "1977 Ellsworth AFB experiencer who recognized symbols photographed on the Bogota sphere from his own NHI encounter.",
+      "tags": [
+        "witness",
+        "experiencer",
+        "USAF"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.737280+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 80,
+          "quote": "1977 Ellsworth AFB experiencer; recognized Bogota sphere symbols"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Woods"
+        ],
+        "profession": "military veteran",
+        "notability_tags": [
+          "witness",
+          "experiencer",
+          "USAF"
+        ]
+      }
+    },
+    {
+      "id": "person-randy-anderson",
+      "node_type": "person",
+      "label": "Randy Anderson",
+      "summary": "Experiencer said to have been taken underground at Naval Surface Warfare Center Crane and possibly shown off-world technology; recognized symbols on the Bogota sphere.",
+      "tags": [
+        "witness",
+        "experiencer"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.737282+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 82,
+          "quote": "Crane NSWC experiencer shown off-world tech"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Anderson"
+        ],
+        "notability_tags": [
+          "witness",
+          "experiencer"
+        ]
+      }
+    },
+    {
+      "id": "person-jim-marrs",
+      "node_type": "person",
+      "label": "Jim Marrs",
+      "summary": "Former rock promoter (worked with Willie Nelson) whose Texas home contained an alleged self-moving anomalous sphere featured in Coulthart's Channel 7 Australia 2021 segment.",
+      "tags": [
+        "witness",
+        "collector"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.737285+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 89,
+          "quote": "Rock promoter with alleged anomalous sphere"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Marrs",
+          "Jim Maron"
+        ],
+        "profession": "promoter / author",
+        "notability_tags": [
+          "witness",
+          "collector"
+        ]
+      }
+    },
+    {
+      "id": "technology-bogota-sphere",
+      "node_type": "technology",
+      "label": "Bogota Sphere",
+      "summary": "Alleged sphere found in Colombia; aluminum-alloy reportedly 3× harder than conventional aerospace alloys; symbol set matched by two independent NHI experiencers per Coulthart.",
+      "tags": [
+        "material"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.737289+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 70,
+          "timestamp_end": "Alleged NHI-origin aluminum-alloy sphere from Colombia"
+        }
+      ],
+      "type_specific": {
+        "technology_type": "material"
+      }
+    },
+    {
+      "id": "location-secret-mountain-arizona",
+      "node_type": "location",
+      "label": "Secret Mountain, Arizona",
+      "summary": "",
+      "tags": [
+        "observation_site"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.737291+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 59,
+          "timestamp_end": "Reported site of pulsing golden orb escorted by helicopters"
+        }
+      ],
+      "type_specific": {
+        "location_type": "observation_site",
+        "country": "US",
+        "state_or_region": "Arizona"
+      }
+    },
+    {
+      "id": "location-ellsworth-afb",
+      "node_type": "location",
+      "label": "Ellsworth Air Force Base",
+      "summary": "",
+      "tags": [
+        "military_base"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.737294+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 80,
+          "timestamp_end": "Site of Mario Woods' 1977 NHI encounter"
+        }
+      ],
+      "type_specific": {
+        "location_type": "military_base",
+        "country": "US",
+        "state_or_region": "South Dakota"
+      }
+    },
+    {
+      "id": "claim-V00WcEiKRAY-coulthart-secret-mountain-orb",
+      "node_type": "claim",
+      "label": "Coulthart personally witnessed a gigantic golden plasmatic orb escorted by helicopters rising from b",
+      "summary": "Coulthart personally witnessed a gigantic golden plasmatic orb escorted by helicopters rising from behind Secret Mountain in Arizona at 1:30 AM.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.740836+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 59,
+          "quote": "You would see this big orb being escorted by helicopters rising from behind Secret Mountain. Up comes this beautiful golden orb, gigantic. It pulses. It's plasmatic."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Coulthart personally witnessed a gigantic golden plasmatic orb escorted by helicopters rising from behind Secret Mountain in Arizona at 1:30 AM.",
+        "asserted_by_id": "person-ross-coulthart",
+        "source_video_id": "V00WcEiKRAY",
+        "timestamp_start_seconds": 59,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-ross-coulthart",
+          "location-secret-mountain-arizona"
+        ]
+      }
+    },
+    {
+      "id": "claim-V00WcEiKRAY-bogota-sphere-symbols-match",
+      "node_type": "claim",
+      "label": "Coulthart shared photos of symbols on the Bogota sphere with two independent experiencers (Mario Woo",
+      "summary": "Coulthart shared photos of symbols on the Bogota sphere with two independent experiencers (Mario Woods 1977 Ellsworth; Randy Anderson Crane NSWC) — both recognized the same symbols from their own NHI encounters.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.740851+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 80,
+          "quote": "I showed photos of the symbols to Mario Woods and to Randy Anderson. Both of them freaked out because these were the symbols that they had both seen."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Coulthart shared photos of symbols on the Bogota sphere with two independent experiencers (Mario Woods 1977 Ellsworth; Randy Anderson Crane NSWC) — both recognized the same symbols from their own NHI encounters.",
+        "asserted_by_id": "person-ross-coulthart",
+        "source_video_id": "V00WcEiKRAY",
+        "timestamp_start_seconds": 80,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-ross-coulthart",
+          "person-mario-woods",
+          "person-randy-anderson",
+          "technology-bogota-sphere"
+        ]
+      }
+    },
+    {
+      "id": "claim-V00WcEiKRAY-bogota-sphere-fueltank-match",
+      "node_type": "claim",
+      "label": "Roney Vernet has noted that a particular 9-liter fuel tank is a near-exact visual match to the Bogot",
+      "summary": "Roney Vernet has noted that a particular 9-liter fuel tank is a near-exact visual match to the Bogota sphere, raising cosmetic-alteration hoax possibility.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.740862+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 73,
+          "quote": "There's a particular shape of fuel tank that is exactly 9 liters and it's got similar holes. It looks like a direct visual match with a few changes as if somebody's cosmetically altered it."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Roney Vernet has noted that a particular 9-liter fuel tank is a near-exact visual match to the Bogota sphere, raising cosmetic-alteration hoax possibility.",
+        "asserted_by_id": "person-ross-coulthart",
+        "source_video_id": "V00WcEiKRAY",
+        "timestamp_start_seconds": 73,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "technology-bogota-sphere"
+        ]
+      }
+    },
+    {
+      "id": "claim-V00WcEiKRAY-marrs-self-moving-sphere-texas",
+      "node_type": "claim",
+      "label": "Coulthart observed Jim Marrs' sphere moving under its own power on a verified-level floor in Texas; ",
+      "summary": "Coulthart observed Jim Marrs' sphere moving under its own power on a verified-level floor in Texas; he is trying to get industrial X-ray and CT scanning done.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.740870+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 90,
+          "quote": "The ball is sitting stationary on the floor and then all of a sudden it starts moving. It goes up to the bar and from memory it might have even circled the pole."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Coulthart observed Jim Marrs' sphere moving under its own power on a verified-level floor in Texas; he is trying to get industrial X-ray and CT scanning done.",
+        "asserted_by_id": "person-ross-coulthart",
+        "source_video_id": "V00WcEiKRAY",
+        "timestamp_start_seconds": 90,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-ross-coulthart",
+          "person-jim-marrs",
+          "technology-bogota-sphere"
+        ]
+      }
+    },
+    {
+      "id": "claim-V00WcEiKRAY-fugal-sphere-utah-testing",
+      "node_type": "claim",
+      "label": "Brandon Fugal (Skinwalker Ranch) will fly Jim Marrs' sphere to Utah in his private jet for lab testi",
+      "summary": "Brandon Fugal (Skinwalker Ranch) will fly Jim Marrs' sphere to Utah in his private jet for lab testing.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.740879+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 101,
+          "quote": "Brandon Fugal agreed to fly it in his private jet to Utah where he's going to have it tested in the lab."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Brandon Fugal (Skinwalker Ranch) will fly Jim Marrs' sphere to Utah in his private jet for lab testing.",
+        "asserted_by_id": "person-ross-coulthart",
+        "source_video_id": "V00WcEiKRAY",
+        "timestamp_start_seconds": 101,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-ross-coulthart",
+          "person-brandon-fugal",
+          "person-jim-marrs",
+          "technology-bogota-sphere"
+        ]
+      }
+    },
+    {
+      "id": "claim-V00WcEiKRAY-consciousness-central-2018",
+      "node_type": "claim",
+      "label": "In 2018, one of Coulthart's sources (during a Georgetown pub conversation) told him that the UAP phe",
+      "summary": "In 2018, one of Coulthart's sources (during a Georgetown pub conversation) told him that the UAP phenomenon is 'all about consciousness'.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.740890+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 61,
+          "quote": "One of the first things that one of my sources in that Georgetown pub back in probably 2018 told me was, 'It's all about consciousness.'"
+        }
+      ],
+      "type_specific": {
+        "statement_text": "In 2018, one of Coulthart's sources (during a Georgetown pub conversation) told him that the UAP phenomenon is 'all about consciousness'.",
+        "asserted_by_id": "person-ross-coulthart",
+        "source_video_id": "V00WcEiKRAY",
+        "timestamp_start_seconds": 61,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-ross-coulthart",
+          "concept-nhi"
+        ]
+      }
+    },
+    {
+      "id": "claim-V00WcEiKRAY-fbi-congress-briefing-bombshell",
+      "node_type": "claim",
+      "label": "Coulthart reports that an FBI briefing to Congress on UAPs 'really blew people away' — implication b",
+      "summary": "Coulthart reports that an FBI briefing to Congress on UAPs 'really blew people away' — implication being material evidence of murder or corruption tied to covert programs.",
+      "tags": [
+        "hearsay",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.740899+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 63,
+          "quote": "People have been murdered cuz I'm told that the briefing that the FBI gave in Congress really blew people away. I have no doubt they think they're going to get away with it."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Coulthart reports that an FBI briefing to Congress on UAPs 'really blew people away' — implication being material evidence of murder or corruption tied to covert programs.",
+        "asserted_by_id": "person-ross-coulthart",
+        "source_video_id": "V00WcEiKRAY",
+        "timestamp_start_seconds": 63,
+        "assertability": "hearsay",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-ross-coulthart",
+          "organization-fbi",
+          "organization-congress"
+        ]
+      }
     }
   ],
   "edges": [
@@ -2778,8 +3254,393 @@
           "timestamp_start": 0
         }
       ]
+    },
+    {
+      "id": "edge-person-ross-coulthart-ASSERTED-claim-V00WcEiKRAY-coulthart-secret-mountain-orb",
+      "from_node_id": "person-ross-coulthart",
+      "to_node_id": "claim-V00WcEiKRAY-coulthart-secret-mountain-orb",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 59,
+          "quote": "Coulthart personally witnessed a gigantic golden plasmatic orb escorted by helicopters rising from behind Secret Mountain in Arizona at 1:30 AM."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-V00WcEiKRAY-REFERENCES-claim-V00WcEiKRAY-coulthart-secret-mountain-orb",
+      "from_node_id": "video-V00WcEiKRAY",
+      "to_node_id": "claim-V00WcEiKRAY-coulthart-secret-mountain-orb",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 59
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-V00WcEiKRAY-coulthart-secret-mountain-orb-REFERENCES-location-secret-mountain-arizona",
+      "from_node_id": "claim-V00WcEiKRAY-coulthart-secret-mountain-orb",
+      "to_node_id": "location-secret-mountain-arizona",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 59
+        }
+      ]
+    },
+    {
+      "id": "edge-person-ross-coulthart-ASSERTED-claim-V00WcEiKRAY-bogota-sphere-symbols-match",
+      "from_node_id": "person-ross-coulthart",
+      "to_node_id": "claim-V00WcEiKRAY-bogota-sphere-symbols-match",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 80,
+          "quote": "Coulthart shared photos of symbols on the Bogota sphere with two independent experiencers (Mario Woods 1977 Ellsworth; Randy Anderson Crane NSWC) — both recognized the same symbols from their own NHI "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-V00WcEiKRAY-REFERENCES-claim-V00WcEiKRAY-bogota-sphere-symbols-match",
+      "from_node_id": "video-V00WcEiKRAY",
+      "to_node_id": "claim-V00WcEiKRAY-bogota-sphere-symbols-match",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 80
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-V00WcEiKRAY-bogota-sphere-symbols-match-REFERENCES-person-mario-woods",
+      "from_node_id": "claim-V00WcEiKRAY-bogota-sphere-symbols-match",
+      "to_node_id": "person-mario-woods",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 80
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-V00WcEiKRAY-bogota-sphere-symbols-match-REFERENCES-person-randy-anderson",
+      "from_node_id": "claim-V00WcEiKRAY-bogota-sphere-symbols-match",
+      "to_node_id": "person-randy-anderson",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 80
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-V00WcEiKRAY-bogota-sphere-symbols-match-REFERENCES-technology-bogota-sphere",
+      "from_node_id": "claim-V00WcEiKRAY-bogota-sphere-symbols-match",
+      "to_node_id": "technology-bogota-sphere",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 80
+        }
+      ]
+    },
+    {
+      "id": "edge-person-ross-coulthart-ASSERTED-claim-V00WcEiKRAY-bogota-sphere-fueltank-match",
+      "from_node_id": "person-ross-coulthart",
+      "to_node_id": "claim-V00WcEiKRAY-bogota-sphere-fueltank-match",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 73,
+          "quote": "Roney Vernet has noted that a particular 9-liter fuel tank is a near-exact visual match to the Bogota sphere, raising cosmetic-alteration hoax possibility."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-V00WcEiKRAY-REFERENCES-claim-V00WcEiKRAY-bogota-sphere-fueltank-match",
+      "from_node_id": "video-V00WcEiKRAY",
+      "to_node_id": "claim-V00WcEiKRAY-bogota-sphere-fueltank-match",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 73
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-V00WcEiKRAY-bogota-sphere-fueltank-match-REFERENCES-technology-bogota-sphere",
+      "from_node_id": "claim-V00WcEiKRAY-bogota-sphere-fueltank-match",
+      "to_node_id": "technology-bogota-sphere",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 73
+        }
+      ]
+    },
+    {
+      "id": "edge-person-ross-coulthart-ASSERTED-claim-V00WcEiKRAY-marrs-self-moving-sphere-texas",
+      "from_node_id": "person-ross-coulthart",
+      "to_node_id": "claim-V00WcEiKRAY-marrs-self-moving-sphere-texas",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 90,
+          "quote": "Coulthart observed Jim Marrs' sphere moving under its own power on a verified-level floor in Texas; he is trying to get industrial X-ray and CT scanning done."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-V00WcEiKRAY-REFERENCES-claim-V00WcEiKRAY-marrs-self-moving-sphere-texas",
+      "from_node_id": "video-V00WcEiKRAY",
+      "to_node_id": "claim-V00WcEiKRAY-marrs-self-moving-sphere-texas",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 90
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-V00WcEiKRAY-marrs-self-moving-sphere-texas-REFERENCES-person-jim-marrs",
+      "from_node_id": "claim-V00WcEiKRAY-marrs-self-moving-sphere-texas",
+      "to_node_id": "person-jim-marrs",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 90
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-V00WcEiKRAY-marrs-self-moving-sphere-texas-REFERENCES-technology-bogota-sphere",
+      "from_node_id": "claim-V00WcEiKRAY-marrs-self-moving-sphere-texas",
+      "to_node_id": "technology-bogota-sphere",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 90
+        }
+      ]
+    },
+    {
+      "id": "edge-person-ross-coulthart-ASSERTED-claim-V00WcEiKRAY-fugal-sphere-utah-testing",
+      "from_node_id": "person-ross-coulthart",
+      "to_node_id": "claim-V00WcEiKRAY-fugal-sphere-utah-testing",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 101,
+          "quote": "Brandon Fugal (Skinwalker Ranch) will fly Jim Marrs' sphere to Utah in his private jet for lab testing."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-V00WcEiKRAY-REFERENCES-claim-V00WcEiKRAY-fugal-sphere-utah-testing",
+      "from_node_id": "video-V00WcEiKRAY",
+      "to_node_id": "claim-V00WcEiKRAY-fugal-sphere-utah-testing",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 101
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-V00WcEiKRAY-fugal-sphere-utah-testing-REFERENCES-person-brandon-fugal",
+      "from_node_id": "claim-V00WcEiKRAY-fugal-sphere-utah-testing",
+      "to_node_id": "person-brandon-fugal",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 101
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-V00WcEiKRAY-fugal-sphere-utah-testing-REFERENCES-person-jim-marrs",
+      "from_node_id": "claim-V00WcEiKRAY-fugal-sphere-utah-testing",
+      "to_node_id": "person-jim-marrs",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 101
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-V00WcEiKRAY-fugal-sphere-utah-testing-REFERENCES-technology-bogota-sphere",
+      "from_node_id": "claim-V00WcEiKRAY-fugal-sphere-utah-testing",
+      "to_node_id": "technology-bogota-sphere",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 101
+        }
+      ]
+    },
+    {
+      "id": "edge-person-ross-coulthart-ASSERTED-claim-V00WcEiKRAY-consciousness-central-2018",
+      "from_node_id": "person-ross-coulthart",
+      "to_node_id": "claim-V00WcEiKRAY-consciousness-central-2018",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 61,
+          "quote": "In 2018, one of Coulthart's sources (during a Georgetown pub conversation) told him that the UAP phenomenon is 'all about consciousness'."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-V00WcEiKRAY-REFERENCES-claim-V00WcEiKRAY-consciousness-central-2018",
+      "from_node_id": "video-V00WcEiKRAY",
+      "to_node_id": "claim-V00WcEiKRAY-consciousness-central-2018",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 61
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-V00WcEiKRAY-consciousness-central-2018-REFERENCES-concept-nhi",
+      "from_node_id": "claim-V00WcEiKRAY-consciousness-central-2018",
+      "to_node_id": "concept-nhi",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 61
+        }
+      ]
+    },
+    {
+      "id": "edge-person-ross-coulthart-ASSERTED-claim-V00WcEiKRAY-fbi-congress-briefing-bombshell",
+      "from_node_id": "person-ross-coulthart",
+      "to_node_id": "claim-V00WcEiKRAY-fbi-congress-briefing-bombshell",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 63,
+          "quote": "Coulthart reports that an FBI briefing to Congress on UAPs 'really blew people away' — implication being material evidence of murder or corruption tied to covert programs."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-V00WcEiKRAY-REFERENCES-claim-V00WcEiKRAY-fbi-congress-briefing-bombshell",
+      "from_node_id": "video-V00WcEiKRAY",
+      "to_node_id": "claim-V00WcEiKRAY-fbi-congress-briefing-bombshell",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 63
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-V00WcEiKRAY-fbi-congress-briefing-bombshell-REFERENCES-organization-fbi",
+      "from_node_id": "claim-V00WcEiKRAY-fbi-congress-briefing-bombshell",
+      "to_node_id": "organization-fbi",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 63
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-V00WcEiKRAY-fbi-congress-briefing-bombshell-REFERENCES-organization-congress",
+      "from_node_id": "claim-V00WcEiKRAY-fbi-congress-briefing-bombshell",
+      "to_node_id": "organization-congress",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 63
+        }
+      ]
     }
   ],
-  "extracted_at": "2026-04-17T11:04:10.715954+00:00",
+  "extracted_at": "2026-04-17T12:13:23.740908+00:00",
   "extractor_version": "v1-inline-claude"
 }

@@ -1314,6 +1314,259 @@
           "video-2ttdlCa5ZCI"
         ]
       }
+    },
+    {
+      "id": "person-gary-mckinnon",
+      "node_type": "person",
+      "label": "Gary McKinnon",
+      "summary": "British hacker; hacked US Army, Navy, Air Force, DoD, and NASA in 2001-2002 while seeking UFO evidence; faced 70-year US extradition threat (still on pole red list). Autistic; discovered photos of non-terrestrial craft and spreadsheets of 'non-terrestrial officers'.",
+      "tags": [
+        "witness",
+        "hacker",
+        "UK"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.006075+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2ttdlCa5ZCI",
+          "timestamp_start": 403,
+          "quote": "British hacker of 'biggest military computer hack of all time'"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "McKinnon"
+        ],
+        "profession": "hacker",
+        "notability_tags": [
+          "witness",
+          "hacker",
+          "UK"
+        ]
+      }
+    },
+    {
+      "id": "concept-non-terrestrial-officers",
+      "node_type": "concept",
+      "label": "Non-Terrestrial Officers (NASA spreadsheet)",
+      "summary": "Spreadsheet title discovered by Gary McKinnon on US DoD / NASA servers; listed names and ranks of purported 'non-terrestrial officers' — i.e., personnel whose assignment was not on Earth.",
+      "tags": [
+        "politics"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.006077+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2ttdlCa5ZCI",
+          "timestamp_start": 417,
+          "timestamp_end": "Spreadsheet found on US military servers titled 'non-terrestrial officers'"
+        }
+      ],
+      "type_specific": {
+        "concept_domain": "politics"
+      }
+    },
+    {
+      "id": "incident-mckinnon-hack-2001-2002",
+      "node_type": "incident",
+      "label": "Gary McKinnon US DoD/NASA Hack",
+      "summary": "2001-2002 penetration of US DoD, Army, Navy, Air Force, and NASA computer systems from McKinnon's UK bedroom over dial-up — Pentagon's own description: 'the biggest military computer hack of all time.'",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.006079+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2ttdlCa5ZCI",
+          "timestamp_start": 397,
+          "timestamp_end": "2001-2002 lone hacker infiltration of US military networks"
+        }
+      ],
+      "type_specific": {
+        "incident_type": "other",
+        "date_approximate": "2001-01-01"
+      }
+    },
+    {
+      "id": "claim-2ttdlCa5ZCI-mckinnon-hemisphere-cigar-craft",
+      "node_type": "claim",
+      "label": "While downloading a slow image file at 4 AM McKinnon witnessed on his screen a black-space hemispher",
+      "summary": "While downloading a slow image file at 4 AM McKinnon witnessed on his screen a black-space hemisphere (a planet) with a silvery cigar-shaped object alongside — mid-image, someone remote-connected and cut him off.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.023343+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2ttdlCa5ZCI",
+          "timestamp_start": 421,
+          "quote": "Slowly a hemisphere started appearing and I'm thinking that's a planet. What the hell? And then suddenly there's a big straight kind of silvery line, cigar-shaped object. I see the mouse move and someone else is at the computer themselves. They right clicked, disconnect, and boom, that was it."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "While downloading a slow image file at 4 AM McKinnon witnessed on his screen a black-space hemisphere (a planet) with a silvery cigar-shaped object alongside — mid-image, someone remote-connected and cut him off.",
+        "asserted_by_id": "person-gary-mckinnon",
+        "source_video_id": "2ttdlCa5ZCI",
+        "timestamp_start_seconds": 421,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-gary-mckinnon",
+          "incident-mckinnon-hack-2001-2002"
+        ]
+      }
+    },
+    {
+      "id": "claim-2ttdlCa5ZCI-mckinnon-non-terrestrial-officers",
+      "node_type": "claim",
+      "label": "McKinnon found a spreadsheet titled 'non-terrestrial officers' — purporting to list names and ranks ",
+      "summary": "McKinnon found a spreadsheet titled 'non-terrestrial officers' — purporting to list names and ranks of personnel not on Earth.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.023357+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2ttdlCa5ZCI",
+          "timestamp_start": 417,
+          "quote": "This spreadsheet was titled non-terrestrial officers, so not on the Earth. And that was incredible."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "McKinnon found a spreadsheet titled 'non-terrestrial officers' — purporting to list names and ranks of personnel not on Earth.",
+        "asserted_by_id": "person-gary-mckinnon",
+        "source_video_id": "2ttdlCa5ZCI",
+        "timestamp_start_seconds": 417,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-gary-mckinnon",
+          "concept-non-terrestrial-officers",
+          "incident-mckinnon-hack-2001-2002"
+        ]
+      }
+    },
+    {
+      "id": "claim-2ttdlCa5ZCI-mckinnon-70-year-prosecution-threat",
+      "node_type": "claim",
+      "label": "The US sought to extradite McKinnon for prosecution carrying up to 70 years prison; UK refused extra",
+      "summary": "The US sought to extradite McKinnon for prosecution carrying up to 70 years prison; UK refused extradition. McKinnon remains on the Interpol 'red list' — cannot enter the US.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.023366+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2ttdlCa5ZCI",
+          "timestamp_start": 409,
+          "quote": "They wanted to put you in prison for 70 years. I'm on the Interpol red list."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "The US sought to extradite McKinnon for prosecution carrying up to 70 years prison; UK refused extradition. McKinnon remains on the Interpol 'red list' — cannot enter the US.",
+        "asserted_by_id": "person-gary-mckinnon",
+        "source_video_id": "2ttdlCa5ZCI",
+        "timestamp_start_seconds": 409,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-gary-mckinnon",
+          "incident-mckinnon-hack-2001-2002"
+        ]
+      }
+    },
+    {
+      "id": "claim-2ttdlCa5ZCI-mckinnon-heel-holes-incident",
+      "node_type": "claim",
+      "label": "After the hacking period, McKinnon was woken by sharp pain — found two perfectly circular holes in h",
+      "summary": "After the hacking period, McKinnon was woken by sharp pain — found two perfectly circular holes in his left heel — an unexplained physical mark he attributes to the same class of phenomenon he was investigating.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.023374+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2ttdlCa5ZCI",
+          "timestamp_start": 429,
+          "quote": "I was suddenly woken up by a really sharp pain that immediately I just went in my left heel. There were two perfectly circular holes."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "After the hacking period, McKinnon was woken by sharp pain — found two perfectly circular holes in his left heel — an unexplained physical mark he attributes to the same class of phenomenon he was investigating.",
+        "asserted_by_id": "person-gary-mckinnon",
+        "source_video_id": "2ttdlCa5ZCI",
+        "timestamp_start_seconds": 429,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-gary-mckinnon"
+        ]
+      }
+    },
+    {
+      "id": "claim-2ttdlCa5ZCI-mckinnon-low-tech-dialup-accidental-entry",
+      "node_type": "claim",
+      "label": "McKinnon infiltrated the US DoD/NASA with nothing more than a 56K dial-up connection from his bedroo",
+      "summary": "McKinnon infiltrated the US DoD/NASA with nothing more than a 56K dial-up connection from his bedroom in a dressing gown at 4 AM — 'normal guy interested in UFOs with some IT skills.'",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.023381+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2ttdlCa5ZCI",
+          "timestamp_start": 421,
+          "quote": "I was in my dressing gown up till like 4 in the morning, smoking weed, drinking beer. I was on a 56k dialup. Nothing genius level."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "McKinnon infiltrated the US DoD/NASA with nothing more than a 56K dial-up connection from his bedroom in a dressing gown at 4 AM — 'normal guy interested in UFOs with some IT skills.'",
+        "asserted_by_id": "person-gary-mckinnon",
+        "source_video_id": "2ttdlCa5ZCI",
+        "timestamp_start_seconds": 421,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-gary-mckinnon",
+          "incident-mckinnon-hack-2001-2002"
+        ]
+      }
     }
   ],
   "edges": [
@@ -2008,8 +2261,223 @@
           "timestamp_start": 0
         }
       ]
+    },
+    {
+      "id": "edge-person-gary-mckinnon-ASSERTED-claim-2ttdlCa5ZCI-mckinnon-hemisphere-cigar-craft",
+      "from_node_id": "person-gary-mckinnon",
+      "to_node_id": "claim-2ttdlCa5ZCI-mckinnon-hemisphere-cigar-craft",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2ttdlCa5ZCI",
+          "timestamp_start": 421,
+          "quote": "While downloading a slow image file at 4 AM McKinnon witnessed on his screen a black-space hemisphere (a planet) with a silvery cigar-shaped object alongside — mid-image, someone remote-connected and "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-2ttdlCa5ZCI-REFERENCES-claim-2ttdlCa5ZCI-mckinnon-hemisphere-cigar-craft",
+      "from_node_id": "video-2ttdlCa5ZCI",
+      "to_node_id": "claim-2ttdlCa5ZCI-mckinnon-hemisphere-cigar-craft",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2ttdlCa5ZCI",
+          "timestamp_start": 421
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-2ttdlCa5ZCI-mckinnon-hemisphere-cigar-craft-REFERENCES-incident-mckinnon-hack-2001-2002",
+      "from_node_id": "claim-2ttdlCa5ZCI-mckinnon-hemisphere-cigar-craft",
+      "to_node_id": "incident-mckinnon-hack-2001-2002",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2ttdlCa5ZCI",
+          "timestamp_start": 421
+        }
+      ]
+    },
+    {
+      "id": "edge-person-gary-mckinnon-ASSERTED-claim-2ttdlCa5ZCI-mckinnon-non-terrestrial-officers",
+      "from_node_id": "person-gary-mckinnon",
+      "to_node_id": "claim-2ttdlCa5ZCI-mckinnon-non-terrestrial-officers",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2ttdlCa5ZCI",
+          "timestamp_start": 417,
+          "quote": "McKinnon found a spreadsheet titled 'non-terrestrial officers' — purporting to list names and ranks of personnel not on Earth."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-2ttdlCa5ZCI-REFERENCES-claim-2ttdlCa5ZCI-mckinnon-non-terrestrial-officers",
+      "from_node_id": "video-2ttdlCa5ZCI",
+      "to_node_id": "claim-2ttdlCa5ZCI-mckinnon-non-terrestrial-officers",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2ttdlCa5ZCI",
+          "timestamp_start": 417
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-2ttdlCa5ZCI-mckinnon-non-terrestrial-officers-REFERENCES-concept-non-terrestrial-officers",
+      "from_node_id": "claim-2ttdlCa5ZCI-mckinnon-non-terrestrial-officers",
+      "to_node_id": "concept-non-terrestrial-officers",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2ttdlCa5ZCI",
+          "timestamp_start": 417
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-2ttdlCa5ZCI-mckinnon-non-terrestrial-officers-REFERENCES-incident-mckinnon-hack-2001-2002",
+      "from_node_id": "claim-2ttdlCa5ZCI-mckinnon-non-terrestrial-officers",
+      "to_node_id": "incident-mckinnon-hack-2001-2002",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2ttdlCa5ZCI",
+          "timestamp_start": 417
+        }
+      ]
+    },
+    {
+      "id": "edge-person-gary-mckinnon-ASSERTED-claim-2ttdlCa5ZCI-mckinnon-70-year-prosecution-threat",
+      "from_node_id": "person-gary-mckinnon",
+      "to_node_id": "claim-2ttdlCa5ZCI-mckinnon-70-year-prosecution-threat",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2ttdlCa5ZCI",
+          "timestamp_start": 409,
+          "quote": "The US sought to extradite McKinnon for prosecution carrying up to 70 years prison; UK refused extradition. McKinnon remains on the Interpol 'red list' — cannot enter the US."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-2ttdlCa5ZCI-REFERENCES-claim-2ttdlCa5ZCI-mckinnon-70-year-prosecution-threat",
+      "from_node_id": "video-2ttdlCa5ZCI",
+      "to_node_id": "claim-2ttdlCa5ZCI-mckinnon-70-year-prosecution-threat",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2ttdlCa5ZCI",
+          "timestamp_start": 409
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-2ttdlCa5ZCI-mckinnon-70-year-prosecution-threat-REFERENCES-incident-mckinnon-hack-2001-2002",
+      "from_node_id": "claim-2ttdlCa5ZCI-mckinnon-70-year-prosecution-threat",
+      "to_node_id": "incident-mckinnon-hack-2001-2002",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2ttdlCa5ZCI",
+          "timestamp_start": 409
+        }
+      ]
+    },
+    {
+      "id": "edge-person-gary-mckinnon-ASSERTED-claim-2ttdlCa5ZCI-mckinnon-heel-holes-incident",
+      "from_node_id": "person-gary-mckinnon",
+      "to_node_id": "claim-2ttdlCa5ZCI-mckinnon-heel-holes-incident",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2ttdlCa5ZCI",
+          "timestamp_start": 429,
+          "quote": "After the hacking period, McKinnon was woken by sharp pain — found two perfectly circular holes in his left heel — an unexplained physical mark he attributes to the same class of phenomenon he was inv"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-2ttdlCa5ZCI-REFERENCES-claim-2ttdlCa5ZCI-mckinnon-heel-holes-incident",
+      "from_node_id": "video-2ttdlCa5ZCI",
+      "to_node_id": "claim-2ttdlCa5ZCI-mckinnon-heel-holes-incident",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2ttdlCa5ZCI",
+          "timestamp_start": 429
+        }
+      ]
+    },
+    {
+      "id": "edge-person-gary-mckinnon-ASSERTED-claim-2ttdlCa5ZCI-mckinnon-low-tech-dialup-accidental-entry",
+      "from_node_id": "person-gary-mckinnon",
+      "to_node_id": "claim-2ttdlCa5ZCI-mckinnon-low-tech-dialup-accidental-entry",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2ttdlCa5ZCI",
+          "timestamp_start": 421,
+          "quote": "McKinnon infiltrated the US DoD/NASA with nothing more than a 56K dial-up connection from his bedroom in a dressing gown at 4 AM — 'normal guy interested in UFOs with some IT skills.'"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-2ttdlCa5ZCI-REFERENCES-claim-2ttdlCa5ZCI-mckinnon-low-tech-dialup-accidental-entry",
+      "from_node_id": "video-2ttdlCa5ZCI",
+      "to_node_id": "claim-2ttdlCa5ZCI-mckinnon-low-tech-dialup-accidental-entry",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2ttdlCa5ZCI",
+          "timestamp_start": 421
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-2ttdlCa5ZCI-mckinnon-low-tech-dialup-accidental-entry-REFERENCES-incident-mckinnon-hack-2001-2002",
+      "from_node_id": "claim-2ttdlCa5ZCI-mckinnon-low-tech-dialup-accidental-entry",
+      "to_node_id": "incident-mckinnon-hack-2001-2002",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "2ttdlCa5ZCI",
+          "timestamp_start": 421
+        }
+      ]
     }
   ],
-  "extracted_at": "2026-04-17T11:04:25.010225+00:00",
+  "extracted_at": "2026-04-17T12:49:16.023388+00:00",
   "extractor_version": "v1-inline-claude"
 }

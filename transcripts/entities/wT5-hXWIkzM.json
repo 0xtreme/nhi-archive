@@ -947,6 +947,357 @@
           "video-wT5-hXWIkzM"
         ]
       }
+    },
+    {
+      "id": "person-rupert-sheldrake",
+      "node_type": "person",
+      "label": "Rupert Sheldrake",
+      "summary": "Cambridge-educated, Harvard-affiliated biologist and parapsychology researcher. Author of 'The Presence of the Past', 'Science Set Free', 'The Physics of Angels'. Famous for morphic-resonance theory. Censored 2013 TED Talk. Close friend of Terence McKenna.",
+      "tags": [
+        "scientist",
+        "academic",
+        "Cambridge",
+        "Harvard"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.687505+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 259,
+          "quote": "Cambridge-educated biologist; morphic resonance theorist; Peter Thiel linked"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Sheldrake"
+        ],
+        "profession": "biologist",
+        "notability_tags": [
+          "scientist",
+          "academic",
+          "Cambridge",
+          "Harvard"
+        ]
+      }
+    },
+    {
+      "id": "person-peter-thiel",
+      "node_type": "person",
+      "label": "Peter Thiel",
+      "summary": "American tech investor; Palantir co-founder; PayPal Mafia. Per Jesse: hired him after Jesse mentioned Rupert Sheldrake in their first conversation — Thiel looks for 'modern heretics.'",
+      "tags": [
+        "investor",
+        "technologist"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.687509+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 281,
+          "quote": "Tech investor / Palantir co-founder; hired Jesse after Sheldrake reference"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Thiel"
+        ],
+        "profession": "investor",
+        "notability_tags": [
+          "investor",
+          "technologist"
+        ]
+      }
+    },
+    {
+      "id": "person-michael-shermer-debate-italy",
+      "node_type": "person",
+      "label": "Michael Shermer (Italy debate)",
+      "summary": "Founder of Skeptic Magazine; Jesse debated him in Italy immediately before the Sheldrake interview.",
+      "tags": [
+        "skeptic",
+        "author"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.687512+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 273,
+          "quote": "Skeptic; Jesse freshly debated him in Italy before Sheldrake interview"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Shermer"
+        ],
+        "profession": "author",
+        "notability_tags": [
+          "skeptic",
+          "author"
+        ]
+      }
+    },
+    {
+      "id": "person-terrence-mckenna",
+      "node_type": "person",
+      "label": "Terence McKenna",
+      "summary": "American ethnobotanist and psychedelic philosopher (1946-2000); close friend of Rupert Sheldrake. Famous for 'Timewave Zero', DMT research, 'machine elves' framework.",
+      "tags": [
+        "philosopher",
+        "psychonaut",
+        "historical"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.687514+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 275,
+          "quote": "Psychedelic-philosopher; Sheldrake's close friend"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "McKenna"
+        ],
+        "profession": "philosopher / ethnobotanist",
+        "notability_tags": [
+          "philosopher",
+          "psychonaut",
+          "historical"
+        ]
+      }
+    },
+    {
+      "id": "document-physics-of-angels-sheldrake",
+      "node_type": "document",
+      "label": "The Physics of Angels",
+      "summary": "Rupert Sheldrake's lesser-known book exploring traditional conceptions of angels and how they might work in a modern scientific context. Relevant to modern UFO conversation.",
+      "tags": [
+        "book"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.687516+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 275,
+          "timestamp_end": "Sheldrake book on traditional angel-concepts with modern physics"
+        }
+      ],
+      "type_specific": {
+        "document_type": "book",
+        "author": "Rupert Sheldrake"
+      }
+    },
+    {
+      "id": "concept-morphic-resonance",
+      "node_type": "concept",
+      "label": "Morphic Resonance (Sheldrake)",
+      "summary": "Rupert Sheldrake's theory that humans and animals learn from surrounding information fields ('morphic fields') — babies sensing mothers' presence, humans knowing when stared at, animals sensing earthquakes.",
+      "tags": [
+        "biology"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.687518+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 261,
+          "timestamp_end": "Sheldrake's theory of information fields across biological systems"
+        }
+      ],
+      "type_specific": {
+        "concept_domain": "biology"
+      }
+    },
+    {
+      "id": "claim-wT5-hXWIkzM-thiel-hired-jesse-via-sheldrake-mention",
+      "node_type": "claim",
+      "label": "Jesse was hired by Peter Thiel after their first conversation in which Jesse brought up Rupert Sheld",
+      "summary": "Jesse was hired by Peter Thiel after their first conversation in which Jesse brought up Rupert Sheldrake — Thiel seeks 'modern heretics' as both intellectual contacts and investment signal.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.705467+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 281,
+          "quote": "In my first conversation with Peter Thiel who I ended up working for, I brought you up and he was like, 'this guy's into Rupert Sheldrake, he's a little weird — in a good way.' I always say that when people are like why did he hire you — I don't know to this day, but I did bring up Rupert Sheldrake."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Jesse was hired by Peter Thiel after their first conversation in which Jesse brought up Rupert Sheldrake — Thiel seeks 'modern heretics' as both intellectual contacts and investment signal.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "wT5-hXWIkzM",
+        "timestamp_start_seconds": 281,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-jesse-michels",
+          "person-rupert-sheldrake",
+          "person-peter-thiel"
+        ]
+      }
+    },
+    {
+      "id": "claim-wT5-hXWIkzM-sheldrake-ted-censored-2013",
+      "node_type": "claim",
+      "label": "In 2013 Sheldrake's TED Talk was censored and taken off YouTube because TED felt his ideas were 'so ",
+      "summary": "In 2013 Sheldrake's TED Talk was censored and taken off YouTube because TED felt his ideas were 'so radical and far removed from the mainstream scientific thinking that we think it's right to give these talks a clear health warning.'",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.705485+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 269,
+          "quote": "In 2013, Rupert Sheldrake's TED Talk was censored and taken off YouTube because in TED's opinion, while science has not moved far in solving the riddle of consciousness, Sheldrake's ideas are so radical that we think it's right to give these talks a clear health warning."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "In 2013 Sheldrake's TED Talk was censored and taken off YouTube because TED felt his ideas were 'so radical and far removed from the mainstream scientific thinking that we think it's right to give these talks a clear health warning.'",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "wT5-hXWIkzM",
+        "timestamp_start_seconds": 269,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-rupert-sheldrake"
+        ]
+      }
+    },
+    {
+      "id": "claim-wT5-hXWIkzM-sheldrake-not-idealist-em-consciousness",
+      "node_type": "claim",
+      "label": "Sheldrake rejects both materialism AND idealism; spent years thinking about how Consciousness might ",
+      "summary": "Sheldrake rejects both materialism AND idealism; spent years thinking about how Consciousness might be related to electromagnetic fields — particularly via vision where light IS electromagnetic radiation.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.705493+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 289,
+          "quote": "I don't think of myself as an idealist. Consciousness is primary — that's idealism. Materialism says everything's matter. I don't find either of those philosophies particularly helpful. I've spent a lot of time thinking about how consciousness might be related to electromagnetic fields."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Sheldrake rejects both materialism AND idealism; spent years thinking about how Consciousness might be related to electromagnetic fields — particularly via vision where light IS electromagnetic radiation.",
+        "asserted_by_id": "person-rupert-sheldrake",
+        "source_video_id": "wT5-hXWIkzM",
+        "timestamp_start_seconds": 289,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-rupert-sheldrake"
+        ]
+      }
+    },
+    {
+      "id": "claim-wT5-hXWIkzM-sheldrake-mckenna-close-friendship",
+      "node_type": "claim",
+      "label": "Sheldrake had a long close friendship with Terence McKenna — relevant to modern UFO/psychedelic conv",
+      "summary": "Sheldrake had a long close friendship with Terence McKenna — relevant to modern UFO/psychedelic conversation.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.705500+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 275,
+          "quote": "We get into his long close friendship with the legendary Terence McKenna."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Sheldrake had a long close friendship with Terence McKenna — relevant to modern UFO/psychedelic conversation.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "wT5-hXWIkzM",
+        "timestamp_start_seconds": 275,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-rupert-sheldrake",
+          "person-terrence-mckenna"
+        ]
+      }
+    },
+    {
+      "id": "claim-wT5-hXWIkzM-sheldrake-physical-constants-averages",
+      "node_type": "claim",
+      "label": "Sheldrake documents that some physical 'constants' in physics are actually AVERAGES of fluctuating m",
+      "summary": "Sheldrake documents that some physical 'constants' in physics are actually AVERAGES of fluctuating measurements — undermining the standard materialist assumption of fixed universal constants.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.705508+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 265,
+          "quote": "He shows that the physical constants in physics are sometimes actually averages of fluctuating measurements."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Sheldrake documents that some physical 'constants' in physics are actually AVERAGES of fluctuating measurements — undermining the standard materialist assumption of fixed universal constants.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "wT5-hXWIkzM",
+        "timestamp_start_seconds": 265,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-rupert-sheldrake"
+        ]
+      }
     }
   ],
   "edges": [
@@ -1476,8 +1827,237 @@
           "timestamp_start": 0
         }
       ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-wT5-hXWIkzM-thiel-hired-jesse-via-sheldrake-mention",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-wT5-hXWIkzM-thiel-hired-jesse-via-sheldrake-mention",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 281,
+          "quote": "Jesse was hired by Peter Thiel after their first conversation in which Jesse brought up Rupert Sheldrake — Thiel seeks 'modern heretics' as both intellectual contacts and investment signal."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-wT5-hXWIkzM-REFERENCES-claim-wT5-hXWIkzM-thiel-hired-jesse-via-sheldrake-mention",
+      "from_node_id": "video-wT5-hXWIkzM",
+      "to_node_id": "claim-wT5-hXWIkzM-thiel-hired-jesse-via-sheldrake-mention",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 281
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-wT5-hXWIkzM-thiel-hired-jesse-via-sheldrake-mention-REFERENCES-person-rupert-sheldrake",
+      "from_node_id": "claim-wT5-hXWIkzM-thiel-hired-jesse-via-sheldrake-mention",
+      "to_node_id": "person-rupert-sheldrake",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 281
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-wT5-hXWIkzM-thiel-hired-jesse-via-sheldrake-mention-REFERENCES-person-peter-thiel",
+      "from_node_id": "claim-wT5-hXWIkzM-thiel-hired-jesse-via-sheldrake-mention",
+      "to_node_id": "person-peter-thiel",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 281
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-wT5-hXWIkzM-sheldrake-ted-censored-2013",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-wT5-hXWIkzM-sheldrake-ted-censored-2013",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 269,
+          "quote": "In 2013 Sheldrake's TED Talk was censored and taken off YouTube because TED felt his ideas were 'so radical and far removed from the mainstream scientific thinking that we think it's right to give the"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-wT5-hXWIkzM-REFERENCES-claim-wT5-hXWIkzM-sheldrake-ted-censored-2013",
+      "from_node_id": "video-wT5-hXWIkzM",
+      "to_node_id": "claim-wT5-hXWIkzM-sheldrake-ted-censored-2013",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 269
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-wT5-hXWIkzM-sheldrake-ted-censored-2013-REFERENCES-person-rupert-sheldrake",
+      "from_node_id": "claim-wT5-hXWIkzM-sheldrake-ted-censored-2013",
+      "to_node_id": "person-rupert-sheldrake",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 269
+        }
+      ]
+    },
+    {
+      "id": "edge-person-rupert-sheldrake-ASSERTED-claim-wT5-hXWIkzM-sheldrake-not-idealist-em-consciousness",
+      "from_node_id": "person-rupert-sheldrake",
+      "to_node_id": "claim-wT5-hXWIkzM-sheldrake-not-idealist-em-consciousness",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 289,
+          "quote": "Sheldrake rejects both materialism AND idealism; spent years thinking about how Consciousness might be related to electromagnetic fields — particularly via vision where light IS electromagnetic radiat"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-wT5-hXWIkzM-REFERENCES-claim-wT5-hXWIkzM-sheldrake-not-idealist-em-consciousness",
+      "from_node_id": "video-wT5-hXWIkzM",
+      "to_node_id": "claim-wT5-hXWIkzM-sheldrake-not-idealist-em-consciousness",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 289
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-wT5-hXWIkzM-sheldrake-mckenna-close-friendship",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-wT5-hXWIkzM-sheldrake-mckenna-close-friendship",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 275,
+          "quote": "Sheldrake had a long close friendship with Terence McKenna — relevant to modern UFO/psychedelic conversation."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-wT5-hXWIkzM-REFERENCES-claim-wT5-hXWIkzM-sheldrake-mckenna-close-friendship",
+      "from_node_id": "video-wT5-hXWIkzM",
+      "to_node_id": "claim-wT5-hXWIkzM-sheldrake-mckenna-close-friendship",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 275
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-wT5-hXWIkzM-sheldrake-mckenna-close-friendship-REFERENCES-person-rupert-sheldrake",
+      "from_node_id": "claim-wT5-hXWIkzM-sheldrake-mckenna-close-friendship",
+      "to_node_id": "person-rupert-sheldrake",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 275
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-wT5-hXWIkzM-sheldrake-mckenna-close-friendship-REFERENCES-person-terrence-mckenna",
+      "from_node_id": "claim-wT5-hXWIkzM-sheldrake-mckenna-close-friendship",
+      "to_node_id": "person-terrence-mckenna",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 275
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-wT5-hXWIkzM-sheldrake-physical-constants-averages",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-wT5-hXWIkzM-sheldrake-physical-constants-averages",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 265,
+          "quote": "Sheldrake documents that some physical 'constants' in physics are actually AVERAGES of fluctuating measurements — undermining the standard materialist assumption of fixed universal constants."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-wT5-hXWIkzM-REFERENCES-claim-wT5-hXWIkzM-sheldrake-physical-constants-averages",
+      "from_node_id": "video-wT5-hXWIkzM",
+      "to_node_id": "claim-wT5-hXWIkzM-sheldrake-physical-constants-averages",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 265
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-wT5-hXWIkzM-sheldrake-physical-constants-averages-REFERENCES-person-rupert-sheldrake",
+      "from_node_id": "claim-wT5-hXWIkzM-sheldrake-physical-constants-averages",
+      "to_node_id": "person-rupert-sheldrake",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 265
+        }
+      ]
     }
   ],
-  "extracted_at": "2026-04-17T11:04:54.826131+00:00",
+  "extracted_at": "2026-04-17T13:21:38.705515+00:00",
   "extractor_version": "v1-inline-claude"
 }

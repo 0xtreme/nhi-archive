@@ -1113,6 +1113,317 @@
           "video-JpLThEF2dTM"
         ]
       }
+    },
+    {
+      "id": "person-joe-mcmoneagle",
+      "node_type": "person",
+      "label": "Joe McMoneagle",
+      "summary": "US Army Stargate Project original remote viewer ('Remote Viewer #1'). Legion of Merit for 200+ contributions to military intelligence. Current teacher of remote viewing protocols. Has produced ~60+ photographs of alleged alien structures on Mars via remote viewing.",
+      "tags": [
+        "psychic",
+        "remote-viewer",
+        "Stargate",
+        "military"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:07:01.191163+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 119,
+          "quote": "Remote Viewer #1; Stargate Project legend; Legion of Merit awardee"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "McMoneagle",
+          "Monagle"
+        ],
+        "profession": "remote viewer / psychic",
+        "notability_tags": [
+          "psychic",
+          "remote-viewer",
+          "Stargate",
+          "military"
+        ]
+      }
+    },
+    {
+      "id": "person-julian-jaynes",
+      "node_type": "person",
+      "label": "Julian Jaynes",
+      "summary": "American psychologist; author of 'The Origin of Consciousness in the Breakdown of the Bicameral Mind' (1976) — thesis that pre-modern humans operated with bicameral (two-chambered) minds with hallucinated voices.",
+      "tags": [
+        "psychologist",
+        "academic",
+        "historical"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:07:01.191166+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 135,
+          "quote": "Author of 'The Origin of Consciousness in the Breakdown of the Bicameral Mind'"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Jaynes"
+        ],
+        "profession": "psychologist",
+        "notability_tags": [
+          "psychologist",
+          "academic",
+          "historical"
+        ]
+      }
+    },
+    {
+      "id": "person-kim-peek",
+      "node_type": "person",
+      "label": "Kim Peek",
+      "summary": "American megasavant whose condition inspired 'Rain Man' (1988). Per McMoneagle, Peek's uniquely-formed corpus callosum enabled cloud-like information downloads.",
+      "tags": [
+        "savant",
+        "historical"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:07:01.191168+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 137,
+          "quote": "Savant 'megasavant' who inspired Rain Man"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Peek"
+        ],
+        "notability_tags": [
+          "savant",
+          "historical"
+        ]
+      }
+    },
+    {
+      "id": "concept-bicameral-mind-jaynes",
+      "node_type": "concept",
+      "label": "Bicameral Mind (Jaynes)",
+      "summary": "Julian Jaynes' hypothesis: pre-modern humans operated with a two-chambered ('bicameral') mind where the right hemisphere produced hallucinated voices the left hemisphere obeyed. Collapse of this structure is origin of modern consciousness.",
+      "tags": [
+        "psychology"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:07:01.191171+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 135,
+          "timestamp_end": "Pre-modern humans' two-chambered consciousness with hallucinated voices"
+        }
+      ],
+      "type_specific": {
+        "concept_domain": "psychology"
+      }
+    },
+    {
+      "id": "concept-corpus-callosum-filter",
+      "node_type": "concept",
+      "label": "Corpus Callosum as Psi Filter",
+      "summary": "Hypothesis that the corpus callosum (brain hemisphere bridge) evolved as a filter on direct psi/telepathic information — pre-language humans had direct mind-reading and needed evolutionary throttling.",
+      "tags": [
+        "psychology"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:07:01.191173+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 133,
+          "timestamp_end": "McMoneagle-Jesse proposal: CC evolved as filter on psychic information"
+        }
+      ],
+      "type_specific": {
+        "concept_domain": "psychology"
+      }
+    },
+    {
+      "id": "document-mars-structures-photos-mcmoneagle",
+      "node_type": "document",
+      "label": "McMoneagle Mars Structures Photos",
+      "summary": "~60+ photographs McMoneagle has catalogued of what he identifies as alien structures on Mars — square structures, pyramidal hibernation chambers.",
+      "tags": [
+        "report"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:07:01.191175+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 111,
+          "timestamp_end": "Remote-viewing derived photos of Mars structures"
+        }
+      ],
+      "type_specific": {
+        "document_type": "report"
+      }
+    },
+    {
+      "id": "claim-JpLThEF2dTM-mcmoneagle-60-mars-photos",
+      "node_type": "claim",
+      "label": "McMoneagle claims ~60 photographs of what he identifies as alien-civilization structures on Mars — i",
+      "summary": "McMoneagle claims ~60 photographs of what he identifies as alien-civilization structures on Mars — including a 'square' ~3ft long and pyramidal hibernation chambers.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:07:01.197819+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 111,
+          "quote": "I have probably somewhere in the neighborhood of 60 something photographs of things on Mars that are clearly alien. These pyramidal places are like hibernation chambers they're trying to survive until somebody comes to save them."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "McMoneagle claims ~60 photographs of what he identifies as alien-civilization structures on Mars — including a 'square' ~3ft long and pyramidal hibernation chambers.",
+        "asserted_by_id": "person-joe-mcmoneagle",
+        "source_video_id": "JpLThEF2dTM",
+        "timestamp_start_seconds": 111,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-joe-mcmoneagle",
+          "document-mars-structures-photos-mcmoneagle",
+          "concept-sidonia-mars-ruins"
+        ]
+      }
+    },
+    {
+      "id": "claim-JpLThEF2dTM-mcmoneagle-legion-merit-200-instances",
+      "node_type": "claim",
+      "label": "McMoneagle received the Legion of Merit for 200+ instances of remote-viewing contributions to US mil",
+      "summary": "McMoneagle received the Legion of Merit for 200+ instances of remote-viewing contributions to US military intelligence.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:07:01.197832+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 121,
+          "quote": "You won the Legion of Merit for over 200 instances in which you added to Military Intelligence. You've saved countless lives."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "McMoneagle received the Legion of Merit for 200+ instances of remote-viewing contributions to US military intelligence.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "JpLThEF2dTM",
+        "timestamp_start_seconds": 121,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-joe-mcmoneagle",
+          "program-stargate-project"
+        ]
+      }
+    },
+    {
+      "id": "claim-JpLThEF2dTM-mcmoneagle-language-traded-psi",
+      "node_type": "claim",
+      "label": "McMoneagle's hypothesis: language development created 'opportunity cost' with direct psi/telepathic ",
+      "summary": "McMoneagle's hypothesis: language development created 'opportunity cost' with direct psi/telepathic communication — modern telepathic autistic children (The Telepathy Tapes) may represent reversion to primordial communication mode.",
+      "tags": [
+        "speculation",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:07:01.197840+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 129,
+          "quote": "One has to wonder is there opportunity cost with the language that we have developed and when you're not relying on that language do you revert back to a more primordial form of communication?"
+        }
+      ],
+      "type_specific": {
+        "statement_text": "McMoneagle's hypothesis: language development created 'opportunity cost' with direct psi/telepathic communication — modern telepathic autistic children (The Telepathy Tapes) may represent reversion to primordial communication mode.",
+        "asserted_by_id": "person-joe-mcmoneagle",
+        "source_video_id": "JpLThEF2dTM",
+        "timestamp_start_seconds": 129,
+        "assertability": "speculation",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-joe-mcmoneagle",
+          "concept-autistic-telepathy",
+          "concept-corpus-callosum-filter"
+        ]
+      }
+    },
+    {
+      "id": "claim-JpLThEF2dTM-mcmoneagle-shaman-evolutionary-scout",
+      "node_type": "claim",
+      "label": "Per McMoneagle: shamans (often physically sickly) were group-selection adaptive for tribes — essenti",
+      "summary": "Per McMoneagle: shamans (often physically sickly) were group-selection adaptive for tribes — essential for 'scouting' probabilistic future dangers despite individual vulnerability.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:07:01.197848+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 153,
+          "quote": "The people who kept small tribes of humans alive were shamans. Shamans make all the decisions. They might be sickly but extremely adaptive for the tribe because they're essential for scouting what might come around the bend."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Per McMoneagle: shamans (often physically sickly) were group-selection adaptive for tribes — essential for 'scouting' probabilistic future dangers despite individual vulnerability.",
+        "asserted_by_id": "person-joe-mcmoneagle",
+        "source_video_id": "JpLThEF2dTM",
+        "timestamp_start_seconds": 153,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-joe-mcmoneagle"
+        ]
+      }
     }
   ],
   "edges": [
@@ -1717,8 +2028,208 @@
           "timestamp_start": 0
         }
       ]
+    },
+    {
+      "id": "edge-person-joe-mcmoneagle-ASSERTED-claim-JpLThEF2dTM-mcmoneagle-60-mars-photos",
+      "from_node_id": "person-joe-mcmoneagle",
+      "to_node_id": "claim-JpLThEF2dTM-mcmoneagle-60-mars-photos",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 111,
+          "quote": "McMoneagle claims ~60 photographs of what he identifies as alien-civilization structures on Mars — including a 'square' ~3ft long and pyramidal hibernation chambers."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-JpLThEF2dTM-REFERENCES-claim-JpLThEF2dTM-mcmoneagle-60-mars-photos",
+      "from_node_id": "video-JpLThEF2dTM",
+      "to_node_id": "claim-JpLThEF2dTM-mcmoneagle-60-mars-photos",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 111
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-JpLThEF2dTM-mcmoneagle-60-mars-photos-REFERENCES-document-mars-structures-photos-mcmoneagle",
+      "from_node_id": "claim-JpLThEF2dTM-mcmoneagle-60-mars-photos",
+      "to_node_id": "document-mars-structures-photos-mcmoneagle",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 111
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-JpLThEF2dTM-mcmoneagle-60-mars-photos-REFERENCES-concept-sidonia-mars-ruins",
+      "from_node_id": "claim-JpLThEF2dTM-mcmoneagle-60-mars-photos",
+      "to_node_id": "concept-sidonia-mars-ruins",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 111
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-JpLThEF2dTM-mcmoneagle-legion-merit-200-instances",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-JpLThEF2dTM-mcmoneagle-legion-merit-200-instances",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 121,
+          "quote": "McMoneagle received the Legion of Merit for 200+ instances of remote-viewing contributions to US military intelligence."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-JpLThEF2dTM-REFERENCES-claim-JpLThEF2dTM-mcmoneagle-legion-merit-200-instances",
+      "from_node_id": "video-JpLThEF2dTM",
+      "to_node_id": "claim-JpLThEF2dTM-mcmoneagle-legion-merit-200-instances",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 121
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-JpLThEF2dTM-mcmoneagle-legion-merit-200-instances-REFERENCES-person-joe-mcmoneagle",
+      "from_node_id": "claim-JpLThEF2dTM-mcmoneagle-legion-merit-200-instances",
+      "to_node_id": "person-joe-mcmoneagle",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 121
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-JpLThEF2dTM-mcmoneagle-legion-merit-200-instances-REFERENCES-program-stargate-project",
+      "from_node_id": "claim-JpLThEF2dTM-mcmoneagle-legion-merit-200-instances",
+      "to_node_id": "program-stargate-project",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 121
+        }
+      ]
+    },
+    {
+      "id": "edge-person-joe-mcmoneagle-ASSERTED-claim-JpLThEF2dTM-mcmoneagle-language-traded-psi",
+      "from_node_id": "person-joe-mcmoneagle",
+      "to_node_id": "claim-JpLThEF2dTM-mcmoneagle-language-traded-psi",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 129,
+          "quote": "McMoneagle's hypothesis: language development created 'opportunity cost' with direct psi/telepathic communication — modern telepathic autistic children (The Telepathy Tapes) may represent reversion to"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-JpLThEF2dTM-REFERENCES-claim-JpLThEF2dTM-mcmoneagle-language-traded-psi",
+      "from_node_id": "video-JpLThEF2dTM",
+      "to_node_id": "claim-JpLThEF2dTM-mcmoneagle-language-traded-psi",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 129
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-JpLThEF2dTM-mcmoneagle-language-traded-psi-REFERENCES-concept-autistic-telepathy",
+      "from_node_id": "claim-JpLThEF2dTM-mcmoneagle-language-traded-psi",
+      "to_node_id": "concept-autistic-telepathy",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 129
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-JpLThEF2dTM-mcmoneagle-language-traded-psi-REFERENCES-concept-corpus-callosum-filter",
+      "from_node_id": "claim-JpLThEF2dTM-mcmoneagle-language-traded-psi",
+      "to_node_id": "concept-corpus-callosum-filter",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 129
+        }
+      ]
+    },
+    {
+      "id": "edge-person-joe-mcmoneagle-ASSERTED-claim-JpLThEF2dTM-mcmoneagle-shaman-evolutionary-scout",
+      "from_node_id": "person-joe-mcmoneagle",
+      "to_node_id": "claim-JpLThEF2dTM-mcmoneagle-shaman-evolutionary-scout",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 153,
+          "quote": "Per McMoneagle: shamans (often physically sickly) were group-selection adaptive for tribes — essential for 'scouting' probabilistic future dangers despite individual vulnerability."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-JpLThEF2dTM-REFERENCES-claim-JpLThEF2dTM-mcmoneagle-shaman-evolutionary-scout",
+      "from_node_id": "video-JpLThEF2dTM",
+      "to_node_id": "claim-JpLThEF2dTM-mcmoneagle-shaman-evolutionary-scout",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "JpLThEF2dTM",
+          "timestamp_start": 153
+        }
+      ]
     }
   ],
-  "extracted_at": "2026-04-17T11:04:36.628170+00:00",
+  "extracted_at": "2026-04-17T13:07:01.197854+00:00",
   "extractor_version": "v1-inline-claude"
 }

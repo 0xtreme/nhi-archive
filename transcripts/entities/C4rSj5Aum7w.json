@@ -1735,6 +1735,489 @@
           "video-C4rSj5Aum7w"
         ]
       }
+    },
+    {
+      "id": "person-jeremy-rys",
+      "node_type": "person",
+      "label": "Jeremy Rys (alien scientist)",
+      "summary": "American YouTube creator and UFO researcher ('alien scientist' channel); 20 years of video work on UFO and science topics; serious familiarity with JFK assassination research history.",
+      "tags": [
+        "researcher",
+        "filmmaker"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.687609+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C4rSj5Aum7w",
+          "timestamp_start": 398,
+          "quote": "YouTuber ('alien scientist'); 20-year-veteran UFO researcher and historian"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Rys",
+          "alien scientist"
+        ],
+        "profession": "researcher / filmmaker",
+        "notability_tags": [
+          "researcher",
+          "filmmaker"
+        ]
+      }
+    },
+    {
+      "id": "person-david-morales",
+      "node_type": "person",
+      "label": "David Morales",
+      "summary": "CIA operative; 'the Mexican'; described by JFK researchers as the 'crack shot' of the anti-Castro S-Force team. Per Sheehan, fired the shot from the null/knoll that killed Kennedy as part of the triangular-fire-team.",
+      "tags": [
+        "CIA",
+        "historical",
+        "assassination"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.687611+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C4rSj5Aum7w",
+          "timestamp_start": 413,
+          "quote": "CIA S-Force assassin; alleged JFK shot-fire from knoll"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Morales"
+        ],
+        "profession": "intelligence operative",
+        "notability_tags": [
+          "CIA",
+          "historical",
+          "assassination"
+        ]
+      }
+    },
+    {
+      "id": "person-ed-lansdale",
+      "node_type": "person",
+      "label": "Ed Lansdale",
+      "summary": "USAF general; covert-operations architect. Identified by his wife in Dealey Plaza photographs during the JFK assassination.",
+      "tags": [
+        "USAF",
+        "CIA",
+        "historical"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.687613+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C4rSj5Aum7w",
+          "timestamp_start": 391,
+          "quote": "Air Force officer; covert-ops architect; identified in Dealey Plaza"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Lansdale"
+        ],
+        "profession": "military officer",
+        "notability_tags": [
+          "USAF",
+          "CIA",
+          "historical"
+        ]
+      }
+    },
+    {
+      "id": "person-rip-robertson",
+      "node_type": "person",
+      "label": "Rip Robertson",
+      "summary": "CIA S-Force field operations commander; photographed in Dealey Plaza at moment of JFK assassination.",
+      "tags": [
+        "CIA",
+        "historical",
+        "assassination"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.687616+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C4rSj5Aum7w",
+          "timestamp_start": 391,
+          "quote": "CIA S-Force field operations commander; identified in Dealey Plaza"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Robertson"
+        ],
+        "profession": "intelligence operative",
+        "notability_tags": [
+          "CIA",
+          "historical",
+          "assassination"
+        ]
+      }
+    },
+    {
+      "id": "person-priscilla-mcmillan",
+      "node_type": "person",
+      "label": "Priscilla McMillan",
+      "summary": "Per recent JFK files release: a CIA-witting asset who interviewed Lee Harvey Oswald when he went to Russia, befriended Marina Oswald, and wrote her autobiography — handler-level access to the primary sources.",
+      "tags": [
+        "CIA",
+        "historical"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.687618+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C4rSj5Aum7w",
+          "timestamp_start": 408,
+          "quote": "CIA asset who interviewed Lee Harvey Oswald and wrote Marina's bio"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "McMillan"
+        ],
+        "profession": "journalist",
+        "notability_tags": [
+          "CIA",
+          "historical"
+        ]
+      }
+    },
+    {
+      "id": "person-santos-trafficante",
+      "node_type": "person",
+      "label": "Santos Trafficante",
+      "summary": "Mafia don of Havana pre-Castro; ran gambling casinos, prostitution, heroin smuggling from Southeast Asia. Per Sheehan: portion of heroin profits funded anti-Castro operations and Kuomintang arms smuggling.",
+      "tags": [
+        "organized-crime",
+        "historical",
+        "heroin"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.687620+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C4rSj5Aum7w",
+          "timestamp_start": 418,
+          "quote": "Mafia don of Havana; heroin-smuggling; CIA cooperation"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Trafficante",
+          "Trafocanti"
+        ],
+        "profession": "organized crime",
+        "notability_tags": [
+          "organized-crime",
+          "historical",
+          "heroin"
+        ]
+      }
+    },
+    {
+      "id": "program-5412-committee",
+      "node_type": "program",
+      "label": "5412 Committee",
+      "summary": "US 5412 Committee — run by Vice President Nixon under Eisenhower. Architected the Bay-of-Pigs S-Force anti-Castro covert operations that, per Sheehan, were redirected to the JFK assassination.",
+      "tags": [
+        "program"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.687627+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C4rSj5Aum7w",
+          "timestamp_start": 415,
+          "timestamp_end": "Eisenhower-era covert ops committee run by Nixon"
+        }
+      ],
+      "type_specific": {
+        "acronym": "5412"
+      }
+    },
+    {
+      "id": "program-s-force-anti-castro",
+      "node_type": "program",
+      "label": "S-Force (Anti-Castro Assassination Team)",
+      "summary": "CIA anti-Castro S-Force assassination team. Triangular-fire-team structure for moving targets. Trained at Clint Murchison Jr.'s ranch in Oaxaca, Mexico. Originally targeted Castro, Raul Castro, Che Guevara, and 5 other comandantes. Per Sheehan: repurposed to assassinate JFK.",
+      "tags": [
+        "program"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.687630+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C4rSj5Aum7w",
+          "timestamp_start": 413,
+          "timestamp_end": "CIA anti-Castro triangular-fire-team assassination unit"
+        }
+      ],
+      "type_specific": {
+        "acronym": "S-Force"
+      }
+    },
+    {
+      "id": "event-2025-jfk-file-release",
+      "node_type": "event",
+      "label": "2025 JFK File Release",
+      "summary": "March 2025: National Archives released ~80,000 pages of declassified records related to JFK's assassination under Trump administration. Sheehan and Rys assert the released files confirm the CIA assassination network.",
+      "tags": [
+        "publication"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.687634+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C4rSj5Aum7w",
+          "timestamp_start": 393,
+          "timestamp_end": "National Archives 80,000 page JFK file declassification"
+        }
+      ],
+      "type_specific": {
+        "event_type": "publication",
+        "date_approximate": "2025-03-01"
+      }
+    },
+    {
+      "id": "claim-C4rSj5Aum7w-sheehan-morales-fired-fatal-shot",
+      "node_type": "claim",
+      "label": "Per Daniel Sheehan's JFK assassination analysis: David Morales ('the Mexican') — CIA crack shot of t",
+      "summary": "Per Daniel Sheehan's JFK assassination analysis: David Morales ('the Mexican') — CIA crack shot of the S-Force anti-Castro team — fired the fatal shot from the null/knoll that killed Kennedy.",
+      "tags": [
+        "hearsay",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.713461+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C4rSj5Aum7w",
+          "timestamp_start": 413,
+          "quote": "The shot that was fired from the null that killed him was Morales. David Morales — he was called the Mexican. He was the crack shot out of the team."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Per Daniel Sheehan's JFK assassination analysis: David Morales ('the Mexican') — CIA crack shot of the S-Force anti-Castro team — fired the fatal shot from the null/knoll that killed Kennedy.",
+        "asserted_by_id": "person-jeremy-rys",
+        "source_video_id": "C4rSj5Aum7w",
+        "timestamp_start_seconds": 413,
+        "assertability": "hearsay",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-daniel-sheehan",
+          "person-david-morales",
+          "person-jfk",
+          "program-s-force-anti-castro"
+        ]
+      }
+    },
+    {
+      "id": "claim-C4rSj5Aum7w-jfk-triangular-fire-team-plan",
+      "node_type": "claim",
+      "label": "Per Sheehan: the S-Force team's standard assassination plan was a triangular fire team for moving ta",
+      "summary": "Per Sheehan: the S-Force team's standard assassination plan was a triangular fire team for moving targets — three gunmen in crossfire. The same structure trained at Clint Murchison Jr's ranch in Oaxaca Mexico to kill Castro was used against JFK.",
+      "tags": [
+        "hearsay",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.713482+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C4rSj5Aum7w",
+          "timestamp_start": 413,
+          "quote": "It was a triangular fire team plan to have three gunmen crossfire at a moving target. They'd trained them up down there to kill not only Fidel Castro, but Raul Castro and Che Guevara."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Per Sheehan: the S-Force team's standard assassination plan was a triangular fire team for moving targets — three gunmen in crossfire. The same structure trained at Clint Murchison Jr's ranch in Oaxaca Mexico to kill Castro was used against JFK.",
+        "asserted_by_id": "person-jeremy-rys",
+        "source_video_id": "C4rSj5Aum7w",
+        "timestamp_start_seconds": 413,
+        "assertability": "hearsay",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "program-s-force-anti-castro",
+          "program-5412-committee",
+          "person-jfk"
+        ]
+      }
+    },
+    {
+      "id": "claim-C4rSj5Aum7w-priscilla-mcmillan-cia-witting-asset",
+      "node_type": "claim",
+      "label": "2025 JFK files revealed: Priscilla McMillan — who interviewed Lee Harvey Oswald in Russia, befriende",
+      "summary": "2025 JFK files revealed: Priscilla McMillan — who interviewed Lee Harvey Oswald in Russia, befriended Marina Oswald, and wrote Marina's autobiography — was a CIA witting asset. Handler-level information-gatekeeping.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.713540+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C4rSj5Aum7w",
+          "timestamp_start": 408,
+          "quote": "Priscilla McMillan who interviewed Oswald when he went to Russia and also befriended Marina Oswald and wrote her autobiography for her — she's a CIA agent. She's a witting CIA asset. That came out in one of the things that was revealed in the documents."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "2025 JFK files revealed: Priscilla McMillan — who interviewed Lee Harvey Oswald in Russia, befriended Marina Oswald, and wrote Marina's autobiography — was a CIA witting asset. Handler-level information-gatekeeping.",
+        "asserted_by_id": "person-jeremy-rys",
+        "source_video_id": "C4rSj5Aum7w",
+        "timestamp_start_seconds": 408,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-jeremy-rys",
+          "person-priscilla-mcmillan",
+          "event-2025-jfk-file-release"
+        ]
+      }
+    },
+    {
+      "id": "claim-C4rSj5Aum7w-heroin-profits-kuomintang-ira",
+      "node_type": "claim",
+      "label": "Per Sheehan: Santos Trafficante (Havana mafia don) ran heroin smuggling from Southeast Asia; a porti",
+      "summary": "Per Sheehan: Santos Trafficante (Havana mafia don) ran heroin smuggling from Southeast Asia; a portion of profits purchased military equipment smuggled to the Kuomintang in China — pre-Iran-Contra template of illicit-funded covert ops.",
+      "tags": [
+        "hearsay",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.713551+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C4rSj5Aum7w",
+          "timestamp_start": 419,
+          "quote": "Santos Trafficante ran the heroin smuggling coming in from Southeast Asia. A portion of the profits from heroin sales were being used to purchase military equipment and explosives to smuggle to the Kuomintang in China. Whoa. So this is pre-Iran-Contra but the same."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Per Sheehan: Santos Trafficante (Havana mafia don) ran heroin smuggling from Southeast Asia; a portion of profits purchased military equipment smuggled to the Kuomintang in China — pre-Iran-Contra template of illicit-funded covert ops.",
+        "asserted_by_id": "person-jeremy-rys",
+        "source_video_id": "C4rSj5Aum7w",
+        "timestamp_start_seconds": 419,
+        "assertability": "hearsay",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-santos-trafficante",
+          "program-5412-committee"
+        ]
+      }
+    },
+    {
+      "id": "claim-C4rSj5Aum7w-jfk-2025-file-release-incomplete",
+      "node_type": "claim",
+      "label": "Trump administration's 2025 JFK file release dropped 80,000 pages but left many public confused. Bre",
+      "summary": "Trump administration's 2025 JFK file release dropped 80,000 pages but left many public confused. Brett Weinstein: 'looking through the JFK files is like looking for a needle in the haystack where the needle is missing.'",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.713561+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C4rSj5Aum7w",
+          "timestamp_start": 397,
+          "quote": "Looking through the JFK files is like looking for a needle in the haystack where the needle is missing."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Trump administration's 2025 JFK file release dropped 80,000 pages but left many public confused. Brett Weinstein: 'looking through the JFK files is like looking for a needle in the haystack where the needle is missing.'",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "C4rSj5Aum7w",
+        "timestamp_start_seconds": 397,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "event-2025-jfk-file-release"
+        ]
+      }
+    },
+    {
+      "id": "claim-C4rSj5Aum7w-dealey-plaza-lansdale-robertson-identified",
+      "node_type": "claim",
+      "label": "Photographs from Dealey Plaza at JFK's assassination moment have now been identified: Ed Lansdale (U",
+      "summary": "Photographs from Dealey Plaza at JFK's assassination moment have now been identified: Ed Lansdale (USAF covert-ops architect) — confirmed by his wife; Rip Robertson (CIA S-Force field ops commander); plus radio-man 'Cuban' next to umbrella man.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.713572+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C4rSj5Aum7w",
+          "timestamp_start": 391,
+          "quote": "Photographs of Rip Robertson who's the field operations commander for the S-Force. Standing right there in Dealey Plaza. Ed Lansdale. Photographs of Lansdale sitting right there and his wife identifying it."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Photographs from Dealey Plaza at JFK's assassination moment have now been identified: Ed Lansdale (USAF covert-ops architect) — confirmed by his wife; Rip Robertson (CIA S-Force field ops commander); plus radio-man 'Cuban' next to umbrella man.",
+        "asserted_by_id": "person-jeremy-rys",
+        "source_video_id": "C4rSj5Aum7w",
+        "timestamp_start_seconds": 391,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-ed-lansdale",
+          "person-rip-robertson",
+          "person-jfk"
+        ]
+      }
     }
   ],
   "edges": [
@@ -2702,8 +3185,392 @@
           "timestamp_start": 0
         }
       ]
+    },
+    {
+      "id": "edge-person-jeremy-rys-ASSERTED-claim-C4rSj5Aum7w-sheehan-morales-fired-fatal-shot",
+      "from_node_id": "person-jeremy-rys",
+      "to_node_id": "claim-C4rSj5Aum7w-sheehan-morales-fired-fatal-shot",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C4rSj5Aum7w",
+          "timestamp_start": 413,
+          "quote": "Per Daniel Sheehan's JFK assassination analysis: David Morales ('the Mexican') — CIA crack shot of the S-Force anti-Castro team — fired the fatal shot from the null/knoll that killed Kennedy."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-C4rSj5Aum7w-REFERENCES-claim-C4rSj5Aum7w-sheehan-morales-fired-fatal-shot",
+      "from_node_id": "video-C4rSj5Aum7w",
+      "to_node_id": "claim-C4rSj5Aum7w-sheehan-morales-fired-fatal-shot",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C4rSj5Aum7w",
+          "timestamp_start": 413
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-C4rSj5Aum7w-sheehan-morales-fired-fatal-shot-REFERENCES-person-daniel-sheehan",
+      "from_node_id": "claim-C4rSj5Aum7w-sheehan-morales-fired-fatal-shot",
+      "to_node_id": "person-daniel-sheehan",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C4rSj5Aum7w",
+          "timestamp_start": 413
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-C4rSj5Aum7w-sheehan-morales-fired-fatal-shot-REFERENCES-person-david-morales",
+      "from_node_id": "claim-C4rSj5Aum7w-sheehan-morales-fired-fatal-shot",
+      "to_node_id": "person-david-morales",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C4rSj5Aum7w",
+          "timestamp_start": 413
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-C4rSj5Aum7w-sheehan-morales-fired-fatal-shot-REFERENCES-person-jfk",
+      "from_node_id": "claim-C4rSj5Aum7w-sheehan-morales-fired-fatal-shot",
+      "to_node_id": "person-jfk",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C4rSj5Aum7w",
+          "timestamp_start": 413
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-C4rSj5Aum7w-sheehan-morales-fired-fatal-shot-REFERENCES-program-s-force-anti-castro",
+      "from_node_id": "claim-C4rSj5Aum7w-sheehan-morales-fired-fatal-shot",
+      "to_node_id": "program-s-force-anti-castro",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C4rSj5Aum7w",
+          "timestamp_start": 413
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jeremy-rys-ASSERTED-claim-C4rSj5Aum7w-jfk-triangular-fire-team-plan",
+      "from_node_id": "person-jeremy-rys",
+      "to_node_id": "claim-C4rSj5Aum7w-jfk-triangular-fire-team-plan",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C4rSj5Aum7w",
+          "timestamp_start": 413,
+          "quote": "Per Sheehan: the S-Force team's standard assassination plan was a triangular fire team for moving targets — three gunmen in crossfire. The same structure trained at Clint Murchison Jr's ranch in Oaxac"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-C4rSj5Aum7w-REFERENCES-claim-C4rSj5Aum7w-jfk-triangular-fire-team-plan",
+      "from_node_id": "video-C4rSj5Aum7w",
+      "to_node_id": "claim-C4rSj5Aum7w-jfk-triangular-fire-team-plan",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C4rSj5Aum7w",
+          "timestamp_start": 413
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-C4rSj5Aum7w-jfk-triangular-fire-team-plan-REFERENCES-program-s-force-anti-castro",
+      "from_node_id": "claim-C4rSj5Aum7w-jfk-triangular-fire-team-plan",
+      "to_node_id": "program-s-force-anti-castro",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C4rSj5Aum7w",
+          "timestamp_start": 413
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-C4rSj5Aum7w-jfk-triangular-fire-team-plan-REFERENCES-program-5412-committee",
+      "from_node_id": "claim-C4rSj5Aum7w-jfk-triangular-fire-team-plan",
+      "to_node_id": "program-5412-committee",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C4rSj5Aum7w",
+          "timestamp_start": 413
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-C4rSj5Aum7w-jfk-triangular-fire-team-plan-REFERENCES-person-jfk",
+      "from_node_id": "claim-C4rSj5Aum7w-jfk-triangular-fire-team-plan",
+      "to_node_id": "person-jfk",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C4rSj5Aum7w",
+          "timestamp_start": 413
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jeremy-rys-ASSERTED-claim-C4rSj5Aum7w-priscilla-mcmillan-cia-witting-asset",
+      "from_node_id": "person-jeremy-rys",
+      "to_node_id": "claim-C4rSj5Aum7w-priscilla-mcmillan-cia-witting-asset",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C4rSj5Aum7w",
+          "timestamp_start": 408,
+          "quote": "2025 JFK files revealed: Priscilla McMillan — who interviewed Lee Harvey Oswald in Russia, befriended Marina Oswald, and wrote Marina's autobiography — was a CIA witting asset. Handler-level informati"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-C4rSj5Aum7w-REFERENCES-claim-C4rSj5Aum7w-priscilla-mcmillan-cia-witting-asset",
+      "from_node_id": "video-C4rSj5Aum7w",
+      "to_node_id": "claim-C4rSj5Aum7w-priscilla-mcmillan-cia-witting-asset",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C4rSj5Aum7w",
+          "timestamp_start": 408
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-C4rSj5Aum7w-priscilla-mcmillan-cia-witting-asset-REFERENCES-person-priscilla-mcmillan",
+      "from_node_id": "claim-C4rSj5Aum7w-priscilla-mcmillan-cia-witting-asset",
+      "to_node_id": "person-priscilla-mcmillan",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C4rSj5Aum7w",
+          "timestamp_start": 408
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-C4rSj5Aum7w-priscilla-mcmillan-cia-witting-asset-REFERENCES-event-2025-jfk-file-release",
+      "from_node_id": "claim-C4rSj5Aum7w-priscilla-mcmillan-cia-witting-asset",
+      "to_node_id": "event-2025-jfk-file-release",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C4rSj5Aum7w",
+          "timestamp_start": 408
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jeremy-rys-ASSERTED-claim-C4rSj5Aum7w-heroin-profits-kuomintang-ira",
+      "from_node_id": "person-jeremy-rys",
+      "to_node_id": "claim-C4rSj5Aum7w-heroin-profits-kuomintang-ira",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C4rSj5Aum7w",
+          "timestamp_start": 419,
+          "quote": "Per Sheehan: Santos Trafficante (Havana mafia don) ran heroin smuggling from Southeast Asia; a portion of profits purchased military equipment smuggled to the Kuomintang in China — pre-Iran-Contra tem"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-C4rSj5Aum7w-REFERENCES-claim-C4rSj5Aum7w-heroin-profits-kuomintang-ira",
+      "from_node_id": "video-C4rSj5Aum7w",
+      "to_node_id": "claim-C4rSj5Aum7w-heroin-profits-kuomintang-ira",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C4rSj5Aum7w",
+          "timestamp_start": 419
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-C4rSj5Aum7w-heroin-profits-kuomintang-ira-REFERENCES-person-santos-trafficante",
+      "from_node_id": "claim-C4rSj5Aum7w-heroin-profits-kuomintang-ira",
+      "to_node_id": "person-santos-trafficante",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C4rSj5Aum7w",
+          "timestamp_start": 419
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-C4rSj5Aum7w-heroin-profits-kuomintang-ira-REFERENCES-program-5412-committee",
+      "from_node_id": "claim-C4rSj5Aum7w-heroin-profits-kuomintang-ira",
+      "to_node_id": "program-5412-committee",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C4rSj5Aum7w",
+          "timestamp_start": 419
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-C4rSj5Aum7w-jfk-2025-file-release-incomplete",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-C4rSj5Aum7w-jfk-2025-file-release-incomplete",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C4rSj5Aum7w",
+          "timestamp_start": 397,
+          "quote": "Trump administration's 2025 JFK file release dropped 80,000 pages but left many public confused. Brett Weinstein: 'looking through the JFK files is like looking for a needle in the haystack where the "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-C4rSj5Aum7w-REFERENCES-claim-C4rSj5Aum7w-jfk-2025-file-release-incomplete",
+      "from_node_id": "video-C4rSj5Aum7w",
+      "to_node_id": "claim-C4rSj5Aum7w-jfk-2025-file-release-incomplete",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C4rSj5Aum7w",
+          "timestamp_start": 397
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-C4rSj5Aum7w-jfk-2025-file-release-incomplete-REFERENCES-event-2025-jfk-file-release",
+      "from_node_id": "claim-C4rSj5Aum7w-jfk-2025-file-release-incomplete",
+      "to_node_id": "event-2025-jfk-file-release",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C4rSj5Aum7w",
+          "timestamp_start": 397
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jeremy-rys-ASSERTED-claim-C4rSj5Aum7w-dealey-plaza-lansdale-robertson-identified",
+      "from_node_id": "person-jeremy-rys",
+      "to_node_id": "claim-C4rSj5Aum7w-dealey-plaza-lansdale-robertson-identified",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C4rSj5Aum7w",
+          "timestamp_start": 391,
+          "quote": "Photographs from Dealey Plaza at JFK's assassination moment have now been identified: Ed Lansdale (USAF covert-ops architect) — confirmed by his wife; Rip Robertson (CIA S-Force field ops commander); "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-C4rSj5Aum7w-REFERENCES-claim-C4rSj5Aum7w-dealey-plaza-lansdale-robertson-identified",
+      "from_node_id": "video-C4rSj5Aum7w",
+      "to_node_id": "claim-C4rSj5Aum7w-dealey-plaza-lansdale-robertson-identified",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C4rSj5Aum7w",
+          "timestamp_start": 391
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-C4rSj5Aum7w-dealey-plaza-lansdale-robertson-identified-REFERENCES-person-ed-lansdale",
+      "from_node_id": "claim-C4rSj5Aum7w-dealey-plaza-lansdale-robertson-identified",
+      "to_node_id": "person-ed-lansdale",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C4rSj5Aum7w",
+          "timestamp_start": 391
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-C4rSj5Aum7w-dealey-plaza-lansdale-robertson-identified-REFERENCES-person-rip-robertson",
+      "from_node_id": "claim-C4rSj5Aum7w-dealey-plaza-lansdale-robertson-identified",
+      "to_node_id": "person-rip-robertson",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C4rSj5Aum7w",
+          "timestamp_start": 391
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-C4rSj5Aum7w-dealey-plaza-lansdale-robertson-identified-REFERENCES-person-jfk",
+      "from_node_id": "claim-C4rSj5Aum7w-dealey-plaza-lansdale-robertson-identified",
+      "to_node_id": "person-jfk",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C4rSj5Aum7w",
+          "timestamp_start": 391
+        }
+      ]
     }
   ],
-  "extracted_at": "2026-04-17T11:04:56.513805+00:00",
+  "extracted_at": "2026-04-17T13:21:38.713584+00:00",
   "extractor_version": "v1-inline-claude"
 }

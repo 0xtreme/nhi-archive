@@ -984,6 +984,305 @@
           "video-8XD1ZiuhXoY"
         ]
       }
+    },
+    {
+      "id": "person-andrew-gallimore",
+      "node_type": "person",
+      "label": "Andrew Gallimore",
+      "summary": "Oxford-educated neuroscientist based in Japan; DMT researcher; author of 'Alien Information Theory' and forthcoming 'Death By Astonishment'. Proposes target-controlled intravenous DMT infusion for extended access to alien-contact realms.",
+      "tags": [
+        "scientist",
+        "researcher",
+        "Oxford"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.687596+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8XD1ZiuhXoY",
+          "timestamp_start": 368,
+          "quote": "Neuroscientist; DMT researcher; author Alien Information Theory"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Gallimore"
+        ],
+        "profession": "neuroscientist",
+        "notability_tags": [
+          "scientist",
+          "researcher",
+          "Oxford"
+        ]
+      }
+    },
+    {
+      "id": "person-william-burroughs",
+      "node_type": "person",
+      "label": "William Burroughs",
+      "summary": "American author (Naked Lunch); source of the 'Death By Astonishment' phrase Gallimore used as book title.",
+      "tags": [
+        "author",
+        "historical"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.687598+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8XD1ZiuhXoY",
+          "timestamp_start": 368,
+          "quote": "Author; source of 'Death By Astonishment' phrase"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Burroughs"
+        ],
+        "profession": "author",
+        "notability_tags": [
+          "author",
+          "historical"
+        ]
+      }
+    },
+    {
+      "id": "concept-tci-dmt-infusion-protocol",
+      "node_type": "concept",
+      "label": "Target-Controlled Intravenous DMT Infusion",
+      "summary": "Andrew Gallimore's proposed protocol: target-controlled intravenous DMT infusion — borrowed from anesthesiology — maintaining subjects in the DMT realm for extended periods. Proposes sending mathematicians, topologists, and linguists to document higher-dimensional objects and communications.",
+      "tags": [
+        "technology"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.687600+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8XD1ZiuhXoY",
+          "timestamp_start": 352,
+          "timestamp_end": "Gallimore's anesthesiology-borrowed DMT extended-access protocol"
+        }
+      ],
+      "type_specific": {
+        "concept_domain": "technology"
+      }
+    },
+    {
+      "id": "concept-machine-elves-thousands-years",
+      "node_type": "concept",
+      "label": "Machine Elves / Higher-Dimensional NHI",
+      "summary": "Intelligent beings encountered in DMT experiences displaying higher-dimensional objects; framed by McKenna as 'machine elves' but phenomenologically documented across thousands of years of human experience. Per Gallimore: not McKenna's invention.",
+      "tags": [
+        "metaphysics"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.687602+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8XD1ZiuhXoY",
+          "timestamp_start": 345,
+          "timestamp_end": "Intelligent beings experienced in DMT state; pre-dating McKenna's framing"
+        }
+      ],
+      "type_specific": {
+        "concept_domain": "metaphysics"
+      }
+    },
+    {
+      "id": "document-alien-information-theory",
+      "node_type": "document",
+      "label": "Alien Information Theory",
+      "summary": "Andrew Gallimore's main book presenting his information-theoretic framework for DMT phenomenology as real contact with non-human intelligences.",
+      "tags": [
+        "book"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.687604+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8XD1ZiuhXoY",
+          "timestamp_start": 368,
+          "timestamp_end": "Gallimore's main text on DMT and information-theoretic framework"
+        }
+      ],
+      "type_specific": {
+        "document_type": "book",
+        "author": "Andrew Gallimore"
+      }
+    },
+    {
+      "id": "document-death-by-astonishment",
+      "node_type": "document",
+      "label": "Death By Astonishment",
+      "summary": "Andrew Gallimore's forthcoming book; title homage to William Burroughs / Terence McKenna.",
+      "tags": [
+        "book"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.687606+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8XD1ZiuhXoY",
+          "timestamp_start": 368,
+          "timestamp_end": "Gallimore forthcoming follow-up"
+        }
+      ],
+      "type_specific": {
+        "document_type": "book",
+        "author": "Andrew Gallimore"
+      }
+    },
+    {
+      "id": "claim-8XD1ZiuhXoY-gallimore-five-dim-visualization-dmt",
+      "node_type": "claim",
+      "label": "Per Gallimore: there is no way to visualize a 5-dimensional object in its true form — yet DMT experi",
+      "summary": "Per Gallimore: there is no way to visualize a 5-dimensional object in its true form — yet DMT experiencers consistently DO visualize such objects; intelligent beings displayed them in the DMT realm for thousands of years.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.711056+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8XD1ZiuhXoY",
+          "timestamp_start": 345,
+          "quote": "There's no way for you to visualize a five-dimensional object in its true form. And yet, when you smoke DMT, you do. It's not Terrence McKenna implanting the idea of machine elves. These are intelligent beings that go back thousands of years."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Per Gallimore: there is no way to visualize a 5-dimensional object in its true form — yet DMT experiencers consistently DO visualize such objects; intelligent beings displayed them in the DMT realm for thousands of years.",
+        "asserted_by_id": "person-andrew-gallimore",
+        "source_video_id": "8XD1ZiuhXoY",
+        "timestamp_start_seconds": 345,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-andrew-gallimore",
+          "concept-machine-elves-thousands-years"
+        ]
+      }
+    },
+    {
+      "id": "claim-8XD1ZiuhXoY-gallimore-tci-dmt-mathematicians",
+      "node_type": "claim",
+      "label": "Gallimore proposes target-controlled intravenous DMT infusion (borrowed from anesthesiology) — maint",
+      "summary": "Gallimore proposes target-controlled intravenous DMT infusion (borrowed from anesthesiology) — maintaining mathematicians, topologists, and linguists in the DMT realm to document what intelligent beings are communicating.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.711073+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8XD1ZiuhXoY",
+          "timestamp_start": 352,
+          "quote": "Why don't we repurpose a technique from anesthesiology called target controlled intravenous infusion but with DMT. So we send in mathematicians, we send in geometers or topologists, we send in linguists."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Gallimore proposes target-controlled intravenous DMT infusion (borrowed from anesthesiology) — maintaining mathematicians, topologists, and linguists in the DMT realm to document what intelligent beings are communicating.",
+        "asserted_by_id": "person-andrew-gallimore",
+        "source_video_id": "8XD1ZiuhXoY",
+        "timestamp_start_seconds": 352,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-andrew-gallimore",
+          "concept-tci-dmt-infusion-protocol"
+        ]
+      }
+    },
+    {
+      "id": "claim-8XD1ZiuhXoY-gallimore-elite-access-dmt-realm",
+      "node_type": "claim",
+      "label": "Gallimore entertains that elite members of society have been systematically accessing these DMT-adja",
+      "summary": "Gallimore entertains that elite members of society have been systematically accessing these DMT-adjacent realms — potentially helping shape our reality through downloaded contact.",
+      "tags": [
+        "speculation",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.711082+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8XD1ZiuhXoY",
+          "timestamp_start": 353,
+          "quote": "Do you think that elite members of society have been systematically accessing these other realms, helping to shape our reality?"
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Gallimore entertains that elite members of society have been systematically accessing these DMT-adjacent realms — potentially helping shape our reality through downloaded contact.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "8XD1ZiuhXoY",
+        "timestamp_start_seconds": 353,
+        "assertability": "speculation",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-andrew-gallimore",
+          "concept-machine-elves-thousands-years"
+        ]
+      }
+    },
+    {
+      "id": "claim-8XD1ZiuhXoY-gallimore-brain-contact-interface",
+      "node_type": "claim",
+      "label": "Gallimore: 'If they want to communicate with us, they're going to do it through our brain.'",
+      "summary": "Gallimore: 'If they want to communicate with us, they're going to do it through our brain.'",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.711090+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8XD1ZiuhXoY",
+          "timestamp_start": 349,
+          "quote": "If they want to communicate with us, they're going to do it through our brain."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Gallimore: 'If they want to communicate with us, they're going to do it through our brain.'",
+        "asserted_by_id": "person-andrew-gallimore",
+        "source_video_id": "8XD1ZiuhXoY",
+        "timestamp_start_seconds": 349,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-andrew-gallimore"
+        ]
+      }
     }
   ],
   "edges": [
@@ -1528,8 +1827,180 @@
           "timestamp_start": 0
         }
       ]
+    },
+    {
+      "id": "edge-person-andrew-gallimore-ASSERTED-claim-8XD1ZiuhXoY-gallimore-five-dim-visualization-dmt",
+      "from_node_id": "person-andrew-gallimore",
+      "to_node_id": "claim-8XD1ZiuhXoY-gallimore-five-dim-visualization-dmt",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8XD1ZiuhXoY",
+          "timestamp_start": 345,
+          "quote": "Per Gallimore: there is no way to visualize a 5-dimensional object in its true form — yet DMT experiencers consistently DO visualize such objects; intelligent beings displayed them in the DMT realm fo"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-8XD1ZiuhXoY-REFERENCES-claim-8XD1ZiuhXoY-gallimore-five-dim-visualization-dmt",
+      "from_node_id": "video-8XD1ZiuhXoY",
+      "to_node_id": "claim-8XD1ZiuhXoY-gallimore-five-dim-visualization-dmt",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8XD1ZiuhXoY",
+          "timestamp_start": 345
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-8XD1ZiuhXoY-gallimore-five-dim-visualization-dmt-REFERENCES-concept-machine-elves-thousands-years",
+      "from_node_id": "claim-8XD1ZiuhXoY-gallimore-five-dim-visualization-dmt",
+      "to_node_id": "concept-machine-elves-thousands-years",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8XD1ZiuhXoY",
+          "timestamp_start": 345
+        }
+      ]
+    },
+    {
+      "id": "edge-person-andrew-gallimore-ASSERTED-claim-8XD1ZiuhXoY-gallimore-tci-dmt-mathematicians",
+      "from_node_id": "person-andrew-gallimore",
+      "to_node_id": "claim-8XD1ZiuhXoY-gallimore-tci-dmt-mathematicians",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8XD1ZiuhXoY",
+          "timestamp_start": 352,
+          "quote": "Gallimore proposes target-controlled intravenous DMT infusion (borrowed from anesthesiology) — maintaining mathematicians, topologists, and linguists in the DMT realm to document what intelligent bein"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-8XD1ZiuhXoY-REFERENCES-claim-8XD1ZiuhXoY-gallimore-tci-dmt-mathematicians",
+      "from_node_id": "video-8XD1ZiuhXoY",
+      "to_node_id": "claim-8XD1ZiuhXoY-gallimore-tci-dmt-mathematicians",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8XD1ZiuhXoY",
+          "timestamp_start": 352
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-8XD1ZiuhXoY-gallimore-tci-dmt-mathematicians-REFERENCES-concept-tci-dmt-infusion-protocol",
+      "from_node_id": "claim-8XD1ZiuhXoY-gallimore-tci-dmt-mathematicians",
+      "to_node_id": "concept-tci-dmt-infusion-protocol",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8XD1ZiuhXoY",
+          "timestamp_start": 352
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-8XD1ZiuhXoY-gallimore-elite-access-dmt-realm",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-8XD1ZiuhXoY-gallimore-elite-access-dmt-realm",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8XD1ZiuhXoY",
+          "timestamp_start": 353,
+          "quote": "Gallimore entertains that elite members of society have been systematically accessing these DMT-adjacent realms — potentially helping shape our reality through downloaded contact."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-8XD1ZiuhXoY-REFERENCES-claim-8XD1ZiuhXoY-gallimore-elite-access-dmt-realm",
+      "from_node_id": "video-8XD1ZiuhXoY",
+      "to_node_id": "claim-8XD1ZiuhXoY-gallimore-elite-access-dmt-realm",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8XD1ZiuhXoY",
+          "timestamp_start": 353
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-8XD1ZiuhXoY-gallimore-elite-access-dmt-realm-REFERENCES-person-andrew-gallimore",
+      "from_node_id": "claim-8XD1ZiuhXoY-gallimore-elite-access-dmt-realm",
+      "to_node_id": "person-andrew-gallimore",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8XD1ZiuhXoY",
+          "timestamp_start": 353
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-8XD1ZiuhXoY-gallimore-elite-access-dmt-realm-REFERENCES-concept-machine-elves-thousands-years",
+      "from_node_id": "claim-8XD1ZiuhXoY-gallimore-elite-access-dmt-realm",
+      "to_node_id": "concept-machine-elves-thousands-years",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8XD1ZiuhXoY",
+          "timestamp_start": 353
+        }
+      ]
+    },
+    {
+      "id": "edge-person-andrew-gallimore-ASSERTED-claim-8XD1ZiuhXoY-gallimore-brain-contact-interface",
+      "from_node_id": "person-andrew-gallimore",
+      "to_node_id": "claim-8XD1ZiuhXoY-gallimore-brain-contact-interface",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8XD1ZiuhXoY",
+          "timestamp_start": 349,
+          "quote": "Gallimore: 'If they want to communicate with us, they're going to do it through our brain.'"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-8XD1ZiuhXoY-REFERENCES-claim-8XD1ZiuhXoY-gallimore-brain-contact-interface",
+      "from_node_id": "video-8XD1ZiuhXoY",
+      "to_node_id": "claim-8XD1ZiuhXoY-gallimore-brain-contact-interface",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8XD1ZiuhXoY",
+          "timestamp_start": 349
+        }
+      ]
     }
   ],
-  "extracted_at": "2026-04-17T11:04:55.674678+00:00",
+  "extracted_at": "2026-04-17T13:21:38.711098+00:00",
   "extractor_version": "v1-inline-claude"
 }

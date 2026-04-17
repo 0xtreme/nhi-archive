@@ -1404,6 +1404,373 @@
           "video-Jpf0ZGY87c0"
         ]
       }
+    },
+    {
+      "id": "person-arthur-stansel",
+      "node_type": "person",
+      "label": "Arthur Stansel",
+      "summary": "Decorated World War II veteran (3 Purple Hearts, Bronze Star); post-war career in physics and engineering at Wright-Patterson. In May 1953, flown blindfolded from Phoenix to classified Kingman AZ crash site to measure impact velocity of a 30ft double-saucer craft with humanoid bodies.",
+      "tags": [
+        "witness",
+        "USAF",
+        "historical",
+        "WP"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:30:03.999566+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Jpf0ZGY87c0",
+          "timestamp_start": 53,
+          "quote": "Decorated WWII veteran / physics-engineer; 1953 Kingman Arizona crash witness"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Stansel"
+        ],
+        "profession": "military / engineer",
+        "notability_tags": [
+          "witness",
+          "USAF",
+          "historical",
+          "WP"
+        ]
+      }
+    },
+    {
+      "id": "person-eric-wang",
+      "node_type": "person",
+      "label": "Dr. Eric H. Wang",
+      "summary": "Austrian-Jewish physicist born 1906 Vienna; Vienna Technical Institute; contemporary of Victor Schauberger; immigrated to US before WWII; lectured at University of Cincinnati; head of Department of Special Studies at Wright-Patterson. Per widow Maria: reported directly to Henry Kissinger on classified flying-saucer program. Died 1960.",
+      "tags": [
+        "physicist",
+        "WP",
+        "historical"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:30:03.999569+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Jpf0ZGY87c0",
+          "timestamp_start": 59,
+          "quote": "Mysterious Vienna-born Wright-Patterson special-studies department head; Kissinger-linked"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Wang",
+          "Wing"
+        ],
+        "profession": "physicist",
+        "notability_tags": [
+          "physicist",
+          "WP",
+          "historical"
+        ]
+      }
+    },
+    {
+      "id": "person-maria-wang",
+      "node_type": "person",
+      "label": "Maria Wang",
+      "summary": "Widow of Dr. Eric Wang. Revealed to researcher William Steinman that her husband reported directly to Henry Kissinger on classified extraterrestrial-technology projects; Kissinger visited the Wang home.",
+      "tags": [
+        "witness",
+        "historical"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:30:03.999571+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Jpf0ZGY87c0",
+          "timestamp_start": 67,
+          "quote": "Widow of Eric Wang; confirmed Kissinger's UFO-program oversight"
+        }
+      ],
+      "type_specific": {
+        "aliases": [],
+        "profession": "widow",
+        "notability_tags": [
+          "witness",
+          "historical"
+        ]
+      }
+    },
+    {
+      "id": "person-william-steinman",
+      "node_type": "person",
+      "label": "William Steinman",
+      "summary": "1980s UFO researcher; tracked down Dr. Eric Wang's obituary and widow Maria; broke the Kissinger-Wang UFO connection.",
+      "tags": [
+        "researcher",
+        "historical"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:30:03.999574+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Jpf0ZGY87c0",
+          "timestamp_start": 63,
+          "quote": "1980s UFO researcher who tracked down Eric Wang's widow"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Steinman"
+        ],
+        "profession": "researcher",
+        "notability_tags": [
+          "researcher",
+          "historical"
+        ]
+      }
+    },
+    {
+      "id": "person-henry-kissinger",
+      "node_type": "person",
+      "label": "Henry Kissinger",
+      "summary": "National Security Adviser and Secretary of State under Nixon and Ford; Nobel Peace Prize (Vietnam). Per Maria Wang: deeply involved in the US flying-saucer program before his public office — traced back to Nixon-era Wright-Patterson operations via Dr. Eric Wang.",
+      "tags": [
+        "official",
+        "historical",
+        "alleged-UFO-overseer"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:30:03.999576+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Jpf0ZGY87c0",
+          "timestamp_start": 71,
+          "quote": "National Security Adviser; Secretary of State; alleged UFO program overseer"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Kissinger"
+        ],
+        "profession": "diplomat",
+        "notability_tags": [
+          "official",
+          "historical",
+          "alleged-UFO-overseer"
+        ]
+      }
+    },
+    {
+      "id": "incident-1953-kingman-arizona-crash",
+      "node_type": "incident",
+      "label": "1953 Kingman Arizona UFO Crash",
+      "summary": "May 1953: two days after the 'Harry' nuclear test (32 kilotons, double Hiroshima) at Nevada test site during Operation Upshot-Knothole, a 30ft 'two deep saucers fused' craft crashed near Kingman Arizona. Stansel and 14 other specialists flown in blindfolded from Phoenix to measure impact velocity. Recovered small humanoid bodies laid out in nearby tent.",
+      "tags": [
+        "crash_retrieval"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:30:03.999578+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Jpf0ZGY87c0",
+          "timestamp_start": 51,
+          "timestamp_end": "30ft saucer buried 20in sand near Kingman post-Harry nuclear test"
+        }
+      ],
+      "type_specific": {
+        "incident_type": "crash_retrieval",
+        "date_approximate": "1953-05-21"
+      }
+    },
+    {
+      "id": "claim-Jpf0ZGY87c0-wang-reported-to-kissinger",
+      "node_type": "claim",
+      "label": "Maria Wang's claim to researcher William Steinman: her late husband Dr. Eric Wang reported directly ",
+      "summary": "Maria Wang's claim to researcher William Steinman: her late husband Dr. Eric Wang reported directly to Henry Kissinger on classified extraterrestrial-technology projects at Wright-Patterson. Kissinger visited their home.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:30:04.003546+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Jpf0ZGY87c0",
+          "timestamp_start": 69,
+          "quote": "Maria Wang confirmed that her late husband had worked on classified projects at Wright-Patterson, projects that involved technology not of this world. Before his death, Eric had confided in her that the US government was studying recovered extraterrestrial craft. Her husband had reported directly to Henry Kissinger."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Maria Wang's claim to researcher William Steinman: her late husband Dr. Eric Wang reported directly to Henry Kissinger on classified extraterrestrial-technology projects at Wright-Patterson. Kissinger visited their home.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "Jpf0ZGY87c0",
+        "timestamp_start_seconds": 69,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-eric-wang",
+          "person-maria-wang",
+          "person-henry-kissinger",
+          "person-william-steinman",
+          "location-wright-patterson-afb"
+        ]
+      }
+    },
+    {
+      "id": "claim-Jpf0ZGY87c0-stansel-kingman-1953-saucer-bodies",
+      "node_type": "claim",
+      "label": "Stansel's 1953 Kingman Arizona crash witness account: 30ft 'two deep saucers fused' craft buried 20i",
+      "summary": "Stansel's 1953 Kingman Arizona crash witness account: 30ft 'two deep saucers fused' craft buried 20in in sand; no landing gear, no damage, small hatch; number of 4ft humanoid figures laid out on a nearby tent table. Two days after the Harry nuclear test at Nevada.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:30:04.003563+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Jpf0ZGY87c0",
+          "timestamp_start": 51,
+          "quote": "It looked like two deep saucers fused together, buried 20 inches in the sand. Roughly 30 ft in diameter, brushed metal material. No landing gear, no visible damage, small open hatch. Inside a nearby tent, a number of 4ft tall humanoid figures laid out on a table."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Stansel's 1953 Kingman Arizona crash witness account: 30ft 'two deep saucers fused' craft buried 20in in sand; no landing gear, no damage, small hatch; number of 4ft humanoid figures laid out on a nearby tent table. Two days after the Harry nuclear test at Nevada.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "Jpf0ZGY87c0",
+        "timestamp_start_seconds": 51,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-arthur-stansel",
+          "incident-1953-kingman-arizona-crash"
+        ]
+      }
+    },
+    {
+      "id": "claim-Jpf0ZGY87c0-mellon-kingman-corroboration",
+      "node_type": "claim",
+      "label": "Former intelligence official Chris Mellon has publicly revealed that this same Kingman flying saucer",
+      "summary": "Former intelligence official Chris Mellon has publicly revealed that this same Kingman flying saucer had been 'recovered and studied over the decades since its retrieval' — corroborating Stansel's 1953 account.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:30:04.003572+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Jpf0ZGY87c0",
+          "timestamp_start": 57,
+          "quote": "Former intelligence official Chris Mellon revealed that this flying saucer had been recovered and studied over the decades since its retrieval."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Former intelligence official Chris Mellon has publicly revealed that this same Kingman flying saucer had been 'recovered and studied over the decades since its retrieval' — corroborating Stansel's 1953 account.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "Jpf0ZGY87c0",
+        "timestamp_start_seconds": 57,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-arthur-stansel",
+          "incident-1953-kingman-arizona-crash",
+          "person-chris-mellon"
+        ]
+      }
+    },
+    {
+      "id": "claim-Jpf0ZGY87c0-wang-schauberger-vienna-contemporary",
+      "node_type": "claim",
+      "label": "Dr. Eric Wang was born 1906 Vienna and graduated from Vienna Technical Institute — a contemporary of",
+      "summary": "Dr. Eric Wang was born 1906 Vienna and graduated from Vienna Technical Institute — a contemporary of Victor Schauberger, the Austrian inventor rumored to have developed revolutionary propulsion/flying-saucer concepts for the Nazis.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:30:04.003581+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Jpf0ZGY87c0",
+          "timestamp_start": 65,
+          "quote": "Dr. Eric H. Wang, born in 1906, had originally come from Vienna. He had graduated from Vienna Technical Institute. And there are suggestions that he was a contemporary of Victor Schauberger, the man rumored to have developed a revolutionary propulsion system, perhaps even conceptual flying saucers for the Nazis."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Dr. Eric Wang was born 1906 Vienna and graduated from Vienna Technical Institute — a contemporary of Victor Schauberger, the Austrian inventor rumored to have developed revolutionary propulsion/flying-saucer concepts for the Nazis.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "Jpf0ZGY87c0",
+        "timestamp_start_seconds": 65,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-eric-wang",
+          "person-victor-schauberger"
+        ]
+      }
+    },
+    {
+      "id": "claim-Jpf0ZGY87c0-wang-1956-relocated-kirtland-sandia",
+      "node_type": "claim",
+      "label": "In 1956 Dr. Wang's Department of Special Studies at Wright-Patterson was relocated to New Mexico — t",
+      "summary": "In 1956 Dr. Wang's Department of Special Studies at Wright-Patterson was relocated to New Mexico — to the Sandia Laboratory complex at Kirtland AFB.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:30:04.003590+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Jpf0ZGY87c0",
+          "timestamp_start": 67,
+          "quote": "In 1956, Wang's department was relocated to New Mexico to the Sandia Laboratory's complex at Kirtland Air Force Base."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "In 1956 Dr. Wang's Department of Special Studies at Wright-Patterson was relocated to New Mexico — to the Sandia Laboratory complex at Kirtland AFB.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "Jpf0ZGY87c0",
+        "timestamp_start_seconds": 67,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-eric-wang",
+          "location-sandia-national-lab",
+          "location-wright-patterson-afb"
+        ]
+      }
     }
   ],
   "edges": [
@@ -2173,8 +2540,363 @@
           "timestamp_start": 0
         }
       ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-Jpf0ZGY87c0-wang-reported-to-kissinger",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-Jpf0ZGY87c0-wang-reported-to-kissinger",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Jpf0ZGY87c0",
+          "timestamp_start": 69,
+          "quote": "Maria Wang's claim to researcher William Steinman: her late husband Dr. Eric Wang reported directly to Henry Kissinger on classified extraterrestrial-technology projects at Wright-Patterson. Kissinger"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-Jpf0ZGY87c0-REFERENCES-claim-Jpf0ZGY87c0-wang-reported-to-kissinger",
+      "from_node_id": "video-Jpf0ZGY87c0",
+      "to_node_id": "claim-Jpf0ZGY87c0-wang-reported-to-kissinger",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Jpf0ZGY87c0",
+          "timestamp_start": 69
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-Jpf0ZGY87c0-wang-reported-to-kissinger-REFERENCES-person-eric-wang",
+      "from_node_id": "claim-Jpf0ZGY87c0-wang-reported-to-kissinger",
+      "to_node_id": "person-eric-wang",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Jpf0ZGY87c0",
+          "timestamp_start": 69
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-Jpf0ZGY87c0-wang-reported-to-kissinger-REFERENCES-person-maria-wang",
+      "from_node_id": "claim-Jpf0ZGY87c0-wang-reported-to-kissinger",
+      "to_node_id": "person-maria-wang",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Jpf0ZGY87c0",
+          "timestamp_start": 69
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-Jpf0ZGY87c0-wang-reported-to-kissinger-REFERENCES-person-henry-kissinger",
+      "from_node_id": "claim-Jpf0ZGY87c0-wang-reported-to-kissinger",
+      "to_node_id": "person-henry-kissinger",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Jpf0ZGY87c0",
+          "timestamp_start": 69
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-Jpf0ZGY87c0-wang-reported-to-kissinger-REFERENCES-person-william-steinman",
+      "from_node_id": "claim-Jpf0ZGY87c0-wang-reported-to-kissinger",
+      "to_node_id": "person-william-steinman",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Jpf0ZGY87c0",
+          "timestamp_start": 69
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-Jpf0ZGY87c0-wang-reported-to-kissinger-REFERENCES-location-wright-patterson-afb",
+      "from_node_id": "claim-Jpf0ZGY87c0-wang-reported-to-kissinger",
+      "to_node_id": "location-wright-patterson-afb",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Jpf0ZGY87c0",
+          "timestamp_start": 69
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-Jpf0ZGY87c0-stansel-kingman-1953-saucer-bodies",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-Jpf0ZGY87c0-stansel-kingman-1953-saucer-bodies",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Jpf0ZGY87c0",
+          "timestamp_start": 51,
+          "quote": "Stansel's 1953 Kingman Arizona crash witness account: 30ft 'two deep saucers fused' craft buried 20in in sand; no landing gear, no damage, small hatch; number of 4ft humanoid figures laid out on a nea"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-Jpf0ZGY87c0-REFERENCES-claim-Jpf0ZGY87c0-stansel-kingman-1953-saucer-bodies",
+      "from_node_id": "video-Jpf0ZGY87c0",
+      "to_node_id": "claim-Jpf0ZGY87c0-stansel-kingman-1953-saucer-bodies",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Jpf0ZGY87c0",
+          "timestamp_start": 51
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-Jpf0ZGY87c0-stansel-kingman-1953-saucer-bodies-REFERENCES-person-arthur-stansel",
+      "from_node_id": "claim-Jpf0ZGY87c0-stansel-kingman-1953-saucer-bodies",
+      "to_node_id": "person-arthur-stansel",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Jpf0ZGY87c0",
+          "timestamp_start": 51
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-Jpf0ZGY87c0-stansel-kingman-1953-saucer-bodies-REFERENCES-incident-1953-kingman-arizona-crash",
+      "from_node_id": "claim-Jpf0ZGY87c0-stansel-kingman-1953-saucer-bodies",
+      "to_node_id": "incident-1953-kingman-arizona-crash",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Jpf0ZGY87c0",
+          "timestamp_start": 51
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-Jpf0ZGY87c0-mellon-kingman-corroboration",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-Jpf0ZGY87c0-mellon-kingman-corroboration",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Jpf0ZGY87c0",
+          "timestamp_start": 57,
+          "quote": "Former intelligence official Chris Mellon has publicly revealed that this same Kingman flying saucer had been 'recovered and studied over the decades since its retrieval' — corroborating Stansel's 195"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-Jpf0ZGY87c0-REFERENCES-claim-Jpf0ZGY87c0-mellon-kingman-corroboration",
+      "from_node_id": "video-Jpf0ZGY87c0",
+      "to_node_id": "claim-Jpf0ZGY87c0-mellon-kingman-corroboration",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Jpf0ZGY87c0",
+          "timestamp_start": 57
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-Jpf0ZGY87c0-mellon-kingman-corroboration-REFERENCES-person-arthur-stansel",
+      "from_node_id": "claim-Jpf0ZGY87c0-mellon-kingman-corroboration",
+      "to_node_id": "person-arthur-stansel",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Jpf0ZGY87c0",
+          "timestamp_start": 57
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-Jpf0ZGY87c0-mellon-kingman-corroboration-REFERENCES-incident-1953-kingman-arizona-crash",
+      "from_node_id": "claim-Jpf0ZGY87c0-mellon-kingman-corroboration",
+      "to_node_id": "incident-1953-kingman-arizona-crash",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Jpf0ZGY87c0",
+          "timestamp_start": 57
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-Jpf0ZGY87c0-mellon-kingman-corroboration-REFERENCES-person-chris-mellon",
+      "from_node_id": "claim-Jpf0ZGY87c0-mellon-kingman-corroboration",
+      "to_node_id": "person-chris-mellon",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Jpf0ZGY87c0",
+          "timestamp_start": 57
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-Jpf0ZGY87c0-wang-schauberger-vienna-contemporary",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-Jpf0ZGY87c0-wang-schauberger-vienna-contemporary",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Jpf0ZGY87c0",
+          "timestamp_start": 65,
+          "quote": "Dr. Eric Wang was born 1906 Vienna and graduated from Vienna Technical Institute — a contemporary of Victor Schauberger, the Austrian inventor rumored to have developed revolutionary propulsion/flying"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-Jpf0ZGY87c0-REFERENCES-claim-Jpf0ZGY87c0-wang-schauberger-vienna-contemporary",
+      "from_node_id": "video-Jpf0ZGY87c0",
+      "to_node_id": "claim-Jpf0ZGY87c0-wang-schauberger-vienna-contemporary",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Jpf0ZGY87c0",
+          "timestamp_start": 65
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-Jpf0ZGY87c0-wang-schauberger-vienna-contemporary-REFERENCES-person-eric-wang",
+      "from_node_id": "claim-Jpf0ZGY87c0-wang-schauberger-vienna-contemporary",
+      "to_node_id": "person-eric-wang",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Jpf0ZGY87c0",
+          "timestamp_start": 65
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-Jpf0ZGY87c0-wang-schauberger-vienna-contemporary-REFERENCES-person-victor-schauberger",
+      "from_node_id": "claim-Jpf0ZGY87c0-wang-schauberger-vienna-contemporary",
+      "to_node_id": "person-victor-schauberger",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Jpf0ZGY87c0",
+          "timestamp_start": 65
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-Jpf0ZGY87c0-wang-1956-relocated-kirtland-sandia",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-Jpf0ZGY87c0-wang-1956-relocated-kirtland-sandia",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Jpf0ZGY87c0",
+          "timestamp_start": 67,
+          "quote": "In 1956 Dr. Wang's Department of Special Studies at Wright-Patterson was relocated to New Mexico — to the Sandia Laboratory complex at Kirtland AFB."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-Jpf0ZGY87c0-REFERENCES-claim-Jpf0ZGY87c0-wang-1956-relocated-kirtland-sandia",
+      "from_node_id": "video-Jpf0ZGY87c0",
+      "to_node_id": "claim-Jpf0ZGY87c0-wang-1956-relocated-kirtland-sandia",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Jpf0ZGY87c0",
+          "timestamp_start": 67
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-Jpf0ZGY87c0-wang-1956-relocated-kirtland-sandia-REFERENCES-person-eric-wang",
+      "from_node_id": "claim-Jpf0ZGY87c0-wang-1956-relocated-kirtland-sandia",
+      "to_node_id": "person-eric-wang",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Jpf0ZGY87c0",
+          "timestamp_start": 67
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-Jpf0ZGY87c0-wang-1956-relocated-kirtland-sandia-REFERENCES-location-sandia-national-lab",
+      "from_node_id": "claim-Jpf0ZGY87c0-wang-1956-relocated-kirtland-sandia",
+      "to_node_id": "location-sandia-national-lab",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Jpf0ZGY87c0",
+          "timestamp_start": 67
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-Jpf0ZGY87c0-wang-1956-relocated-kirtland-sandia-REFERENCES-location-wright-patterson-afb",
+      "from_node_id": "claim-Jpf0ZGY87c0-wang-1956-relocated-kirtland-sandia",
+      "to_node_id": "location-wright-patterson-afb",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "Jpf0ZGY87c0",
+          "timestamp_start": 67
+        }
+      ]
     }
   ],
-  "extracted_at": "2026-04-17T11:04:58.325301+00:00",
+  "extracted_at": "2026-04-17T13:30:04.003598+00:00",
   "extractor_version": "v1-inline-claude"
 }

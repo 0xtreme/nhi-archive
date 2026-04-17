@@ -1122,6 +1122,343 @@
           "video-UrHLTFvdEZk"
         ]
       }
+    },
+    {
+      "id": "person-colin-ross",
+      "node_type": "person",
+      "label": "Dr. Colin Ross",
+      "summary": "Canadian psychiatrist; moved to US. Author of 'The CIA Doctors' — investigates psychiatrists who were employed by CIA for MK-Ultra-style mind-control experiments creating dissociated personalities, Manchurian candidates, couriers, and spies.",
+      "tags": [
+        "psychiatrist",
+        "investigator"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.111895+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "UrHLTFvdEZk",
+          "timestamp_start": 498,
+          "quote": "Canadian psychiatrist; author of 'The CIA Doctors'"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Ross"
+        ],
+        "profession": "psychiatrist",
+        "notability_tags": [
+          "psychiatrist",
+          "investigator"
+        ]
+      }
+    },
+    {
+      "id": "person-lee-harvey-oswald-mk-ultra",
+      "node_type": "person",
+      "label": "Lee Harvey Oswald (MK-Ultra subject)",
+      "summary": "Alleged sole JFK assassin; per Colin Ross's investigation, was likely an MK-Ultra subject — consistent with repeated memory lapses under interrogation.",
+      "tags": [
+        "historical",
+        "alleged-MK-subject"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.111898+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "UrHLTFvdEZk",
+          "timestamp_start": 490,
+          "quote": "Per Ross: JFK assassin was likely an MK-Ultra subject"
+        }
+      ],
+      "type_specific": {
+        "aliases": [],
+        "profession": "alleged assassin",
+        "notability_tags": [
+          "historical",
+          "alleged-MK-subject"
+        ]
+      }
+    },
+    {
+      "id": "person-charles-manson-mk",
+      "node_type": "person",
+      "label": "Charles Manson (MK subject)",
+      "summary": "American cult leader; per Colin Ross's investigation, was an MK-Ultra subject — explaining the mind-control hallmarks of his followers' horrific acts.",
+      "tags": [
+        "historical",
+        "alleged-MK-subject"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.111900+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "UrHLTFvdEZk",
+          "timestamp_start": 492,
+          "quote": "Per Ross's investigation: Manson was an MK-Ultra subject"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Manson"
+        ],
+        "profession": "cult leader",
+        "notability_tags": [
+          "historical",
+          "alleged-MK-subject"
+        ]
+      }
+    },
+    {
+      "id": "program-mk-ultra",
+      "node_type": "program",
+      "label": "Project MK-Ultra",
+      "summary": "CIA Project MK-Ultra (1953-1973) — 149 subprojects using ~120 different drugs for mind control, electric shock, dissociative-identity-disorder creation, Manchurian Candidate development. Paper trail 'goes dark in 1975 with reform.'",
+      "tags": [
+        "program"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.111907+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "UrHLTFvdEZk",
+          "timestamp_start": 488,
+          "timestamp_end": "CIA mind-control program 1953-1973 using ~120 drugs + electric shock"
+        }
+      ],
+      "type_specific": {
+        "acronym": "MK-Ultra"
+      }
+    },
+    {
+      "id": "program-tuskegee-syphilis-study",
+      "node_type": "program",
+      "label": "Tuskegee Syphilis Study (1932+)",
+      "summary": "US Public Health Service experiment started 1932 — 'side effects of syphilis in the male' in Tuskegee context; 'all these top medical people were off on it.' Used as precedent for MK-Ultra ethical collapse.",
+      "tags": [
+        "program"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.111909+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "UrHLTFvdEZk",
+          "timestamp_start": 516,
+          "timestamp_end": "Unethical US Public Health Service syphilis experiment on Black men"
+        }
+      ]
+    },
+    {
+      "id": "document-cia-doctors-ross",
+      "node_type": "document",
+      "label": "The CIA Doctors",
+      "summary": "Dr. Colin Ross's book documenting the psychiatrists who worked for CIA on MK-Ultra and related mind-control programs.",
+      "tags": [
+        "book"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.111911+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "UrHLTFvdEZk",
+          "timestamp_start": 499,
+          "timestamp_end": "Colin Ross's documentation of CIA-psychiatrist collaboration"
+        }
+      ],
+      "type_specific": {
+        "document_type": "book",
+        "author": "Colin Ross"
+      }
+    },
+    {
+      "id": "claim-UrHLTFvdEZk-ross-120-drugs-mk-ultra",
+      "node_type": "claim",
+      "label": "Per Dr. Colin Ross's documentation: MK-Ultra used approximately 120 different drugs across 149 subpr",
+      "summary": "Per Dr. Colin Ross's documentation: MK-Ultra used approximately 120 different drugs across 149 subprojects for mind control, plus electric shock, creating the super spy / Manchurian Candidate framework.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.140800+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "UrHLTFvdEZk",
+          "timestamp_start": 488,
+          "quote": "Project MK Ultra and other kind of variations of that. This 120-ish different drugs that had been used for mind control. And multiple personalities, couriers and spies. They used whoever they could get their hands on."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Per Dr. Colin Ross's documentation: MK-Ultra used approximately 120 different drugs across 149 subprojects for mind control, plus electric shock, creating the super spy / Manchurian Candidate framework.",
+        "asserted_by_id": "person-colin-ross",
+        "source_video_id": "UrHLTFvdEZk",
+        "timestamp_start_seconds": 488,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-colin-ross",
+          "program-mk-ultra",
+          "document-cia-doctors-ross"
+        ]
+      }
+    },
+    {
+      "id": "claim-UrHLTFvdEZk-ross-oswald-mk-subject",
+      "node_type": "claim",
+      "label": "Per Ross: Lee Harvey Oswald was likely an MK-Ultra subject — consistent with his on-record memory la",
+      "summary": "Per Ross: Lee Harvey Oswald was likely an MK-Ultra subject — consistent with his on-record memory lapses ('doesn't remember shooting') during interrogation.",
+      "tags": [
+        "speculation",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.140813+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "UrHLTFvdEZk",
+          "timestamp_start": 490,
+          "quote": "This guy is connected — Lee Harvey Oswald, who's the supposed lone gunman assassinating JFK. Jack Ruby killed Lee Harvey before having shot Lee Harvey Oswald. He doesn't to this day says that he has no recollection of shooting. Who's an MK Ultra patient."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Per Ross: Lee Harvey Oswald was likely an MK-Ultra subject — consistent with his on-record memory lapses ('doesn't remember shooting') during interrogation.",
+        "asserted_by_id": "person-colin-ross",
+        "source_video_id": "UrHLTFvdEZk",
+        "timestamp_start_seconds": 490,
+        "assertability": "speculation",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-colin-ross",
+          "person-lee-harvey-oswald-mk-ultra",
+          "program-mk-ultra"
+        ]
+      }
+    },
+    {
+      "id": "claim-UrHLTFvdEZk-ross-secure-facility-tour",
+      "node_type": "claim",
+      "label": "Ross recounts being escorted inside a classified Northern Virginia government facility by a DIA cont",
+      "summary": "Ross recounts being escorted inside a classified Northern Virginia government facility by a DIA contact; shown documents for all 149 MK-Ultra projects. Cab driver from Afghanistan unknowingly provided cover.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.140821+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "UrHLTFvdEZk",
+          "timestamp_start": 507,
+          "quote": "I was down in Northern Virginia for a conference on MK Ultra. It turns out the taxi driver is from Afghanistan. The guy gives me a piece of paper. Walk over here through another door. Bunch of guys in uniform. The woman comes down, keys in a code. Another door, secure line DIA only. I got to read documents. A cart with all the 149 MK Ultra projects."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Ross recounts being escorted inside a classified Northern Virginia government facility by a DIA contact; shown documents for all 149 MK-Ultra projects. Cab driver from Afghanistan unknowingly provided cover.",
+        "asserted_by_id": "person-colin-ross",
+        "source_video_id": "UrHLTFvdEZk",
+        "timestamp_start_seconds": 507,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-colin-ross",
+          "program-mk-ultra"
+        ]
+      }
+    },
+    {
+      "id": "claim-UrHLTFvdEZk-tuskegee-1932-prologue-mk",
+      "node_type": "claim",
+      "label": "Tuskegee syphilis study (started 1932) provided ethical-collapse precedent for MK-Ultra — 'all these",
+      "summary": "Tuskegee syphilis study (started 1932) provided ethical-collapse precedent for MK-Ultra — 'all these top medical people were off on it.' Demonstrates institutional willingness for large-scale unethical research.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.140828+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "UrHLTFvdEZk",
+          "timestamp_start": 516,
+          "quote": "Tuskegee, 1932, the public health service was off on it. All these top medical people were off on it. It's called side effects of syphilis in the male context on just high level."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Tuskegee syphilis study (started 1932) provided ethical-collapse precedent for MK-Ultra — 'all these top medical people were off on it.' Demonstrates institutional willingness for large-scale unethical research.",
+        "asserted_by_id": "person-colin-ross",
+        "source_video_id": "UrHLTFvdEZk",
+        "timestamp_start_seconds": 516,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-colin-ross",
+          "program-tuskegee-syphilis-study",
+          "program-mk-ultra"
+        ]
+      }
+    },
+    {
+      "id": "claim-UrHLTFvdEZk-ross-mk-ultra-trail-dark-1975-reform",
+      "node_type": "claim",
+      "label": "Ross notes the MK-Ultra paper trail 'goes dark in 1975 with reform' — public-facing paper trail ends",
+      "summary": "Ross notes the MK-Ultra paper trail 'goes dark in 1975 with reform' — public-facing paper trail ends, but operational successor programs continue.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.140836+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "UrHLTFvdEZk",
+          "timestamp_start": 514,
+          "quote": "The trail goes dark in 1975 with reform. Let's go back to the very beginning."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Ross notes the MK-Ultra paper trail 'goes dark in 1975 with reform' — public-facing paper trail ends, but operational successor programs continue.",
+        "asserted_by_id": "person-colin-ross",
+        "source_video_id": "UrHLTFvdEZk",
+        "timestamp_start_seconds": 514,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-colin-ross",
+          "program-mk-ultra"
+        ]
+      }
     }
   ],
   "edges": [
@@ -1726,8 +2063,265 @@
           "timestamp_start": 0
         }
       ]
+    },
+    {
+      "id": "edge-person-colin-ross-ASSERTED-claim-UrHLTFvdEZk-ross-120-drugs-mk-ultra",
+      "from_node_id": "person-colin-ross",
+      "to_node_id": "claim-UrHLTFvdEZk-ross-120-drugs-mk-ultra",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "UrHLTFvdEZk",
+          "timestamp_start": 488,
+          "quote": "Per Dr. Colin Ross's documentation: MK-Ultra used approximately 120 different drugs across 149 subprojects for mind control, plus electric shock, creating the super spy / Manchurian Candidate framewor"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-UrHLTFvdEZk-REFERENCES-claim-UrHLTFvdEZk-ross-120-drugs-mk-ultra",
+      "from_node_id": "video-UrHLTFvdEZk",
+      "to_node_id": "claim-UrHLTFvdEZk-ross-120-drugs-mk-ultra",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "UrHLTFvdEZk",
+          "timestamp_start": 488
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-UrHLTFvdEZk-ross-120-drugs-mk-ultra-REFERENCES-program-mk-ultra",
+      "from_node_id": "claim-UrHLTFvdEZk-ross-120-drugs-mk-ultra",
+      "to_node_id": "program-mk-ultra",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "UrHLTFvdEZk",
+          "timestamp_start": 488
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-UrHLTFvdEZk-ross-120-drugs-mk-ultra-REFERENCES-document-cia-doctors-ross",
+      "from_node_id": "claim-UrHLTFvdEZk-ross-120-drugs-mk-ultra",
+      "to_node_id": "document-cia-doctors-ross",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "UrHLTFvdEZk",
+          "timestamp_start": 488
+        }
+      ]
+    },
+    {
+      "id": "edge-person-colin-ross-ASSERTED-claim-UrHLTFvdEZk-ross-oswald-mk-subject",
+      "from_node_id": "person-colin-ross",
+      "to_node_id": "claim-UrHLTFvdEZk-ross-oswald-mk-subject",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "UrHLTFvdEZk",
+          "timestamp_start": 490,
+          "quote": "Per Ross: Lee Harvey Oswald was likely an MK-Ultra subject — consistent with his on-record memory lapses ('doesn't remember shooting') during interrogation."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-UrHLTFvdEZk-REFERENCES-claim-UrHLTFvdEZk-ross-oswald-mk-subject",
+      "from_node_id": "video-UrHLTFvdEZk",
+      "to_node_id": "claim-UrHLTFvdEZk-ross-oswald-mk-subject",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "UrHLTFvdEZk",
+          "timestamp_start": 490
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-UrHLTFvdEZk-ross-oswald-mk-subject-REFERENCES-person-lee-harvey-oswald-mk-ultra",
+      "from_node_id": "claim-UrHLTFvdEZk-ross-oswald-mk-subject",
+      "to_node_id": "person-lee-harvey-oswald-mk-ultra",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "UrHLTFvdEZk",
+          "timestamp_start": 490
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-UrHLTFvdEZk-ross-oswald-mk-subject-REFERENCES-program-mk-ultra",
+      "from_node_id": "claim-UrHLTFvdEZk-ross-oswald-mk-subject",
+      "to_node_id": "program-mk-ultra",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "UrHLTFvdEZk",
+          "timestamp_start": 490
+        }
+      ]
+    },
+    {
+      "id": "edge-person-colin-ross-ASSERTED-claim-UrHLTFvdEZk-ross-secure-facility-tour",
+      "from_node_id": "person-colin-ross",
+      "to_node_id": "claim-UrHLTFvdEZk-ross-secure-facility-tour",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "UrHLTFvdEZk",
+          "timestamp_start": 507,
+          "quote": "Ross recounts being escorted inside a classified Northern Virginia government facility by a DIA contact; shown documents for all 149 MK-Ultra projects. Cab driver from Afghanistan unknowingly provided"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-UrHLTFvdEZk-REFERENCES-claim-UrHLTFvdEZk-ross-secure-facility-tour",
+      "from_node_id": "video-UrHLTFvdEZk",
+      "to_node_id": "claim-UrHLTFvdEZk-ross-secure-facility-tour",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "UrHLTFvdEZk",
+          "timestamp_start": 507
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-UrHLTFvdEZk-ross-secure-facility-tour-REFERENCES-program-mk-ultra",
+      "from_node_id": "claim-UrHLTFvdEZk-ross-secure-facility-tour",
+      "to_node_id": "program-mk-ultra",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "UrHLTFvdEZk",
+          "timestamp_start": 507
+        }
+      ]
+    },
+    {
+      "id": "edge-person-colin-ross-ASSERTED-claim-UrHLTFvdEZk-tuskegee-1932-prologue-mk",
+      "from_node_id": "person-colin-ross",
+      "to_node_id": "claim-UrHLTFvdEZk-tuskegee-1932-prologue-mk",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "UrHLTFvdEZk",
+          "timestamp_start": 516,
+          "quote": "Tuskegee syphilis study (started 1932) provided ethical-collapse precedent for MK-Ultra — 'all these top medical people were off on it.' Demonstrates institutional willingness for large-scale unethica"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-UrHLTFvdEZk-REFERENCES-claim-UrHLTFvdEZk-tuskegee-1932-prologue-mk",
+      "from_node_id": "video-UrHLTFvdEZk",
+      "to_node_id": "claim-UrHLTFvdEZk-tuskegee-1932-prologue-mk",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "UrHLTFvdEZk",
+          "timestamp_start": 516
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-UrHLTFvdEZk-tuskegee-1932-prologue-mk-REFERENCES-program-tuskegee-syphilis-study",
+      "from_node_id": "claim-UrHLTFvdEZk-tuskegee-1932-prologue-mk",
+      "to_node_id": "program-tuskegee-syphilis-study",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "UrHLTFvdEZk",
+          "timestamp_start": 516
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-UrHLTFvdEZk-tuskegee-1932-prologue-mk-REFERENCES-program-mk-ultra",
+      "from_node_id": "claim-UrHLTFvdEZk-tuskegee-1932-prologue-mk",
+      "to_node_id": "program-mk-ultra",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "UrHLTFvdEZk",
+          "timestamp_start": 516
+        }
+      ]
+    },
+    {
+      "id": "edge-person-colin-ross-ASSERTED-claim-UrHLTFvdEZk-ross-mk-ultra-trail-dark-1975-reform",
+      "from_node_id": "person-colin-ross",
+      "to_node_id": "claim-UrHLTFvdEZk-ross-mk-ultra-trail-dark-1975-reform",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "UrHLTFvdEZk",
+          "timestamp_start": 514,
+          "quote": "Ross notes the MK-Ultra paper trail 'goes dark in 1975 with reform' — public-facing paper trail ends, but operational successor programs continue."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-UrHLTFvdEZk-REFERENCES-claim-UrHLTFvdEZk-ross-mk-ultra-trail-dark-1975-reform",
+      "from_node_id": "video-UrHLTFvdEZk",
+      "to_node_id": "claim-UrHLTFvdEZk-ross-mk-ultra-trail-dark-1975-reform",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "UrHLTFvdEZk",
+          "timestamp_start": 514
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-UrHLTFvdEZk-ross-mk-ultra-trail-dark-1975-reform-REFERENCES-program-mk-ultra",
+      "from_node_id": "claim-UrHLTFvdEZk-ross-mk-ultra-trail-dark-1975-reform",
+      "to_node_id": "program-mk-ultra",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "UrHLTFvdEZk",
+          "timestamp_start": 514
+        }
+      ]
     }
   ],
-  "extracted_at": "2026-04-17T11:05:08.336350+00:00",
+  "extracted_at": "2026-04-17T23:20:40.140843+00:00",
   "extractor_version": "v1-inline-claude"
 }
