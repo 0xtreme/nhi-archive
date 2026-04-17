@@ -1,0 +1,3311 @@
+{
+  "video_id": "GQlWf54K_7Y",
+  "nodes": [
+    {
+      "id": "video-GQlWf54K_7Y",
+      "node_type": "video",
+      "label": "The Defense Secretary Killed Over UFOs (Ft. Richard Dolan)",
+      "summary": "This episode dives deep into one of the most unsettling and enigmatic figures in American history, James Forrestal, the first U.S. Secretary of Defense, whose descent into paranoia and suspicious...",
+      "tags": [
+        "video",
+        "american-alchemy"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:49.110075+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "timestamp_end": 8429.0,
+          "quote": "Video: The Defense Secretary Killed Over UFOs (Ft. Richard Dolan)"
+        }
+      ],
+      "type_specific": {
+        "video_id": "GQlWf54K_7Y",
+        "title": "The Defense Secretary Killed Over UFOs (Ft. Richard Dolan)",
+        "url": "https://www.youtube.com/watch?v=GQlWf54K_7Y",
+        "view_count": 341671,
+        "duration_seconds": 8429.0,
+        "host_id": "person-jesse-michels",
+        "guest_ids": [
+          "person-richard-dolan"
+        ]
+      }
+    },
+    {
+      "id": "person-jesse-michels",
+      "node_type": "person",
+      "label": "Jesse Michels",
+      "summary": "Host of American Alchemy podcast/show. Independent journalist and UFO/NHI researcher.",
+      "tags": [
+        "journalist",
+        "interviewer",
+        "researcher",
+        "host"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:49.110086+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": "Host of American Alchemy podcast/show."
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Jesse",
+          "Michels"
+        ],
+        "profession": "journalist",
+        "notability_tags": [
+          "journalist",
+          "interviewer",
+          "researcher",
+          "host"
+        ]
+      }
+    },
+    {
+      "id": "person-stanton-friedman",
+      "node_type": "person",
+      "label": "Stanton Friedman",
+      "summary": "",
+      "tags": [
+        "researcher",
+        "nuclear physicist"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:49.834875+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": "nk about it. But it was absolutely off the limits. And when Stanton Friedman and Stringfield and others started looking at these crash r"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Friedman"
+        ],
+        "notability_tags": [
+          "researcher",
+          "nuclear physicist"
+        ]
+      }
+    },
+    {
+      "id": "person-robert-hastings",
+      "node_type": "person",
+      "label": "Robert Hastings",
+      "summary": "",
+      "tags": [
+        "researcher",
+        "author",
+        "UFOs and Nukes"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:49.834892+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": "w,  legit strong researchers who do think it's it's a hoax. Robert Hastings, who you mentioned, very strong, very strong, and he and I "
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Hastings"
+        ],
+        "notability_tags": [
+          "researcher",
+          "author",
+          "UFOs and Nukes"
+        ]
+      }
+    },
+    {
+      "id": "person-john-f-kennedy",
+      "node_type": "person",
+      "label": "John F. Kennedy",
+      "summary": "",
+      "tags": [
+        "president",
+        "historical"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:49.834897+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": " Truman administration that I was studying or Eisenhower or Kennedy? like there had to be this whole subterranean reality that "
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "JFK",
+          "Kennedy"
+        ],
+        "notability_tags": [
+          "president",
+          "historical"
+        ]
+      }
+    },
+    {
+      "id": "person-kenneth-arnold",
+      "node_type": "person",
+      "label": "Kenneth Arnold",
+      "summary": "Kenneth Arnold entity extracted from cross-source archival records.",
+      "tags": [
+        "pipeline-generated",
+        "entity-extracted"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:49.834903+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": "t he goes through like the really the UK history and  named Arnold Toinby. Some of you know of him. He writes meta histories o"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Arnold",
+          "KENNETH ARNOLD",
+          "kenneth arnold"
+        ],
+        "notability_tags": [
+          "pipeline-generated",
+          "entity-extracted"
+        ]
+      }
+    },
+    {
+      "id": "person-james-mcdonald",
+      "node_type": "person",
+      "label": "James McDonald",
+      "summary": "",
+      "tags": [
+        "physicist",
+        "researcher"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:49.834907+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": "he and he spoke with a number of researchers, including Dr. James McDonald, who's kind of a legend himself. Anyway, Crawford said, \"Ye"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Dr. McDonald",
+          "McDonald"
+        ],
+        "notability_tags": [
+          "physicist",
+          "researcher"
+        ]
+      }
+    },
+    {
+      "id": "person-e-howard-hunt",
+      "node_type": "person",
+      "label": "E. Howard Hunt",
+      "summary": "",
+      "tags": [
+        "CIA",
+        "Watergate"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:49.834911+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": "ing to the legend, you know, Cook, I think, wrote about the hunt for zero point. That's a really good book. Yeah. Amazing bo"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Howard Hunt",
+          "Hunt"
+        ],
+        "notability_tags": [
+          "CIA",
+          "Watergate"
+        ]
+      }
+    },
+    {
+      "id": "person-richard-dolan",
+      "node_type": "person",
+      "label": "Richard Dolan",
+      "summary": "",
+      "tags": [
+        "historian",
+        "author"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:49.834915+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": "# The Defense Secretary Killed Over UFOs (Ft. Richard Dolan) https://www.youtube.com/watch?v=GQlWf54K_7Y views: 341,671"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Dolan"
+        ],
+        "notability_tags": [
+          "historian",
+          "author"
+        ]
+      }
+    },
+    {
+      "id": "person-stephen-greer",
+      "node_type": "person",
+      "label": "Stephen Greer",
+      "summary": "",
+      "tags": [
+        "researcher",
+        "disclosure"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:49.834921+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": "t the time, and his wife were the people who invited Steven Greer to a dinner in the early 90s in which Greer has many times "
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Dr. Greer",
+          "Greer"
+        ],
+        "notability_tags": [
+          "researcher",
+          "disclosure"
+        ]
+      }
+    },
+    {
+      "id": "person-donald-menzel",
+      "node_type": "person",
+      "label": "Donald Menzel",
+      "summary": "",
+      "tags": [
+        "astronomer",
+        "skeptic"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:49.834925+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": "nd temperature inversions and I was like oh my god like Don Menzel was saying the same thing in the 50s and it was probably wo"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Menzel"
+        ],
+        "notability_tags": [
+          "astronomer",
+          "skeptic"
+        ]
+      }
+    },
+    {
+      "id": "person-bill-clinton",
+      "node_type": "person",
+      "label": "Bill Clinton",
+      "summary": "Bill Clinton entity extracted from cross-source archival records.",
+      "tags": [
+        "pipeline-generated",
+        "entity-extracted"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:49.834929+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": " say was no skin off their  nose. This was really indicting Clinton years. He said, \"Yeah, we've looked at the Pentagon records"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "BILL CLINTON",
+          "Clinton",
+          "bill clinton"
+        ],
+        "notability_tags": [
+          "pipeline-generated",
+          "entity-extracted"
+        ]
+      }
+    },
+    {
+      "id": "person-james-harder",
+      "node_type": "person",
+      "label": "James Harder",
+      "summary": "James Albert Harder, Ph.D., (December 2, 1926 – December 30, 2006) was a professor of civil and hydraulic engineering at the University of California, Berkeley. He was a professor emeritus there. Harder also had interest in ufology.",
+      "tags": [
+        "wikipedia",
+        "california institute of technology alumni",
+        "people from fullerton, california",
+        "uc berkeley college of engineering faculty",
+        "ufologists",
+        "university of california, berkeley alumni"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:49.834933+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": "ecause Roswell made the newspaper at the time and so it was harder like they buried it right away. But it but there were alway"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Harder",
+          "JAMES HARDER",
+          "james harder"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "california institute of technology alumni",
+          "people from fullerton, california",
+          "uc berkeley college of engineering faculty",
+          "ufologists",
+          "university of california, berkeley alumni"
+        ]
+      }
+    },
+    {
+      "id": "person-jimmy-carter",
+      "node_type": "person",
+      "label": "Jimmy Carter",
+      "summary": "Jimmy Carter entity extracted from cross-source archival records.",
+      "tags": [
+        "pipeline-generated",
+        "entity-extracted"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:49.834937+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": "again. You know, the first director of the CIA, Rosco Helen Carter, was into UFOs big time. Why does no one Why did none of th"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Carter",
+          "JIMMY CARTER",
+          "jimmy carter"
+        ],
+        "notability_tags": [
+          "pipeline-generated",
+          "entity-extracted"
+        ]
+      }
+    },
+    {
+      "id": "person-love-has-won",
+      "node_type": "person",
+      "label": "Love Has Won",
+      "summary": "Love Has Won (LHW), also known as the Galactic Federation of Light, is an American new religious movement that was led by Amy Carlson until her death in 2021. Carlson was referred to within the group as \"Mother God\", who described herself as, among other things, the creator of the universe, with the",
+      "tags": [
+        "wikipedia",
+        "2007 establishments in colorado",
+        "ancient astronaut speculation",
+        "covid-19 vaccine misinformation and hesitancy",
+        "climate change denial in the united states",
+        "holocaust denial in the united states",
+        "new age organizations",
+        "new religious movements established in the 2000s",
+        "qanon",
+        "religious belief systems founded in the united states",
+        "religious controversies in the united states",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:49.834941+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": "power is and foresttol particularly  fought so well that he won that battle and the secretary of defense originally did not"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "LOVE HAS WON",
+          "Won",
+          "love has won"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "2007 establishments in colorado",
+          "ancient astronaut speculation",
+          "covid-19 vaccine misinformation and hesitancy",
+          "climate change denial in the united states",
+          "holocaust denial in the united states",
+          "new age organizations",
+          "new religious movements established in the 2000s",
+          "qanon",
+          "religious belief systems founded in the united states",
+          "religious controversies in the united states",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "person-timothy-good",
+      "node_type": "person",
+      "label": "Timothy Good",
+      "summary": "",
+      "tags": [
+        "researcher",
+        "author"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:49.834945+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": " reality shattering phenomenon. I do believe that there's a good reason to think that we have been monitored or  observed fo"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Tim Good",
+          "Good"
+        ],
+        "notability_tags": [
+          "researcher",
+          "author"
+        ]
+      }
+    },
+    {
+      "id": "person-philip-corso",
+      "node_type": "person",
+      "label": "Philip Corso",
+      "summary": "",
+      "tags": [
+        "military",
+        "author",
+        "Roswell"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:49.834948+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": "here are other cases like that you have you know Philip Jay Corso you know he had 24 hours to edit the day after Roswell writ"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Corso"
+        ],
+        "notability_tags": [
+          "military",
+          "author",
+          "Roswell"
+        ]
+      }
+    },
+    {
+      "id": "person-allen-dulles",
+      "node_type": "person",
+      "label": "Allen Dulles",
+      "summary": "",
+      "tags": [
+        "CIA",
+        "historical"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:49.834952+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": ". So, you know, one of the founders of the  CIA, kind of an Allen Dulles acolyte, a very deceptive and devious. He ran US counter in"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Dulles"
+        ],
+        "notability_tags": [
+          "CIA",
+          "historical"
+        ]
+      }
+    },
+    {
+      "id": "person-chan-thomas",
+      "node_type": "person",
+      "label": "Chan Thomas",
+      "summary": "Chan Thomas (1920–1998) was an American engineer, ufologist, writer on ancient cataclysms, and self-proclaimed polymath whose ideas have influenced conspiracy theorists in the 21st century.",
+      "tags": [
+        "wikipedia",
+        "20th-century american engineers",
+        "mcdonnell douglas people",
+        "ufologists",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:49.834957+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": "are two disparate threats. We spoke on the phone once about Thomas Towns and Brown. I don't know if you remember this. Oh, a l"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "CHAN THOMAS",
+          "Thomas",
+          "chan thomas"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "20th-century american engineers",
+          "mcdonnell douglas people",
+          "ufologists",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "person-bob-jacobs",
+      "node_type": "person",
+      "label": "Bob Jacobs",
+      "summary": "",
+      "tags": [
+        "witness",
+        "Big Sur"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:49.834961+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": "at there were anomalous objects that came out actually Bob  Jacobs 1964 you know Vandenberg case. He was stationed at Johnston"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Jacobs",
+          "Professor Jacobs"
+        ],
+        "notability_tags": [
+          "witness",
+          "Big Sur"
+        ]
+      }
+    },
+    {
+      "id": "person-bob-lazar",
+      "node_type": "person",
+      "label": "Bob Lazar",
+      "summary": "Bob Lazar entity extracted from cross-source archival records.",
+      "tags": [
+        "pipeline-generated",
+        "entity-extracted"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:49.834965+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": " he didn't he didn't sort of just give you it was all about Bob Lazar. Oh, because you were you expressed genuine interest in tho"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "BOB LAZAR",
+          "Lazar",
+          "bob lazar"
+        ],
+        "notability_tags": [
+          "pipeline-generated",
+          "entity-extracted"
+        ]
+      }
+    },
+    {
+      "id": "person-art-bell",
+      "node_type": "person",
+      "label": "Art Bell",
+      "summary": "Arthur William Bell III (June 17, 1945 – April 13, 2018) was an American broadcaster and author. He was the founder and the original host of the paranormal-themed radio program Coast to Coast AM, which is syndicated on hundreds of radio stations in the United States and Canada. He also created and h",
+      "tags": [
+        "wikipedia",
+        "20th-century american businesspeople",
+        "accidental deaths in nevada",
+        "amateur radio people",
+        "american non-fiction environmental writers",
+        "american radio djs",
+        "american radio executives",
+        "american talk radio hosts",
+        "businesspeople from monterey, california",
+        "businesspeople from nevada",
+        "coast to coast am",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:49.834969+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": "exburg. Yep., that's a good one. I don't believe it was the bell. Some people say the galaka., just because it looked like i"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "ART BELL",
+          "Bell",
+          "art bell"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "20th-century american businesspeople",
+          "accidental deaths in nevada",
+          "amateur radio people",
+          "american non-fiction environmental writers",
+          "american radio djs",
+          "american radio executives",
+          "american talk radio hosts",
+          "businesspeople from monterey, california",
+          "businesspeople from nevada",
+          "coast to coast am",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "organization-the-report-on-unidentified-flying-objects",
+      "node_type": "organization",
+      "label": "The Report on Unidentified Flying Objects",
+      "summary": "The Report on Unidentified Flying Objects is a 1956 book by then-retired Air Force UFO investigator Edward J. Ruppelt, detailing his experience running Project Blue Book. The book was noted for its suggestion that a few UFO sightings might be linked to spikes of atomic radiation. Contemporary media ",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:49.834974+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": "What is your opinion of these new sightings of unidentified objects? With all due respect to the Air Force, I believe that some"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-1952-washington-d-c-ufo-incident",
+      "node_type": "organization",
+      "label": "1952 Washington, D.C. UFO incident",
+      "summary": "From July 12 to 29, 1952, a series of unidentified flying object (UFO) sightings were reported in Washington, D.C., and later became known as the Washington flap, the Washington National Airport Sightings, or the Invasion of Washington. The most publicized sightings took place on consecutive weekend",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:49.834979+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": " what does that mean? And then he subtitled it the Roswell  Incident. Like this book has nothing to do with Roswell, but he was "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-identification-studies-of-ufos",
+      "node_type": "organization",
+      "label": "Identification studies of UFOs",
+      "summary": "Identifying unidentified flying objects (UFOs) is a difficult task due to the normally poor quality of the evidence provided by those who report sighting the unknown object. Observations and subsequent reporting are often made by those untrained in astronomy, atmospheric phenomena, aeronautics, phys",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:49.834984+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": "# The Defense Secretary Killed Over UFOs (Ft. Richard Dolan) https://www.youtube.com/watch?v=GQlWf54"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-lakenheath-bentwaters-incident",
+      "node_type": "organization",
+      "label": "Lakenheath-Bentwaters incident",
+      "summary": "The Lakenheath-Bentwaters Incident was a series of radar and visual contacts with unidentified flying objects over airbases in eastern England on the night of 13–14 August 1956, involving personnel from the Royal Air Force (RAF) and the United States Air Force (USAF). The incident has since gained s",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:49.834989+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": " what does that mean? And then he subtitled it the Roswell  Incident. Like this book has nothing to do with Roswell, but he was "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-chiles-whitted-ufo-encounter",
+      "node_type": "organization",
+      "label": "Chiles-Whitted UFO encounter",
+      "summary": "The Chiles-Whitted UFO encounter occurred at approximately 2:45 AM on July 24, 1948, in the skies near Montgomery, Alabama, United States. Two commercial pilots, Clarence S. Chiles and John B. Whitted, claimed to have observed a \"glowing object\" pass by their plane before it appeared to pull up into",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:49.834994+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": "nal flying saucers one day? Can they go off-world? Can they encounter other beings and all of this? And I thought, well, they're "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-flying-saucer-working-party",
+      "node_type": "organization",
+      "label": "Flying Saucer Working Party",
+      "summary": "Flying Saucer Working Party (or FSWP) was the name of the United Kingdom Ministry of Defence’s (MOD) first \"official study into UFOs\", which has its roots in a study commissioned in 1950 by the MOD’s then Chief Scientific Adviser, the eminent radar scientist Sir Henry Tizard. As a result of his insi",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:49.834998+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": "ust received wisdom. You were literally just repeating some party line. You've done zero research. No, I think Aztec really t"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-the-flying-saucers-are-real",
+      "node_type": "organization",
+      "label": "The Flying Saucers Are Real",
+      "summary": "The Flying Saucers Are Real, by Donald Keyhoe, is a book that investigated reports of UFOs by United States Air Force fighters, personnel, and other aircraft, between 1947 and 1950.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:49.835002+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": "'ve always been drawn to history and politics. discovered a real deep love of literature when I was in my early 20s and that"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-archives-of-the-impossible",
+      "node_type": "organization",
+      "label": "Archives of the Impossible",
+      "summary": "The Archives of the Impossible (AOTI), sometimes called the Center for the Impossible, is a special collection at Rice University in Houston, Texas, United States. Founded in 2014 by Jeffrey J. Kripal, AOTI is based at the Woodson Research Center in the Fondren Library. It stewards collections on UF",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:49.835006+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": " concluded like this whole system is designed so that it is impossible to audit and that was her start and then she goes through f"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-unidentified-flying-object",
+      "node_type": "organization",
+      "label": "Unidentified flying object",
+      "summary": "An unidentified flying object (UFO) is an object or phenomenon seen in the sky but not yet identified or explained. The term was coined when United States Air Force (USAF) investigations into flying saucers found too broad a range of shapes reported to consider them all saucers or discs. UFOs are al",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:49.835011+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": " 12th, 1825. The Night Watch reported this orange spherical object rise from the ocean. Let's get down to the fundamental real"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-us-department-of-defense",
+      "node_type": "organization",
+      "label": "US Department of Defense",
+      "summary": "US Department of Defense entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:49.835015+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": "# The Defense Secretary Killed Over UFOs (Ft. Richard Dolan) https://www."
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-leonard-h-stringfield",
+      "node_type": "organization",
+      "label": "Leonard H. Stringfield",
+      "summary": "Leonard Stringfield (1920–1994) was an American ufologist who took particular interest in crashed flying saucer stories. Stringfield was director of Civilian Research, Interplanetary Flying Objects (CRIFO), and published a monthly newsletter, ORBIT. In 1957 he became public relations adviser for the",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:49.835020+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": "ging into looking in crash retrievals. people like the late Leonard Stringfield who was the true pioneer of crash retrieval research but al"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-lonnie-zamora-incident",
+      "node_type": "organization",
+      "label": "Lonnie Zamora incident",
+      "summary": "The Lonnie Zamora incident was an alleged UFO sighting that occurred on April 24, 1964 near Socorro, New Mexico when Socorro police officer Lonnie Zamora claimed he saw two people beside a shiny object that later rose into the air accompanied by a roaring blue and orange flame. Zamora's claims were ",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:49.835024+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": " what does that mean? And then he subtitled it the Roswell  Incident. Like this book has nothing to do with Roswell, but he was "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-roswell-that-ends-well",
+      "node_type": "organization",
+      "label": "Roswell That Ends Well",
+      "summary": "\"Roswell That Ends Well\" is the nineteenth episode in the third season of the American animated television series Futurama, and the 51st episode of the series overall. It originally aired on the Fox network in the United States on December 9, 2001. The plot centers on an accidental time travel event",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:49.835028+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": " young person trying to make a professional life, I thought well I would I would finish a PhD in history and teach at a univ"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-stanton-t-friedman",
+      "node_type": "organization",
+      "label": "Stanton T. Friedman",
+      "summary": "Stanton Terry Friedman (July 29, 1934 – May 13, 2019) was an American–Canadian nuclear physicist and professional ufologist who was based in Fredericton, New Brunswick, Canada.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:49.835032+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": "nk about it. But it was absolutely off the limits. And when Stanton Friedman and Stringfield and others started looking at these crash r"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-the-galileo-project",
+      "node_type": "organization",
+      "label": "The Galileo Project",
+      "summary": "The Galileo Project is an international scientific research project to search for extraterrestrial intelligence or extraterrestrial technology on and near Earth and to identify the nature of anomalous Unidentified Flying Objects/Unidentified Aerial Phenomena (UFOs/UAP). It was launched in 2021 by Ha",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:49.835036+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": " the things he said is he was part of the B2 stealth bomber project. And I said, \"Oh, I was so like young. I was so enthusiasti"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-thornton-leigh-page",
+      "node_type": "organization",
+      "label": "Thornton Leigh Page",
+      "summary": "Thornton Leigh Page was an American professor of astronomy at the University of Chicago and at Wesleyan University. He became embroiled in the controversy over unidentified flying objects (UFOs) after serving briefly on the Robertson Panel, a Central Intelligence Agency–sponsored committee of scient",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:49.835040+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": "little combound collection, and I just started reading them page after page. And they are highly sophisticated, extremely so"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-project-blue-book",
+      "node_type": "organization",
+      "label": "Project Blue Book",
+      "summary": "USAF UFO investigation program active from 1952 to 1969.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:49.835044+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": ", Above Top Secret. Oh, yeah. And it was a subtitle of that book that caught my attention. It was the worldwide UFO coverup."
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-world-contact-day",
+      "node_type": "organization",
+      "label": "World Contact Day",
+      "summary": "World Contact Day was first declared in March 1953 by an organization called the International Flying Saucer Bureau (IFSB), as a day on which all IFSB members would attempt to send a telepathic message into space. The IFSB voted to hold such a day in 1953, theorising that if both telepathy and alien",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:49.835048+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": " I was in a bookstore, just like  a ordinary bookstore, one day in Syracuse, New York, and I saw a copy of Timothy Good's v"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-condon-committee",
+      "node_type": "organization",
+      "label": "Condon Committee",
+      "summary": "Condon Committee entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:49.835052+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": " 01 Donald Remfeld famously before the House Armed Services Committee in I think July of 01 just before 911 this is now the Bush "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-steven-m-greer",
+      "node_type": "organization",
+      "label": "Steven M. Greer",
+      "summary": "Steven Macon Greer (born 1955) is an American ufologist and a retired physician. He founded the Center for the Study of Extraterrestrial Intelligence (CSETI) and the Disclosure Project, which claims to seek the disclosure of alleged classified UFO information.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:49.835056+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": "ector at the time, and his wife were the people who invited Steven Greer to a dinner in the early 90s in which Greer has many times "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-us-air-force",
+      "node_type": "organization",
+      "label": "US Air Force",
+      "summary": "US Air Force entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:49.835060+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": "194748 and I'm reading here in Tim Good's book like the Air Force and the Navy like they were totally into this and you're in"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-big-sur-ufo",
+      "node_type": "organization",
+      "label": "Big Sur UFO",
+      "summary": "The Big Sur UFO is a reported UFO incident that took place during a 1964 Air Force deployment to a mountaintop near Big Sur, California. The deployment was a mission was to film Atlas missile tests from Vandenberg Air Force Base. Since 1982, Robert Jacobs, who had overseen the mountaintop team, has ",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:49.835064+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": "ow, private setting is I'm curious to know how you got into UFO research to begin with and who your inspirations are. Yeah,"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-mirage-men",
+      "node_type": "organization",
+      "label": "Mirage Men",
+      "summary": "Mirage Men is a 2013 documentary film directed by John Lundberg, written by Mark Pilkington and co-directed by Roland Denning and Kypros Kyprianou. Mirage Men suggests there was a conspiracy by the U.S. military to fabricate UFO folklore in order to deflect attention from classified military project",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:49.835068+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": "ks. He said, \"I'm being followed by strange foreign looking men.\" He started dipping his fingers into glasses of water all "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-bob-lazar",
+      "node_type": "organization",
+      "label": "Bob Lazar",
+      "summary": "Robert Scott Lazar () is an American who, since 1989, has claimed to have been part of a classified US government project concerned with the reverse engineering of extraterrestrial technology; he also purported to have read government briefing documents that described alien involvement in human affa",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:49.835072+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": " he didn't he didn't sort of just give you it was all about Bob Lazar. Oh, because you were you expressed genuine interest in tho"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-us-navy",
+      "node_type": "organization",
+      "label": "US Navy",
+      "summary": "US Navy entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:49.835076+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": "ater. All right. See what you're using. couple of big tough Navy guys  grab him and throw him the hell out the window. I'm a"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-nasa",
+      "node_type": "organization",
+      "label": "NASA",
+      "summary": "NASA entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:49.835081+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": "me is you know David Spurggle and this guy did the you know NASA UAP panel in 2023 probably associated  with the whole you k"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other",
+        "acronym": "NASA"
+      }
+    },
+    {
+      "id": "organization-cia",
+      "node_type": "organization",
+      "label": "CIA",
+      "summary": "CIA entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:49.835084+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": "r not. John Peterson and his wife along with James Woolsey, CIA director at the time, and his wife were the people who invi"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other",
+        "acronym": "CIA"
+      }
+    },
+    {
+      "id": "organization-fbi",
+      "node_type": "organization",
+      "label": "FBI",
+      "summary": "FBI entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:49.835088+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": " and 60s and most of the 70s, the government agencies, CIA, FBI, military  agencies said, \"Look, we don't really we don't d"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other",
+        "acronym": "FBI"
+      }
+    },
+    {
+      "id": "organization-dod",
+      "node_type": "organization",
+      "label": "DoD",
+      "summary": "",
+      "tags": [
+        "government_agency"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:49.835092+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": "ington Institute. John Peterson was on many short lists for DoD Secretary of Defense position for years and he she wrote ab"
+        }
+      ],
+      "type_specific": {
+        "org_type": "government_agency",
+        "full_name": "Department of Defense"
+      }
+    },
+    {
+      "id": "location-wright-patterson-air-force-base",
+      "node_type": "location",
+      "label": "Wright-Patterson Air Force Base",
+      "summary": "",
+      "tags": [
+        "military_base"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:49.835097+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": "ng of cancer and he said that he had seen UFO technology at Wright Patterson Air Force Base and it was involved these sort of you know b"
+        }
+      ],
+      "type_specific": {
+        "location_type": "military_base",
+        "country": "US",
+        "state_or_region": "Ohio"
+      }
+    },
+    {
+      "id": "location-pacific-training-area",
+      "node_type": "location",
+      "label": "Pacific Training Area",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:49.835102+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": "was I don't know all the details but was deeply involved in Area 51 and with UFOs. I didn't know that. Yes. Yes. And Richard"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-rendlesham-forest",
+      "node_type": "location",
+      "label": "Rendlesham Forest",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:49.835106+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": "t capab so he was a weak sect defaf and then irony of irony forest ends up in that position as secretary of defense. So he for"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-united-states",
+      "node_type": "location",
+      "label": "United States",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:49.835110+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": " wrap this thing up and it just failed. So I go back to the States and I left for about two years. I was  studying at the Univ"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-argentina",
+      "node_type": "location",
+      "label": "Argentina",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:49.835113+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": "46 and you have you know off the coast or down the coast of Argentina you have this big fleet of American ships Yeah. Going for I"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-germany",
+      "node_type": "location",
+      "label": "Germany",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:49.835118+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": "sically the Jay Ed Gahoover of Adoan Bismar's 19th  century Germany back in the 1850s and60s. was a man named Vilhelmsteber and"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-roswell",
+      "node_type": "location",
+      "label": "Roswell",
+      "summary": "",
+      "tags": [
+        "city"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:49.835121+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": "ut the classified worlds  especially like assuming like the Roswell event or other crash retrievals happened you have this very"
+        }
+      ],
+      "type_specific": {
+        "location_type": "city",
+        "country": "US",
+        "state_or_region": "New Mexico"
+      }
+    },
+    {
+      "id": "location-area-51",
+      "node_type": "location",
+      "label": "Area 51",
+      "summary": "",
+      "tags": [
+        "military_base"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:49.835125+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": "was I don't know all the details but was deeply involved in Area 51 and with UFOs. I didn't know that. Yes. Yes. And Richard Do"
+        }
+      ],
+      "type_specific": {
+        "location_type": "military_base",
+        "country": "US",
+        "state_or_region": "Nevada"
+      }
+    },
+    {
+      "id": "location-italy",
+      "node_type": "location",
+      "label": "Italy",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:49.835128+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": "nd this is really interesting. He was actually stationed in Italy at the time or his father was Hugh Engleton at the time of "
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "program-project-blue-book",
+      "node_type": "program",
+      "label": "Project Blue Book",
+      "summary": "",
+      "tags": [
+        "program"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:49.835133+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": "ace in many ways of the official Air Force position. He ran Project Blue Book. He was in a position to talk about this and he's making it"
+        }
+      ],
+      "type_specific": {
+        "acronym": "Blue Book"
+      }
+    },
+    {
+      "id": "program-mj-12",
+      "node_type": "program",
+      "label": "MJ-12",
+      "summary": "",
+      "tags": [
+        "program"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:49.835137+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": "of the Majestic documents, which are kind of related to the MJ12 documents to some extent. And Ryan and his and his dad did "
+        }
+      ]
+    },
+    {
+      "id": "document-the-day-after-roswell",
+      "node_type": "document",
+      "label": "The Day After Roswell",
+      "summary": "",
+      "tags": [
+        "book"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:49.835141+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": " you know Philip Jay Corso you know he had 24 hours to edit the day after Roswell written co-written by William Burns Jay Burns and he had wr"
+        }
+      ],
+      "type_specific": {
+        "document_type": "book",
+        "author": "Philip Corso"
+      }
+    },
+    {
+      "id": "document-above-top-secret",
+      "node_type": "document",
+      "label": "Above Top Secret",
+      "summary": "",
+      "tags": [
+        "book"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:49.835145+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": "York, and I saw a copy of Timothy Good's very classic work, Above Top Secret. Oh, yeah. And it was a subtitle of that book that caught m"
+        }
+      ],
+      "type_specific": {
+        "document_type": "book",
+        "author": "Timothy Good"
+      }
+    },
+    {
+      "id": "document-ufos-and-nukes",
+      "node_type": "document",
+      "label": "UFOs and Nukes",
+      "summary": "",
+      "tags": [
+        "book"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:49.835150+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": " me. It's a in a line of, you know, all the Robert Hastings UFOs and nukes. Yeah. And then you have Dodie show up, you know, a couple "
+        }
+      ],
+      "type_specific": {
+        "document_type": "book",
+        "author": "Robert Hastings"
+      }
+    },
+    {
+      "id": "claim-GQlWf54K_7Y-discussion-summary",
+      "node_type": "claim",
+      "label": "Video GQlWf54K_7Y features extended discussion of Stanton Friedman, Robert Hastings, John F. Kennedy",
+      "summary": "Video GQlWf54K_7Y features extended discussion of Stanton Friedman, Robert Hastings, John F. Kennedy and related UAP research topics, hosted by Jesse Michels.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:49.835160+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": "Episode title: The Defense Secretary Killed Over UFOs (Ft. Richard Dolan)"
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Video GQlWf54K_7Y features extended discussion of Stanton Friedman, Robert Hastings, John F. Kennedy and related UAP research topics, hosted by Jesse Michels.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "GQlWf54K_7Y",
+        "timestamp_start_seconds": 0,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-stanton-friedman",
+          "person-robert-hastings",
+          "person-john-f-kennedy",
+          "video-GQlWf54K_7Y"
+        ]
+      }
+    },
+    {
+      "id": "person-richard-dolan-extended",
+      "node_type": "person",
+      "label": "Richard Dolan (extended)",
+      "summary": "American UFO historian; two unfinished history PhDs (German diplomatic history / US national security strategy 1950). Left academia after reading Timothy Good's 'Above Top Secret' in 1994 at age ~32. Author of UFOs and the National Security State.",
+      "tags": [
+        "historian",
+        "researcher",
+        "author"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.687177+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 13,
+          "quote": "UFO historian; UFOs and the National Security State; PhD-level academic exit"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Dolan"
+        ],
+        "profession": "historian",
+        "notability_tags": [
+          "historian",
+          "researcher",
+          "author"
+        ]
+      }
+    },
+    {
+      "id": "person-james-forrestal",
+      "node_type": "person",
+      "label": "James Forrestal",
+      "summary": "First US Secretary of Defense (1947-1949). Developed unusual nervous tics; reported being followed by 'strange foreign-looking men'; drank only distilled water. Died May 1949 — official ruling suicide via 16th-floor hospital window; Dolan argues 'two big tough Navy guys grabbed him and threw him out the window.'",
+      "tags": [
+        "DoD",
+        "historical",
+        "UFO-related death"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.687419+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 8,
+          "quote": "First US Secretary of Defense; died May 1949 under suspicious circumstances"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Forrestal",
+          "Forrestal Defense Secretary"
+        ],
+        "profession": "politician",
+        "notability_tags": [
+          "DoD",
+          "historical",
+          "UFO-related death"
+        ]
+      }
+    },
+    {
+      "id": "incident-forrestal-1949-death",
+      "node_type": "incident",
+      "label": "James Forrestal 'Suicide' (1949)",
+      "summary": "May 22 1949: James Forrestal, first US Secretary of Defense, dies falling from 16th floor Bethesda naval hospital. Official ruling: suicide. Dolan asserts he was thrown by Navy men — his nervous ticks and statements about being followed preceded UFO-era discussions.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.687424+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 8,
+          "timestamp_end": "First SecDef murder framed as suicide per Dolan"
+        }
+      ],
+      "type_specific": {
+        "incident_type": "other",
+        "date_approximate": "1949-05-22"
+      }
+    },
+    {
+      "id": "document-above-top-secret-timothy-good",
+      "node_type": "document",
+      "label": "Above Top Secret (Timothy Good)",
+      "summary": "Timothy Good's seminal 1987 UFO book 'Above Top Secret: The Worldwide UFO Cover-Up' — the book that drew Richard Dolan out of academia into UFO research.",
+      "tags": [
+        "book"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.687431+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 27,
+          "timestamp_end": "Timothy Good's 1987 foundational UFO investigative work"
+        }
+      ],
+      "type_specific": {
+        "document_type": "book",
+        "author": "Timothy Good",
+        "publication_year": 1987
+      }
+    },
+    {
+      "id": "claim-GQlWf54K_7Y-dolan-forrestal-thrown-not-suicide",
+      "node_type": "claim",
+      "label": "Per Dolan: two Navy men grabbed Forrestal and threw him out the 16th-floor window — his 'suicide' wa",
+      "summary": "Per Dolan: two Navy men grabbed Forrestal and threw him out the 16th-floor window — his 'suicide' was murder, linked to UFO-era secrecy he was opposing.",
+      "tags": [
+        "speculation",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.688721+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 9,
+          "quote": "A couple of big tough Navy guys grab him and throw him the hell out the window. I'm absolutely convinced that's what happened."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Per Dolan: two Navy men grabbed Forrestal and threw him out the 16th-floor window — his 'suicide' was murder, linked to UFO-era secrecy he was opposing.",
+        "asserted_by_id": "person-richard-dolan-extended",
+        "source_video_id": "GQlWf54K_7Y",
+        "timestamp_start_seconds": 9,
+        "assertability": "speculation",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-richard-dolan-extended",
+          "person-james-forrestal",
+          "incident-forrestal-1949-death"
+        ]
+      }
+    },
+    {
+      "id": "claim-GQlWf54K_7Y-dolan-1980s-flood-the-zone-strategy",
+      "node_type": "claim",
+      "label": "Dolan characterizes US UAP information strategy shift in the 1980s: from secrecy/denial to 'flood th",
+      "summary": "Dolan characterizes US UAP information strategy shift in the 1980s: from secrecy/denial to 'flood the zone' — pushing out many partial truths simultaneously to obscure core truth rather than deny.",
+      "tags": [
+        "speculation",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.688745+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 11,
+          "quote": "In the 80s it felt like maybe the US moved from a strategy of secrecy and denial to flood the zone. Flood the zone doesn't mean put out BS. It means put out partial truths and put out a lot."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Dolan characterizes US UAP information strategy shift in the 1980s: from secrecy/denial to 'flood the zone' — pushing out many partial truths simultaneously to obscure core truth rather than deny.",
+        "asserted_by_id": "person-richard-dolan-extended",
+        "source_video_id": "GQlWf54K_7Y",
+        "timestamp_start_seconds": 11,
+        "assertability": "speculation",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-richard-dolan-extended"
+        ]
+      }
+    },
+    {
+      "id": "claim-GQlWf54K_7Y-dolan-1825-sea-orange-sphere-diary",
+      "node_type": "claim",
+      "label": "Dolan cites 1825-08-12 ship diary: at 3:30 AM night watch reported an orange spherical object rising",
+      "summary": "Dolan cites 1825-08-12 ship diary: at 3:30 AM night watch reported an orange spherical object rising from the ocean — centuries-old evidence of the UAP-from-water phenomenon.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.688754+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 13,
+          "quote": "He writes in his diary at 3:30 a.m. on August 12th, 1825 — the Night Watch reported this orange spherical object rise from the ocean."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Dolan cites 1825-08-12 ship diary: at 3:30 AM night watch reported an orange spherical object rising from the ocean — centuries-old evidence of the UAP-from-water phenomenon.",
+        "asserted_by_id": "person-richard-dolan-extended",
+        "source_video_id": "GQlWf54K_7Y",
+        "timestamp_start_seconds": 13,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-richard-dolan-extended",
+          "concept-underwater-uap-bases-hypothesis"
+        ]
+      }
+    },
+    {
+      "id": "claim-GQlWf54K_7Y-dolan-timothy-good-1994-academic-exit",
+      "node_type": "claim",
+      "label": "Dolan's academic exit catalyst: reading Timothy Good's 'Above Top Secret' in 1994 at age ~32 — two y",
+      "summary": "Dolan's academic exit catalyst: reading Timothy Good's 'Above Top Secret' in 1994 at age ~32 — two years obsessed in bed staring at the ceiling with 'if then' questions about Truman, Eisenhower, Kennedy administrations he had been studying.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.688763+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 27,
+          "quote": "I saw a copy of Timothy Good's Above Top Secret. My question was simply: how come I never read about it in any academic history book? I left the University of Rochester. For an entire year I'd lie in bed staring at the ceiling thinking all of these if-thens."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Dolan's academic exit catalyst: reading Timothy Good's 'Above Top Secret' in 1994 at age ~32 — two years obsessed in bed staring at the ceiling with 'if then' questions about Truman, Eisenhower, Kennedy administrations he had been studying.",
+        "asserted_by_id": "person-richard-dolan-extended",
+        "source_video_id": "GQlWf54K_7Y",
+        "timestamp_start_seconds": 27,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-richard-dolan-extended",
+          "document-above-top-secret-timothy-good"
+        ]
+      }
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge-video-GQlWf54K_7Y-HOSTED_BY-person-jesse-michels",
+      "from_node_id": "video-GQlWf54K_7Y",
+      "to_node_id": "person-jesse-michels",
+      "relationship": "HOSTED_BY",
+      "confidence": 0.99,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": "Jesse hosting"
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-APPEARED_IN-video-GQlWf54K_7Y",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "video-GQlWf54K_7Y",
+      "relationship": "APPEARED_IN",
+      "confidence": 0.99,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": "Host"
+        }
+      ],
+      "properties": {
+        "appearance_type": "host"
+      }
+    },
+    {
+      "id": "edge-video-GQlWf54K_7Y-MENTIONS-person-stanton-friedman",
+      "from_node_id": "video-GQlWf54K_7Y",
+      "to_node_id": "person-stanton-friedman",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": "nk about it. But it was absolutely off the limits. And when Stanton Friedman and Stringfield and others started looking at these crash r"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-GQlWf54K_7Y-MENTIONS-person-robert-hastings",
+      "from_node_id": "video-GQlWf54K_7Y",
+      "to_node_id": "person-robert-hastings",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": "w,  legit strong researchers who do think it's it's a hoax. Robert Hastings, who you mentioned, very strong, very strong, and he and I "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-GQlWf54K_7Y-MENTIONS-person-john-f-kennedy",
+      "from_node_id": "video-GQlWf54K_7Y",
+      "to_node_id": "person-john-f-kennedy",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": " Truman administration that I was studying or Eisenhower or Kennedy? like there had to be this whole subterranean reality that "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-GQlWf54K_7Y-MENTIONS-person-kenneth-arnold",
+      "from_node_id": "video-GQlWf54K_7Y",
+      "to_node_id": "person-kenneth-arnold",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": "t he goes through like the really the UK history and  named Arnold Toinby. Some of you know of him. He writes meta histories o"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-GQlWf54K_7Y-MENTIONS-person-james-mcdonald",
+      "from_node_id": "video-GQlWf54K_7Y",
+      "to_node_id": "person-james-mcdonald",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": "he and he spoke with a number of researchers, including Dr. James McDonald, who's kind of a legend himself. Anyway, Crawford said, \"Ye"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-GQlWf54K_7Y-MENTIONS-person-e-howard-hunt",
+      "from_node_id": "video-GQlWf54K_7Y",
+      "to_node_id": "person-e-howard-hunt",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": "ing to the legend, you know, Cook, I think, wrote about the hunt for zero point. That's a really good book. Yeah. Amazing bo"
+        }
+      ]
+    },
+    {
+      "id": "edge-person-richard-dolan-APPEARED_IN-video-GQlWf54K_7Y",
+      "from_node_id": "person-richard-dolan",
+      "to_node_id": "video-GQlWf54K_7Y",
+      "relationship": "APPEARED_IN",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": "# The Defense Secretary Killed Over UFOs (Ft. Richard Dolan) https://www.youtube.com/watch?v=GQlWf54K_7Y views: 341,671"
+        }
+      ],
+      "properties": {
+        "appearance_type": "guest"
+      }
+    },
+    {
+      "id": "edge-video-GQlWf54K_7Y-DISCUSSES-person-richard-dolan",
+      "from_node_id": "video-GQlWf54K_7Y",
+      "to_node_id": "person-richard-dolan",
+      "relationship": "DISCUSSES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": "# The Defense Secretary Killed Over UFOs (Ft. Richard Dolan) https://www.youtube.com/watch?v=GQlWf54K_7Y views: 341,671"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-GQlWf54K_7Y-MENTIONS-person-stephen-greer",
+      "from_node_id": "video-GQlWf54K_7Y",
+      "to_node_id": "person-stephen-greer",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": "t the time, and his wife were the people who invited Steven Greer to a dinner in the early 90s in which Greer has many times "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-GQlWf54K_7Y-MENTIONS-person-donald-menzel",
+      "from_node_id": "video-GQlWf54K_7Y",
+      "to_node_id": "person-donald-menzel",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": "nd temperature inversions and I was like oh my god like Don Menzel was saying the same thing in the 50s and it was probably wo"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-GQlWf54K_7Y-MENTIONS-person-bill-clinton",
+      "from_node_id": "video-GQlWf54K_7Y",
+      "to_node_id": "person-bill-clinton",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": " say was no skin off their  nose. This was really indicting Clinton years. He said, \"Yeah, we've looked at the Pentagon records"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-GQlWf54K_7Y-MENTIONS-person-james-harder",
+      "from_node_id": "video-GQlWf54K_7Y",
+      "to_node_id": "person-james-harder",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": "ecause Roswell made the newspaper at the time and so it was harder like they buried it right away. But it but there were alway"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-GQlWf54K_7Y-MENTIONS-person-jimmy-carter",
+      "from_node_id": "video-GQlWf54K_7Y",
+      "to_node_id": "person-jimmy-carter",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": "again. You know, the first director of the CIA, Rosco Helen Carter, was into UFOs big time. Why does no one Why did none of th"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-GQlWf54K_7Y-MENTIONS-person-love-has-won",
+      "from_node_id": "video-GQlWf54K_7Y",
+      "to_node_id": "person-love-has-won",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": "power is and foresttol particularly  fought so well that he won that battle and the secretary of defense originally did not"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-GQlWf54K_7Y-MENTIONS-person-timothy-good",
+      "from_node_id": "video-GQlWf54K_7Y",
+      "to_node_id": "person-timothy-good",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": " reality shattering phenomenon. I do believe that there's a good reason to think that we have been monitored or  observed fo"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-GQlWf54K_7Y-MENTIONS-person-philip-corso",
+      "from_node_id": "video-GQlWf54K_7Y",
+      "to_node_id": "person-philip-corso",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": "here are other cases like that you have you know Philip Jay Corso you know he had 24 hours to edit the day after Roswell writ"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-GQlWf54K_7Y-MENTIONS-person-allen-dulles",
+      "from_node_id": "video-GQlWf54K_7Y",
+      "to_node_id": "person-allen-dulles",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": ". So, you know, one of the founders of the  CIA, kind of an Allen Dulles acolyte, a very deceptive and devious. He ran US counter in"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-GQlWf54K_7Y-MENTIONS-person-chan-thomas",
+      "from_node_id": "video-GQlWf54K_7Y",
+      "to_node_id": "person-chan-thomas",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": "are two disparate threats. We spoke on the phone once about Thomas Towns and Brown. I don't know if you remember this. Oh, a l"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-GQlWf54K_7Y-MENTIONS-person-bob-jacobs",
+      "from_node_id": "video-GQlWf54K_7Y",
+      "to_node_id": "person-bob-jacobs",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": "at there were anomalous objects that came out actually Bob  Jacobs 1964 you know Vandenberg case. He was stationed at Johnston"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-GQlWf54K_7Y-MENTIONS-person-bob-lazar",
+      "from_node_id": "video-GQlWf54K_7Y",
+      "to_node_id": "person-bob-lazar",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": " he didn't he didn't sort of just give you it was all about Bob Lazar. Oh, because you were you expressed genuine interest in tho"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-GQlWf54K_7Y-MENTIONS-person-art-bell",
+      "from_node_id": "video-GQlWf54K_7Y",
+      "to_node_id": "person-art-bell",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": "exburg. Yep., that's a good one. I don't believe it was the bell. Some people say the galaka., just because it looked like i"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-GQlWf54K_7Y-MENTIONS-organization-the-report-on-unidentified-flying-objects",
+      "from_node_id": "video-GQlWf54K_7Y",
+      "to_node_id": "organization-the-report-on-unidentified-flying-objects",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": "What is your opinion of these new sightings of unidentified objects? With all due respect to the Air Force, I believe that some"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-GQlWf54K_7Y-MENTIONS-organization-1952-washington-d-c-ufo-incident",
+      "from_node_id": "video-GQlWf54K_7Y",
+      "to_node_id": "organization-1952-washington-d-c-ufo-incident",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": " what does that mean? And then he subtitled it the Roswell  Incident. Like this book has nothing to do with Roswell, but he was "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-GQlWf54K_7Y-MENTIONS-organization-identification-studies-of-ufos",
+      "from_node_id": "video-GQlWf54K_7Y",
+      "to_node_id": "organization-identification-studies-of-ufos",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": "# The Defense Secretary Killed Over UFOs (Ft. Richard Dolan) https://www.youtube.com/watch?v=GQlWf54"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-GQlWf54K_7Y-MENTIONS-organization-lakenheath-bentwaters-incident",
+      "from_node_id": "video-GQlWf54K_7Y",
+      "to_node_id": "organization-lakenheath-bentwaters-incident",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": " what does that mean? And then he subtitled it the Roswell  Incident. Like this book has nothing to do with Roswell, but he was "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-GQlWf54K_7Y-MENTIONS-organization-chiles-whitted-ufo-encounter",
+      "from_node_id": "video-GQlWf54K_7Y",
+      "to_node_id": "organization-chiles-whitted-ufo-encounter",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": "nal flying saucers one day? Can they go off-world? Can they encounter other beings and all of this? And I thought, well, they're "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-GQlWf54K_7Y-MENTIONS-organization-flying-saucer-working-party",
+      "from_node_id": "video-GQlWf54K_7Y",
+      "to_node_id": "organization-flying-saucer-working-party",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": "ust received wisdom. You were literally just repeating some party line. You've done zero research. No, I think Aztec really t"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-GQlWf54K_7Y-MENTIONS-organization-the-flying-saucers-are-real",
+      "from_node_id": "video-GQlWf54K_7Y",
+      "to_node_id": "organization-the-flying-saucers-are-real",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": "'ve always been drawn to history and politics. discovered a real deep love of literature when I was in my early 20s and that"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-GQlWf54K_7Y-MENTIONS-organization-archives-of-the-impossible",
+      "from_node_id": "video-GQlWf54K_7Y",
+      "to_node_id": "organization-archives-of-the-impossible",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": " concluded like this whole system is designed so that it is impossible to audit and that was her start and then she goes through f"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-GQlWf54K_7Y-MENTIONS-organization-unidentified-flying-object",
+      "from_node_id": "video-GQlWf54K_7Y",
+      "to_node_id": "organization-unidentified-flying-object",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": " 12th, 1825. The Night Watch reported this orange spherical object rise from the ocean. Let's get down to the fundamental real"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-GQlWf54K_7Y-MENTIONS-organization-us-department-of-defense",
+      "from_node_id": "video-GQlWf54K_7Y",
+      "to_node_id": "organization-us-department-of-defense",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": "# The Defense Secretary Killed Over UFOs (Ft. Richard Dolan) https://www."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-GQlWf54K_7Y-MENTIONS-organization-leonard-h-stringfield",
+      "from_node_id": "video-GQlWf54K_7Y",
+      "to_node_id": "organization-leonard-h-stringfield",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": "ging into looking in crash retrievals. people like the late Leonard Stringfield who was the true pioneer of crash retrieval research but al"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-GQlWf54K_7Y-MENTIONS-organization-lonnie-zamora-incident",
+      "from_node_id": "video-GQlWf54K_7Y",
+      "to_node_id": "organization-lonnie-zamora-incident",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": " what does that mean? And then he subtitled it the Roswell  Incident. Like this book has nothing to do with Roswell, but he was "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-GQlWf54K_7Y-MENTIONS-organization-roswell-that-ends-well",
+      "from_node_id": "video-GQlWf54K_7Y",
+      "to_node_id": "organization-roswell-that-ends-well",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": " young person trying to make a professional life, I thought well I would I would finish a PhD in history and teach at a univ"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-GQlWf54K_7Y-MENTIONS-organization-stanton-t-friedman",
+      "from_node_id": "video-GQlWf54K_7Y",
+      "to_node_id": "organization-stanton-t-friedman",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": "nk about it. But it was absolutely off the limits. And when Stanton Friedman and Stringfield and others started looking at these crash r"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-GQlWf54K_7Y-MENTIONS-organization-the-galileo-project",
+      "from_node_id": "video-GQlWf54K_7Y",
+      "to_node_id": "organization-the-galileo-project",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": " the things he said is he was part of the B2 stealth bomber project. And I said, \"Oh, I was so like young. I was so enthusiasti"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-GQlWf54K_7Y-MENTIONS-organization-thornton-leigh-page",
+      "from_node_id": "video-GQlWf54K_7Y",
+      "to_node_id": "organization-thornton-leigh-page",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": "little combound collection, and I just started reading them page after page. And they are highly sophisticated, extremely so"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-GQlWf54K_7Y-MENTIONS-organization-project-blue-book",
+      "from_node_id": "video-GQlWf54K_7Y",
+      "to_node_id": "organization-project-blue-book",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": ", Above Top Secret. Oh, yeah. And it was a subtitle of that book that caught my attention. It was the worldwide UFO coverup."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-GQlWf54K_7Y-MENTIONS-organization-world-contact-day",
+      "from_node_id": "video-GQlWf54K_7Y",
+      "to_node_id": "organization-world-contact-day",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": " I was in a bookstore, just like  a ordinary bookstore, one day in Syracuse, New York, and I saw a copy of Timothy Good's v"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-GQlWf54K_7Y-MENTIONS-organization-condon-committee",
+      "from_node_id": "video-GQlWf54K_7Y",
+      "to_node_id": "organization-condon-committee",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": " 01 Donald Remfeld famously before the House Armed Services Committee in I think July of 01 just before 911 this is now the Bush "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-GQlWf54K_7Y-MENTIONS-organization-steven-m-greer",
+      "from_node_id": "video-GQlWf54K_7Y",
+      "to_node_id": "organization-steven-m-greer",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": "ector at the time, and his wife were the people who invited Steven Greer to a dinner in the early 90s in which Greer has many times "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-GQlWf54K_7Y-MENTIONS-organization-us-air-force",
+      "from_node_id": "video-GQlWf54K_7Y",
+      "to_node_id": "organization-us-air-force",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": "194748 and I'm reading here in Tim Good's book like the Air Force and the Navy like they were totally into this and you're in"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-GQlWf54K_7Y-MENTIONS-organization-big-sur-ufo",
+      "from_node_id": "video-GQlWf54K_7Y",
+      "to_node_id": "organization-big-sur-ufo",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": "ow, private setting is I'm curious to know how you got into UFO research to begin with and who your inspirations are. Yeah,"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-GQlWf54K_7Y-MENTIONS-organization-mirage-men",
+      "from_node_id": "video-GQlWf54K_7Y",
+      "to_node_id": "organization-mirage-men",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": "ks. He said, \"I'm being followed by strange foreign looking men.\" He started dipping his fingers into glasses of water all "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-GQlWf54K_7Y-MENTIONS-organization-bob-lazar",
+      "from_node_id": "video-GQlWf54K_7Y",
+      "to_node_id": "organization-bob-lazar",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": " he didn't he didn't sort of just give you it was all about Bob Lazar. Oh, because you were you expressed genuine interest in tho"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-GQlWf54K_7Y-MENTIONS-organization-us-navy",
+      "from_node_id": "video-GQlWf54K_7Y",
+      "to_node_id": "organization-us-navy",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": "ater. All right. See what you're using. couple of big tough Navy guys  grab him and throw him the hell out the window. I'm a"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-GQlWf54K_7Y-MENTIONS-organization-nasa",
+      "from_node_id": "video-GQlWf54K_7Y",
+      "to_node_id": "organization-nasa",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": "me is you know David Spurggle and this guy did the you know NASA UAP panel in 2023 probably associated  with the whole you k"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-GQlWf54K_7Y-MENTIONS-organization-cia",
+      "from_node_id": "video-GQlWf54K_7Y",
+      "to_node_id": "organization-cia",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": "r not. John Peterson and his wife along with James Woolsey, CIA director at the time, and his wife were the people who invi"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-GQlWf54K_7Y-MENTIONS-organization-fbi",
+      "from_node_id": "video-GQlWf54K_7Y",
+      "to_node_id": "organization-fbi",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": " and 60s and most of the 70s, the government agencies, CIA, FBI, military  agencies said, \"Look, we don't really we don't d"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-GQlWf54K_7Y-MENTIONS-organization-dod",
+      "from_node_id": "video-GQlWf54K_7Y",
+      "to_node_id": "organization-dod",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": "ington Institute. John Peterson was on many short lists for DoD Secretary of Defense position for years and he she wrote ab"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-GQlWf54K_7Y-MENTIONS-location-wright-patterson-air-force-base",
+      "from_node_id": "video-GQlWf54K_7Y",
+      "to_node_id": "location-wright-patterson-air-force-base",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": "ng of cancer and he said that he had seen UFO technology at Wright Patterson Air Force Base and it was involved these sort of you know b"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-GQlWf54K_7Y-MENTIONS-location-pacific-training-area",
+      "from_node_id": "video-GQlWf54K_7Y",
+      "to_node_id": "location-pacific-training-area",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": "was I don't know all the details but was deeply involved in Area 51 and with UFOs. I didn't know that. Yes. Yes. And Richard"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-GQlWf54K_7Y-MENTIONS-location-rendlesham-forest",
+      "from_node_id": "video-GQlWf54K_7Y",
+      "to_node_id": "location-rendlesham-forest",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": "t capab so he was a weak sect defaf and then irony of irony forest ends up in that position as secretary of defense. So he for"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-GQlWf54K_7Y-MENTIONS-location-united-states",
+      "from_node_id": "video-GQlWf54K_7Y",
+      "to_node_id": "location-united-states",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": " wrap this thing up and it just failed. So I go back to the States and I left for about two years. I was  studying at the Univ"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-GQlWf54K_7Y-MENTIONS-location-argentina",
+      "from_node_id": "video-GQlWf54K_7Y",
+      "to_node_id": "location-argentina",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": "46 and you have you know off the coast or down the coast of Argentina you have this big fleet of American ships Yeah. Going for I"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-GQlWf54K_7Y-MENTIONS-location-germany",
+      "from_node_id": "video-GQlWf54K_7Y",
+      "to_node_id": "location-germany",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": "sically the Jay Ed Gahoover of Adoan Bismar's 19th  century Germany back in the 1850s and60s. was a man named Vilhelmsteber and"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-GQlWf54K_7Y-MENTIONS-location-roswell",
+      "from_node_id": "video-GQlWf54K_7Y",
+      "to_node_id": "location-roswell",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": "ut the classified worlds  especially like assuming like the Roswell event or other crash retrievals happened you have this very"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-GQlWf54K_7Y-MENTIONS-location-area-51",
+      "from_node_id": "video-GQlWf54K_7Y",
+      "to_node_id": "location-area-51",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": "was I don't know all the details but was deeply involved in Area 51 and with UFOs. I didn't know that. Yes. Yes. And Richard Do"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-GQlWf54K_7Y-MENTIONS-location-italy",
+      "from_node_id": "video-GQlWf54K_7Y",
+      "to_node_id": "location-italy",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": "nd this is really interesting. He was actually stationed in Italy at the time or his father was Hugh Engleton at the time of "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-GQlWf54K_7Y-MENTIONS-program-project-blue-book",
+      "from_node_id": "video-GQlWf54K_7Y",
+      "to_node_id": "program-project-blue-book",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": "ace in many ways of the official Air Force position. He ran Project Blue Book. He was in a position to talk about this and he's making it"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-GQlWf54K_7Y-MENTIONS-program-mj-12",
+      "from_node_id": "video-GQlWf54K_7Y",
+      "to_node_id": "program-mj-12",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": "of the Majestic documents, which are kind of related to the MJ12 documents to some extent. And Ryan and his and his dad did "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-GQlWf54K_7Y-CITES-document-the-day-after-roswell",
+      "from_node_id": "video-GQlWf54K_7Y",
+      "to_node_id": "document-the-day-after-roswell",
+      "relationship": "CITES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": " you know Philip Jay Corso you know he had 24 hours to edit the day after Roswell written co-written by William Burns Jay Burns and he had wr"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-GQlWf54K_7Y-CITES-document-above-top-secret",
+      "from_node_id": "video-GQlWf54K_7Y",
+      "to_node_id": "document-above-top-secret",
+      "relationship": "CITES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": "York, and I saw a copy of Timothy Good's very classic work, Above Top Secret. Oh, yeah. And it was a subtitle of that book that caught m"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-GQlWf54K_7Y-CITES-document-ufos-and-nukes",
+      "from_node_id": "video-GQlWf54K_7Y",
+      "to_node_id": "document-ufos-and-nukes",
+      "relationship": "CITES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": " me. It's a in a line of, you know, all the Robert Hastings UFOs and nukes. Yeah. And then you have Dodie show up, you know, a couple "
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-GQlWf54K_7Y-discussion-summary",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-GQlWf54K_7Y-discussion-summary",
+      "relationship": "ASSERTED",
+      "confidence": 0.9,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0,
+          "quote": "Episode: The Defense Secretary Killed Over UFOs (Ft. Richard Dolan)"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-GQlWf54K_7Y-REFERENCES-claim-GQlWf54K_7Y-discussion-summary",
+      "from_node_id": "video-GQlWf54K_7Y",
+      "to_node_id": "claim-GQlWf54K_7Y-discussion-summary",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 0
+        }
+      ]
+    },
+    {
+      "id": "edge-person-richard-dolan-extended-ASSERTED-claim-GQlWf54K_7Y-dolan-forrestal-thrown-not-suicide",
+      "from_node_id": "person-richard-dolan-extended",
+      "to_node_id": "claim-GQlWf54K_7Y-dolan-forrestal-thrown-not-suicide",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 9,
+          "quote": "Per Dolan: two Navy men grabbed Forrestal and threw him out the 16th-floor window — his 'suicide' was murder, linked to UFO-era secrecy he was opposing."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-GQlWf54K_7Y-REFERENCES-claim-GQlWf54K_7Y-dolan-forrestal-thrown-not-suicide",
+      "from_node_id": "video-GQlWf54K_7Y",
+      "to_node_id": "claim-GQlWf54K_7Y-dolan-forrestal-thrown-not-suicide",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 9
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-GQlWf54K_7Y-dolan-forrestal-thrown-not-suicide-REFERENCES-person-james-forrestal",
+      "from_node_id": "claim-GQlWf54K_7Y-dolan-forrestal-thrown-not-suicide",
+      "to_node_id": "person-james-forrestal",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 9
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-GQlWf54K_7Y-dolan-forrestal-thrown-not-suicide-REFERENCES-incident-forrestal-1949-death",
+      "from_node_id": "claim-GQlWf54K_7Y-dolan-forrestal-thrown-not-suicide",
+      "to_node_id": "incident-forrestal-1949-death",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 9
+        }
+      ]
+    },
+    {
+      "id": "edge-person-richard-dolan-extended-ASSERTED-claim-GQlWf54K_7Y-dolan-1980s-flood-the-zone-strategy",
+      "from_node_id": "person-richard-dolan-extended",
+      "to_node_id": "claim-GQlWf54K_7Y-dolan-1980s-flood-the-zone-strategy",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 11,
+          "quote": "Dolan characterizes US UAP information strategy shift in the 1980s: from secrecy/denial to 'flood the zone' — pushing out many partial truths simultaneously to obscure core truth rather than deny."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-GQlWf54K_7Y-REFERENCES-claim-GQlWf54K_7Y-dolan-1980s-flood-the-zone-strategy",
+      "from_node_id": "video-GQlWf54K_7Y",
+      "to_node_id": "claim-GQlWf54K_7Y-dolan-1980s-flood-the-zone-strategy",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 11
+        }
+      ]
+    },
+    {
+      "id": "edge-person-richard-dolan-extended-ASSERTED-claim-GQlWf54K_7Y-dolan-1825-sea-orange-sphere-diary",
+      "from_node_id": "person-richard-dolan-extended",
+      "to_node_id": "claim-GQlWf54K_7Y-dolan-1825-sea-orange-sphere-diary",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 13,
+          "quote": "Dolan cites 1825-08-12 ship diary: at 3:30 AM night watch reported an orange spherical object rising from the ocean — centuries-old evidence of the UAP-from-water phenomenon."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-GQlWf54K_7Y-REFERENCES-claim-GQlWf54K_7Y-dolan-1825-sea-orange-sphere-diary",
+      "from_node_id": "video-GQlWf54K_7Y",
+      "to_node_id": "claim-GQlWf54K_7Y-dolan-1825-sea-orange-sphere-diary",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 13
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-GQlWf54K_7Y-dolan-1825-sea-orange-sphere-diary-REFERENCES-concept-underwater-uap-bases-hypothesis",
+      "from_node_id": "claim-GQlWf54K_7Y-dolan-1825-sea-orange-sphere-diary",
+      "to_node_id": "concept-underwater-uap-bases-hypothesis",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 13
+        }
+      ]
+    },
+    {
+      "id": "edge-person-richard-dolan-extended-ASSERTED-claim-GQlWf54K_7Y-dolan-timothy-good-1994-academic-exit",
+      "from_node_id": "person-richard-dolan-extended",
+      "to_node_id": "claim-GQlWf54K_7Y-dolan-timothy-good-1994-academic-exit",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 27,
+          "quote": "Dolan's academic exit catalyst: reading Timothy Good's 'Above Top Secret' in 1994 at age ~32 — two years obsessed in bed staring at the ceiling with 'if then' questions about Truman, Eisenhower, Kenne"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-GQlWf54K_7Y-REFERENCES-claim-GQlWf54K_7Y-dolan-timothy-good-1994-academic-exit",
+      "from_node_id": "video-GQlWf54K_7Y",
+      "to_node_id": "claim-GQlWf54K_7Y-dolan-timothy-good-1994-academic-exit",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 27
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-GQlWf54K_7Y-dolan-timothy-good-1994-academic-exit-REFERENCES-document-above-top-secret-timothy-good",
+      "from_node_id": "claim-GQlWf54K_7Y-dolan-timothy-good-1994-academic-exit",
+      "to_node_id": "document-above-top-secret-timothy-good",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "GQlWf54K_7Y",
+          "timestamp_start": 27
+        }
+      ]
+    }
+  ],
+  "extracted_at": "2026-04-17T13:21:38.688773+00:00",
+  "extractor_version": "v1-inline-claude"
+}

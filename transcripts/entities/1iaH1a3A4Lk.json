@@ -1,0 +1,3286 @@
+{
+  "video_id": "1iaH1a3A4Lk",
+  "nodes": [
+    {
+      "id": "video-1iaH1a3A4Lk",
+      "node_type": "video",
+      "label": "UFO Skeptic Mick West Challenged To A Debate",
+      "summary": "UFO skeptic Mick West and national security analyst Marik von Rennenkampff debate some of the most famous “UFO” videos, including newly surfaced footage from Iraq. Mick insists they're...",
+      "tags": [
+        "video",
+        "american-alchemy"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:02.670340+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "timestamp_end": 13890.0,
+          "quote": "Video: UFO Skeptic Mick West Challenged To A Debate"
+        }
+      ],
+      "type_specific": {
+        "video_id": "1iaH1a3A4Lk",
+        "title": "UFO Skeptic Mick West Challenged To A Debate",
+        "url": "https://www.youtube.com/watch?v=1iaH1a3A4Lk",
+        "view_count": 183159,
+        "duration_seconds": 13890.0,
+        "host_id": "person-jesse-michels"
+      }
+    },
+    {
+      "id": "person-jesse-michels",
+      "node_type": "person",
+      "label": "Jesse Michels",
+      "summary": "Host of American Alchemy podcast/show. Independent journalist and UFO/NHI researcher.",
+      "tags": [
+        "journalist",
+        "interviewer",
+        "researcher",
+        "host"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:02.670355+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "Host of American Alchemy podcast/show."
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Jesse",
+          "Michels"
+        ],
+        "profession": "journalist",
+        "notability_tags": [
+          "journalist",
+          "interviewer",
+          "researcher",
+          "host"
+        ]
+      }
+    },
+    {
+      "id": "person-kirsten-gillibrand",
+      "node_type": "person",
+      "label": "Kirsten Gillibrand",
+      "summary": "",
+      "tags": [
+        "politician",
+        "senator"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:03.961460+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "a bill sponsored by Chuck Schumer and signed on to by Rubio Gillibrand, former presidential candidates? 22 times and then biologic"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Gillibrand",
+          "Senator Gillibrand"
+        ],
+        "notability_tags": [
+          "politician",
+          "senator"
+        ]
+      }
+    },
+    {
+      "id": "person-robert-hastings",
+      "node_type": "person",
+      "label": "Robert Hastings",
+      "summary": "",
+      "tags": [
+        "researcher",
+        "author",
+        "UFOs and Nukes"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:03.961477+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": " You have a great book called UFOs and Nukes by a guy named Robert Hastings which I always tell you I think you should read. I was read"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Hastings"
+        ],
+        "notability_tags": [
+          "researcher",
+          "author",
+          "UFOs and Nukes"
+        ]
+      }
+    },
+    {
+      "id": "person-kenneth-arnold",
+      "node_type": "person",
+      "label": "Kenneth Arnold",
+      "summary": "Kenneth Arnold entity extracted from cross-source archival records.",
+      "tags": [
+        "pipeline-generated",
+        "entity-extracted"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:03.961482+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": " get very interesting. 19 April 1947, this is months before Kenneth Arnold's sighting, which kicked off the  flying saucer craze, if y"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Arnold",
+          "KENNETH ARNOLD",
+          "kenneth arnold"
+        ],
+        "notability_tags": [
+          "pipeline-generated",
+          "entity-extracted"
+        ]
+      }
+    },
+    {
+      "id": "person-eric-weinstein",
+      "node_type": "person",
+      "label": "Eric Weinstein",
+      "summary": "",
+      "tags": [
+        "mathematician",
+        "physicist"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:03.961487+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": " completely uncut, heated discussion between Hal Putoff and Eric Weinstein on remote viewing. Yeah,  you heard that right. I still can"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Weinstein"
+        ],
+        "notability_tags": [
+          "mathematician",
+          "physicist"
+        ]
+      }
+    },
+    {
+      "id": "person-james-mcdonald",
+      "node_type": "person",
+      "label": "James McDonald",
+      "summary": "",
+      "tags": [
+        "physicist",
+        "researcher"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:03.961491+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": " I've come to a very different conclusion. I'm a big fan of James McDonald. I don't know if  you guys are familiar with him but very p"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Dr. McDonald",
+          "McDonald"
+        ],
+        "notability_tags": [
+          "physicist",
+          "researcher"
+        ]
+      }
+    },
+    {
+      "id": "person-alex-dietrich",
+      "node_type": "person",
+      "label": "Alex Dietrich",
+      "summary": "Retired US Navy aviator and eyewitness to the Nimitz event.",
+      "tags": [
+        "Nimitz",
+        "US Navy",
+        "witness"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:03.961495+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "she's pretty new to the squadron this probably lieutenant., Alex Dietrich. Alex Dietrich. Correct. And, in her back seat is Jim Slate"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "ALEX DIETRICH",
+          "Dietrich",
+          "alex dietrich"
+        ],
+        "notability_tags": [
+          "Nimitz",
+          "US Navy",
+          "witness"
+        ]
+      }
+    },
+    {
+      "id": "person-chuck-schumer",
+      "node_type": "person",
+      "label": "Chuck Schumer",
+      "summary": "",
+      "tags": [
+        "politician",
+        "senator"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:03.961500+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": " How did nonhuman intelligence get into a bill sponsored by Chuck Schumer and signed on to by Rubio Gillibrand, former presidential c"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Schumer",
+          "Senator Schumer"
+        ],
+        "notability_tags": [
+          "politician",
+          "senator"
+        ]
+      }
+    },
+    {
+      "id": "person-stephen-greer",
+      "node_type": "person",
+      "label": "Stephen Greer",
+      "summary": "",
+      "tags": [
+        "researcher",
+        "disclosure"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:03.961504+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": " know new advanced technology or possibly aliens Dr. Steven Greer is obviously outspoken person when it comes to the UFO issu"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Dr. Greer",
+          "Greer"
+        ],
+        "notability_tags": [
+          "researcher",
+          "disclosure"
+        ]
+      }
+    },
+    {
+      "id": "person-bill-clinton",
+      "node_type": "person",
+      "label": "Bill Clinton",
+      "summary": "Bill Clinton entity extracted from cross-source archival records.",
+      "tags": [
+        "pipeline-generated",
+        "entity-extracted"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:03.961509+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "assistant secretary of defense for  intelligence under both Clinton and Bush. Yeah. said that there was this mothership dynamic"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "BILL CLINTON",
+          "Clinton",
+          "bill clinton"
+        ],
+        "notability_tags": [
+          "pipeline-generated",
+          "entity-extracted"
+        ]
+      }
+    },
+    {
+      "id": "person-love-has-won",
+      "node_type": "person",
+      "label": "Love Has Won",
+      "summary": "Love Has Won (LHW), also known as the Galactic Federation of Light, is an American new religious movement that was led by Amy Carlson until her death in 2021. Carlson was referred to within the group as \"Mother God\", who described herself as, among other things, the creator of the universe, with the",
+      "tags": [
+        "wikipedia",
+        "2007 establishments in colorado",
+        "ancient astronaut speculation",
+        "covid-19 vaccine misinformation and hesitancy",
+        "climate change denial in the united states",
+        "holocaust denial in the united states",
+        "new age organizations",
+        "new religious movements established in the 2000s",
+        "qanon",
+        "religious belief systems founded in the united states",
+        "religious controversies in the united states",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:03.961513+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "ma I encourage them to come forward like come forward and I won't laugh at you  I am here with Mick West and Merrick von Re"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "LOVE HAS WON",
+          "Won",
+          "love has won"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "2007 establishments in colorado",
+          "ancient astronaut speculation",
+          "covid-19 vaccine misinformation and hesitancy",
+          "climate change denial in the united states",
+          "holocaust denial in the united states",
+          "new age organizations",
+          "new religious movements established in the 2000s",
+          "qanon",
+          "religious belief systems founded in the united states",
+          "religious controversies in the united states",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "person-paul-r-hill",
+      "node_type": "person",
+      "label": "Paul R. Hill",
+      "summary": "Paul Richard Hill (1909–1990) was a mid–twentieth-century American aerodynamicist. He was a leading research and development engineer and manager for NASA (National Aeronautics and Space Administration) and its predecessor, NACA (the National Advisory Council for Aeronautics) between 1939 and 1970, ",
+      "tags": [
+        "wikipedia",
+        "aerodynamicists",
+        "nasa people",
+        "scientists from iowa",
+        "uc berkeley college of engineering alumni",
+        "ufologists",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:03.961518+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "ed. you kind of came on my radar because you publish in The Hill and you're a former DoD employee and so you kind of know th"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Hill",
+          "PAUL R. HILL",
+          "Paul Hill",
+          "paul r. hill"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "aerodynamicists",
+          "nasa people",
+          "scientists from iowa",
+          "uc berkeley college of engineering alumni",
+          "ufologists",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "person-riley-martin",
+      "node_type": "person",
+      "label": "Riley Martin",
+      "summary": "Riley Lee Martin (May 9, 1946 – December 22, 2015) was an American self-described alien contactee, author and radio host. Martin was the author of the book The Coming of Tan, which describes his life and his alleged alien visitation. He hosted The Riley Martin Show on the Sirius XM Radio channel How",
+      "tags": [
+        "wikipedia",
+        "20th-century african-american people",
+        "african-american radio personalities",
+        "american conspiracy theorists",
+        "american outsider artists",
+        "american people who self-identify as being of native american descent",
+        "contactees",
+        "people from natchez, mississippi",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:03.961522+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "rect quote flipped on its edge. Southern California Loheed  Martin air crews is in the air. They see a metallic sorry elliptic"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Martin",
+          "RILEY MARTIN",
+          "riley martin"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "20th-century african-american people",
+          "african-american radio personalities",
+          "american conspiracy theorists",
+          "american outsider artists",
+          "american people who self-identify as being of native american descent",
+          "contactees",
+          "people from natchez, mississippi",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "person-timothy-good",
+      "node_type": "person",
+      "label": "Timothy Good",
+      "summary": "",
+      "tags": [
+        "researcher",
+        "author"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:03.961526+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": " 2016? Since 2016. And I think you've  always done a pretty good job and I've heard things from, you know, UFO junkie friend"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Tim Good",
+          "Good"
+        ],
+        "notability_tags": [
+          "researcher",
+          "author"
+        ]
+      }
+    },
+    {
+      "id": "person-chan-thomas",
+      "node_type": "person",
+      "label": "Chan Thomas",
+      "summary": "Chan Thomas (1920–1998) was an American engineer, ufologist, writer on ancient cataclysms, and self-proclaimed polymath whose ideas have influenced conspiracy theorists in the 21st century.",
+      "tags": [
+        "wikipedia",
+        "20th-century american engineers",
+        "mcdonnell douglas people",
+        "ufologists",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:03.961530+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "ou're looking at it from like a meta-accientific, you know, Thomas Cooney model of like the structure of scientific revolution"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "CHAN THOMAS",
+          "Thomas",
+          "chan thomas"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "20th-century american engineers",
+          "mcdonnell douglas people",
+          "ufologists",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "person-ryan-graves",
+      "node_type": "person",
+      "label": "Ryan Graves",
+      "summary": "",
+      "tags": [
+        "witness",
+        "pilot",
+        "US Navy"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:03.961534+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": ", \"Whoa, got it.\" And I just interviewed Navy fighter pilot Ryan Graves who testified before Congress also under oath and he kind o"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Graves"
+        ],
+        "notability_tags": [
+          "witness",
+          "pilot",
+          "US Navy"
+        ]
+      }
+    },
+    {
+      "id": "person-marco-rubio",
+      "node_type": "person",
+      "label": "Marco Rubio",
+      "summary": "",
+      "tags": [
+        "politician",
+        "senator"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:03.961538+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": " I love this quote from Mick, June 20th, 2020. this is when Rubio snuck a provision into you know what I'm talking about, rig"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Rubio",
+          "Senator Rubio"
+        ],
+        "notability_tags": [
+          "politician",
+          "senator"
+        ]
+      }
+    },
+    {
+      "id": "person-betty-hill",
+      "node_type": "person",
+      "label": "Betty Hill",
+      "summary": "Betty Hill entity extracted from cross-source archival records.",
+      "tags": [
+        "pipeline-generated",
+        "entity-extracted"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:03.961542+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "ed. you kind of came on my radar because you publish in The Hill and you're a former DoD employee and so you kind of know th"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "BETTY HILL",
+          "Hill",
+          "betty hill"
+        ],
+        "notability_tags": [
+          "pipeline-generated",
+          "entity-extracted"
+        ]
+      }
+    },
+    {
+      "id": "person-harry-reid",
+      "node_type": "person",
+      "label": "Harry Reid",
+      "summary": "Harry Reid entity extracted from cross-source archival records.",
+      "tags": [
+        "pipeline-generated",
+        "entity-extracted"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:03.961547+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "d he was doing it to kind of honor the legacy of his friend Harry Reid. So he just randomly puts in aliens in 64  pages just cuz h"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "HARRY REID",
+          "Reid",
+          "harry reid"
+        ],
+        "notability_tags": [
+          "pipeline-generated",
+          "entity-extracted"
+        ]
+      }
+    },
+    {
+      "id": "organization-international-ufo-museum-and-research-center",
+      "node_type": "organization",
+      "label": "International UFO Museum and Research Center",
+      "summary": "The International UFO Museum and Research Center is located in Roswell, New Mexico, United States, in the downtown district, and is focused largely on the 1947 Roswell Crash and later supposed UFO incidents in the United States and elsewhere. It was founded in 1991 as a 501c3 nonprofit educational o",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:03.961553+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "ah. So, this is like it's taken off a screen in the command center of a ship., we're looking at thermal video again. So, we're"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-the-report-on-unidentified-flying-objects",
+      "node_type": "organization",
+      "label": "The Report on Unidentified Flying Objects",
+      "summary": "The Report on Unidentified Flying Objects is a 1956 book by then-retired Air Force UFO investigator Edward J. Ruppelt, detailing his experience running Project Blue Book. The book was noted for its suggestion that a few UFO sightings might be linked to spikes of atomic radiation. Contemporary media ",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:03.961558+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "ays I think 10 days sure okay they begin tracking anomalous objects at 28,000 ft heading south at 100 knots very strange tracks"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-1952-washington-d-c-ufo-incident",
+      "node_type": "organization",
+      "label": "1952 Washington, D.C. UFO incident",
+      "summary": "From July 12 to 29, 1952, a series of unidentified flying object (UFO) sightings were reported in Washington, D.C., and later became known as the Washington flap, the Washington National Airport Sightings, or the Invasion of Washington. The most publicized sightings took place on consecutive weekend",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:03.961563+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "air-to-air training mission. They're just like the tic-tac  incident. They are I believe this is a pre-eployment workup cycle. S"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-identification-studies-of-ufos",
+      "node_type": "organization",
+      "label": "Identification studies of UFOs",
+      "summary": "Identifying unidentified flying objects (UFOs) is a difficult task due to the normally poor quality of the evidence provided by those who report sighting the unknown object. Observations and subsequent reporting are often made by those untrained in astronomy, atmospheric phenomena, aeronautics, phys",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:03.961568+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "ty much solved. U and that really kind of got me  hooked on UFOs. And that kind of almost coincided with the 2017 December 2"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-lakenheath-bentwaters-incident",
+      "node_type": "organization",
+      "label": "Lakenheath-Bentwaters incident",
+      "summary": "The Lakenheath-Bentwaters Incident was a series of radar and visual contacts with unidentified flying objects over airbases in eastern England on the night of 13–14 August 1956, involving personnel from the Royal Air Force (RAF) and the United States Air Force (USAF). The incident has since gained s",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:03.961572+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "air-to-air training mission. They're just like the tic-tac  incident. They are I believe this is a pre-eployment workup cycle. S"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-chiles-whitted-ufo-encounter",
+      "node_type": "organization",
+      "label": "Chiles-Whitted UFO encounter",
+      "summary": "The Chiles-Whitted UFO encounter occurred at approximately 2:45 AM on July 24, 1948, in the skies near Montgomery, Alabama, United States. Two commercial pilots, Clarence S. Chiles and John B. Whitted, claimed to have observed a \"glowing object\" pass by their plane before it appeared to pull up into",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:03.961577+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "That's interesting, right? but to your point for that first encounter we're talking about eight eyeballs on this thing. one of th"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-flying-saucer-working-party",
+      "node_type": "organization",
+      "label": "Flying Saucer Working Party",
+      "summary": "Flying Saucer Working Party (or FSWP) was the name of the United Kingdom Ministry of Defence’s (MOD) first \"official study into UFOs\", which has its roots in a study commissioned in 1950 by the MOD’s then Chief Scientific Adviser, the eminent radar scientist Sir Henry Tizard. As a result of his insi",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:03.961582+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "ike anomaly. Yeah. No, it was it was it was sent by a third party to News Nation, not by Jake. Yeah. Yeah. And it doesn't sho"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-the-flying-saucers-are-real",
+      "node_type": "organization",
+      "label": "The Flying Saucers Are Real",
+      "summary": "The Flying Saucers Are Real, by Donald Keyhoe, is a book that investigated reports of UFOs by United States Air Force fighters, personnel, and other aircraft, between 1947 and 1950.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:03.961586+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "u know I watched Five Minutes of Fraver, and this guy's the real deal, right? He's a skipper of a storied squadron out on th"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-archives-of-the-impossible",
+      "node_type": "organization",
+      "label": "Archives of the Impossible",
+      "summary": "The Archives of the Impossible (AOTI), sometimes called the Center for the Impossible, is a special collection at Rice University in Houston, Texas, United States. Founded in 2014 by Jeffrey J. Kripal, AOTI is based at the Woodson Research Center in the Fondren Library. It stewards collections on UF",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:03.961591+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": " be falsified for forever or it's one of those things. It's impossible to falsify because there's always the idea that the that li"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-unidentified-flying-object",
+      "node_type": "organization",
+      "label": "Unidentified flying object",
+      "summary": "An unidentified flying object (UFO) is an object or phenomenon seen in the sky but not yet identified or explained. The term was coined when United States Air Force (USAF) investigations into flying saucers found too broad a range of shapes reported to consider them all saucers or discs. UFOs are al",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:03.961595+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "pace as, where one of these tracks is. look  out and see an object doing basically kind of like a weird pingponging zigzagging"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-us-department-of-defense",
+      "node_type": "organization",
+      "label": "US Department of Defense",
+      "summary": "US Department of Defense entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:03.961600+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "se told him the people that work in the kind of the missile defense program on shore told him that they saw it later. He didn't"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-lonnie-zamora-incident",
+      "node_type": "organization",
+      "label": "Lonnie Zamora incident",
+      "summary": "The Lonnie Zamora incident was an alleged UFO sighting that occurred on April 24, 1964 near Socorro, New Mexico when Socorro police officer Lonnie Zamora claimed he saw two people beside a shiny object that later rose into the air accompanied by a roaring blue and orange flame. Zamora's claims were ",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:03.961604+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "air-to-air training mission. They're just like the tic-tac  incident. They are I believe this is a pre-eployment workup cycle. S"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-roswell-that-ends-well",
+      "node_type": "organization",
+      "label": "Roswell That Ends Well",
+      "summary": "\"Roswell That Ends Well\" is the nineteenth episode in the third season of the American animated television series Futurama, and the 51st episode of the series overall. It originally aired on the Fox network in the United States on December 9, 2001. The plot centers on an accidental time travel event",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:03.961609+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": ". It's not like propose one plane that would fly like this. Well, why don't you propose one type of UFO? The broader problem"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-to-the-stars-academy",
+      "node_type": "organization",
+      "label": "To The Stars Academy",
+      "summary": "",
+      "tags": [
+        "research_org"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:03.961614+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "n Mick, I got I love this. so in December of 2017 I think t to the stars academy put out a an interview with I think it's commander d Alex d"
+        }
+      ],
+      "type_specific": {
+        "org_type": "research_org"
+      }
+    },
+    {
+      "id": "organization-the-galileo-project",
+      "node_type": "organization",
+      "label": "The Galileo Project",
+      "summary": "The Galileo Project is an international scientific research project to search for extraterrestrial intelligence or extraterrestrial technology on and near Earth and to identify the nature of anomalous Unidentified Flying Objects/Unidentified Aerial Phenomena (UFOs/UAP). It was launched in 2021 by Ha",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:03.961618+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "John Greenwell for putting it on his site. and I think it's project sign one of their first reports. I think it was late 48 but"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-thornton-leigh-page",
+      "node_type": "organization",
+      "label": "Thornton Leigh Page",
+      "summary": "Thornton Leigh Page was an American professor of astronomy at the University of Chicago and at Wesleyan University. He became embroiled in the controversy over unidentified flying objects (UFOs) after serving briefly on the Robertson Panel, a Central Intelligence Agency–sponsored committee of scient",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:03.961622+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "ray specifically when he describes what he saw on the radar page the SR page so that's the kind of simple theory thanks guy "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-project-blue-book",
+      "node_type": "organization",
+      "label": "Project Blue Book",
+      "summary": "USAF UFO investigation program active from 1952 to 1969.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:03.961626+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "f this topic and I've read the raw case files, the raw blue book case, like no analysis, just right, just the straight repor"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-world-contact-day",
+      "node_type": "organization",
+      "label": "World Contact Day",
+      "summary": "World Contact Day was first declared in March 1953 by an organization called the International Flying Saucer Bureau (IFSB), as a day on which all IFSB members would attempt to send a telepathic message into space. The IFSB voted to hold such a day in 1953, theorising that if both telepathy and alien",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:03.961631+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "hat they thought were UFOs you know back in the back in the day but perhaps some of those  were under the radar You know, t"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-condon-committee",
+      "node_type": "organization",
+      "label": "Condon Committee",
+      "summary": "Condon Committee entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:03.961635+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "ience and default. It's a remarkable critique of the Condan committee which we can get into but and his bottom line assessment wa"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-steven-m-greer",
+      "node_type": "organization",
+      "label": "Steven M. Greer",
+      "summary": "Steven Macon Greer (born 1955) is an American ufologist and a retired physician. He founded the Center for the Study of Extraterrestrial Intelligence (CSETI) and the Disclosure Project, which claims to seek the disclosure of alleged classified UFO information.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:03.961639+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "say you know new advanced technology or possibly aliens Dr. Steven Greer is obviously outspoken person when it comes to the UFO issu"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-jerome-clark",
+      "node_type": "organization",
+      "label": "Jerome Clark",
+      "summary": "Jerome Clark (born November 27, 1946) is an American writer, specializing in unidentified flying objects and other paranormal subjects. He has appeared on ABC News Special Report, Unsolved Mysteries, Sightings and the A&E Network discussing UFOs and other oddities. Clark is also a country and folk m",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:03.961643+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "om nuts and bolts. just you know goes towards the Arthur C. Clark quote that any sufficiently advanced technology appears to "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-us-air-force",
+      "node_type": "organization",
+      "label": "US Air Force",
+      "summary": "US Air Force entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:03.961647+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": " insane how many quote unquote drones we're seeing over air force bases  all over the world right now. and so yeah, I'm very "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-big-sur-ufo",
+      "node_type": "organization",
+      "label": "Big Sur UFO",
+      "summary": "The Big Sur UFO is a reported UFO incident that took place during a 1964 Air Force deployment to a mountaintop near Big Sur, California. The deployment was a mission was to film Atlas missile tests from Vandenberg Air Force Base. Since 1982, Robert Jacobs, who had overseen the mountaintop team, has ",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:03.961652+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "# UFO Skeptic Mick West Challenged To A Debate https://www.youtub"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-mirage-men",
+      "node_type": "organization",
+      "label": "Mirage Men",
+      "summary": "Mirage Men is a 2013 documentary film directed by John Lundberg, written by Mark Pilkington and co-directed by Roland Denning and Kypros Kyprianou. Mirage Men suggests there was a conspiracy by the U.S. military to fabricate UFO folklore in order to deflect attention from classified military project",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:03.961655+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "ow the stories vary quite a lot. You got all these enlisted men on the boat who have these this story about how the data br"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-us-navy",
+      "node_type": "organization",
+      "label": "US Navy",
+      "summary": "US Navy entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:03.961660+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "And I previously worked at the Pentagon. I worked with some Navy aviators, naval aviators, more rotary wing guys, but I knew"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-nasa",
+      "node_type": "organization",
+      "label": "NASA",
+      "summary": "NASA entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:03.961664+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "vers all over the world.\" That's interesting. Nobody in the NASA panel, by the way, raise their hand when he said that. Like"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other",
+        "acronym": "NASA"
+      }
+    },
+    {
+      "id": "organization-cia",
+      "node_type": "organization",
+      "label": "CIA",
+      "summary": "CIA entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:03.961668+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "ty remarkable. We had just about every single We had former CIA directors, former, national intelligence directors, just ex"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other",
+        "acronym": "CIA"
+      }
+    },
+    {
+      "id": "organization-fbi",
+      "node_type": "organization",
+      "label": "FBI",
+      "summary": "FBI entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:03.961671+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "ld we play this? I look I from the only quickly we have the FBI, we have FAA, there's drone restrictions in place.  there's"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other",
+        "acronym": "FBI"
+      }
+    },
+    {
+      "id": "organization-nsa",
+      "node_type": "organization",
+      "label": "NSA",
+      "summary": "",
+      "tags": [
+        "intelligence_agency"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:03.961675+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "se cases.\" And that's pretty extraordinary. He was a former NSA director. He's NSA scientist. Scientist. Yeah., so, it is p"
+        }
+      ],
+      "type_specific": {
+        "org_type": "intelligence_agency",
+        "acronym": "NSA",
+        "full_name": "National Security Agency"
+      }
+    },
+    {
+      "id": "organization-dod",
+      "node_type": "organization",
+      "label": "DoD",
+      "summary": "",
+      "tags": [
+        "government_agency"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:03.961679+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "y radar because you publish in The Hill and you're a former DoD employee and so you kind of know that world and you were pu"
+        }
+      ],
+      "type_specific": {
+        "org_type": "government_agency",
+        "full_name": "Department of Defense"
+      }
+    },
+    {
+      "id": "location-malmstrom-air-force-base",
+      "node_type": "location",
+      "label": "Malmstrom Air Force Base",
+      "summary": "",
+      "tags": [
+        "military_base"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:03.961684+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "40 some witnesses. And I've met some I met Robert Salis at  Malmstrom in 1967. You know, that was his sighting where, you know, 1"
+        }
+      ],
+      "type_specific": {
+        "location_type": "military_base",
+        "country": "US",
+        "state_or_region": "Montana"
+      }
+    },
+    {
+      "id": "location-pacific-training-area",
+      "node_type": "location",
+      "label": "Pacific Training Area",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:03.961689+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "endevous point. Let's call it a cap point. And that is a an area known to air crew. so that is interesting.  yeah, it is it "
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-roswell-new-mexico",
+      "node_type": "location",
+      "label": "Roswell, New Mexico",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:03.961693+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "nie Zamore's famous graph that came down in ' 64 and in New Mexico allegedly had little legs but anyway allegedly had little l"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-new-zealand",
+      "node_type": "location",
+      "label": "New Zealand",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:03.961697+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "FOs. And they uploaded a whole bunch of stuff to mega.co. Z New Zealand NZ. and so there might actually be a better version of this"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-argentina",
+      "node_type": "location",
+      "label": "Argentina",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:03.961701+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "ar and then you know there have been sightings in Barilloce Argentina which has its own civilian nuclear grid and then if you loo"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-australia",
+      "node_type": "location",
+      "label": "Australia",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:03.961705+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "feet altitude engaging in a wobbling motion. Westall, 1966, Australia, 200 or 300, depending on the account., students  and a tea"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-germany",
+      "node_type": "location",
+      "label": "Germany",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:03.961709+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "oned the German things. weather balloons get a bad rap. But Germany at that time was actually using metallic silver balloons as"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-roswell",
+      "node_type": "location",
+      "label": "Roswell",
+      "summary": "",
+      "tags": [
+        "city"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:03.961713+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "ry go ahead no I mean it's amazing and there  more and more Roswell Well, itself the site of the 509th atomic bomber squadron, "
+        }
+      ],
+      "type_specific": {
+        "location_type": "city",
+        "country": "US",
+        "state_or_region": "New Mexico"
+      }
+    },
+    {
+      "id": "location-area-51",
+      "node_type": "location",
+      "label": "Area 51",
+      "summary": "",
+      "tags": [
+        "military_base"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:03.961717+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "esting is coming from arrow should analyze it's coming from Area 51 that is very interesting yeah well that's Nell's testing ra"
+        }
+      ],
+      "type_specific": {
+        "location_type": "military_base",
+        "country": "US",
+        "state_or_region": "Nevada"
+      }
+    },
+    {
+      "id": "location-brazil",
+      "node_type": "location",
+      "label": "Brazil",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:03.961720+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "er altitude., and a theory that was proposed by the head of Brazil's UFO investigation department, Ruben Leamza, is that it's "
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-mexico",
+      "node_type": "location",
+      "label": "Mexico",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:03.961724+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "nie Zamore's famous graph that came down in ' 64 and in New Mexico allegedly had little legs but anyway allegedly had little l"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-chile",
+      "node_type": "location",
+      "label": "Chile",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:03.961728+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "t was 2016 or perhaps the start of 2017 with this case from Chile Chilean Navy video and this is a video looks really spectac"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "program-project-sign",
+      "node_type": "program",
+      "label": "Project Sign",
+      "summary": "",
+      "tags": [
+        "program"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:03.961732+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "John Greenwell for putting it on his site. and I think it's project sign one of their first reports. I think it was late 48 but it s"
+        }
+      ]
+    },
+    {
+      "id": "document-above-top-secret",
+      "node_type": "document",
+      "label": "Above Top Secret",
+      "summary": "",
+      "tags": [
+        "book"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:03.961736+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "bunking goes wrong because when that came out and it was on above top secret all these message boards or whatever. people had decided, o"
+        }
+      ],
+      "type_specific": {
+        "document_type": "book",
+        "author": "Timothy Good"
+      }
+    },
+    {
+      "id": "document-ufos-and-nukes",
+      "node_type": "document",
+      "label": "UFOs and Nukes",
+      "summary": "",
+      "tags": [
+        "book"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:03.961740+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "me possibly repeatable thread. You have a great book called UFOs and Nukes by a guy named Robert Hastings which I always tell you I th"
+        }
+      ],
+      "type_specific": {
+        "document_type": "book",
+        "author": "Robert Hastings"
+      }
+    },
+    {
+      "id": "claim-1iaH1a3A4Lk-discussion-summary",
+      "node_type": "claim",
+      "label": "Video 1iaH1a3A4Lk features extended discussion of Kirsten Gillibrand, Robert Hastings, Kenneth Arnol",
+      "summary": "Video 1iaH1a3A4Lk features extended discussion of Kirsten Gillibrand, Robert Hastings, Kenneth Arnold and related UAP research topics, hosted by Jesse Michels.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:03.961752+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "Episode title: UFO Skeptic Mick West Challenged To A Debate"
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Video 1iaH1a3A4Lk features extended discussion of Kirsten Gillibrand, Robert Hastings, Kenneth Arnold and related UAP research topics, hosted by Jesse Michels.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "1iaH1a3A4Lk",
+        "timestamp_start_seconds": 0,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-kirsten-gillibrand",
+          "person-robert-hastings",
+          "person-kenneth-arnold",
+          "video-1iaH1a3A4Lk"
+        ]
+      }
+    },
+    {
+      "id": "person-mick-west",
+      "node_type": "person",
+      "label": "Mick West",
+      "summary": "Retired video-game programmer who became a prominent UFO debunker via Metabunk.org (started 2007, UFO-focused since 2016-2017). Expertise in plane-tracking, image analysis, conspiracy-debunking. Controversial in UFO community but 'doing an honest job per Jesse.'",
+      "tags": [
+        "debunker",
+        "skeptic"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.111733+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 85,
+          "quote": "Retired video-game programmer; Metabunk debunker"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "West"
+        ],
+        "profession": "debunker",
+        "notability_tags": [
+          "debunker",
+          "skeptic"
+        ]
+      }
+    },
+    {
+      "id": "person-merrick-von-rennenkampff-extended",
+      "node_type": "person",
+      "label": "Merrick von Rennenkampff (extended)",
+      "summary": "Former DoD employee and journalist writing for The Hill on UAP topics. Took UAP seriously after 2019 Rogan-Fravor interview — 'as soon as you watched 5 minutes of Fravor, this guy's the real deal.' Originally corresponded with Mick West as a skeptic-advocate.",
+      "tags": [
+        "journalist",
+        "DoD"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.111735+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 85,
+          "quote": "Pro-UAP-investigation journalist; former DoD employee"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Rennenkampff"
+        ],
+        "profession": "journalist",
+        "notability_tags": [
+          "journalist",
+          "DoD"
+        ]
+      }
+    },
+    {
+      "id": "document-metabunk-org",
+      "node_type": "document",
+      "label": "Metabunk.org",
+      "summary": "Mick West's online forum started ~2007 as Chemtrails conspiracy investigation; pivoted toward UFO-focused content ~2016-2017. Includes 9/11, flat-earth, false-flag and UAP debunking threads.",
+      "tags": [
+        "broadcast"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.111737+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 107,
+          "timestamp_end": "Mick West's conspiracy-investigation forum"
+        }
+      ],
+      "type_specific": {
+        "document_type": "broadcast",
+        "author": "Mick West"
+      }
+    },
+    {
+      "id": "event-2016-chilean-navy-ufo-video",
+      "node_type": "event",
+      "label": "2016 Chilean Navy UFO Video",
+      "summary": "Chilean Navy UFO video released by Alyssa Keane in Huffington Post in 2016/2017. Mick West's first high-profile UFO-video analysis.",
+      "tags": [
+        "publication"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.111739+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 109,
+          "timestamp_end": "Chilean Navy thermal video released by Alyssa Keane 2016-2017 Huffington Post"
+        }
+      ],
+      "type_specific": {
+        "event_type": "publication",
+        "date_approximate": "2016-11-01"
+      }
+    },
+    {
+      "id": "claim-1iaH1a3A4Lk-west-chemtrails-to-ufo-pivot",
+      "node_type": "claim",
+      "label": "Mick West's investigation trajectory: started with Wikipedia edits (~18 years ago); chemtrails consp",
+      "summary": "Mick West's investigation trajectory: started with Wikipedia edits (~18 years ago); chemtrails conspiracy debunking on blog; Metabunk.org forum evolved toward UFO focus in 2016-2017 around the Chilean Navy video case.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.117261+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 107,
+          "quote": "I was on Wikipedia messing around with the chemtrail conspiracy theory. That blog kind of evolved into my current site metabunk.org. It really kind of took off in 2016 or 2017 with this case from Chile — Chilean Navy video."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Mick West's investigation trajectory: started with Wikipedia edits (~18 years ago); chemtrails conspiracy debunking on blog; Metabunk.org forum evolved toward UFO focus in 2016-2017 around the Chilean Navy video case.",
+        "asserted_by_id": "person-mick-west",
+        "source_video_id": "1iaH1a3A4Lk",
+        "timestamp_start_seconds": 107,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-mick-west",
+          "document-metabunk-org"
+        ]
+      }
+    },
+    {
+      "id": "claim-1iaH1a3A4Lk-rennenkampff-fraver-moment-of-conversion",
+      "node_type": "claim",
+      "label": "von Rennenkampff's UAP-conversion moment: 2019 Rogan-Fravor interview. As former DoD with Navy aviat",
+      "summary": "von Rennenkampff's UAP-conversion moment: 2019 Rogan-Fravor interview. As former DoD with Navy aviator experience, 'as soon as I watched five minutes of Fravor, this guy's the real deal' — plus 3 other aviators corroborating.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.117275+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 97,
+          "quote": "I previously worked at the Pentagon. I worked with some naval aviators. As soon as I watched five minutes of Fravor, this guy's the real deal. Skipper of a storied squadron. Three other aviators out there. That was my ticket down the rabbit hole."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "von Rennenkampff's UAP-conversion moment: 2019 Rogan-Fravor interview. As former DoD with Navy aviator experience, 'as soon as I watched five minutes of Fravor, this guy's the real deal' — plus 3 other aviators corroborating.",
+        "asserted_by_id": "person-merrick-von-rennenkampff-extended",
+        "source_video_id": "1iaH1a3A4Lk",
+        "timestamp_start_seconds": 97,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-merrick-von-rennenkampff-extended",
+          "person-david-fravor"
+        ]
+      }
+    },
+    {
+      "id": "claim-1iaH1a3A4Lk-west-wrong-on-his-own-theories",
+      "node_type": "claim",
+      "label": "von Rennenkampff: 'The deeper I dug into Mick's theories — from my perspective he was wrong about a ",
+      "summary": "von Rennenkampff: 'The deeper I dug into Mick's theories — from my perspective he was wrong about a lot of his theories. The deeper we dug, I'm like — there's something to this.' Dig through Mick's explanations strengthened his pro-investigation conviction.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.117284+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 99,
+          "quote": "The deeper I dug into Mick's theories, from my perspective, he was wrong about a lot of his theories. And the deeper we dug, I'm like, my goodness, there's something to this."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "von Rennenkampff: 'The deeper I dug into Mick's theories — from my perspective he was wrong about a lot of his theories. The deeper we dug, I'm like — there's something to this.' Dig through Mick's explanations strengthened his pro-investigation conviction.",
+        "asserted_by_id": "person-merrick-von-rennenkampff-extended",
+        "source_video_id": "1iaH1a3A4Lk",
+        "timestamp_start_seconds": 99,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-merrick-von-rennenkampff-extended",
+          "person-mick-west"
+        ]
+      }
+    },
+    {
+      "id": "claim-1iaH1a3A4Lk-jesse-west-stigma-challenge",
+      "node_type": "claim",
+      "label": "Jesse challenges Mick West: 'The stigma that you promote is a big part of why they don't want to com",
+      "summary": "Jesse challenges Mick West: 'The stigma that you promote is a big part of why they don't want to come out. These guys are fighting a stigma. I encourage them to come forward.' Frames Mick as accountable for the disclosure-suppression pattern.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.117292+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 83,
+          "quote": "You're very familiar with this theory of mine, America — the stigma that you promote is a big part of why they don't want to come out. These guys are fighting a stigma. I encourage them to come forward."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Jesse challenges Mick West: 'The stigma that you promote is a big part of why they don't want to come out. These guys are fighting a stigma. I encourage them to come forward.' Frames Mick as accountable for the disclosure-suppression pattern.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "1iaH1a3A4Lk",
+        "timestamp_start_seconds": 83,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-mick-west",
+          "concept-stigma-weaponization"
+        ]
+      }
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge-video-1iaH1a3A4Lk-HOSTED_BY-person-jesse-michels",
+      "from_node_id": "video-1iaH1a3A4Lk",
+      "to_node_id": "person-jesse-michels",
+      "relationship": "HOSTED_BY",
+      "confidence": 0.99,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "Jesse hosting"
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-APPEARED_IN-video-1iaH1a3A4Lk",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "video-1iaH1a3A4Lk",
+      "relationship": "APPEARED_IN",
+      "confidence": 0.99,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "Host"
+        }
+      ],
+      "properties": {
+        "appearance_type": "host"
+      }
+    },
+    {
+      "id": "edge-video-1iaH1a3A4Lk-MENTIONS-person-kirsten-gillibrand",
+      "from_node_id": "video-1iaH1a3A4Lk",
+      "to_node_id": "person-kirsten-gillibrand",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "a bill sponsored by Chuck Schumer and signed on to by Rubio Gillibrand, former presidential candidates? 22 times and then biologic"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1iaH1a3A4Lk-MENTIONS-person-robert-hastings",
+      "from_node_id": "video-1iaH1a3A4Lk",
+      "to_node_id": "person-robert-hastings",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": " You have a great book called UFOs and Nukes by a guy named Robert Hastings which I always tell you I think you should read. I was read"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1iaH1a3A4Lk-MENTIONS-person-kenneth-arnold",
+      "from_node_id": "video-1iaH1a3A4Lk",
+      "to_node_id": "person-kenneth-arnold",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": " get very interesting. 19 April 1947, this is months before Kenneth Arnold's sighting, which kicked off the  flying saucer craze, if y"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1iaH1a3A4Lk-MENTIONS-person-eric-weinstein",
+      "from_node_id": "video-1iaH1a3A4Lk",
+      "to_node_id": "person-eric-weinstein",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": " completely uncut, heated discussion between Hal Putoff and Eric Weinstein on remote viewing. Yeah,  you heard that right. I still can"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1iaH1a3A4Lk-MENTIONS-person-james-mcdonald",
+      "from_node_id": "video-1iaH1a3A4Lk",
+      "to_node_id": "person-james-mcdonald",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": " I've come to a very different conclusion. I'm a big fan of James McDonald. I don't know if  you guys are familiar with him but very p"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1iaH1a3A4Lk-MENTIONS-person-alex-dietrich",
+      "from_node_id": "video-1iaH1a3A4Lk",
+      "to_node_id": "person-alex-dietrich",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "she's pretty new to the squadron this probably lieutenant., Alex Dietrich. Alex Dietrich. Correct. And, in her back seat is Jim Slate"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1iaH1a3A4Lk-MENTIONS-person-chuck-schumer",
+      "from_node_id": "video-1iaH1a3A4Lk",
+      "to_node_id": "person-chuck-schumer",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": " How did nonhuman intelligence get into a bill sponsored by Chuck Schumer and signed on to by Rubio Gillibrand, former presidential c"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1iaH1a3A4Lk-MENTIONS-person-stephen-greer",
+      "from_node_id": "video-1iaH1a3A4Lk",
+      "to_node_id": "person-stephen-greer",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": " know new advanced technology or possibly aliens Dr. Steven Greer is obviously outspoken person when it comes to the UFO issu"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1iaH1a3A4Lk-MENTIONS-person-bill-clinton",
+      "from_node_id": "video-1iaH1a3A4Lk",
+      "to_node_id": "person-bill-clinton",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "assistant secretary of defense for  intelligence under both Clinton and Bush. Yeah. said that there was this mothership dynamic"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1iaH1a3A4Lk-MENTIONS-person-love-has-won",
+      "from_node_id": "video-1iaH1a3A4Lk",
+      "to_node_id": "person-love-has-won",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "ma I encourage them to come forward like come forward and I won't laugh at you  I am here with Mick West and Merrick von Re"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1iaH1a3A4Lk-MENTIONS-person-paul-r-hill",
+      "from_node_id": "video-1iaH1a3A4Lk",
+      "to_node_id": "person-paul-r-hill",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "ed. you kind of came on my radar because you publish in The Hill and you're a former DoD employee and so you kind of know th"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1iaH1a3A4Lk-MENTIONS-person-riley-martin",
+      "from_node_id": "video-1iaH1a3A4Lk",
+      "to_node_id": "person-riley-martin",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "rect quote flipped on its edge. Southern California Loheed  Martin air crews is in the air. They see a metallic sorry elliptic"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1iaH1a3A4Lk-MENTIONS-person-timothy-good",
+      "from_node_id": "video-1iaH1a3A4Lk",
+      "to_node_id": "person-timothy-good",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": " 2016? Since 2016. And I think you've  always done a pretty good job and I've heard things from, you know, UFO junkie friend"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1iaH1a3A4Lk-MENTIONS-person-chan-thomas",
+      "from_node_id": "video-1iaH1a3A4Lk",
+      "to_node_id": "person-chan-thomas",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "ou're looking at it from like a meta-accientific, you know, Thomas Cooney model of like the structure of scientific revolution"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1iaH1a3A4Lk-MENTIONS-person-ryan-graves",
+      "from_node_id": "video-1iaH1a3A4Lk",
+      "to_node_id": "person-ryan-graves",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": ", \"Whoa, got it.\" And I just interviewed Navy fighter pilot Ryan Graves who testified before Congress also under oath and he kind o"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1iaH1a3A4Lk-MENTIONS-person-marco-rubio",
+      "from_node_id": "video-1iaH1a3A4Lk",
+      "to_node_id": "person-marco-rubio",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": " I love this quote from Mick, June 20th, 2020. this is when Rubio snuck a provision into you know what I'm talking about, rig"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1iaH1a3A4Lk-MENTIONS-person-betty-hill",
+      "from_node_id": "video-1iaH1a3A4Lk",
+      "to_node_id": "person-betty-hill",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "ed. you kind of came on my radar because you publish in The Hill and you're a former DoD employee and so you kind of know th"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1iaH1a3A4Lk-MENTIONS-person-harry-reid",
+      "from_node_id": "video-1iaH1a3A4Lk",
+      "to_node_id": "person-harry-reid",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "d he was doing it to kind of honor the legacy of his friend Harry Reid. So he just randomly puts in aliens in 64  pages just cuz h"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1iaH1a3A4Lk-MENTIONS-organization-international-ufo-museum-and-research-center",
+      "from_node_id": "video-1iaH1a3A4Lk",
+      "to_node_id": "organization-international-ufo-museum-and-research-center",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "ah. So, this is like it's taken off a screen in the command center of a ship., we're looking at thermal video again. So, we're"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1iaH1a3A4Lk-MENTIONS-organization-the-report-on-unidentified-flying-objects",
+      "from_node_id": "video-1iaH1a3A4Lk",
+      "to_node_id": "organization-the-report-on-unidentified-flying-objects",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "ays I think 10 days sure okay they begin tracking anomalous objects at 28,000 ft heading south at 100 knots very strange tracks"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1iaH1a3A4Lk-MENTIONS-organization-1952-washington-d-c-ufo-incident",
+      "from_node_id": "video-1iaH1a3A4Lk",
+      "to_node_id": "organization-1952-washington-d-c-ufo-incident",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "air-to-air training mission. They're just like the tic-tac  incident. They are I believe this is a pre-eployment workup cycle. S"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1iaH1a3A4Lk-MENTIONS-organization-identification-studies-of-ufos",
+      "from_node_id": "video-1iaH1a3A4Lk",
+      "to_node_id": "organization-identification-studies-of-ufos",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "ty much solved. U and that really kind of got me  hooked on UFOs. And that kind of almost coincided with the 2017 December 2"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1iaH1a3A4Lk-MENTIONS-organization-lakenheath-bentwaters-incident",
+      "from_node_id": "video-1iaH1a3A4Lk",
+      "to_node_id": "organization-lakenheath-bentwaters-incident",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "air-to-air training mission. They're just like the tic-tac  incident. They are I believe this is a pre-eployment workup cycle. S"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1iaH1a3A4Lk-MENTIONS-organization-chiles-whitted-ufo-encounter",
+      "from_node_id": "video-1iaH1a3A4Lk",
+      "to_node_id": "organization-chiles-whitted-ufo-encounter",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "That's interesting, right? but to your point for that first encounter we're talking about eight eyeballs on this thing. one of th"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1iaH1a3A4Lk-MENTIONS-organization-flying-saucer-working-party",
+      "from_node_id": "video-1iaH1a3A4Lk",
+      "to_node_id": "organization-flying-saucer-working-party",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "ike anomaly. Yeah. No, it was it was it was sent by a third party to News Nation, not by Jake. Yeah. Yeah. And it doesn't sho"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1iaH1a3A4Lk-MENTIONS-organization-the-flying-saucers-are-real",
+      "from_node_id": "video-1iaH1a3A4Lk",
+      "to_node_id": "organization-the-flying-saucers-are-real",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "u know I watched Five Minutes of Fraver, and this guy's the real deal, right? He's a skipper of a storied squadron out on th"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1iaH1a3A4Lk-MENTIONS-organization-archives-of-the-impossible",
+      "from_node_id": "video-1iaH1a3A4Lk",
+      "to_node_id": "organization-archives-of-the-impossible",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": " be falsified for forever or it's one of those things. It's impossible to falsify because there's always the idea that the that li"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1iaH1a3A4Lk-MENTIONS-organization-unidentified-flying-object",
+      "from_node_id": "video-1iaH1a3A4Lk",
+      "to_node_id": "organization-unidentified-flying-object",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "pace as, where one of these tracks is. look  out and see an object doing basically kind of like a weird pingponging zigzagging"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1iaH1a3A4Lk-MENTIONS-organization-us-department-of-defense",
+      "from_node_id": "video-1iaH1a3A4Lk",
+      "to_node_id": "organization-us-department-of-defense",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "se told him the people that work in the kind of the missile defense program on shore told him that they saw it later. He didn't"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1iaH1a3A4Lk-MENTIONS-organization-lonnie-zamora-incident",
+      "from_node_id": "video-1iaH1a3A4Lk",
+      "to_node_id": "organization-lonnie-zamora-incident",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "air-to-air training mission. They're just like the tic-tac  incident. They are I believe this is a pre-eployment workup cycle. S"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1iaH1a3A4Lk-MENTIONS-organization-roswell-that-ends-well",
+      "from_node_id": "video-1iaH1a3A4Lk",
+      "to_node_id": "organization-roswell-that-ends-well",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": ". It's not like propose one plane that would fly like this. Well, why don't you propose one type of UFO? The broader problem"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1iaH1a3A4Lk-MENTIONS-organization-to-the-stars-academy",
+      "from_node_id": "video-1iaH1a3A4Lk",
+      "to_node_id": "organization-to-the-stars-academy",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "n Mick, I got I love this. so in December of 2017 I think t to the stars academy put out a an interview with I think it's commander d Alex d"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1iaH1a3A4Lk-MENTIONS-organization-the-galileo-project",
+      "from_node_id": "video-1iaH1a3A4Lk",
+      "to_node_id": "organization-the-galileo-project",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "John Greenwell for putting it on his site. and I think it's project sign one of their first reports. I think it was late 48 but"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1iaH1a3A4Lk-MENTIONS-organization-thornton-leigh-page",
+      "from_node_id": "video-1iaH1a3A4Lk",
+      "to_node_id": "organization-thornton-leigh-page",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "ray specifically when he describes what he saw on the radar page the SR page so that's the kind of simple theory thanks guy "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1iaH1a3A4Lk-MENTIONS-organization-project-blue-book",
+      "from_node_id": "video-1iaH1a3A4Lk",
+      "to_node_id": "organization-project-blue-book",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "f this topic and I've read the raw case files, the raw blue book case, like no analysis, just right, just the straight repor"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1iaH1a3A4Lk-MENTIONS-organization-world-contact-day",
+      "from_node_id": "video-1iaH1a3A4Lk",
+      "to_node_id": "organization-world-contact-day",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "hat they thought were UFOs you know back in the back in the day but perhaps some of those  were under the radar You know, t"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1iaH1a3A4Lk-MENTIONS-organization-condon-committee",
+      "from_node_id": "video-1iaH1a3A4Lk",
+      "to_node_id": "organization-condon-committee",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "ience and default. It's a remarkable critique of the Condan committee which we can get into but and his bottom line assessment wa"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1iaH1a3A4Lk-MENTIONS-organization-steven-m-greer",
+      "from_node_id": "video-1iaH1a3A4Lk",
+      "to_node_id": "organization-steven-m-greer",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "say you know new advanced technology or possibly aliens Dr. Steven Greer is obviously outspoken person when it comes to the UFO issu"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1iaH1a3A4Lk-MENTIONS-organization-jerome-clark",
+      "from_node_id": "video-1iaH1a3A4Lk",
+      "to_node_id": "organization-jerome-clark",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "om nuts and bolts. just you know goes towards the Arthur C. Clark quote that any sufficiently advanced technology appears to "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1iaH1a3A4Lk-MENTIONS-organization-us-air-force",
+      "from_node_id": "video-1iaH1a3A4Lk",
+      "to_node_id": "organization-us-air-force",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": " insane how many quote unquote drones we're seeing over air force bases  all over the world right now. and so yeah, I'm very "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1iaH1a3A4Lk-MENTIONS-organization-big-sur-ufo",
+      "from_node_id": "video-1iaH1a3A4Lk",
+      "to_node_id": "organization-big-sur-ufo",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "# UFO Skeptic Mick West Challenged To A Debate https://www.youtub"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1iaH1a3A4Lk-MENTIONS-organization-mirage-men",
+      "from_node_id": "video-1iaH1a3A4Lk",
+      "to_node_id": "organization-mirage-men",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "ow the stories vary quite a lot. You got all these enlisted men on the boat who have these this story about how the data br"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1iaH1a3A4Lk-MENTIONS-organization-us-navy",
+      "from_node_id": "video-1iaH1a3A4Lk",
+      "to_node_id": "organization-us-navy",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "And I previously worked at the Pentagon. I worked with some Navy aviators, naval aviators, more rotary wing guys, but I knew"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1iaH1a3A4Lk-MENTIONS-organization-nasa",
+      "from_node_id": "video-1iaH1a3A4Lk",
+      "to_node_id": "organization-nasa",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "vers all over the world.\" That's interesting. Nobody in the NASA panel, by the way, raise their hand when he said that. Like"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1iaH1a3A4Lk-MENTIONS-organization-cia",
+      "from_node_id": "video-1iaH1a3A4Lk",
+      "to_node_id": "organization-cia",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "ty remarkable. We had just about every single We had former CIA directors, former, national intelligence directors, just ex"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1iaH1a3A4Lk-MENTIONS-organization-fbi",
+      "from_node_id": "video-1iaH1a3A4Lk",
+      "to_node_id": "organization-fbi",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "ld we play this? I look I from the only quickly we have the FBI, we have FAA, there's drone restrictions in place.  there's"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1iaH1a3A4Lk-MENTIONS-organization-nsa",
+      "from_node_id": "video-1iaH1a3A4Lk",
+      "to_node_id": "organization-nsa",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "se cases.\" And that's pretty extraordinary. He was a former NSA director. He's NSA scientist. Scientist. Yeah., so, it is p"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1iaH1a3A4Lk-MENTIONS-organization-dod",
+      "from_node_id": "video-1iaH1a3A4Lk",
+      "to_node_id": "organization-dod",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "y radar because you publish in The Hill and you're a former DoD employee and so you kind of know that world and you were pu"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1iaH1a3A4Lk-MENTIONS-location-malmstrom-air-force-base",
+      "from_node_id": "video-1iaH1a3A4Lk",
+      "to_node_id": "location-malmstrom-air-force-base",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "40 some witnesses. And I've met some I met Robert Salis at  Malmstrom in 1967. You know, that was his sighting where, you know, 1"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1iaH1a3A4Lk-MENTIONS-location-pacific-training-area",
+      "from_node_id": "video-1iaH1a3A4Lk",
+      "to_node_id": "location-pacific-training-area",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "endevous point. Let's call it a cap point. And that is a an area known to air crew. so that is interesting.  yeah, it is it "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1iaH1a3A4Lk-MENTIONS-location-roswell-new-mexico",
+      "from_node_id": "video-1iaH1a3A4Lk",
+      "to_node_id": "location-roswell-new-mexico",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "nie Zamore's famous graph that came down in ' 64 and in New Mexico allegedly had little legs but anyway allegedly had little l"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1iaH1a3A4Lk-MENTIONS-location-new-zealand",
+      "from_node_id": "video-1iaH1a3A4Lk",
+      "to_node_id": "location-new-zealand",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "FOs. And they uploaded a whole bunch of stuff to mega.co. Z New Zealand NZ. and so there might actually be a better version of this"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1iaH1a3A4Lk-MENTIONS-location-argentina",
+      "from_node_id": "video-1iaH1a3A4Lk",
+      "to_node_id": "location-argentina",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "ar and then you know there have been sightings in Barilloce Argentina which has its own civilian nuclear grid and then if you loo"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1iaH1a3A4Lk-MENTIONS-location-australia",
+      "from_node_id": "video-1iaH1a3A4Lk",
+      "to_node_id": "location-australia",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "feet altitude engaging in a wobbling motion. Westall, 1966, Australia, 200 or 300, depending on the account., students  and a tea"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1iaH1a3A4Lk-MENTIONS-location-germany",
+      "from_node_id": "video-1iaH1a3A4Lk",
+      "to_node_id": "location-germany",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "oned the German things. weather balloons get a bad rap. But Germany at that time was actually using metallic silver balloons as"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1iaH1a3A4Lk-MENTIONS-location-roswell",
+      "from_node_id": "video-1iaH1a3A4Lk",
+      "to_node_id": "location-roswell",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "ry go ahead no I mean it's amazing and there  more and more Roswell Well, itself the site of the 509th atomic bomber squadron, "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1iaH1a3A4Lk-MENTIONS-location-area-51",
+      "from_node_id": "video-1iaH1a3A4Lk",
+      "to_node_id": "location-area-51",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "esting is coming from arrow should analyze it's coming from Area 51 that is very interesting yeah well that's Nell's testing ra"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1iaH1a3A4Lk-MENTIONS-location-brazil",
+      "from_node_id": "video-1iaH1a3A4Lk",
+      "to_node_id": "location-brazil",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "er altitude., and a theory that was proposed by the head of Brazil's UFO investigation department, Ruben Leamza, is that it's "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1iaH1a3A4Lk-MENTIONS-location-mexico",
+      "from_node_id": "video-1iaH1a3A4Lk",
+      "to_node_id": "location-mexico",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "nie Zamore's famous graph that came down in ' 64 and in New Mexico allegedly had little legs but anyway allegedly had little l"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1iaH1a3A4Lk-MENTIONS-location-chile",
+      "from_node_id": "video-1iaH1a3A4Lk",
+      "to_node_id": "location-chile",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "t was 2016 or perhaps the start of 2017 with this case from Chile Chilean Navy video and this is a video looks really spectac"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1iaH1a3A4Lk-MENTIONS-program-project-sign",
+      "from_node_id": "video-1iaH1a3A4Lk",
+      "to_node_id": "program-project-sign",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "John Greenwell for putting it on his site. and I think it's project sign one of their first reports. I think it was late 48 but it s"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1iaH1a3A4Lk-CITES-document-above-top-secret",
+      "from_node_id": "video-1iaH1a3A4Lk",
+      "to_node_id": "document-above-top-secret",
+      "relationship": "CITES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "bunking goes wrong because when that came out and it was on above top secret all these message boards or whatever. people had decided, o"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1iaH1a3A4Lk-CITES-document-ufos-and-nukes",
+      "from_node_id": "video-1iaH1a3A4Lk",
+      "to_node_id": "document-ufos-and-nukes",
+      "relationship": "CITES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "me possibly repeatable thread. You have a great book called UFOs and Nukes by a guy named Robert Hastings which I always tell you I th"
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-1iaH1a3A4Lk-discussion-summary",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-1iaH1a3A4Lk-discussion-summary",
+      "relationship": "ASSERTED",
+      "confidence": 0.9,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0,
+          "quote": "Episode: UFO Skeptic Mick West Challenged To A Debate"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1iaH1a3A4Lk-REFERENCES-claim-1iaH1a3A4Lk-discussion-summary",
+      "from_node_id": "video-1iaH1a3A4Lk",
+      "to_node_id": "claim-1iaH1a3A4Lk-discussion-summary",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 0
+        }
+      ]
+    },
+    {
+      "id": "edge-person-mick-west-ASSERTED-claim-1iaH1a3A4Lk-west-chemtrails-to-ufo-pivot",
+      "from_node_id": "person-mick-west",
+      "to_node_id": "claim-1iaH1a3A4Lk-west-chemtrails-to-ufo-pivot",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 107,
+          "quote": "Mick West's investigation trajectory: started with Wikipedia edits (~18 years ago); chemtrails conspiracy debunking on blog; Metabunk.org forum evolved toward UFO focus in 2016-2017 around the Chilean"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1iaH1a3A4Lk-REFERENCES-claim-1iaH1a3A4Lk-west-chemtrails-to-ufo-pivot",
+      "from_node_id": "video-1iaH1a3A4Lk",
+      "to_node_id": "claim-1iaH1a3A4Lk-west-chemtrails-to-ufo-pivot",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 107
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-1iaH1a3A4Lk-west-chemtrails-to-ufo-pivot-REFERENCES-document-metabunk-org",
+      "from_node_id": "claim-1iaH1a3A4Lk-west-chemtrails-to-ufo-pivot",
+      "to_node_id": "document-metabunk-org",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 107
+        }
+      ]
+    },
+    {
+      "id": "edge-person-merrick-von-rennenkampff-extended-ASSERTED-claim-1iaH1a3A4Lk-rennenkampff-fraver-moment-of-conversion",
+      "from_node_id": "person-merrick-von-rennenkampff-extended",
+      "to_node_id": "claim-1iaH1a3A4Lk-rennenkampff-fraver-moment-of-conversion",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 97,
+          "quote": "von Rennenkampff's UAP-conversion moment: 2019 Rogan-Fravor interview. As former DoD with Navy aviator experience, 'as soon as I watched five minutes of Fravor, this guy's the real deal' — plus 3 othe"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1iaH1a3A4Lk-REFERENCES-claim-1iaH1a3A4Lk-rennenkampff-fraver-moment-of-conversion",
+      "from_node_id": "video-1iaH1a3A4Lk",
+      "to_node_id": "claim-1iaH1a3A4Lk-rennenkampff-fraver-moment-of-conversion",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 97
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-1iaH1a3A4Lk-rennenkampff-fraver-moment-of-conversion-REFERENCES-person-david-fravor",
+      "from_node_id": "claim-1iaH1a3A4Lk-rennenkampff-fraver-moment-of-conversion",
+      "to_node_id": "person-david-fravor",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 97
+        }
+      ]
+    },
+    {
+      "id": "edge-person-merrick-von-rennenkampff-extended-ASSERTED-claim-1iaH1a3A4Lk-west-wrong-on-his-own-theories",
+      "from_node_id": "person-merrick-von-rennenkampff-extended",
+      "to_node_id": "claim-1iaH1a3A4Lk-west-wrong-on-his-own-theories",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 99,
+          "quote": "von Rennenkampff: 'The deeper I dug into Mick's theories — from my perspective he was wrong about a lot of his theories. The deeper we dug, I'm like — there's something to this.' Dig through Mick's ex"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1iaH1a3A4Lk-REFERENCES-claim-1iaH1a3A4Lk-west-wrong-on-his-own-theories",
+      "from_node_id": "video-1iaH1a3A4Lk",
+      "to_node_id": "claim-1iaH1a3A4Lk-west-wrong-on-his-own-theories",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 99
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-1iaH1a3A4Lk-west-wrong-on-his-own-theories-REFERENCES-person-mick-west",
+      "from_node_id": "claim-1iaH1a3A4Lk-west-wrong-on-his-own-theories",
+      "to_node_id": "person-mick-west",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 99
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-1iaH1a3A4Lk-jesse-west-stigma-challenge",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-1iaH1a3A4Lk-jesse-west-stigma-challenge",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 83,
+          "quote": "Jesse challenges Mick West: 'The stigma that you promote is a big part of why they don't want to come out. These guys are fighting a stigma. I encourage them to come forward.' Frames Mick as accountab"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1iaH1a3A4Lk-REFERENCES-claim-1iaH1a3A4Lk-jesse-west-stigma-challenge",
+      "from_node_id": "video-1iaH1a3A4Lk",
+      "to_node_id": "claim-1iaH1a3A4Lk-jesse-west-stigma-challenge",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 83
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-1iaH1a3A4Lk-jesse-west-stigma-challenge-REFERENCES-person-mick-west",
+      "from_node_id": "claim-1iaH1a3A4Lk-jesse-west-stigma-challenge",
+      "to_node_id": "person-mick-west",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 83
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-1iaH1a3A4Lk-jesse-west-stigma-challenge-REFERENCES-concept-stigma-weaponization",
+      "from_node_id": "claim-1iaH1a3A4Lk-jesse-west-stigma-challenge",
+      "to_node_id": "concept-stigma-weaponization",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1iaH1a3A4Lk",
+          "timestamp_start": 83
+        }
+      ]
+    }
+  ],
+  "extracted_at": "2026-04-17T23:20:40.117301+00:00",
+  "extractor_version": "v1-inline-claude"
+}

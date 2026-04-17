@@ -173,6 +173,15 @@ export default function App() {
     return Array.from(classifications).sort((left, right) => left.localeCompare(right));
   }, [graphData.nodes]);
 
+  const availablePipelineSources = useMemo(() => {
+    const sources = new Set<string>();
+    for (const node of graphData.nodes) {
+      const ps = (node as ArchiveNode & { pipeline_source?: string }).pipeline_source;
+      if (typeof ps === 'string' && ps.length > 0) sources.add(ps);
+    }
+    return Array.from(sources).sort((left, right) => left.localeCompare(right));
+  }, [graphData.nodes]);
+
   const minYear = years.length ? Math.min(...years) : 1900;
   const maxYear = years.length ? Math.max(...years) : new Date().getFullYear();
 
@@ -333,6 +342,15 @@ export default function App() {
     }));
   };
 
+  const onTogglePipelineSource = (src: string) => {
+    setFilters((previous) => ({
+      ...previous,
+      pipelineSources: previous.pipelineSources.includes(src)
+        ? previous.pipelineSources.filter((item) => item !== src)
+        : [...previous.pipelineSources, src],
+    }));
+  };
+
   const onDateFromChange = (year: number) => {
     setFilters((previous) => ({
       ...previous,
@@ -441,10 +459,12 @@ export default function App() {
         maxYear={maxYear}
         availableTags={availableTags}
         availableClassifications={availableClassifications}
-          onToggleNodeType={onToggleNodeType}
-          onToggleConfidence={onToggleConfidence}
-          onToggleClassification={onToggleClassification}
+        availablePipelineSources={availablePipelineSources}
+        onToggleNodeType={onToggleNodeType}
+        onToggleConfidence={onToggleConfidence}
+        onToggleClassification={onToggleClassification}
         onToggleTag={onToggleTag}
+        onTogglePipelineSource={onTogglePipelineSource}
         onDateFromChange={onDateFromChange}
         onDateToChange={onDateToChange}
         onGraphNodeCapChange={onGraphNodeCapChange}

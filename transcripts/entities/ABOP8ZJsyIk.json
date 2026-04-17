@@ -1,0 +1,3166 @@
+{
+  "video_id": "ABOP8ZJsyIk",
+  "nodes": [
+    {
+      "id": "video-ABOP8ZJsyIk",
+      "node_type": "video",
+      "label": "\"Aliens Live Among Us...I've Met Them!\" -Whitley Strieber Tells All",
+      "summary": "Join Jesse Michels on today's episode of American Alchemy as he sits down with renowned author Whitley Strieber to discuss the cultural significance of Whitley's groundbreaking book \"Communion,\"...",
+      "tags": [
+        "video",
+        "american-alchemy"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:47.312629+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "timestamp_end": 8914.0,
+          "quote": "Video: \"Aliens Live Among Us...I've Met Them!\" -Whitley Strieber Tells All"
+        }
+      ],
+      "type_specific": {
+        "video_id": "ABOP8ZJsyIk",
+        "title": "\"Aliens Live Among Us...I've Met Them!\" -Whitley Strieber Tells All",
+        "url": "https://www.youtube.com/watch?v=ABOP8ZJsyIk",
+        "view_count": 345759,
+        "duration_seconds": 8914.0,
+        "host_id": "person-jesse-michels",
+        "guest_ids": [
+          "person-whitley-strieber"
+        ]
+      }
+    },
+    {
+      "id": "person-jesse-michels",
+      "node_type": "person",
+      "label": "Jesse Michels",
+      "summary": "Host of American Alchemy podcast/show. Independent journalist and UFO/NHI researcher.",
+      "tags": [
+        "journalist",
+        "interviewer",
+        "researcher",
+        "host"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:47.312647+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": "Host of American Alchemy podcast/show."
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Jesse",
+          "Michels"
+        ],
+        "profession": "journalist",
+        "notability_tags": [
+          "journalist",
+          "interviewer",
+          "researcher",
+          "host"
+        ]
+      }
+    },
+    {
+      "id": "person-wilbert-brockhouse-smith",
+      "node_type": "person",
+      "label": "Wilbert Brockhouse Smith",
+      "summary": "William Brockhouse Smith (1910 – December 27, 1962) was a Canadian engineer, government scientist, ufologist, and author of various patents and technical papers.",
+      "tags": [
+        "wikipedia",
+        "20th-century canadian engineers",
+        "canadian electrical engineers",
+        "contactees",
+        "date of birth missing",
+        "date of birth not in wikidata",
+        "engineers from alberta",
+        "pages where birth or death is being automatically determined",
+        "people from lethbridge",
+        "ufologists",
+        "university of british columbia alumni"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:48.025072+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": " had the strangest experience with him. I had a friend Mike Smith when I was living in London. He was also an American and he"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Smith",
+          "WILBERT BROCKHOUSE SMITH",
+          "wilbert brockhouse smith"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "20th-century canadian engineers",
+          "canadian electrical engineers",
+          "contactees",
+          "date of birth missing",
+          "date of birth not in wikidata",
+          "engineers from alberta",
+          "pages where birth or death is being automatically determined",
+          "people from lethbridge",
+          "ufologists",
+          "university of british columbia alumni"
+        ]
+      }
+    },
+    {
+      "id": "person-whitley-strieber",
+      "node_type": "person",
+      "label": "Whitley Strieber",
+      "summary": "Whitley Strieber entity extracted from cross-source archival records.",
+      "tags": [
+        "pipeline-generated",
+        "entity-extracted"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:48.025089+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": "# \"Aliens Live Among Us...I've Met Them!\" -Whitley Strieber Tells All https://www.youtube.com/watch?v=ABOP8ZJsyIk views"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Strieber",
+          "WHITLEY STRIEBER",
+          "whitley strieber"
+        ],
+        "notability_tags": [
+          "pipeline-generated",
+          "entity-extracted"
+        ]
+      }
+    },
+    {
+      "id": "person-stanton-friedman",
+      "node_type": "person",
+      "label": "Stanton Friedman",
+      "summary": "",
+      "tags": [
+        "researcher",
+        "nuclear physicist"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:48.025096+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": "sly head of the Harvard psychiatry department and then Stan Friedman was like this Westinghouse nuclear engineer, right? you kno"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Friedman"
+        ],
+        "notability_tags": [
+          "researcher",
+          "nuclear physicist"
+        ]
+      }
+    },
+    {
+      "id": "person-eric-weinstein",
+      "node_type": "person",
+      "label": "Eric Weinstein",
+      "summary": "",
+      "tags": [
+        "mathematician",
+        "physicist"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:48.025101+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": " completely uncut, heated discussion between Hal Putoff and Eric Weinstein on remote viewing. Yeah, you heard that right. I still can'"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Weinstein"
+        ],
+        "notability_tags": [
+          "mathematician",
+          "physicist"
+        ]
+      }
+    },
+    {
+      "id": "person-graham-hancock",
+      "node_type": "person",
+      "label": "Graham Hancock",
+      "summary": "",
+      "tags": [
+        "author",
+        "ancient history"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:48.025105+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": "ve a friend named Randall Carlson. Works a lot with Graham  Hancock, incredibly smart, just super rigorous. I would not do just"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Hancock"
+        ],
+        "notability_tags": [
+          "author",
+          "ancient history"
+        ]
+      }
+    },
+    {
+      "id": "person-richard-dolan",
+      "node_type": "person",
+      "label": "Richard Dolan",
+      "summary": "",
+      "tags": [
+        "historian",
+        "author"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:48.025109+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": " in his high beings or that if you talk to like people like Richard Dolan, you know, he'll say like  they're the Men in Black phenome"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Dolan"
+        ],
+        "notability_tags": [
+          "historian",
+          "author"
+        ]
+      }
+    },
+    {
+      "id": "person-stephen-greer",
+      "node_type": "person",
+      "label": "Stephen Greer",
+      "summary": "",
+      "tags": [
+        "researcher",
+        "disclosure"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:48.025114+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": "ned on in an interesting way. She was in Mexico with Steven Greer and he called in a UFO and they all saw it., so didn't didn"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Dr. Greer",
+          "Greer"
+        ],
+        "notability_tags": [
+          "researcher",
+          "disclosure"
+        ]
+      }
+    },
+    {
+      "id": "person-love-has-won",
+      "node_type": "person",
+      "label": "Love Has Won",
+      "summary": "Love Has Won (LHW), also known as the Galactic Federation of Light, is an American new religious movement that was led by Amy Carlson until her death in 2021. Carlson was referred to within the group as \"Mother God\", who described herself as, among other things, the creator of the universe, with the",
+      "tags": [
+        "wikipedia",
+        "2007 establishments in colorado",
+        "ancient astronaut speculation",
+        "covid-19 vaccine misinformation and hesitancy",
+        "climate change denial in the united states",
+        "holocaust denial in the united states",
+        "new age organizations",
+        "new religious movements established in the 2000s",
+        "qanon",
+        "religious belief systems founded in the united states",
+        "religious controversies in the united states",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:48.025118+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": " when people are all angry about, you know,  the government won't disclose and so forth, I say, \"Wait a minute.\" And they s"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "LOVE HAS WON",
+          "Won",
+          "love has won"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "2007 establishments in colorado",
+          "ancient astronaut speculation",
+          "covid-19 vaccine misinformation and hesitancy",
+          "climate change denial in the united states",
+          "holocaust denial in the united states",
+          "new age organizations",
+          "new religious movements established in the 2000s",
+          "qanon",
+          "religious belief systems founded in the united states",
+          "religious controversies in the united states",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "person-paul-r-hill",
+      "node_type": "person",
+      "label": "Paul R. Hill",
+      "summary": "Paul Richard Hill (1909–1990) was a mid–twentieth-century American aerodynamicist. He was a leading research and development engineer and manager for NASA (National Aeronautics and Space Administration) and its predecessor, NACA (the National Advisory Council for Aeronautics) between 1939 and 1970, ",
+      "tags": [
+        "wikipedia",
+        "aerodynamicists",
+        "nasa people",
+        "scientists from iowa",
+        "uc berkeley college of engineering alumni",
+        "ufologists",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:48.025123+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": "neighborhood. Yeah. And my father was on a big house on the hill and then across the street a couple houses down is an FBI a"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Hill",
+          "PAUL R. HILL",
+          "Paul Hill",
+          "paul r. hill"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "aerodynamicists",
+          "nasa people",
+          "scientists from iowa",
+          "uc berkeley college of engineering alumni",
+          "ufologists",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "person-timothy-good",
+      "node_type": "person",
+      "label": "Timothy Good",
+      "summary": "",
+      "tags": [
+        "researcher",
+        "author"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:48.025127+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": "ever they have. And so the choice of this guy, I can tell a good story. I'm [clears throat] an efficient writer, but I don't"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Tim Good",
+          "Good"
+        ],
+        "notability_tags": [
+          "researcher",
+          "author"
+        ]
+      }
+    },
+    {
+      "id": "person-chan-thomas",
+      "node_type": "person",
+      "label": "Chan Thomas",
+      "summary": "Chan Thomas (1920–1998) was an American engineer, ufologist, writer on ancient cataclysms, and self-proclaimed polymath whose ideas have influenced conspiracy theorists in the 21st century.",
+      "tags": [
+        "wikipedia",
+        "20th-century american engineers",
+        "mcdonnell douglas people",
+        "ufologists",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:48.025132+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": " set up UFO secrecy in 1954 and I know he's very close with Thomas Townsen Brown who was  a mid-century anti-gra. He set up UF"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "CHAN THOMAS",
+          "Thomas",
+          "chan thomas"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "20th-century american engineers",
+          "mcdonnell douglas people",
+          "ufologists",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "person-garry-nolan",
+      "node_type": "person",
+      "label": "Garry Nolan",
+      "summary": "Garry P. Nolan (born c. 1961) is a British-American immunologist, academic, inventor, and business executive. He holds the Rachford and Carlota A. Harris Professor Endowed Chair in the Department of Pathology at Stanford University School of Medicine. Nolan has founded biotechnology companies. Since",
+      "tags": [
+        "wikipedia",
+        "1960s births",
+        "american cancer researchers",
+        "american immunologists",
+        "american pathologists",
+        "british cancer researchers",
+        "british immunologists",
+        "cornell university alumni",
+        "pages with broken reference names",
+        "pages with reference errors",
+        "serologists",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:48.025136+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": "f reconvened at the Soul Conference, which was held by Gary Nolan at Stanford last year. And you guys really hit it off. And "
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "GARRY NOLAN",
+          "Nolan",
+          "garry nolan"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "1960s births",
+          "american cancer researchers",
+          "american immunologists",
+          "american pathologists",
+          "british cancer researchers",
+          "british immunologists",
+          "cornell university alumni",
+          "pages with broken reference names",
+          "pages with reference errors",
+          "serologists",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "person-ed-mitchell",
+      "node_type": "person",
+      "label": "Ed Mitchell",
+      "summary": "",
+      "tags": [
+        "astronaut",
+        "Apollo 14"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:48.025140+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": "is family, not all, but some, invited me and, John Mack and Edgar Mitchell and, Joe Lules, who's a UFO investigator from, El Paso, to "
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Edgar Mitchell",
+          "Mitchell"
+        ],
+        "notability_tags": [
+          "astronaut",
+          "Apollo 14"
+        ]
+      }
+    },
+    {
+      "id": "person-betty-hill",
+      "node_type": "person",
+      "label": "Betty Hill",
+      "summary": "Betty Hill entity extracted from cross-source archival records.",
+      "tags": [
+        "pipeline-generated",
+        "entity-extracted"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:48.025145+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": "neighborhood. Yeah. And my father was on a big house on the hill and then across the street a couple houses down is an FBI a"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "BETTY HILL",
+          "Hill",
+          "betty hill"
+        ],
+        "notability_tags": [
+          "pipeline-generated",
+          "entity-extracted"
+        ]
+      }
+    },
+    {
+      "id": "person-kid-cosmic",
+      "node_type": "person",
+      "label": "Kid Cosmic",
+      "summary": "Kid Cosmic is an American animated superhero television series created by Craig McCracken and developed by McCracken, his wife Lauren Faust and Francisco Angones for Netflix. The series was based on his 2009 comic The Kid from Planet Earth. Produced in-house by Netflix Animation, the show is McCrack",
+      "tags": [
+        "wikipedia",
+        "2020s american animated comedy television series",
+        "2020s american children's comedy television series",
+        "2020s american science fiction comedy television series",
+        "2020s american superhero comedy television series",
+        "2021 american animated television series debuts",
+        "2022 american television series endings",
+        "american english-language television shows",
+        "american children's animated action television series",
+        "american children's animated adventure television series",
+        "american children's animated comic science fiction television series",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:48.025149+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": "ey to make you a high performer? No, they were to crack the cosmic egg, I think. So, kind of liberate the soul from the body a"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Cosmic",
+          "KID COSMIC",
+          "kid cosmic"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "2020s american animated comedy television series",
+          "2020s american children's comedy television series",
+          "2020s american science fiction comedy television series",
+          "2020s american superhero comedy television series",
+          "2021 american animated television series debuts",
+          "2022 american television series endings",
+          "american english-language television shows",
+          "american children's animated action television series",
+          "american children's animated adventure television series",
+          "american children's animated comic science fiction television series",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "person-john-mack",
+      "node_type": "person",
+      "label": "John Mack",
+      "summary": "",
+      "tags": [
+        "psychiatrist",
+        "Harvard",
+        "abduction research"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:48.025152+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": "e this, I just often remember a specific interview that Dr. John Mack did with one of the one of the kids from the aerial school."
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Dr. Mack",
+          "Mack"
+        ],
+        "notability_tags": [
+          "psychiatrist",
+          "Harvard",
+          "abduction research"
+        ]
+      }
+    },
+    {
+      "id": "person-art-bell",
+      "node_type": "person",
+      "label": "Art Bell",
+      "summary": "Arthur William Bell III (June 17, 1945 – April 13, 2018) was an American broadcaster and author. He was the founder and the original host of the paranormal-themed radio program Coast to Coast AM, which is syndicated on hundreds of radio stations in the United States and Canada. He also created and h",
+      "tags": [
+        "wikipedia",
+        "20th-century american businesspeople",
+        "accidental deaths in nevada",
+        "amateur radio people",
+        "american non-fiction environmental writers",
+        "american radio djs",
+        "american radio executives",
+        "american talk radio hosts",
+        "businesspeople from monterey, california",
+        "businesspeople from nevada",
+        "coast to coast am",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:48.025156+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": "systems to like do certain things over and over? You ring a bell or what? You It's kind of like Aval's dog sort of thing. Ye"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "ART BELL",
+          "Bell",
+          "art bell"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "20th-century american businesspeople",
+          "accidental deaths in nevada",
+          "amateur radio people",
+          "american non-fiction environmental writers",
+          "american radio djs",
+          "american radio executives",
+          "american talk radio hosts",
+          "businesspeople from monterey, california",
+          "businesspeople from nevada",
+          "coast to coast am",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "organization-international-ufo-museum-and-research-center",
+      "node_type": "organization",
+      "label": "International UFO Museum and Research Center",
+      "summary": "The International UFO Museum and Research Center is located in Roswell, New Mexico, United States, in the downtown district, and is focused largely on the 1947 Roswell Crash and later supposed UFO incidents in the United States and elsewhere. It was founded in 1991 as a 501c3 nonprofit educational o",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:48.025162+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": "ore. everyone, you know, the people would all rush into the center of the thing and try to go up because the gas was low and t"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-ufo-sightings-in-the-united-kingdom",
+      "node_type": "organization",
+      "label": "UFO sightings in the United Kingdom",
+      "summary": "This is a list of notable alleged sightings of unidentified flying objects (UFOs) in the United Kingdom. Many more sightings have become known since the gradual release, between 2008 and 2013, of the Ministry of Defence's UFO sighting reports by the National Archives. In recent years, there have bee",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:48.025167+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": "nd they hang out and they talk about God constantly and the kingdom of heaven and they seem to have faith in  some sort of high"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-1952-washington-d-c-ufo-incident",
+      "node_type": "organization",
+      "label": "1952 Washington, D.C. UFO incident",
+      "summary": "From July 12 to 29, 1952, a series of unidentified flying object (UFO) sightings were reported in Washington, D.C., and later became known as the Washington flap, the Washington National Airport Sightings, or the Invasion of Washington. The most publicized sightings took place on consecutive weekend",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:48.025172+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": "D. I'm sure. I'm sure it does. but let's go back now to the incident to this the two men coming into the  apartment. This was a "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-identification-studies-of-ufos",
+      "node_type": "organization",
+      "label": "Identification studies of UFOs",
+      "summary": "Identifying unidentified flying objects (UFOs) is a difficult task due to the normally poor quality of the evidence provided by those who report sighting the unknown object. Observations and subsequent reporting are often made by those untrained in astronomy, atmospheric phenomena, aeronautics, phys",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:48.025177+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": "24. The entire country seems to be talking about drones and UFOs and it's like the most in the zeitgeist that's been in my l"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-lakenheath-bentwaters-incident",
+      "node_type": "organization",
+      "label": "Lakenheath-Bentwaters incident",
+      "summary": "The Lakenheath-Bentwaters Incident was a series of radar and visual contacts with unidentified flying objects over airbases in eastern England on the night of 13–14 August 1956, involving personnel from the Royal Air Force (RAF) and the United States Air Force (USAF). The incident has since gained s",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:48.025182+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": "D. I'm sure. I'm sure it does. but let's go back now to the incident to this the two men coming into the  apartment. This was a "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-chiles-whitted-ufo-encounter",
+      "node_type": "organization",
+      "label": "Chiles-Whitted UFO encounter",
+      "summary": "The Chiles-Whitted UFO encounter occurred at approximately 2:45 AM on July 24, 1948, in the skies near Montgomery, Alabama, United States. Two commercial pilots, Clarence S. Chiles and John B. Whitted, claimed to have observed a \"glowing object\" pass by their plane before it appeared to pull up into",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:48.025186+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": "tivated, I mean, you see a UFO up close or you have a close encounter experience, you're activated. You most people who that happ"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-flying-saucer-working-party",
+      "node_type": "organization",
+      "label": "Flying Saucer Working Party",
+      "summary": "Flying Saucer Working Party (or FSWP) was the name of the United Kingdom Ministry of Defence’s (MOD) first \"official study into UFOs\", which has its roots in a study commissioned in 1950 by the MOD’s then Chief Scientific Adviser, the eminent radar scientist Sir Henry Tizard. As a result of his insi",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:48.025191+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": "out and you'll have to go home alone. In any case,, at this party there was this lady who wanted to sit with me and talk with"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-the-flying-saucers-are-real",
+      "node_type": "organization",
+      "label": "The Flying Saucers Are Real",
+      "summary": "The Flying Saucers Are Real, by Donald Keyhoe, is a book that investigated reports of UFOs by United States Air Force fighters, personnel, and other aircraft, between 1947 and 1950.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:48.025196+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": " his horror novels so he wrote a horror novel and called it real in other words you can just opt out if you want to with me "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-archives-of-the-impossible",
+      "node_type": "organization",
+      "label": "Archives of the Impossible",
+      "summary": "The Archives of the Impossible (AOTI), sometimes called the Center for the Impossible, is a special collection at Rice University in Houston, Texas, United States. Founded in 2014 by Jeffrey J. Kripal, AOTI is based at the Woodson Research Center in the Fondren Library. It stewards collections on UF",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:48.025200+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": " poor. And I'm hoping and this seems to me to be completely impossible. I'm hoping that we will be able to reach out to them in so"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-the-spaceships-of-ezekiel",
+      "node_type": "organization",
+      "label": "The Spaceships of Ezekiel",
+      "summary": "The Spaceships of Ezekiel (1974) is a book by German engineer Josef F. Blumrich (March 17, 1913 – February 10, 2002) about a spaceship that was supposedly observed by the prophet Ezekiel as described in Book of Ezekiel in the Tanakh. Blumrich wrote it while chief of NASA's systems layout branch of t",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:48.025204+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": "like this celestial ascend vehicle vehicle or what wheel of Ezekiel you know the whole theme of this conversation it goes back "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-us-department-of-defense",
+      "node_type": "organization",
+      "label": "US Department of Defense",
+      "summary": "US Department of Defense entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:48.025209+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": " trust the publishing industry not to get into bed with the defense department. And I'm  well aware of the fact that there are "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-lonnie-zamora-incident",
+      "node_type": "organization",
+      "label": "Lonnie Zamora incident",
+      "summary": "The Lonnie Zamora incident was an alleged UFO sighting that occurred on April 24, 1964 near Socorro, New Mexico when Socorro police officer Lonnie Zamora claimed he saw two people beside a shiny object that later rose into the air accompanied by a roaring blue and orange flame. Zamora's claims were ",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:48.025213+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": "D. I'm sure. I'm sure it does. but let's go back now to the incident to this the two men coming into the  apartment. This was a "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-roswell-that-ends-well",
+      "node_type": "organization",
+      "label": "Roswell That Ends Well",
+      "summary": "\"Roswell That Ends Well\" is the nineteenth episode in the third season of the American animated television series Futurama, and the 51st episode of the series overall. It originally aired on the Fox network in the United States on December 9, 2001. The plot centers on an accidental time travel event",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:48.025218+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": "to my life over  the past three years. Appreciate you, man. Well, you've been really pushing me to do this. Yeah. You and Wh"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-stanton-t-friedman",
+      "node_type": "organization",
+      "label": "Stanton T. Friedman",
+      "summary": "Stanton Terry Friedman (July 29, 1934 – May 13, 2019) was an American–Canadian nuclear physicist and professional ufologist who was based in Fredericton, New Brunswick, Canada.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:48.025222+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": "sly head of the Harvard psychiatry department and then Stan Friedman was like this Westinghouse nuclear engineer, right? you kno"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-the-galileo-project",
+      "node_type": "organization",
+      "label": "The Galileo Project",
+      "summary": "The Galileo Project is an international scientific research project to search for extraterrestrial intelligence or extraterrestrial technology on and near Earth and to identify the nature of anomalous Unidentified Flying Objects/Unidentified Aerial Phenomena (UFOs/UAP). It was launched in 2021 by Ha",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:48.025226+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": " like a do you think about a color? No. No. I can't I can't project it. In other words, I can't read your mind in your mind. Bu"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-project-blue-book",
+      "node_type": "organization",
+      "label": "Project Blue Book",
+      "summary": "USAF UFO investigation program active from 1952 to 1969.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:48.025230+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": "me point, I was standing in front of the bookstore and that book just like stood, you know, stood out for me and was somethi"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-world-contact-day",
+      "node_type": "organization",
+      "label": "World Contact Day",
+      "summary": "World Contact Day was first declared in March 1953 by an organization called the International Flying Saucer Bureau (IFSB), as a day on which all IFSB members would attempt to send a telepathic message into space. The IFSB voted to hold such a day in 1953, theorising that if both telepathy and alien",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:48.025234+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": "ant you to write it all down and send it to me. So the next day I sat at my typewriter. I wrote the whole story out. I put "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-steven-m-greer",
+      "node_type": "organization",
+      "label": "Steven M. Greer",
+      "summary": "Steven Macon Greer (born 1955) is an American ufologist and a retired physician. He founded the Center for the Study of Extraterrestrial Intelligence (CSETI) and the Disclosure Project, which claims to seek the disclosure of alleged classified UFO information.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:48.025238+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": "een turned on in an interesting way. She was in Mexico with Steven Greer and he called in a UFO and they all saw it., so didn't didn"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-scp-foundation",
+      "node_type": "organization",
+      "label": "SCP Foundation",
+      "summary": "The SCP Foundation is a fictional organization featured in stories created by contributors on the SCP Wiki, a wiki-based collaborative writing project, launched in 2008. Within the project's shared universe, the SCP (Special Containment Procedures) Foundation is a secret organization that is respons",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:48.025243+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": "igh frequencies. That's the stuff that the National Science Foundation is now quietly admitting unfortunately the necessary and on"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-jerome-clark",
+      "node_type": "organization",
+      "label": "Jerome Clark",
+      "summary": "Jerome Clark (born November 27, 1946) is an American writer, specializing in unidentified flying objects and other paranormal subjects. He has appeared on ABC News Special Report, Unsolved Mysteries, Sightings and the A&E Network discussing UFOs and other oddities. Clark is also a country and folk m",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:48.025247+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": " was obviously a very extraordinary man. He was f Arthur C. Clark was Fascinating man. He was probably MI6. Oh, probably. Yea"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-us-air-force",
+      "node_type": "organization",
+      "label": "US Air Force",
+      "summary": "US Air Force entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:48.025250+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": " no idea whether or not he was., and your father was an Air Force officer? No. Oh, no. He was he was in the well, he was in t"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-big-sur-ufo",
+      "node_type": "organization",
+      "label": "Big Sur UFO",
+      "summary": "The Big Sur UFO is a reported UFO incident that took place during a 1964 Air Force deployment to a mountaintop near Big Sur, California. The deployment was a mission was to film Atlas missile tests from Vandenberg Air Force Base. Since 1982, Robert Jacobs, who had overseen the mountaintop team, has ",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:48.025255+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": "ome into our lives, I think through Stanton Freriedman, the UFO  researcher, and he was very wellconed in the intelligence "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-majestic-12",
+      "node_type": "organization",
+      "label": "Majestic 12",
+      "summary": "Majestic 12, also known as Majic-12, and MJ-12 for short, is a purported organization that appeared in fake documents first circulated by ufologists in 1984, and that some UFO conspiracy theories still claim to have existed. The organization is claimed to be the code name of an alleged secret commit",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:48.025259+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": "ton Freriedman called Top Secret. It's about, you know, the majestic 12 and you wrote the forward to it and so you seem to kind of "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-mirage-men",
+      "node_type": "organization",
+      "label": "Mirage Men",
+      "summary": "Mirage Men is a 2013 documentary film directed by John Lundberg, written by Mark Pilkington and co-directed by Roland Denning and Kypros Kyprianou. Mirage Men suggests there was a conspiracy by the U.S. military to fabricate UFO folklore in order to deflect attention from classified military project",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:48.025263+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": "rent ways. Suddenly across the river there burst tanks with men in them in black uniforms with death's heads on their on th"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-nasa",
+      "node_type": "organization",
+      "label": "NASA",
+      "summary": "NASA entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:48.025268+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": ". The shroud is amazing. And I think it was studied by like NASA at some point. Well, no, it was studied by a group of group"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other",
+        "acronym": "NASA"
+      }
+    },
+    {
+      "id": "organization-cia",
+      "node_type": "organization",
+      "label": "CIA",
+      "summary": "CIA entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:48.025271+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": "e what do they what do they want to do? I well early in the CIA,  right? They were sort of No, it was Air Force as far as I"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other",
+        "acronym": "CIA"
+      }
+    },
+    {
+      "id": "organization-fbi",
+      "node_type": "organization",
+      "label": "FBI",
+      "summary": "FBI entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:48.025275+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": " hill and then across the street a couple houses down is an FBI agent and his wife and then the street over there's these s"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other",
+        "acronym": "FBI"
+      }
+    },
+    {
+      "id": "organization-dod",
+      "node_type": "organization",
+      "label": "DoD",
+      "summary": "",
+      "tags": [
+        "government_agency"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:48.025279+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": "sence and the and us. And it's got something to do with the DoD. I'm sure. I'm sure it does. but let's go back now to the i"
+        }
+      ],
+      "type_specific": {
+        "org_type": "government_agency",
+        "full_name": "Department of Defense"
+      }
+    },
+    {
+      "id": "location-pacific-training-area",
+      "node_type": "location",
+      "label": "Pacific Training Area",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:48.025284+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": " He is very high up in this world in a completely different area from anything remotely connected. Is it science or is it No"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-roswell-new-mexico",
+      "node_type": "location",
+      "label": "Roswell, New Mexico",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:48.025289+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": " it. She'd been turned on in an interesting way. She was in Mexico with Steven Greer and he called in a UFO and they all saw i"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-united-kingdom",
+      "node_type": "location",
+      "label": "United Kingdom",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:48.025293+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": "nd they hang out and they talk about God constantly and the kingdom of heaven and they seem to have faith in  some sort of high"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-united-states",
+      "node_type": "location",
+      "label": "United States",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:48.025296+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": "China when she arrived and General Stillwell got her to the United States where she rejoined the commu the same community that she wa"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-australia",
+      "node_type": "location",
+      "label": "Australia",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:48.025300+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": " of the nuclear engineers, old-timers that he's met with in Australia, knowing who Sarbacher was. I think Sarbacher even taking a"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-roswell",
+      "node_type": "location",
+      "label": "Roswell",
+      "summary": "",
+      "tags": [
+        "city"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:48.025304+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": " he had held one of the bodies and he said this is from the Roswell crash yeah 1947 he had said he said it was like a big insec"
+        }
+      ],
+      "type_specific": {
+        "location_type": "city",
+        "country": "US",
+        "state_or_region": "New Mexico"
+      }
+    },
+    {
+      "id": "location-canada",
+      "node_type": "location",
+      "label": "Canada",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:48.025308+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": "ll, our friend Chris Ramsay, who's an amazing magician from Canada who's gotten super interested in the  UFO thing. He's actua"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-mexico",
+      "node_type": "location",
+      "label": "Mexico",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:48.025312+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": " it. She'd been turned on in an interesting way. She was in Mexico with Steven Greer and he called in a UFO and they all saw i"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "program-mj-12",
+      "node_type": "program",
+      "label": "MJ-12",
+      "summary": "",
+      "tags": [
+        "program"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:48.025316+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": "ton Freriedman called Top Secret. It's about, you know, the majestic 12 and you wrote the forward to it and so you seem to kind of "
+        }
+      ]
+    },
+    {
+      "id": "claim-ABOP8ZJsyIk-discussion-summary",
+      "node_type": "claim",
+      "label": "Video ABOP8ZJsyIk features extended discussion of Wilbert Brockhouse Smith, Whitley Strieber, Stanto",
+      "summary": "Video ABOP8ZJsyIk features extended discussion of Wilbert Brockhouse Smith, Whitley Strieber, Stanton Friedman and related UAP research topics, hosted by Jesse Michels.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:48.025327+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": "Episode title: \"Aliens Live Among Us...I've Met Them!\" -Whitley Strieber Tells All"
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Video ABOP8ZJsyIk features extended discussion of Wilbert Brockhouse Smith, Whitley Strieber, Stanton Friedman and related UAP research topics, hosted by Jesse Michels.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "ABOP8ZJsyIk",
+        "timestamp_start_seconds": 0,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-wilbert-brockhouse-smith",
+          "person-whitley-strieber",
+          "person-stanton-friedman",
+          "video-ABOP8ZJsyIk"
+        ]
+      }
+    },
+    {
+      "id": "person-whitley-strieber-extended",
+      "node_type": "person",
+      "label": "Whitley Strieber (extended)",
+      "summary": "American author; 'Communion' (1987) defined modern alien-abduction mythology and imagery of the Grays. Currently has alleged alien implant in body that activates every 2-3 years. Uncle (Mickey) worked with General Exxon at Air Material Command in 1947.",
+      "tags": [
+        "author",
+        "experiencer",
+        "abductee",
+        "implant-carrier"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.912168+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 347,
+          "quote": "Author of Communion; canonical abductee experiencer; implant carrier"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Strieber"
+        ],
+        "profession": "author",
+        "notability_tags": [
+          "author",
+          "experiencer",
+          "abductee",
+          "implant-carrier"
+        ]
+      }
+    },
+    {
+      "id": "person-david-webb-nasa",
+      "node_type": "person",
+      "label": "David W. Webb",
+      "summary": "NASA-adjacent space scientist; deeply connected in the US intelligence community; came into Strieber's life through Stanton Friedman; supported Strieber's work and visited his cabin.",
+      "tags": [
+        "scientist",
+        "NASA",
+        "intelligence"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.912171+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 367,
+          "quote": "Space scientist well-connected in intelligence community; supportive of Strieber"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Webb"
+        ],
+        "profession": "scientist",
+        "notability_tags": [
+          "scientist",
+          "NASA",
+          "intelligence"
+        ]
+      }
+    },
+    {
+      "id": "person-strieber-uncle-mickey",
+      "node_type": "person",
+      "label": "Uncle Mickey (Strieber)",
+      "summary": "Whitley Strieber's uncle; worked at Air Material Command at Wright-Patterson in 1947 alongside General James 'Stan' Exxon during Roswell era.",
+      "tags": [
+        "historical"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.912356+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 375,
+          "quote": "Air Material Command 1947 insider; Strieber family pipeline"
+        }
+      ],
+      "type_specific": {
+        "aliases": [],
+        "profession": "military",
+        "notability_tags": [
+          "historical"
+        ]
+      }
+    },
+    {
+      "id": "document-communion-strieber",
+      "node_type": "document",
+      "label": "Communion",
+      "summary": "Whitley Strieber's 1987 memoir that defined modern alien-abduction imagery; sold millions of copies; inspired a 1989 Christopher Walken film; the cover's 'Gray' illustration established the visual mythology.",
+      "tags": [
+        "book"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.912371+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 347,
+          "timestamp_end": "Whitley Strieber's 1987 abduction-experience memoir"
+        }
+      ],
+      "type_specific": {
+        "document_type": "book",
+        "author": "Whitley Strieber",
+        "publication_year": 1987
+      }
+    },
+    {
+      "id": "document-top-secret-friedman",
+      "node_type": "document",
+      "label": "Top Secret (Stanton Friedman)",
+      "summary": "Stanton Friedman's book on the Majestic 12 leaked documents; Whitley Strieber wrote the foreword.",
+      "tags": [
+        "book"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.912378+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 349,
+          "timestamp_end": "Stanton Friedman book on Majestic 12 with Strieber foreword"
+        }
+      ],
+      "type_specific": {
+        "document_type": "book",
+        "author": "Stanton Friedman"
+      }
+    },
+    {
+      "id": "technology-strieber-implant",
+      "node_type": "technology",
+      "label": "Strieber Alien Implant",
+      "summary": "Alleged alien implant in Whitley Strieber's body that activates cyclically every 2-3 years with physiological heat. CT-scannable. Strieber demonstrated it on camera.",
+      "tags": [
+        "material"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.912386+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 345,
+          "timestamp_end": "Alleged alien implant in Strieber's body; activates every 2-3 years"
+        }
+      ],
+      "type_specific": {
+        "technology_type": "material"
+      }
+    },
+    {
+      "id": "claim-ABOP8ZJsyIk-strieber-communion-1987-jumped-publish",
+      "node_type": "claim",
+      "label": "Per Strieber: boxes of Communion appeared in bookstores ~2 weeks before the declared publication dat",
+      "summary": "Per Strieber: boxes of Communion appeared in bookstores ~2 weeks before the declared publication date without warning; his editor said 'we felt there was some kind of resistance' — unclear whether resistance from the publisher or external.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.938873+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 361,
+          "quote": "I was told a publication date and then all of a sudden the books were in bookstores. My editor was very coy about I said, 'What? You jumped it.' Boxes of books appeared without warning at bookstores all over the country. He said, 'Well, we felt like there was some kind of resistance.'"
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Per Strieber: boxes of Communion appeared in bookstores ~2 weeks before the declared publication date without warning; his editor said 'we felt there was some kind of resistance' — unclear whether resistance from the publisher or external.",
+        "asserted_by_id": "person-whitley-strieber-extended",
+        "source_video_id": "ABOP8ZJsyIk",
+        "timestamp_start_seconds": 361,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-whitley-strieber-extended",
+          "document-communion-strieber"
+        ]
+      }
+    },
+    {
+      "id": "claim-ABOP8ZJsyIk-strieber-active-implant-demonstration",
+      "node_type": "claim",
+      "label": "Strieber has an alleged alien implant that activates every 2-3 years with physiological heat; he dem",
+      "summary": "Strieber has an alleged alien implant that activates every 2-3 years with physiological heat; he demonstrates it on camera — can be touched, palpable, runs warm during active cycles. CT scan available.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.938886+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 345,
+          "quote": "There's something in your body that you believe is an implant. You can touch it. I feel like might be a little hot because it's been working two-three years ago. I can give you a CT scan of it."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Strieber has an alleged alien implant that activates every 2-3 years with physiological heat; he demonstrates it on camera — can be touched, palpable, runs warm during active cycles. CT scan available.",
+        "asserted_by_id": "person-whitley-strieber-extended",
+        "source_video_id": "ABOP8ZJsyIk",
+        "timestamp_start_seconds": 345,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-whitley-strieber-extended",
+          "technology-strieber-implant"
+        ]
+      }
+    },
+    {
+      "id": "claim-ABOP8ZJsyIk-strieber-uncle-airmaterial-1947",
+      "node_type": "claim",
+      "label": "Strieber reveals: his uncle Mickey worked at Air Material Command at Wright-Patterson in 1947 alongs",
+      "summary": "Strieber reveals: his uncle Mickey worked at Air Material Command at Wright-Patterson in 1947 alongside General Exxon — during the Roswell era — providing a family-pipeline explanation for why Strieber was 'chosen' for contact.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.938895+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 375,
+          "quote": "One of my uncles was heavily involved in this at Wright-Patt — General Exxon. No, it's my uncle Mickey and General Exxon were — worked at the Air Material Command in 47."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Strieber reveals: his uncle Mickey worked at Air Material Command at Wright-Patterson in 1947 alongside General Exxon — during the Roswell era — providing a family-pipeline explanation for why Strieber was 'chosen' for contact.",
+        "asserted_by_id": "person-whitley-strieber-extended",
+        "source_video_id": "ABOP8ZJsyIk",
+        "timestamp_start_seconds": 375,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-whitley-strieber-extended",
+          "person-strieber-uncle-mickey",
+          "location-wright-patterson-afb",
+          "incident-1947-roswell"
+        ]
+      }
+    },
+    {
+      "id": "claim-ABOP8ZJsyIk-strieber-david-webb-intel-support",
+      "node_type": "claim",
+      "label": "Per Strieber: space scientist David W. Webb (introduced through Stanton Friedman) was well-connected",
+      "summary": "Per Strieber: space scientist David W. Webb (introduced through Stanton Friedman) was well-connected in the intelligence community and very supportive of Strieber's work — visited Strieber's cabin; the government 'was aware of this whole abduction scenario' even then.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.938905+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 367,
+          "quote": "I had met a space scientist David W. Webb who had come into our lives through Stanton Friedman, and he was very well-connected in the intelligence community and very supportive. So I knew the government was aware of this whole abduction scenario."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Per Strieber: space scientist David W. Webb (introduced through Stanton Friedman) was well-connected in the intelligence community and very supportive of Strieber's work — visited Strieber's cabin; the government 'was aware of this whole abduction scenario' even then.",
+        "asserted_by_id": "person-whitley-strieber-extended",
+        "source_video_id": "ABOP8ZJsyIk",
+        "timestamp_start_seconds": 367,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-whitley-strieber-extended",
+          "person-david-webb-nasa",
+          "person-stanton-friedman"
+        ]
+      }
+    },
+    {
+      "id": "claim-ABOP8ZJsyIk-strieber-family-affair-chosen",
+      "node_type": "claim",
+      "label": "Strieber states he knows precisely why 'they' (NHI) chose him — 'it's a family affair.' Multiple fam",
+      "summary": "Strieber states he knows precisely why 'they' (NHI) chose him — 'it's a family affair.' Multiple family members with 1947-era insider positions; childhood incidents he attributes to same phenomenon.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.938918+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 375,
+          "quote": "I know exactly why they chose me. First, it's a family affair. One of my uncles was involved in this. My father was apparently involved."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Strieber states he knows precisely why 'they' (NHI) chose him — 'it's a family affair.' Multiple family members with 1947-era insider positions; childhood incidents he attributes to same phenomenon.",
+        "asserted_by_id": "person-whitley-strieber-extended",
+        "source_video_id": "ABOP8ZJsyIk",
+        "timestamp_start_seconds": 375,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-whitley-strieber-extended",
+          "person-strieber-uncle-mickey"
+        ]
+      }
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge-video-ABOP8ZJsyIk-HOSTED_BY-person-jesse-michels",
+      "from_node_id": "video-ABOP8ZJsyIk",
+      "to_node_id": "person-jesse-michels",
+      "relationship": "HOSTED_BY",
+      "confidence": 0.99,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": "Jesse hosting"
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-APPEARED_IN-video-ABOP8ZJsyIk",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "video-ABOP8ZJsyIk",
+      "relationship": "APPEARED_IN",
+      "confidence": 0.99,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": "Host"
+        }
+      ],
+      "properties": {
+        "appearance_type": "host"
+      }
+    },
+    {
+      "id": "edge-video-ABOP8ZJsyIk-MENTIONS-person-wilbert-brockhouse-smith",
+      "from_node_id": "video-ABOP8ZJsyIk",
+      "to_node_id": "person-wilbert-brockhouse-smith",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": " had the strangest experience with him. I had a friend Mike Smith when I was living in London. He was also an American and he"
+        }
+      ]
+    },
+    {
+      "id": "edge-person-whitley-strieber-APPEARED_IN-video-ABOP8ZJsyIk",
+      "from_node_id": "person-whitley-strieber",
+      "to_node_id": "video-ABOP8ZJsyIk",
+      "relationship": "APPEARED_IN",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": "# \"Aliens Live Among Us...I've Met Them!\" -Whitley Strieber Tells All https://www.youtube.com/watch?v=ABOP8ZJsyIk views"
+        }
+      ],
+      "properties": {
+        "appearance_type": "guest"
+      }
+    },
+    {
+      "id": "edge-video-ABOP8ZJsyIk-DISCUSSES-person-whitley-strieber",
+      "from_node_id": "video-ABOP8ZJsyIk",
+      "to_node_id": "person-whitley-strieber",
+      "relationship": "DISCUSSES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": "# \"Aliens Live Among Us...I've Met Them!\" -Whitley Strieber Tells All https://www.youtube.com/watch?v=ABOP8ZJsyIk views"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ABOP8ZJsyIk-MENTIONS-person-stanton-friedman",
+      "from_node_id": "video-ABOP8ZJsyIk",
+      "to_node_id": "person-stanton-friedman",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": "sly head of the Harvard psychiatry department and then Stan Friedman was like this Westinghouse nuclear engineer, right? you kno"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ABOP8ZJsyIk-MENTIONS-person-eric-weinstein",
+      "from_node_id": "video-ABOP8ZJsyIk",
+      "to_node_id": "person-eric-weinstein",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": " completely uncut, heated discussion between Hal Putoff and Eric Weinstein on remote viewing. Yeah, you heard that right. I still can'"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ABOP8ZJsyIk-MENTIONS-person-graham-hancock",
+      "from_node_id": "video-ABOP8ZJsyIk",
+      "to_node_id": "person-graham-hancock",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": "ve a friend named Randall Carlson. Works a lot with Graham  Hancock, incredibly smart, just super rigorous. I would not do just"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ABOP8ZJsyIk-MENTIONS-person-richard-dolan",
+      "from_node_id": "video-ABOP8ZJsyIk",
+      "to_node_id": "person-richard-dolan",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": " in his high beings or that if you talk to like people like Richard Dolan, you know, he'll say like  they're the Men in Black phenome"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ABOP8ZJsyIk-MENTIONS-person-stephen-greer",
+      "from_node_id": "video-ABOP8ZJsyIk",
+      "to_node_id": "person-stephen-greer",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": "ned on in an interesting way. She was in Mexico with Steven Greer and he called in a UFO and they all saw it., so didn't didn"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ABOP8ZJsyIk-MENTIONS-person-love-has-won",
+      "from_node_id": "video-ABOP8ZJsyIk",
+      "to_node_id": "person-love-has-won",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": " when people are all angry about, you know,  the government won't disclose and so forth, I say, \"Wait a minute.\" And they s"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ABOP8ZJsyIk-MENTIONS-person-paul-r-hill",
+      "from_node_id": "video-ABOP8ZJsyIk",
+      "to_node_id": "person-paul-r-hill",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": "neighborhood. Yeah. And my father was on a big house on the hill and then across the street a couple houses down is an FBI a"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ABOP8ZJsyIk-MENTIONS-person-timothy-good",
+      "from_node_id": "video-ABOP8ZJsyIk",
+      "to_node_id": "person-timothy-good",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": "ever they have. And so the choice of this guy, I can tell a good story. I'm [clears throat] an efficient writer, but I don't"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ABOP8ZJsyIk-MENTIONS-person-chan-thomas",
+      "from_node_id": "video-ABOP8ZJsyIk",
+      "to_node_id": "person-chan-thomas",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": " set up UFO secrecy in 1954 and I know he's very close with Thomas Townsen Brown who was  a mid-century anti-gra. He set up UF"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ABOP8ZJsyIk-MENTIONS-person-garry-nolan",
+      "from_node_id": "video-ABOP8ZJsyIk",
+      "to_node_id": "person-garry-nolan",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": "f reconvened at the Soul Conference, which was held by Gary Nolan at Stanford last year. And you guys really hit it off. And "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ABOP8ZJsyIk-MENTIONS-person-ed-mitchell",
+      "from_node_id": "video-ABOP8ZJsyIk",
+      "to_node_id": "person-ed-mitchell",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": "is family, not all, but some, invited me and, John Mack and Edgar Mitchell and, Joe Lules, who's a UFO investigator from, El Paso, to "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ABOP8ZJsyIk-MENTIONS-person-betty-hill",
+      "from_node_id": "video-ABOP8ZJsyIk",
+      "to_node_id": "person-betty-hill",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": "neighborhood. Yeah. And my father was on a big house on the hill and then across the street a couple houses down is an FBI a"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ABOP8ZJsyIk-MENTIONS-person-kid-cosmic",
+      "from_node_id": "video-ABOP8ZJsyIk",
+      "to_node_id": "person-kid-cosmic",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": "ey to make you a high performer? No, they were to crack the cosmic egg, I think. So, kind of liberate the soul from the body a"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ABOP8ZJsyIk-MENTIONS-person-john-mack",
+      "from_node_id": "video-ABOP8ZJsyIk",
+      "to_node_id": "person-john-mack",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": "e this, I just often remember a specific interview that Dr. John Mack did with one of the one of the kids from the aerial school."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ABOP8ZJsyIk-MENTIONS-person-art-bell",
+      "from_node_id": "video-ABOP8ZJsyIk",
+      "to_node_id": "person-art-bell",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": "systems to like do certain things over and over? You ring a bell or what? You It's kind of like Aval's dog sort of thing. Ye"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ABOP8ZJsyIk-MENTIONS-organization-international-ufo-museum-and-research-center",
+      "from_node_id": "video-ABOP8ZJsyIk",
+      "to_node_id": "organization-international-ufo-museum-and-research-center",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": "ore. everyone, you know, the people would all rush into the center of the thing and try to go up because the gas was low and t"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ABOP8ZJsyIk-MENTIONS-organization-ufo-sightings-in-the-united-kingdom",
+      "from_node_id": "video-ABOP8ZJsyIk",
+      "to_node_id": "organization-ufo-sightings-in-the-united-kingdom",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": "nd they hang out and they talk about God constantly and the kingdom of heaven and they seem to have faith in  some sort of high"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ABOP8ZJsyIk-MENTIONS-organization-1952-washington-d-c-ufo-incident",
+      "from_node_id": "video-ABOP8ZJsyIk",
+      "to_node_id": "organization-1952-washington-d-c-ufo-incident",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": "D. I'm sure. I'm sure it does. but let's go back now to the incident to this the two men coming into the  apartment. This was a "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ABOP8ZJsyIk-MENTIONS-organization-identification-studies-of-ufos",
+      "from_node_id": "video-ABOP8ZJsyIk",
+      "to_node_id": "organization-identification-studies-of-ufos",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": "24. The entire country seems to be talking about drones and UFOs and it's like the most in the zeitgeist that's been in my l"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ABOP8ZJsyIk-MENTIONS-organization-lakenheath-bentwaters-incident",
+      "from_node_id": "video-ABOP8ZJsyIk",
+      "to_node_id": "organization-lakenheath-bentwaters-incident",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": "D. I'm sure. I'm sure it does. but let's go back now to the incident to this the two men coming into the  apartment. This was a "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ABOP8ZJsyIk-MENTIONS-organization-chiles-whitted-ufo-encounter",
+      "from_node_id": "video-ABOP8ZJsyIk",
+      "to_node_id": "organization-chiles-whitted-ufo-encounter",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": "tivated, I mean, you see a UFO up close or you have a close encounter experience, you're activated. You most people who that happ"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ABOP8ZJsyIk-MENTIONS-organization-flying-saucer-working-party",
+      "from_node_id": "video-ABOP8ZJsyIk",
+      "to_node_id": "organization-flying-saucer-working-party",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": "out and you'll have to go home alone. In any case,, at this party there was this lady who wanted to sit with me and talk with"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ABOP8ZJsyIk-MENTIONS-organization-the-flying-saucers-are-real",
+      "from_node_id": "video-ABOP8ZJsyIk",
+      "to_node_id": "organization-the-flying-saucers-are-real",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": " his horror novels so he wrote a horror novel and called it real in other words you can just opt out if you want to with me "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ABOP8ZJsyIk-MENTIONS-organization-archives-of-the-impossible",
+      "from_node_id": "video-ABOP8ZJsyIk",
+      "to_node_id": "organization-archives-of-the-impossible",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": " poor. And I'm hoping and this seems to me to be completely impossible. I'm hoping that we will be able to reach out to them in so"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ABOP8ZJsyIk-MENTIONS-organization-the-spaceships-of-ezekiel",
+      "from_node_id": "video-ABOP8ZJsyIk",
+      "to_node_id": "organization-the-spaceships-of-ezekiel",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": "like this celestial ascend vehicle vehicle or what wheel of Ezekiel you know the whole theme of this conversation it goes back "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ABOP8ZJsyIk-MENTIONS-organization-us-department-of-defense",
+      "from_node_id": "video-ABOP8ZJsyIk",
+      "to_node_id": "organization-us-department-of-defense",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": " trust the publishing industry not to get into bed with the defense department. And I'm  well aware of the fact that there are "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ABOP8ZJsyIk-MENTIONS-organization-lonnie-zamora-incident",
+      "from_node_id": "video-ABOP8ZJsyIk",
+      "to_node_id": "organization-lonnie-zamora-incident",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": "D. I'm sure. I'm sure it does. but let's go back now to the incident to this the two men coming into the  apartment. This was a "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ABOP8ZJsyIk-MENTIONS-organization-roswell-that-ends-well",
+      "from_node_id": "video-ABOP8ZJsyIk",
+      "to_node_id": "organization-roswell-that-ends-well",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": "to my life over  the past three years. Appreciate you, man. Well, you've been really pushing me to do this. Yeah. You and Wh"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ABOP8ZJsyIk-MENTIONS-organization-stanton-t-friedman",
+      "from_node_id": "video-ABOP8ZJsyIk",
+      "to_node_id": "organization-stanton-t-friedman",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": "sly head of the Harvard psychiatry department and then Stan Friedman was like this Westinghouse nuclear engineer, right? you kno"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ABOP8ZJsyIk-MENTIONS-organization-the-galileo-project",
+      "from_node_id": "video-ABOP8ZJsyIk",
+      "to_node_id": "organization-the-galileo-project",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": " like a do you think about a color? No. No. I can't I can't project it. In other words, I can't read your mind in your mind. Bu"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ABOP8ZJsyIk-MENTIONS-organization-project-blue-book",
+      "from_node_id": "video-ABOP8ZJsyIk",
+      "to_node_id": "organization-project-blue-book",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": "me point, I was standing in front of the bookstore and that book just like stood, you know, stood out for me and was somethi"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ABOP8ZJsyIk-MENTIONS-organization-world-contact-day",
+      "from_node_id": "video-ABOP8ZJsyIk",
+      "to_node_id": "organization-world-contact-day",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": "ant you to write it all down and send it to me. So the next day I sat at my typewriter. I wrote the whole story out. I put "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ABOP8ZJsyIk-MENTIONS-organization-steven-m-greer",
+      "from_node_id": "video-ABOP8ZJsyIk",
+      "to_node_id": "organization-steven-m-greer",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": "een turned on in an interesting way. She was in Mexico with Steven Greer and he called in a UFO and they all saw it., so didn't didn"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ABOP8ZJsyIk-MENTIONS-organization-scp-foundation",
+      "from_node_id": "video-ABOP8ZJsyIk",
+      "to_node_id": "organization-scp-foundation",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": "igh frequencies. That's the stuff that the National Science Foundation is now quietly admitting unfortunately the necessary and on"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ABOP8ZJsyIk-MENTIONS-organization-jerome-clark",
+      "from_node_id": "video-ABOP8ZJsyIk",
+      "to_node_id": "organization-jerome-clark",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": " was obviously a very extraordinary man. He was f Arthur C. Clark was Fascinating man. He was probably MI6. Oh, probably. Yea"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ABOP8ZJsyIk-MENTIONS-organization-us-air-force",
+      "from_node_id": "video-ABOP8ZJsyIk",
+      "to_node_id": "organization-us-air-force",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": " no idea whether or not he was., and your father was an Air Force officer? No. Oh, no. He was he was in the well, he was in t"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ABOP8ZJsyIk-MENTIONS-organization-big-sur-ufo",
+      "from_node_id": "video-ABOP8ZJsyIk",
+      "to_node_id": "organization-big-sur-ufo",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": "ome into our lives, I think through Stanton Freriedman, the UFO  researcher, and he was very wellconed in the intelligence "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ABOP8ZJsyIk-MENTIONS-organization-majestic-12",
+      "from_node_id": "video-ABOP8ZJsyIk",
+      "to_node_id": "organization-majestic-12",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": "ton Freriedman called Top Secret. It's about, you know, the majestic 12 and you wrote the forward to it and so you seem to kind of "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ABOP8ZJsyIk-MENTIONS-organization-mirage-men",
+      "from_node_id": "video-ABOP8ZJsyIk",
+      "to_node_id": "organization-mirage-men",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": "rent ways. Suddenly across the river there burst tanks with men in them in black uniforms with death's heads on their on th"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ABOP8ZJsyIk-MENTIONS-organization-nasa",
+      "from_node_id": "video-ABOP8ZJsyIk",
+      "to_node_id": "organization-nasa",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": ". The shroud is amazing. And I think it was studied by like NASA at some point. Well, no, it was studied by a group of group"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ABOP8ZJsyIk-MENTIONS-organization-cia",
+      "from_node_id": "video-ABOP8ZJsyIk",
+      "to_node_id": "organization-cia",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": "e what do they what do they want to do? I well early in the CIA,  right? They were sort of No, it was Air Force as far as I"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ABOP8ZJsyIk-MENTIONS-organization-fbi",
+      "from_node_id": "video-ABOP8ZJsyIk",
+      "to_node_id": "organization-fbi",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": " hill and then across the street a couple houses down is an FBI agent and his wife and then the street over there's these s"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ABOP8ZJsyIk-MENTIONS-organization-dod",
+      "from_node_id": "video-ABOP8ZJsyIk",
+      "to_node_id": "organization-dod",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": "sence and the and us. And it's got something to do with the DoD. I'm sure. I'm sure it does. but let's go back now to the i"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ABOP8ZJsyIk-MENTIONS-location-pacific-training-area",
+      "from_node_id": "video-ABOP8ZJsyIk",
+      "to_node_id": "location-pacific-training-area",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": " He is very high up in this world in a completely different area from anything remotely connected. Is it science or is it No"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ABOP8ZJsyIk-MENTIONS-location-roswell-new-mexico",
+      "from_node_id": "video-ABOP8ZJsyIk",
+      "to_node_id": "location-roswell-new-mexico",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": " it. She'd been turned on in an interesting way. She was in Mexico with Steven Greer and he called in a UFO and they all saw i"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ABOP8ZJsyIk-MENTIONS-location-united-kingdom",
+      "from_node_id": "video-ABOP8ZJsyIk",
+      "to_node_id": "location-united-kingdom",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": "nd they hang out and they talk about God constantly and the kingdom of heaven and they seem to have faith in  some sort of high"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ABOP8ZJsyIk-MENTIONS-location-united-states",
+      "from_node_id": "video-ABOP8ZJsyIk",
+      "to_node_id": "location-united-states",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": "China when she arrived and General Stillwell got her to the United States where she rejoined the commu the same community that she wa"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ABOP8ZJsyIk-MENTIONS-location-australia",
+      "from_node_id": "video-ABOP8ZJsyIk",
+      "to_node_id": "location-australia",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": " of the nuclear engineers, old-timers that he's met with in Australia, knowing who Sarbacher was. I think Sarbacher even taking a"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ABOP8ZJsyIk-MENTIONS-location-roswell",
+      "from_node_id": "video-ABOP8ZJsyIk",
+      "to_node_id": "location-roswell",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": " he had held one of the bodies and he said this is from the Roswell crash yeah 1947 he had said he said it was like a big insec"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ABOP8ZJsyIk-MENTIONS-location-canada",
+      "from_node_id": "video-ABOP8ZJsyIk",
+      "to_node_id": "location-canada",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": "ll, our friend Chris Ramsay, who's an amazing magician from Canada who's gotten super interested in the  UFO thing. He's actua"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ABOP8ZJsyIk-MENTIONS-location-mexico",
+      "from_node_id": "video-ABOP8ZJsyIk",
+      "to_node_id": "location-mexico",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": " it. She'd been turned on in an interesting way. She was in Mexico with Steven Greer and he called in a UFO and they all saw i"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ABOP8ZJsyIk-MENTIONS-program-mj-12",
+      "from_node_id": "video-ABOP8ZJsyIk",
+      "to_node_id": "program-mj-12",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": "ton Freriedman called Top Secret. It's about, you know, the majestic 12 and you wrote the forward to it and so you seem to kind of "
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-ABOP8ZJsyIk-discussion-summary",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-ABOP8ZJsyIk-discussion-summary",
+      "relationship": "ASSERTED",
+      "confidence": 0.9,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0,
+          "quote": "Episode: \"Aliens Live Among Us...I've Met Them!\" -Whitley Strieber Tells All"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ABOP8ZJsyIk-REFERENCES-claim-ABOP8ZJsyIk-discussion-summary",
+      "from_node_id": "video-ABOP8ZJsyIk",
+      "to_node_id": "claim-ABOP8ZJsyIk-discussion-summary",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 0
+        }
+      ]
+    },
+    {
+      "id": "edge-person-whitley-strieber-extended-ASSERTED-claim-ABOP8ZJsyIk-strieber-communion-1987-jumped-publish",
+      "from_node_id": "person-whitley-strieber-extended",
+      "to_node_id": "claim-ABOP8ZJsyIk-strieber-communion-1987-jumped-publish",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 361,
+          "quote": "Per Strieber: boxes of Communion appeared in bookstores ~2 weeks before the declared publication date without warning; his editor said 'we felt there was some kind of resistance' — unclear whether res"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ABOP8ZJsyIk-REFERENCES-claim-ABOP8ZJsyIk-strieber-communion-1987-jumped-publish",
+      "from_node_id": "video-ABOP8ZJsyIk",
+      "to_node_id": "claim-ABOP8ZJsyIk-strieber-communion-1987-jumped-publish",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 361
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-ABOP8ZJsyIk-strieber-communion-1987-jumped-publish-REFERENCES-document-communion-strieber",
+      "from_node_id": "claim-ABOP8ZJsyIk-strieber-communion-1987-jumped-publish",
+      "to_node_id": "document-communion-strieber",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 361
+        }
+      ]
+    },
+    {
+      "id": "edge-person-whitley-strieber-extended-ASSERTED-claim-ABOP8ZJsyIk-strieber-active-implant-demonstration",
+      "from_node_id": "person-whitley-strieber-extended",
+      "to_node_id": "claim-ABOP8ZJsyIk-strieber-active-implant-demonstration",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 345,
+          "quote": "Strieber has an alleged alien implant that activates every 2-3 years with physiological heat; he demonstrates it on camera — can be touched, palpable, runs warm during active cycles. CT scan available"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ABOP8ZJsyIk-REFERENCES-claim-ABOP8ZJsyIk-strieber-active-implant-demonstration",
+      "from_node_id": "video-ABOP8ZJsyIk",
+      "to_node_id": "claim-ABOP8ZJsyIk-strieber-active-implant-demonstration",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 345
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-ABOP8ZJsyIk-strieber-active-implant-demonstration-REFERENCES-technology-strieber-implant",
+      "from_node_id": "claim-ABOP8ZJsyIk-strieber-active-implant-demonstration",
+      "to_node_id": "technology-strieber-implant",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 345
+        }
+      ]
+    },
+    {
+      "id": "edge-person-whitley-strieber-extended-ASSERTED-claim-ABOP8ZJsyIk-strieber-uncle-airmaterial-1947",
+      "from_node_id": "person-whitley-strieber-extended",
+      "to_node_id": "claim-ABOP8ZJsyIk-strieber-uncle-airmaterial-1947",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 375,
+          "quote": "Strieber reveals: his uncle Mickey worked at Air Material Command at Wright-Patterson in 1947 alongside General Exxon — during the Roswell era — providing a family-pipeline explanation for why Striebe"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ABOP8ZJsyIk-REFERENCES-claim-ABOP8ZJsyIk-strieber-uncle-airmaterial-1947",
+      "from_node_id": "video-ABOP8ZJsyIk",
+      "to_node_id": "claim-ABOP8ZJsyIk-strieber-uncle-airmaterial-1947",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 375
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-ABOP8ZJsyIk-strieber-uncle-airmaterial-1947-REFERENCES-person-strieber-uncle-mickey",
+      "from_node_id": "claim-ABOP8ZJsyIk-strieber-uncle-airmaterial-1947",
+      "to_node_id": "person-strieber-uncle-mickey",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 375
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-ABOP8ZJsyIk-strieber-uncle-airmaterial-1947-REFERENCES-location-wright-patterson-afb",
+      "from_node_id": "claim-ABOP8ZJsyIk-strieber-uncle-airmaterial-1947",
+      "to_node_id": "location-wright-patterson-afb",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 375
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-ABOP8ZJsyIk-strieber-uncle-airmaterial-1947-REFERENCES-incident-1947-roswell",
+      "from_node_id": "claim-ABOP8ZJsyIk-strieber-uncle-airmaterial-1947",
+      "to_node_id": "incident-1947-roswell",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 375
+        }
+      ]
+    },
+    {
+      "id": "edge-person-whitley-strieber-extended-ASSERTED-claim-ABOP8ZJsyIk-strieber-david-webb-intel-support",
+      "from_node_id": "person-whitley-strieber-extended",
+      "to_node_id": "claim-ABOP8ZJsyIk-strieber-david-webb-intel-support",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 367,
+          "quote": "Per Strieber: space scientist David W. Webb (introduced through Stanton Friedman) was well-connected in the intelligence community and very supportive of Strieber's work — visited Strieber's cabin; th"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ABOP8ZJsyIk-REFERENCES-claim-ABOP8ZJsyIk-strieber-david-webb-intel-support",
+      "from_node_id": "video-ABOP8ZJsyIk",
+      "to_node_id": "claim-ABOP8ZJsyIk-strieber-david-webb-intel-support",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 367
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-ABOP8ZJsyIk-strieber-david-webb-intel-support-REFERENCES-person-david-webb-nasa",
+      "from_node_id": "claim-ABOP8ZJsyIk-strieber-david-webb-intel-support",
+      "to_node_id": "person-david-webb-nasa",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 367
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-ABOP8ZJsyIk-strieber-david-webb-intel-support-REFERENCES-person-stanton-friedman",
+      "from_node_id": "claim-ABOP8ZJsyIk-strieber-david-webb-intel-support",
+      "to_node_id": "person-stanton-friedman",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 367
+        }
+      ]
+    },
+    {
+      "id": "edge-person-whitley-strieber-extended-ASSERTED-claim-ABOP8ZJsyIk-strieber-family-affair-chosen",
+      "from_node_id": "person-whitley-strieber-extended",
+      "to_node_id": "claim-ABOP8ZJsyIk-strieber-family-affair-chosen",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 375,
+          "quote": "Strieber states he knows precisely why 'they' (NHI) chose him — 'it's a family affair.' Multiple family members with 1947-era insider positions; childhood incidents he attributes to same phenomenon."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-ABOP8ZJsyIk-REFERENCES-claim-ABOP8ZJsyIk-strieber-family-affair-chosen",
+      "from_node_id": "video-ABOP8ZJsyIk",
+      "to_node_id": "claim-ABOP8ZJsyIk-strieber-family-affair-chosen",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 375
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-ABOP8ZJsyIk-strieber-family-affair-chosen-REFERENCES-person-strieber-uncle-mickey",
+      "from_node_id": "claim-ABOP8ZJsyIk-strieber-family-affair-chosen",
+      "to_node_id": "person-strieber-uncle-mickey",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "ABOP8ZJsyIk",
+          "timestamp_start": 375
+        }
+      ]
+    }
+  ],
+  "extracted_at": "2026-04-17T13:13:43.938925+00:00",
+  "extractor_version": "v1-inline-claude"
+}

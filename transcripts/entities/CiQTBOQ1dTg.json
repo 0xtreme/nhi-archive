@@ -1,0 +1,3249 @@
+{
+  "video_id": "CiQTBOQ1dTg",
+  "nodes": [
+    {
+      "id": "video-CiQTBOQ1dTg",
+      "node_type": "video",
+      "label": "“We Captured a 12 Foot Giant in Afghanistan!” -Tim Alberino",
+      "summary": "Our American Alchemist this week is Tim Alberino. Check out Tim's channel @TimothyAlberino \n\nSign Up With Our Sponsors Below For Exclusive Alchemy Deals!\n\niRestore: Unlock your best hair &...",
+      "tags": [
+        "video",
+        "american-alchemy"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:22.425194+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "timestamp_end": 17750.0,
+          "quote": "Video: “We Captured a 12 Foot Giant in Afghanistan!” -Tim Alberino"
+        }
+      ],
+      "type_specific": {
+        "video_id": "CiQTBOQ1dTg",
+        "title": "“We Captured a 12 Foot Giant in Afghanistan!” -Tim Alberino",
+        "url": "https://www.youtube.com/watch?v=CiQTBOQ1dTg",
+        "view_count": 649934,
+        "duration_seconds": 17750.0,
+        "host_id": "person-jesse-michels"
+      }
+    },
+    {
+      "id": "person-jesse-michels",
+      "node_type": "person",
+      "label": "Jesse Michels",
+      "summary": "Host of American Alchemy podcast/show. Independent journalist and UFO/NHI researcher.",
+      "tags": [
+        "journalist",
+        "interviewer",
+        "researcher",
+        "host"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:22.425206+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": "Host of American Alchemy podcast/show."
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Jesse",
+          "Michels"
+        ],
+        "profession": "journalist",
+        "notability_tags": [
+          "journalist",
+          "interviewer",
+          "researcher",
+          "host"
+        ]
+      }
+    },
+    {
+      "id": "person-anna-paulina-luna",
+      "node_type": "person",
+      "label": "Anna Paulina Luna",
+      "summary": "",
+      "tags": [
+        "politician",
+        "congress"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:23.956413+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": "w, non-human intelligence. You have Congresswoman Anna Pina Luna going on Joe Rogan. That's right. and saying, you know, rea"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Luna",
+          "Congresswoman Luna"
+        ],
+        "notability_tags": [
+          "politician",
+          "congress"
+        ]
+      }
+    },
+    {
+      "id": "person-whitley-strieber",
+      "node_type": "person",
+      "label": "Whitley Strieber",
+      "summary": "Whitley Strieber entity extracted from cross-source archival records.",
+      "tags": [
+        "pipeline-generated",
+        "entity-extracted"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:23.956431+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": "ction stuff.  >> Yeah. It's so str. You know, I interviewed Whitley Strieber and you  could say what you want about some of his stories "
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Strieber",
+          "WHITLEY STRIEBER",
+          "whitley strieber"
+        ],
+        "notability_tags": [
+          "pipeline-generated",
+          "entity-extracted"
+        ]
+      }
+    },
+    {
+      "id": "person-zecharia-sitchin",
+      "node_type": "person",
+      "label": "Zecharia Sitchin",
+      "summary": "Zecharia Sitchin (11 July 1920 – 9 October 2010) was an author of a number of books proposing an explanation for human origins involving ancient astronauts. Sitchin attributed the creation of the ancient Sumerian culture to the Anunnaki, which he claimed was a race of extraterrestrials from a planet",
+      "tags": [
+        "wikipedia",
+        "ancient astronauts proponents",
+        "azerbaijani jews",
+        "burials at new montefiore cemetery",
+        "esoteric anthropogenesis",
+        "imdb title id different from wikidata",
+        "israeli emigrants to the united states",
+        "mandatory palestine expatriates in the united kingdom",
+        "pseudoarchaeologists",
+        "pseudohistorians",
+        "soviet emigrants to mandatory palestine",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:23.956436+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": " a guy who sort of throws pours cold water on the Zachariah Sitchin kind of  >> Yeah. He had a website called Sitchin is wrong."
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Sitchin",
+          "ZECHARIA SITCHIN",
+          "zecharia sitchin"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "ancient astronauts proponents",
+          "azerbaijani jews",
+          "burials at new montefiore cemetery",
+          "esoteric anthropogenesis",
+          "imdb title id different from wikidata",
+          "israeli emigrants to the united states",
+          "mandatory palestine expatriates in the united kingdom",
+          "pseudoarchaeologists",
+          "pseudohistorians",
+          "soviet emigrants to mandatory palestine",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "person-john-f-kennedy",
+      "node_type": "person",
+      "label": "John F. Kennedy",
+      "summary": "",
+      "tags": [
+        "president",
+        "historical"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:23.956441+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": "this guy, Harold Malgren, who is this, you know, adviser to JFK, LBJ, Nixon, and Ford. and he's talking about how James Jes"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "JFK",
+          "Kennedy"
+        ],
+        "notability_tags": [
+          "president",
+          "historical"
+        ]
+      }
+    },
+    {
+      "id": "person-travis-walton",
+      "node_type": "person",
+      "label": "Travis Walton",
+      "summary": "Travis Walton entity extracted from cross-source archival records.",
+      "tags": [
+        "pipeline-generated",
+        "entity-extracted"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:23.956445+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": "then where it gets so confusing is like you have cases like Travis Walton where they're  working together in conjunction.  >> Yes. An"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "TRAVIS WALTON",
+          "Walton",
+          "travis walton"
+        ],
+        "notability_tags": [
+          "pipeline-generated",
+          "entity-extracted"
+        ]
+      }
+    },
+    {
+      "id": "person-richard-dolan",
+      "node_type": "person",
+      "label": "Richard Dolan",
+      "summary": "",
+      "tags": [
+        "historian",
+        "author"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:23.956450+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": "enon. Now, I would say a good portion I remember talking to Richard Dolan about this that a good portion of the mystery airship  phen"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Dolan"
+        ],
+        "notability_tags": [
+          "historian",
+          "author"
+        ]
+      }
+    },
+    {
+      "id": "person-bill-clinton",
+      "node_type": "person",
+      "label": "Bill Clinton",
+      "summary": "Bill Clinton entity extracted from cross-source archival records.",
+      "tags": [
+        "pipeline-generated",
+        "entity-extracted"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:23.956454+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": "he '90s there was Alh84001, this meteor that was found that Bill Clinton made a speech on and said they found, you know, polyylic hy"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "BILL CLINTON",
+          "Clinton",
+          "bill clinton"
+        ],
+        "notability_tags": [
+          "pipeline-generated",
+          "entity-extracted"
+        ]
+      }
+    },
+    {
+      "id": "person-love-has-won",
+      "node_type": "person",
+      "label": "Love Has Won",
+      "summary": "Love Has Won (LHW), also known as the Galactic Federation of Light, is an American new religious movement that was led by Amy Carlson until her death in 2021. Carlson was referred to within the group as \"Mother God\", who described herself as, among other things, the creator of the universe, with the",
+      "tags": [
+        "wikipedia",
+        "2007 establishments in colorado",
+        "ancient astronaut speculation",
+        "covid-19 vaccine misinformation and hesitancy",
+        "climate change denial in the united states",
+        "holocaust denial in the united states",
+        "new age organizations",
+        "new religious movements established in the 2000s",
+        "qanon",
+        "religious belief systems founded in the united states",
+        "religious controversies in the united states",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:23.956459+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": "ave all of the you'll be hungry. You'll be thirsty, but you won't be able to satisfy your the desires of your flesh because"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "LOVE HAS WON",
+          "Won",
+          "love has won"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "2007 establishments in colorado",
+          "ancient astronaut speculation",
+          "covid-19 vaccine misinformation and hesitancy",
+          "climate change denial in the united states",
+          "holocaust denial in the united states",
+          "new age organizations",
+          "new religious movements established in the 2000s",
+          "qanon",
+          "religious belief systems founded in the united states",
+          "religious controversies in the united states",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "person-paul-r-hill",
+      "node_type": "person",
+      "label": "Paul R. Hill",
+      "summary": "Paul Richard Hill (1909–1990) was a mid–twentieth-century American aerodynamicist. He was a leading research and development engineer and manager for NASA (National Aeronautics and Space Administration) and its predecessor, NACA (the National Advisory Council for Aeronautics) between 1939 and 1970, ",
+      "tags": [
+        "wikipedia",
+        "aerodynamicists",
+        "nasa people",
+        "scientists from iowa",
+        "uc berkeley college of engineering alumni",
+        "ufologists",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:23.956463+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": "g and the guy comes there's a little golly. He comes up the hill hovering and lands the board right behind her and grabs her"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Hill",
+          "PAUL R. HILL",
+          "Paul Hill",
+          "paul r. hill"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "aerodynamicists",
+          "nasa people",
+          "scientists from iowa",
+          "uc berkeley college of engineering alumni",
+          "ufologists",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "person-riley-martin",
+      "node_type": "person",
+      "label": "Riley Martin",
+      "summary": "Riley Lee Martin (May 9, 1946 – December 22, 2015) was an American self-described alien contactee, author and radio host. Martin was the author of the book The Coming of Tan, which describes his life and his alleged alien visitation. He hosted The Riley Martin Show on the Sirius XM Radio channel How",
+      "tags": [
+        "wikipedia",
+        "20th-century african-american people",
+        "african-american radio personalities",
+        "american conspiracy theorists",
+        "american outsider artists",
+        "american people who self-identify as being of native american descent",
+        "contactees",
+        "people from natchez, mississippi",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:23.956467+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": "eople think that Jesus himself was part of the so there's a Martin Luther King Jr. actually wrote a book or sorry an essay cal"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Martin",
+          "RILEY MARTIN",
+          "riley martin"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "20th-century african-american people",
+          "african-american radio personalities",
+          "american conspiracy theorists",
+          "american outsider artists",
+          "american people who self-identify as being of native american descent",
+          "contactees",
+          "people from natchez, mississippi",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "person-timothy-good",
+      "node_type": "person",
+      "label": "Timothy Good",
+      "summary": "",
+      "tags": [
+        "researcher",
+        "author"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:23.956471+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": "license and  my father was a pastor. So I grew up in a very good home. I had a very good upbringing. My dad was a excellent "
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Tim Good",
+          "Good"
+        ],
+        "notability_tags": [
+          "researcher",
+          "author"
+        ]
+      }
+    },
+    {
+      "id": "person-chan-thomas",
+      "node_type": "person",
+      "label": "Chan Thomas",
+      "summary": "Chan Thomas (1920–1998) was an American engineer, ufologist, writer on ancient cataclysms, and self-proclaimed polymath whose ideas have influenced conspiracy theorists in the 21st century.",
+      "tags": [
+        "wikipedia",
+        "20th-century american engineers",
+        "mcdonnell douglas people",
+        "ufologists",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:23.956475+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": " at the front of all of those things seem to be interfacing Thomas Towns and Brown you could think of his anti-gravity stuff a"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "CHAN THOMAS",
+          "Thomas",
+          "chan thomas"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "20th-century american engineers",
+          "mcdonnell douglas people",
+          "ufologists",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "person-betty-hill",
+      "node_type": "person",
+      "label": "Betty Hill",
+      "summary": "Betty Hill entity extracted from cross-source archival records.",
+      "tags": [
+        "pipeline-generated",
+        "entity-extracted"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:23.956480+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": "g and the guy comes there's a little golly. He comes up the hill hovering and lands the board right behind her and grabs her"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "BETTY HILL",
+          "Hill",
+          "betty hill"
+        ],
+        "notability_tags": [
+          "pipeline-generated",
+          "entity-extracted"
+        ]
+      }
+    },
+    {
+      "id": "person-kid-cosmic",
+      "node_type": "person",
+      "label": "Kid Cosmic",
+      "summary": "Kid Cosmic is an American animated superhero television series created by Craig McCracken and developed by McCracken, his wife Lauren Faust and Francisco Angones for Netflix. The series was based on his 2009 comic The Kid from Planet Earth. Produced in-house by Netflix Animation, the show is McCrack",
+      "tags": [
+        "wikipedia",
+        "2020s american animated comedy television series",
+        "2020s american children's comedy television series",
+        "2020s american science fiction comedy television series",
+        "2020s american superhero comedy television series",
+        "2021 american animated television series debuts",
+        "2022 american television series endings",
+        "american english-language television shows",
+        "american children's animated action television series",
+        "american children's animated adventure television series",
+        "american children's animated comic science fiction television series",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:23.956484+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": "sewhere which position the earth as a spectator  >> to this cosmic destruction that causes the mountains to melt like wax.  >>"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Cosmic",
+          "KID COSMIC",
+          "kid cosmic"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "2020s american animated comedy television series",
+          "2020s american children's comedy television series",
+          "2020s american science fiction comedy television series",
+          "2020s american superhero comedy television series",
+          "2021 american animated television series debuts",
+          "2022 american television series endings",
+          "american english-language television shows",
+          "american children's animated action television series",
+          "american children's animated adventure television series",
+          "american children's animated comic science fiction television series",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "person-bob-jacobs",
+      "node_type": "person",
+      "label": "Bob Jacobs",
+      "summary": "",
+      "tags": [
+        "witness",
+        "Big Sur"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:23.956488+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": "learly created by the insecttoins. You  know what Dr. David Jacobs describes as insectilins, the manted beings in my estimatio"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Jacobs",
+          "Professor Jacobs"
+        ],
+        "notability_tags": [
+          "witness",
+          "Big Sur"
+        ]
+      }
+    },
+    {
+      "id": "person-bob-lazar",
+      "node_type": "person",
+      "label": "Bob Lazar",
+      "summary": "Bob Lazar entity extracted from cross-source archival records.",
+      "tags": [
+        "pipeline-generated",
+        "entity-extracted"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:23.956492+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": " course you have anecdotal you have anecdotal accounts like Bob Lazar. Yeah. Yeah. Yeah.  >> Who said that you know among the cra"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "BOB LAZAR",
+          "Lazar",
+          "bob lazar"
+        ],
+        "notability_tags": [
+          "pipeline-generated",
+          "entity-extracted"
+        ]
+      }
+    },
+    {
+      "id": "person-john-mack",
+      "node_type": "person",
+      "label": "John Mack",
+      "summary": "",
+      "tags": [
+        "psychiatrist",
+        "Harvard",
+        "abduction research"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:23.956496+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": "ecause I know you've  looked at David Jacobs, Carla Turner, John Mack, all these amazing Bud Hopkins, who was really kind of the "
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Dr. Mack",
+          "Mack"
+        ],
+        "notability_tags": [
+          "psychiatrist",
+          "Harvard",
+          "abduction research"
+        ]
+      }
+    },
+    {
+      "id": "organization-international-ufo-museum-and-research-center",
+      "node_type": "organization",
+      "label": "International UFO Museum and Research Center",
+      "summary": "The International UFO Museum and Research Center is located in Roswell, New Mexico, United States, in the downtown district, and is focused largely on the 1947 Roswell Crash and later supposed UFO incidents in the United States and elsewhere. It was founded in 1991 as a 501c3 nonprofit educational o",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:23.956502+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": ", we have a new starship. Of course, we have a healthc care center on board. Ask what my new favorite product in it is. I rest"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-the-report-on-unidentified-flying-objects",
+      "node_type": "organization",
+      "label": "The Report on Unidentified Flying Objects",
+      "summary": "The Report on Unidentified Flying Objects is a 1956 book by then-retired Air Force UFO investigator Edward J. Ruppelt, detailing his experience running Project Blue Book. The book was noted for its suggestion that a few UFO sightings might be linked to spikes of atomic radiation. Contemporary media ",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:23.956507+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": "e and that correspond to the modern UFO phenomenon. Silvery objects flying in the sky. You  know, I think a lot of the propelle"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-ufo-sightings-in-the-united-kingdom",
+      "node_type": "organization",
+      "label": "UFO sightings in the United Kingdom",
+      "summary": "This is a list of notable alleged sightings of unidentified flying objects (UFOs) in the United Kingdom. Many more sightings have become known since the gradual release, between 2008 and 2013, of the Ministry of Defence's UFO sighting reports by the National Archives. In recent years, there have bee",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:23.956512+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": "e sons of God. They're angelic beings who defected from the kingdom and now are in opposition to God. We all understand that's "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-1952-washington-d-c-ufo-incident",
+      "node_type": "organization",
+      "label": "1952 Washington, D.C. UFO incident",
+      "summary": "From July 12 to 29, 1952, a series of unidentified flying object (UFO) sightings were reported in Washington, D.C., and later became known as the Washington flap, the Washington National Airport Sightings, or the Invasion of Washington. The most publicized sightings took place on consecutive weekend",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:23.956517+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": "ght I was CIA, but   so, there there was the most important incident happened with this one of the most important incidents with"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-identification-studies-of-ufos",
+      "node_type": "organization",
+      "label": "Identification studies of UFOs",
+      "summary": "Identifying unidentified flying objects (UFOs) is a difficult task due to the normally poor quality of the evidence provided by those who report sighting the unknown object. Observations and subsequent reporting are often made by those untrained in astronomy, atmospheric phenomena, aeronautics, phys",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:23.956521+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": "advanced aerospace vehicles what we would describe today as UFOs. And so to close out this story, the Watchers rather the gi"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-lakenheath-bentwaters-incident",
+      "node_type": "organization",
+      "label": "Lakenheath-Bentwaters incident",
+      "summary": "The Lakenheath-Bentwaters Incident was a series of radar and visual contacts with unidentified flying objects over airbases in eastern England on the night of 13–14 August 1956, involving personnel from the Royal Air Force (RAF) and the United States Air Force (USAF). The incident has since gained s",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:23.956526+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": "ght I was CIA, but   so, there there was the most important incident happened with this one of the most important incidents with"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-chiles-whitted-ufo-encounter",
+      "node_type": "organization",
+      "label": "Chiles-Whitted UFO encounter",
+      "summary": "The Chiles-Whitted UFO encounter occurred at approximately 2:45 AM on July 24, 1948, in the skies near Montgomery, Alabama, United States. Two commercial pilots, Clarence S. Chiles and John B. Whitted, claimed to have observed a \"glowing object\" pass by their plane before it appeared to pull up into",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:23.956531+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": "nt in the in the biblical narrative every time human beings encounter angels in the narrative. And when I'm stressing narrative b"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-flying-saucer-working-party",
+      "node_type": "organization",
+      "label": "Flying Saucer Working Party",
+      "summary": "Flying Saucer Working Party (or FSWP) was the name of the United Kingdom Ministry of Defence’s (MOD) first \"official study into UFOs\", which has its roots in a study commissioned in 1950 by the MOD’s then Chief Scientific Adviser, the eminent radar scientist Sir Henry Tizard. As a result of his insi",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:23.956535+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": " And so Set has this sumptuous coffin built and he throws a party and he says in the party, \"I've I've I've got this challeng"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-the-flying-saucers-are-real",
+      "node_type": "organization",
+      "label": "The Flying Saucers Are Real",
+      "summary": "The Flying Saucers Are Real, by Donald Keyhoe, is a book that investigated reports of UFOs by United States Air Force fighters, personnel, and other aircraft, between 1947 and 1950.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:23.956540+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": ". Okay? So what I'm trying to describe here is a kingdom, a real kingdom, not an imaginary kingdom, not a spiritual kingdom,"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-archives-of-the-impossible",
+      "node_type": "organization",
+      "label": "Archives of the Impossible",
+      "summary": "The Archives of the Impossible (AOTI), sometimes called the Center for the Impossible, is a special collection at Rice University in Houston, Texas, United States. Founded in 2014 by Jeffrey J. Kripal, AOTI is based at the Woodson Research Center in the Fondren Library. It stewards collections on UF",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:23.956544+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": "haped craft, you know, darting around in the sky, moving at impossible speeds. And this corresponds with the So you have so you ha"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-unidentified-flying-object",
+      "node_type": "organization",
+      "label": "Unidentified flying object",
+      "summary": "An unidentified flying object (UFO) is an object or phenomenon seen in the sky but not yet identified or explained. The term was coined when United States Air Force (USAF) investigations into flying saucers found too broad a range of shapes reported to consider them all saucers or discs. UFOs are al",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:23.956548+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": ", I think he looks off his left wing and he sees this shiny object flying out there in the distance. I think he said like a mi"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-the-spaceships-of-ezekiel",
+      "node_type": "organization",
+      "label": "The Spaceships of Ezekiel",
+      "summary": "The Spaceships of Ezekiel (1974) is a book by German engineer Josef F. Blumrich (March 17, 1913 – February 10, 2002) about a spaceship that was supposedly observed by the prophet Ezekiel as described in Book of Ezekiel in the Tanakh. Blumrich wrote it while chief of NASA's systems layout branch of t",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:23.956553+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": " that are described in the Bible. And I'm not talking about Ezekiel's wheel  >> because Ezekiel's wheel, we're going to relegat"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-us-department-of-defense",
+      "node_type": "organization",
+      "label": "US Department of Defense",
+      "summary": "US Department of Defense entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:23.956557+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": "he grays. You know, here's the clear enemy who's we have no defense, by the way, against this enemy. They're far more advanced "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-leonard-h-stringfield",
+      "node_type": "organization",
+      "label": "Leonard H. Stringfield",
+      "summary": "Leonard Stringfield (1920–1994) was an American ufologist who took particular interest in crashed flying saucer stories. Stringfield was director of Civilian Research, Interplanetary Flying Objects (CRIFO), and published a monthly newsletter, ORBIT. In 1957 he became public relations adviser for the",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:23.956561+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": "of the whistleblowers and all of the crash retrieval stuff, Leonard Stringfield, all the stuff he compiled, although all of that is compell"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-lonnie-zamora-incident",
+      "node_type": "organization",
+      "label": "Lonnie Zamora incident",
+      "summary": "The Lonnie Zamora incident was an alleged UFO sighting that occurred on April 24, 1964 near Socorro, New Mexico when Socorro police officer Lonnie Zamora claimed he saw two people beside a shiny object that later rose into the air accompanied by a roaring blue and orange flame. Zamora's claims were ",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:23.956565+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": "ght I was CIA, but   so, there there was the most important incident happened with this one of the most important incidents with"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-roswell-that-ends-well",
+      "node_type": "organization",
+      "label": "Roswell That Ends Well",
+      "summary": "\"Roswell That Ends Well\" is the nineteenth episode in the third season of the American animated television series Futurama, and the 51st episode of the series overall. It originally aired on the Fox network in the United States on December 9, 2001. The plot centers on an accidental time travel event",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:23.956570+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": " a cliffnote basically of  a story that was clearly already well known by the audience. So the author of Genesis when he whe"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-to-the-stars-academy",
+      "node_type": "organization",
+      "label": "To The Stars Academy",
+      "summary": "",
+      "tags": [
+        "research_org"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:23.956574+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": "rce for a lot of his sort of stuff with Secret Machines and To the Stars Academy was  known as this very kind of wise guy who literally I me"
+        }
+      ],
+      "type_specific": {
+        "org_type": "research_org"
+      }
+    },
+    {
+      "id": "organization-the-galileo-project",
+      "node_type": "organization",
+      "label": "The Galileo Project",
+      "summary": "The Galileo Project is an international scientific research project to search for extraterrestrial intelligence or extraterrestrial technology on and near Earth and to identify the nature of anomalous Unidentified Flying Objects/Unidentified Aerial Phenomena (UFOs/UAP). It was launched in 2021 by Ha",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:23.956578+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": "om their abduction episodes in that he called this personal project hybrids. Are you familiar with that? The personal project h"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-project-blue-book",
+      "node_type": "organization",
+      "label": "Project Blue Book",
+      "summary": "USAF UFO investigation program active from 1952 to 1969.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:23.956583+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": "rs. We can understand the modern phenomenon in light of the book of Enoch.  >> Hearing about the book of Enoch and it  sound"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-world-contact-day",
+      "node_type": "organization",
+      "label": "World Contact Day",
+      "summary": "World Contact Day was first declared in March 1953 by an organization called the International Flying Saucer Bureau (IFSB), as a day on which all IFSB members would attempt to send a telepathic message into space. The IFSB voted to hold such a day in 1953, theorising that if both telepathy and alien",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:23.956587+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": "and he would describe these missions as classified. And one day he's flying in there. They said, \"This never happened. No p"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-scp-foundation",
+      "node_type": "organization",
+      "label": "SCP Foundation",
+      "summary": "The SCP Foundation is a fictional organization featured in stories created by contributors on the SCP Wiki, a wiki-based collaborative writing project, launched in 2008. Within the project's shared universe, the SCP (Special Containment Procedures) Foundation is a secret organization that is respons",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:23.956591+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": "ce for our life and our world today?  >> Enoch provides the foundation for Hebrew cosmology as it pertains to the anti-dolivian wo"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-us-air-force",
+      "node_type": "organization",
+      "label": "US Air Force",
+      "summary": "US Air Force entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:23.956595+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": "net implodes, I mean, we can't even imagine the destructive force that would have unleashed. I mean, there's no explosion exc"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-big-sur-ufo",
+      "node_type": "organization",
+      "label": "Big Sur UFO",
+      "summary": "The Big Sur UFO is a reported UFO incident that took place during a 1964 Air Force deployment to a mountaintop near Big Sur, California. The deployment was a mission was to film Atlas missile tests from Vandenberg Air Force Base. Since 1982, Robert Jacobs, who had overseen the mountaintop team, has ",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:23.956600+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": "ribe as advanced aerospace technology. I myself have seen a UFO right above my car and this thing just descended and just h"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-mirage-men",
+      "node_type": "organization",
+      "label": "Mirage Men",
+      "summary": "Mirage Men is a 2013 documentary film directed by John Lundberg, written by Mark Pilkington and co-directed by Roland Denning and Kypros Kyprianou. Mirage Men suggests there was a conspiracy by the U.S. military to fabricate UFO folklore in order to deflect attention from classified military project",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:23.956604+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": "e was an age in which the gods were dwelling on earth among men and those beings came from somewhere.  >> The human species"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-bob-lazar",
+      "node_type": "organization",
+      "label": "Bob Lazar",
+      "summary": "Robert Scott Lazar () is an American who, since 1989, has claimed to have been part of a classified US government project concerned with the reverse engineering of extraterrestrial technology; he also purported to have read government briefing documents that described alien involvement in human affa",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:23.956607+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": " course you have anecdotal you have anecdotal accounts like Bob Lazar. Yeah. Yeah. Yeah.  >> Who said that you know among the cra"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-us-navy",
+      "node_type": "organization",
+      "label": "US Navy",
+      "summary": "US Navy entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:23.956611+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": " went to the village except two provincial policemen with a Navy escort. They went to the village because the villagers were"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-nasa",
+      "node_type": "organization",
+      "label": "NASA",
+      "summary": "NASA entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:23.956615+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": "ared light therapy all at once. The same type of technology NASA studied for skin healing in space. It's safe for your eyes,"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other",
+        "acronym": "NASA"
+      }
+    },
+    {
+      "id": "organization-cia",
+      "node_type": "organization",
+      "label": "CIA",
+      "summary": "CIA entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:23.956619+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": "ieve was on Shawn Ryan's show  >>  >> who was tasked by the CIA to remote view Mars a million years ago and described giant"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other",
+        "acronym": "CIA"
+      }
+    },
+    {
+      "id": "location-wright-patterson-air-force-base",
+      "node_type": "location",
+      "label": "Wright-Patterson Air Force Base",
+      "summary": "",
+      "tags": [
+        "military_base"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:23.956625+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": "ut I heard through the grapevine that the giant ended up at Wright Patterson.\"  >> He said, \"I don't know if it's true, but  that's what"
+        }
+      ],
+      "type_specific": {
+        "location_type": "military_base",
+        "country": "US",
+        "state_or_region": "Ohio"
+      }
+    },
+    {
+      "id": "location-pacific-training-area",
+      "node_type": "location",
+      "label": "Pacific Training Area",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:23.956629+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": "I used to ride my bike around there very familiar with this area and then you know not far from there is the airport in the "
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-united-kingdom",
+      "node_type": "location",
+      "label": "United Kingdom",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:23.956633+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": "e sons of God. They're angelic beings who defected from the kingdom and now are in opposition to God. We all understand that's "
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-united-states",
+      "node_type": "location",
+      "label": "United States",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:23.956637+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": "henomenon happening all around the world, especially in the United States  and in the West, generally speaking, it was the phenomenon"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-south-africa",
+      "node_type": "location",
+      "label": "South Africa",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:23.956640+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": "d navigators  >> see family people  >> they circumnavigated Africa for sure I think they crossed the Atlantic I  think they we"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-australia",
+      "node_type": "location",
+      "label": "Australia",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:23.956644+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": " to think of this I have a friend who was a rancher in a in Australia and it was, you know, always really hot and  he had all his"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-roswell",
+      "node_type": "location",
+      "label": "Roswell",
+      "summary": "",
+      "tags": [
+        "city"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:23.956648+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": "nshistorical, transcultural Yes. idea. This isn't just post Roswell nuclear age American stuff happening.  >> That's right. Thi"
+        }
+      ],
+      "type_specific": {
+        "location_type": "city",
+        "country": "US",
+        "state_or_region": "New Mexico"
+      }
+    },
+    {
+      "id": "location-brazil",
+      "node_type": "location",
+      "label": "Brazil",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:23.956652+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": "tions with the Peruvian military, Uruguay, I think Ecuador, Brazil, the UK was involved. It was like,  >> so what would the fa"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-italy",
+      "node_type": "location",
+      "label": "Italy",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:23.956655+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": " know, you hear about this magenta crash, you know, 1933 in Italy.  >> And, you know, it's being spoken about in very officia"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-peru",
+      "node_type": "location",
+      "label": "Peru",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:23.956659+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": "st returned, you know, a year or two previous to that  from Peru. I lived in Peru for about 10 years. And I was living in Cl"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "program-mj-12",
+      "node_type": "program",
+      "label": "MJ-12",
+      "summary": "",
+      "tags": [
+        "program"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:23.956664+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": "ho discusses UFOs a lot and is probably responsible for the MJ12 docks getting leaked and it, you know, makes you think that"
+        }
+      ]
+    },
+    {
+      "id": "claim-CiQTBOQ1dTg-discussion-summary",
+      "node_type": "claim",
+      "label": "Video CiQTBOQ1dTg features extended discussion of Anna Paulina Luna, Whitley Strieber, Zecharia Sitc",
+      "summary": "Video CiQTBOQ1dTg features extended discussion of Anna Paulina Luna, Whitley Strieber, Zecharia Sitchin and related UAP research topics, hosted by Jesse Michels.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:23.956675+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": "Episode title: “We Captured a 12 Foot Giant in Afghanistan!” -Tim Alberino"
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Video CiQTBOQ1dTg features extended discussion of Anna Paulina Luna, Whitley Strieber, Zecharia Sitchin and related UAP research topics, hosted by Jesse Michels.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "CiQTBOQ1dTg",
+        "timestamp_start_seconds": 0,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-anna-paulina-luna",
+          "person-whitley-strieber",
+          "person-zecharia-sitchin",
+          "video-CiQTBOQ1dTg"
+        ]
+      }
+    },
+    {
+      "id": "person-tim-alberino",
+      "node_type": "person",
+      "label": "Tim Alberino",
+      "summary": "American researcher and author focused on the Nephilim / Anakim narrative of ancient giants; Kandahar giant investigator; deep scholar of Book of Enoch and Hebrew antediluvian cosmology.",
+      "tags": [
+        "researcher",
+        "author",
+        "biblical-scholar"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.006030+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 281,
+          "quote": "Researcher on Nephilim, ancient giants, Book of Enoch"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Alberino"
+        ],
+        "profession": "researcher / author",
+        "notability_tags": [
+          "researcher",
+          "author",
+          "biblical-scholar"
+        ]
+      }
+    },
+    {
+      "id": "document-book-of-enoch",
+      "node_type": "document",
+      "label": "Book of Enoch",
+      "summary": "Non-canonical Hebrew text attributed to Enoch; provides foundation for Hebrew cosmology of the antediluvian world; describes 'watchers' (extraterrestrial beings) who mated with humans producing the Nephilim giants.",
+      "tags": [
+        "book"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.006032+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 301,
+          "timestamp_end": "Foundational Hebrew antediluvian cosmological text"
+        }
+      ],
+      "type_specific": {
+        "document_type": "book",
+        "author": "Enoch (attributed)"
+      }
+    },
+    {
+      "id": "document-epic-of-gilgamesh",
+      "node_type": "document",
+      "label": "Epic of Gilgamesh",
+      "summary": "Ancient Mesopotamian epic; Gilgamesh himself is described as a giant. Parallels Hebrew Nephilim tradition with the Anunnakic/Sumerian account of divine-human hybrid beings.",
+      "tags": [
+        "book"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.006034+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 309,
+          "timestamp_end": "Mesopotamian epic with giant protagonist"
+        }
+      ],
+      "type_specific": {
+        "document_type": "book"
+      }
+    },
+    {
+      "id": "concept-watchers-nephilim",
+      "node_type": "concept",
+      "label": "The Watchers & Nephilim",
+      "summary": "Hebrew antediluvian tradition of 'watchers' — extraterrestrial entities who descended, mated with human women, and produced the Nephilim race of hybrid demigod giants. Paralleled across pagan traditions (Greek titans, Mesopotamian Anunnaki, Egyptian gods).",
+      "tags": [
+        "metaphysics"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.006036+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 271,
+          "timestamp_end": "Extraterrestrial beings who mated with humans producing giants"
+        }
+      ],
+      "type_specific": {
+        "concept_domain": "metaphysics"
+      }
+    },
+    {
+      "id": "incident-kandahar-giant",
+      "node_type": "incident",
+      "label": "Kandahar Giant Recovery",
+      "summary": "Tim Alberino's investigation: US Air Force cargo pilot witnessed a 12-ft tall, 1,100-lb, red-haired, pale-skinned being with six fingers on each hand and six toes on each foot being transported on an air cargo pallet in Afghanistan (classified operation).",
+      "tags": [
+        "crash_retrieval"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.006038+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 287,
+          "timestamp_end": "US cargo pilot witnessed 12-ft red-haired six-fingered giant"
+        }
+      ],
+      "type_specific": {
+        "incident_type": "crash_retrieval",
+        "date_approximate": "2002-01-01"
+      }
+    },
+    {
+      "id": "concept-sidonia-mars-ruins",
+      "node_type": "concept",
+      "label": "Sidonia (Mars) Ruins",
+      "summary": "Per Alberino: NHI-era civilizational ruins on Mars in the Sidonia region. Per ancient traditions, the gods descended from Mars.",
+      "tags": [
+        "metaphysics"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.006040+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 275,
+          "timestamp_end": "Alleged ancient civilization ruins in Sidonia region of Mars"
+        }
+      ],
+      "type_specific": {
+        "concept_domain": "metaphysics"
+      }
+    },
+    {
+      "id": "claim-CiQTBOQ1dTg-alberino-kandahar-giant",
+      "node_type": "claim",
+      "label": "Per Alberino: A US cargo pilot on classified missions witnessed a 12-ft tall, 1,100-lb, six-fingered",
+      "summary": "Per Alberino: A US cargo pilot on classified missions witnessed a 12-ft tall, 1,100-lb, six-fingered giant being transported on an air-cargo pallet in Kandahar — hair red, skin pale, 'solid as a rock', never-speak-about-it order.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.017488+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 287,
+          "quote": "He sees a forklift bringing over an air cargo pallet. The hair of this being was red. The skin was pale. It had six fingers on each hand and six toes on each foot. Let's say it was 12 feet tall. The whole thing weighed 1,100 lb."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Per Alberino: A US cargo pilot on classified missions witnessed a 12-ft tall, 1,100-lb, six-fingered giant being transported on an air-cargo pallet in Kandahar — hair red, skin pale, 'solid as a rock', never-speak-about-it order.",
+        "asserted_by_id": "person-tim-alberino",
+        "source_video_id": "CiQTBOQ1dTg",
+        "timestamp_start_seconds": 287,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-tim-alberino",
+          "incident-kandahar-giant"
+        ]
+      }
+    },
+    {
+      "id": "claim-CiQTBOQ1dTg-alberino-watchers-nephilim",
+      "node_type": "claim",
+      "label": "Alberino argues the Book of Enoch documents 'watchers' — extraterrestrial entities who mated with hu",
+      "summary": "Alberino argues the Book of Enoch documents 'watchers' — extraterrestrial entities who mated with humans producing the Nephilim hybrid race — and this archetype is preserved across Hebrew, Mesopotamian, Greek, Roman, and Egyptian traditions.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.017510+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 271,
+          "quote": "So we have these watchers that came down. They were extraterrestrial. They mated with man. They created Nephilim. These traditions are ubiquitous across the earth."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Alberino argues the Book of Enoch documents 'watchers' — extraterrestrial entities who mated with humans producing the Nephilim hybrid race — and this archetype is preserved across Hebrew, Mesopotamian, Greek, Roman, and Egyptian traditions.",
+        "asserted_by_id": "person-tim-alberino",
+        "source_video_id": "CiQTBOQ1dTg",
+        "timestamp_start_seconds": 271,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-tim-alberino",
+          "document-book-of-enoch",
+          "concept-watchers-nephilim"
+        ]
+      }
+    },
+    {
+      "id": "claim-CiQTBOQ1dTg-alberino-sidonia-mars-ruins",
+      "node_type": "claim",
+      "label": "Alberino points to alleged ancient civilization ruins in the Sidonia region of Mars as material evid",
+      "summary": "Alberino points to alleged ancient civilization ruins in the Sidonia region of Mars as material evidence corroborating ancient traditions of the gods descending from Mars.",
+      "tags": [
+        "speculation",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.017521+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 275,
+          "quote": "There are ruins of an ancient civilization on the planet Mars, specifically in the region of Sidonia. The ancients believed that the gods descended from Mars."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Alberino points to alleged ancient civilization ruins in the Sidonia region of Mars as material evidence corroborating ancient traditions of the gods descending from Mars.",
+        "asserted_by_id": "person-tim-alberino",
+        "source_video_id": "CiQTBOQ1dTg",
+        "timestamp_start_seconds": 275,
+        "assertability": "speculation",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-tim-alberino",
+          "concept-sidonia-mars-ruins"
+        ]
+      }
+    },
+    {
+      "id": "claim-CiQTBOQ1dTg-gilgamesh-giant-parallel",
+      "node_type": "claim",
+      "label": "Alberino notes Gilgamesh himself is described as a giant in the Mesopotamian epic, paralleling the H",
+      "summary": "Alberino notes Gilgamesh himself is described as a giant in the Mesopotamian epic, paralleling the Hebrew Nephilim tradition and suggesting a common antediluvian memory of divine-human hybrid beings.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.017530+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 309,
+          "quote": "In the biblical account and the ancient Mesopotamian account, the epic of Gilgamesh. Gilgamesh himself was a giant."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Alberino notes Gilgamesh himself is described as a giant in the Mesopotamian epic, paralleling the Hebrew Nephilim tradition and suggesting a common antediluvian memory of divine-human hybrid beings.",
+        "asserted_by_id": "person-tim-alberino",
+        "source_video_id": "CiQTBOQ1dTg",
+        "timestamp_start_seconds": 309,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-tim-alberino",
+          "document-epic-of-gilgamesh",
+          "concept-watchers-nephilim"
+        ]
+      }
+    },
+    {
+      "id": "claim-CiQTBOQ1dTg-alberino-golden-age-zep-tepi",
+      "node_type": "claim",
+      "label": "Per Alberino: in Egyptian tradition the antediluvian era is 'Zep Tepi' — a golden age when gods co-m",
+      "summary": "Per Alberino: in Egyptian tradition the antediluvian era is 'Zep Tepi' — a golden age when gods co-mingled with mankind and procreated with human women producing hybrid demigods.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.017542+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 309,
+          "quote": "In the pagan world, this was known as the golden age or Zep Tepi to the ancient Egyptians. It was a time when the gods co-mingled with mankind. Literally, they procreated with human women."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Per Alberino: in Egyptian tradition the antediluvian era is 'Zep Tepi' — a golden age when gods co-mingled with mankind and procreated with human women producing hybrid demigods.",
+        "asserted_by_id": "person-tim-alberino",
+        "source_video_id": "CiQTBOQ1dTg",
+        "timestamp_start_seconds": 309,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-tim-alberino",
+          "concept-watchers-nephilim"
+        ]
+      }
+    },
+    {
+      "id": "claim-CiQTBOQ1dTg-alberino-enoch-greatest-preflood-patriarch",
+      "node_type": "claim",
+      "label": "Alberino notes Enoch is described as the greatest pre-flood patriarch yet canonical Bible says very ",
+      "summary": "Alberino notes Enoch is described as the greatest pre-flood patriarch yet canonical Bible says very little about him — extensive Enochian content exists only in extra-canonical Book of Enoch.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.017550+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 311,
+          "quote": "Among the Jews, there was no greater prophet and scribe than Enoch. The Bible says very little about Enoch — 'walked with God for 365 years and then God took him' — and that's pretty much all."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Alberino notes Enoch is described as the greatest pre-flood patriarch yet canonical Bible says very little about him — extensive Enochian content exists only in extra-canonical Book of Enoch.",
+        "asserted_by_id": "person-tim-alberino",
+        "source_video_id": "CiQTBOQ1dTg",
+        "timestamp_start_seconds": 311,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-tim-alberino",
+          "document-book-of-enoch"
+        ]
+      }
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge-video-CiQTBOQ1dTg-HOSTED_BY-person-jesse-michels",
+      "from_node_id": "video-CiQTBOQ1dTg",
+      "to_node_id": "person-jesse-michels",
+      "relationship": "HOSTED_BY",
+      "confidence": 0.99,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": "Jesse hosting"
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-APPEARED_IN-video-CiQTBOQ1dTg",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "video-CiQTBOQ1dTg",
+      "relationship": "APPEARED_IN",
+      "confidence": 0.99,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": "Host"
+        }
+      ],
+      "properties": {
+        "appearance_type": "host"
+      }
+    },
+    {
+      "id": "edge-video-CiQTBOQ1dTg-MENTIONS-person-anna-paulina-luna",
+      "from_node_id": "video-CiQTBOQ1dTg",
+      "to_node_id": "person-anna-paulina-luna",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": "w, non-human intelligence. You have Congresswoman Anna Pina Luna going on Joe Rogan. That's right. and saying, you know, rea"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-CiQTBOQ1dTg-MENTIONS-person-whitley-strieber",
+      "from_node_id": "video-CiQTBOQ1dTg",
+      "to_node_id": "person-whitley-strieber",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": "ction stuff.  >> Yeah. It's so str. You know, I interviewed Whitley Strieber and you  could say what you want about some of his stories "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-CiQTBOQ1dTg-MENTIONS-person-zecharia-sitchin",
+      "from_node_id": "video-CiQTBOQ1dTg",
+      "to_node_id": "person-zecharia-sitchin",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": " a guy who sort of throws pours cold water on the Zachariah Sitchin kind of  >> Yeah. He had a website called Sitchin is wrong."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-CiQTBOQ1dTg-MENTIONS-person-john-f-kennedy",
+      "from_node_id": "video-CiQTBOQ1dTg",
+      "to_node_id": "person-john-f-kennedy",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": "this guy, Harold Malgren, who is this, you know, adviser to JFK, LBJ, Nixon, and Ford. and he's talking about how James Jes"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-CiQTBOQ1dTg-MENTIONS-person-travis-walton",
+      "from_node_id": "video-CiQTBOQ1dTg",
+      "to_node_id": "person-travis-walton",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": "then where it gets so confusing is like you have cases like Travis Walton where they're  working together in conjunction.  >> Yes. An"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-CiQTBOQ1dTg-MENTIONS-person-richard-dolan",
+      "from_node_id": "video-CiQTBOQ1dTg",
+      "to_node_id": "person-richard-dolan",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": "enon. Now, I would say a good portion I remember talking to Richard Dolan about this that a good portion of the mystery airship  phen"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-CiQTBOQ1dTg-MENTIONS-person-bill-clinton",
+      "from_node_id": "video-CiQTBOQ1dTg",
+      "to_node_id": "person-bill-clinton",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": "he '90s there was Alh84001, this meteor that was found that Bill Clinton made a speech on and said they found, you know, polyylic hy"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-CiQTBOQ1dTg-MENTIONS-person-love-has-won",
+      "from_node_id": "video-CiQTBOQ1dTg",
+      "to_node_id": "person-love-has-won",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": "ave all of the you'll be hungry. You'll be thirsty, but you won't be able to satisfy your the desires of your flesh because"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-CiQTBOQ1dTg-MENTIONS-person-paul-r-hill",
+      "from_node_id": "video-CiQTBOQ1dTg",
+      "to_node_id": "person-paul-r-hill",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": "g and the guy comes there's a little golly. He comes up the hill hovering and lands the board right behind her and grabs her"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-CiQTBOQ1dTg-MENTIONS-person-riley-martin",
+      "from_node_id": "video-CiQTBOQ1dTg",
+      "to_node_id": "person-riley-martin",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": "eople think that Jesus himself was part of the so there's a Martin Luther King Jr. actually wrote a book or sorry an essay cal"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-CiQTBOQ1dTg-MENTIONS-person-timothy-good",
+      "from_node_id": "video-CiQTBOQ1dTg",
+      "to_node_id": "person-timothy-good",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": "license and  my father was a pastor. So I grew up in a very good home. I had a very good upbringing. My dad was a excellent "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-CiQTBOQ1dTg-MENTIONS-person-chan-thomas",
+      "from_node_id": "video-CiQTBOQ1dTg",
+      "to_node_id": "person-chan-thomas",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": " at the front of all of those things seem to be interfacing Thomas Towns and Brown you could think of his anti-gravity stuff a"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-CiQTBOQ1dTg-MENTIONS-person-betty-hill",
+      "from_node_id": "video-CiQTBOQ1dTg",
+      "to_node_id": "person-betty-hill",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": "g and the guy comes there's a little golly. He comes up the hill hovering and lands the board right behind her and grabs her"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-CiQTBOQ1dTg-MENTIONS-person-kid-cosmic",
+      "from_node_id": "video-CiQTBOQ1dTg",
+      "to_node_id": "person-kid-cosmic",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": "sewhere which position the earth as a spectator  >> to this cosmic destruction that causes the mountains to melt like wax.  >>"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-CiQTBOQ1dTg-MENTIONS-person-bob-jacobs",
+      "from_node_id": "video-CiQTBOQ1dTg",
+      "to_node_id": "person-bob-jacobs",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": "learly created by the insecttoins. You  know what Dr. David Jacobs describes as insectilins, the manted beings in my estimatio"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-CiQTBOQ1dTg-MENTIONS-person-bob-lazar",
+      "from_node_id": "video-CiQTBOQ1dTg",
+      "to_node_id": "person-bob-lazar",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": " course you have anecdotal you have anecdotal accounts like Bob Lazar. Yeah. Yeah. Yeah.  >> Who said that you know among the cra"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-CiQTBOQ1dTg-MENTIONS-person-john-mack",
+      "from_node_id": "video-CiQTBOQ1dTg",
+      "to_node_id": "person-john-mack",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": "ecause I know you've  looked at David Jacobs, Carla Turner, John Mack, all these amazing Bud Hopkins, who was really kind of the "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-CiQTBOQ1dTg-MENTIONS-organization-international-ufo-museum-and-research-center",
+      "from_node_id": "video-CiQTBOQ1dTg",
+      "to_node_id": "organization-international-ufo-museum-and-research-center",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": ", we have a new starship. Of course, we have a healthc care center on board. Ask what my new favorite product in it is. I rest"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-CiQTBOQ1dTg-MENTIONS-organization-the-report-on-unidentified-flying-objects",
+      "from_node_id": "video-CiQTBOQ1dTg",
+      "to_node_id": "organization-the-report-on-unidentified-flying-objects",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": "e and that correspond to the modern UFO phenomenon. Silvery objects flying in the sky. You  know, I think a lot of the propelle"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-CiQTBOQ1dTg-MENTIONS-organization-ufo-sightings-in-the-united-kingdom",
+      "from_node_id": "video-CiQTBOQ1dTg",
+      "to_node_id": "organization-ufo-sightings-in-the-united-kingdom",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": "e sons of God. They're angelic beings who defected from the kingdom and now are in opposition to God. We all understand that's "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-CiQTBOQ1dTg-MENTIONS-organization-1952-washington-d-c-ufo-incident",
+      "from_node_id": "video-CiQTBOQ1dTg",
+      "to_node_id": "organization-1952-washington-d-c-ufo-incident",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": "ght I was CIA, but   so, there there was the most important incident happened with this one of the most important incidents with"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-CiQTBOQ1dTg-MENTIONS-organization-identification-studies-of-ufos",
+      "from_node_id": "video-CiQTBOQ1dTg",
+      "to_node_id": "organization-identification-studies-of-ufos",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": "advanced aerospace vehicles what we would describe today as UFOs. And so to close out this story, the Watchers rather the gi"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-CiQTBOQ1dTg-MENTIONS-organization-lakenheath-bentwaters-incident",
+      "from_node_id": "video-CiQTBOQ1dTg",
+      "to_node_id": "organization-lakenheath-bentwaters-incident",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": "ght I was CIA, but   so, there there was the most important incident happened with this one of the most important incidents with"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-CiQTBOQ1dTg-MENTIONS-organization-chiles-whitted-ufo-encounter",
+      "from_node_id": "video-CiQTBOQ1dTg",
+      "to_node_id": "organization-chiles-whitted-ufo-encounter",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": "nt in the in the biblical narrative every time human beings encounter angels in the narrative. And when I'm stressing narrative b"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-CiQTBOQ1dTg-MENTIONS-organization-flying-saucer-working-party",
+      "from_node_id": "video-CiQTBOQ1dTg",
+      "to_node_id": "organization-flying-saucer-working-party",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": " And so Set has this sumptuous coffin built and he throws a party and he says in the party, \"I've I've I've got this challeng"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-CiQTBOQ1dTg-MENTIONS-organization-the-flying-saucers-are-real",
+      "from_node_id": "video-CiQTBOQ1dTg",
+      "to_node_id": "organization-the-flying-saucers-are-real",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": ". Okay? So what I'm trying to describe here is a kingdom, a real kingdom, not an imaginary kingdom, not a spiritual kingdom,"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-CiQTBOQ1dTg-MENTIONS-organization-archives-of-the-impossible",
+      "from_node_id": "video-CiQTBOQ1dTg",
+      "to_node_id": "organization-archives-of-the-impossible",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": "haped craft, you know, darting around in the sky, moving at impossible speeds. And this corresponds with the So you have so you ha"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-CiQTBOQ1dTg-MENTIONS-organization-unidentified-flying-object",
+      "from_node_id": "video-CiQTBOQ1dTg",
+      "to_node_id": "organization-unidentified-flying-object",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": ", I think he looks off his left wing and he sees this shiny object flying out there in the distance. I think he said like a mi"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-CiQTBOQ1dTg-MENTIONS-organization-the-spaceships-of-ezekiel",
+      "from_node_id": "video-CiQTBOQ1dTg",
+      "to_node_id": "organization-the-spaceships-of-ezekiel",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": " that are described in the Bible. And I'm not talking about Ezekiel's wheel  >> because Ezekiel's wheel, we're going to relegat"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-CiQTBOQ1dTg-MENTIONS-organization-us-department-of-defense",
+      "from_node_id": "video-CiQTBOQ1dTg",
+      "to_node_id": "organization-us-department-of-defense",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": "he grays. You know, here's the clear enemy who's we have no defense, by the way, against this enemy. They're far more advanced "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-CiQTBOQ1dTg-MENTIONS-organization-leonard-h-stringfield",
+      "from_node_id": "video-CiQTBOQ1dTg",
+      "to_node_id": "organization-leonard-h-stringfield",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": "of the whistleblowers and all of the crash retrieval stuff, Leonard Stringfield, all the stuff he compiled, although all of that is compell"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-CiQTBOQ1dTg-MENTIONS-organization-lonnie-zamora-incident",
+      "from_node_id": "video-CiQTBOQ1dTg",
+      "to_node_id": "organization-lonnie-zamora-incident",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": "ght I was CIA, but   so, there there was the most important incident happened with this one of the most important incidents with"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-CiQTBOQ1dTg-MENTIONS-organization-roswell-that-ends-well",
+      "from_node_id": "video-CiQTBOQ1dTg",
+      "to_node_id": "organization-roswell-that-ends-well",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": " a cliffnote basically of  a story that was clearly already well known by the audience. So the author of Genesis when he whe"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-CiQTBOQ1dTg-MENTIONS-organization-to-the-stars-academy",
+      "from_node_id": "video-CiQTBOQ1dTg",
+      "to_node_id": "organization-to-the-stars-academy",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": "rce for a lot of his sort of stuff with Secret Machines and To the Stars Academy was  known as this very kind of wise guy who literally I me"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-CiQTBOQ1dTg-MENTIONS-organization-the-galileo-project",
+      "from_node_id": "video-CiQTBOQ1dTg",
+      "to_node_id": "organization-the-galileo-project",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": "om their abduction episodes in that he called this personal project hybrids. Are you familiar with that? The personal project h"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-CiQTBOQ1dTg-MENTIONS-organization-project-blue-book",
+      "from_node_id": "video-CiQTBOQ1dTg",
+      "to_node_id": "organization-project-blue-book",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": "rs. We can understand the modern phenomenon in light of the book of Enoch.  >> Hearing about the book of Enoch and it  sound"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-CiQTBOQ1dTg-MENTIONS-organization-world-contact-day",
+      "from_node_id": "video-CiQTBOQ1dTg",
+      "to_node_id": "organization-world-contact-day",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": "and he would describe these missions as classified. And one day he's flying in there. They said, \"This never happened. No p"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-CiQTBOQ1dTg-MENTIONS-organization-scp-foundation",
+      "from_node_id": "video-CiQTBOQ1dTg",
+      "to_node_id": "organization-scp-foundation",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": "ce for our life and our world today?  >> Enoch provides the foundation for Hebrew cosmology as it pertains to the anti-dolivian wo"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-CiQTBOQ1dTg-MENTIONS-organization-us-air-force",
+      "from_node_id": "video-CiQTBOQ1dTg",
+      "to_node_id": "organization-us-air-force",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": "net implodes, I mean, we can't even imagine the destructive force that would have unleashed. I mean, there's no explosion exc"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-CiQTBOQ1dTg-MENTIONS-organization-big-sur-ufo",
+      "from_node_id": "video-CiQTBOQ1dTg",
+      "to_node_id": "organization-big-sur-ufo",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": "ribe as advanced aerospace technology. I myself have seen a UFO right above my car and this thing just descended and just h"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-CiQTBOQ1dTg-MENTIONS-organization-mirage-men",
+      "from_node_id": "video-CiQTBOQ1dTg",
+      "to_node_id": "organization-mirage-men",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": "e was an age in which the gods were dwelling on earth among men and those beings came from somewhere.  >> The human species"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-CiQTBOQ1dTg-MENTIONS-organization-bob-lazar",
+      "from_node_id": "video-CiQTBOQ1dTg",
+      "to_node_id": "organization-bob-lazar",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": " course you have anecdotal you have anecdotal accounts like Bob Lazar. Yeah. Yeah. Yeah.  >> Who said that you know among the cra"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-CiQTBOQ1dTg-MENTIONS-organization-us-navy",
+      "from_node_id": "video-CiQTBOQ1dTg",
+      "to_node_id": "organization-us-navy",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": " went to the village except two provincial policemen with a Navy escort. They went to the village because the villagers were"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-CiQTBOQ1dTg-MENTIONS-organization-nasa",
+      "from_node_id": "video-CiQTBOQ1dTg",
+      "to_node_id": "organization-nasa",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": "ared light therapy all at once. The same type of technology NASA studied for skin healing in space. It's safe for your eyes,"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-CiQTBOQ1dTg-MENTIONS-organization-cia",
+      "from_node_id": "video-CiQTBOQ1dTg",
+      "to_node_id": "organization-cia",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": "ieve was on Shawn Ryan's show  >>  >> who was tasked by the CIA to remote view Mars a million years ago and described giant"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-CiQTBOQ1dTg-MENTIONS-location-wright-patterson-air-force-base",
+      "from_node_id": "video-CiQTBOQ1dTg",
+      "to_node_id": "location-wright-patterson-air-force-base",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": "ut I heard through the grapevine that the giant ended up at Wright Patterson.\"  >> He said, \"I don't know if it's true, but  that's what"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-CiQTBOQ1dTg-MENTIONS-location-pacific-training-area",
+      "from_node_id": "video-CiQTBOQ1dTg",
+      "to_node_id": "location-pacific-training-area",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": "I used to ride my bike around there very familiar with this area and then you know not far from there is the airport in the "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-CiQTBOQ1dTg-MENTIONS-location-united-kingdom",
+      "from_node_id": "video-CiQTBOQ1dTg",
+      "to_node_id": "location-united-kingdom",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": "e sons of God. They're angelic beings who defected from the kingdom and now are in opposition to God. We all understand that's "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-CiQTBOQ1dTg-MENTIONS-location-united-states",
+      "from_node_id": "video-CiQTBOQ1dTg",
+      "to_node_id": "location-united-states",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": "henomenon happening all around the world, especially in the United States  and in the West, generally speaking, it was the phenomenon"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-CiQTBOQ1dTg-MENTIONS-location-south-africa",
+      "from_node_id": "video-CiQTBOQ1dTg",
+      "to_node_id": "location-south-africa",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": "d navigators  >> see family people  >> they circumnavigated Africa for sure I think they crossed the Atlantic I  think they we"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-CiQTBOQ1dTg-MENTIONS-location-australia",
+      "from_node_id": "video-CiQTBOQ1dTg",
+      "to_node_id": "location-australia",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": " to think of this I have a friend who was a rancher in a in Australia and it was, you know, always really hot and  he had all his"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-CiQTBOQ1dTg-MENTIONS-location-roswell",
+      "from_node_id": "video-CiQTBOQ1dTg",
+      "to_node_id": "location-roswell",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": "nshistorical, transcultural Yes. idea. This isn't just post Roswell nuclear age American stuff happening.  >> That's right. Thi"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-CiQTBOQ1dTg-MENTIONS-location-brazil",
+      "from_node_id": "video-CiQTBOQ1dTg",
+      "to_node_id": "location-brazil",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": "tions with the Peruvian military, Uruguay, I think Ecuador, Brazil, the UK was involved. It was like,  >> so what would the fa"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-CiQTBOQ1dTg-MENTIONS-location-italy",
+      "from_node_id": "video-CiQTBOQ1dTg",
+      "to_node_id": "location-italy",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": " know, you hear about this magenta crash, you know, 1933 in Italy.  >> And, you know, it's being spoken about in very officia"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-CiQTBOQ1dTg-MENTIONS-location-peru",
+      "from_node_id": "video-CiQTBOQ1dTg",
+      "to_node_id": "location-peru",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": "st returned, you know, a year or two previous to that  from Peru. I lived in Peru for about 10 years. And I was living in Cl"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-CiQTBOQ1dTg-MENTIONS-program-mj-12",
+      "from_node_id": "video-CiQTBOQ1dTg",
+      "to_node_id": "program-mj-12",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": "ho discusses UFOs a lot and is probably responsible for the MJ12 docks getting leaked and it, you know, makes you think that"
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-CiQTBOQ1dTg-discussion-summary",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-CiQTBOQ1dTg-discussion-summary",
+      "relationship": "ASSERTED",
+      "confidence": 0.9,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0,
+          "quote": "Episode: “We Captured a 12 Foot Giant in Afghanistan!” -Tim Alberino"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-CiQTBOQ1dTg-REFERENCES-claim-CiQTBOQ1dTg-discussion-summary",
+      "from_node_id": "video-CiQTBOQ1dTg",
+      "to_node_id": "claim-CiQTBOQ1dTg-discussion-summary",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 0
+        }
+      ]
+    },
+    {
+      "id": "edge-person-tim-alberino-ASSERTED-claim-CiQTBOQ1dTg-alberino-kandahar-giant",
+      "from_node_id": "person-tim-alberino",
+      "to_node_id": "claim-CiQTBOQ1dTg-alberino-kandahar-giant",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 287,
+          "quote": "Per Alberino: A US cargo pilot on classified missions witnessed a 12-ft tall, 1,100-lb, six-fingered giant being transported on an air-cargo pallet in Kandahar — hair red, skin pale, 'solid as a rock'"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-CiQTBOQ1dTg-REFERENCES-claim-CiQTBOQ1dTg-alberino-kandahar-giant",
+      "from_node_id": "video-CiQTBOQ1dTg",
+      "to_node_id": "claim-CiQTBOQ1dTg-alberino-kandahar-giant",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 287
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-CiQTBOQ1dTg-alberino-kandahar-giant-REFERENCES-incident-kandahar-giant",
+      "from_node_id": "claim-CiQTBOQ1dTg-alberino-kandahar-giant",
+      "to_node_id": "incident-kandahar-giant",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 287
+        }
+      ]
+    },
+    {
+      "id": "edge-person-tim-alberino-ASSERTED-claim-CiQTBOQ1dTg-alberino-watchers-nephilim",
+      "from_node_id": "person-tim-alberino",
+      "to_node_id": "claim-CiQTBOQ1dTg-alberino-watchers-nephilim",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 271,
+          "quote": "Alberino argues the Book of Enoch documents 'watchers' — extraterrestrial entities who mated with humans producing the Nephilim hybrid race — and this archetype is preserved across Hebrew, Mesopotamia"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-CiQTBOQ1dTg-REFERENCES-claim-CiQTBOQ1dTg-alberino-watchers-nephilim",
+      "from_node_id": "video-CiQTBOQ1dTg",
+      "to_node_id": "claim-CiQTBOQ1dTg-alberino-watchers-nephilim",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 271
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-CiQTBOQ1dTg-alberino-watchers-nephilim-REFERENCES-document-book-of-enoch",
+      "from_node_id": "claim-CiQTBOQ1dTg-alberino-watchers-nephilim",
+      "to_node_id": "document-book-of-enoch",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 271
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-CiQTBOQ1dTg-alberino-watchers-nephilim-REFERENCES-concept-watchers-nephilim",
+      "from_node_id": "claim-CiQTBOQ1dTg-alberino-watchers-nephilim",
+      "to_node_id": "concept-watchers-nephilim",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 271
+        }
+      ]
+    },
+    {
+      "id": "edge-person-tim-alberino-ASSERTED-claim-CiQTBOQ1dTg-alberino-sidonia-mars-ruins",
+      "from_node_id": "person-tim-alberino",
+      "to_node_id": "claim-CiQTBOQ1dTg-alberino-sidonia-mars-ruins",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 275,
+          "quote": "Alberino points to alleged ancient civilization ruins in the Sidonia region of Mars as material evidence corroborating ancient traditions of the gods descending from Mars."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-CiQTBOQ1dTg-REFERENCES-claim-CiQTBOQ1dTg-alberino-sidonia-mars-ruins",
+      "from_node_id": "video-CiQTBOQ1dTg",
+      "to_node_id": "claim-CiQTBOQ1dTg-alberino-sidonia-mars-ruins",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 275
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-CiQTBOQ1dTg-alberino-sidonia-mars-ruins-REFERENCES-concept-sidonia-mars-ruins",
+      "from_node_id": "claim-CiQTBOQ1dTg-alberino-sidonia-mars-ruins",
+      "to_node_id": "concept-sidonia-mars-ruins",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 275
+        }
+      ]
+    },
+    {
+      "id": "edge-person-tim-alberino-ASSERTED-claim-CiQTBOQ1dTg-gilgamesh-giant-parallel",
+      "from_node_id": "person-tim-alberino",
+      "to_node_id": "claim-CiQTBOQ1dTg-gilgamesh-giant-parallel",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 309,
+          "quote": "Alberino notes Gilgamesh himself is described as a giant in the Mesopotamian epic, paralleling the Hebrew Nephilim tradition and suggesting a common antediluvian memory of divine-human hybrid beings."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-CiQTBOQ1dTg-REFERENCES-claim-CiQTBOQ1dTg-gilgamesh-giant-parallel",
+      "from_node_id": "video-CiQTBOQ1dTg",
+      "to_node_id": "claim-CiQTBOQ1dTg-gilgamesh-giant-parallel",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 309
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-CiQTBOQ1dTg-gilgamesh-giant-parallel-REFERENCES-document-epic-of-gilgamesh",
+      "from_node_id": "claim-CiQTBOQ1dTg-gilgamesh-giant-parallel",
+      "to_node_id": "document-epic-of-gilgamesh",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 309
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-CiQTBOQ1dTg-gilgamesh-giant-parallel-REFERENCES-concept-watchers-nephilim",
+      "from_node_id": "claim-CiQTBOQ1dTg-gilgamesh-giant-parallel",
+      "to_node_id": "concept-watchers-nephilim",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 309
+        }
+      ]
+    },
+    {
+      "id": "edge-person-tim-alberino-ASSERTED-claim-CiQTBOQ1dTg-alberino-golden-age-zep-tepi",
+      "from_node_id": "person-tim-alberino",
+      "to_node_id": "claim-CiQTBOQ1dTg-alberino-golden-age-zep-tepi",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 309,
+          "quote": "Per Alberino: in Egyptian tradition the antediluvian era is 'Zep Tepi' — a golden age when gods co-mingled with mankind and procreated with human women producing hybrid demigods."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-CiQTBOQ1dTg-REFERENCES-claim-CiQTBOQ1dTg-alberino-golden-age-zep-tepi",
+      "from_node_id": "video-CiQTBOQ1dTg",
+      "to_node_id": "claim-CiQTBOQ1dTg-alberino-golden-age-zep-tepi",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 309
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-CiQTBOQ1dTg-alberino-golden-age-zep-tepi-REFERENCES-concept-watchers-nephilim",
+      "from_node_id": "claim-CiQTBOQ1dTg-alberino-golden-age-zep-tepi",
+      "to_node_id": "concept-watchers-nephilim",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 309
+        }
+      ]
+    },
+    {
+      "id": "edge-person-tim-alberino-ASSERTED-claim-CiQTBOQ1dTg-alberino-enoch-greatest-preflood-patriarch",
+      "from_node_id": "person-tim-alberino",
+      "to_node_id": "claim-CiQTBOQ1dTg-alberino-enoch-greatest-preflood-patriarch",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 311,
+          "quote": "Alberino notes Enoch is described as the greatest pre-flood patriarch yet canonical Bible says very little about him — extensive Enochian content exists only in extra-canonical Book of Enoch."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-CiQTBOQ1dTg-REFERENCES-claim-CiQTBOQ1dTg-alberino-enoch-greatest-preflood-patriarch",
+      "from_node_id": "video-CiQTBOQ1dTg",
+      "to_node_id": "claim-CiQTBOQ1dTg-alberino-enoch-greatest-preflood-patriarch",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 311
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-CiQTBOQ1dTg-alberino-enoch-greatest-preflood-patriarch-REFERENCES-document-book-of-enoch",
+      "from_node_id": "claim-CiQTBOQ1dTg-alberino-enoch-greatest-preflood-patriarch",
+      "to_node_id": "document-book-of-enoch",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "CiQTBOQ1dTg",
+          "timestamp_start": 311
+        }
+      ]
+    }
+  ],
+  "extracted_at": "2026-04-17T12:49:16.017561+00:00",
+  "extractor_version": "v1-inline-claude"
+}

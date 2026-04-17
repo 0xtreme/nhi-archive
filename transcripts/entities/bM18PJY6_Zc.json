@@ -1,0 +1,3201 @@
+{
+  "video_id": "bM18PJY6_Zc",
+  "nodes": [
+    {
+      "id": "video-bM18PJY6_Zc",
+      "node_type": "video",
+      "label": "Why NASA Studies This Man (He Attracts UFOs!)",
+      "summary": "Our American Alchemist this week is Chris Bledsoe. Chris Bledsoe is not just a UFO experiencer. He spent years in direct contact with Tim Taylor, a senior NASA mission controller who repeatedly...",
+      "tags": [
+        "video",
+        "american-alchemy"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:30.015634+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "timestamp_end": 12424.0,
+          "quote": "Video: Why NASA Studies This Man (He Attracts UFOs!)"
+        }
+      ],
+      "type_specific": {
+        "video_id": "bM18PJY6_Zc",
+        "title": "Why NASA Studies This Man (He Attracts UFOs!)",
+        "url": "https://www.youtube.com/watch?v=bM18PJY6_Zc",
+        "view_count": 538106,
+        "duration_seconds": 12424.0,
+        "host_id": "person-jesse-michels"
+      }
+    },
+    {
+      "id": "person-jesse-michels",
+      "node_type": "person",
+      "label": "Jesse Michels",
+      "summary": "Host of American Alchemy podcast/show. Independent journalist and UFO/NHI researcher.",
+      "tags": [
+        "journalist",
+        "interviewer",
+        "researcher",
+        "host"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:30.015653+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "Host of American Alchemy podcast/show."
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Jesse",
+          "Michels"
+        ],
+        "profession": "journalist",
+        "notability_tags": [
+          "journalist",
+          "interviewer",
+          "researcher",
+          "host"
+        ]
+      }
+    },
+    {
+      "id": "person-anna-paulina-luna",
+      "node_type": "person",
+      "label": "Anna Paulina Luna",
+      "summary": "",
+      "tags": [
+        "politician",
+        "congress"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:30.973567+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "ames and we were having ordurves with Eric Burlson and Anna Luna, right? And afterwards we went out and did a skywatch on th"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Luna",
+          "Congresswoman Luna"
+        ],
+        "notability_tags": [
+          "politician",
+          "congress"
+        ]
+      }
+    },
+    {
+      "id": "person-whitley-strieber",
+      "node_type": "person",
+      "label": "Whitley Strieber",
+      "summary": "Whitley Strieber entity extracted from cross-source archival records.",
+      "tags": [
+        "pipeline-generated",
+        "entity-extracted"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:30.973584+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "l's life and then he shows up in your life. I think he knew Whitley Strieber as well.  >> Y'all say Timothy Taylor.  >> He's a good frie"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Strieber",
+          "WHITLEY STRIEBER",
+          "whitley strieber"
+        ],
+        "notability_tags": [
+          "pipeline-generated",
+          "entity-extracted"
+        ]
+      }
+    },
+    {
+      "id": "person-john-f-kennedy",
+      "node_type": "person",
+      "label": "John F. Kennedy",
+      "summary": "",
+      "tags": [
+        "president",
+        "historical"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:30.973590+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "ASA facilities. He's also taken people like Bledsoe through Kennedy Space  Center. Religious studies professor Diana Pulka alon"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "JFK",
+          "Kennedy"
+        ],
+        "notability_tags": [
+          "president",
+          "historical"
+        ]
+      }
+    },
+    {
+      "id": "person-kenneth-arnold",
+      "node_type": "person",
+      "label": "Kenneth Arnold",
+      "summary": "Kenneth Arnold entity extracted from cross-source archival records.",
+      "tags": [
+        "pipeline-generated",
+        "entity-extracted"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:30.973594+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "ou that, we'll go back to the flying ships, right? In 1947, Kenneth Arnold sees these little chevrons flying about and they were kind "
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Arnold",
+          "KENNETH ARNOLD",
+          "kenneth arnold"
+        ],
+        "notability_tags": [
+          "pipeline-generated",
+          "entity-extracted"
+        ]
+      }
+    },
+    {
+      "id": "person-james-mcdonald",
+      "node_type": "person",
+      "label": "James McDonald",
+      "summary": "",
+      "tags": [
+        "physicist",
+        "researcher"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:30.973599+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "on and it rang like a bell,  >> So, and then I think Gordon McDonald, who's Eisenhower's space advisor, said the moon would only"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Dr. McDonald",
+          "McDonald"
+        ],
+        "notability_tags": [
+          "physicist",
+          "researcher"
+        ]
+      }
+    },
+    {
+      "id": "person-brandon-fugal",
+      "node_type": "person",
+      "label": "Brandon Fugal",
+      "summary": "Brandon Daniel Fugal (born April 3, 1973) is an American businessman, real estate developer, venture capitalist, philanthropist, and entrepreneur. He is chairman and co-owner of the Utah office of Colliers International. He owns the 512-acre rural property in Utah known as Skinwalker Ranch and is ex",
+      "tags": [
+        "wikipedia",
+        "20th-century american businesspeople",
+        "21st-century american businesspeople",
+        "21st-century american philanthropists",
+        "american company founders",
+        "american real estate brokers",
+        "american venture capitalists",
+        "businesspeople from utah",
+        "people associated with ufology",
+        "twitter username not in wikidata",
+        "utah valley university alumni",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:30.973603+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "got it. Yeah, I was on the this Beyond Skinwalker show with Brandon Fugal, right? So, we were at the Monurro Institute and they took "
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "BRANDON FUGAL",
+          "Fugal",
+          "brandon fugal"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "20th-century american businesspeople",
+          "21st-century american businesspeople",
+          "21st-century american philanthropists",
+          "american company founders",
+          "american real estate brokers",
+          "american venture capitalists",
+          "businesspeople from utah",
+          "people associated with ufology",
+          "twitter username not in wikidata",
+          "utah valley university alumni",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "person-love-has-won",
+      "node_type": "person",
+      "label": "Love Has Won",
+      "summary": "Love Has Won (LHW), also known as the Galactic Federation of Light, is an American new religious movement that was led by Amy Carlson until her death in 2021. Carlson was referred to within the group as \"Mother God\", who described herself as, among other things, the creator of the universe, with the",
+      "tags": [
+        "wikipedia",
+        "2007 establishments in colorado",
+        "ancient astronaut speculation",
+        "covid-19 vaccine misinformation and hesitancy",
+        "climate change denial in the united states",
+        "holocaust denial in the united states",
+        "new age organizations",
+        "new religious movements established in the 2000s",
+        "qanon",
+        "religious belief systems founded in the united states",
+        "religious controversies in the united states",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:30.973608+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "hey send the hammer down to take care of it and of course I won't spoil the movie but yeah  >> it ends up well but yeah who"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "LOVE HAS WON",
+          "Won",
+          "love has won"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "2007 establishments in colorado",
+          "ancient astronaut speculation",
+          "covid-19 vaccine misinformation and hesitancy",
+          "climate change denial in the united states",
+          "holocaust denial in the united states",
+          "new age organizations",
+          "new religious movements established in the 2000s",
+          "qanon",
+          "religious belief systems founded in the united states",
+          "religious controversies in the united states",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "person-paul-r-hill",
+      "node_type": "person",
+      "label": "Paul R. Hill",
+      "summary": "Paul Richard Hill (1909–1990) was a mid–twentieth-century American aerodynamicist. He was a leading research and development engineer and manager for NASA (National Aeronautics and Space Administration) and its predecessor, NACA (the National Advisory Council for Aeronautics) between 1939 and 1970, ",
+      "tags": [
+        "wikipedia",
+        "aerodynamicists",
+        "nasa people",
+        "scientists from iowa",
+        "uc berkeley college of engineering alumni",
+        "ufologists",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:30.973612+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "physics patrons at the University of North Carolina, Chapel Hill, that sent science down the wrong path with quantum gravity"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Hill",
+          "PAUL R. HILL",
+          "Paul Hill",
+          "paul r. hill"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "aerodynamicists",
+          "nasa people",
+          "scientists from iowa",
+          "uc berkeley college of engineering alumni",
+          "ufologists",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "person-riley-martin",
+      "node_type": "person",
+      "label": "Riley Martin",
+      "summary": "Riley Lee Martin (May 9, 1946 – December 22, 2015) was an American self-described alien contactee, author and radio host. Martin was the author of the book The Coming of Tan, which describes his life and his alleged alien visitation. He hosted The Riley Martin Show on the Sirius XM Radio channel How",
+      "tags": [
+        "wikipedia",
+        "20th-century african-american people",
+        "african-american radio personalities",
+        "american conspiracy theorists",
+        "american outsider artists",
+        "american people who self-identify as being of native american descent",
+        "contactees",
+        "people from natchez, mississippi",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:30.973616+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": " primmaaccious story of that is true but he was at you know Martin Vega the year that skunk works formed right  >> he you know"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Martin",
+          "RILEY MARTIN",
+          "riley martin"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "20th-century african-american people",
+          "african-american radio personalities",
+          "american conspiracy theorists",
+          "american outsider artists",
+          "american people who self-identify as being of native american descent",
+          "contactees",
+          "people from natchez, mississippi",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "person-timothy-good",
+      "node_type": "person",
+      "label": "Timothy Good",
+      "summary": "",
+      "tags": [
+        "researcher",
+        "author"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:30.973620+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "e you recovered a little piece of metal?  >> Yeah, a pretty good piece about that big.  >> You're sure you went to Zanesvill"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Tim Good",
+          "Good"
+        ],
+        "notability_tags": [
+          "researcher",
+          "author"
+        ]
+      }
+    },
+    {
+      "id": "person-philip-corso",
+      "node_type": "person",
+      "label": "Philip Corso",
+      "summary": "",
+      "tags": [
+        "military",
+        "author",
+        "Roswell"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:30.973624+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "l, it you know, you have all these rumors of like Philip J. Corso and you  know him being involved in you know I think army's"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Corso"
+        ],
+        "notability_tags": [
+          "military",
+          "author",
+          "Roswell"
+        ]
+      }
+    },
+    {
+      "id": "person-chan-thomas",
+      "node_type": "person",
+      "label": "Chan Thomas",
+      "summary": "Chan Thomas (1920–1998) was an American engineer, ufologist, writer on ancient cataclysms, and self-proclaimed polymath whose ideas have influenced conspiracy theorists in the 21st century.",
+      "tags": [
+        "wikipedia",
+        "20th-century american engineers",
+        "mcdonnell douglas people",
+        "ufologists",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:30.973628+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "uring this part of the interview. Zanesville, Ohio is where Thomas Townsen Brown was born. To me, Towns and Brown is the most "
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "CHAN THOMAS",
+          "Thomas",
+          "chan thomas"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "20th-century american engineers",
+          "mcdonnell douglas people",
+          "ufologists",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "person-garry-nolan",
+      "node_type": "person",
+      "label": "Garry Nolan",
+      "summary": "Garry P. Nolan (born c. 1961) is a British-American immunologist, academic, inventor, and business executive. He holds the Rachford and Carlota A. Harris Professor Endowed Chair in the Department of Pathology at Stanford University School of Medicine. Nolan has founded biotechnology companies. Since",
+      "tags": [
+        "wikipedia",
+        "1960s births",
+        "american cancer researchers",
+        "american immunologists",
+        "american pathologists",
+        "british cancer researchers",
+        "british immunologists",
+        "cornell university alumni",
+        "pages with broken reference names",
+        "pages with reference errors",
+        "serologists",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:30.973633+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "re actually electromagnetic damage. that like you know Gary Nolan or  somebody studying kind of modern experiencers interacti"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "GARRY NOLAN",
+          "Nolan",
+          "garry nolan"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "1960s births",
+          "american cancer researchers",
+          "american immunologists",
+          "american pathologists",
+          "british cancer researchers",
+          "british immunologists",
+          "cornell university alumni",
+          "pages with broken reference names",
+          "pages with reference errors",
+          "serologists",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "person-betty-hill",
+      "node_type": "person",
+      "label": "Betty Hill",
+      "summary": "Betty Hill entity extracted from cross-source archival records.",
+      "tags": [
+        "pipeline-generated",
+        "entity-extracted"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:30.973637+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "physics patrons at the University of North Carolina, Chapel Hill, that sent science down the wrong path with quantum gravity"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "BETTY HILL",
+          "Hill",
+          "betty hill"
+        ],
+        "notability_tags": [
+          "pipeline-generated",
+          "entity-extracted"
+        ]
+      }
+    },
+    {
+      "id": "person-kid-cosmic",
+      "node_type": "person",
+      "label": "Kid Cosmic",
+      "summary": "Kid Cosmic is an American animated superhero television series created by Craig McCracken and developed by McCracken, his wife Lauren Faust and Francisco Angones for Netflix. The series was based on his 2009 comic The Kid from Planet Earth. Produced in-house by Netflix Animation, the show is McCrack",
+      "tags": [
+        "wikipedia",
+        "2020s american animated comedy television series",
+        "2020s american children's comedy television series",
+        "2020s american science fiction comedy television series",
+        "2020s american superhero comedy television series",
+        "2021 american animated television series debuts",
+        "2022 american television series endings",
+        "american english-language television shows",
+        "american children's animated action television series",
+        "american children's animated adventure television series",
+        "american children's animated comic science fiction television series",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:30.973641+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "ven been written about, you know, pseudonmously in American Cosmic by Dana Pulka. This is in the early 2010s.  >> So, so he wa"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Cosmic",
+          "KID COSMIC",
+          "kid cosmic"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "2020s american animated comedy television series",
+          "2020s american children's comedy television series",
+          "2020s american science fiction comedy television series",
+          "2020s american superhero comedy television series",
+          "2021 american animated television series debuts",
+          "2022 american television series endings",
+          "american english-language television shows",
+          "american children's animated action television series",
+          "american children's animated adventure television series",
+          "american children's animated comic science fiction television series",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "person-nick-pope",
+      "node_type": "person",
+      "label": "Nick Pope",
+      "summary": "Nick Pope entity extracted from cross-source archival records.",
+      "tags": [
+        "pipeline-generated",
+        "entity-extracted"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:30.973645+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "y had a ceremony. They put my picture in the picture of the pope on the outside of the archives and then they placed my phot"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "NICK POPE",
+          "Pope",
+          "nick pope"
+        ],
+        "notability_tags": [
+          "pipeline-generated",
+          "entity-extracted"
+        ]
+      }
+    },
+    {
+      "id": "person-john-mack",
+      "node_type": "person",
+      "label": "John Mack",
+      "summary": "",
+      "tags": [
+        "psychiatrist",
+        "Harvard",
+        "abduction research"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:30.973649+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "e this with other  experiences?  >> Yeah, he was trained by John Mack.  >> That's amazing. I didn't know there was a doctor at Ha"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Dr. Mack",
+          "Mack"
+        ],
+        "notability_tags": [
+          "psychiatrist",
+          "Harvard",
+          "abduction research"
+        ]
+      }
+    },
+    {
+      "id": "person-art-bell",
+      "node_type": "person",
+      "label": "Art Bell",
+      "summary": "Arthur William Bell III (June 17, 1945 – April 13, 2018) was an American broadcaster and author. He was the founder and the original host of the paranormal-themed radio program Coast to Coast AM, which is syndicated on hundreds of radio stations in the United States and Canada. He also created and h",
+      "tags": [
+        "wikipedia",
+        "20th-century american businesspeople",
+        "accidental deaths in nevada",
+        "amateur radio people",
+        "american non-fiction environmental writers",
+        "american radio djs",
+        "american radio executives",
+        "american talk radio hosts",
+        "businesspeople from monterey, california",
+        "businesspeople from nevada",
+        "coast to coast am",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:30.973653+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "erring you know crash materials from Roswell for example to Bell Labs so they could you know help build you know semiconduct"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "ART BELL",
+          "Bell",
+          "art bell"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "20th-century american businesspeople",
+          "accidental deaths in nevada",
+          "amateur radio people",
+          "american non-fiction environmental writers",
+          "american radio djs",
+          "american radio executives",
+          "american talk radio hosts",
+          "businesspeople from monterey, california",
+          "businesspeople from nevada",
+          "coast to coast am",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "organization-international-ufo-museum-and-research-center",
+      "node_type": "organization",
+      "label": "International UFO Museum and Research Center",
+      "summary": "The International UFO Museum and Research Center is located in Roswell, New Mexico, United States, in the downtown district, and is focused largely on the 1947 Roswell Crash and later supposed UFO incidents in the United States and elsewhere. It was founded in 1991 as a 501c3 nonprofit educational o",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:30.973659+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": " He's also taken people like Bledsoe through Kennedy Space  Center. Religious studies professor Diana Pulka along with others "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-ufo-sightings-in-the-united-kingdom",
+      "node_type": "organization",
+      "label": "UFO sightings in the United Kingdom",
+      "summary": "This is a list of notable alleged sightings of unidentified flying objects (UFOs) in the United Kingdom. Many more sightings have become known since the gradual release, between 2008 and 2013, of the Ministry of Defence's UFO sighting reports by the National Archives. In recent years, there have bee",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:30.973664+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "en Jesus came he wasn't a Christian. He was just saying the kingdom of heaven is within you. You can talk to God yourself and y"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-1952-washington-d-c-ufo-incident",
+      "node_type": "organization",
+      "label": "1952 Washington, D.C. UFO incident",
+      "summary": "From July 12 to 29, 1952, a series of unidentified flying object (UFO) sightings were reported in Washington, D.C., and later became known as the Washington flap, the Washington National Airport Sightings, or the Invasion of Washington. The most publicized sightings took place on consecutive weekend",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:30.973669+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "at  >> in my book you'll read where I wrote about a certain incident that was going  to happen in future which was when Iran and"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-identification-studies-of-ufos",
+      "node_type": "organization",
+      "label": "Identification studies of UFOs",
+      "summary": "Identifying unidentified flying objects (UFOs) is a difficult task due to the normally poor quality of the evidence provided by those who report sighting the unknown object. Observations and subsequent reporting are often made by those untrained in astronomy, atmospheric phenomena, aeronautics, phys",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:30.973674+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "# Why NASA Studies This Man (He Attracts UFOs!) https://www.youtube.com/watch?v=bM18PJY6_Zc views: 538,10"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-lakenheath-bentwaters-incident",
+      "node_type": "organization",
+      "label": "Lakenheath-Bentwaters incident",
+      "summary": "The Lakenheath-Bentwaters Incident was a series of radar and visual contacts with unidentified flying objects over airbases in eastern England on the night of 13–14 August 1956, involving personnel from the Royal Air Force (RAF) and the United States Air Force (USAF). The incident has since gained s",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:30.973678+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "at  >> in my book you'll read where I wrote about a certain incident that was going  to happen in future which was when Iran and"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-chiles-whitted-ufo-encounter",
+      "node_type": "organization",
+      "label": "Chiles-Whitted UFO encounter",
+      "summary": "The Chiles-Whitted UFO encounter occurred at approximately 2:45 AM on July 24, 1948, in the skies near Montgomery, Alabama, United States. Two commercial pilots, Clarence S. Chiles and John B. Whitted, claimed to have observed a \"glowing object\" pass by their plane before it appeared to pull up into",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:30.973683+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "ramids and you see these symbols but and then you obviously encounter these beings but later you encounter the lady,  >> right? A"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-flying-saucer-working-party",
+      "node_type": "organization",
+      "label": "Flying Saucer Working Party",
+      "summary": "Flying Saucer Working Party (or FSWP) was the name of the United Kingdom Ministry of Defence’s (MOD) first \"official study into UFOs\", which has its roots in a study commissioned in 1950 by the MOD’s then Chief Scientific Adviser, the eminent radar scientist Sir Henry Tizard. As a result of his insi",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:30.973687+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "l out massed on teeth and tech tights and it was just a big party of science and he loved that. But how told me he died in 20"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-the-flying-saucers-are-real",
+      "node_type": "organization",
+      "label": "The Flying Saucers Are Real",
+      "summary": "The Flying Saucers Are Real, by Donald Keyhoe, is a book that investigated reports of UFOs by United States Air Force fighters, personnel, and other aircraft, between 1947 and 1950.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:30.973692+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "My job is to share a truth that everyone's been told is not real. It was 19 years ago on January the 8th of 2007. I was down"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-unidentified-flying-object",
+      "node_type": "organization",
+      "label": "Unidentified flying object",
+      "summary": "An unidentified flying object (UFO) is an object or phenomenon seen in the sky but not yet identified or explained. The term was coined when United States Air Force (USAF) investigations into flying saucers found too broad a range of shapes reported to consider them all saucers or discs. UFOs are al",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:30.973696+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "a that there was some sort of proto earth and this Marslike object hit Earth or whatever like this massive object hit Earth. P"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-the-spaceships-of-ezekiel",
+      "node_type": "organization",
+      "label": "The Spaceships of Ezekiel",
+      "summary": "The Spaceships of Ezekiel (1974) is a book by German engineer Josef F. Blumrich (March 17, 1913 – February 10, 2002) about a spaceship that was supposedly observed by the prophet Ezekiel as described in Book of Ezekiel in the Tanakh. Blumrich wrote it while chief of NASA's systems layout branch of t",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:30.973700+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "nature and humanity. And so when then you read the story of Ezekiel and the will within the will, right? He walks between two o"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-us-department-of-defense",
+      "node_type": "organization",
+      "label": "US Department of Defense",
+      "summary": "US Department of Defense entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:30.973704+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": " from these crafts or get downloads from them? but for like defense, you know, kind of militaryindustrial complex purposes.  We"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-lonnie-zamora-incident",
+      "node_type": "organization",
+      "label": "Lonnie Zamora incident",
+      "summary": "The Lonnie Zamora incident was an alleged UFO sighting that occurred on April 24, 1964 near Socorro, New Mexico when Socorro police officer Lonnie Zamora claimed he saw two people beside a shiny object that later rose into the air accompanied by a roaring blue and orange flame. Zamora's claims were ",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:30.973708+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "at  >> in my book you'll read where I wrote about a certain incident that was going  to happen in future which was when Iran and"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-roswell-that-ends-well",
+      "node_type": "organization",
+      "label": "Roswell That Ends Well",
+      "summary": "\"Roswell That Ends Well\" is the nineteenth episode in the third season of the American animated television series Futurama, and the 51st episode of the series overall. It originally aired on the Fox network in the United States on December 9, 2001. The plot centers on an accidental time travel event",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:30.973713+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "es but I also want to talk because your story your story is well known at this point. I also want to talk about some of the "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-the-galileo-project",
+      "node_type": "organization",
+      "label": "The Galileo Project",
+      "summary": "The Galileo Project is an international scientific research project to search for extraterrestrial intelligence or extraterrestrial technology on and near Earth and to identify the nature of anomalous Unidentified Flying Objects/Unidentified Aerial Phenomena (UFOs/UAP). It was launched in 2021 by Ha",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:30.973717+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "lled Made in Space and it was  always this kind of academic project and it never quite got off the ground. But you could you co"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-project-blue-book",
+      "node_type": "organization",
+      "label": "Project Blue Book",
+      "summary": "USAF UFO investigation program active from 1952 to 1969.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:30.973721+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "hat's  when the next 5 years of darkness I talk about in my book started. His UFO experiences only serve to make him more of"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-world-contact-day",
+      "node_type": "organization",
+      "label": "World Contact Day",
+      "summary": "World Contact Day was first declared in March 1953 by an organization called the International Flying Saucer Bureau (IFSB), as a day on which all IFSB members would attempt to send a telepathic message into space. The IFSB voted to hold such a day in 1953, theorising that if both telepathy and alien",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:30.973725+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": " how bad that is. You know, you're in a restroom 10 times a day. I was at 20 times a day at that point in my life. In Janua"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-scp-foundation",
+      "node_type": "organization",
+      "label": "SCP Foundation",
+      "summary": "The SCP Foundation is a fictional organization featured in stories created by contributors on the SCP Wiki, a wiki-based collaborative writing project, launched in 2008. Within the project's shared universe, the SCP (Special Containment Procedures) Foundation is a secret organization that is respons",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:30.973729+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "e through this like rigorous like well let's start with the foundation like that photo is real it's been verified you know like yo"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-jerome-clark",
+      "node_type": "organization",
+      "label": "Jerome Clark",
+      "summary": "Jerome Clark (born November 27, 1946) is an American writer, specializing in unidentified flying objects and other paranormal subjects. He has appeared on ABC News Special Report, Unsolved Mysteries, Sightings and the A&E Network discussing UFOs and other oddities. Clark is also a country and folk m",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:30.973733+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "some deeper truths about reality, like I do think Arthur C. Clark, Stanley Kubric, guys like that were tapped into something "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-us-air-force",
+      "node_type": "organization",
+      "label": "US Air Force",
+      "summary": "US Air Force entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:30.973737+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "ry forever. It's either going to collapse under scrutiny or force us to redraw the map. In this special episode of American A"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-big-sur-ufo",
+      "node_type": "organization",
+      "label": "Big Sur UFO",
+      "summary": "The Big Sur UFO is a reported UFO incident that took place during a 1964 Air Force deployment to a mountaintop near Big Sur, California. The deployment was a mission was to film Atlas missile tests from Vandenberg Air Force Base. Since 1982, Robert Jacobs, who had overseen the mountaintop team, has ",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:30.973741+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "xt 5 years of darkness I talk about in my book started. His UFO experiences only serve to make him more of a pariah in his "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-mirage-men",
+      "node_type": "organization",
+      "label": "Mirage Men",
+      "summary": "Mirage Men is a 2013 documentary film directed by John Lundberg, written by Mark Pilkington and co-directed by Roland Denning and Kypros Kyprianou. Mirage Men suggests there was a conspiracy by the U.S. military to fabricate UFO folklore in order to deflect attention from classified military project",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:30.973745+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "tried to make me believe in flying saucers and little green men.  >> Yeah. And I kept telling them, \"No, it wasn't like tha"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-us-navy",
+      "node_type": "organization",
+      "label": "US Navy",
+      "summary": "US Navy entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:30.973750+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "ument on him saying he was the foremost radar expert in the Navy and he was in charge of the Philadelphia  experiment actual"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-nasa",
+      "node_type": "organization",
+      "label": "NASA",
+      "summary": "NASA entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:30.973754+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "# Why NASA Studies This Man (He Attracts UFOs!) https://www.youtube.co"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other",
+        "acronym": "NASA"
+      }
+    },
+    {
+      "id": "organization-cia",
+      "node_type": "organization",
+      "label": "CIA",
+      "summary": "CIA entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:30.973758+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "and anything paranormal is considered demonic. NASA and the CIA show up at Bledso's door. And not just anybody at NASA in t"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other",
+        "acronym": "CIA"
+      }
+    },
+    {
+      "id": "organization-fbi",
+      "node_type": "organization",
+      "label": "FBI",
+      "summary": "FBI entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:30.973762+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "space company you could you could guess. I mean, there's an FBI document on him saying he was the foremost radar expert in "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other",
+        "acronym": "FBI"
+      }
+    },
+    {
+      "id": "organization-dod",
+      "node_type": "organization",
+      "label": "DoD",
+      "summary": "",
+      "tags": [
+        "government_agency"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:30.973766+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "group excuse me Tracy McIll she's a an analyst  for the DOA DoD I think  >> whoa  >> fascinating  >> so they all got to exp"
+        }
+      ],
+      "type_specific": {
+        "org_type": "government_agency",
+        "full_name": "Department of Defense"
+      }
+    },
+    {
+      "id": "location-pacific-training-area",
+      "node_type": "location",
+      "label": "Pacific Training Area",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:30.973771+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "kpack and whole lot of credentials that had everything from Area 51 to the CIA and all that combined  NASA. And he tested th"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-rendlesham-forest",
+      "node_type": "location",
+      "label": "Rendlesham Forest",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:30.973775+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "ere's a scientist named Constantine Mile. He's in the Black Forest in Germany  >> and he talks about scalar physics and its re"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-united-kingdom",
+      "node_type": "location",
+      "label": "United Kingdom",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:30.973779+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "en Jesus came he wasn't a Christian. He was just saying the kingdom of heaven is within you. You can talk to God yourself and y"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-united-states",
+      "node_type": "location",
+      "label": "United States",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:30.973783+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "case? I mean, do you think people even in like kind of peak states also see them? Because that's that's been my anecdotal unde"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-australia",
+      "node_type": "location",
+      "label": "Australia",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:30.973787+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "w due to real declassified documents written by the head of Australia's nuclear program Harry Turner and often cited by UFO whist"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-germany",
+      "node_type": "location",
+      "label": "Germany",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:30.973790+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "ientist named Constantine Mile. He's in the Black Forest in Germany  >> and he talks about scalar physics and its relationship "
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-roswell",
+      "node_type": "location",
+      "label": "Roswell",
+      "summary": "",
+      "tags": [
+        "city"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:30.973794+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "hnology desk and transferring you know crash materials from Roswell for example to Bell Labs so they could you know help build "
+        }
+      ],
+      "type_specific": {
+        "location_type": "city",
+        "country": "US",
+        "state_or_region": "New Mexico"
+      }
+    },
+    {
+      "id": "location-area-51",
+      "node_type": "location",
+      "label": "Area 51",
+      "summary": "",
+      "tags": [
+        "military_base"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:30.973798+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "kpack and whole lot of credentials that had everything from Area 51 to the CIA and all that combined  NASA. And he tested the w"
+        }
+      ],
+      "type_specific": {
+        "location_type": "military_base",
+        "country": "US",
+        "state_or_region": "Nevada"
+      }
+    },
+    {
+      "id": "location-france",
+      "node_type": "location",
+      "label": "France",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:30.973802+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "ton, why they have one in Central Park, why is there one in France and in England? They have And they went to Egypt and got th"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-italy",
+      "node_type": "location",
+      "label": "Italy",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:30.973806+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "ep.  >> Who she writes about in 13th century Mount Lever in Italy,  >> Brother Leo is right next to him and he sees this ange"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-iran",
+      "node_type": "location",
+      "label": "Iran",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:30.973809+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "incident that was going  to happen in future which was when Iran and Israel began to exchange missiles at one another at tha"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "document-american-cosmic",
+      "node_type": "document",
+      "label": "American Cosmic",
+      "summary": "",
+      "tags": [
+        "book"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:30.973813+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": " hadn't even been written about, you know, pseudonmously in American Cosmic by Dana Pulka. This is in the early 2010s.  >> So, so he wa"
+        }
+      ],
+      "type_specific": {
+        "document_type": "book",
+        "author": "Diana Pasulka"
+      }
+    },
+    {
+      "id": "claim-bM18PJY6_Zc-discussion-summary",
+      "node_type": "claim",
+      "label": "Video bM18PJY6_Zc features extended discussion of Anna Paulina Luna, Whitley Strieber, John F. Kenne",
+      "summary": "Video bM18PJY6_Zc features extended discussion of Anna Paulina Luna, Whitley Strieber, John F. Kennedy and related UAP research topics, hosted by Jesse Michels.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:30.973824+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "Episode title: Why NASA Studies This Man (He Attracts UFOs!)"
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Video bM18PJY6_Zc features extended discussion of Anna Paulina Luna, Whitley Strieber, John F. Kennedy and related UAP research topics, hosted by Jesse Michels.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "bM18PJY6_Zc",
+        "timestamp_start_seconds": 0,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-anna-paulina-luna",
+          "person-whitley-strieber",
+          "person-john-f-kennedy",
+          "video-bM18PJY6_Zc"
+        ]
+      }
+    },
+    {
+      "id": "person-chris-bledsoe",
+      "node_type": "person",
+      "label": "Chris Bledsoe",
+      "summary": "North Carolina UFO experiencer; after Jan 8 2007 fishing-trip orb sighting, experienced spontaneous healing of Crohn's disease and series of contact experiences with a luminous feminine presence ('The Lady'). High-level NASA and CIA personnel have studied his case.",
+      "tags": [
+        "witness",
+        "experiencer",
+        "contactee"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.368588+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 275,
+          "quote": "UFO experiencer; The Lady contactee; Crohn's disease healed"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Bledsoe"
+        ],
+        "profession": "experiencer",
+        "notability_tags": [
+          "witness",
+          "experiencer",
+          "contactee"
+        ]
+      }
+    },
+    {
+      "id": "person-tim-taylor-cape-canaveral",
+      "node_type": "person",
+      "label": "Tim Taylor (NASA mission controller)",
+      "summary": "High-level NASA mission controller who has worked on launches at Cape Canaveral since the Challenger missions in the 80s. Visited Bledsoe; claimed the symbols Bledsoe was given aligned with things NASA was already monitoring.",
+      "tags": [
+        "NASA",
+        "official",
+        "researcher"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.368590+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 285,
+          "quote": "High-level NASA mission controller; Bledsoe and Obama link"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Taylor"
+        ],
+        "profession": "NASA official",
+        "notability_tags": [
+          "NASA",
+          "official",
+          "researcher"
+        ]
+      }
+    },
+    {
+      "id": "document-ufo-of-god",
+      "node_type": "document",
+      "label": "UFO of God",
+      "summary": "Chris Bledsoe's memoir; documents his 2007 UFO contact experience and subsequent 5 years of darkness in his Fayetteville NC community, plus NASA/CIA follow-up and his encounters with 'The Lady.'",
+      "tags": [
+        "book"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.368592+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 307,
+          "timestamp_end": "Chris Bledsoe's memoir of his contact experiences"
+        }
+      ],
+      "type_specific": {
+        "document_type": "book",
+        "author": "Chris Bledsoe"
+      }
+    },
+    {
+      "id": "phenomenon-the-lady-feminine-presence",
+      "node_type": "phenomenon",
+      "label": "The Lady (Luminous Feminine Presence)",
+      "summary": "Luminous feminine presence reported by Chris Bledsoe in his contact experiences; communicates with him about humanity's moral decay, civilizational cycles, judgment, and apocalyptic thresholds. Archetypally familiar despite unsettling quality.",
+      "tags": [
+        "psychic"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.368594+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 279,
+          "timestamp_end": "Luminous feminine contactor of Chris Bledsoe"
+        }
+      ],
+      "type_specific": {
+        "phenomenon_category": "psychic"
+      }
+    },
+    {
+      "id": "location-zanesville-ohio",
+      "node_type": "location",
+      "label": "Zanesville Ohio",
+      "summary": "",
+      "tags": [
+        "city"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.368597+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 301,
+          "timestamp_end": "Townsend Brown's birthplace; Bledsoe led Jesse there"
+        }
+      ],
+      "type_specific": {
+        "location_type": "city",
+        "country": "US",
+        "state_or_region": "Ohio"
+      }
+    },
+    {
+      "id": "claim-bM18PJY6_Zc-bledsoe-crohn-healed-jan-2007",
+      "node_type": "claim",
+      "label": "On January 8 2007 during a fishing trip in NC, Chris Bledsoe witnessed orbs; his severe Crohn's dise",
+      "summary": "On January 8 2007 during a fishing trip in NC, Chris Bledsoe witnessed orbs; his severe Crohn's disease was spontaneously healed afterward ('no more sickness').",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.384572+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 275,
+          "quote": "It was 19 years ago on January the 8th of 2007. I was down and out and lost everything. Sick with Crohn's disease. Then my Crohn's was gone. I had no more sickness."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "On January 8 2007 during a fishing trip in NC, Chris Bledsoe witnessed orbs; his severe Crohn's disease was spontaneously healed afterward ('no more sickness').",
+        "asserted_by_id": "person-chris-bledsoe",
+        "source_video_id": "bM18PJY6_Zc",
+        "timestamp_start_seconds": 275,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-chris-bledsoe",
+          "phenomenon-the-lady-feminine-presence"
+        ]
+      }
+    },
+    {
+      "id": "claim-bM18PJY6_Zc-bledsoe-the-lady-apocalypse-messages",
+      "node_type": "claim",
+      "label": "Bledsoe's 'Lady' communicates about humanity's moral decay, civilizational cycles, judgment, and a t",
+      "summary": "Bledsoe's 'Lady' communicates about humanity's moral decay, civilizational cycles, judgment, and a threshold-event apocalypse — framing aligning with ancient-apocalypse and Younger-Dryas cycles.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.384589+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 279,
+          "quote": "They touch on humanity's deep moral decay, cycles of civilizational collapse, judgment, the apocalypse, and renewal. They revolve around humanity reaching a threshold."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Bledsoe's 'Lady' communicates about humanity's moral decay, civilizational cycles, judgment, and a threshold-event apocalypse — framing aligning with ancient-apocalypse and Younger-Dryas cycles.",
+        "asserted_by_id": "person-chris-bledsoe",
+        "source_video_id": "bM18PJY6_Zc",
+        "timestamp_start_seconds": 279,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-chris-bledsoe",
+          "phenomenon-the-lady-feminine-presence"
+        ]
+      }
+    },
+    {
+      "id": "claim-bM18PJY6_Zc-tim-taylor-dinner-with-president",
+      "node_type": "claim",
+      "label": "NASA's Tim Taylor said he was 'at the dinner table with the president' when something was handed to ",
+      "summary": "NASA's Tim Taylor said he was 'at the dinner table with the president' when something was handed to him — photographed napkin with presidential seal from Camp David — reinforcing Bledsoe's claim that NASA has data beyond public knowledge.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.384598+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 287,
+          "quote": "He said 'I was at the dinner table with the president and handed me that.' They have a scientific model of how these angels work at NASA. They know a lot more than we think they do."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "NASA's Tim Taylor said he was 'at the dinner table with the president' when something was handed to him — photographed napkin with presidential seal from Camp David — reinforcing Bledsoe's claim that NASA has data beyond public knowledge.",
+        "asserted_by_id": "person-chris-bledsoe",
+        "source_video_id": "bM18PJY6_Zc",
+        "timestamp_start_seconds": 287,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-chris-bledsoe",
+          "person-tim-taylor-cape-canaveral"
+        ]
+      }
+    },
+    {
+      "id": "claim-bM18PJY6_Zc-bledsoe-nasa-cia-visitation",
+      "node_type": "claim",
+      "label": "NASA and CIA high-level personnel visited Bledsoe; grilled him on his experiences; implied his given",
+      "summary": "NASA and CIA high-level personnel visited Bledsoe; grilled him on his experiences; implied his given dates and symbols aligned with things they were already monitoring from other authoritative sources.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.384607+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 283,
+          "quote": "NASA and the CIA show up at Bledsoe's door. Some imply that certain dates and symbols he's given by the lady align with things they're already monitoring and have seen from other authoritative sources."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "NASA and CIA high-level personnel visited Bledsoe; grilled him on his experiences; implied his given dates and symbols aligned with things they were already monitoring from other authoritative sources.",
+        "asserted_by_id": "person-chris-bledsoe",
+        "source_video_id": "bM18PJY6_Zc",
+        "timestamp_start_seconds": 283,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-chris-bledsoe",
+          "person-tim-taylor-cape-canaveral"
+        ]
+      }
+    },
+    {
+      "id": "claim-bM18PJY6_Zc-bledsoe-zanesville-townsend-brown",
+      "node_type": "claim",
+      "label": "Bledsoe took Jesse to Zanesville Ohio — Townsend Brown's hometown — where they recovered a metal pie",
+      "summary": "Bledsoe took Jesse to Zanesville Ohio — Townsend Brown's hometown — where they recovered a metal piece potentially tied to Brown's antigravity work.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.384616+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 301,
+          "quote": "He took you to Zanesville, Ohio, where you recovered a little piece of metal. Do you know who's from Zanesville, Ohio? Townsend Brown."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Bledsoe took Jesse to Zanesville Ohio — Townsend Brown's hometown — where they recovered a metal piece potentially tied to Brown's antigravity work.",
+        "asserted_by_id": "person-chris-bledsoe",
+        "source_video_id": "bM18PJY6_Zc",
+        "timestamp_start_seconds": 301,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-chris-bledsoe",
+          "location-zanesville-ohio",
+          "person-townsend-brown"
+        ]
+      }
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge-video-bM18PJY6_Zc-HOSTED_BY-person-jesse-michels",
+      "from_node_id": "video-bM18PJY6_Zc",
+      "to_node_id": "person-jesse-michels",
+      "relationship": "HOSTED_BY",
+      "confidence": 0.99,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "Jesse hosting"
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-APPEARED_IN-video-bM18PJY6_Zc",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "video-bM18PJY6_Zc",
+      "relationship": "APPEARED_IN",
+      "confidence": 0.99,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "Host"
+        }
+      ],
+      "properties": {
+        "appearance_type": "host"
+      }
+    },
+    {
+      "id": "edge-video-bM18PJY6_Zc-MENTIONS-person-anna-paulina-luna",
+      "from_node_id": "video-bM18PJY6_Zc",
+      "to_node_id": "person-anna-paulina-luna",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "ames and we were having ordurves with Eric Burlson and Anna Luna, right? And afterwards we went out and did a skywatch on th"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-bM18PJY6_Zc-MENTIONS-person-whitley-strieber",
+      "from_node_id": "video-bM18PJY6_Zc",
+      "to_node_id": "person-whitley-strieber",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "l's life and then he shows up in your life. I think he knew Whitley Strieber as well.  >> Y'all say Timothy Taylor.  >> He's a good frie"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-bM18PJY6_Zc-MENTIONS-person-john-f-kennedy",
+      "from_node_id": "video-bM18PJY6_Zc",
+      "to_node_id": "person-john-f-kennedy",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "ASA facilities. He's also taken people like Bledsoe through Kennedy Space  Center. Religious studies professor Diana Pulka alon"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-bM18PJY6_Zc-MENTIONS-person-kenneth-arnold",
+      "from_node_id": "video-bM18PJY6_Zc",
+      "to_node_id": "person-kenneth-arnold",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "ou that, we'll go back to the flying ships, right? In 1947, Kenneth Arnold sees these little chevrons flying about and they were kind "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-bM18PJY6_Zc-MENTIONS-person-james-mcdonald",
+      "from_node_id": "video-bM18PJY6_Zc",
+      "to_node_id": "person-james-mcdonald",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "on and it rang like a bell,  >> So, and then I think Gordon McDonald, who's Eisenhower's space advisor, said the moon would only"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-bM18PJY6_Zc-MENTIONS-person-brandon-fugal",
+      "from_node_id": "video-bM18PJY6_Zc",
+      "to_node_id": "person-brandon-fugal",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "got it. Yeah, I was on the this Beyond Skinwalker show with Brandon Fugal, right? So, we were at the Monurro Institute and they took "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-bM18PJY6_Zc-MENTIONS-person-love-has-won",
+      "from_node_id": "video-bM18PJY6_Zc",
+      "to_node_id": "person-love-has-won",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "hey send the hammer down to take care of it and of course I won't spoil the movie but yeah  >> it ends up well but yeah who"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-bM18PJY6_Zc-MENTIONS-person-paul-r-hill",
+      "from_node_id": "video-bM18PJY6_Zc",
+      "to_node_id": "person-paul-r-hill",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "physics patrons at the University of North Carolina, Chapel Hill, that sent science down the wrong path with quantum gravity"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-bM18PJY6_Zc-MENTIONS-person-riley-martin",
+      "from_node_id": "video-bM18PJY6_Zc",
+      "to_node_id": "person-riley-martin",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": " primmaaccious story of that is true but he was at you know Martin Vega the year that skunk works formed right  >> he you know"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-bM18PJY6_Zc-MENTIONS-person-timothy-good",
+      "from_node_id": "video-bM18PJY6_Zc",
+      "to_node_id": "person-timothy-good",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "e you recovered a little piece of metal?  >> Yeah, a pretty good piece about that big.  >> You're sure you went to Zanesvill"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-bM18PJY6_Zc-MENTIONS-person-philip-corso",
+      "from_node_id": "video-bM18PJY6_Zc",
+      "to_node_id": "person-philip-corso",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "l, it you know, you have all these rumors of like Philip J. Corso and you  know him being involved in you know I think army's"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-bM18PJY6_Zc-MENTIONS-person-chan-thomas",
+      "from_node_id": "video-bM18PJY6_Zc",
+      "to_node_id": "person-chan-thomas",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "uring this part of the interview. Zanesville, Ohio is where Thomas Townsen Brown was born. To me, Towns and Brown is the most "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-bM18PJY6_Zc-MENTIONS-person-garry-nolan",
+      "from_node_id": "video-bM18PJY6_Zc",
+      "to_node_id": "person-garry-nolan",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "re actually electromagnetic damage. that like you know Gary Nolan or  somebody studying kind of modern experiencers interacti"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-bM18PJY6_Zc-MENTIONS-person-betty-hill",
+      "from_node_id": "video-bM18PJY6_Zc",
+      "to_node_id": "person-betty-hill",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "physics patrons at the University of North Carolina, Chapel Hill, that sent science down the wrong path with quantum gravity"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-bM18PJY6_Zc-MENTIONS-person-kid-cosmic",
+      "from_node_id": "video-bM18PJY6_Zc",
+      "to_node_id": "person-kid-cosmic",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "ven been written about, you know, pseudonmously in American Cosmic by Dana Pulka. This is in the early 2010s.  >> So, so he wa"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-bM18PJY6_Zc-MENTIONS-person-nick-pope",
+      "from_node_id": "video-bM18PJY6_Zc",
+      "to_node_id": "person-nick-pope",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "y had a ceremony. They put my picture in the picture of the pope on the outside of the archives and then they placed my phot"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-bM18PJY6_Zc-MENTIONS-person-john-mack",
+      "from_node_id": "video-bM18PJY6_Zc",
+      "to_node_id": "person-john-mack",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "e this with other  experiences?  >> Yeah, he was trained by John Mack.  >> That's amazing. I didn't know there was a doctor at Ha"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-bM18PJY6_Zc-MENTIONS-person-art-bell",
+      "from_node_id": "video-bM18PJY6_Zc",
+      "to_node_id": "person-art-bell",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "erring you know crash materials from Roswell for example to Bell Labs so they could you know help build you know semiconduct"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-bM18PJY6_Zc-MENTIONS-organization-international-ufo-museum-and-research-center",
+      "from_node_id": "video-bM18PJY6_Zc",
+      "to_node_id": "organization-international-ufo-museum-and-research-center",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": " He's also taken people like Bledsoe through Kennedy Space  Center. Religious studies professor Diana Pulka along with others "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-bM18PJY6_Zc-MENTIONS-organization-ufo-sightings-in-the-united-kingdom",
+      "from_node_id": "video-bM18PJY6_Zc",
+      "to_node_id": "organization-ufo-sightings-in-the-united-kingdom",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "en Jesus came he wasn't a Christian. He was just saying the kingdom of heaven is within you. You can talk to God yourself and y"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-bM18PJY6_Zc-MENTIONS-organization-1952-washington-d-c-ufo-incident",
+      "from_node_id": "video-bM18PJY6_Zc",
+      "to_node_id": "organization-1952-washington-d-c-ufo-incident",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "at  >> in my book you'll read where I wrote about a certain incident that was going  to happen in future which was when Iran and"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-bM18PJY6_Zc-MENTIONS-organization-identification-studies-of-ufos",
+      "from_node_id": "video-bM18PJY6_Zc",
+      "to_node_id": "organization-identification-studies-of-ufos",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "# Why NASA Studies This Man (He Attracts UFOs!) https://www.youtube.com/watch?v=bM18PJY6_Zc views: 538,10"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-bM18PJY6_Zc-MENTIONS-organization-lakenheath-bentwaters-incident",
+      "from_node_id": "video-bM18PJY6_Zc",
+      "to_node_id": "organization-lakenheath-bentwaters-incident",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "at  >> in my book you'll read where I wrote about a certain incident that was going  to happen in future which was when Iran and"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-bM18PJY6_Zc-MENTIONS-organization-chiles-whitted-ufo-encounter",
+      "from_node_id": "video-bM18PJY6_Zc",
+      "to_node_id": "organization-chiles-whitted-ufo-encounter",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "ramids and you see these symbols but and then you obviously encounter these beings but later you encounter the lady,  >> right? A"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-bM18PJY6_Zc-MENTIONS-organization-flying-saucer-working-party",
+      "from_node_id": "video-bM18PJY6_Zc",
+      "to_node_id": "organization-flying-saucer-working-party",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "l out massed on teeth and tech tights and it was just a big party of science and he loved that. But how told me he died in 20"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-bM18PJY6_Zc-MENTIONS-organization-the-flying-saucers-are-real",
+      "from_node_id": "video-bM18PJY6_Zc",
+      "to_node_id": "organization-the-flying-saucers-are-real",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "My job is to share a truth that everyone's been told is not real. It was 19 years ago on January the 8th of 2007. I was down"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-bM18PJY6_Zc-MENTIONS-organization-unidentified-flying-object",
+      "from_node_id": "video-bM18PJY6_Zc",
+      "to_node_id": "organization-unidentified-flying-object",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "a that there was some sort of proto earth and this Marslike object hit Earth or whatever like this massive object hit Earth. P"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-bM18PJY6_Zc-MENTIONS-organization-the-spaceships-of-ezekiel",
+      "from_node_id": "video-bM18PJY6_Zc",
+      "to_node_id": "organization-the-spaceships-of-ezekiel",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "nature and humanity. And so when then you read the story of Ezekiel and the will within the will, right? He walks between two o"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-bM18PJY6_Zc-MENTIONS-organization-us-department-of-defense",
+      "from_node_id": "video-bM18PJY6_Zc",
+      "to_node_id": "organization-us-department-of-defense",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": " from these crafts or get downloads from them? but for like defense, you know, kind of militaryindustrial complex purposes.  We"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-bM18PJY6_Zc-MENTIONS-organization-lonnie-zamora-incident",
+      "from_node_id": "video-bM18PJY6_Zc",
+      "to_node_id": "organization-lonnie-zamora-incident",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "at  >> in my book you'll read where I wrote about a certain incident that was going  to happen in future which was when Iran and"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-bM18PJY6_Zc-MENTIONS-organization-roswell-that-ends-well",
+      "from_node_id": "video-bM18PJY6_Zc",
+      "to_node_id": "organization-roswell-that-ends-well",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "es but I also want to talk because your story your story is well known at this point. I also want to talk about some of the "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-bM18PJY6_Zc-MENTIONS-organization-the-galileo-project",
+      "from_node_id": "video-bM18PJY6_Zc",
+      "to_node_id": "organization-the-galileo-project",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "lled Made in Space and it was  always this kind of academic project and it never quite got off the ground. But you could you co"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-bM18PJY6_Zc-MENTIONS-organization-project-blue-book",
+      "from_node_id": "video-bM18PJY6_Zc",
+      "to_node_id": "organization-project-blue-book",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "hat's  when the next 5 years of darkness I talk about in my book started. His UFO experiences only serve to make him more of"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-bM18PJY6_Zc-MENTIONS-organization-world-contact-day",
+      "from_node_id": "video-bM18PJY6_Zc",
+      "to_node_id": "organization-world-contact-day",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": " how bad that is. You know, you're in a restroom 10 times a day. I was at 20 times a day at that point in my life. In Janua"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-bM18PJY6_Zc-MENTIONS-organization-scp-foundation",
+      "from_node_id": "video-bM18PJY6_Zc",
+      "to_node_id": "organization-scp-foundation",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "e through this like rigorous like well let's start with the foundation like that photo is real it's been verified you know like yo"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-bM18PJY6_Zc-MENTIONS-organization-jerome-clark",
+      "from_node_id": "video-bM18PJY6_Zc",
+      "to_node_id": "organization-jerome-clark",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "some deeper truths about reality, like I do think Arthur C. Clark, Stanley Kubric, guys like that were tapped into something "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-bM18PJY6_Zc-MENTIONS-organization-us-air-force",
+      "from_node_id": "video-bM18PJY6_Zc",
+      "to_node_id": "organization-us-air-force",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "ry forever. It's either going to collapse under scrutiny or force us to redraw the map. In this special episode of American A"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-bM18PJY6_Zc-MENTIONS-organization-big-sur-ufo",
+      "from_node_id": "video-bM18PJY6_Zc",
+      "to_node_id": "organization-big-sur-ufo",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "xt 5 years of darkness I talk about in my book started. His UFO experiences only serve to make him more of a pariah in his "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-bM18PJY6_Zc-MENTIONS-organization-mirage-men",
+      "from_node_id": "video-bM18PJY6_Zc",
+      "to_node_id": "organization-mirage-men",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "tried to make me believe in flying saucers and little green men.  >> Yeah. And I kept telling them, \"No, it wasn't like tha"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-bM18PJY6_Zc-MENTIONS-organization-us-navy",
+      "from_node_id": "video-bM18PJY6_Zc",
+      "to_node_id": "organization-us-navy",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "ument on him saying he was the foremost radar expert in the Navy and he was in charge of the Philadelphia  experiment actual"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-bM18PJY6_Zc-MENTIONS-organization-nasa",
+      "from_node_id": "video-bM18PJY6_Zc",
+      "to_node_id": "organization-nasa",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "# Why NASA Studies This Man (He Attracts UFOs!) https://www.youtube.co"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-bM18PJY6_Zc-MENTIONS-organization-cia",
+      "from_node_id": "video-bM18PJY6_Zc",
+      "to_node_id": "organization-cia",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "and anything paranormal is considered demonic. NASA and the CIA show up at Bledso's door. And not just anybody at NASA in t"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-bM18PJY6_Zc-MENTIONS-organization-fbi",
+      "from_node_id": "video-bM18PJY6_Zc",
+      "to_node_id": "organization-fbi",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "space company you could you could guess. I mean, there's an FBI document on him saying he was the foremost radar expert in "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-bM18PJY6_Zc-MENTIONS-organization-dod",
+      "from_node_id": "video-bM18PJY6_Zc",
+      "to_node_id": "organization-dod",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "group excuse me Tracy McIll she's a an analyst  for the DOA DoD I think  >> whoa  >> fascinating  >> so they all got to exp"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-bM18PJY6_Zc-MENTIONS-location-pacific-training-area",
+      "from_node_id": "video-bM18PJY6_Zc",
+      "to_node_id": "location-pacific-training-area",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "kpack and whole lot of credentials that had everything from Area 51 to the CIA and all that combined  NASA. And he tested th"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-bM18PJY6_Zc-MENTIONS-location-rendlesham-forest",
+      "from_node_id": "video-bM18PJY6_Zc",
+      "to_node_id": "location-rendlesham-forest",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "ere's a scientist named Constantine Mile. He's in the Black Forest in Germany  >> and he talks about scalar physics and its re"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-bM18PJY6_Zc-MENTIONS-location-united-kingdom",
+      "from_node_id": "video-bM18PJY6_Zc",
+      "to_node_id": "location-united-kingdom",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "en Jesus came he wasn't a Christian. He was just saying the kingdom of heaven is within you. You can talk to God yourself and y"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-bM18PJY6_Zc-MENTIONS-location-united-states",
+      "from_node_id": "video-bM18PJY6_Zc",
+      "to_node_id": "location-united-states",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "case? I mean, do you think people even in like kind of peak states also see them? Because that's that's been my anecdotal unde"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-bM18PJY6_Zc-MENTIONS-location-australia",
+      "from_node_id": "video-bM18PJY6_Zc",
+      "to_node_id": "location-australia",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "w due to real declassified documents written by the head of Australia's nuclear program Harry Turner and often cited by UFO whist"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-bM18PJY6_Zc-MENTIONS-location-germany",
+      "from_node_id": "video-bM18PJY6_Zc",
+      "to_node_id": "location-germany",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "ientist named Constantine Mile. He's in the Black Forest in Germany  >> and he talks about scalar physics and its relationship "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-bM18PJY6_Zc-MENTIONS-location-roswell",
+      "from_node_id": "video-bM18PJY6_Zc",
+      "to_node_id": "location-roswell",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "hnology desk and transferring you know crash materials from Roswell for example to Bell Labs so they could you know help build "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-bM18PJY6_Zc-MENTIONS-location-area-51",
+      "from_node_id": "video-bM18PJY6_Zc",
+      "to_node_id": "location-area-51",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "kpack and whole lot of credentials that had everything from Area 51 to the CIA and all that combined  NASA. And he tested the w"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-bM18PJY6_Zc-MENTIONS-location-france",
+      "from_node_id": "video-bM18PJY6_Zc",
+      "to_node_id": "location-france",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "ton, why they have one in Central Park, why is there one in France and in England? They have And they went to Egypt and got th"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-bM18PJY6_Zc-MENTIONS-location-italy",
+      "from_node_id": "video-bM18PJY6_Zc",
+      "to_node_id": "location-italy",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "ep.  >> Who she writes about in 13th century Mount Lever in Italy,  >> Brother Leo is right next to him and he sees this ange"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-bM18PJY6_Zc-MENTIONS-location-iran",
+      "from_node_id": "video-bM18PJY6_Zc",
+      "to_node_id": "location-iran",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "incident that was going  to happen in future which was when Iran and Israel began to exchange missiles at one another at tha"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-bM18PJY6_Zc-CITES-document-american-cosmic",
+      "from_node_id": "video-bM18PJY6_Zc",
+      "to_node_id": "document-american-cosmic",
+      "relationship": "CITES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": " hadn't even been written about, you know, pseudonmously in American Cosmic by Dana Pulka. This is in the early 2010s.  >> So, so he wa"
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-bM18PJY6_Zc-discussion-summary",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-bM18PJY6_Zc-discussion-summary",
+      "relationship": "ASSERTED",
+      "confidence": 0.9,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0,
+          "quote": "Episode: Why NASA Studies This Man (He Attracts UFOs!)"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-bM18PJY6_Zc-REFERENCES-claim-bM18PJY6_Zc-discussion-summary",
+      "from_node_id": "video-bM18PJY6_Zc",
+      "to_node_id": "claim-bM18PJY6_Zc-discussion-summary",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 0
+        }
+      ]
+    },
+    {
+      "id": "edge-person-chris-bledsoe-ASSERTED-claim-bM18PJY6_Zc-bledsoe-crohn-healed-jan-2007",
+      "from_node_id": "person-chris-bledsoe",
+      "to_node_id": "claim-bM18PJY6_Zc-bledsoe-crohn-healed-jan-2007",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 275,
+          "quote": "On January 8 2007 during a fishing trip in NC, Chris Bledsoe witnessed orbs; his severe Crohn's disease was spontaneously healed afterward ('no more sickness')."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-bM18PJY6_Zc-REFERENCES-claim-bM18PJY6_Zc-bledsoe-crohn-healed-jan-2007",
+      "from_node_id": "video-bM18PJY6_Zc",
+      "to_node_id": "claim-bM18PJY6_Zc-bledsoe-crohn-healed-jan-2007",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 275
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-bM18PJY6_Zc-bledsoe-crohn-healed-jan-2007-REFERENCES-phenomenon-the-lady-feminine-presence",
+      "from_node_id": "claim-bM18PJY6_Zc-bledsoe-crohn-healed-jan-2007",
+      "to_node_id": "phenomenon-the-lady-feminine-presence",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 275
+        }
+      ]
+    },
+    {
+      "id": "edge-person-chris-bledsoe-ASSERTED-claim-bM18PJY6_Zc-bledsoe-the-lady-apocalypse-messages",
+      "from_node_id": "person-chris-bledsoe",
+      "to_node_id": "claim-bM18PJY6_Zc-bledsoe-the-lady-apocalypse-messages",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 279,
+          "quote": "Bledsoe's 'Lady' communicates about humanity's moral decay, civilizational cycles, judgment, and a threshold-event apocalypse — framing aligning with ancient-apocalypse and Younger-Dryas cycles."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-bM18PJY6_Zc-REFERENCES-claim-bM18PJY6_Zc-bledsoe-the-lady-apocalypse-messages",
+      "from_node_id": "video-bM18PJY6_Zc",
+      "to_node_id": "claim-bM18PJY6_Zc-bledsoe-the-lady-apocalypse-messages",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 279
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-bM18PJY6_Zc-bledsoe-the-lady-apocalypse-messages-REFERENCES-phenomenon-the-lady-feminine-presence",
+      "from_node_id": "claim-bM18PJY6_Zc-bledsoe-the-lady-apocalypse-messages",
+      "to_node_id": "phenomenon-the-lady-feminine-presence",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 279
+        }
+      ]
+    },
+    {
+      "id": "edge-person-chris-bledsoe-ASSERTED-claim-bM18PJY6_Zc-tim-taylor-dinner-with-president",
+      "from_node_id": "person-chris-bledsoe",
+      "to_node_id": "claim-bM18PJY6_Zc-tim-taylor-dinner-with-president",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 287,
+          "quote": "NASA's Tim Taylor said he was 'at the dinner table with the president' when something was handed to him — photographed napkin with presidential seal from Camp David — reinforcing Bledsoe's claim that "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-bM18PJY6_Zc-REFERENCES-claim-bM18PJY6_Zc-tim-taylor-dinner-with-president",
+      "from_node_id": "video-bM18PJY6_Zc",
+      "to_node_id": "claim-bM18PJY6_Zc-tim-taylor-dinner-with-president",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 287
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-bM18PJY6_Zc-tim-taylor-dinner-with-president-REFERENCES-person-tim-taylor-cape-canaveral",
+      "from_node_id": "claim-bM18PJY6_Zc-tim-taylor-dinner-with-president",
+      "to_node_id": "person-tim-taylor-cape-canaveral",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 287
+        }
+      ]
+    },
+    {
+      "id": "edge-person-chris-bledsoe-ASSERTED-claim-bM18PJY6_Zc-bledsoe-nasa-cia-visitation",
+      "from_node_id": "person-chris-bledsoe",
+      "to_node_id": "claim-bM18PJY6_Zc-bledsoe-nasa-cia-visitation",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 283,
+          "quote": "NASA and CIA high-level personnel visited Bledsoe; grilled him on his experiences; implied his given dates and symbols aligned with things they were already monitoring from other authoritative sources"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-bM18PJY6_Zc-REFERENCES-claim-bM18PJY6_Zc-bledsoe-nasa-cia-visitation",
+      "from_node_id": "video-bM18PJY6_Zc",
+      "to_node_id": "claim-bM18PJY6_Zc-bledsoe-nasa-cia-visitation",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 283
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-bM18PJY6_Zc-bledsoe-nasa-cia-visitation-REFERENCES-person-tim-taylor-cape-canaveral",
+      "from_node_id": "claim-bM18PJY6_Zc-bledsoe-nasa-cia-visitation",
+      "to_node_id": "person-tim-taylor-cape-canaveral",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 283
+        }
+      ]
+    },
+    {
+      "id": "edge-person-chris-bledsoe-ASSERTED-claim-bM18PJY6_Zc-bledsoe-zanesville-townsend-brown",
+      "from_node_id": "person-chris-bledsoe",
+      "to_node_id": "claim-bM18PJY6_Zc-bledsoe-zanesville-townsend-brown",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 301,
+          "quote": "Bledsoe took Jesse to Zanesville Ohio — Townsend Brown's hometown — where they recovered a metal piece potentially tied to Brown's antigravity work."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-bM18PJY6_Zc-REFERENCES-claim-bM18PJY6_Zc-bledsoe-zanesville-townsend-brown",
+      "from_node_id": "video-bM18PJY6_Zc",
+      "to_node_id": "claim-bM18PJY6_Zc-bledsoe-zanesville-townsend-brown",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 301
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-bM18PJY6_Zc-bledsoe-zanesville-townsend-brown-REFERENCES-location-zanesville-ohio",
+      "from_node_id": "claim-bM18PJY6_Zc-bledsoe-zanesville-townsend-brown",
+      "to_node_id": "location-zanesville-ohio",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 301
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-bM18PJY6_Zc-bledsoe-zanesville-townsend-brown-REFERENCES-person-townsend-brown",
+      "from_node_id": "claim-bM18PJY6_Zc-bledsoe-zanesville-townsend-brown",
+      "to_node_id": "person-townsend-brown",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "bM18PJY6_Zc",
+          "timestamp_start": 301
+        }
+      ]
+    }
+  ],
+  "extracted_at": "2026-04-17T12:55:45.384625+00:00",
+  "extractor_version": "v1-inline-claude"
+}

@@ -1,0 +1,1875 @@
+{
+  "video_id": "9PJJiut0Iuw",
+  "nodes": [
+    {
+      "id": "video-9PJJiut0Iuw",
+      "node_type": "video",
+      "label": "Graham Hancock: The Great Pyramid Is a “Stargate” for Consciousness!",
+      "summary": "Graham Hancock returns for his second appearance on American Alchemy. Enjoy!\n\nGraham's response to Flint Dibble: https://www.youtube.com/watch?v=PEe72Nj-AW0\n\nGraham's first appearance on American...",
+      "tags": [
+        "video",
+        "american-alchemy"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:30.976272+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9PJJiut0Iuw",
+          "timestamp_start": 0,
+          "timestamp_end": 5238.0,
+          "quote": "Video: Graham Hancock: The Great Pyramid Is a “Stargate” for Consciousness!"
+        }
+      ],
+      "type_specific": {
+        "video_id": "9PJJiut0Iuw",
+        "title": "Graham Hancock: The Great Pyramid Is a “Stargate” for Consciousness!",
+        "url": "https://www.youtube.com/watch?v=9PJJiut0Iuw",
+        "view_count": 522091,
+        "duration_seconds": 5238.0,
+        "host_id": "person-jesse-michels",
+        "guest_ids": [
+          "person-graham-hancock"
+        ]
+      }
+    },
+    {
+      "id": "person-jesse-michels",
+      "node_type": "person",
+      "label": "Jesse Michels",
+      "summary": "Host of American Alchemy podcast/show. Independent journalist and UFO/NHI researcher.",
+      "tags": [
+        "journalist",
+        "interviewer",
+        "researcher",
+        "host"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:30.976287+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9PJJiut0Iuw",
+          "timestamp_start": 0,
+          "quote": "Host of American Alchemy podcast/show."
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Jesse",
+          "Michels"
+        ],
+        "profession": "journalist",
+        "notability_tags": [
+          "journalist",
+          "interviewer",
+          "researcher",
+          "host"
+        ]
+      }
+    },
+    {
+      "id": "person-robert-hastings",
+      "node_type": "person",
+      "label": "Robert Hastings",
+      "summary": "",
+      "tags": [
+        "researcher",
+        "author",
+        "UFOs and Nukes"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:31.474085+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9PJJiut0Iuw",
+          "timestamp_start": 0,
+          "quote": "u know there's actually a great book written by a guy named Robert Hastings about U and this is like the modern UF kind of craze or wha"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Hastings"
+        ],
+        "notability_tags": [
+          "researcher",
+          "author",
+          "UFOs and Nukes"
+        ]
+      }
+    },
+    {
+      "id": "person-bob-oppenheimer",
+      "node_type": "person",
+      "label": "Bob Oppenheimer",
+      "summary": "",
+      "tags": [
+        "physicist",
+        "Manhattan Project"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:31.474105+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9PJJiut0Iuw",
+          "timestamp_start": 0,
+          "quote": "r Alvarez who's a character in Christopher Nolan's you know Oppenheimer movie because he was instrumental in creating nuclear fion "
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "J. Robert Oppenheimer",
+          "Oppenheimer"
+        ],
+        "notability_tags": [
+          "physicist",
+          "Manhattan Project"
+        ]
+      }
+    },
+    {
+      "id": "person-graham-hancock",
+      "node_type": "person",
+      "label": "Graham Hancock",
+      "summary": "",
+      "tags": [
+        "author",
+        "ancient history"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:31.474110+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9PJJiut0Iuw",
+          "timestamp_start": 0,
+          "quote": "# Graham Hancock: The Great Pyramid Is a “Stargate” for Consciousness! https"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Hancock"
+        ],
+        "notability_tags": [
+          "author",
+          "ancient history"
+        ]
+      }
+    },
+    {
+      "id": "person-love-has-won",
+      "node_type": "person",
+      "label": "Love Has Won",
+      "summary": "Love Has Won (LHW), also known as the Galactic Federation of Light, is an American new religious movement that was led by Amy Carlson until her death in 2021. Carlson was referred to within the group as \"Mother God\", who described herself as, among other things, the creator of the universe, with the",
+      "tags": [
+        "wikipedia",
+        "2007 establishments in colorado",
+        "ancient astronaut speculation",
+        "covid-19 vaccine misinformation and hesitancy",
+        "climate change denial in the united states",
+        "holocaust denial in the united states",
+        "new age organizations",
+        "new religious movements established in the 2000s",
+        "qanon",
+        "religious belief systems founded in the united states",
+        "religious controversies in the united states",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:31.474117+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9PJJiut0Iuw",
+          "timestamp_start": 0,
+          "quote": "feel like not only did you win kind of socratically but you won because he wasn't even armed with the correct facts I think"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "LOVE HAS WON",
+          "Won",
+          "love has won"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "2007 establishments in colorado",
+          "ancient astronaut speculation",
+          "covid-19 vaccine misinformation and hesitancy",
+          "climate change denial in the united states",
+          "holocaust denial in the united states",
+          "new age organizations",
+          "new religious movements established in the 2000s",
+          "qanon",
+          "religious belief systems founded in the united states",
+          "religious controversies in the united states",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "person-riley-martin",
+      "node_type": "person",
+      "label": "Riley Martin",
+      "summary": "Riley Lee Martin (May 9, 1946 – December 22, 2015) was an American self-described alien contactee, author and radio host. Martin was the author of the book The Coming of Tan, which describes his life and his alleged alien visitation. He hosted The Riley Martin Show on the Sirius XM Radio channel How",
+      "tags": [
+        "wikipedia",
+        "20th-century african-american people",
+        "african-american radio personalities",
+        "american conspiracy theorists",
+        "american outsider artists",
+        "american people who self-identify as being of native american descent",
+        "contactees",
+        "people from natchez, mississippi",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:31.474122+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9PJJiut0Iuw",
+          "timestamp_start": 0,
+          "quote": "ly cool too because you have all  these Executives at locki Martin and stuff saying like basically expressing extremely trippy"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Martin",
+          "RILEY MARTIN",
+          "riley martin"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "20th-century african-american people",
+          "african-american radio personalities",
+          "american conspiracy theorists",
+          "american outsider artists",
+          "american people who self-identify as being of native american descent",
+          "contactees",
+          "people from natchez, mississippi",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "person-timothy-good",
+      "node_type": "person",
+      "label": "Timothy Good",
+      "summary": "",
+      "tags": [
+        "researcher",
+        "author"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:31.474126+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9PJJiut0Iuw",
+          "timestamp_start": 0,
+          "quote": " I don't feel destroyed and I think it was I think it was a good thing to do well I think your truth  seeking has reached a "
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Tim Good",
+          "Good"
+        ],
+        "notability_tags": [
+          "researcher",
+          "author"
+        ]
+      }
+    },
+    {
+      "id": "person-chan-thomas",
+      "node_type": "person",
+      "label": "Chan Thomas",
+      "summary": "Chan Thomas (1920–1998) was an American engineer, ufologist, writer on ancient cataclysms, and self-proclaimed polymath whose ideas have influenced conspiracy theorists in the 21st century.",
+      "tags": [
+        "wikipedia",
+        "20th-century american engineers",
+        "mcdonnell douglas people",
+        "ufologists",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:31.474130+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9PJJiut0Iuw",
+          "timestamp_start": 0,
+          "quote": " with honestly ancient traditions because if you look at St Thomas of aquinus he had an angel hierarchy yeah you at the Syrian"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "CHAN THOMAS",
+          "Thomas",
+          "chan thomas"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "20th-century american engineers",
+          "mcdonnell douglas people",
+          "ufologists",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "person-garry-nolan",
+      "node_type": "person",
+      "label": "Garry Nolan",
+      "summary": "Garry P. Nolan (born c. 1961) is a British-American immunologist, academic, inventor, and business executive. He holds the Rachford and Carlota A. Harris Professor Endowed Chair in the Department of Pathology at Stanford University School of Medicine. Nolan has founded biotechnology companies. Since",
+      "tags": [
+        "wikipedia",
+        "1960s births",
+        "american cancer researchers",
+        "american immunologists",
+        "american pathologists",
+        "british cancer researchers",
+        "british immunologists",
+        "cornell university alumni",
+        "pages with broken reference names",
+        "pages with reference errors",
+        "serologists",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:31.474134+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9PJJiut0Iuw",
+          "timestamp_start": 0,
+          "quote": "ted by Luis Walter Alvarez who's a character in Christopher Nolan's you know Oppenheimer movie because he was instrumental in"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "GARRY NOLAN",
+          "Nolan",
+          "garry nolan"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "1960s births",
+          "american cancer researchers",
+          "american immunologists",
+          "american pathologists",
+          "british cancer researchers",
+          "british immunologists",
+          "cornell university alumni",
+          "pages with broken reference names",
+          "pages with reference errors",
+          "serologists",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "person-kid-cosmic",
+      "node_type": "person",
+      "label": "Kid Cosmic",
+      "summary": "Kid Cosmic is an American animated superhero television series created by Craig McCracken and developed by McCracken, his wife Lauren Faust and Francisco Angones for Netflix. The series was based on his 2009 comic The Kid from Planet Earth. Produced in-house by Netflix Animation, the show is McCrack",
+      "tags": [
+        "wikipedia",
+        "2020s american animated comedy television series",
+        "2020s american children's comedy television series",
+        "2020s american science fiction comedy television series",
+        "2020s american superhero comedy television series",
+        "2021 american animated television series debuts",
+        "2022 american television series endings",
+        "american english-language television shows",
+        "american children's animated action television series",
+        "american children's animated adventure television series",
+        "american children's animated comic science fiction television series",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:31.474138+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9PJJiut0Iuw",
+          "timestamp_start": 0,
+          "quote": "recocious Advanced astronomical knowledge that's macro it's Cosmic scale knowledge yeah that we just don't have today it's not"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Cosmic",
+          "KID COSMIC",
+          "kid cosmic"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "2020s american animated comedy television series",
+          "2020s american children's comedy television series",
+          "2020s american science fiction comedy television series",
+          "2020s american superhero comedy television series",
+          "2021 american animated television series debuts",
+          "2022 american television series endings",
+          "american english-language television shows",
+          "american children's animated action television series",
+          "american children's animated adventure television series",
+          "american children's animated comic science fiction television series",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "organization-international-ufo-museum-and-research-center",
+      "node_type": "organization",
+      "label": "International UFO Museum and Research Center",
+      "summary": "The International UFO Museum and Research Center is located in Roswell, New Mexico, United States, in the downtown district, and is focused largely on the 1947 Roswell Crash and later supposed UFO incidents in the United States and elsewhere. It was founded in 1991 as a 501c3 nonprofit educational o",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:31.474144+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9PJJiut0Iuw",
+          "timestamp_start": 0,
+          "quote": "I was an outsider that I wasn't I wasn't where whatever the center of thing is I wasn't in it I was on the edges looking  in a"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-the-report-on-unidentified-flying-objects",
+      "node_type": "organization",
+      "label": "The Report on Unidentified Flying Objects",
+      "summary": "The Report on Unidentified Flying Objects is a 1956 book by then-retired Air Force UFO investigator Edward J. Ruppelt, detailing his experience running Project Blue Book. The book was noted for its suggestion that a few UFO sightings might be linked to spikes of atomic radiation. Contemporary media ",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:31.474149+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9PJJiut0Iuw",
+          "timestamp_start": 0,
+          "quote": "at there was a impacts with and Air Bursts from a series of objects of a disintegrating Comet the debris trail of a disintegrat"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-identification-studies-of-ufos",
+      "node_type": "organization",
+      "label": "Identification studies of UFOs",
+      "summary": "Identifying unidentified flying objects (UFOs) is a difficult task due to the normally poor quality of the evidence provided by those who report sighting the unknown object. Observations and subsequent reporting are often made by those untrained in astronomy, atmospheric phenomena, aeronautics, phys",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:31.474154+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9PJJiut0Iuw",
+          "timestamp_start": 0,
+          "quote": " the modern UF kind of craze or whatever but it's about how UFOs consistently show up around nuclear bases all over the US t"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-flying-saucer-working-party",
+      "node_type": "organization",
+      "label": "Flying Saucer Working Party",
+      "summary": "Flying Saucer Working Party (or FSWP) was the name of the United Kingdom Ministry of Defence’s (MOD) first \"official study into UFOs\", which has its roots in a study commissioned in 1950 by the MOD’s then Chief Scientific Adviser, the eminent radar scientist Sir Henry Tizard. As a result of his insi",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:31.474158+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9PJJiut0Iuw",
+          "timestamp_start": 0,
+          "quote": " for any single leader in the world today I don't care what party they're from I don't care what country they're the leader o"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-the-flying-saucers-are-real",
+      "node_type": "organization",
+      "label": "The Flying Saucers Are Real",
+      "summary": "The Flying Saucers Are Real, by Donald Keyhoe, is a book that investigated reports of UFOs by United States Air Force fighters, personnel, and other aircraft, between 1947 and 1950.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:31.474163+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9PJJiut0Iuw",
+          "timestamp_start": 0,
+          "quote": "egan to feel that this claim that Ethiopia makes may have a real basis to it and obviously that involved me figuring out wha"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-archives-of-the-impossible",
+      "node_type": "organization",
+      "label": "Archives of the Impossible",
+      "summary": "The Archives of the Impossible (AOTI), sometimes called the Center for the Impossible, is a special collection at Rice University in Houston, Texas, United States. Founded in 2014 by Jeffrey J. Kripal, AOTI is based at the Woodson Research Center in the Fondren Library. It stewards collections on UF",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:31.474167+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9PJJiut0Iuw",
+          "timestamp_start": 0,
+          "quote": "n able to get in there yet but it's it's not going to be an impossible technological feat to do so I think rather than being at th"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-roswell-that-ends-well",
+      "node_type": "organization",
+      "label": "Roswell That Ends Well",
+      "summary": "\"Roswell That Ends Well\" is the nineteenth episode in the third season of the American animated television series Futurama, and the 51st episode of the series overall. It originally aired on the Fox network in the United States on December 9, 2001. The plot centers on an accidental time travel event",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:31.474172+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9PJJiut0Iuw",
+          "timestamp_start": 0,
+          "quote": "s honored to be with you thank you the feeling is mutual oh well thank you and it's been two years since we last sat down I "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-the-galileo-project",
+      "node_type": "organization",
+      "label": "The Galileo Project",
+      "summary": "The Galileo Project is an international scientific research project to search for extraterrestrial intelligence or extraterrestrial technology on and near Earth and to identify the nature of anomalous Unidentified Flying Objects/Unidentified Aerial Phenomena (UFOs/UAP). It was launched in 2021 by Ha",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:31.474176+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9PJJiut0Iuw",
+          "timestamp_start": 0,
+          "quote": "bval also regard it as impossible more likely it's a it's a project that took hundreds of years to complete and maybe thousands"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-thornton-leigh-page",
+      "node_type": "organization",
+      "label": "Thornton Leigh Page",
+      "summary": "Thornton Leigh Page was an American professor of astronomy at the University of Chicago and at Wesleyan University. He became embroiled in the controversy over unidentified flying objects (UFOs) after serving briefly on the Robertson Panel, a Central Intelligence Agency–sponsored committee of scient",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:31.474181+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9PJJiut0Iuw",
+          "timestamp_start": 0,
+          "quote": "them and I went through to the date given and I opened that page and I saw  just one line and it said climbed Great Pyramid "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-project-blue-book",
+      "node_type": "organization",
+      "label": "Project Blue Book",
+      "summary": "USAF UFO investigation program active from 1952 to 1969.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:31.474185+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9PJJiut0Iuw",
+          "timestamp_start": 0,
+          "quote": "nformation on to till I got to a point where I knew I had a book to what's the town that the Arc of the  Covenant AUM axum a"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-world-contact-day",
+      "node_type": "organization",
+      "label": "World Contact Day",
+      "summary": "World Contact Day was first declared in March 1953 by an organization called the International Flying Saucer Bureau (IFSB), as a day on which all IFSB members would attempt to send a telepathic message into space. The IFSB voted to hold such a day in 1953, theorising that if both telepathy and alien",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:31.474189+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9PJJiut0Iuw",
+          "timestamp_start": 0,
+          "quote": "if you take LSD three four five days  in a row by the fifth day you're not going to have a trip at all it's your body's bec"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-scp-foundation",
+      "node_type": "organization",
+      "label": "SCP Foundation",
+      "summary": "The SCP Foundation is a fictional organization featured in stories created by contributors on the SCP Wiki, a wiki-based collaborative writing project, launched in 2008. Within the project's shared universe, the SCP (Special Containment Procedures) Foundation is a secret organization that is respons",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:31.474194+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9PJJiut0Iuw",
+          "timestamp_start": 0,
+          "quote": " I managed to get a scholarship from I think called the Lum Foundation who funded me to spend a year in Somalia very minimal fundi"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-big-sur-ufo",
+      "node_type": "organization",
+      "label": "Big Sur UFO",
+      "summary": "The Big Sur UFO is a reported UFO incident that took place during a 1964 Air Force deployment to a mountaintop near Big Sur, California. The deployment was a mission was to film Atlas missile tests from Vandenberg Air Force Base. Since 1982, Robert Jacobs, who had overseen the mountaintop team, has ",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:31.474198+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9PJJiut0Iuw",
+          "timestamp_start": 0,
+          "quote": "rt of government disclosure thing around nuts and bolts and UFO crash recoveries well I always go I always go  back to I wa"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "location-roswell-new-mexico",
+      "node_type": "location",
+      "label": "Roswell, New Mexico",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:31.474203+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9PJJiut0Iuw",
+          "timestamp_start": 0,
+          "quote": " before they begin to accept it and those Footprints in New Mexico 23,000 year old human Footprints in New Mexico which are in"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-skinwalker-ranch",
+      "node_type": "location",
+      "label": "Skinwalker Ranch",
+      "summary": "",
+      "tags": [
+        "ranch"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:31.474208+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9PJJiut0Iuw",
+          "timestamp_start": 0,
+          "quote": "ith the spirit world or aliens even in a modern context all Skinwalker Ranch they say that there's like a lot of uranium around yeah and"
+        }
+      ],
+      "type_specific": {
+        "location_type": "ranch",
+        "country": "US",
+        "state_or_region": "Utah"
+      }
+    },
+    {
+      "id": "location-united-states",
+      "node_type": "location",
+      "label": "United States",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:31.474212+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9PJJiut0Iuw",
+          "timestamp_start": 0,
+          "quote": "een passed down to him by the ancient Egyptians as he as he states in the timus and critius dialogues he took elements of that"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-south-africa",
+      "node_type": "location",
+      "label": "South Africa",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:31.474216+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9PJJiut0Iuw",
+          "timestamp_start": 0,
+          "quote": "976 I had some I had some expertise at least in the Horn of Africa in East Africa and I was able to gradually build up freelan"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-mexico",
+      "node_type": "location",
+      "label": "Mexico",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:31.474220+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9PJJiut0Iuw",
+          "timestamp_start": 0,
+          "quote": " before they begin to accept it and those Footprints in New Mexico 23,000 year old human Footprints in New Mexico which are in"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "claim-9PJJiut0Iuw-discussion-summary",
+      "node_type": "claim",
+      "label": "Video 9PJJiut0Iuw features extended discussion of Robert Hastings, Bob Oppenheimer, Graham Hancock a",
+      "summary": "Video 9PJJiut0Iuw features extended discussion of Robert Hastings, Bob Oppenheimer, Graham Hancock and related UAP research topics, hosted by Jesse Michels.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:31.474231+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9PJJiut0Iuw",
+          "timestamp_start": 0,
+          "quote": "Episode title: Graham Hancock: The Great Pyramid Is a “Stargate” for Consciousness!"
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Video 9PJJiut0Iuw features extended discussion of Robert Hastings, Bob Oppenheimer, Graham Hancock and related UAP research topics, hosted by Jesse Michels.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "9PJJiut0Iuw",
+        "timestamp_start_seconds": 0,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-robert-hastings",
+          "person-bob-oppenheimer",
+          "person-graham-hancock",
+          "video-9PJJiut0Iuw"
+        ]
+      }
+    },
+    {
+      "id": "person-flint-dibble",
+      "node_type": "person",
+      "label": "Flint Dibble",
+      "summary": "Mainstream archaeologist who debated Graham Hancock on the Joe Rogan Experience. Hancock argues Dibble's debating style revealed how academic archaeology deals with alternative viewpoints.",
+      "tags": [
+        "archaeologist",
+        "skeptic"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.368600+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9PJJiut0Iuw",
+          "timestamp_start": 325,
+          "quote": "Mainstream archaeologist who debated Hancock on JRE"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Dibble"
+        ],
+        "profession": "archaeologist",
+        "notability_tags": [
+          "archaeologist",
+          "skeptic"
+        ]
+      }
+    },
+    {
+      "id": "document-ancient-apocalypse-s2",
+      "node_type": "document",
+      "label": "Ancient Apocalypse Season 2",
+      "summary": "Graham Hancock's new season of Ancient Apocalypse on Netflix; features numerology, mathematics, astronomy; cameos from actors like Keanu Reeves.",
+      "tags": [
+        "broadcast"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.368602+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9PJJiut0Iuw",
+          "timestamp_start": 331,
+          "timestamp_end": "Hancock's new Netflix season with Keanu Reeves cameos"
+        }
+      ],
+      "type_specific": {
+        "document_type": "broadcast",
+        "author": "Graham Hancock"
+      }
+    },
+    {
+      "id": "document-ark-of-covenant-axum",
+      "node_type": "document",
+      "label": "Ark of the Covenant (Axum tradition)",
+      "summary": "Ethiopian tradition that the Ark of the Covenant rests in Axum (Tigray province); Hancock spent years investigating this while working as an East Africa correspondent.",
+      "tags": [
+        "report"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.368604+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9PJJiut0Iuw",
+          "timestamp_start": 363,
+          "timestamp_end": "Ethiopian tradition of Ark resting in Axum"
+        }
+      ],
+      "type_specific": {
+        "document_type": "report"
+      }
+    },
+    {
+      "id": "location-axum-ethiopia",
+      "node_type": "location",
+      "label": "Axum, Ethiopia",
+      "summary": "",
+      "tags": [
+        "city"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.368608+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9PJJiut0Iuw",
+          "timestamp_start": 363,
+          "timestamp_end": "Ethiopian city claimed as Ark of the Covenant resting place"
+        }
+      ],
+      "type_specific": {
+        "location_type": "city",
+        "country": "ET"
+      }
+    },
+    {
+      "id": "concept-secret-societies-first-time",
+      "node_type": "concept",
+      "label": "Secret Societies & 'First Time' Transmission",
+      "summary": "Hancock's framing: secret societies were entrusted with preserving knowledge from 'the First Time' — the antediluvian civilization — and passing it to future generations. The knowledge represents precocious astronomical/Milky-Way-journey knowledge not possessed today.",
+      "tags": [
+        "metaphysics"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.368611+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9PJJiut0Iuw",
+          "timestamp_start": 321,
+          "timestamp_end": "Hancock's frame of secret societies preserving first-civilization knowledge"
+        }
+      ],
+      "type_specific": {
+        "concept_domain": "metaphysics"
+      }
+    },
+    {
+      "id": "claim-9PJJiut0Iuw-hancock-dibble-debate-reveals-archaeology",
+      "node_type": "claim",
+      "label": "Hancock argues his JRE debate with Flint Dibble revealed mainstream archaeology's 'win at all costs'",
+      "summary": "Hancock argues his JRE debate with Flint Dibble revealed mainstream archaeology's 'win at all costs' approach to alternative viewpoints — Dibble repeatedly claims to have 'destroyed Graham' despite Hancock not feeling destroyed.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.387139+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9PJJiut0Iuw",
+          "timestamp_start": 329,
+          "quote": "That debate has helped to show the general public how archaeology functions when it deals with people with alternative points of view. That function seems to be to win at all costs."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Hancock argues his JRE debate with Flint Dibble revealed mainstream archaeology's 'win at all costs' approach to alternative viewpoints — Dibble repeatedly claims to have 'destroyed Graham' despite Hancock not feeling destroyed.",
+        "asserted_by_id": "person-graham-hancock",
+        "source_video_id": "9PJJiut0Iuw",
+        "timestamp_start_seconds": 329,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-graham-hancock",
+          "person-flint-dibble"
+        ]
+      }
+    },
+    {
+      "id": "claim-9PJJiut0Iuw-hancock-first-time-milky-way-knowledge",
+      "node_type": "claim",
+      "label": "Hancock posits that antediluvian secret societies preserve astronomical knowledge of 'the First Time",
+      "summary": "Hancock posits that antediluvian secret societies preserve astronomical knowledge of 'the First Time' — including Milky-Way-journey cosmology via what is paradoxically called the 'underworld' in Egyptian tradition.",
+      "tags": [
+        "speculation",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.387155+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9PJJiut0Iuw",
+          "timestamp_start": 321,
+          "quote": "Secret societies which were entrusted with preserving information from what they call the first time and passing it down to future generations that represents such a precocious advanced astronomical knowledge — cosmic scale knowledge that we just don't have today."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Hancock posits that antediluvian secret societies preserve astronomical knowledge of 'the First Time' — including Milky-Way-journey cosmology via what is paradoxically called the 'underworld' in Egyptian tradition.",
+        "asserted_by_id": "person-graham-hancock",
+        "source_video_id": "9PJJiut0Iuw",
+        "timestamp_start_seconds": 321,
+        "assertability": "speculation",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-graham-hancock",
+          "concept-secret-societies-first-time"
+        ]
+      }
+    },
+    {
+      "id": "claim-9PJJiut0Iuw-hancock-ethiopia-axum-ark",
+      "node_type": "claim",
+      "label": "Hancock: Ethiopia is the only country in the world that claims to have the Ark of the Covenant — spe",
+      "summary": "Hancock: Ethiopia is the only country in the world that claims to have the Ark of the Covenant — specifically at Axum in Tigray province; Hancock 'ate it, slept it, breathed it' for years as his first deep ancient-history investigation.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.387163+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9PJJiut0Iuw",
+          "timestamp_start": 357,
+          "quote": "Ethiopia is the only country in the world that claims to have the Ark of the Covenant. The town is Axum in the province of Tigray in Northern Ethiopia. I ate it, I slept it, I breathed it, I dreamed it all the time."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Hancock: Ethiopia is the only country in the world that claims to have the Ark of the Covenant — specifically at Axum in Tigray province; Hancock 'ate it, slept it, breathed it' for years as his first deep ancient-history investigation.",
+        "asserted_by_id": "person-graham-hancock",
+        "source_video_id": "9PJJiut0Iuw",
+        "timestamp_start_seconds": 357,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-graham-hancock",
+          "document-ark-of-covenant-axum",
+          "location-axum-ethiopia"
+        ]
+      }
+    },
+    {
+      "id": "claim-9PJJiut0Iuw-hancock-ancient-apocalypse-s2-keanu",
+      "node_type": "claim",
+      "label": "Ancient Apocalypse Season 2 features cameos from actors like Keanu Reeves and deep numerology/astron",
+      "summary": "Ancient Apocalypse Season 2 features cameos from actors like Keanu Reeves and deep numerology/astronomy content — moving Hancock beyond the point of cancellation.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:55:45.387171+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9PJJiut0Iuw",
+          "timestamp_start": 331,
+          "quote": "A new season of Ancient Apocalypse on Netflix — numerology, mathematics, astronomy. Cameos from people like Keanu Reeves."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Ancient Apocalypse Season 2 features cameos from actors like Keanu Reeves and deep numerology/astronomy content — moving Hancock beyond the point of cancellation.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "9PJJiut0Iuw",
+        "timestamp_start_seconds": 331,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-graham-hancock",
+          "document-ancient-apocalypse-s2"
+        ]
+      }
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge-video-9PJJiut0Iuw-HOSTED_BY-person-jesse-michels",
+      "from_node_id": "video-9PJJiut0Iuw",
+      "to_node_id": "person-jesse-michels",
+      "relationship": "HOSTED_BY",
+      "confidence": 0.99,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9PJJiut0Iuw",
+          "timestamp_start": 0,
+          "quote": "Jesse hosting"
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-APPEARED_IN-video-9PJJiut0Iuw",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "video-9PJJiut0Iuw",
+      "relationship": "APPEARED_IN",
+      "confidence": 0.99,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9PJJiut0Iuw",
+          "timestamp_start": 0,
+          "quote": "Host"
+        }
+      ],
+      "properties": {
+        "appearance_type": "host"
+      }
+    },
+    {
+      "id": "edge-video-9PJJiut0Iuw-MENTIONS-person-robert-hastings",
+      "from_node_id": "video-9PJJiut0Iuw",
+      "to_node_id": "person-robert-hastings",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9PJJiut0Iuw",
+          "timestamp_start": 0,
+          "quote": "u know there's actually a great book written by a guy named Robert Hastings about U and this is like the modern UF kind of craze or wha"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-9PJJiut0Iuw-MENTIONS-person-bob-oppenheimer",
+      "from_node_id": "video-9PJJiut0Iuw",
+      "to_node_id": "person-bob-oppenheimer",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9PJJiut0Iuw",
+          "timestamp_start": 0,
+          "quote": "r Alvarez who's a character in Christopher Nolan's you know Oppenheimer movie because he was instrumental in creating nuclear fion "
+        }
+      ]
+    },
+    {
+      "id": "edge-person-graham-hancock-APPEARED_IN-video-9PJJiut0Iuw",
+      "from_node_id": "person-graham-hancock",
+      "to_node_id": "video-9PJJiut0Iuw",
+      "relationship": "APPEARED_IN",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9PJJiut0Iuw",
+          "timestamp_start": 0,
+          "quote": "# Graham Hancock: The Great Pyramid Is a “Stargate” for Consciousness! https"
+        }
+      ],
+      "properties": {
+        "appearance_type": "guest"
+      }
+    },
+    {
+      "id": "edge-video-9PJJiut0Iuw-DISCUSSES-person-graham-hancock",
+      "from_node_id": "video-9PJJiut0Iuw",
+      "to_node_id": "person-graham-hancock",
+      "relationship": "DISCUSSES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9PJJiut0Iuw",
+          "timestamp_start": 0,
+          "quote": "# Graham Hancock: The Great Pyramid Is a “Stargate” for Consciousness! https"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-9PJJiut0Iuw-MENTIONS-person-love-has-won",
+      "from_node_id": "video-9PJJiut0Iuw",
+      "to_node_id": "person-love-has-won",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9PJJiut0Iuw",
+          "timestamp_start": 0,
+          "quote": "feel like not only did you win kind of socratically but you won because he wasn't even armed with the correct facts I think"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-9PJJiut0Iuw-MENTIONS-person-riley-martin",
+      "from_node_id": "video-9PJJiut0Iuw",
+      "to_node_id": "person-riley-martin",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9PJJiut0Iuw",
+          "timestamp_start": 0,
+          "quote": "ly cool too because you have all  these Executives at locki Martin and stuff saying like basically expressing extremely trippy"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-9PJJiut0Iuw-MENTIONS-person-timothy-good",
+      "from_node_id": "video-9PJJiut0Iuw",
+      "to_node_id": "person-timothy-good",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9PJJiut0Iuw",
+          "timestamp_start": 0,
+          "quote": " I don't feel destroyed and I think it was I think it was a good thing to do well I think your truth  seeking has reached a "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-9PJJiut0Iuw-MENTIONS-person-chan-thomas",
+      "from_node_id": "video-9PJJiut0Iuw",
+      "to_node_id": "person-chan-thomas",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9PJJiut0Iuw",
+          "timestamp_start": 0,
+          "quote": " with honestly ancient traditions because if you look at St Thomas of aquinus he had an angel hierarchy yeah you at the Syrian"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-9PJJiut0Iuw-MENTIONS-person-garry-nolan",
+      "from_node_id": "video-9PJJiut0Iuw",
+      "to_node_id": "person-garry-nolan",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9PJJiut0Iuw",
+          "timestamp_start": 0,
+          "quote": "ted by Luis Walter Alvarez who's a character in Christopher Nolan's you know Oppenheimer movie because he was instrumental in"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-9PJJiut0Iuw-MENTIONS-person-kid-cosmic",
+      "from_node_id": "video-9PJJiut0Iuw",
+      "to_node_id": "person-kid-cosmic",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9PJJiut0Iuw",
+          "timestamp_start": 0,
+          "quote": "recocious Advanced astronomical knowledge that's macro it's Cosmic scale knowledge yeah that we just don't have today it's not"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-9PJJiut0Iuw-MENTIONS-organization-international-ufo-museum-and-research-center",
+      "from_node_id": "video-9PJJiut0Iuw",
+      "to_node_id": "organization-international-ufo-museum-and-research-center",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9PJJiut0Iuw",
+          "timestamp_start": 0,
+          "quote": "I was an outsider that I wasn't I wasn't where whatever the center of thing is I wasn't in it I was on the edges looking  in a"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-9PJJiut0Iuw-MENTIONS-organization-the-report-on-unidentified-flying-objects",
+      "from_node_id": "video-9PJJiut0Iuw",
+      "to_node_id": "organization-the-report-on-unidentified-flying-objects",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9PJJiut0Iuw",
+          "timestamp_start": 0,
+          "quote": "at there was a impacts with and Air Bursts from a series of objects of a disintegrating Comet the debris trail of a disintegrat"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-9PJJiut0Iuw-MENTIONS-organization-identification-studies-of-ufos",
+      "from_node_id": "video-9PJJiut0Iuw",
+      "to_node_id": "organization-identification-studies-of-ufos",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9PJJiut0Iuw",
+          "timestamp_start": 0,
+          "quote": " the modern UF kind of craze or whatever but it's about how UFOs consistently show up around nuclear bases all over the US t"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-9PJJiut0Iuw-MENTIONS-organization-flying-saucer-working-party",
+      "from_node_id": "video-9PJJiut0Iuw",
+      "to_node_id": "organization-flying-saucer-working-party",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9PJJiut0Iuw",
+          "timestamp_start": 0,
+          "quote": " for any single leader in the world today I don't care what party they're from I don't care what country they're the leader o"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-9PJJiut0Iuw-MENTIONS-organization-the-flying-saucers-are-real",
+      "from_node_id": "video-9PJJiut0Iuw",
+      "to_node_id": "organization-the-flying-saucers-are-real",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9PJJiut0Iuw",
+          "timestamp_start": 0,
+          "quote": "egan to feel that this claim that Ethiopia makes may have a real basis to it and obviously that involved me figuring out wha"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-9PJJiut0Iuw-MENTIONS-organization-archives-of-the-impossible",
+      "from_node_id": "video-9PJJiut0Iuw",
+      "to_node_id": "organization-archives-of-the-impossible",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9PJJiut0Iuw",
+          "timestamp_start": 0,
+          "quote": "n able to get in there yet but it's it's not going to be an impossible technological feat to do so I think rather than being at th"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-9PJJiut0Iuw-MENTIONS-organization-roswell-that-ends-well",
+      "from_node_id": "video-9PJJiut0Iuw",
+      "to_node_id": "organization-roswell-that-ends-well",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9PJJiut0Iuw",
+          "timestamp_start": 0,
+          "quote": "s honored to be with you thank you the feeling is mutual oh well thank you and it's been two years since we last sat down I "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-9PJJiut0Iuw-MENTIONS-organization-the-galileo-project",
+      "from_node_id": "video-9PJJiut0Iuw",
+      "to_node_id": "organization-the-galileo-project",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9PJJiut0Iuw",
+          "timestamp_start": 0,
+          "quote": "bval also regard it as impossible more likely it's a it's a project that took hundreds of years to complete and maybe thousands"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-9PJJiut0Iuw-MENTIONS-organization-thornton-leigh-page",
+      "from_node_id": "video-9PJJiut0Iuw",
+      "to_node_id": "organization-thornton-leigh-page",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9PJJiut0Iuw",
+          "timestamp_start": 0,
+          "quote": "them and I went through to the date given and I opened that page and I saw  just one line and it said climbed Great Pyramid "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-9PJJiut0Iuw-MENTIONS-organization-project-blue-book",
+      "from_node_id": "video-9PJJiut0Iuw",
+      "to_node_id": "organization-project-blue-book",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9PJJiut0Iuw",
+          "timestamp_start": 0,
+          "quote": "nformation on to till I got to a point where I knew I had a book to what's the town that the Arc of the  Covenant AUM axum a"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-9PJJiut0Iuw-MENTIONS-organization-world-contact-day",
+      "from_node_id": "video-9PJJiut0Iuw",
+      "to_node_id": "organization-world-contact-day",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9PJJiut0Iuw",
+          "timestamp_start": 0,
+          "quote": "if you take LSD three four five days  in a row by the fifth day you're not going to have a trip at all it's your body's bec"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-9PJJiut0Iuw-MENTIONS-organization-scp-foundation",
+      "from_node_id": "video-9PJJiut0Iuw",
+      "to_node_id": "organization-scp-foundation",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9PJJiut0Iuw",
+          "timestamp_start": 0,
+          "quote": " I managed to get a scholarship from I think called the Lum Foundation who funded me to spend a year in Somalia very minimal fundi"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-9PJJiut0Iuw-MENTIONS-organization-big-sur-ufo",
+      "from_node_id": "video-9PJJiut0Iuw",
+      "to_node_id": "organization-big-sur-ufo",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9PJJiut0Iuw",
+          "timestamp_start": 0,
+          "quote": "rt of government disclosure thing around nuts and bolts and UFO crash recoveries well I always go I always go  back to I wa"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-9PJJiut0Iuw-MENTIONS-location-roswell-new-mexico",
+      "from_node_id": "video-9PJJiut0Iuw",
+      "to_node_id": "location-roswell-new-mexico",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9PJJiut0Iuw",
+          "timestamp_start": 0,
+          "quote": " before they begin to accept it and those Footprints in New Mexico 23,000 year old human Footprints in New Mexico which are in"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-9PJJiut0Iuw-MENTIONS-location-skinwalker-ranch",
+      "from_node_id": "video-9PJJiut0Iuw",
+      "to_node_id": "location-skinwalker-ranch",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9PJJiut0Iuw",
+          "timestamp_start": 0,
+          "quote": "ith the spirit world or aliens even in a modern context all Skinwalker Ranch they say that there's like a lot of uranium around yeah and"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-9PJJiut0Iuw-MENTIONS-location-united-states",
+      "from_node_id": "video-9PJJiut0Iuw",
+      "to_node_id": "location-united-states",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9PJJiut0Iuw",
+          "timestamp_start": 0,
+          "quote": "een passed down to him by the ancient Egyptians as he as he states in the timus and critius dialogues he took elements of that"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-9PJJiut0Iuw-MENTIONS-location-south-africa",
+      "from_node_id": "video-9PJJiut0Iuw",
+      "to_node_id": "location-south-africa",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9PJJiut0Iuw",
+          "timestamp_start": 0,
+          "quote": "976 I had some I had some expertise at least in the Horn of Africa in East Africa and I was able to gradually build up freelan"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-9PJJiut0Iuw-MENTIONS-location-mexico",
+      "from_node_id": "video-9PJJiut0Iuw",
+      "to_node_id": "location-mexico",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9PJJiut0Iuw",
+          "timestamp_start": 0,
+          "quote": " before they begin to accept it and those Footprints in New Mexico 23,000 year old human Footprints in New Mexico which are in"
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-9PJJiut0Iuw-discussion-summary",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-9PJJiut0Iuw-discussion-summary",
+      "relationship": "ASSERTED",
+      "confidence": 0.9,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9PJJiut0Iuw",
+          "timestamp_start": 0,
+          "quote": "Episode: Graham Hancock: The Great Pyramid Is a “Stargate” for Consciousness!"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-9PJJiut0Iuw-REFERENCES-claim-9PJJiut0Iuw-discussion-summary",
+      "from_node_id": "video-9PJJiut0Iuw",
+      "to_node_id": "claim-9PJJiut0Iuw-discussion-summary",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9PJJiut0Iuw",
+          "timestamp_start": 0
+        }
+      ]
+    },
+    {
+      "id": "edge-person-graham-hancock-ASSERTED-claim-9PJJiut0Iuw-hancock-dibble-debate-reveals-archaeology",
+      "from_node_id": "person-graham-hancock",
+      "to_node_id": "claim-9PJJiut0Iuw-hancock-dibble-debate-reveals-archaeology",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9PJJiut0Iuw",
+          "timestamp_start": 329,
+          "quote": "Hancock argues his JRE debate with Flint Dibble revealed mainstream archaeology's 'win at all costs' approach to alternative viewpoints — Dibble repeatedly claims to have 'destroyed Graham' despite Ha"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-9PJJiut0Iuw-REFERENCES-claim-9PJJiut0Iuw-hancock-dibble-debate-reveals-archaeology",
+      "from_node_id": "video-9PJJiut0Iuw",
+      "to_node_id": "claim-9PJJiut0Iuw-hancock-dibble-debate-reveals-archaeology",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9PJJiut0Iuw",
+          "timestamp_start": 329
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-9PJJiut0Iuw-hancock-dibble-debate-reveals-archaeology-REFERENCES-person-flint-dibble",
+      "from_node_id": "claim-9PJJiut0Iuw-hancock-dibble-debate-reveals-archaeology",
+      "to_node_id": "person-flint-dibble",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9PJJiut0Iuw",
+          "timestamp_start": 329
+        }
+      ]
+    },
+    {
+      "id": "edge-person-graham-hancock-ASSERTED-claim-9PJJiut0Iuw-hancock-first-time-milky-way-knowledge",
+      "from_node_id": "person-graham-hancock",
+      "to_node_id": "claim-9PJJiut0Iuw-hancock-first-time-milky-way-knowledge",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9PJJiut0Iuw",
+          "timestamp_start": 321,
+          "quote": "Hancock posits that antediluvian secret societies preserve astronomical knowledge of 'the First Time' — including Milky-Way-journey cosmology via what is paradoxically called the 'underworld' in Egypt"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-9PJJiut0Iuw-REFERENCES-claim-9PJJiut0Iuw-hancock-first-time-milky-way-knowledge",
+      "from_node_id": "video-9PJJiut0Iuw",
+      "to_node_id": "claim-9PJJiut0Iuw-hancock-first-time-milky-way-knowledge",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9PJJiut0Iuw",
+          "timestamp_start": 321
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-9PJJiut0Iuw-hancock-first-time-milky-way-knowledge-REFERENCES-concept-secret-societies-first-time",
+      "from_node_id": "claim-9PJJiut0Iuw-hancock-first-time-milky-way-knowledge",
+      "to_node_id": "concept-secret-societies-first-time",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9PJJiut0Iuw",
+          "timestamp_start": 321
+        }
+      ]
+    },
+    {
+      "id": "edge-person-graham-hancock-ASSERTED-claim-9PJJiut0Iuw-hancock-ethiopia-axum-ark",
+      "from_node_id": "person-graham-hancock",
+      "to_node_id": "claim-9PJJiut0Iuw-hancock-ethiopia-axum-ark",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9PJJiut0Iuw",
+          "timestamp_start": 357,
+          "quote": "Hancock: Ethiopia is the only country in the world that claims to have the Ark of the Covenant — specifically at Axum in Tigray province; Hancock 'ate it, slept it, breathed it' for years as his first"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-9PJJiut0Iuw-REFERENCES-claim-9PJJiut0Iuw-hancock-ethiopia-axum-ark",
+      "from_node_id": "video-9PJJiut0Iuw",
+      "to_node_id": "claim-9PJJiut0Iuw-hancock-ethiopia-axum-ark",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9PJJiut0Iuw",
+          "timestamp_start": 357
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-9PJJiut0Iuw-hancock-ethiopia-axum-ark-REFERENCES-document-ark-of-covenant-axum",
+      "from_node_id": "claim-9PJJiut0Iuw-hancock-ethiopia-axum-ark",
+      "to_node_id": "document-ark-of-covenant-axum",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9PJJiut0Iuw",
+          "timestamp_start": 357
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-9PJJiut0Iuw-hancock-ethiopia-axum-ark-REFERENCES-location-axum-ethiopia",
+      "from_node_id": "claim-9PJJiut0Iuw-hancock-ethiopia-axum-ark",
+      "to_node_id": "location-axum-ethiopia",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9PJJiut0Iuw",
+          "timestamp_start": 357
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-9PJJiut0Iuw-hancock-ancient-apocalypse-s2-keanu",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-9PJJiut0Iuw-hancock-ancient-apocalypse-s2-keanu",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9PJJiut0Iuw",
+          "timestamp_start": 331,
+          "quote": "Ancient Apocalypse Season 2 features cameos from actors like Keanu Reeves and deep numerology/astronomy content — moving Hancock beyond the point of cancellation."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-9PJJiut0Iuw-REFERENCES-claim-9PJJiut0Iuw-hancock-ancient-apocalypse-s2-keanu",
+      "from_node_id": "video-9PJJiut0Iuw",
+      "to_node_id": "claim-9PJJiut0Iuw-hancock-ancient-apocalypse-s2-keanu",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9PJJiut0Iuw",
+          "timestamp_start": 331
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-9PJJiut0Iuw-hancock-ancient-apocalypse-s2-keanu-REFERENCES-person-graham-hancock",
+      "from_node_id": "claim-9PJJiut0Iuw-hancock-ancient-apocalypse-s2-keanu",
+      "to_node_id": "person-graham-hancock",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9PJJiut0Iuw",
+          "timestamp_start": 331
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-9PJJiut0Iuw-hancock-ancient-apocalypse-s2-keanu-REFERENCES-document-ancient-apocalypse-s2",
+      "from_node_id": "claim-9PJJiut0Iuw-hancock-ancient-apocalypse-s2-keanu",
+      "to_node_id": "document-ancient-apocalypse-s2",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "9PJJiut0Iuw",
+          "timestamp_start": 331
+        }
+      ]
+    }
+  ],
+  "extracted_at": "2026-04-17T12:55:45.387178+00:00",
+  "extractor_version": "v1-inline-claude"
+}

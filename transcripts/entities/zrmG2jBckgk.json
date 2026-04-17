@@ -1,0 +1,1312 @@
+{
+  "video_id": "zrmG2jBckgk",
+  "nodes": [
+    {
+      "id": "video-zrmG2jBckgk",
+      "node_type": "video",
+      "label": "Meet the Scientist Who Scanned Beneath the Pyramids",
+      "summary": "Our American Alchemist this week is Filippo Biondi.\n\nThis was one of my favorite interviews. Radar engineer Filippo Biondi just dropped the most explosive finding ever reported at Giza: eight...",
+      "tags": [
+        "video",
+        "american-alchemy"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:26.798900+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "zrmG2jBckgk",
+          "timestamp_start": 0,
+          "timestamp_end": 6689.0,
+          "quote": "Video: Meet the Scientist Who Scanned Beneath the Pyramids"
+        }
+      ],
+      "type_specific": {
+        "video_id": "zrmG2jBckgk",
+        "title": "Meet the Scientist Who Scanned Beneath the Pyramids",
+        "url": "https://www.youtube.com/watch?v=zrmG2jBckgk",
+        "view_count": 600537,
+        "duration_seconds": 6689.0,
+        "host_id": "person-jesse-michels"
+      }
+    },
+    {
+      "id": "person-jesse-michels",
+      "node_type": "person",
+      "label": "Jesse Michels",
+      "summary": "Host of American Alchemy podcast/show. Independent journalist and UFO/NHI researcher.",
+      "tags": [
+        "journalist",
+        "interviewer",
+        "researcher",
+        "host"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:26.798911+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "zrmG2jBckgk",
+          "timestamp_start": 0,
+          "quote": "Host of American Alchemy podcast/show."
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Jesse",
+          "Michels"
+        ],
+        "profession": "journalist",
+        "notability_tags": [
+          "journalist",
+          "interviewer",
+          "researcher",
+          "host"
+        ]
+      }
+    },
+    {
+      "id": "person-graham-hancock",
+      "node_type": "person",
+      "label": "Graham Hancock",
+      "summary": "",
+      "tags": [
+        "author",
+        "ancient history"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:27.021813+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "zrmG2jBckgk",
+          "timestamp_start": 0,
+          "quote": "d we don't epicenter of that kind of discussion because you Graham Hancock and Robert Shock who since the '9s you know, possibly limes"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Hancock"
+        ],
+        "notability_tags": [
+          "author",
+          "ancient history"
+        ]
+      }
+    },
+    {
+      "id": "person-timothy-good",
+      "node_type": "person",
+      "label": "Timothy Good",
+      "summary": "",
+      "tags": [
+        "researcher",
+        "author"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:27.021830+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "zrmG2jBckgk",
+          "timestamp_start": 0,
+          "quote": "ble  So it's just it's just really amazing. Like you have a good theory on how they were built? theory I don't have my own t"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Tim Good",
+          "Good"
+        ],
+        "notability_tags": [
+          "researcher",
+          "author"
+        ]
+      }
+    },
+    {
+      "id": "organization-international-ufo-museum-and-research-center",
+      "node_type": "organization",
+      "label": "International UFO Museum and Research Center",
+      "summary": "The International UFO Museum and Research Center is located in Roswell, New Mexico, United States, in the downtown district, and is focused largely on the 1947 Roswell Crash and later supposed UFO incidents in the United States and elsewhere. It was founded in 1991 as a 501c3 nonprofit educational o",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:27.021837+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "zrmG2jBckgk",
+          "timestamp_start": 0,
+          "quote": "ou is another kettle of fish. compiling a project proposal. center. So me Armando and Corvando and we can University of Ferrar"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-the-report-on-unidentified-flying-objects",
+      "node_type": "organization",
+      "label": "The Report on Unidentified Flying Objects",
+      "summary": "The Report on Unidentified Flying Objects is a 1956 book by then-retired Air Force UFO investigator Edward J. Ruppelt, detailing his experience running Project Blue Book. The book was noted for its suggestion that a few UFO sightings might be linked to spikes of atomic radiation. Contemporary media ",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:27.021843+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "zrmG2jBckgk",
+          "timestamp_start": 0,
+          "quote": "llites to perform just bouncing radio waves off of physical objects. with finer resolution essentially. And so how this that is"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-archives-of-the-impossible",
+      "node_type": "organization",
+      "label": "Archives of the Impossible",
+      "summary": "The Archives of the Impossible (AOTI), sometimes called the Center for the Impossible, is a special collection at Rice University in Houston, Texas, United States. Founded in 2014 by Jeffrey J. Kripal, AOTI is based at the Woodson Research Center in the Fondren Library. It stewards collections on UF",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:27.021848+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "zrmG2jBckgk",
+          "timestamp_start": 0,
+          "quote": "s that are underneath is It's difficult. Yeah. But it's not impossible. that we have that we have made is this. know everything ab"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-us-department-of-defense",
+      "node_type": "organization",
+      "label": "US Department of Defense",
+      "summary": "US Department of Defense entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:27.021853+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "zrmG2jBckgk",
+          "timestamp_start": 0,
+          "quote": "ic aperture which I think are responsible for some of these defense and commercial applications as well. Yes. you that you said"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-roswell-that-ends-well",
+      "node_type": "organization",
+      "label": "Roswell That Ends Well",
+      "summary": "\"Roswell That Ends Well\" is the nineteenth episode in the third season of the American animated television series Futurama, and the 51st episode of the series overall. It originally aired on the Fox network in the United States on December 9, 2001. The plot centers on an accidental time travel event",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:27.021857+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "zrmG2jBckgk",
+          "timestamp_start": 0,
+          "quote": "le for some of these defense and commercial applications as well. Yes. you that you said they yes they are American company."
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-the-galileo-project",
+      "node_type": "organization",
+      "label": "The Galileo Project",
+      "summary": "The Galileo Project is an international scientific research project to search for extraterrestrial intelligence or extraterrestrial technology on and near Earth and to identify the nature of anomalous Unidentified Flying Objects/Unidentified Aerial Phenomena (UFOs/UAP). It was launched in 2021 by Ha",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:27.021862+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "zrmG2jBckgk",
+          "timestamp_start": 0,
+          "quote": "me a lot of confidence that are the next steps of the Kafra project? all the scanning. We are completing we are nearly  scannin"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-project-blue-book",
+      "node_type": "organization",
+      "label": "Project Blue Book",
+      "summary": "USAF UFO investigation program active from 1952 to 1969.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:27.021866+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "zrmG2jBckgk",
+          "timestamp_start": 0,
+          "quote": "rce also everything is it's in my article or not it's in my book  this so something no money only for humanity according to "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-world-contact-day",
+      "node_type": "organization",
+      "label": "World Contact Day",
+      "summary": "World Contact Day was first declared in March 1953 by an organization called the International Flying Saucer Bureau (IFSB), as a day on which all IFSB members would attempt to send a telepathic message into space. The IFSB voted to hold such a day in 1953, theorising that if both telepathy and alien",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:27.021871+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "zrmG2jBckgk",
+          "timestamp_start": 0,
+          "quote": "materials. We need gold today. Gold is going up every every day. Why? Because in We need rare earth materials for our devic"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-manhattan-project",
+      "node_type": "organization",
+      "label": "Manhattan Project",
+      "summary": "",
+      "tags": [
+        "government_agency"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:27.021875+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "zrmG2jBckgk",
+          "timestamp_start": 0,
+          "quote": "rtant for the American atomic program.  very high up in the Manhattan Project. you know, it's been a subject of long-standing interest, g"
+        }
+      ],
+      "type_specific": {
+        "org_type": "government_agency"
+      }
+    },
+    {
+      "id": "organization-big-sur-ufo",
+      "node_type": "organization",
+      "label": "Big Sur UFO",
+      "summary": "The Big Sur UFO is a reported UFO incident that took place during a 1964 Air Force deployment to a mountaintop near Big Sur, California. The deployment was a mission was to film Atlas missile tests from Vandenberg Air Force Base. Since 1982, Robert Jacobs, who had overseen the mountaintop team, has ",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:27.021880+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "zrmG2jBckgk",
+          "timestamp_start": 0,
+          "quote": "et the fit exactly right, be a hit for anyone who loved the UFO cowboy or a lot of things that didn't meet our standards,  "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "location-italy",
+      "node_type": "location",
+      "label": "Italy",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:27.021884+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "zrmG2jBckgk",
+          "timestamp_start": 0,
+          "quote": "onor to speak with you today. I'm here in beautiful Peruja, Italy. Thank you we made a very great discovery in Jza. with Cord"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-peru",
+      "node_type": "location",
+      "label": "Peru",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:27.021888+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "zrmG2jBckgk",
+          "timestamp_start": 0,
+          "quote": ". So, how do you get around that? I'm  done some stories in Peru and they're they have gatekeepers as well and it's extremel"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "claim-zrmG2jBckgk-discussion-summary",
+      "node_type": "claim",
+      "label": "Video zrmG2jBckgk features extended discussion of Graham Hancock, Timothy Good and related UAP resea",
+      "summary": "Video zrmG2jBckgk features extended discussion of Graham Hancock, Timothy Good and related UAP research topics, hosted by Jesse Michels.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:27.021896+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "zrmG2jBckgk",
+          "timestamp_start": 0,
+          "quote": "Episode title: Meet the Scientist Who Scanned Beneath the Pyramids"
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Video zrmG2jBckgk features extended discussion of Graham Hancock, Timothy Good and related UAP research topics, hosted by Jesse Michels.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "zrmG2jBckgk",
+        "timestamp_start_seconds": 0,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-graham-hancock",
+          "person-timothy-good",
+          "video-zrmG2jBckgk"
+        ]
+      }
+    },
+    {
+      "id": "person-corrado-malanga",
+      "node_type": "person",
+      "label": "Corrado Malanga",
+      "summary": "Italian chemist and UFO researcher; head of the research group that developed the photon-phonon synthetic aperture radar technique for sub-surface earth scanning; scanned beneath the Giza pyramids and published the results.",
+      "tags": [
+        "researcher",
+        "Italy",
+        "academic"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.006105+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "zrmG2jBckgk",
+          "timestamp_start": 589,
+          "quote": "Italian researcher; Giza pyramid SAR-phonon scan lead"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Malanga"
+        ],
+        "profession": "chemist / researcher",
+        "notability_tags": [
+          "researcher",
+          "Italy",
+          "academic"
+        ]
+      }
+    },
+    {
+      "id": "person-zahi-hawass",
+      "node_type": "person",
+      "label": "Zahi Hawass",
+      "summary": "Former Egyptian Minister of Culture; historically blocked alternative-archaeology investigations of the Sphinx enclosure and subterranean Giza.",
+      "tags": [
+        "Egypt",
+        "official"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.006107+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "zrmG2jBckgk",
+          "timestamp_start": 635,
+          "quote": "Former Egyptian Minister of Culture; pyramid gatekeeper"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Hawass",
+          "Zahi Was"
+        ],
+        "profession": "egyptologist",
+        "notability_tags": [
+          "Egypt",
+          "official"
+        ]
+      }
+    },
+    {
+      "id": "concept-photon-phonon-sar",
+      "node_type": "concept",
+      "label": "Photon-Phonon Synthetic Aperture Radar",
+      "summary": "Malanga's team's imaging technique combining photon-based synthetic aperture radar (from satellites like COSMO-SkyMed) with earth-vibration phonon data; enables sub-surface tomographic imaging to kilometer depth with sub-meter resolution.",
+      "tags": [
+        "technology"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.006109+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "zrmG2jBckgk",
+          "timestamp_start": 605,
+          "timestamp_end": "Malanga's technique combining SAR and phonon (earth vibration) data"
+        }
+      ],
+      "type_specific": {
+        "concept_domain": "technology"
+      }
+    },
+    {
+      "id": "concept-giza-subterranean-tubes",
+      "node_type": "concept",
+      "label": "Giza Subterranean Tube-Spiral Structures",
+      "summary": "Per Malanga's SAR-phonon scan: beneath the Khafre (middle) pyramid are tube-like structures with spiral interiors (possibly piezoelectric material) descending over 1 km deep and connecting to four +4 cube chambers and ~80m-wide chambers at depth.",
+      "tags": [
+        "technology"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.006111+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "zrmG2jBckgk",
+          "timestamp_start": 585,
+          "timestamp_end": "Malanga's imaging of tube structures with spiral interiors beneath pyramids"
+        }
+      ],
+      "type_specific": {
+        "concept_domain": "technology"
+      }
+    },
+    {
+      "id": "claim-zrmG2jBckgk-malanga-1km-depth-tubes",
+      "node_type": "claim",
+      "label": "Malanga's SAR-phonon scan detected tube structures with spiral interiors beneath the Khafre pyramid ",
+      "summary": "Malanga's SAR-phonon scan detected tube structures with spiral interiors beneath the Khafre pyramid descending over a kilometer in depth.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.030698+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "zrmG2jBckgk",
+          "timestamp_start": 585,
+          "quote": "The structures are like tubes that are connected to the base of the Khafre pyramid to something that is located — over 1 kilometer of depth."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Malanga's SAR-phonon scan detected tube structures with spiral interiors beneath the Khafre pyramid descending over a kilometer in depth.",
+        "asserted_by_id": "person-corrado-malanga",
+        "source_video_id": "zrmG2jBckgk",
+        "timestamp_start_seconds": 585,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-corrado-malanga",
+          "concept-giza-subterranean-tubes",
+          "concept-photon-phonon-sar"
+        ]
+      }
+    },
+    {
+      "id": "claim-zrmG2jBckgk-malanga-80m-chambers",
+      "node_type": "claim",
+      "label": "The scan also detected ~80m-wide chambers with 4+4 cube arrangements in subterranean Giza — massive ",
+      "summary": "The scan also detected ~80m-wide chambers with 4+4 cube arrangements in subterranean Giza — massive artificial-seeming void structures.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.030712+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "zrmG2jBckgk",
+          "timestamp_start": 597,
+          "quote": "Huge chambers for approximately 80 m wide on the bottom. Tubes that are connected to four + four cubes that are descending."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "The scan also detected ~80m-wide chambers with 4+4 cube arrangements in subterranean Giza — massive artificial-seeming void structures.",
+        "asserted_by_id": "person-corrado-malanga",
+        "source_video_id": "zrmG2jBckgk",
+        "timestamp_start_seconds": 597,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-corrado-malanga",
+          "concept-giza-subterranean-tubes"
+        ]
+      }
+    },
+    {
+      "id": "claim-zrmG2jBckgk-malanga-piezoelectric-spirals",
+      "node_type": "claim",
+      "label": "Malanga posits the spiral structures beneath the pyramid may be made of piezoelectric material — imp",
+      "summary": "Malanga posits the spiral structures beneath the pyramid may be made of piezoelectric material — implying intentional engineered function rather than natural geology.",
+      "tags": [
+        "speculation",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.030718+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "zrmG2jBckgk",
+          "timestamp_start": 585,
+          "quote": "The spirals are made by piezoelectric material."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Malanga posits the spiral structures beneath the pyramid may be made of piezoelectric material — implying intentional engineered function rather than natural geology.",
+        "asserted_by_id": "person-corrado-malanga",
+        "source_video_id": "zrmG2jBckgk",
+        "timestamp_start_seconds": 585,
+        "assertability": "speculation",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-corrado-malanga",
+          "concept-giza-subterranean-tubes"
+        ]
+      }
+    },
+    {
+      "id": "claim-zrmG2jBckgk-sar-phonon-technique-novel",
+      "node_type": "claim",
+      "label": "Malanga's photon-phonon synthetic-aperture-radar technique is novel; conventional SAR cannot penetra",
+      "summary": "Malanga's photon-phonon synthetic-aperture-radar technique is novel; conventional SAR cannot penetrate earth subsurface — his team combined photon and phonon propagation at material boundaries to enable tomographic inversion.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.030724+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "zrmG2jBckgk",
+          "timestamp_start": 605,
+          "quote": "Radar synthetic aperture cannot penetrate the earth. We have developed a new technique combining photon and phonon at the boundary. Tomographic inversion."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Malanga's photon-phonon synthetic-aperture-radar technique is novel; conventional SAR cannot penetrate earth subsurface — his team combined photon and phonon propagation at material boundaries to enable tomographic inversion.",
+        "asserted_by_id": "person-corrado-malanga",
+        "source_video_id": "zrmG2jBckgk",
+        "timestamp_start_seconds": 605,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-corrado-malanga",
+          "concept-photon-phonon-sar"
+        ]
+      }
+    },
+    {
+      "id": "claim-zrmG2jBckgk-malanga-cosmo-skymed-data",
+      "node_type": "claim",
+      "label": "Malanga's team used Italian Space Agency COSMO-SkyMed satellite data plus National Research Council ",
+      "summary": "Malanga's team used Italian Space Agency COSMO-SkyMed satellite data plus National Research Council of Italy collaboration for the Giza sub-surface imaging.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.030730+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "zrmG2jBckgk",
+          "timestamp_start": 601,
+          "quote": "We have COSMO-SkyMed affiliated to the Italian space agency. Data produced by these satellites to perform. National Research Council of Italy."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Malanga's team used Italian Space Agency COSMO-SkyMed satellite data plus National Research Council of Italy collaboration for the Giza sub-surface imaging.",
+        "asserted_by_id": "person-corrado-malanga",
+        "source_video_id": "zrmG2jBckgk",
+        "timestamp_start_seconds": 601,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-corrado-malanga",
+          "concept-photon-phonon-sar"
+        ]
+      }
+    },
+    {
+      "id": "claim-zrmG2jBckgk-malanga-for-humanity-open-source",
+      "node_type": "claim",
+      "label": "Malanga's Giza work was motivated 'for humanity' — published open-source with no commercial intent; ",
+      "summary": "Malanga's Giza work was motivated 'for humanity' — published open-source with no commercial intent; his book documents full methodology.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.030736+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "zrmG2jBckgk",
+          "timestamp_start": 631,
+          "quote": "We were motivated very motivated to humanity. According to my friend in 2019 Corrado Malanga. Everything is open source."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Malanga's Giza work was motivated 'for humanity' — published open-source with no commercial intent; his book documents full methodology.",
+        "asserted_by_id": "person-corrado-malanga",
+        "source_video_id": "zrmG2jBckgk",
+        "timestamp_start_seconds": 631,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-corrado-malanga"
+        ]
+      }
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge-video-zrmG2jBckgk-HOSTED_BY-person-jesse-michels",
+      "from_node_id": "video-zrmG2jBckgk",
+      "to_node_id": "person-jesse-michels",
+      "relationship": "HOSTED_BY",
+      "confidence": 0.99,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "zrmG2jBckgk",
+          "timestamp_start": 0,
+          "quote": "Jesse hosting"
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-APPEARED_IN-video-zrmG2jBckgk",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "video-zrmG2jBckgk",
+      "relationship": "APPEARED_IN",
+      "confidence": 0.99,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "zrmG2jBckgk",
+          "timestamp_start": 0,
+          "quote": "Host"
+        }
+      ],
+      "properties": {
+        "appearance_type": "host"
+      }
+    },
+    {
+      "id": "edge-video-zrmG2jBckgk-MENTIONS-person-graham-hancock",
+      "from_node_id": "video-zrmG2jBckgk",
+      "to_node_id": "person-graham-hancock",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "zrmG2jBckgk",
+          "timestamp_start": 0,
+          "quote": "d we don't epicenter of that kind of discussion because you Graham Hancock and Robert Shock who since the '9s you know, possibly limes"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-zrmG2jBckgk-MENTIONS-person-timothy-good",
+      "from_node_id": "video-zrmG2jBckgk",
+      "to_node_id": "person-timothy-good",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "zrmG2jBckgk",
+          "timestamp_start": 0,
+          "quote": "ble  So it's just it's just really amazing. Like you have a good theory on how they were built? theory I don't have my own t"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-zrmG2jBckgk-MENTIONS-organization-international-ufo-museum-and-research-center",
+      "from_node_id": "video-zrmG2jBckgk",
+      "to_node_id": "organization-international-ufo-museum-and-research-center",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "zrmG2jBckgk",
+          "timestamp_start": 0,
+          "quote": "ou is another kettle of fish. compiling a project proposal. center. So me Armando and Corvando and we can University of Ferrar"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-zrmG2jBckgk-MENTIONS-organization-the-report-on-unidentified-flying-objects",
+      "from_node_id": "video-zrmG2jBckgk",
+      "to_node_id": "organization-the-report-on-unidentified-flying-objects",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "zrmG2jBckgk",
+          "timestamp_start": 0,
+          "quote": "llites to perform just bouncing radio waves off of physical objects. with finer resolution essentially. And so how this that is"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-zrmG2jBckgk-MENTIONS-organization-archives-of-the-impossible",
+      "from_node_id": "video-zrmG2jBckgk",
+      "to_node_id": "organization-archives-of-the-impossible",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "zrmG2jBckgk",
+          "timestamp_start": 0,
+          "quote": "s that are underneath is It's difficult. Yeah. But it's not impossible. that we have that we have made is this. know everything ab"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-zrmG2jBckgk-MENTIONS-organization-us-department-of-defense",
+      "from_node_id": "video-zrmG2jBckgk",
+      "to_node_id": "organization-us-department-of-defense",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "zrmG2jBckgk",
+          "timestamp_start": 0,
+          "quote": "ic aperture which I think are responsible for some of these defense and commercial applications as well. Yes. you that you said"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-zrmG2jBckgk-MENTIONS-organization-roswell-that-ends-well",
+      "from_node_id": "video-zrmG2jBckgk",
+      "to_node_id": "organization-roswell-that-ends-well",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "zrmG2jBckgk",
+          "timestamp_start": 0,
+          "quote": "le for some of these defense and commercial applications as well. Yes. you that you said they yes they are American company."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-zrmG2jBckgk-MENTIONS-organization-the-galileo-project",
+      "from_node_id": "video-zrmG2jBckgk",
+      "to_node_id": "organization-the-galileo-project",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "zrmG2jBckgk",
+          "timestamp_start": 0,
+          "quote": "me a lot of confidence that are the next steps of the Kafra project? all the scanning. We are completing we are nearly  scannin"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-zrmG2jBckgk-MENTIONS-organization-project-blue-book",
+      "from_node_id": "video-zrmG2jBckgk",
+      "to_node_id": "organization-project-blue-book",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "zrmG2jBckgk",
+          "timestamp_start": 0,
+          "quote": "rce also everything is it's in my article or not it's in my book  this so something no money only for humanity according to "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-zrmG2jBckgk-MENTIONS-organization-world-contact-day",
+      "from_node_id": "video-zrmG2jBckgk",
+      "to_node_id": "organization-world-contact-day",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "zrmG2jBckgk",
+          "timestamp_start": 0,
+          "quote": "materials. We need gold today. Gold is going up every every day. Why? Because in We need rare earth materials for our devic"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-zrmG2jBckgk-MENTIONS-organization-manhattan-project",
+      "from_node_id": "video-zrmG2jBckgk",
+      "to_node_id": "organization-manhattan-project",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "zrmG2jBckgk",
+          "timestamp_start": 0,
+          "quote": "rtant for the American atomic program.  very high up in the Manhattan Project. you know, it's been a subject of long-standing interest, g"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-zrmG2jBckgk-MENTIONS-organization-big-sur-ufo",
+      "from_node_id": "video-zrmG2jBckgk",
+      "to_node_id": "organization-big-sur-ufo",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "zrmG2jBckgk",
+          "timestamp_start": 0,
+          "quote": "et the fit exactly right, be a hit for anyone who loved the UFO cowboy or a lot of things that didn't meet our standards,  "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-zrmG2jBckgk-MENTIONS-location-italy",
+      "from_node_id": "video-zrmG2jBckgk",
+      "to_node_id": "location-italy",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "zrmG2jBckgk",
+          "timestamp_start": 0,
+          "quote": "onor to speak with you today. I'm here in beautiful Peruja, Italy. Thank you we made a very great discovery in Jza. with Cord"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-zrmG2jBckgk-MENTIONS-location-peru",
+      "from_node_id": "video-zrmG2jBckgk",
+      "to_node_id": "location-peru",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "zrmG2jBckgk",
+          "timestamp_start": 0,
+          "quote": ". So, how do you get around that? I'm  done some stories in Peru and they're they have gatekeepers as well and it's extremel"
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-zrmG2jBckgk-discussion-summary",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-zrmG2jBckgk-discussion-summary",
+      "relationship": "ASSERTED",
+      "confidence": 0.9,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "zrmG2jBckgk",
+          "timestamp_start": 0,
+          "quote": "Episode: Meet the Scientist Who Scanned Beneath the Pyramids"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-zrmG2jBckgk-REFERENCES-claim-zrmG2jBckgk-discussion-summary",
+      "from_node_id": "video-zrmG2jBckgk",
+      "to_node_id": "claim-zrmG2jBckgk-discussion-summary",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "zrmG2jBckgk",
+          "timestamp_start": 0
+        }
+      ]
+    },
+    {
+      "id": "edge-person-corrado-malanga-ASSERTED-claim-zrmG2jBckgk-malanga-1km-depth-tubes",
+      "from_node_id": "person-corrado-malanga",
+      "to_node_id": "claim-zrmG2jBckgk-malanga-1km-depth-tubes",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "zrmG2jBckgk",
+          "timestamp_start": 585,
+          "quote": "Malanga's SAR-phonon scan detected tube structures with spiral interiors beneath the Khafre pyramid descending over a kilometer in depth."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-zrmG2jBckgk-REFERENCES-claim-zrmG2jBckgk-malanga-1km-depth-tubes",
+      "from_node_id": "video-zrmG2jBckgk",
+      "to_node_id": "claim-zrmG2jBckgk-malanga-1km-depth-tubes",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "zrmG2jBckgk",
+          "timestamp_start": 585
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-zrmG2jBckgk-malanga-1km-depth-tubes-REFERENCES-concept-giza-subterranean-tubes",
+      "from_node_id": "claim-zrmG2jBckgk-malanga-1km-depth-tubes",
+      "to_node_id": "concept-giza-subterranean-tubes",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "zrmG2jBckgk",
+          "timestamp_start": 585
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-zrmG2jBckgk-malanga-1km-depth-tubes-REFERENCES-concept-photon-phonon-sar",
+      "from_node_id": "claim-zrmG2jBckgk-malanga-1km-depth-tubes",
+      "to_node_id": "concept-photon-phonon-sar",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "zrmG2jBckgk",
+          "timestamp_start": 585
+        }
+      ]
+    },
+    {
+      "id": "edge-person-corrado-malanga-ASSERTED-claim-zrmG2jBckgk-malanga-80m-chambers",
+      "from_node_id": "person-corrado-malanga",
+      "to_node_id": "claim-zrmG2jBckgk-malanga-80m-chambers",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "zrmG2jBckgk",
+          "timestamp_start": 597,
+          "quote": "The scan also detected ~80m-wide chambers with 4+4 cube arrangements in subterranean Giza — massive artificial-seeming void structures."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-zrmG2jBckgk-REFERENCES-claim-zrmG2jBckgk-malanga-80m-chambers",
+      "from_node_id": "video-zrmG2jBckgk",
+      "to_node_id": "claim-zrmG2jBckgk-malanga-80m-chambers",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "zrmG2jBckgk",
+          "timestamp_start": 597
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-zrmG2jBckgk-malanga-80m-chambers-REFERENCES-concept-giza-subterranean-tubes",
+      "from_node_id": "claim-zrmG2jBckgk-malanga-80m-chambers",
+      "to_node_id": "concept-giza-subterranean-tubes",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "zrmG2jBckgk",
+          "timestamp_start": 597
+        }
+      ]
+    },
+    {
+      "id": "edge-person-corrado-malanga-ASSERTED-claim-zrmG2jBckgk-malanga-piezoelectric-spirals",
+      "from_node_id": "person-corrado-malanga",
+      "to_node_id": "claim-zrmG2jBckgk-malanga-piezoelectric-spirals",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "zrmG2jBckgk",
+          "timestamp_start": 585,
+          "quote": "Malanga posits the spiral structures beneath the pyramid may be made of piezoelectric material — implying intentional engineered function rather than natural geology."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-zrmG2jBckgk-REFERENCES-claim-zrmG2jBckgk-malanga-piezoelectric-spirals",
+      "from_node_id": "video-zrmG2jBckgk",
+      "to_node_id": "claim-zrmG2jBckgk-malanga-piezoelectric-spirals",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "zrmG2jBckgk",
+          "timestamp_start": 585
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-zrmG2jBckgk-malanga-piezoelectric-spirals-REFERENCES-concept-giza-subterranean-tubes",
+      "from_node_id": "claim-zrmG2jBckgk-malanga-piezoelectric-spirals",
+      "to_node_id": "concept-giza-subterranean-tubes",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "zrmG2jBckgk",
+          "timestamp_start": 585
+        }
+      ]
+    },
+    {
+      "id": "edge-person-corrado-malanga-ASSERTED-claim-zrmG2jBckgk-sar-phonon-technique-novel",
+      "from_node_id": "person-corrado-malanga",
+      "to_node_id": "claim-zrmG2jBckgk-sar-phonon-technique-novel",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "zrmG2jBckgk",
+          "timestamp_start": 605,
+          "quote": "Malanga's photon-phonon synthetic-aperture-radar technique is novel; conventional SAR cannot penetrate earth subsurface — his team combined photon and phonon propagation at material boundaries to enab"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-zrmG2jBckgk-REFERENCES-claim-zrmG2jBckgk-sar-phonon-technique-novel",
+      "from_node_id": "video-zrmG2jBckgk",
+      "to_node_id": "claim-zrmG2jBckgk-sar-phonon-technique-novel",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "zrmG2jBckgk",
+          "timestamp_start": 605
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-zrmG2jBckgk-sar-phonon-technique-novel-REFERENCES-concept-photon-phonon-sar",
+      "from_node_id": "claim-zrmG2jBckgk-sar-phonon-technique-novel",
+      "to_node_id": "concept-photon-phonon-sar",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "zrmG2jBckgk",
+          "timestamp_start": 605
+        }
+      ]
+    },
+    {
+      "id": "edge-person-corrado-malanga-ASSERTED-claim-zrmG2jBckgk-malanga-cosmo-skymed-data",
+      "from_node_id": "person-corrado-malanga",
+      "to_node_id": "claim-zrmG2jBckgk-malanga-cosmo-skymed-data",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "zrmG2jBckgk",
+          "timestamp_start": 601,
+          "quote": "Malanga's team used Italian Space Agency COSMO-SkyMed satellite data plus National Research Council of Italy collaboration for the Giza sub-surface imaging."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-zrmG2jBckgk-REFERENCES-claim-zrmG2jBckgk-malanga-cosmo-skymed-data",
+      "from_node_id": "video-zrmG2jBckgk",
+      "to_node_id": "claim-zrmG2jBckgk-malanga-cosmo-skymed-data",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "zrmG2jBckgk",
+          "timestamp_start": 601
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-zrmG2jBckgk-malanga-cosmo-skymed-data-REFERENCES-concept-photon-phonon-sar",
+      "from_node_id": "claim-zrmG2jBckgk-malanga-cosmo-skymed-data",
+      "to_node_id": "concept-photon-phonon-sar",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "zrmG2jBckgk",
+          "timestamp_start": 601
+        }
+      ]
+    },
+    {
+      "id": "edge-person-corrado-malanga-ASSERTED-claim-zrmG2jBckgk-malanga-for-humanity-open-source",
+      "from_node_id": "person-corrado-malanga",
+      "to_node_id": "claim-zrmG2jBckgk-malanga-for-humanity-open-source",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "zrmG2jBckgk",
+          "timestamp_start": 631,
+          "quote": "Malanga's Giza work was motivated 'for humanity' — published open-source with no commercial intent; his book documents full methodology."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-zrmG2jBckgk-REFERENCES-claim-zrmG2jBckgk-malanga-for-humanity-open-source",
+      "from_node_id": "video-zrmG2jBckgk",
+      "to_node_id": "claim-zrmG2jBckgk-malanga-for-humanity-open-source",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "zrmG2jBckgk",
+          "timestamp_start": 631
+        }
+      ]
+    }
+  ],
+  "extracted_at": "2026-04-17T12:49:16.030741+00:00",
+  "extractor_version": "v1-inline-claude"
+}

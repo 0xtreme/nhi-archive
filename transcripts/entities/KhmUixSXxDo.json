@@ -1,0 +1,1353 @@
+{
+  "video_id": "KhmUixSXxDo",
+  "nodes": [
+    {
+      "id": "video-KhmUixSXxDo",
+      "node_type": "video",
+      "label": "Alex Jones Getting Drunk & Painting Rocks [INTERVIEW]",
+      "summary": "Alex Jones started the controversial media outlet infowars over two decades ago. He’s gotten a lot wrong, but also gotten a few things very right. And is a fascinating figure worth talking...",
+      "tags": [
+        "video",
+        "american-alchemy"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:20.910679+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KhmUixSXxDo",
+          "timestamp_start": 0,
+          "timestamp_end": 3586.0,
+          "quote": "Video: Alex Jones Getting Drunk & Painting Rocks [INTERVIEW]"
+        }
+      ],
+      "type_specific": {
+        "video_id": "KhmUixSXxDo",
+        "title": "Alex Jones Getting Drunk & Painting Rocks [INTERVIEW]",
+        "url": "https://www.youtube.com/watch?v=KhmUixSXxDo",
+        "view_count": 715482,
+        "duration_seconds": 3586.0,
+        "host_id": "person-jesse-michels"
+      }
+    },
+    {
+      "id": "person-jesse-michels",
+      "node_type": "person",
+      "label": "Jesse Michels",
+      "summary": "Host of American Alchemy podcast/show. Independent journalist and UFO/NHI researcher.",
+      "tags": [
+        "journalist",
+        "interviewer",
+        "researcher",
+        "host"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:20.910691+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KhmUixSXxDo",
+          "timestamp_start": 0,
+          "quote": "Host of American Alchemy podcast/show."
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Jesse",
+          "Michels"
+        ],
+        "profession": "journalist",
+        "notability_tags": [
+          "journalist",
+          "interviewer",
+          "researcher",
+          "host"
+        ]
+      }
+    },
+    {
+      "id": "person-love-has-won",
+      "node_type": "person",
+      "label": "Love Has Won",
+      "summary": "Love Has Won (LHW), also known as the Galactic Federation of Light, is an American new religious movement that was led by Amy Carlson until her death in 2021. Carlson was referred to within the group as \"Mother God\", who described herself as, among other things, the creator of the universe, with the",
+      "tags": [
+        "wikipedia",
+        "2007 establishments in colorado",
+        "ancient astronaut speculation",
+        "covid-19 vaccine misinformation and hesitancy",
+        "climate change denial in the united states",
+        "holocaust denial in the united states",
+        "new age organizations",
+        "new religious movements established in the 2000s",
+        "qanon",
+        "religious belief systems founded in the united states",
+        "religious controversies in the united states",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:21.322122+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KhmUixSXxDo",
+          "timestamp_start": 0,
+          "quote": "dy else, self censoring  because you feel like social media won't allow you to say anything and you're repressed. You look "
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "LOVE HAS WON",
+          "Won",
+          "love has won"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "2007 establishments in colorado",
+          "ancient astronaut speculation",
+          "covid-19 vaccine misinformation and hesitancy",
+          "climate change denial in the united states",
+          "holocaust denial in the united states",
+          "new age organizations",
+          "new religious movements established in the 2000s",
+          "qanon",
+          "religious belief systems founded in the united states",
+          "religious controversies in the united states",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "person-timothy-good",
+      "node_type": "person",
+      "label": "Timothy Good",
+      "summary": "",
+      "tags": [
+        "researcher",
+        "author"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:21.322143+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KhmUixSXxDo",
+          "timestamp_start": 0,
+          "quote": "ry beautiful woman, I was like, \"Mommy, I that looks really good. I like that.\" It goes without saying that my next guest ha"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Tim Good",
+          "Good"
+        ],
+        "notability_tags": [
+          "researcher",
+          "author"
+        ]
+      }
+    },
+    {
+      "id": "person-ed-mitchell",
+      "node_type": "person",
+      "label": "Ed Mitchell",
+      "summary": "",
+      "tags": [
+        "astronaut",
+        "Apollo 14"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:21.322148+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KhmUixSXxDo",
+          "timestamp_start": 0,
+          "quote": " right now? obviously all the, you know, Neil Young, Joanie Mitchell stuff, and then and then after that this compilation of him"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Edgar Mitchell",
+          "Mitchell"
+        ],
+        "notability_tags": [
+          "astronaut",
+          "Apollo 14"
+        ]
+      }
+    },
+    {
+      "id": "organization-international-ufo-museum-and-research-center",
+      "node_type": "organization",
+      "label": "International UFO Museum and Research Center",
+      "summary": "The International UFO Museum and Research Center is located in Roswell, New Mexico, United States, in the downtown district, and is focused largely on the 1947 Roswell Crash and later supposed UFO incidents in the United States and elsewhere. It was founded in 1991 as a 501c3 nonprofit educational o",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:21.322155+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KhmUixSXxDo",
+          "timestamp_start": 0,
+          "quote": "have ever guessed? like it feels like the neocon neoliberal center is the thing that's kind of imploding and losing everybody'"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-identification-studies-of-ufos",
+      "node_type": "organization",
+      "label": "Identification studies of UFOs",
+      "summary": "Identifying unidentified flying objects (UFOs) is a difficult task due to the normally poor quality of the evidence provided by those who report sighting the unknown object. Observations and subsequent reporting are often made by those untrained in astronomy, atmospheric phenomena, aeronautics, phys",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:21.322160+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KhmUixSXxDo",
+          "timestamp_start": 0,
+          "quote": "instream media, and its woes, weird science, parasychology, UFOs, esoteric philosophy, and his role as a societal scapegoat."
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-flying-saucer-working-party",
+      "node_type": "organization",
+      "label": "Flying Saucer Working Party",
+      "summary": "Flying Saucer Working Party (or FSWP) was the name of the United Kingdom Ministry of Defence’s (MOD) first \"official study into UFOs\", which has its roots in a study commissioned in 1950 by the MOD’s then Chief Scientific Adviser, the eminent radar scientist Sir Henry Tizard. As a result of his insi",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:21.322165+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KhmUixSXxDo",
+          "timestamp_start": 0,
+          "quote": " for sponsoring this show. DCC. Yes. Up with the Democratic Party. "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-the-flying-saucers-are-real",
+      "node_type": "organization",
+      "label": "The Flying Saucers Are Real",
+      "summary": "The Flying Saucers Are Real, by Donald Keyhoe, is a book that investigated reports of UFOs by United States Air Force fighters, personnel, and other aircraft, between 1947 and 1950.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:21.322170+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KhmUixSXxDo",
+          "timestamp_start": 0,
+          "quote": "e, \"No, Trump isn't invincible and it's not and QAnon's not real other than it's a disinfo group doing this.\" Do you switch "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-us-department-of-defense",
+      "node_type": "organization",
+      "label": "US Department of Defense",
+      "summary": "US Department of Defense entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:21.322175+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KhmUixSXxDo",
+          "timestamp_start": 0,
+          "quote": "ke them more like have higher self-efficacy. If you're in a defense state, if you think everything's bad, you're not going to l"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-roswell-that-ends-well",
+      "node_type": "organization",
+      "label": "Roswell That Ends Well",
+      "summary": "\"Roswell That Ends Well\" is the nineteenth episode in the third season of the American animated television series Futurama, and the 51st episode of the series overall. It originally aired on the Fox network in the United States on December 9, 2001. The plot centers on an accidental time travel event",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:21.322179+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KhmUixSXxDo",
+          "timestamp_start": 0,
+          "quote": " Bush, anti- the war in Iraq, and against neoconservatism.  Well, we just say we battle the censorship, and we promise not t"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-the-galileo-project",
+      "node_type": "organization",
+      "label": "The Galileo Project",
+      "summary": "The Galileo Project is an international scientific research project to search for extraterrestrial intelligence or extraterrestrial technology on and near Earth and to identify the nature of anomalous Unidentified Flying Objects/Unidentified Aerial Phenomena (UFOs/UAP). It was launched in 2021 by Ha",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:21.322184+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KhmUixSXxDo",
+          "timestamp_start": 0,
+          "quote": " is a confounding variable in every experiment and then you project onto that and then the architecture is built according to t"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-project-blue-book",
+      "node_type": "organization",
+      "label": "Project Blue Book",
+      "summary": "USAF UFO investigation program active from 1952 to 1969.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:21.322188+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KhmUixSXxDo",
+          "timestamp_start": 0,
+          "quote": "eriod. I'm I'm not  a super pro in life. I'm going to get a book that well you guys keep talking that's relevant to this. Th"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-world-contact-day",
+      "node_type": "organization",
+      "label": "World Contact Day",
+      "summary": "World Contact Day was first declared in March 1953 by an organization called the International Flying Saucer Bureau (IFSB), as a day on which all IFSB members would attempt to send a telepathic message into space. The IFSB voted to hold such a day in 1953, theorising that if both telepathy and alien",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:21.322192+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KhmUixSXxDo",
+          "timestamp_start": 0,
+          "quote": " a bizarre pagan scapegoating midsummer ritual that to this day I have no idea how to make sense of. When you snuck into th"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-condon-committee",
+      "node_type": "organization",
+      "label": "Condon Committee",
+      "summary": "Condon Committee entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:21.322197+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KhmUixSXxDo",
+          "timestamp_start": 0,
+          "quote": "y that goes to Bilderberg is bad, but the definite steering committee and the Klaus Schwab, you know, he's  he's been like, \"Yeah"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-big-sur-ufo",
+      "node_type": "organization",
+      "label": "Big Sur UFO",
+      "summary": "The Big Sur UFO is a reported UFO incident that took place during a 1964 Air Force deployment to a mountaintop near Big Sur, California. The deployment was a mission was to film Atlas missile tests from Vandenberg Air Force Base. Since 1982, Robert Jacobs, who had overseen the mountaintop team, has ",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:21.322201+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KhmUixSXxDo",
+          "timestamp_start": 0,
+          "quote": "led travels in hyper reality and it looks like there's some UFO like thing on the on the cover and he writes a lot about an"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-mirage-men",
+      "node_type": "organization",
+      "label": "Mirage Men",
+      "summary": "Mirage Men is a 2013 documentary film directed by John Lundberg, written by Mark Pilkington and co-directed by Roland Denning and Kypros Kyprianou. Mirage Men suggests there was a conspiracy by the U.S. military to fabricate UFO folklore in order to deflect attention from classified military project",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:21.322205+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KhmUixSXxDo",
+          "timestamp_start": 0,
+          "quote": " pagan ritual. And I'm standing there with about a thousand men watching it across the pond. The men had really crazy looks"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "location-russia",
+      "node_type": "location",
+      "label": "Russia",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:21.322210+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KhmUixSXxDo",
+          "timestamp_start": 0,
+          "quote": "hings. I think his mistake was he started responding to the Russia, he was a Russian agent lie and then made everything about "
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "claim-KhmUixSXxDo-discussion-summary",
+      "node_type": "claim",
+      "label": "Video KhmUixSXxDo features extended discussion of Love Has Won, Timothy Good, Ed Mitchell and relate",
+      "summary": "Video KhmUixSXxDo features extended discussion of Love Has Won, Timothy Good, Ed Mitchell and related UAP research topics, hosted by Jesse Michels.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:21.322220+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KhmUixSXxDo",
+          "timestamp_start": 0,
+          "quote": "Episode title: Alex Jones Getting Drunk & Painting Rocks [INTERVIEW]"
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Video KhmUixSXxDo features extended discussion of Love Has Won, Timothy Good, Ed Mitchell and related UAP research topics, hosted by Jesse Michels.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "KhmUixSXxDo",
+        "timestamp_start_seconds": 0,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-love-has-won",
+          "person-timothy-good",
+          "person-ed-mitchell",
+          "video-KhmUixSXxDo"
+        ]
+      }
+    },
+    {
+      "id": "person-alex-jones",
+      "node_type": "person",
+      "label": "Alex Jones",
+      "summary": "Founder of InfoWars; controversial American broadcaster. Started as populist-libertarian anti-war commentator (Richard Linklater's 'Waking Life' speech 2001); later evolved into lightning rod for mainstream-conspiracy discourse.",
+      "tags": [
+        "broadcaster",
+        "journalist",
+        "controversial"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.005974+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KhmUixSXxDo",
+          "timestamp_start": 73,
+          "quote": "InfoWars founder, conspiracy broadcaster"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Jones"
+        ],
+        "profession": "broadcaster",
+        "notability_tags": [
+          "broadcaster",
+          "journalist",
+          "controversial"
+        ]
+      }
+    },
+    {
+      "id": "person-richard-linklater",
+      "node_type": "person",
+      "label": "Richard Linklater",
+      "summary": "American filmmaker who featured Alex Jones in 'Waking Life' (2001).",
+      "tags": [
+        "filmmaker"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.005976+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KhmUixSXxDo",
+          "timestamp_start": 77,
+          "quote": "American filmmaker; Waking Life director"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Linklater"
+        ],
+        "profession": "filmmaker",
+        "notability_tags": [
+          "filmmaker"
+        ]
+      }
+    },
+    {
+      "id": "person-rene-girard",
+      "node_type": "person",
+      "label": "René Girard",
+      "summary": "French philosopher whose scapegoat-mechanism theory Jesse invokes to frame Alex Jones' role in public discourse as sacrificial archetype.",
+      "tags": [
+        "philosopher",
+        "historical"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.005978+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KhmUixSXxDo",
+          "timestamp_start": 113,
+          "quote": "French philosopher of mimetic theory and scapegoat mechanism"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Girard",
+          "Gerard"
+        ],
+        "profession": "philosopher",
+        "notability_tags": [
+          "philosopher",
+          "historical"
+        ]
+      }
+    },
+    {
+      "id": "event-bohemian-grove-infiltration-2000",
+      "node_type": "event",
+      "label": "Alex Jones Bohemian Grove Infiltration",
+      "summary": "July 2000: Alex Jones infiltrated the Bohemian Grove (Northern California elite secret society) and filmed the 'Cremation of Care' pagan midsummer ritual.",
+      "tags": [
+        "meeting"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.005983+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KhmUixSXxDo",
+          "timestamp_start": 93,
+          "timestamp_end": "Jones snuck into California secret society in 2000"
+        }
+      ],
+      "type_specific": {
+        "event_type": "meeting",
+        "date_approximate": "2000-07-15"
+      }
+    },
+    {
+      "id": "concept-cremation-of-care",
+      "node_type": "concept",
+      "label": "Cremation of Care Ritual",
+      "summary": "Pagan midsummer scapegoating ritual performed at Bohemian Grove; Jones describes fusion of Moloch worship, Faustian occultism, and druidic occultism among ~1,000 elite American male attendees.",
+      "tags": [
+        "metaphysics"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.005987+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KhmUixSXxDo",
+          "timestamp_start": 93,
+          "timestamp_end": "Pagan midsummer scapegoating ritual at Bohemian Grove"
+        }
+      ],
+      "type_specific": {
+        "concept_domain": "metaphysics"
+      }
+    },
+    {
+      "id": "location-bohemian-grove",
+      "node_type": "location",
+      "label": "Bohemian Grove",
+      "summary": "",
+      "tags": [
+        "observation_site"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.005989+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KhmUixSXxDo",
+          "timestamp_start": 91,
+          "timestamp_end": "Northern California secret society retreat"
+        }
+      ],
+      "type_specific": {
+        "location_type": "observation_site",
+        "country": "US",
+        "state_or_region": "California"
+      }
+    },
+    {
+      "id": "claim-KhmUixSXxDo-jones-bohemian-grove-cremation-of-care",
+      "node_type": "claim",
+      "label": "In July 2000 Alex Jones infiltrated the Bohemian Grove and witnessed the 'Cremation of Care' ritual ",
+      "summary": "In July 2000 Alex Jones infiltrated the Bohemian Grove and witnessed the 'Cremation of Care' ritual — ~1,000 men in an extended pagan ceremony that Jones frames as a fusion of Moloch worship with Faustian occultism and druidic occultism.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.009716+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KhmUixSXxDo",
+          "timestamp_start": 93,
+          "quote": "When you snuck into the Bohemian Grove, you looked at this crazy ritual called the cremation of care. I was in the crowd with the men and they were taking this extremely seriously. It was a fusion of Moloch worship, Faustian occultism and druidic occultism."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "In July 2000 Alex Jones infiltrated the Bohemian Grove and witnessed the 'Cremation of Care' ritual — ~1,000 men in an extended pagan ceremony that Jones frames as a fusion of Moloch worship with Faustian occultism and druidic occultism.",
+        "asserted_by_id": "person-alex-jones",
+        "source_video_id": "KhmUixSXxDo",
+        "timestamp_start_seconds": 93,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-alex-jones",
+          "event-bohemian-grove-infiltration-2000",
+          "concept-cremation-of-care",
+          "location-bohemian-grove"
+        ]
+      }
+    },
+    {
+      "id": "claim-KhmUixSXxDo-jones-as-scapegoat-girard",
+      "node_type": "claim",
+      "label": "Jesse frames Alex Jones' public trajectory through René Girard's scapegoat-mechanism theory: Jones w",
+      "summary": "Jesse frames Alex Jones' public trajectory through René Girard's scapegoat-mechanism theory: Jones was harvested as the archetype of the marginalized populist dissident — demonized as a pressure valve.",
+      "tags": [
+        "speculation",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.009730+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KhmUixSXxDo",
+          "timestamp_start": 113,
+          "quote": "There's this philosopher I like named René Girard. He has this theory that there are scapegoats that can sometimes be constructed as pressure valve releases. I was used as the archetype of let's just ban Alex Jones."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Jesse frames Alex Jones' public trajectory through René Girard's scapegoat-mechanism theory: Jones was harvested as the archetype of the marginalized populist dissident — demonized as a pressure valve.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "KhmUixSXxDo",
+        "timestamp_start_seconds": 113,
+        "assertability": "speculation",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-alex-jones",
+          "person-rene-girard"
+        ]
+      }
+    },
+    {
+      "id": "claim-KhmUixSXxDo-jones-qanon-disinfo-recognition",
+      "node_type": "claim",
+      "label": "Jones states he recognized QAnon as a disinformation operation early; broke with his own audience ov",
+      "summary": "Jones states he recognized QAnon as a disinformation operation early; broke with his own audience over it ('I'm not being set up this time').",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.009738+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KhmUixSXxDo",
+          "timestamp_start": 109,
+          "quote": "When I saw QAnon come along, I was like 'I've been set up repeatedly. I'm not being set up this time. This is BS.' A lot of my listeners got mad at me."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Jones states he recognized QAnon as a disinformation operation early; broke with his own audience over it ('I'm not being set up this time').",
+        "asserted_by_id": "person-alex-jones",
+        "source_video_id": "KhmUixSXxDo",
+        "timestamp_start_seconds": 109,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-alex-jones"
+        ]
+      }
+    },
+    {
+      "id": "claim-KhmUixSXxDo-jones-waking-life-philosopher",
+      "node_type": "claim",
+      "label": "Jones appeared in Richard Linklater's 'Waking Life' (2001) giving what Jesse calls 'the best speech ",
+      "summary": "Jones appeared in Richard Linklater's 'Waking Life' (2001) giving what Jesse calls 'the best speech ever' on human empowerment — foreshadowing his origin as a philosopher-turned-political-figure.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:49:16.009743+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KhmUixSXxDo",
+          "timestamp_start": 117,
+          "quote": "My first exposure to you was watching Richard Linklater's Waking Life. It's like the best speech ever. It's all about human empowerment. You were a philosopher — that got forced into politics."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Jones appeared in Richard Linklater's 'Waking Life' (2001) giving what Jesse calls 'the best speech ever' on human empowerment — foreshadowing his origin as a philosopher-turned-political-figure.",
+        "asserted_by_id": "person-alex-jones",
+        "source_video_id": "KhmUixSXxDo",
+        "timestamp_start_seconds": 117,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-alex-jones",
+          "person-richard-linklater"
+        ]
+      }
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge-video-KhmUixSXxDo-HOSTED_BY-person-jesse-michels",
+      "from_node_id": "video-KhmUixSXxDo",
+      "to_node_id": "person-jesse-michels",
+      "relationship": "HOSTED_BY",
+      "confidence": 0.99,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KhmUixSXxDo",
+          "timestamp_start": 0,
+          "quote": "Jesse hosting"
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-APPEARED_IN-video-KhmUixSXxDo",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "video-KhmUixSXxDo",
+      "relationship": "APPEARED_IN",
+      "confidence": 0.99,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KhmUixSXxDo",
+          "timestamp_start": 0,
+          "quote": "Host"
+        }
+      ],
+      "properties": {
+        "appearance_type": "host"
+      }
+    },
+    {
+      "id": "edge-video-KhmUixSXxDo-MENTIONS-person-love-has-won",
+      "from_node_id": "video-KhmUixSXxDo",
+      "to_node_id": "person-love-has-won",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KhmUixSXxDo",
+          "timestamp_start": 0,
+          "quote": "dy else, self censoring  because you feel like social media won't allow you to say anything and you're repressed. You look "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-KhmUixSXxDo-MENTIONS-person-timothy-good",
+      "from_node_id": "video-KhmUixSXxDo",
+      "to_node_id": "person-timothy-good",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KhmUixSXxDo",
+          "timestamp_start": 0,
+          "quote": "ry beautiful woman, I was like, \"Mommy, I that looks really good. I like that.\" It goes without saying that my next guest ha"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-KhmUixSXxDo-MENTIONS-person-ed-mitchell",
+      "from_node_id": "video-KhmUixSXxDo",
+      "to_node_id": "person-ed-mitchell",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KhmUixSXxDo",
+          "timestamp_start": 0,
+          "quote": " right now? obviously all the, you know, Neil Young, Joanie Mitchell stuff, and then and then after that this compilation of him"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-KhmUixSXxDo-MENTIONS-organization-international-ufo-museum-and-research-center",
+      "from_node_id": "video-KhmUixSXxDo",
+      "to_node_id": "organization-international-ufo-museum-and-research-center",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KhmUixSXxDo",
+          "timestamp_start": 0,
+          "quote": "have ever guessed? like it feels like the neocon neoliberal center is the thing that's kind of imploding and losing everybody'"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-KhmUixSXxDo-MENTIONS-organization-identification-studies-of-ufos",
+      "from_node_id": "video-KhmUixSXxDo",
+      "to_node_id": "organization-identification-studies-of-ufos",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KhmUixSXxDo",
+          "timestamp_start": 0,
+          "quote": "instream media, and its woes, weird science, parasychology, UFOs, esoteric philosophy, and his role as a societal scapegoat."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-KhmUixSXxDo-MENTIONS-organization-flying-saucer-working-party",
+      "from_node_id": "video-KhmUixSXxDo",
+      "to_node_id": "organization-flying-saucer-working-party",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KhmUixSXxDo",
+          "timestamp_start": 0,
+          "quote": " for sponsoring this show. DCC. Yes. Up with the Democratic Party. "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-KhmUixSXxDo-MENTIONS-organization-the-flying-saucers-are-real",
+      "from_node_id": "video-KhmUixSXxDo",
+      "to_node_id": "organization-the-flying-saucers-are-real",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KhmUixSXxDo",
+          "timestamp_start": 0,
+          "quote": "e, \"No, Trump isn't invincible and it's not and QAnon's not real other than it's a disinfo group doing this.\" Do you switch "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-KhmUixSXxDo-MENTIONS-organization-us-department-of-defense",
+      "from_node_id": "video-KhmUixSXxDo",
+      "to_node_id": "organization-us-department-of-defense",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KhmUixSXxDo",
+          "timestamp_start": 0,
+          "quote": "ke them more like have higher self-efficacy. If you're in a defense state, if you think everything's bad, you're not going to l"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-KhmUixSXxDo-MENTIONS-organization-roswell-that-ends-well",
+      "from_node_id": "video-KhmUixSXxDo",
+      "to_node_id": "organization-roswell-that-ends-well",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KhmUixSXxDo",
+          "timestamp_start": 0,
+          "quote": " Bush, anti- the war in Iraq, and against neoconservatism.  Well, we just say we battle the censorship, and we promise not t"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-KhmUixSXxDo-MENTIONS-organization-the-galileo-project",
+      "from_node_id": "video-KhmUixSXxDo",
+      "to_node_id": "organization-the-galileo-project",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KhmUixSXxDo",
+          "timestamp_start": 0,
+          "quote": " is a confounding variable in every experiment and then you project onto that and then the architecture is built according to t"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-KhmUixSXxDo-MENTIONS-organization-project-blue-book",
+      "from_node_id": "video-KhmUixSXxDo",
+      "to_node_id": "organization-project-blue-book",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KhmUixSXxDo",
+          "timestamp_start": 0,
+          "quote": "eriod. I'm I'm not  a super pro in life. I'm going to get a book that well you guys keep talking that's relevant to this. Th"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-KhmUixSXxDo-MENTIONS-organization-world-contact-day",
+      "from_node_id": "video-KhmUixSXxDo",
+      "to_node_id": "organization-world-contact-day",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KhmUixSXxDo",
+          "timestamp_start": 0,
+          "quote": " a bizarre pagan scapegoating midsummer ritual that to this day I have no idea how to make sense of. When you snuck into th"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-KhmUixSXxDo-MENTIONS-organization-condon-committee",
+      "from_node_id": "video-KhmUixSXxDo",
+      "to_node_id": "organization-condon-committee",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KhmUixSXxDo",
+          "timestamp_start": 0,
+          "quote": "y that goes to Bilderberg is bad, but the definite steering committee and the Klaus Schwab, you know, he's  he's been like, \"Yeah"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-KhmUixSXxDo-MENTIONS-organization-big-sur-ufo",
+      "from_node_id": "video-KhmUixSXxDo",
+      "to_node_id": "organization-big-sur-ufo",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KhmUixSXxDo",
+          "timestamp_start": 0,
+          "quote": "led travels in hyper reality and it looks like there's some UFO like thing on the on the cover and he writes a lot about an"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-KhmUixSXxDo-MENTIONS-organization-mirage-men",
+      "from_node_id": "video-KhmUixSXxDo",
+      "to_node_id": "organization-mirage-men",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KhmUixSXxDo",
+          "timestamp_start": 0,
+          "quote": " pagan ritual. And I'm standing there with about a thousand men watching it across the pond. The men had really crazy looks"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-KhmUixSXxDo-MENTIONS-location-russia",
+      "from_node_id": "video-KhmUixSXxDo",
+      "to_node_id": "location-russia",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KhmUixSXxDo",
+          "timestamp_start": 0,
+          "quote": "hings. I think his mistake was he started responding to the Russia, he was a Russian agent lie and then made everything about "
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-KhmUixSXxDo-discussion-summary",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-KhmUixSXxDo-discussion-summary",
+      "relationship": "ASSERTED",
+      "confidence": 0.9,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KhmUixSXxDo",
+          "timestamp_start": 0,
+          "quote": "Episode: Alex Jones Getting Drunk & Painting Rocks [INTERVIEW]"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-KhmUixSXxDo-REFERENCES-claim-KhmUixSXxDo-discussion-summary",
+      "from_node_id": "video-KhmUixSXxDo",
+      "to_node_id": "claim-KhmUixSXxDo-discussion-summary",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KhmUixSXxDo",
+          "timestamp_start": 0
+        }
+      ]
+    },
+    {
+      "id": "edge-person-alex-jones-ASSERTED-claim-KhmUixSXxDo-jones-bohemian-grove-cremation-of-care",
+      "from_node_id": "person-alex-jones",
+      "to_node_id": "claim-KhmUixSXxDo-jones-bohemian-grove-cremation-of-care",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KhmUixSXxDo",
+          "timestamp_start": 93,
+          "quote": "In July 2000 Alex Jones infiltrated the Bohemian Grove and witnessed the 'Cremation of Care' ritual — ~1,000 men in an extended pagan ceremony that Jones frames as a fusion of Moloch worship with Faus"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-KhmUixSXxDo-REFERENCES-claim-KhmUixSXxDo-jones-bohemian-grove-cremation-of-care",
+      "from_node_id": "video-KhmUixSXxDo",
+      "to_node_id": "claim-KhmUixSXxDo-jones-bohemian-grove-cremation-of-care",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KhmUixSXxDo",
+          "timestamp_start": 93
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-KhmUixSXxDo-jones-bohemian-grove-cremation-of-care-REFERENCES-event-bohemian-grove-infiltration-2000",
+      "from_node_id": "claim-KhmUixSXxDo-jones-bohemian-grove-cremation-of-care",
+      "to_node_id": "event-bohemian-grove-infiltration-2000",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KhmUixSXxDo",
+          "timestamp_start": 93
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-KhmUixSXxDo-jones-bohemian-grove-cremation-of-care-REFERENCES-concept-cremation-of-care",
+      "from_node_id": "claim-KhmUixSXxDo-jones-bohemian-grove-cremation-of-care",
+      "to_node_id": "concept-cremation-of-care",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KhmUixSXxDo",
+          "timestamp_start": 93
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-KhmUixSXxDo-jones-bohemian-grove-cremation-of-care-REFERENCES-location-bohemian-grove",
+      "from_node_id": "claim-KhmUixSXxDo-jones-bohemian-grove-cremation-of-care",
+      "to_node_id": "location-bohemian-grove",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KhmUixSXxDo",
+          "timestamp_start": 93
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-KhmUixSXxDo-jones-as-scapegoat-girard",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-KhmUixSXxDo-jones-as-scapegoat-girard",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KhmUixSXxDo",
+          "timestamp_start": 113,
+          "quote": "Jesse frames Alex Jones' public trajectory through René Girard's scapegoat-mechanism theory: Jones was harvested as the archetype of the marginalized populist dissident — demonized as a pressure valve"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-KhmUixSXxDo-REFERENCES-claim-KhmUixSXxDo-jones-as-scapegoat-girard",
+      "from_node_id": "video-KhmUixSXxDo",
+      "to_node_id": "claim-KhmUixSXxDo-jones-as-scapegoat-girard",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KhmUixSXxDo",
+          "timestamp_start": 113
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-KhmUixSXxDo-jones-as-scapegoat-girard-REFERENCES-person-alex-jones",
+      "from_node_id": "claim-KhmUixSXxDo-jones-as-scapegoat-girard",
+      "to_node_id": "person-alex-jones",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KhmUixSXxDo",
+          "timestamp_start": 113
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-KhmUixSXxDo-jones-as-scapegoat-girard-REFERENCES-person-rene-girard",
+      "from_node_id": "claim-KhmUixSXxDo-jones-as-scapegoat-girard",
+      "to_node_id": "person-rene-girard",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KhmUixSXxDo",
+          "timestamp_start": 113
+        }
+      ]
+    },
+    {
+      "id": "edge-person-alex-jones-ASSERTED-claim-KhmUixSXxDo-jones-qanon-disinfo-recognition",
+      "from_node_id": "person-alex-jones",
+      "to_node_id": "claim-KhmUixSXxDo-jones-qanon-disinfo-recognition",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KhmUixSXxDo",
+          "timestamp_start": 109,
+          "quote": "Jones states he recognized QAnon as a disinformation operation early; broke with his own audience over it ('I'm not being set up this time')."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-KhmUixSXxDo-REFERENCES-claim-KhmUixSXxDo-jones-qanon-disinfo-recognition",
+      "from_node_id": "video-KhmUixSXxDo",
+      "to_node_id": "claim-KhmUixSXxDo-jones-qanon-disinfo-recognition",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KhmUixSXxDo",
+          "timestamp_start": 109
+        }
+      ]
+    },
+    {
+      "id": "edge-person-alex-jones-ASSERTED-claim-KhmUixSXxDo-jones-waking-life-philosopher",
+      "from_node_id": "person-alex-jones",
+      "to_node_id": "claim-KhmUixSXxDo-jones-waking-life-philosopher",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KhmUixSXxDo",
+          "timestamp_start": 117,
+          "quote": "Jones appeared in Richard Linklater's 'Waking Life' (2001) giving what Jesse calls 'the best speech ever' on human empowerment — foreshadowing his origin as a philosopher-turned-political-figure."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-KhmUixSXxDo-REFERENCES-claim-KhmUixSXxDo-jones-waking-life-philosopher",
+      "from_node_id": "video-KhmUixSXxDo",
+      "to_node_id": "claim-KhmUixSXxDo-jones-waking-life-philosopher",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KhmUixSXxDo",
+          "timestamp_start": 117
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-KhmUixSXxDo-jones-waking-life-philosopher-REFERENCES-person-richard-linklater",
+      "from_node_id": "claim-KhmUixSXxDo-jones-waking-life-philosopher",
+      "to_node_id": "person-richard-linklater",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "KhmUixSXxDo",
+          "timestamp_start": 117
+        }
+      ]
+    }
+  ],
+  "extracted_at": "2026-04-17T12:49:16.009749+00:00",
+  "extractor_version": "v1-inline-claude"
+}

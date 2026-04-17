@@ -1,0 +1,2063 @@
+{
+  "video_id": "wT5-hXWIkzM",
+  "nodes": [
+    {
+      "id": "video-wT5-hXWIkzM",
+      "node_type": "video",
+      "label": "Meet The Scientist BANNED By TED Talks (ft. Rupert Sheldrake) ",
+      "summary": "Rupert’s staring app: https://www.sheldrake.org/participate/an-app-for-testing-the-sense-of-being-stared-at\n\nJoin us for a captivating conversation with renowned biologist and author, Rupert...",
+      "tags": [
+        "video",
+        "american-alchemy"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:54.212556+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 0,
+          "timestamp_end": 6937.0,
+          "quote": "Video: Meet The Scientist BANNED By TED Talks (ft. Rupert Sheldrake) "
+        }
+      ],
+      "type_specific": {
+        "video_id": "wT5-hXWIkzM",
+        "title": "Meet The Scientist BANNED By TED Talks (ft. Rupert Sheldrake) ",
+        "url": "https://www.youtube.com/watch?v=wT5-hXWIkzM",
+        "view_count": 294661,
+        "duration_seconds": 6937.0,
+        "host_id": "person-jesse-michels"
+      }
+    },
+    {
+      "id": "person-jesse-michels",
+      "node_type": "person",
+      "label": "Jesse Michels",
+      "summary": "Host of American Alchemy podcast/show. Independent journalist and UFO/NHI researcher.",
+      "tags": [
+        "journalist",
+        "interviewer",
+        "researcher",
+        "host"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:54.212574+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 0,
+          "quote": "Host of American Alchemy podcast/show."
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Jesse",
+          "Michels"
+        ],
+        "profession": "journalist",
+        "notability_tags": [
+          "journalist",
+          "interviewer",
+          "researcher",
+          "host"
+        ]
+      }
+    },
+    {
+      "id": "person-love-has-won",
+      "node_type": "person",
+      "label": "Love Has Won",
+      "summary": "Love Has Won (LHW), also known as the Galactic Federation of Light, is an American new religious movement that was led by Amy Carlson until her death in 2021. Carlson was referred to within the group as \"Mother God\", who described herself as, among other things, the creator of the universe, with the",
+      "tags": [
+        "wikipedia",
+        "2007 establishments in colorado",
+        "ancient astronaut speculation",
+        "covid-19 vaccine misinformation and hesitancy",
+        "climate change denial in the united states",
+        "holocaust denial in the united states",
+        "new age organizations",
+        "new religious movements established in the 2000s",
+        "qanon",
+        "religious belief systems founded in the united states",
+        "religious controversies in the united states",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:54.825926+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 0,
+          "quote": "y're frightened of this culture of dogmatic materialism and won't apply for Grants or do research in this area well  partly"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "LOVE HAS WON",
+          "Won",
+          "love has won"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "2007 establishments in colorado",
+          "ancient astronaut speculation",
+          "covid-19 vaccine misinformation and hesitancy",
+          "climate change denial in the united states",
+          "holocaust denial in the united states",
+          "new age organizations",
+          "new religious movements established in the 2000s",
+          "qanon",
+          "religious belief systems founded in the united states",
+          "religious controversies in the united states",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "person-timothy-good",
+      "node_type": "person",
+      "label": "Timothy Good",
+      "summary": "",
+      "tags": [
+        "researcher",
+        "author"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:54.825945+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 0,
+          "quote": "into he's into rer sheldrick he's a little weird like in a  good way and so you know I always I always say that when people "
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Tim Good",
+          "Good"
+        ],
+        "notability_tags": [
+          "researcher",
+          "author"
+        ]
+      }
+    },
+    {
+      "id": "person-chan-thomas",
+      "node_type": "person",
+      "label": "Chan Thomas",
+      "summary": "Chan Thomas (1920–1998) was an American engineer, ufologist, writer on ancient cataclysms, and self-proclaimed polymath whose ideas have influenced conspiracy theorists in the 21st century.",
+      "tags": [
+        "wikipedia",
+        "20th-century american engineers",
+        "mcdonnell douglas people",
+        "ufologists",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:54.825950+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 0,
+          "quote": "ngs that don't fit in explaining them away yes and long ago Thomas the philosopher of  science the historian of Science in his"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "CHAN THOMAS",
+          "Thomas",
+          "chan thomas"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "20th-century american engineers",
+          "mcdonnell douglas people",
+          "ufologists",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "person-ed-mitchell",
+      "node_type": "person",
+      "label": "Ed Mitchell",
+      "summary": "",
+      "tags": [
+        "astronaut",
+        "Apollo 14"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:54.825954+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 0,
+          "quote": "can get further it turns it entirely turns inwards but well Edgar Mitchell was a astronaut who'd been to the moon and into space at le"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Edgar Mitchell",
+          "Mitchell"
+        ],
+        "notability_tags": [
+          "astronaut",
+          "Apollo 14"
+        ]
+      }
+    },
+    {
+      "id": "person-kid-cosmic",
+      "node_type": "person",
+      "label": "Kid Cosmic",
+      "summary": "Kid Cosmic is an American animated superhero television series created by Craig McCracken and developed by McCracken, his wife Lauren Faust and Francisco Angones for Netflix. The series was based on his 2009 comic The Kid from Planet Earth. Produced in-house by Netflix Animation, the show is McCrack",
+      "tags": [
+        "wikipedia",
+        "2020s american animated comedy television series",
+        "2020s american children's comedy television series",
+        "2020s american science fiction comedy television series",
+        "2020s american superhero comedy television series",
+        "2021 american animated television series debuts",
+        "2022 american television series endings",
+        "american english-language television shows",
+        "american children's animated action television series",
+        "american children's animated adventure television series",
+        "american children's animated comic science fiction television series",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:54.825959+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 0,
+          "quote": "linked up through the entire Cosmos by something called The Cosmic web which were threads of plasma through which huge electri"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Cosmic",
+          "KID COSMIC",
+          "kid cosmic"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "2020s american animated comedy television series",
+          "2020s american children's comedy television series",
+          "2020s american science fiction comedy television series",
+          "2020s american superhero comedy television series",
+          "2021 american animated television series debuts",
+          "2022 american television series endings",
+          "american english-language television shows",
+          "american children's animated action television series",
+          "american children's animated adventure television series",
+          "american children's animated comic science fiction television series",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "person-john-mack",
+      "node_type": "person",
+      "label": "John Mack",
+      "summary": "",
+      "tags": [
+        "psychiatrist",
+        "Harvard",
+        "abduction research"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:54.825963+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 0,
+          "quote": " of scientific revolutions but he was friends with actually John Mack who's a head of the Harvard Psychiatry department and who s"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Dr. Mack",
+          "Mack"
+        ],
+        "notability_tags": [
+          "psychiatrist",
+          "Harvard",
+          "abduction research"
+        ]
+      }
+    },
+    {
+      "id": "organization-international-ufo-museum-and-research-center",
+      "node_type": "organization",
+      "label": "International UFO Museum and Research Center",
+      "summary": "The International UFO Museum and Research Center is located in Roswell, New Mexico, United States, in the downtown district, and is focused largely on the 1947 Roswell Crash and later supposed UFO incidents in the United States and elsewhere. It was founded in 1991 as a 501c3 nonprofit educational o",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:54.825970+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 0,
+          "quote": "imes more spectacular than others when the 9/11 World Trade Center disaster occurred in New York it  occurred to me that this "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-the-report-on-unidentified-flying-objects",
+      "node_type": "organization",
+      "label": "The Report on Unidentified Flying Objects",
+      "summary": "The Report on Unidentified Flying Objects is a 1956 book by then-retired Air Force UFO investigator Edward J. Ruppelt, detailing his experience running Project Blue Book. The book was noted for its suggestion that a few UFO sightings might be linked to spikes of atomic radiation. Contemporary media ",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:54.825983+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 0,
+          "quote": "al cortex of the brain can behave as if they're recognizing objects but they're not consciously aware of it that's how it's usu"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-ufo-sightings-in-the-united-kingdom",
+      "node_type": "organization",
+      "label": "UFO sightings in the United Kingdom",
+      "summary": "This is a list of notable alleged sightings of unidentified flying objects (UFOs) in the United Kingdom. Many more sightings have become known since the gradual release, between 2008 and 2013, of the Ministry of Defence's UFO sighting reports by the National Archives. In recent years, there have bee",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:54.825988+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 0,
+          "quote": "e and different from Plants they're not the same All Animal Kingdom they're a separate Kingdom funga as the fungal Kingdom as o"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-identification-studies-of-ufos",
+      "node_type": "organization",
+      "label": "Identification studies of UFOs",
+      "summary": "Identifying unidentified flying objects (UFOs) is a difficult task due to the normally poor quality of the evidence provided by those who report sighting the unknown object. Observations and subsequent reporting are often made by those untrained in astronomy, atmospheric phenomena, aeronautics, phys",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:54.825993+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 0,
+          "quote": "how is sort of known for actually exploring phenomenal like UFOs but people probably don't know that I was actually original"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-the-flying-saucers-are-real",
+      "node_type": "organization",
+      "label": "The Flying Saucers Are Real",
+      "summary": "The Flying Saucers Are Real, by Donald Keyhoe, is a book that investigated reports of UFOs by United States Air Force fighters, personnel, and other aircraft, between 1947 and 1950.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:54.825998+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 0,
+          "quote": "looking I've got stories from both sides it emerges that in real life this happens almost always in a directional manner so "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-archives-of-the-impossible",
+      "node_type": "organization",
+      "label": "Archives of the Impossible",
+      "summary": "The Archives of the Impossible (AOTI), sometimes called the Center for the Impossible, is a special collection at Rice University in Houston, Texas, United States. Founded in 2014 by Jeffrey J. Kripal, AOTI is based at the Woodson Research Center in the Fondren Library. It stewards collections on UF",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:54.826002+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 0,
+          "quote": "basian reasoning because you  just have this bucket of like impossible and you place all these things like all your experiments yo"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-unidentified-flying-object",
+      "node_type": "organization",
+      "label": "Unidentified flying object",
+      "summary": "An unidentified flying object (UFO) is an object or phenomenon seen in the sky but not yet identified or explained. The term was coined when United States Air Force (USAF) investigations into flying saucers found too broad a range of shapes reported to consider them all saucers or discs. UFOs are al",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:54.826006+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 0,
+          "quote": "ive because you're almost saying that the measurement of an object is affecting the past in some ways like your perception is "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-us-department-of-defense",
+      "node_type": "organization",
+      "label": "US Department of Defense",
+      "summary": "US Department of Defense entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:54.826011+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 0,
+          "quote": "hey're being looked at from behind cuz it's useful for self-defense you know if someone's sneaking up from behind planning to a"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-roswell-that-ends-well",
+      "node_type": "organization",
+      "label": "Roswell That Ends Well",
+      "summary": "\"Roswell That Ends Well\" is the nineteenth episode in the third season of the American animated television series Futurama, and the 51st episode of the series overall. It originally aired on the Fox network in the United States on December 9, 2001. The plot centers on an accidental time travel event",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:54.826015+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 0,
+          "quote": "enna finally we even get into one of his trippiest but less well-known books the physics of angels which explores traditiona"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-the-galileo-project",
+      "node_type": "organization",
+      "label": "The Galileo Project",
+      "summary": "The Galileo Project is an international scientific research project to search for extraterrestrial intelligence or extraterrestrial technology on and near Earth and to identify the nature of anomalous Unidentified Flying Objects/Unidentified Aerial Phenomena (UFOs/UAP). It was launched in 2021 by Ha",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:54.826020+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 0,
+          "quote": "almost a transceiver and it's emitting yes yeah that when I project an image of you to where you are the my  mind has this imag"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-project-blue-book",
+      "node_type": "organization",
+      "label": "Project Blue Book",
+      "summary": "USAF UFO investigation program active from 1952 to 1969.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:54.826024+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 0,
+          "quote": " variety of reasons so strange you know there's a there's a book I think in the early 20th century 10ish years before the Ti"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-world-contact-day",
+      "node_type": "organization",
+      "label": "World Contact Day",
+      "summary": "World Contact Day was first declared in March 1953 by an organization called the International Flying Saucer Bureau (IFSB), as a day on which all IFSB members would attempt to send a telepathic message into space. The IFSB voted to hold such a day in 1953, theorising that if both telepathy and alien",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:54.826028+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 0,
+          "quote": " are like why did he hire you I'm like I don't know to this day but I did bring up rer shelrick well that certainly a surpr"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-condon-committee",
+      "node_type": "organization",
+      "label": "Condon Committee",
+      "summary": "Condon Committee entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:54.826032+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 0,
+          "quote": "tions you know they're actual skeptic organization like the committee for skeptical inquiry Publishers of the skeptical Inquirer "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-scp-foundation",
+      "node_type": "organization",
+      "label": "SCP Foundation",
+      "summary": "The SCP Foundation is a fictional organization featured in stories created by contributors on the SCP Wiki, a wiki-based collaborative writing project, launched in 2008. Within the project's shared universe, the SCP (Special Containment Procedures) Foundation is a secret organization that is respons",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:54.826036+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 0,
+          "quote": "nding you know from Government funding and National Science Foundation that kind of thing yeah and then people complain about the "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-us-air-force",
+      "node_type": "organization",
+      "label": "US Air Force",
+      "summary": "US Air Force entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:54.826054+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 0,
+          "quote": "room now because  we're held down by gravity it's invisible force permeates all the space around us but does it depend on wav"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-big-sur-ufo",
+      "node_type": "organization",
+      "label": "Big Sur UFO",
+      "summary": "The Big Sur UFO is a reported UFO incident that took place during a 1964 Air Force deployment to a mountaintop near Big Sur, California. The deployment was a mission was to film Atlas missile tests from Vandenberg Air Force Base. Since 1982, Robert Jacobs, who had overseen the mountaintop team, has ",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:54.826058+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 0,
+          "quote": " context obviously this has big implications for the modern UFO conversation so without further Ado sit back and enjoy this"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-mirage-men",
+      "node_type": "organization",
+      "label": "Mirage Men",
+      "summary": "Mirage Men is a 2013 documentary film directed by John Lundberg, written by Mark Pilkington and co-directed by Roland Denning and Kypros Kyprianou. Mirage Men suggests there was a conspiracy by the U.S. military to fabricate UFO folklore in order to deflect attention from classified military project",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:54.826063+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 0,
+          "quote": "iverse utterly unconscious except perhaps for  Little Green Men or sort of Science Fiction type beings on other planets so "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "location-pacific-training-area",
+      "node_type": "location",
+      "label": "Pacific Training Area",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:54.826068+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 0,
+          "quote": "y a pre-memory yeah and some people who do research in this area in psychic research suggest that things like this  could be"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-roswell-new-mexico",
+      "node_type": "location",
+      "label": "Roswell, New Mexico",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:54.826073+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 0,
+          "quote": "g there's the whole group's training children to do this in Mexico and in Spain and I don't know whether there's much happenin"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-united-kingdom",
+      "node_type": "location",
+      "label": "United Kingdom",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:54.826077+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 0,
+          "quote": "e and different from Plants they're not the same All Animal Kingdom they're a separate Kingdom funga as the fungal Kingdom as o"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-united-states",
+      "node_type": "location",
+      "label": "United States",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:54.826081+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 0,
+          "quote": "a fellow and which is one of the  main organizations in the United States involved in Consciousness research so that in a sense does "
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-australia",
+      "node_type": "location",
+      "label": "Australia",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:54.826085+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 0,
+          "quote": "ondon then rats in New York and San Francisco and Melbourne Australia and Beijing should all be able to learn the same trick quic"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-germany",
+      "node_type": "location",
+      "label": "Germany",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:54.826089+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 0,
+          "quote": "quinus and Hilgard of bingan the Visionary medieval abis in Germany who was a Mystic and a poet and we chose the most interesti"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-mexico",
+      "node_type": "location",
+      "label": "Mexico",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:54.826093+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 0,
+          "quote": "g there's the whole group's training children to do this in Mexico and in Spain and I don't know whether there's much happenin"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-italy",
+      "node_type": "location",
+      "label": "Italy",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:54.826097+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 0,
+          "quote": "f having just debated scientific skeptic Michael shurmer in Italy and so I was extra fired up to speak to a fellow heretic in"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "claim-wT5-hXWIkzM-discussion-summary",
+      "node_type": "claim",
+      "label": "Video wT5-hXWIkzM features extended discussion of Love Has Won, Timothy Good, Chan Thomas and relate",
+      "summary": "Video wT5-hXWIkzM features extended discussion of Love Has Won, Timothy Good, Chan Thomas and related UAP research topics, hosted by Jesse Michels.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:54.826108+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 0,
+          "quote": "Episode title: Meet The Scientist BANNED By TED Talks (ft. Rupert Sheldrake) "
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Video wT5-hXWIkzM features extended discussion of Love Has Won, Timothy Good, Chan Thomas and related UAP research topics, hosted by Jesse Michels.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "wT5-hXWIkzM",
+        "timestamp_start_seconds": 0,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-love-has-won",
+          "person-timothy-good",
+          "person-chan-thomas",
+          "video-wT5-hXWIkzM"
+        ]
+      }
+    },
+    {
+      "id": "person-rupert-sheldrake",
+      "node_type": "person",
+      "label": "Rupert Sheldrake",
+      "summary": "Cambridge-educated, Harvard-affiliated biologist and parapsychology researcher. Author of 'The Presence of the Past', 'Science Set Free', 'The Physics of Angels'. Famous for morphic-resonance theory. Censored 2013 TED Talk. Close friend of Terence McKenna.",
+      "tags": [
+        "scientist",
+        "academic",
+        "Cambridge",
+        "Harvard"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.687505+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 259,
+          "quote": "Cambridge-educated biologist; morphic resonance theorist; Peter Thiel linked"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Sheldrake"
+        ],
+        "profession": "biologist",
+        "notability_tags": [
+          "scientist",
+          "academic",
+          "Cambridge",
+          "Harvard"
+        ]
+      }
+    },
+    {
+      "id": "person-peter-thiel",
+      "node_type": "person",
+      "label": "Peter Thiel",
+      "summary": "American tech investor; Palantir co-founder; PayPal Mafia. Per Jesse: hired him after Jesse mentioned Rupert Sheldrake in their first conversation — Thiel looks for 'modern heretics.'",
+      "tags": [
+        "investor",
+        "technologist"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.687509+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 281,
+          "quote": "Tech investor / Palantir co-founder; hired Jesse after Sheldrake reference"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Thiel"
+        ],
+        "profession": "investor",
+        "notability_tags": [
+          "investor",
+          "technologist"
+        ]
+      }
+    },
+    {
+      "id": "person-michael-shermer-debate-italy",
+      "node_type": "person",
+      "label": "Michael Shermer (Italy debate)",
+      "summary": "Founder of Skeptic Magazine; Jesse debated him in Italy immediately before the Sheldrake interview.",
+      "tags": [
+        "skeptic",
+        "author"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.687512+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 273,
+          "quote": "Skeptic; Jesse freshly debated him in Italy before Sheldrake interview"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Shermer"
+        ],
+        "profession": "author",
+        "notability_tags": [
+          "skeptic",
+          "author"
+        ]
+      }
+    },
+    {
+      "id": "person-terrence-mckenna",
+      "node_type": "person",
+      "label": "Terence McKenna",
+      "summary": "American ethnobotanist and psychedelic philosopher (1946-2000); close friend of Rupert Sheldrake. Famous for 'Timewave Zero', DMT research, 'machine elves' framework.",
+      "tags": [
+        "philosopher",
+        "psychonaut",
+        "historical"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.687514+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 275,
+          "quote": "Psychedelic-philosopher; Sheldrake's close friend"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "McKenna"
+        ],
+        "profession": "philosopher / ethnobotanist",
+        "notability_tags": [
+          "philosopher",
+          "psychonaut",
+          "historical"
+        ]
+      }
+    },
+    {
+      "id": "document-physics-of-angels-sheldrake",
+      "node_type": "document",
+      "label": "The Physics of Angels",
+      "summary": "Rupert Sheldrake's lesser-known book exploring traditional conceptions of angels and how they might work in a modern scientific context. Relevant to modern UFO conversation.",
+      "tags": [
+        "book"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.687516+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 275,
+          "timestamp_end": "Sheldrake book on traditional angel-concepts with modern physics"
+        }
+      ],
+      "type_specific": {
+        "document_type": "book",
+        "author": "Rupert Sheldrake"
+      }
+    },
+    {
+      "id": "concept-morphic-resonance",
+      "node_type": "concept",
+      "label": "Morphic Resonance (Sheldrake)",
+      "summary": "Rupert Sheldrake's theory that humans and animals learn from surrounding information fields ('morphic fields') — babies sensing mothers' presence, humans knowing when stared at, animals sensing earthquakes.",
+      "tags": [
+        "biology"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.687518+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 261,
+          "timestamp_end": "Sheldrake's theory of information fields across biological systems"
+        }
+      ],
+      "type_specific": {
+        "concept_domain": "biology"
+      }
+    },
+    {
+      "id": "claim-wT5-hXWIkzM-thiel-hired-jesse-via-sheldrake-mention",
+      "node_type": "claim",
+      "label": "Jesse was hired by Peter Thiel after their first conversation in which Jesse brought up Rupert Sheld",
+      "summary": "Jesse was hired by Peter Thiel after their first conversation in which Jesse brought up Rupert Sheldrake — Thiel seeks 'modern heretics' as both intellectual contacts and investment signal.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.705467+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 281,
+          "quote": "In my first conversation with Peter Thiel who I ended up working for, I brought you up and he was like, 'this guy's into Rupert Sheldrake, he's a little weird — in a good way.' I always say that when people are like why did he hire you — I don't know to this day, but I did bring up Rupert Sheldrake."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Jesse was hired by Peter Thiel after their first conversation in which Jesse brought up Rupert Sheldrake — Thiel seeks 'modern heretics' as both intellectual contacts and investment signal.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "wT5-hXWIkzM",
+        "timestamp_start_seconds": 281,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-jesse-michels",
+          "person-rupert-sheldrake",
+          "person-peter-thiel"
+        ]
+      }
+    },
+    {
+      "id": "claim-wT5-hXWIkzM-sheldrake-ted-censored-2013",
+      "node_type": "claim",
+      "label": "In 2013 Sheldrake's TED Talk was censored and taken off YouTube because TED felt his ideas were 'so ",
+      "summary": "In 2013 Sheldrake's TED Talk was censored and taken off YouTube because TED felt his ideas were 'so radical and far removed from the mainstream scientific thinking that we think it's right to give these talks a clear health warning.'",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.705485+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 269,
+          "quote": "In 2013, Rupert Sheldrake's TED Talk was censored and taken off YouTube because in TED's opinion, while science has not moved far in solving the riddle of consciousness, Sheldrake's ideas are so radical that we think it's right to give these talks a clear health warning."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "In 2013 Sheldrake's TED Talk was censored and taken off YouTube because TED felt his ideas were 'so radical and far removed from the mainstream scientific thinking that we think it's right to give these talks a clear health warning.'",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "wT5-hXWIkzM",
+        "timestamp_start_seconds": 269,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-rupert-sheldrake"
+        ]
+      }
+    },
+    {
+      "id": "claim-wT5-hXWIkzM-sheldrake-not-idealist-em-consciousness",
+      "node_type": "claim",
+      "label": "Sheldrake rejects both materialism AND idealism; spent years thinking about how Consciousness might ",
+      "summary": "Sheldrake rejects both materialism AND idealism; spent years thinking about how Consciousness might be related to electromagnetic fields — particularly via vision where light IS electromagnetic radiation.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.705493+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 289,
+          "quote": "I don't think of myself as an idealist. Consciousness is primary — that's idealism. Materialism says everything's matter. I don't find either of those philosophies particularly helpful. I've spent a lot of time thinking about how consciousness might be related to electromagnetic fields."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Sheldrake rejects both materialism AND idealism; spent years thinking about how Consciousness might be related to electromagnetic fields — particularly via vision where light IS electromagnetic radiation.",
+        "asserted_by_id": "person-rupert-sheldrake",
+        "source_video_id": "wT5-hXWIkzM",
+        "timestamp_start_seconds": 289,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-rupert-sheldrake"
+        ]
+      }
+    },
+    {
+      "id": "claim-wT5-hXWIkzM-sheldrake-mckenna-close-friendship",
+      "node_type": "claim",
+      "label": "Sheldrake had a long close friendship with Terence McKenna — relevant to modern UFO/psychedelic conv",
+      "summary": "Sheldrake had a long close friendship with Terence McKenna — relevant to modern UFO/psychedelic conversation.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.705500+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 275,
+          "quote": "We get into his long close friendship with the legendary Terence McKenna."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Sheldrake had a long close friendship with Terence McKenna — relevant to modern UFO/psychedelic conversation.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "wT5-hXWIkzM",
+        "timestamp_start_seconds": 275,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-rupert-sheldrake",
+          "person-terrence-mckenna"
+        ]
+      }
+    },
+    {
+      "id": "claim-wT5-hXWIkzM-sheldrake-physical-constants-averages",
+      "node_type": "claim",
+      "label": "Sheldrake documents that some physical 'constants' in physics are actually AVERAGES of fluctuating m",
+      "summary": "Sheldrake documents that some physical 'constants' in physics are actually AVERAGES of fluctuating measurements — undermining the standard materialist assumption of fixed universal constants.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.705508+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 265,
+          "quote": "He shows that the physical constants in physics are sometimes actually averages of fluctuating measurements."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Sheldrake documents that some physical 'constants' in physics are actually AVERAGES of fluctuating measurements — undermining the standard materialist assumption of fixed universal constants.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "wT5-hXWIkzM",
+        "timestamp_start_seconds": 265,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-rupert-sheldrake"
+        ]
+      }
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge-video-wT5-hXWIkzM-HOSTED_BY-person-jesse-michels",
+      "from_node_id": "video-wT5-hXWIkzM",
+      "to_node_id": "person-jesse-michels",
+      "relationship": "HOSTED_BY",
+      "confidence": 0.99,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 0,
+          "quote": "Jesse hosting"
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-APPEARED_IN-video-wT5-hXWIkzM",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "video-wT5-hXWIkzM",
+      "relationship": "APPEARED_IN",
+      "confidence": 0.99,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 0,
+          "quote": "Host"
+        }
+      ],
+      "properties": {
+        "appearance_type": "host"
+      }
+    },
+    {
+      "id": "edge-video-wT5-hXWIkzM-MENTIONS-person-love-has-won",
+      "from_node_id": "video-wT5-hXWIkzM",
+      "to_node_id": "person-love-has-won",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 0,
+          "quote": "y're frightened of this culture of dogmatic materialism and won't apply for Grants or do research in this area well  partly"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-wT5-hXWIkzM-MENTIONS-person-timothy-good",
+      "from_node_id": "video-wT5-hXWIkzM",
+      "to_node_id": "person-timothy-good",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 0,
+          "quote": "into he's into rer sheldrick he's a little weird like in a  good way and so you know I always I always say that when people "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-wT5-hXWIkzM-MENTIONS-person-chan-thomas",
+      "from_node_id": "video-wT5-hXWIkzM",
+      "to_node_id": "person-chan-thomas",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 0,
+          "quote": "ngs that don't fit in explaining them away yes and long ago Thomas the philosopher of  science the historian of Science in his"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-wT5-hXWIkzM-MENTIONS-person-ed-mitchell",
+      "from_node_id": "video-wT5-hXWIkzM",
+      "to_node_id": "person-ed-mitchell",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 0,
+          "quote": "can get further it turns it entirely turns inwards but well Edgar Mitchell was a astronaut who'd been to the moon and into space at le"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-wT5-hXWIkzM-MENTIONS-person-kid-cosmic",
+      "from_node_id": "video-wT5-hXWIkzM",
+      "to_node_id": "person-kid-cosmic",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 0,
+          "quote": "linked up through the entire Cosmos by something called The Cosmic web which were threads of plasma through which huge electri"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-wT5-hXWIkzM-MENTIONS-person-john-mack",
+      "from_node_id": "video-wT5-hXWIkzM",
+      "to_node_id": "person-john-mack",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 0,
+          "quote": " of scientific revolutions but he was friends with actually John Mack who's a head of the Harvard Psychiatry department and who s"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-wT5-hXWIkzM-MENTIONS-organization-international-ufo-museum-and-research-center",
+      "from_node_id": "video-wT5-hXWIkzM",
+      "to_node_id": "organization-international-ufo-museum-and-research-center",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 0,
+          "quote": "imes more spectacular than others when the 9/11 World Trade Center disaster occurred in New York it  occurred to me that this "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-wT5-hXWIkzM-MENTIONS-organization-the-report-on-unidentified-flying-objects",
+      "from_node_id": "video-wT5-hXWIkzM",
+      "to_node_id": "organization-the-report-on-unidentified-flying-objects",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 0,
+          "quote": "al cortex of the brain can behave as if they're recognizing objects but they're not consciously aware of it that's how it's usu"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-wT5-hXWIkzM-MENTIONS-organization-ufo-sightings-in-the-united-kingdom",
+      "from_node_id": "video-wT5-hXWIkzM",
+      "to_node_id": "organization-ufo-sightings-in-the-united-kingdom",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 0,
+          "quote": "e and different from Plants they're not the same All Animal Kingdom they're a separate Kingdom funga as the fungal Kingdom as o"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-wT5-hXWIkzM-MENTIONS-organization-identification-studies-of-ufos",
+      "from_node_id": "video-wT5-hXWIkzM",
+      "to_node_id": "organization-identification-studies-of-ufos",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 0,
+          "quote": "how is sort of known for actually exploring phenomenal like UFOs but people probably don't know that I was actually original"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-wT5-hXWIkzM-MENTIONS-organization-the-flying-saucers-are-real",
+      "from_node_id": "video-wT5-hXWIkzM",
+      "to_node_id": "organization-the-flying-saucers-are-real",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 0,
+          "quote": "looking I've got stories from both sides it emerges that in real life this happens almost always in a directional manner so "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-wT5-hXWIkzM-MENTIONS-organization-archives-of-the-impossible",
+      "from_node_id": "video-wT5-hXWIkzM",
+      "to_node_id": "organization-archives-of-the-impossible",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 0,
+          "quote": "basian reasoning because you  just have this bucket of like impossible and you place all these things like all your experiments yo"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-wT5-hXWIkzM-MENTIONS-organization-unidentified-flying-object",
+      "from_node_id": "video-wT5-hXWIkzM",
+      "to_node_id": "organization-unidentified-flying-object",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 0,
+          "quote": "ive because you're almost saying that the measurement of an object is affecting the past in some ways like your perception is "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-wT5-hXWIkzM-MENTIONS-organization-us-department-of-defense",
+      "from_node_id": "video-wT5-hXWIkzM",
+      "to_node_id": "organization-us-department-of-defense",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 0,
+          "quote": "hey're being looked at from behind cuz it's useful for self-defense you know if someone's sneaking up from behind planning to a"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-wT5-hXWIkzM-MENTIONS-organization-roswell-that-ends-well",
+      "from_node_id": "video-wT5-hXWIkzM",
+      "to_node_id": "organization-roswell-that-ends-well",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 0,
+          "quote": "enna finally we even get into one of his trippiest but less well-known books the physics of angels which explores traditiona"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-wT5-hXWIkzM-MENTIONS-organization-the-galileo-project",
+      "from_node_id": "video-wT5-hXWIkzM",
+      "to_node_id": "organization-the-galileo-project",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 0,
+          "quote": "almost a transceiver and it's emitting yes yeah that when I project an image of you to where you are the my  mind has this imag"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-wT5-hXWIkzM-MENTIONS-organization-project-blue-book",
+      "from_node_id": "video-wT5-hXWIkzM",
+      "to_node_id": "organization-project-blue-book",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 0,
+          "quote": " variety of reasons so strange you know there's a there's a book I think in the early 20th century 10ish years before the Ti"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-wT5-hXWIkzM-MENTIONS-organization-world-contact-day",
+      "from_node_id": "video-wT5-hXWIkzM",
+      "to_node_id": "organization-world-contact-day",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 0,
+          "quote": " are like why did he hire you I'm like I don't know to this day but I did bring up rer shelrick well that certainly a surpr"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-wT5-hXWIkzM-MENTIONS-organization-condon-committee",
+      "from_node_id": "video-wT5-hXWIkzM",
+      "to_node_id": "organization-condon-committee",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 0,
+          "quote": "tions you know they're actual skeptic organization like the committee for skeptical inquiry Publishers of the skeptical Inquirer "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-wT5-hXWIkzM-MENTIONS-organization-scp-foundation",
+      "from_node_id": "video-wT5-hXWIkzM",
+      "to_node_id": "organization-scp-foundation",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 0,
+          "quote": "nding you know from Government funding and National Science Foundation that kind of thing yeah and then people complain about the "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-wT5-hXWIkzM-MENTIONS-organization-us-air-force",
+      "from_node_id": "video-wT5-hXWIkzM",
+      "to_node_id": "organization-us-air-force",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 0,
+          "quote": "room now because  we're held down by gravity it's invisible force permeates all the space around us but does it depend on wav"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-wT5-hXWIkzM-MENTIONS-organization-big-sur-ufo",
+      "from_node_id": "video-wT5-hXWIkzM",
+      "to_node_id": "organization-big-sur-ufo",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 0,
+          "quote": " context obviously this has big implications for the modern UFO conversation so without further Ado sit back and enjoy this"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-wT5-hXWIkzM-MENTIONS-organization-mirage-men",
+      "from_node_id": "video-wT5-hXWIkzM",
+      "to_node_id": "organization-mirage-men",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 0,
+          "quote": "iverse utterly unconscious except perhaps for  Little Green Men or sort of Science Fiction type beings on other planets so "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-wT5-hXWIkzM-MENTIONS-location-pacific-training-area",
+      "from_node_id": "video-wT5-hXWIkzM",
+      "to_node_id": "location-pacific-training-area",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 0,
+          "quote": "y a pre-memory yeah and some people who do research in this area in psychic research suggest that things like this  could be"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-wT5-hXWIkzM-MENTIONS-location-roswell-new-mexico",
+      "from_node_id": "video-wT5-hXWIkzM",
+      "to_node_id": "location-roswell-new-mexico",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 0,
+          "quote": "g there's the whole group's training children to do this in Mexico and in Spain and I don't know whether there's much happenin"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-wT5-hXWIkzM-MENTIONS-location-united-kingdom",
+      "from_node_id": "video-wT5-hXWIkzM",
+      "to_node_id": "location-united-kingdom",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 0,
+          "quote": "e and different from Plants they're not the same All Animal Kingdom they're a separate Kingdom funga as the fungal Kingdom as o"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-wT5-hXWIkzM-MENTIONS-location-united-states",
+      "from_node_id": "video-wT5-hXWIkzM",
+      "to_node_id": "location-united-states",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 0,
+          "quote": "a fellow and which is one of the  main organizations in the United States involved in Consciousness research so that in a sense does "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-wT5-hXWIkzM-MENTIONS-location-australia",
+      "from_node_id": "video-wT5-hXWIkzM",
+      "to_node_id": "location-australia",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 0,
+          "quote": "ondon then rats in New York and San Francisco and Melbourne Australia and Beijing should all be able to learn the same trick quic"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-wT5-hXWIkzM-MENTIONS-location-germany",
+      "from_node_id": "video-wT5-hXWIkzM",
+      "to_node_id": "location-germany",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 0,
+          "quote": "quinus and Hilgard of bingan the Visionary medieval abis in Germany who was a Mystic and a poet and we chose the most interesti"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-wT5-hXWIkzM-MENTIONS-location-mexico",
+      "from_node_id": "video-wT5-hXWIkzM",
+      "to_node_id": "location-mexico",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 0,
+          "quote": "g there's the whole group's training children to do this in Mexico and in Spain and I don't know whether there's much happenin"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-wT5-hXWIkzM-MENTIONS-location-italy",
+      "from_node_id": "video-wT5-hXWIkzM",
+      "to_node_id": "location-italy",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 0,
+          "quote": "f having just debated scientific skeptic Michael shurmer in Italy and so I was extra fired up to speak to a fellow heretic in"
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-wT5-hXWIkzM-discussion-summary",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-wT5-hXWIkzM-discussion-summary",
+      "relationship": "ASSERTED",
+      "confidence": 0.9,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 0,
+          "quote": "Episode: Meet The Scientist BANNED By TED Talks (ft. Rupert Sheldrake) "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-wT5-hXWIkzM-REFERENCES-claim-wT5-hXWIkzM-discussion-summary",
+      "from_node_id": "video-wT5-hXWIkzM",
+      "to_node_id": "claim-wT5-hXWIkzM-discussion-summary",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 0
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-wT5-hXWIkzM-thiel-hired-jesse-via-sheldrake-mention",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-wT5-hXWIkzM-thiel-hired-jesse-via-sheldrake-mention",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 281,
+          "quote": "Jesse was hired by Peter Thiel after their first conversation in which Jesse brought up Rupert Sheldrake — Thiel seeks 'modern heretics' as both intellectual contacts and investment signal."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-wT5-hXWIkzM-REFERENCES-claim-wT5-hXWIkzM-thiel-hired-jesse-via-sheldrake-mention",
+      "from_node_id": "video-wT5-hXWIkzM",
+      "to_node_id": "claim-wT5-hXWIkzM-thiel-hired-jesse-via-sheldrake-mention",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 281
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-wT5-hXWIkzM-thiel-hired-jesse-via-sheldrake-mention-REFERENCES-person-rupert-sheldrake",
+      "from_node_id": "claim-wT5-hXWIkzM-thiel-hired-jesse-via-sheldrake-mention",
+      "to_node_id": "person-rupert-sheldrake",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 281
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-wT5-hXWIkzM-thiel-hired-jesse-via-sheldrake-mention-REFERENCES-person-peter-thiel",
+      "from_node_id": "claim-wT5-hXWIkzM-thiel-hired-jesse-via-sheldrake-mention",
+      "to_node_id": "person-peter-thiel",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 281
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-wT5-hXWIkzM-sheldrake-ted-censored-2013",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-wT5-hXWIkzM-sheldrake-ted-censored-2013",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 269,
+          "quote": "In 2013 Sheldrake's TED Talk was censored and taken off YouTube because TED felt his ideas were 'so radical and far removed from the mainstream scientific thinking that we think it's right to give the"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-wT5-hXWIkzM-REFERENCES-claim-wT5-hXWIkzM-sheldrake-ted-censored-2013",
+      "from_node_id": "video-wT5-hXWIkzM",
+      "to_node_id": "claim-wT5-hXWIkzM-sheldrake-ted-censored-2013",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 269
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-wT5-hXWIkzM-sheldrake-ted-censored-2013-REFERENCES-person-rupert-sheldrake",
+      "from_node_id": "claim-wT5-hXWIkzM-sheldrake-ted-censored-2013",
+      "to_node_id": "person-rupert-sheldrake",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 269
+        }
+      ]
+    },
+    {
+      "id": "edge-person-rupert-sheldrake-ASSERTED-claim-wT5-hXWIkzM-sheldrake-not-idealist-em-consciousness",
+      "from_node_id": "person-rupert-sheldrake",
+      "to_node_id": "claim-wT5-hXWIkzM-sheldrake-not-idealist-em-consciousness",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 289,
+          "quote": "Sheldrake rejects both materialism AND idealism; spent years thinking about how Consciousness might be related to electromagnetic fields — particularly via vision where light IS electromagnetic radiat"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-wT5-hXWIkzM-REFERENCES-claim-wT5-hXWIkzM-sheldrake-not-idealist-em-consciousness",
+      "from_node_id": "video-wT5-hXWIkzM",
+      "to_node_id": "claim-wT5-hXWIkzM-sheldrake-not-idealist-em-consciousness",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 289
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-wT5-hXWIkzM-sheldrake-mckenna-close-friendship",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-wT5-hXWIkzM-sheldrake-mckenna-close-friendship",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 275,
+          "quote": "Sheldrake had a long close friendship with Terence McKenna — relevant to modern UFO/psychedelic conversation."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-wT5-hXWIkzM-REFERENCES-claim-wT5-hXWIkzM-sheldrake-mckenna-close-friendship",
+      "from_node_id": "video-wT5-hXWIkzM",
+      "to_node_id": "claim-wT5-hXWIkzM-sheldrake-mckenna-close-friendship",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 275
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-wT5-hXWIkzM-sheldrake-mckenna-close-friendship-REFERENCES-person-rupert-sheldrake",
+      "from_node_id": "claim-wT5-hXWIkzM-sheldrake-mckenna-close-friendship",
+      "to_node_id": "person-rupert-sheldrake",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 275
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-wT5-hXWIkzM-sheldrake-mckenna-close-friendship-REFERENCES-person-terrence-mckenna",
+      "from_node_id": "claim-wT5-hXWIkzM-sheldrake-mckenna-close-friendship",
+      "to_node_id": "person-terrence-mckenna",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 275
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-wT5-hXWIkzM-sheldrake-physical-constants-averages",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-wT5-hXWIkzM-sheldrake-physical-constants-averages",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 265,
+          "quote": "Sheldrake documents that some physical 'constants' in physics are actually AVERAGES of fluctuating measurements — undermining the standard materialist assumption of fixed universal constants."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-wT5-hXWIkzM-REFERENCES-claim-wT5-hXWIkzM-sheldrake-physical-constants-averages",
+      "from_node_id": "video-wT5-hXWIkzM",
+      "to_node_id": "claim-wT5-hXWIkzM-sheldrake-physical-constants-averages",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 265
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-wT5-hXWIkzM-sheldrake-physical-constants-averages-REFERENCES-person-rupert-sheldrake",
+      "from_node_id": "claim-wT5-hXWIkzM-sheldrake-physical-constants-averages",
+      "to_node_id": "person-rupert-sheldrake",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "wT5-hXWIkzM",
+          "timestamp_start": 265
+        }
+      ]
+    }
+  ],
+  "extracted_at": "2026-04-17T13:21:38.705515+00:00",
+  "extractor_version": "v1-inline-claude"
+}

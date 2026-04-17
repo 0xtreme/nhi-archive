@@ -1,0 +1,2408 @@
+{
+  "video_id": "1zRWi_r3HRM",
+  "nodes": [
+    {
+      "id": "video-1zRWi_r3HRM",
+      "node_type": "video",
+      "label": "\"100,000 UFOs Are Surrounding Earth!\" ft. Top Astronomer Beatriz Villarroel",
+      "summary": "Our American Alchemist this week is Beatriz Villarroel. \n\n| Thanks To Our Sponsors |\n\nShopify: Start your business for just $1/month at https://shopify.com/jesse. Sponsored by Shopify, the...",
+      "tags": [
+        "video",
+        "american-alchemy"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:16.950031+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 0,
+          "timestamp_end": 4899.0,
+          "quote": "Video: \"100,000 UFOs Are Surrounding Earth!\" ft. Top Astronomer Beatriz Villarroel"
+        }
+      ],
+      "type_specific": {
+        "video_id": "1zRWi_r3HRM",
+        "title": "\"100,000 UFOs Are Surrounding Earth!\" ft. Top Astronomer Beatriz Villarroel",
+        "url": "https://www.youtube.com/watch?v=1zRWi_r3HRM",
+        "view_count": 840180,
+        "duration_seconds": 4899.0,
+        "host_id": "person-jesse-michels"
+      }
+    },
+    {
+      "id": "person-jesse-michels",
+      "node_type": "person",
+      "label": "Jesse Michels",
+      "summary": "Host of American Alchemy podcast/show. Independent journalist and UFO/NHI researcher.",
+      "tags": [
+        "journalist",
+        "interviewer",
+        "researcher",
+        "host"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:16.950060+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 0,
+          "quote": "Host of American Alchemy podcast/show."
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Jesse",
+          "Michels"
+        ],
+        "profession": "journalist",
+        "notability_tags": [
+          "journalist",
+          "interviewer",
+          "researcher",
+          "host"
+        ]
+      }
+    },
+    {
+      "id": "person-robert-hastings",
+      "node_type": "person",
+      "label": "Robert Hastings",
+      "summary": "",
+      "tags": [
+        "researcher",
+        "author",
+        "UFOs and Nukes"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:17.352240+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 0,
+          "quote": "Whoa. If you've seen our show or read the work of the great Robert Hastings, you'll know that the Nuclear UFO Connection is widespread,"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Hastings"
+        ],
+        "notability_tags": [
+          "researcher",
+          "author",
+          "UFOs and Nukes"
+        ]
+      }
+    },
+    {
+      "id": "person-graham-hancock",
+      "node_type": "person",
+      "label": "Graham Hancock",
+      "summary": "",
+      "tags": [
+        "author",
+        "ancient history"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:17.352262+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 0,
+          "quote": "in 1956 and I was reading an article that a guy named Larry Hancock with the SCU did   where they were looking at sightings of "
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Hancock"
+        ],
+        "notability_tags": [
+          "author",
+          "ancient history"
+        ]
+      }
+    },
+    {
+      "id": "person-donald-menzel",
+      "node_type": "person",
+      "label": "Donald Menzel",
+      "summary": "",
+      "tags": [
+        "astronomer",
+        "skeptic"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:17.352267+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 0,
+          "quote": "ata known to the public in the ' 50s and60s was a guy named Donald Menzel. Dr. Donald Menzel came out swinging against UFOs. But than"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Menzel"
+        ],
+        "notability_tags": [
+          "astronomer",
+          "skeptic"
+        ]
+      }
+    },
+    {
+      "id": "person-james-harder",
+      "node_type": "person",
+      "label": "James Harder",
+      "summary": "James Albert Harder, Ph.D., (December 2, 1926 – December 30, 2006) was a professor of civil and hydraulic engineering at the University of California, Berkeley. He was a professor emeritus there. Harder also had interest in ufology.",
+      "tags": [
+        "wikipedia",
+        "california institute of technology alumni",
+        "people from fullerton, california",
+        "uc berkeley college of engineering faculty",
+        "ufologists",
+        "university of california, berkeley alumni"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:17.352271+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 0,
+          "quote": "st the Earth's rotation and enter a backwards orbit is much harder. As baffling as this mystery object's backwards trajectory "
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Harder",
+          "JAMES HARDER",
+          "james harder"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "california institute of technology alumni",
+          "people from fullerton, california",
+          "uc berkeley college of engineering faculty",
+          "ufologists",
+          "university of california, berkeley alumni"
+        ]
+      }
+    },
+    {
+      "id": "person-love-has-won",
+      "node_type": "person",
+      "label": "Love Has Won",
+      "summary": "Love Has Won (LHW), also known as the Galactic Federation of Light, is an American new religious movement that was led by Amy Carlson until her death in 2021. Carlson was referred to within the group as \"Mother God\", who described herself as, among other things, the creator of the universe, with the",
+      "tags": [
+        "wikipedia",
+        "2007 establishments in colorado",
+        "ancient astronaut speculation",
+        "covid-19 vaccine misinformation and hesitancy",
+        "climate change denial in the united states",
+        "holocaust denial in the united states",
+        "new age organizations",
+        "new religious movements established in the 2000s",
+        "qanon",
+        "religious belief systems founded in the united states",
+        "religious controversies in the united states",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:17.352277+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 0,
+          "quote": "e. Dr. Beatatrice Voriel holds a PhD in astrophysics. She's won the L'Oreal UNESCO prize for women in science. She's curren"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "LOVE HAS WON",
+          "Won",
+          "love has won"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "2007 establishments in colorado",
+          "ancient astronaut speculation",
+          "covid-19 vaccine misinformation and hesitancy",
+          "climate change denial in the united states",
+          "holocaust denial in the united states",
+          "new age organizations",
+          "new religious movements established in the 2000s",
+          "qanon",
+          "religious belief systems founded in the united states",
+          "religious controversies in the united states",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "person-timothy-good",
+      "node_type": "person",
+      "label": "Timothy Good",
+      "summary": "",
+      "tags": [
+        "researcher",
+        "author"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:17.352281+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 0,
+          "quote": "ive of humanity the  Vegas civilization sees. Not exactly a good first look. In a manner just like Bracewell's concept, the "
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Tim Good",
+          "Good"
+        ],
+        "notability_tags": [
+          "researcher",
+          "author"
+        ]
+      }
+    },
+    {
+      "id": "person-chan-thomas",
+      "node_type": "person",
+      "label": "Chan Thomas",
+      "summary": "Chan Thomas (1920–1998) was an American engineer, ufologist, writer on ancient cataclysms, and self-proclaimed polymath whose ideas have influenced conspiracy theorists in the 21st century.",
+      "tags": [
+        "wikipedia",
+        "20th-century american engineers",
+        "mcdonnell douglas people",
+        "ufologists",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:17.352285+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 0,
+          "quote": "> Well, this is how science moves forward. If you read like Thomas Coon's like the structure of scientific revolutions, he say"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "CHAN THOMAS",
+          "Thomas",
+          "chan thomas"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "20th-century american engineers",
+          "mcdonnell douglas people",
+          "ufologists",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "person-kid-cosmic",
+      "node_type": "person",
+      "label": "Kid Cosmic",
+      "summary": "Kid Cosmic is an American animated superhero television series created by Craig McCracken and developed by McCracken, his wife Lauren Faust and Francisco Angones for Netflix. The series was based on his 2009 comic The Kid from Planet Earth. Produced in-house by Netflix Animation, the show is McCrack",
+      "tags": [
+        "wikipedia",
+        "2020s american animated comedy television series",
+        "2020s american children's comedy television series",
+        "2020s american science fiction comedy television series",
+        "2020s american superhero comedy television series",
+        "2021 american animated television series debuts",
+        "2022 american television series endings",
+        "american english-language television shows",
+        "american children's animated action television series",
+        "american children's animated adventure television series",
+        "american children's animated comic science fiction television series",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:17.352290+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 0,
+          "quote": "objects.  >> Yeah. People could of course say oh it's  just cosmic rays then or it's something you know it's some high energy "
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Cosmic",
+          "KID COSMIC",
+          "kid cosmic"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "2020s american animated comedy television series",
+          "2020s american children's comedy television series",
+          "2020s american science fiction comedy television series",
+          "2020s american superhero comedy television series",
+          "2021 american animated television series debuts",
+          "2022 american television series endings",
+          "american english-language television shows",
+          "american children's animated action television series",
+          "american children's animated adventure television series",
+          "american children's animated comic science fiction television series",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "organization-international-ufo-museum-and-research-center",
+      "node_type": "organization",
+      "label": "International UFO Museum and Research Center",
+      "summary": "The International UFO Museum and Research Center is located in Roswell, New Mexico, United States, in the downtown district, and is focused largely on the 1947 Roswell Crash and later supposed UFO incidents in the United States and elsewhere. It was founded in 1991 as a 501c3 nonprofit educational o",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:17.352296+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 0,
+          "quote": "cts dart across the radar screen at the CIA traffic control center at National Airport for several hours.  >> This was a natio"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-the-report-on-unidentified-flying-objects",
+      "node_type": "organization",
+      "label": "The Report on Unidentified Flying Objects",
+      "summary": "The Report on Unidentified Flying Objects is a 1956 book by then-retired Air Force UFO investigator Edward J. Ruppelt, detailing his experience running Project Blue Book. The book was noted for its suggestion that a few UFO sightings might be linked to spikes of atomic radiation. Contemporary media ",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:17.352301+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 0,
+          "quote": "Royale has found over 100,000 light reflecting unidentified objects on the plates of the Palomar Observatory, the most prominen"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-1952-washington-d-c-ufo-incident",
+      "node_type": "organization",
+      "label": "1952 Washington, D.C. UFO incident",
+      "summary": "From July 12 to 29, 1952, a series of unidentified flying object (UFO) sightings were reported in Washington, D.C., and later became known as the Washington flap, the Washington National Airport Sightings, or the Invasion of Washington. The most publicized sightings took place on consecutive weekend",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:17.352306+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 0,
+          "quote": "hey just got rid of it. In many ways, this was the inciting incident which sent Jock on his lifelong hero's journey to the furth"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-identification-studies-of-ufos",
+      "node_type": "organization",
+      "label": "Identification studies of UFOs",
+      "summary": "Identifying unidentified flying objects (UFOs) is a difficult task due to the normally poor quality of the evidence provided by those who report sighting the unknown object. Observations and subsequent reporting are often made by those untrained in astronomy, atmospheric phenomena, aeronautics, phys",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:17.352311+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 0,
+          "quote": "# \"100,000 UFOs Are Surrounding Earth!\" ft. Top Astronomer Beatriz Villarro"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-lakenheath-bentwaters-incident",
+      "node_type": "organization",
+      "label": "Lakenheath-Bentwaters incident",
+      "summary": "The Lakenheath-Bentwaters Incident was a series of radar and visual contacts with unidentified flying objects over airbases in eastern England on the night of 13–14 August 1956, involving personnel from the Royal Air Force (RAF) and the United States Air Force (USAF). The incident has since gained s",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:17.352315+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 0,
+          "quote": "hey just got rid of it. In many ways, this was the inciting incident which sent Jock on his lifelong hero's journey to the furth"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-the-flying-saucers-are-real",
+      "node_type": "organization",
+      "label": "The Flying Saucers Are Real",
+      "summary": "The Flying Saucers Are Real, by Donald Keyhoe, is a book that investigated reports of UFOs by United States Air Force fighters, personnel, and other aircraft, between 1947 and 1950.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:17.352320+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 0,
+          "quote": "ects you're trying to see systematics in plate defects.  >> Real quick just for the audience what is a plate and why are oth"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-unidentified-flying-object",
+      "node_type": "organization",
+      "label": "Unidentified flying object",
+      "summary": "An unidentified flying object (UFO) is an object or phenomenon seen in the sky but not yet identified or explained. The term was coined when United States Air Force (USAF) investigations into flying saucers found too broad a range of shapes reported to consider them all saucers or discs. UFOs are al",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:17.352325+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 0,
+          "quote": "a solar  reflection wouldn't show up there. Exactly. a real object, you know, if it was in the way of the sun, you would get a"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-us-department-of-defense",
+      "node_type": "organization",
+      "label": "US Department of Defense",
+      "summary": "US Department of Defense entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:17.352329+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 0,
+          "quote": "ases who are basically hired to protect the crown jewels of defense. and they have to report if they're taking, you know, Tylen"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-lonnie-zamora-incident",
+      "node_type": "organization",
+      "label": "Lonnie Zamora incident",
+      "summary": "The Lonnie Zamora incident was an alleged UFO sighting that occurred on April 24, 1964 near Socorro, New Mexico when Socorro police officer Lonnie Zamora claimed he saw two people beside a shiny object that later rose into the air accompanied by a roaring blue and orange flame. Zamora's claims were ",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:17.352333+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 0,
+          "quote": "hey just got rid of it. In many ways, this was the inciting incident which sent Jock on his lifelong hero's journey to the furth"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-roswell-that-ends-well",
+      "node_type": "organization",
+      "label": "Roswell That Ends Well",
+      "summary": "\"Roswell That Ends Well\" is the nineteenth episode in the third season of the American animated television series Futurama, and the 51st episode of the series overall. It originally aired on the Fox network in the United States on December 9, 2001. The plot centers on an accidental time travel event",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:17.352337+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 0,
+          "quote": "ng UFOs surrounding  the Earth. What happened that day?  >> well, I've been working with transients for a while. But I think"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-the-galileo-project",
+      "node_type": "organization",
+      "label": "The Galileo Project",
+      "summary": "The Galileo Project is an international scientific research project to search for extraterrestrial intelligence or extraterrestrial technology on and near Earth and to identify the nature of anomalous Unidentified Flying Objects/Unidentified Aerial Phenomena (UFOs/UAP). It was launched in 2021 by Ha",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:17.352341+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 0,
+          "quote": "as likely not a coincidence. That same year, a very unusual project started at White Sands Missile Range, a military-funded ini"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-project-blue-book",
+      "node_type": "organization",
+      "label": "Project Blue Book",
+      "summary": "USAF UFO investigation program active from 1952 to 1969.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:17.352345+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 0,
+          "quote": "ween Truman and  Edward J. Rupelt, who was the head of Blue Book at the time. And it was, you had this Washington invasion o"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-world-contact-day",
+      "node_type": "organization",
+      "label": "World Contact Day",
+      "summary": "World Contact Day was first declared in March 1953 by an organization called the International Flying Saucer Bureau (IFSB), as a day on which all IFSB members would attempt to send a telepathic message into space. The IFSB voted to hold such a day in 1953, theorising that if both telepathy and alien",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:17.352350+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 0,
+          "quote": "sure to have you here in Stockholm.  >> Walk me through the day that you saw that there were maybe, you know, all these tra"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-us-air-force",
+      "node_type": "organization",
+      "label": "US Air Force",
+      "summary": "US Air Force entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:17.352355+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 0,
+          "quote": "al plates at the Harvard Observatory.  >> And he helped the US Air Force to debunk the Washington 1952 flap.  >> Y  >> and two or th"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-big-sur-ufo",
+      "node_type": "organization",
+      "label": "Big Sur UFO",
+      "summary": "The Big Sur UFO is a reported UFO incident that took place during a 1964 Air Force deployment to a mountaintop near Big Sur, California. The deployment was a mission was to film Atlas missile tests from Vandenberg Air Force Base. Since 1982, Robert Jacobs, who had overseen the mountaintop team, has ",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:17.352359+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 0,
+          "quote": "ho's  followed up on Beatatric's study and correlates these UFO appearances with nuclear tests. The transients correlate no"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-us-navy",
+      "node_type": "organization",
+      "label": "US Navy",
+      "summary": "US Navy entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:17.352363+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 0,
+          "quote": "omer,  astrophysicist there is, who was privy to classified Navy and, you know, all sorts of data, military data., and he wa"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-nasa",
+      "node_type": "organization",
+      "label": "NASA",
+      "summary": "NASA entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:17.352368+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 0,
+          "quote": "se they can't track it so they if I understand it correctly NASA and those always remove it from the background  >> okay  >>"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other",
+        "acronym": "NASA"
+      }
+    },
+    {
+      "id": "organization-cia",
+      "node_type": "organization",
+      "label": "CIA",
+      "summary": "CIA entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:17.352372+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 0,
+          "quote": "gton, ghostlike objects dart across the radar screen at the CIA traffic control center at National Airport for several hour"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other",
+        "acronym": "CIA"
+      }
+    },
+    {
+      "id": "location-pacific-training-area",
+      "node_type": "location",
+      "label": "Pacific Training Area",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:17.352377+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 0,
+          "quote": "thing wrong?  >> And you start thinking did I calculate the area of a circle on the sky correctly? And you start doing all k"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-roswell-new-mexico",
+      "node_type": "location",
+      "label": "Roswell, New Mexico",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:17.352381+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 0,
+          "quote": "ome British tests in Australia and then the US tests in New Mexico and in the Pacific.  >> That's right. There's Wumera test r"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-united-states",
+      "node_type": "location",
+      "label": "United States",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:17.352385+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 0,
+          "quote": "ly powers millions of creators and brands, about 10% of all United States e-commerce. From big names like Gym Shark and Mattel to sol"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-australia",
+      "node_type": "location",
+      "label": "Australia",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:17.352389+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 0,
+          "quote": "is all true. It's Kazakhstan, there's some British tests in Australia and then the US tests in New Mexico and in the Pacific.  >>"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-zimbabwe",
+      "node_type": "location",
+      "label": "Zimbabwe",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:17.352393+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 0,
+          "quote": "ima prefrure and their civilian nuclear grid. In the 90s in Zimbabwe, over 60 school children all saw a UFO land and an alien de"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-roswell",
+      "node_type": "location",
+      "label": "Roswell",
+      "summary": "",
+      "tags": [
+        "city"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:17.352397+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 0,
+          "quote": "tle on UFOs showing up all  over our nuclear installations. Roswell was the site of the most nukes in the US in 1947 at the tim"
+        }
+      ],
+      "type_specific": {
+        "location_type": "city",
+        "country": "US",
+        "state_or_region": "New Mexico"
+      }
+    },
+    {
+      "id": "location-area-51",
+      "node_type": "location",
+      "label": "Area 51",
+      "summary": "",
+      "tags": [
+        "military_base"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:17.352401+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 0,
+          "quote": " tests presumably at the Nevada test site which turned into Area 51, maybe the Marshall Islands are like those sorts of nuclear"
+        }
+      ],
+      "type_specific": {
+        "location_type": "military_base",
+        "country": "US",
+        "state_or_region": "Nevada"
+      }
+    },
+    {
+      "id": "location-mexico",
+      "node_type": "location",
+      "label": "Mexico",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:17.352405+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 0,
+          "quote": "ome British tests in Australia and then the US tests in New Mexico and in the Pacific.  >> That's right. There's Wumera test r"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-russia",
+      "node_type": "location",
+      "label": "Russia",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:17.352408+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 0,
+          "quote": "ose sorts of nuclear tests and then you know maybe whatever Russia was doing with the Zarbomb in Kazakhstan, that sort of thin"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "program-project-sign",
+      "node_type": "program",
+      "label": "Project Sign",
+      "summary": "",
+      "tags": [
+        "program"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:17.352413+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 0,
+          "quote": "s. These documents include the 1947 Twining memo, the 1948  Project Sign analysis, and the CIA's analysis of the 1952 DC UFO flyover"
+        }
+      ]
+    },
+    {
+      "id": "document-ufos-and-nukes",
+      "node_type": "document",
+      "label": "UFOs and Nukes",
+      "summary": "",
+      "tags": [
+        "book"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:17.352417+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 0,
+          "quote": "th the great journalist Robert Hastings, author of the book UFOs and Nukes, who's chronicled 167 Qcle cleared nuclear base employees w"
+        }
+      ],
+      "type_specific": {
+        "document_type": "book",
+        "author": "Robert Hastings"
+      }
+    },
+    {
+      "id": "claim-1zRWi_r3HRM-discussion-summary",
+      "node_type": "claim",
+      "label": "Video 1zRWi_r3HRM features extended discussion of Robert Hastings, Graham Hancock, Donald Menzel and",
+      "summary": "Video 1zRWi_r3HRM features extended discussion of Robert Hastings, Graham Hancock, Donald Menzel and related UAP research topics, hosted by Jesse Michels.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:17.352427+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 0,
+          "quote": "Episode title: \"100,000 UFOs Are Surrounding Earth!\" ft. Top Astronomer Beatriz Villarroel"
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Video 1zRWi_r3HRM features extended discussion of Robert Hastings, Graham Hancock, Donald Menzel and related UAP research topics, hosted by Jesse Michels.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "1zRWi_r3HRM",
+        "timestamp_start_seconds": 0,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-robert-hastings",
+          "person-graham-hancock",
+          "person-donald-menzel",
+          "video-1zRWi_r3HRM"
+        ]
+      }
+    },
+    {
+      "id": "person-beatriz-villarroel",
+      "node_type": "person",
+      "label": "Beatriz Villarroel",
+      "summary": "Swedish astrophysicist; PhD astrophysics; L'Oreal-UNESCO Women in Science prize; Associate Professor at Stockholm University. Detected ~105,000 unidentified transient objects in 1950s Palomar plates — pre-Sputnik.",
+      "tags": [
+        "scientist",
+        "astronomer",
+        "academic"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.485673+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 391,
+          "quote": "Stockholm University astronomer; Palomar transients discovery"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Villarroel",
+          "Beatriz",
+          "Voriel",
+          "Valale"
+        ],
+        "profession": "astrophysicist",
+        "notability_tags": [
+          "scientist",
+          "astronomer",
+          "academic"
+        ]
+      }
+    },
+    {
+      "id": "person-enrique-solano",
+      "node_type": "person",
+      "label": "Enrique Solano",
+      "summary": "Spanish astronomer; collaborator with Villarroel; discovered the July 19 1952 three-transient Palomar example.",
+      "tags": [
+        "scientist"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.485675+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 439,
+          "quote": "Spanish astronomer, co-discovered July 19 1952 transient triplet"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Solano"
+        ],
+        "profession": "astronomer",
+        "notability_tags": [
+          "scientist"
+        ]
+      }
+    },
+    {
+      "id": "person-steven-bruehl",
+      "node_type": "person",
+      "label": "Steven Bruehl",
+      "summary": "Vanderbilt PhD who replicated and extended Villarroel's Palomar transients work, correlating them with historical nuclear tests and public UAP sightings.",
+      "tags": [
+        "scientist",
+        "Vanderbilt"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.485677+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 407,
+          "quote": "Vanderbilt PhD correlating Palomar transients with nuclear tests"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Bruell",
+          "Bruehl"
+        ],
+        "profession": "scientist",
+        "notability_tags": [
+          "scientist",
+          "Vanderbilt"
+        ]
+      }
+    },
+    {
+      "id": "location-palomar-observatory",
+      "node_type": "location",
+      "label": "Palomar Observatory",
+      "summary": "",
+      "tags": [
+        "observation_site"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.485679+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 387,
+          "timestamp_end": "Most prominent pre-satellite-era US observatory"
+        }
+      ],
+      "type_specific": {
+        "location_type": "observation_site",
+        "country": "US",
+        "state_or_region": "California"
+      }
+    },
+    {
+      "id": "concept-vasco-project",
+      "node_type": "concept",
+      "label": "VASCO (Villarroel's Vanishing Stars Project)",
+      "summary": "Vanishing & Appearing Sources during a Century of Observations: Villarroel's project hunting stars that appear or vanish over historical timescales on astronomical plates.",
+      "tags": [
+        "physics"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.485681+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 439,
+          "timestamp_end": "Transient-hunting project by Villarroel's team"
+        }
+      ],
+      "type_specific": {
+        "concept_domain": "physics"
+      }
+    },
+    {
+      "id": "event-july-27-1952-washington-flap",
+      "node_type": "event",
+      "label": "Washington UFO Flap 1952",
+      "summary": "July 1952 Washington DC UFO sightings: ghostlike objects darted across the CIA traffic control radar at National Airport for several hours; corroborated independently by Villarroel's Palomar transients on same dates.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.485685+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 441,
+          "timestamp_end": "National Airport radar UFO sightings July 1952"
+        }
+      ],
+      "type_specific": {
+        "event_type": "other",
+        "date_approximate": "1952-07-27"
+      }
+    },
+    {
+      "id": "claim-1zRWi_r3HRM-villarroel-105k-pre-satellite-transients",
+      "node_type": "claim",
+      "label": "Villarroel's team found ~105,000 unidentified transient light sources in northern-hemisphere Palomar",
+      "summary": "Villarroel's team found ~105,000 unidentified transient light sources in northern-hemisphere Palomar plates — critically, from an era *before* Sputnik and any human-made orbital hardware.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.498783+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 389,
+          "quote": "Our original sample is around 105,000 transients from just the northern hemisphere. She detected these objects before the first satellite Sputnik ever orbited Earth."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Villarroel's team found ~105,000 unidentified transient light sources in northern-hemisphere Palomar plates — critically, from an era *before* Sputnik and any human-made orbital hardware.",
+        "asserted_by_id": "person-beatriz-villarroel",
+        "source_video_id": "1zRWi_r3HRM",
+        "timestamp_start_seconds": 389,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-beatriz-villarroel",
+          "location-palomar-observatory",
+          "concept-vasco-project"
+        ]
+      }
+    },
+    {
+      "id": "claim-1zRWi_r3HRM-july-1952-nine-objects-correlation",
+      "node_type": "claim",
+      "label": "Two statistically-significant multi-transient events appear on Palomar plates: five objects in a nar",
+      "summary": "Two statistically-significant multi-transient events appear on Palomar plates: five objects in a narrow band on July 27 1952, and three super-bright 'stars' on July 19 1952 — both dates coincide with the Washington UFO flap.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.498798+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 437,
+          "quote": "Five objects on a narrow band from the 27th of July 1952. Enrique Solano discovered another such example with three super bright beautiful stars from the 19th of July 1952."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Two statistically-significant multi-transient events appear on Palomar plates: five objects in a narrow band on July 27 1952, and three super-bright 'stars' on July 19 1952 — both dates coincide with the Washington UFO flap.",
+        "asserted_by_id": "person-beatriz-villarroel",
+        "source_video_id": "1zRWi_r3HRM",
+        "timestamp_start_seconds": 437,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-beatriz-villarroel",
+          "event-july-27-1952-washington-flap",
+          "person-enrique-solano"
+        ]
+      }
+    },
+    {
+      "id": "claim-1zRWi_r3HRM-bruehl-nuclear-correlation",
+      "node_type": "claim",
+      "label": "Vanderbilt PhD Steven Bruehl correlated the transients with nuclear tests AND (smaller but statistic",
+      "summary": "Vanderbilt PhD Steven Bruehl correlated the transients with nuclear tests AND (smaller but statistically significant) with public UAP reports — expanding the nuclear-UAP connection into the astronomical record.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.498811+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 409,
+          "quote": "We speak to a PhD from Vanderbilt, Dr. Steven Bruehl, who's followed up on Beatriz's study and correlates these UFO appearances with nuclear tests. The transients correlate not only with nuclear testing, but also show a small but statistically significant correlation with UAP reports."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Vanderbilt PhD Steven Bruehl correlated the transients with nuclear tests AND (smaller but statistically significant) with public UAP reports — expanding the nuclear-UAP connection into the astronomical record.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "1zRWi_r3HRM",
+        "timestamp_start_seconds": 409,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-steven-bruehl",
+          "person-beatriz-villarroel"
+        ]
+      }
+    },
+    {
+      "id": "claim-1zRWi_r3HRM-reflective-flat-objects-mirrors",
+      "node_type": "claim",
+      "label": "Villarroel describes the transients as 'short flashes not streaks' characteristic of objects that ar",
+      "summary": "Villarroel describes the transients as 'short flashes not streaks' characteristic of objects that are extremely flat and extremely reflective — like mirrors.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.498819+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 379,
+          "quote": "The short flashes and not streaks, they're associated with things that are extremely flat and extremely reflective. Like mirrors."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Villarroel describes the transients as 'short flashes not streaks' characteristic of objects that are extremely flat and extremely reflective — like mirrors.",
+        "asserted_by_id": "person-beatriz-villarroel",
+        "source_video_id": "1zRWi_r3HRM",
+        "timestamp_start_seconds": 379,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-beatriz-villarroel"
+        ]
+      }
+    },
+    {
+      "id": "claim-1zRWi_r3HRM-villarroel-peer-reviewed",
+      "node_type": "claim",
+      "label": "All of Villarroel's transient work has received peer review in mainstream astronomical journals — ac",
+      "summary": "All of Villarroel's transient work has received peer review in mainstream astronomical journals — academic validation of UFO-adjacent findings.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.498829+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 413,
+          "quote": "All of this work has received peer review in mainstream astronomical journals. She has finally caught the white whale in UFO science, academic validation."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "All of Villarroel's transient work has received peer review in mainstream astronomical journals — academic validation of UFO-adjacent findings.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "1zRWi_r3HRM",
+        "timestamp_start_seconds": 413,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-beatriz-villarroel"
+        ]
+      }
+    },
+    {
+      "id": "claim-1zRWi_r3HRM-villarroel-we-are-not-alone",
+      "node_type": "claim",
+      "label": "Villarroel states on camera: 'If I look at everything that I learned in the last years, I will be fa",
+      "summary": "Villarroel states on camera: 'If I look at everything that I learned in the last years, I will be fair — I don't think we are alone. I think we have company.'",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.498836+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 393,
+          "quote": "If I look at everything that I learned in the last years, I will be fair. I don't think we are alone. I think we have company."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Villarroel states on camera: 'If I look at everything that I learned in the last years, I will be fair — I don't think we are alone. I think we have company.'",
+        "asserted_by_id": "person-beatriz-villarroel",
+        "source_video_id": "1zRWi_r3HRM",
+        "timestamp_start_seconds": 393,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-beatriz-villarroel",
+          "concept-nhi"
+        ]
+      }
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge-video-1zRWi_r3HRM-HOSTED_BY-person-jesse-michels",
+      "from_node_id": "video-1zRWi_r3HRM",
+      "to_node_id": "person-jesse-michels",
+      "relationship": "HOSTED_BY",
+      "confidence": 0.99,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 0,
+          "quote": "Jesse hosting"
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-APPEARED_IN-video-1zRWi_r3HRM",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "video-1zRWi_r3HRM",
+      "relationship": "APPEARED_IN",
+      "confidence": 0.99,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 0,
+          "quote": "Host"
+        }
+      ],
+      "properties": {
+        "appearance_type": "host"
+      }
+    },
+    {
+      "id": "edge-video-1zRWi_r3HRM-MENTIONS-person-robert-hastings",
+      "from_node_id": "video-1zRWi_r3HRM",
+      "to_node_id": "person-robert-hastings",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 0,
+          "quote": "Whoa. If you've seen our show or read the work of the great Robert Hastings, you'll know that the Nuclear UFO Connection is widespread,"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1zRWi_r3HRM-MENTIONS-person-graham-hancock",
+      "from_node_id": "video-1zRWi_r3HRM",
+      "to_node_id": "person-graham-hancock",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 0,
+          "quote": "in 1956 and I was reading an article that a guy named Larry Hancock with the SCU did   where they were looking at sightings of "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1zRWi_r3HRM-MENTIONS-person-donald-menzel",
+      "from_node_id": "video-1zRWi_r3HRM",
+      "to_node_id": "person-donald-menzel",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 0,
+          "quote": "ata known to the public in the ' 50s and60s was a guy named Donald Menzel. Dr. Donald Menzel came out swinging against UFOs. But than"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1zRWi_r3HRM-MENTIONS-person-james-harder",
+      "from_node_id": "video-1zRWi_r3HRM",
+      "to_node_id": "person-james-harder",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 0,
+          "quote": "st the Earth's rotation and enter a backwards orbit is much harder. As baffling as this mystery object's backwards trajectory "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1zRWi_r3HRM-MENTIONS-person-love-has-won",
+      "from_node_id": "video-1zRWi_r3HRM",
+      "to_node_id": "person-love-has-won",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 0,
+          "quote": "e. Dr. Beatatrice Voriel holds a PhD in astrophysics. She's won the L'Oreal UNESCO prize for women in science. She's curren"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1zRWi_r3HRM-MENTIONS-person-timothy-good",
+      "from_node_id": "video-1zRWi_r3HRM",
+      "to_node_id": "person-timothy-good",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 0,
+          "quote": "ive of humanity the  Vegas civilization sees. Not exactly a good first look. In a manner just like Bracewell's concept, the "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1zRWi_r3HRM-MENTIONS-person-chan-thomas",
+      "from_node_id": "video-1zRWi_r3HRM",
+      "to_node_id": "person-chan-thomas",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 0,
+          "quote": "> Well, this is how science moves forward. If you read like Thomas Coon's like the structure of scientific revolutions, he say"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1zRWi_r3HRM-MENTIONS-person-kid-cosmic",
+      "from_node_id": "video-1zRWi_r3HRM",
+      "to_node_id": "person-kid-cosmic",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 0,
+          "quote": "objects.  >> Yeah. People could of course say oh it's  just cosmic rays then or it's something you know it's some high energy "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1zRWi_r3HRM-MENTIONS-organization-international-ufo-museum-and-research-center",
+      "from_node_id": "video-1zRWi_r3HRM",
+      "to_node_id": "organization-international-ufo-museum-and-research-center",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 0,
+          "quote": "cts dart across the radar screen at the CIA traffic control center at National Airport for several hours.  >> This was a natio"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1zRWi_r3HRM-MENTIONS-organization-the-report-on-unidentified-flying-objects",
+      "from_node_id": "video-1zRWi_r3HRM",
+      "to_node_id": "organization-the-report-on-unidentified-flying-objects",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 0,
+          "quote": "Royale has found over 100,000 light reflecting unidentified objects on the plates of the Palomar Observatory, the most prominen"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1zRWi_r3HRM-MENTIONS-organization-1952-washington-d-c-ufo-incident",
+      "from_node_id": "video-1zRWi_r3HRM",
+      "to_node_id": "organization-1952-washington-d-c-ufo-incident",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 0,
+          "quote": "hey just got rid of it. In many ways, this was the inciting incident which sent Jock on his lifelong hero's journey to the furth"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1zRWi_r3HRM-MENTIONS-organization-identification-studies-of-ufos",
+      "from_node_id": "video-1zRWi_r3HRM",
+      "to_node_id": "organization-identification-studies-of-ufos",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 0,
+          "quote": "# \"100,000 UFOs Are Surrounding Earth!\" ft. Top Astronomer Beatriz Villarro"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1zRWi_r3HRM-MENTIONS-organization-lakenheath-bentwaters-incident",
+      "from_node_id": "video-1zRWi_r3HRM",
+      "to_node_id": "organization-lakenheath-bentwaters-incident",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 0,
+          "quote": "hey just got rid of it. In many ways, this was the inciting incident which sent Jock on his lifelong hero's journey to the furth"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1zRWi_r3HRM-MENTIONS-organization-the-flying-saucers-are-real",
+      "from_node_id": "video-1zRWi_r3HRM",
+      "to_node_id": "organization-the-flying-saucers-are-real",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 0,
+          "quote": "ects you're trying to see systematics in plate defects.  >> Real quick just for the audience what is a plate and why are oth"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1zRWi_r3HRM-MENTIONS-organization-unidentified-flying-object",
+      "from_node_id": "video-1zRWi_r3HRM",
+      "to_node_id": "organization-unidentified-flying-object",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 0,
+          "quote": "a solar  reflection wouldn't show up there. Exactly. a real object, you know, if it was in the way of the sun, you would get a"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1zRWi_r3HRM-MENTIONS-organization-us-department-of-defense",
+      "from_node_id": "video-1zRWi_r3HRM",
+      "to_node_id": "organization-us-department-of-defense",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 0,
+          "quote": "ases who are basically hired to protect the crown jewels of defense. and they have to report if they're taking, you know, Tylen"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1zRWi_r3HRM-MENTIONS-organization-lonnie-zamora-incident",
+      "from_node_id": "video-1zRWi_r3HRM",
+      "to_node_id": "organization-lonnie-zamora-incident",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 0,
+          "quote": "hey just got rid of it. In many ways, this was the inciting incident which sent Jock on his lifelong hero's journey to the furth"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1zRWi_r3HRM-MENTIONS-organization-roswell-that-ends-well",
+      "from_node_id": "video-1zRWi_r3HRM",
+      "to_node_id": "organization-roswell-that-ends-well",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 0,
+          "quote": "ng UFOs surrounding  the Earth. What happened that day?  >> well, I've been working with transients for a while. But I think"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1zRWi_r3HRM-MENTIONS-organization-the-galileo-project",
+      "from_node_id": "video-1zRWi_r3HRM",
+      "to_node_id": "organization-the-galileo-project",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 0,
+          "quote": "as likely not a coincidence. That same year, a very unusual project started at White Sands Missile Range, a military-funded ini"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1zRWi_r3HRM-MENTIONS-organization-project-blue-book",
+      "from_node_id": "video-1zRWi_r3HRM",
+      "to_node_id": "organization-project-blue-book",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 0,
+          "quote": "ween Truman and  Edward J. Rupelt, who was the head of Blue Book at the time. And it was, you had this Washington invasion o"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1zRWi_r3HRM-MENTIONS-organization-world-contact-day",
+      "from_node_id": "video-1zRWi_r3HRM",
+      "to_node_id": "organization-world-contact-day",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 0,
+          "quote": "sure to have you here in Stockholm.  >> Walk me through the day that you saw that there were maybe, you know, all these tra"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1zRWi_r3HRM-MENTIONS-organization-us-air-force",
+      "from_node_id": "video-1zRWi_r3HRM",
+      "to_node_id": "organization-us-air-force",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 0,
+          "quote": "al plates at the Harvard Observatory.  >> And he helped the US Air Force to debunk the Washington 1952 flap.  >> Y  >> and two or th"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1zRWi_r3HRM-MENTIONS-organization-big-sur-ufo",
+      "from_node_id": "video-1zRWi_r3HRM",
+      "to_node_id": "organization-big-sur-ufo",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 0,
+          "quote": "ho's  followed up on Beatatric's study and correlates these UFO appearances with nuclear tests. The transients correlate no"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1zRWi_r3HRM-MENTIONS-organization-us-navy",
+      "from_node_id": "video-1zRWi_r3HRM",
+      "to_node_id": "organization-us-navy",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 0,
+          "quote": "omer,  astrophysicist there is, who was privy to classified Navy and, you know, all sorts of data, military data., and he wa"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1zRWi_r3HRM-MENTIONS-organization-nasa",
+      "from_node_id": "video-1zRWi_r3HRM",
+      "to_node_id": "organization-nasa",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 0,
+          "quote": "se they can't track it so they if I understand it correctly NASA and those always remove it from the background  >> okay  >>"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1zRWi_r3HRM-MENTIONS-organization-cia",
+      "from_node_id": "video-1zRWi_r3HRM",
+      "to_node_id": "organization-cia",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 0,
+          "quote": "gton, ghostlike objects dart across the radar screen at the CIA traffic control center at National Airport for several hour"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1zRWi_r3HRM-MENTIONS-location-pacific-training-area",
+      "from_node_id": "video-1zRWi_r3HRM",
+      "to_node_id": "location-pacific-training-area",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 0,
+          "quote": "thing wrong?  >> And you start thinking did I calculate the area of a circle on the sky correctly? And you start doing all k"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1zRWi_r3HRM-MENTIONS-location-roswell-new-mexico",
+      "from_node_id": "video-1zRWi_r3HRM",
+      "to_node_id": "location-roswell-new-mexico",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 0,
+          "quote": "ome British tests in Australia and then the US tests in New Mexico and in the Pacific.  >> That's right. There's Wumera test r"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1zRWi_r3HRM-MENTIONS-location-united-states",
+      "from_node_id": "video-1zRWi_r3HRM",
+      "to_node_id": "location-united-states",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 0,
+          "quote": "ly powers millions of creators and brands, about 10% of all United States e-commerce. From big names like Gym Shark and Mattel to sol"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1zRWi_r3HRM-MENTIONS-location-australia",
+      "from_node_id": "video-1zRWi_r3HRM",
+      "to_node_id": "location-australia",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 0,
+          "quote": "is all true. It's Kazakhstan, there's some British tests in Australia and then the US tests in New Mexico and in the Pacific.  >>"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1zRWi_r3HRM-MENTIONS-location-zimbabwe",
+      "from_node_id": "video-1zRWi_r3HRM",
+      "to_node_id": "location-zimbabwe",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 0,
+          "quote": "ima prefrure and their civilian nuclear grid. In the 90s in Zimbabwe, over 60 school children all saw a UFO land and an alien de"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1zRWi_r3HRM-MENTIONS-location-roswell",
+      "from_node_id": "video-1zRWi_r3HRM",
+      "to_node_id": "location-roswell",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 0,
+          "quote": "tle on UFOs showing up all  over our nuclear installations. Roswell was the site of the most nukes in the US in 1947 at the tim"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1zRWi_r3HRM-MENTIONS-location-area-51",
+      "from_node_id": "video-1zRWi_r3HRM",
+      "to_node_id": "location-area-51",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 0,
+          "quote": " tests presumably at the Nevada test site which turned into Area 51, maybe the Marshall Islands are like those sorts of nuclear"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1zRWi_r3HRM-MENTIONS-location-mexico",
+      "from_node_id": "video-1zRWi_r3HRM",
+      "to_node_id": "location-mexico",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 0,
+          "quote": "ome British tests in Australia and then the US tests in New Mexico and in the Pacific.  >> That's right. There's Wumera test r"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1zRWi_r3HRM-MENTIONS-location-russia",
+      "from_node_id": "video-1zRWi_r3HRM",
+      "to_node_id": "location-russia",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 0,
+          "quote": "ose sorts of nuclear tests and then you know maybe whatever Russia was doing with the Zarbomb in Kazakhstan, that sort of thin"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1zRWi_r3HRM-MENTIONS-program-project-sign",
+      "from_node_id": "video-1zRWi_r3HRM",
+      "to_node_id": "program-project-sign",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 0,
+          "quote": "s. These documents include the 1947 Twining memo, the 1948  Project Sign analysis, and the CIA's analysis of the 1952 DC UFO flyover"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1zRWi_r3HRM-CITES-document-ufos-and-nukes",
+      "from_node_id": "video-1zRWi_r3HRM",
+      "to_node_id": "document-ufos-and-nukes",
+      "relationship": "CITES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 0,
+          "quote": "th the great journalist Robert Hastings, author of the book UFOs and Nukes, who's chronicled 167 Qcle cleared nuclear base employees w"
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-1zRWi_r3HRM-discussion-summary",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-1zRWi_r3HRM-discussion-summary",
+      "relationship": "ASSERTED",
+      "confidence": 0.9,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 0,
+          "quote": "Episode: \"100,000 UFOs Are Surrounding Earth!\" ft. Top Astronomer Beatriz Villarroel"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1zRWi_r3HRM-REFERENCES-claim-1zRWi_r3HRM-discussion-summary",
+      "from_node_id": "video-1zRWi_r3HRM",
+      "to_node_id": "claim-1zRWi_r3HRM-discussion-summary",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 0
+        }
+      ]
+    },
+    {
+      "id": "edge-person-beatriz-villarroel-ASSERTED-claim-1zRWi_r3HRM-villarroel-105k-pre-satellite-transients",
+      "from_node_id": "person-beatriz-villarroel",
+      "to_node_id": "claim-1zRWi_r3HRM-villarroel-105k-pre-satellite-transients",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 389,
+          "quote": "Villarroel's team found ~105,000 unidentified transient light sources in northern-hemisphere Palomar plates — critically, from an era *before* Sputnik and any human-made orbital hardware."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1zRWi_r3HRM-REFERENCES-claim-1zRWi_r3HRM-villarroel-105k-pre-satellite-transients",
+      "from_node_id": "video-1zRWi_r3HRM",
+      "to_node_id": "claim-1zRWi_r3HRM-villarroel-105k-pre-satellite-transients",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 389
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-1zRWi_r3HRM-villarroel-105k-pre-satellite-transients-REFERENCES-location-palomar-observatory",
+      "from_node_id": "claim-1zRWi_r3HRM-villarroel-105k-pre-satellite-transients",
+      "to_node_id": "location-palomar-observatory",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 389
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-1zRWi_r3HRM-villarroel-105k-pre-satellite-transients-REFERENCES-concept-vasco-project",
+      "from_node_id": "claim-1zRWi_r3HRM-villarroel-105k-pre-satellite-transients",
+      "to_node_id": "concept-vasco-project",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 389
+        }
+      ]
+    },
+    {
+      "id": "edge-person-beatriz-villarroel-ASSERTED-claim-1zRWi_r3HRM-july-1952-nine-objects-correlation",
+      "from_node_id": "person-beatriz-villarroel",
+      "to_node_id": "claim-1zRWi_r3HRM-july-1952-nine-objects-correlation",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 437,
+          "quote": "Two statistically-significant multi-transient events appear on Palomar plates: five objects in a narrow band on July 27 1952, and three super-bright 'stars' on July 19 1952 — both dates coincide with "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1zRWi_r3HRM-REFERENCES-claim-1zRWi_r3HRM-july-1952-nine-objects-correlation",
+      "from_node_id": "video-1zRWi_r3HRM",
+      "to_node_id": "claim-1zRWi_r3HRM-july-1952-nine-objects-correlation",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 437
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-1zRWi_r3HRM-july-1952-nine-objects-correlation-REFERENCES-event-july-27-1952-washington-flap",
+      "from_node_id": "claim-1zRWi_r3HRM-july-1952-nine-objects-correlation",
+      "to_node_id": "event-july-27-1952-washington-flap",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 437
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-1zRWi_r3HRM-july-1952-nine-objects-correlation-REFERENCES-person-enrique-solano",
+      "from_node_id": "claim-1zRWi_r3HRM-july-1952-nine-objects-correlation",
+      "to_node_id": "person-enrique-solano",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 437
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-1zRWi_r3HRM-bruehl-nuclear-correlation",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-1zRWi_r3HRM-bruehl-nuclear-correlation",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 409,
+          "quote": "Vanderbilt PhD Steven Bruehl correlated the transients with nuclear tests AND (smaller but statistically significant) with public UAP reports — expanding the nuclear-UAP connection into the astronomic"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1zRWi_r3HRM-REFERENCES-claim-1zRWi_r3HRM-bruehl-nuclear-correlation",
+      "from_node_id": "video-1zRWi_r3HRM",
+      "to_node_id": "claim-1zRWi_r3HRM-bruehl-nuclear-correlation",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 409
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-1zRWi_r3HRM-bruehl-nuclear-correlation-REFERENCES-person-steven-bruehl",
+      "from_node_id": "claim-1zRWi_r3HRM-bruehl-nuclear-correlation",
+      "to_node_id": "person-steven-bruehl",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 409
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-1zRWi_r3HRM-bruehl-nuclear-correlation-REFERENCES-person-beatriz-villarroel",
+      "from_node_id": "claim-1zRWi_r3HRM-bruehl-nuclear-correlation",
+      "to_node_id": "person-beatriz-villarroel",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 409
+        }
+      ]
+    },
+    {
+      "id": "edge-person-beatriz-villarroel-ASSERTED-claim-1zRWi_r3HRM-reflective-flat-objects-mirrors",
+      "from_node_id": "person-beatriz-villarroel",
+      "to_node_id": "claim-1zRWi_r3HRM-reflective-flat-objects-mirrors",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 379,
+          "quote": "Villarroel describes the transients as 'short flashes not streaks' characteristic of objects that are extremely flat and extremely reflective — like mirrors."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1zRWi_r3HRM-REFERENCES-claim-1zRWi_r3HRM-reflective-flat-objects-mirrors",
+      "from_node_id": "video-1zRWi_r3HRM",
+      "to_node_id": "claim-1zRWi_r3HRM-reflective-flat-objects-mirrors",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 379
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-1zRWi_r3HRM-villarroel-peer-reviewed",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-1zRWi_r3HRM-villarroel-peer-reviewed",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 413,
+          "quote": "All of Villarroel's transient work has received peer review in mainstream astronomical journals — academic validation of UFO-adjacent findings."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1zRWi_r3HRM-REFERENCES-claim-1zRWi_r3HRM-villarroel-peer-reviewed",
+      "from_node_id": "video-1zRWi_r3HRM",
+      "to_node_id": "claim-1zRWi_r3HRM-villarroel-peer-reviewed",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 413
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-1zRWi_r3HRM-villarroel-peer-reviewed-REFERENCES-person-beatriz-villarroel",
+      "from_node_id": "claim-1zRWi_r3HRM-villarroel-peer-reviewed",
+      "to_node_id": "person-beatriz-villarroel",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 413
+        }
+      ]
+    },
+    {
+      "id": "edge-person-beatriz-villarroel-ASSERTED-claim-1zRWi_r3HRM-villarroel-we-are-not-alone",
+      "from_node_id": "person-beatriz-villarroel",
+      "to_node_id": "claim-1zRWi_r3HRM-villarroel-we-are-not-alone",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 393,
+          "quote": "Villarroel states on camera: 'If I look at everything that I learned in the last years, I will be fair — I don't think we are alone. I think we have company.'"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-1zRWi_r3HRM-REFERENCES-claim-1zRWi_r3HRM-villarroel-we-are-not-alone",
+      "from_node_id": "video-1zRWi_r3HRM",
+      "to_node_id": "claim-1zRWi_r3HRM-villarroel-we-are-not-alone",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 393
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-1zRWi_r3HRM-villarroel-we-are-not-alone-REFERENCES-concept-nhi",
+      "from_node_id": "claim-1zRWi_r3HRM-villarroel-we-are-not-alone",
+      "to_node_id": "concept-nhi",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "1zRWi_r3HRM",
+          "timestamp_start": 393
+        }
+      ]
+    }
+  ],
+  "extracted_at": "2026-04-17T12:31:49.498847+00:00",
+  "extractor_version": "v1-inline-claude"
+}

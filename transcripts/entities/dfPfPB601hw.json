@@ -1,0 +1,2468 @@
+{
+  "video_id": "dfPfPB601hw",
+  "nodes": [
+    {
+      "id": "video-dfPfPB601hw",
+      "node_type": "video",
+      "label": "Graham Hancock: Aliens, Atlantis & the Apocalypse",
+      "summary": "Graham Hancock is an unrelenting journalist uncovering the origins of humanity’s forgotten past. His new docuseries on Netflix is called Ancient Apocalypse and it documents the abundance...",
+      "tags": [
+        "video",
+        "american-alchemy"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:09.568984+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 0,
+          "timestamp_end": 4682.0,
+          "quote": "Video: Graham Hancock: Aliens, Atlantis & the Apocalypse"
+        }
+      ],
+      "type_specific": {
+        "video_id": "dfPfPB601hw",
+        "title": "Graham Hancock: Aliens, Atlantis & the Apocalypse",
+        "url": "https://www.youtube.com/watch?v=dfPfPB601hw",
+        "view_count": 1571481,
+        "duration_seconds": 4682.0,
+        "host_id": "person-jesse-michels",
+        "guest_ids": [
+          "person-graham-hancock"
+        ]
+      }
+    },
+    {
+      "id": "person-jesse-michels",
+      "node_type": "person",
+      "label": "Jesse Michels",
+      "summary": "Host of American Alchemy podcast/show. Independent journalist and UFO/NHI researcher.",
+      "tags": [
+        "journalist",
+        "interviewer",
+        "researcher",
+        "host"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:09.569293+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 0,
+          "quote": "Host of American Alchemy podcast/show."
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Jesse",
+          "Michels"
+        ],
+        "profession": "journalist",
+        "notability_tags": [
+          "journalist",
+          "interviewer",
+          "researcher",
+          "host"
+        ]
+      }
+    },
+    {
+      "id": "person-graham-hancock",
+      "node_type": "person",
+      "label": "Graham Hancock",
+      "summary": "",
+      "tags": [
+        "author",
+        "ancient history"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.018180+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 0,
+          "quote": "# Graham Hancock: Aliens, Atlantis & the Apocalypse https://www.youtube.com/"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Hancock"
+        ],
+        "notability_tags": [
+          "author",
+          "ancient history"
+        ]
+      }
+    },
+    {
+      "id": "person-james-mcdonald",
+      "node_type": "person",
+      "label": "James McDonald",
+      "summary": "",
+      "tags": [
+        "physicist",
+        "researcher"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.018211+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 0,
+          "quote": "compares the last supper with prior Pagan rituals is Dennis McDonald a theology professor at Claremont he writes they eating fle"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Dr. McDonald",
+          "McDonald"
+        ],
+        "notability_tags": [
+          "physicist",
+          "researcher"
+        ]
+      }
+    },
+    {
+      "id": "person-james-harder",
+      "node_type": "person",
+      "label": "James Harder",
+      "summary": "James Albert Harder, Ph.D., (December 2, 1926 – December 30, 2006) was a professor of civil and hydraulic engineering at the University of California, Berkeley. He was a professor emeritus there. Harder also had interest in ufology.",
+      "tags": [
+        "wikipedia",
+        "california institute of technology alumni",
+        "people from fullerton, california",
+        "uc berkeley college of engineering faculty",
+        "ufologists",
+        "university of california, berkeley alumni"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.018217+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 0,
+          "quote": "u believe that telepathy and telekinesis or telepathy we're harder to control if you have those abilities yeah and they ignore"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Harder",
+          "JAMES HARDER",
+          "james harder"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "california institute of technology alumni",
+          "people from fullerton, california",
+          "uc berkeley college of engineering faculty",
+          "ufologists",
+          "university of california, berkeley alumni"
+        ]
+      }
+    },
+    {
+      "id": "person-love-has-won",
+      "node_type": "person",
+      "label": "Love Has Won",
+      "summary": "Love Has Won (LHW), also known as the Galactic Federation of Light, is an American new religious movement that was led by Amy Carlson until her death in 2021. Carlson was referred to within the group as \"Mother God\", who described herself as, among other things, the creator of the universe, with the",
+      "tags": [
+        "wikipedia",
+        "2007 establishments in colorado",
+        "ancient astronaut speculation",
+        "covid-19 vaccine misinformation and hesitancy",
+        "climate change denial in the united states",
+        "holocaust denial in the united states",
+        "new age organizations",
+        "new religious movements established in the 2000s",
+        "qanon",
+        "religious belief systems founded in the united states",
+        "religious controversies in the united states",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.018222+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 0,
+          "quote": "ture of DNA wrote a paper about directed what a Nobel Prize won a Nobel Prize you know renowned scientist he wrote a  paper"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "LOVE HAS WON",
+          "Won",
+          "love has won"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "2007 establishments in colorado",
+          "ancient astronaut speculation",
+          "covid-19 vaccine misinformation and hesitancy",
+          "climate change denial in the united states",
+          "holocaust denial in the united states",
+          "new age organizations",
+          "new religious movements established in the 2000s",
+          "qanon",
+          "religious belief systems founded in the united states",
+          "religious controversies in the united states",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "person-riley-martin",
+      "node_type": "person",
+      "label": "Riley Martin",
+      "summary": "Riley Lee Martin (May 9, 1946 – December 22, 2015) was an American self-described alien contactee, author and radio host. Martin was the author of the book The Coming of Tan, which describes his life and his alleged alien visitation. He hosted The Riley Martin Show on the Sirius XM Radio channel How",
+      "tags": [
+        "wikipedia",
+        "20th-century african-american people",
+        "african-american radio personalities",
+        "american conspiracy theorists",
+        "american outsider artists",
+        "american people who self-identify as being of native american descent",
+        "contactees",
+        "people from natchez, mississippi",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.018229+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 0,
+          "quote": "pper was actually a pagan mystery ritual is not new in fact Martin Luther King wrote a little-known essay called the influence"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Martin",
+          "RILEY MARTIN",
+          "riley martin"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "20th-century african-american people",
+          "african-american radio personalities",
+          "american conspiracy theorists",
+          "american outsider artists",
+          "american people who self-identify as being of native american descent",
+          "contactees",
+          "people from natchez, mississippi",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "person-timothy-good",
+      "node_type": "person",
+      "label": "Timothy Good",
+      "summary": "",
+      "tags": [
+        "researcher",
+        "author"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.018233+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 0,
+          "quote": "re you my friend I'm doing very well very welcome Jesse I'm good man do you believe that there are survivors of ancient Atla"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Tim Good",
+          "Good"
+        ],
+        "notability_tags": [
+          "researcher",
+          "author"
+        ]
+      }
+    },
+    {
+      "id": "person-chan-thomas",
+      "node_type": "person",
+      "label": "Chan Thomas",
+      "summary": "Chan Thomas (1920–1998) was an American engineer, ufologist, writer on ancient cataclysms, and self-proclaimed polymath whose ideas have influenced conspiracy theorists in the 21st century.",
+      "tags": [
+        "wikipedia",
+        "20th-century american engineers",
+        "mcdonnell douglas people",
+        "ufologists",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.018237+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 0,
+          "quote": "y key and this isn't even a gnostic text like the Gospel of Thomas this is canonical New Testament in religions as let's take "
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "CHAN THOMAS",
+          "Thomas",
+          "chan thomas"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "20th-century american engineers",
+          "mcdonnell douglas people",
+          "ufologists",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "person-kid-cosmic",
+      "node_type": "person",
+      "label": "Kid Cosmic",
+      "summary": "Kid Cosmic is an American animated superhero television series created by Craig McCracken and developed by McCracken, his wife Lauren Faust and Francisco Angones for Netflix. The series was based on his 2009 comic The Kid from Planet Earth. Produced in-house by Netflix Animation, the show is McCrack",
+      "tags": [
+        "wikipedia",
+        "2020s american animated comedy television series",
+        "2020s american children's comedy television series",
+        "2020s american science fiction comedy television series",
+        "2020s american superhero comedy television series",
+        "2021 american animated television series debuts",
+        "2022 american television series endings",
+        "american english-language television shows",
+        "american children's animated action television series",
+        "american children's animated adventure television series",
+        "american children's animated comic science fiction television series",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.018241+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 0,
+          "quote": "ine of Earth which contains all the classic indicators of a cosmic impact exactly the same as the younger driest band yeah why"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Cosmic",
+          "KID COSMIC",
+          "kid cosmic"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "2020s american animated comedy television series",
+          "2020s american children's comedy television series",
+          "2020s american science fiction comedy television series",
+          "2020s american superhero comedy television series",
+          "2021 american animated television series debuts",
+          "2022 american television series endings",
+          "american english-language television shows",
+          "american children's animated action television series",
+          "american children's animated adventure television series",
+          "american children's animated comic science fiction television series",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "organization-international-ufo-museum-and-research-center",
+      "node_type": "organization",
+      "label": "International UFO Museum and Research Center",
+      "summary": "The International UFO Museum and Research Center is located in Roswell, New Mexico, United States, in the downtown district, and is focused largely on the 1947 Roswell Crash and later supposed UFO incidents in the United States and elsewhere. It was founded in 1991 as a 501c3 nonprofit educational o",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.018281+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 0,
+          "quote": "s in Lake Tana in Ethiopia and Lake Tana in Ethiopia is the center the absolute center of the area in which the Ethiopian Jews"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-the-report-on-unidentified-flying-objects",
+      "node_type": "organization",
+      "label": "The Report on Unidentified Flying Objects",
+      "summary": "The Report on Unidentified Flying Objects is a 1956 book by then-retired Air Force UFO investigator Edward J. Ruppelt, detailing his experience running Project Blue Book. The book was noted for its suggestion that a few UFO sightings might be linked to spikes of atomic radiation. Contemporary media ",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.018291+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 0,
+          "quote": "y I don't know if he's done work on telekinesis where where objects are moved directly with the power of the Mind rather than u"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-chiles-whitted-ufo-encounter",
+      "node_type": "organization",
+      "label": "Chiles-Whitted UFO encounter",
+      "summary": "The Chiles-Whitted UFO encounter occurred at approximately 2:45 AM on July 24, 1948, in the skies near Montgomery, Alabama, United States. Two commercial pilots, Clarence S. Chiles and John B. Whitted, claimed to have observed a \"glowing object\" pass by their plane before it appeared to pull up into",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.018296+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 0,
+          "quote": "asca Journeys in the in the Amazon I had an a typical Alien Encounter and I was sitting on a bench outside the Shaman's Hut feeli"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-the-flying-saucers-are-real",
+      "node_type": "organization",
+      "label": "The Flying Saucers Are Real",
+      "summary": "The Flying Saucers Are Real, by Donald Keyhoe, is a book that investigated reports of UFOs by United States Air Force fighters, personnel, and other aircraft, between 1947 and 1950.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.018301+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 0,
+          "quote": "emasons and now there's like a hermetic transfer without  a real or exoteric organization even existing yes it can it can be"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-unidentified-flying-object",
+      "node_type": "organization",
+      "label": "Unidentified flying object",
+      "summary": "An unidentified flying object (UFO) is an object or phenomenon seen in the sky but not yet identified or explained. The term was coined when United States Air Force (USAF) investigations into flying saucers found too broad a range of shapes reported to consider them all saucers or discs. UFOs are al",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.018305+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 0,
+          "quote": " know and could be stood up as a reasonable I never saw the object that is called The Ark itself and maybe that's just as well"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-roswell-that-ends-well",
+      "node_type": "organization",
+      "label": "Roswell That Ends Well",
+      "summary": "\"Roswell That Ends Well\" is the nineteenth episode in the third season of the American animated television series Futurama, and the 51st episode of the series overall. It originally aired on the Fox network in the United States on December 9, 2001. The plot centers on an accidental time travel event",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.018309+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 0,
+          "quote": "PB601hw  hello Randall how are you my friend I'm doing very well very welcome Jesse I'm good man do you believe that there a"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-the-galileo-project",
+      "node_type": "organization",
+      "label": "The Galileo Project",
+      "summary": "The Galileo Project is an international scientific research project to search for extraterrestrial intelligence or extraterrestrial technology on and near Earth and to identify the nature of anomalous Unidentified Flying Objects/Unidentified Aerial Phenomena (UFOs/UAP). It was launched in 2021 by Ha",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.018317+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 0,
+          "quote": "s a number of times recently but there's a really important project going  on at Imperial College in London and this is the fir"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-thornton-leigh-page",
+      "node_type": "organization",
+      "label": "Thornton Leigh Page",
+      "summary": "Thornton Leigh Page was an American professor of astronomy at the University of Chicago and at Wesleyan University. He became embroiled in the controversy over unidentified flying objects (UFOs) after serving briefly on the Robertson Panel, a Central Intelligence Agency–sponsored committee of scient",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.018321+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 0,
+          "quote": "them and I went through to the date given and I opened that page and I saw just one line and it said climbed Great Pyramid t"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-project-blue-book",
+      "node_type": "organization",
+      "label": "Project Blue Book",
+      "summary": "USAF UFO investigation program active from 1952 to 1969.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.018325+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 0,
+          "quote": "ard-headed and scientific it's almost as if he'll write one book for the esoteric psychonaut and then the next for the moder"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-world-contact-day",
+      "node_type": "organization",
+      "label": "World Contact Day",
+      "summary": "World Contact Day was first declared in March 1953 by an organization called the International Flying Saucer Bureau (IFSB), as a day on which all IFSB members would attempt to send a telepathic message into space. The IFSB voted to hold such a day in 1953, theorising that if both telepathy and alien",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.018332+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 0,
+          "quote": "t it's been everywhere around us some of it's been in every day every day is haven't understood or  recognized according to"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-us-air-force",
+      "node_type": "organization",
+      "label": "US Air Force",
+      "summary": "US Air Force entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.018336+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 0,
+          "quote": "t to 6 million megatons of TNT or 600 times the destructive force of the entire Earth nuclear Arsenal and isn't there specula"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-big-sur-ufo",
+      "node_type": "organization",
+      "label": "Big Sur UFO",
+      "summary": "The Big Sur UFO is a reported UFO incident that took place during a 1964 Air Force deployment to a mountaintop near Big Sur, California. The deployment was a mission was to film Atlas missile tests from Vandenberg Air Force Base. Since 1982, Robert Jacobs, who had overseen the mountaintop team, has ",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.018340+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 0,
+          "quote": "lot on this  show yeah you talk about modern abductions and UFO sightings kind of paddled now we're getting onto a subject "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-nasa",
+      "node_type": "organization",
+      "label": "NASA",
+      "summary": "NASA entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.018348+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 0,
+          "quote": "edia stream because that is the peak of the torrids in June NASA's DART program aimed to prove that humans  can deflect aste"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other",
+        "acronym": "NASA"
+      }
+    },
+    {
+      "id": "location-pacific-training-area",
+      "node_type": "location",
+      "label": "Pacific Training Area",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.018352+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 0,
+          "quote": "rees didn't kill anybody because it was over an uninhabited area of Siberia but did enormous enormous damage and the fact th"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-rendlesham-forest",
+      "node_type": "location",
+      "label": "Rendlesham Forest",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.018357+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 0,
+          "quote": "that may have been above sea level in times past the Amazon forest which is the size of the Indian subcontinent and the 4 mill"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-brazil",
+      "node_type": "location",
+      "label": "Brazil",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.018368+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 0,
+          "quote": "ychedelics and that was back in 2006 drinking Ayahuasca in  Brazil over a series of five sessions I was given literally given "
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-iran",
+      "node_type": "location",
+      "label": "Iran",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.018372+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 0,
+          "quote": "heir own and the saw human soul is supposed to come through Iran's but I was really importantly yes the right and that's and"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "document-passport-to-magonia",
+      "node_type": "document",
+      "label": "Passport to Magonia",
+      "summary": "",
+      "tags": [
+        "book"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.018377+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 0,
+          "quote": "e never met Jack valet admiration for him because his book  passport to Magonia was a breakthrough book and anybody who's interested in the"
+        }
+      ],
+      "type_specific": {
+        "document_type": "book",
+        "author": "Jacques Vallee"
+      }
+    },
+    {
+      "id": "claim-dfPfPB601hw-discussion-summary",
+      "node_type": "claim",
+      "label": "Video dfPfPB601hw features extended discussion of Graham Hancock, James McDonald, James Harder and r",
+      "summary": "Video dfPfPB601hw features extended discussion of Graham Hancock, James McDonald, James Harder and related UAP research topics, hosted by Jesse Michels.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.018387+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 0,
+          "quote": "Episode title: Graham Hancock: Aliens, Atlantis & the Apocalypse"
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Video dfPfPB601hw features extended discussion of Graham Hancock, James McDonald, James Harder and related UAP research topics, hosted by Jesse Michels.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "dfPfPB601hw",
+        "timestamp_start_seconds": 0,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-graham-hancock",
+          "person-james-mcdonald",
+          "person-james-harder",
+          "video-dfPfPB601hw"
+        ]
+      }
+    },
+    {
+      "id": "concept-younger-dryas-impact",
+      "node_type": "concept",
+      "label": "Younger Dryas Impact Theory",
+      "summary": "Hypothesis that a Torrid-meteor-stream impact ~12,800 years ago caused a global cataclysm wiping out an advanced ice-age civilization — Hancock's preferred framing for the mechanism of a civilizational reset.",
+      "tags": [
+        "physics"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:05:09.445517+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 14,
+          "quote": "Asteroid/comet impact ~12,800 years ago causing global cataclysm"
+        }
+      ],
+      "type_specific": {
+        "concept_domain": "physics"
+      }
+    },
+    {
+      "id": "concept-torrid-meteor-stream",
+      "node_type": "concept",
+      "label": "Taurid Meteor Stream",
+      "summary": "Annual meteor streams (Northern and Southern Taurids) from a disintegrated parent comet ~20,000 years ago. Hancock argues the next 30 years include a dangerous 'lumpy' crossing period.",
+      "tags": [
+        "physics"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:05:09.445520+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 58,
+          "quote": "Ongoing cometary debris stream containing civilization-destroying potential"
+        }
+      ],
+      "type_specific": {
+        "concept_domain": "physics"
+      }
+    },
+    {
+      "id": "document-fingerprints-of-the-gods",
+      "node_type": "document",
+      "label": "Fingerprints of the Gods",
+      "summary": "Graham Hancock's 1995 book proposing that a sophisticated civilization predates Mesopotamian origins and left a worldwide legacy.",
+      "tags": [
+        "book"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:05:09.445522+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 10,
+          "quote": "Hancock's 1995 cult classic on lost civilizations"
+        }
+      ],
+      "type_specific": {
+        "document_type": "book",
+        "author": "Graham Hancock",
+        "publication_year": 1995
+      }
+    },
+    {
+      "id": "document-ancient-apocalypse-netflix",
+      "node_type": "document",
+      "label": "Ancient Apocalypse",
+      "summary": "Graham Hancock's Netflix docuseries examining archaeological evidence for a lost pre-Younger-Dryas civilization.",
+      "tags": [
+        "broadcast"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:05:09.445525+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 10,
+          "quote": "Hancock's 2022+ Netflix docuseries"
+        }
+      ],
+      "type_specific": {
+        "document_type": "broadcast",
+        "author": "Graham Hancock"
+      }
+    },
+    {
+      "id": "document-hancock-supernatural",
+      "node_type": "document",
+      "label": "Supernatural",
+      "summary": "Hancock's 2005 book on psychedelics, consciousness, and the 'other beings' encountered during ayahuasca and DMT use.",
+      "tags": [
+        "book"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:05:09.445527+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 30,
+          "quote": "Hancock's 2005 book on DMT, ayahuasca, and alien contact"
+        }
+      ],
+      "type_specific": {
+        "document_type": "book",
+        "author": "Graham Hancock",
+        "publication_year": 2005
+      }
+    },
+    {
+      "id": "document-gobekli-tepe-record",
+      "node_type": "document",
+      "label": "Göbekli Tepe Archaeological Record",
+      "summary": "Excavated from the 1990s; ~9000 BC megalithic complex in modern Turkey with 50-ton blocks, predating agricultural revolution and complicating the standard civilization timeline.",
+      "tags": [
+        "report"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:05:09.445534+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 20,
+          "quote": "Pre-agricultural megalithic complex in Turkey dating to ~9000 BC"
+        }
+      ],
+      "type_specific": {
+        "document_type": "report"
+      }
+    },
+    {
+      "id": "event-shoemaker-levy-9-jupiter",
+      "node_type": "event",
+      "label": "Shoemaker-Levy 9 Jupiter Impact",
+      "summary": "1994 comet impact on Jupiter; Hancock cites its 6M-megaton equivalent (600× Earth's nuclear arsenal) as evidence of ongoing cometary threat.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:05:09.445537+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 62,
+          "quote": "Half-mile-wide comet impact on Jupiter equivalent to 6M megatons"
+        }
+      ],
+      "type_specific": {
+        "event_type": "other",
+        "date_approximate": "1994-07-01"
+      }
+    },
+    {
+      "id": "event-tunguska-1908",
+      "node_type": "event",
+      "label": "Tunguska Event",
+      "summary": "1908-06-30 airburst in Siberia — flattened ~2,000 square miles of forest; timing suggests Taurid meteor stream origin per Hancock.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:05:09.445539+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 62,
+          "quote": "Taurid-stream airburst flattening 2,000 sq miles of Siberian forest"
+        }
+      ],
+      "type_specific": {
+        "event_type": "other",
+        "date_approximate": "1908-06-30"
+      }
+    },
+    {
+      "id": "person-michael-shermer",
+      "node_type": "person",
+      "label": "Michael Shermer",
+      "summary": "Founder of Skeptic Magazine; debated Hancock on Joe Rogan Experience 2017; later acknowledged Hancock's case for a missing ice-age chapter of human history.",
+      "tags": [
+        "skeptic",
+        "author"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:05:09.445541+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 38,
+          "quote": "Skeptic who debated Hancock on JRE 2017 and later conceded ground"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Shermer"
+        ],
+        "profession": "author",
+        "notability_tags": [
+          "skeptic",
+          "author"
+        ]
+      }
+    },
+    {
+      "id": "person-allan-west",
+      "node_type": "person",
+      "label": "Allan West",
+      "summary": "Comet Research Group scientist cited by Hancock as warning that the next 30 years are dangerous for Taurid-stream encounters.",
+      "tags": [
+        "scientist",
+        "comet-research-group"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:05:09.445544+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 68,
+          "quote": "Comet Research Group scientist warning of Taurid danger"
+        }
+      ],
+      "type_specific": {
+        "aliases": [],
+        "profession": "scientist",
+        "notability_tags": [
+          "scientist",
+          "comet-research-group"
+        ]
+      }
+    },
+    {
+      "id": "person-randall-carlson",
+      "node_type": "person",
+      "label": "Randall Carlson",
+      "summary": "American geologist and Younger Dryas Impact Theory proponent; frequent Hancock collaborator.",
+      "tags": [
+        "researcher",
+        "geologist"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:05:09.445548+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 6,
+          "quote": "Geologist and Younger Dryas Impact proponent; opens the video with Hancock"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Randall"
+        ],
+        "profession": "geologist",
+        "notability_tags": [
+          "researcher",
+          "geologist"
+        ]
+      }
+    },
+    {
+      "id": "claim-dfPfPB601hw-hancock-younger-dryas-thesis",
+      "node_type": "claim",
+      "label": "Hancock's central thesis: an asteroid/comet impact ~12,800 years ago (Younger Dryas boundary) trigge",
+      "summary": "Hancock's central thesis: an asteroid/comet impact ~12,800 years ago (Younger Dryas boundary) triggered a global cataclysm and destroyed an advanced civilization, preserved only in ~2,000 flood myths and transmitted technical knowledge.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:05:09.451437+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 14,
+          "quote": "This hypothesis known as the younger dryas impact theory sustains that an asteroid from the torrid meteor stream hit the earth causing a global cataclysm."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Hancock's central thesis: an asteroid/comet impact ~12,800 years ago (Younger Dryas boundary) triggered a global cataclysm and destroyed an advanced civilization, preserved only in ~2,000 flood myths and transmitted technical knowledge.",
+        "asserted_by_id": "person-graham-hancock",
+        "source_video_id": "dfPfPB601hw",
+        "timestamp_start_seconds": 14,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-graham-hancock",
+          "concept-younger-dryas-impact",
+          "concept-torrid-meteor-stream"
+        ]
+      }
+    },
+    {
+      "id": "claim-dfPfPB601hw-gobekli-tepe-challenges-timeline",
+      "node_type": "claim",
+      "label": "Gobekli Tepe (~9000 BC, 50-ton blocks, pre-agricultural) demonstrates hunter-gatherers could organiz",
+      "summary": "Gobekli Tepe (~9000 BC, 50-ton blocks, pre-agricultural) demonstrates hunter-gatherers could organize megalithic construction, overturning the standard Fertile-Crescent civilization-origin model.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:05:09.451449+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 20,
+          "quote": "Gobekli Tepe an ancient burial site in modern Turkey dating as far back as 9000 BC and involving the complex assembly of 50 ton blocks. It's not something that you're a hunter-gatherer and you wake up one morning and think oh I'm just going to build the largest megalithic site."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Gobekli Tepe (~9000 BC, 50-ton blocks, pre-agricultural) demonstrates hunter-gatherers could organize megalithic construction, overturning the standard Fertile-Crescent civilization-origin model.",
+        "asserted_by_id": "person-graham-hancock",
+        "source_video_id": "dfPfPB601hw",
+        "timestamp_start_seconds": 20,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-graham-hancock",
+          "document-gobekli-tepe-record"
+        ]
+      }
+    },
+    {
+      "id": "claim-dfPfPB601hw-hancock-2000-flood-myths",
+      "node_type": "claim",
+      "label": "Hancock claims ~2,000 flood myths across unconnected cultures corroborate a global flooding event at",
+      "summary": "Hancock claims ~2,000 flood myths across unconnected cultures corroborate a global flooding event at the end of the last ice age.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:05:09.451456+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 26,
+          "quote": "That story is one of approximately 2,000 flood conditions found all around the world, clearly documenting a global phenomenon."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Hancock claims ~2,000 flood myths across unconnected cultures corroborate a global flooding event at the end of the last ice age.",
+        "asserted_by_id": "person-graham-hancock",
+        "source_video_id": "dfPfPB601hw",
+        "timestamp_start_seconds": 26,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-graham-hancock",
+          "concept-younger-dryas-impact"
+        ]
+      }
+    },
+    {
+      "id": "claim-dfPfPB601hw-taurid-stream-ongoing-threat",
+      "node_type": "claim",
+      "label": "Hancock cites Alan West (Comet Research Group) warning the next 30 years include a 'lumpy and danger",
+      "summary": "Hancock cites Alan West (Comet Research Group) warning the next 30 years include a 'lumpy and dangerous' Taurid-stream crossing period.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:05:09.451463+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 58,
+          "quote": "Dr Alan West one of the scientists from the comet research group points that out that the next 30 years are a danger time."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Hancock cites Alan West (Comet Research Group) warning the next 30 years include a 'lumpy and dangerous' Taurid-stream crossing period.",
+        "asserted_by_id": "person-graham-hancock",
+        "source_video_id": "dfPfPB601hw",
+        "timestamp_start_seconds": 58,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-graham-hancock",
+          "person-allan-west",
+          "concept-torrid-meteor-stream"
+        ]
+      }
+    },
+    {
+      "id": "claim-dfPfPB601hw-shoemaker-levy-scale",
+      "node_type": "claim",
+      "label": "Shoemaker-Levy 9's 1994 Jupiter impact released ~6 million megatons — 600× the destructive force of ",
+      "summary": "Shoemaker-Levy 9's 1994 Jupiter impact released ~6 million megatons — 600× the destructive force of Earth's entire nuclear arsenal — despite being only half a mile wide.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:05:09.451471+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 62,
+          "quote": "Its impact on Jupiter was the equivalent to 6 million megatons of TNT or 600 times the destructive force of the entire Earth nuclear Arsenal."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Shoemaker-Levy 9's 1994 Jupiter impact released ~6 million megatons — 600× the destructive force of Earth's entire nuclear arsenal — despite being only half a mile wide.",
+        "asserted_by_id": "person-graham-hancock",
+        "source_video_id": "dfPfPB601hw",
+        "timestamp_start_seconds": 62,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "event-shoemaker-levy-9-jupiter"
+        ]
+      }
+    },
+    {
+      "id": "claim-dfPfPB601hw-tunguska-taurid-origin",
+      "node_type": "claim",
+      "label": "Tunguska 1908 (30 June) airburst's timing coincides with the Taurid-stream peak, suggesting Taurid o",
+      "summary": "Tunguska 1908 (30 June) airburst's timing coincides with the Taurid-stream peak, suggesting Taurid origin per Hancock.",
+      "tags": [
+        "speculation",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:05:09.451478+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 64,
+          "quote": "The fact that it occurred on the 30th of June suggests very strongly that it was part of the Taurid meteor stream because that is the peak of the Taurids in June."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Tunguska 1908 (30 June) airburst's timing coincides with the Taurid-stream peak, suggesting Taurid origin per Hancock.",
+        "asserted_by_id": "person-graham-hancock",
+        "source_video_id": "dfPfPB601hw",
+        "timestamp_start_seconds": 64,
+        "assertability": "speculation",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "event-tunguska-1908",
+          "concept-torrid-meteor-stream"
+        ]
+      }
+    },
+    {
+      "id": "claim-dfPfPB601hw-shermer-concession-hancock",
+      "node_type": "claim",
+      "label": "Michael Shermer — once a dogmatic Hancock skeptic — privately conceded by email that Hancock's Ancie",
+      "summary": "Michael Shermer — once a dogmatic Hancock skeptic — privately conceded by email that Hancock's Ancient Apocalypse made a good case for a forgotten ice-age civilization chapter.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:05:09.451485+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 42,
+          "quote": "I had an email from him concerning my ancient Apocalypse series on Netflix where he kindly said that he felt I'd made a good case for my basic proposition."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Michael Shermer — once a dogmatic Hancock skeptic — privately conceded by email that Hancock's Ancient Apocalypse made a good case for a forgotten ice-age civilization chapter.",
+        "asserted_by_id": "person-graham-hancock",
+        "source_video_id": "dfPfPB601hw",
+        "timestamp_start_seconds": 42,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-graham-hancock",
+          "person-michael-shermer"
+        ]
+      }
+    },
+    {
+      "id": "claim-dfPfPB601hw-nasa-dart-comet-deflection",
+      "node_type": "claim",
+      "label": "NASA's DART mission (2021-2022) successfully altered asteroid Dimorphos' orbit, proving human abilit",
+      "summary": "NASA's DART mission (2021-2022) successfully altered asteroid Dimorphos' orbit, proving human ability to deflect small objects — but Dimorphos' 200m diameter is far below civilization-threatening scale.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:05:09.451492+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 66,
+          "quote": "NASA's DART program aimed to prove that humans can deflect asteroids with satellites. Dimorphos has a diameter of 200 meters, not even close to the half mile width of Shoemaker Levy."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "NASA's DART mission (2021-2022) successfully altered asteroid Dimorphos' orbit, proving human ability to deflect small objects — but Dimorphos' 200m diameter is far below civilization-threatening scale.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "dfPfPB601hw",
+        "timestamp_start_seconds": 66,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "organization-nasa",
+          "concept-torrid-meteor-stream"
+        ]
+      }
+    },
+    {
+      "id": "claim-dfPfPB601hw-hancock-skeptic-reaction-dogmatic",
+      "node_type": "claim",
+      "label": "Hancock argues mainstream archaeology reflexively dismisses pre-Younger-Dryas civilization evidence ",
+      "summary": "Hancock argues mainstream archaeology reflexively dismisses pre-Younger-Dryas civilization evidence because it dovetails with biblical flood narratives, which researchers feel they must oppose as unscientific.",
+      "tags": [
+        "speculation",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:05:09.451503+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 48,
+          "quote": "Why they reflexively might deny this is because it interestingly dovetails with stories in the Bible and other religious texts around great floods."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Hancock argues mainstream archaeology reflexively dismisses pre-Younger-Dryas civilization evidence because it dovetails with biblical flood narratives, which researchers feel they must oppose as unscientific.",
+        "asserted_by_id": "person-graham-hancock",
+        "source_video_id": "dfPfPB601hw",
+        "timestamp_start_seconds": 48,
+        "assertability": "speculation",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-graham-hancock"
+        ]
+      }
+    },
+    {
+      "id": "claim-dfPfPB601hw-supernatural-dmt-alien-contact",
+      "node_type": "claim",
+      "label": "Hancock's 2005 book Supernatural documents his argument that DMT / ayahuasca states access the same ",
+      "summary": "Hancock's 2005 book Supernatural documents his argument that DMT / ayahuasca states access the same class of 'other beings' classically interpreted as aliens or spirits across cultures.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:05:09.451510+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 30,
+          "quote": "His fascinating beliefs on aliens which he writes about in his 2005 hitbook Supernatural."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Hancock's 2005 book Supernatural documents his argument that DMT / ayahuasca states access the same class of 'other beings' classically interpreted as aliens or spirits across cultures.",
+        "asserted_by_id": "person-graham-hancock",
+        "source_video_id": "dfPfPB601hw",
+        "timestamp_start_seconds": 30,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-graham-hancock",
+          "document-hancock-supernatural",
+          "concept-nhi"
+        ]
+      }
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge-video-dfPfPB601hw-HOSTED_BY-person-jesse-michels",
+      "from_node_id": "video-dfPfPB601hw",
+      "to_node_id": "person-jesse-michels",
+      "relationship": "HOSTED_BY",
+      "confidence": 0.99,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 0,
+          "quote": "Jesse hosting"
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-APPEARED_IN-video-dfPfPB601hw",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "video-dfPfPB601hw",
+      "relationship": "APPEARED_IN",
+      "confidence": 0.99,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 0,
+          "quote": "Host"
+        }
+      ],
+      "properties": {
+        "appearance_type": "host"
+      }
+    },
+    {
+      "id": "edge-person-graham-hancock-APPEARED_IN-video-dfPfPB601hw",
+      "from_node_id": "person-graham-hancock",
+      "to_node_id": "video-dfPfPB601hw",
+      "relationship": "APPEARED_IN",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 0,
+          "quote": "# Graham Hancock: Aliens, Atlantis & the Apocalypse https://www.youtube.com/"
+        }
+      ],
+      "properties": {
+        "appearance_type": "guest"
+      }
+    },
+    {
+      "id": "edge-video-dfPfPB601hw-DISCUSSES-person-graham-hancock",
+      "from_node_id": "video-dfPfPB601hw",
+      "to_node_id": "person-graham-hancock",
+      "relationship": "DISCUSSES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 0,
+          "quote": "# Graham Hancock: Aliens, Atlantis & the Apocalypse https://www.youtube.com/"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dfPfPB601hw-MENTIONS-person-james-mcdonald",
+      "from_node_id": "video-dfPfPB601hw",
+      "to_node_id": "person-james-mcdonald",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 0,
+          "quote": "compares the last supper with prior Pagan rituals is Dennis McDonald a theology professor at Claremont he writes they eating fle"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dfPfPB601hw-MENTIONS-person-james-harder",
+      "from_node_id": "video-dfPfPB601hw",
+      "to_node_id": "person-james-harder",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 0,
+          "quote": "u believe that telepathy and telekinesis or telepathy we're harder to control if you have those abilities yeah and they ignore"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dfPfPB601hw-MENTIONS-person-love-has-won",
+      "from_node_id": "video-dfPfPB601hw",
+      "to_node_id": "person-love-has-won",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 0,
+          "quote": "ture of DNA wrote a paper about directed what a Nobel Prize won a Nobel Prize you know renowned scientist he wrote a  paper"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dfPfPB601hw-MENTIONS-person-riley-martin",
+      "from_node_id": "video-dfPfPB601hw",
+      "to_node_id": "person-riley-martin",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 0,
+          "quote": "pper was actually a pagan mystery ritual is not new in fact Martin Luther King wrote a little-known essay called the influence"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dfPfPB601hw-MENTIONS-person-timothy-good",
+      "from_node_id": "video-dfPfPB601hw",
+      "to_node_id": "person-timothy-good",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 0,
+          "quote": "re you my friend I'm doing very well very welcome Jesse I'm good man do you believe that there are survivors of ancient Atla"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dfPfPB601hw-MENTIONS-person-chan-thomas",
+      "from_node_id": "video-dfPfPB601hw",
+      "to_node_id": "person-chan-thomas",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 0,
+          "quote": "y key and this isn't even a gnostic text like the Gospel of Thomas this is canonical New Testament in religions as let's take "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dfPfPB601hw-MENTIONS-person-kid-cosmic",
+      "from_node_id": "video-dfPfPB601hw",
+      "to_node_id": "person-kid-cosmic",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 0,
+          "quote": "ine of Earth which contains all the classic indicators of a cosmic impact exactly the same as the younger driest band yeah why"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dfPfPB601hw-MENTIONS-organization-international-ufo-museum-and-research-center",
+      "from_node_id": "video-dfPfPB601hw",
+      "to_node_id": "organization-international-ufo-museum-and-research-center",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 0,
+          "quote": "s in Lake Tana in Ethiopia and Lake Tana in Ethiopia is the center the absolute center of the area in which the Ethiopian Jews"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dfPfPB601hw-MENTIONS-organization-the-report-on-unidentified-flying-objects",
+      "from_node_id": "video-dfPfPB601hw",
+      "to_node_id": "organization-the-report-on-unidentified-flying-objects",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 0,
+          "quote": "y I don't know if he's done work on telekinesis where where objects are moved directly with the power of the Mind rather than u"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dfPfPB601hw-MENTIONS-organization-chiles-whitted-ufo-encounter",
+      "from_node_id": "video-dfPfPB601hw",
+      "to_node_id": "organization-chiles-whitted-ufo-encounter",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 0,
+          "quote": "asca Journeys in the in the Amazon I had an a typical Alien Encounter and I was sitting on a bench outside the Shaman's Hut feeli"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dfPfPB601hw-MENTIONS-organization-the-flying-saucers-are-real",
+      "from_node_id": "video-dfPfPB601hw",
+      "to_node_id": "organization-the-flying-saucers-are-real",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 0,
+          "quote": "emasons and now there's like a hermetic transfer without  a real or exoteric organization even existing yes it can it can be"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dfPfPB601hw-MENTIONS-organization-unidentified-flying-object",
+      "from_node_id": "video-dfPfPB601hw",
+      "to_node_id": "organization-unidentified-flying-object",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 0,
+          "quote": " know and could be stood up as a reasonable I never saw the object that is called The Ark itself and maybe that's just as well"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dfPfPB601hw-MENTIONS-organization-roswell-that-ends-well",
+      "from_node_id": "video-dfPfPB601hw",
+      "to_node_id": "organization-roswell-that-ends-well",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 0,
+          "quote": "PB601hw  hello Randall how are you my friend I'm doing very well very welcome Jesse I'm good man do you believe that there a"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dfPfPB601hw-MENTIONS-organization-the-galileo-project",
+      "from_node_id": "video-dfPfPB601hw",
+      "to_node_id": "organization-the-galileo-project",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 0,
+          "quote": "s a number of times recently but there's a really important project going  on at Imperial College in London and this is the fir"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dfPfPB601hw-MENTIONS-organization-thornton-leigh-page",
+      "from_node_id": "video-dfPfPB601hw",
+      "to_node_id": "organization-thornton-leigh-page",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 0,
+          "quote": "them and I went through to the date given and I opened that page and I saw just one line and it said climbed Great Pyramid t"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dfPfPB601hw-MENTIONS-organization-project-blue-book",
+      "from_node_id": "video-dfPfPB601hw",
+      "to_node_id": "organization-project-blue-book",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 0,
+          "quote": "ard-headed and scientific it's almost as if he'll write one book for the esoteric psychonaut and then the next for the moder"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dfPfPB601hw-MENTIONS-organization-world-contact-day",
+      "from_node_id": "video-dfPfPB601hw",
+      "to_node_id": "organization-world-contact-day",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 0,
+          "quote": "t it's been everywhere around us some of it's been in every day every day is haven't understood or  recognized according to"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dfPfPB601hw-MENTIONS-organization-us-air-force",
+      "from_node_id": "video-dfPfPB601hw",
+      "to_node_id": "organization-us-air-force",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 0,
+          "quote": "t to 6 million megatons of TNT or 600 times the destructive force of the entire Earth nuclear Arsenal and isn't there specula"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dfPfPB601hw-MENTIONS-organization-big-sur-ufo",
+      "from_node_id": "video-dfPfPB601hw",
+      "to_node_id": "organization-big-sur-ufo",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 0,
+          "quote": "lot on this  show yeah you talk about modern abductions and UFO sightings kind of paddled now we're getting onto a subject "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dfPfPB601hw-MENTIONS-organization-nasa",
+      "from_node_id": "video-dfPfPB601hw",
+      "to_node_id": "organization-nasa",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 0,
+          "quote": "edia stream because that is the peak of the torrids in June NASA's DART program aimed to prove that humans  can deflect aste"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dfPfPB601hw-MENTIONS-location-pacific-training-area",
+      "from_node_id": "video-dfPfPB601hw",
+      "to_node_id": "location-pacific-training-area",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 0,
+          "quote": "rees didn't kill anybody because it was over an uninhabited area of Siberia but did enormous enormous damage and the fact th"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dfPfPB601hw-MENTIONS-location-rendlesham-forest",
+      "from_node_id": "video-dfPfPB601hw",
+      "to_node_id": "location-rendlesham-forest",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 0,
+          "quote": "that may have been above sea level in times past the Amazon forest which is the size of the Indian subcontinent and the 4 mill"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dfPfPB601hw-MENTIONS-location-brazil",
+      "from_node_id": "video-dfPfPB601hw",
+      "to_node_id": "location-brazil",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 0,
+          "quote": "ychedelics and that was back in 2006 drinking Ayahuasca in  Brazil over a series of five sessions I was given literally given "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dfPfPB601hw-MENTIONS-location-iran",
+      "from_node_id": "video-dfPfPB601hw",
+      "to_node_id": "location-iran",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 0,
+          "quote": "heir own and the saw human soul is supposed to come through Iran's but I was really importantly yes the right and that's and"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dfPfPB601hw-CITES-document-passport-to-magonia",
+      "from_node_id": "video-dfPfPB601hw",
+      "to_node_id": "document-passport-to-magonia",
+      "relationship": "CITES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 0,
+          "quote": "e never met Jack valet admiration for him because his book  passport to Magonia was a breakthrough book and anybody who's interested in the"
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-dfPfPB601hw-discussion-summary",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-dfPfPB601hw-discussion-summary",
+      "relationship": "ASSERTED",
+      "confidence": 0.9,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 0,
+          "quote": "Episode: Graham Hancock: Aliens, Atlantis & the Apocalypse"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dfPfPB601hw-REFERENCES-claim-dfPfPB601hw-discussion-summary",
+      "from_node_id": "video-dfPfPB601hw",
+      "to_node_id": "claim-dfPfPB601hw-discussion-summary",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 0
+        }
+      ]
+    },
+    {
+      "id": "edge-person-graham-hancock-ASSERTED-claim-dfPfPB601hw-hancock-younger-dryas-thesis",
+      "from_node_id": "person-graham-hancock",
+      "to_node_id": "claim-dfPfPB601hw-hancock-younger-dryas-thesis",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 14,
+          "quote": "Hancock's central thesis: an asteroid/comet impact ~12,800 years ago (Younger Dryas boundary) triggered a global cataclysm and destroyed an advanced civilization, preserved only in ~2,000 flood myths "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dfPfPB601hw-REFERENCES-claim-dfPfPB601hw-hancock-younger-dryas-thesis",
+      "from_node_id": "video-dfPfPB601hw",
+      "to_node_id": "claim-dfPfPB601hw-hancock-younger-dryas-thesis",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 14
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-dfPfPB601hw-hancock-younger-dryas-thesis-REFERENCES-concept-younger-dryas-impact",
+      "from_node_id": "claim-dfPfPB601hw-hancock-younger-dryas-thesis",
+      "to_node_id": "concept-younger-dryas-impact",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 14
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-dfPfPB601hw-hancock-younger-dryas-thesis-REFERENCES-concept-torrid-meteor-stream",
+      "from_node_id": "claim-dfPfPB601hw-hancock-younger-dryas-thesis",
+      "to_node_id": "concept-torrid-meteor-stream",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 14
+        }
+      ]
+    },
+    {
+      "id": "edge-person-graham-hancock-ASSERTED-claim-dfPfPB601hw-gobekli-tepe-challenges-timeline",
+      "from_node_id": "person-graham-hancock",
+      "to_node_id": "claim-dfPfPB601hw-gobekli-tepe-challenges-timeline",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 20,
+          "quote": "Gobekli Tepe (~9000 BC, 50-ton blocks, pre-agricultural) demonstrates hunter-gatherers could organize megalithic construction, overturning the standard Fertile-Crescent civilization-origin model."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dfPfPB601hw-REFERENCES-claim-dfPfPB601hw-gobekli-tepe-challenges-timeline",
+      "from_node_id": "video-dfPfPB601hw",
+      "to_node_id": "claim-dfPfPB601hw-gobekli-tepe-challenges-timeline",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 20
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-dfPfPB601hw-gobekli-tepe-challenges-timeline-REFERENCES-document-gobekli-tepe-record",
+      "from_node_id": "claim-dfPfPB601hw-gobekli-tepe-challenges-timeline",
+      "to_node_id": "document-gobekli-tepe-record",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 20
+        }
+      ]
+    },
+    {
+      "id": "edge-person-graham-hancock-ASSERTED-claim-dfPfPB601hw-hancock-2000-flood-myths",
+      "from_node_id": "person-graham-hancock",
+      "to_node_id": "claim-dfPfPB601hw-hancock-2000-flood-myths",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 26,
+          "quote": "Hancock claims ~2,000 flood myths across unconnected cultures corroborate a global flooding event at the end of the last ice age."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dfPfPB601hw-REFERENCES-claim-dfPfPB601hw-hancock-2000-flood-myths",
+      "from_node_id": "video-dfPfPB601hw",
+      "to_node_id": "claim-dfPfPB601hw-hancock-2000-flood-myths",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 26
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-dfPfPB601hw-hancock-2000-flood-myths-REFERENCES-concept-younger-dryas-impact",
+      "from_node_id": "claim-dfPfPB601hw-hancock-2000-flood-myths",
+      "to_node_id": "concept-younger-dryas-impact",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 26
+        }
+      ]
+    },
+    {
+      "id": "edge-person-graham-hancock-ASSERTED-claim-dfPfPB601hw-taurid-stream-ongoing-threat",
+      "from_node_id": "person-graham-hancock",
+      "to_node_id": "claim-dfPfPB601hw-taurid-stream-ongoing-threat",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 58,
+          "quote": "Hancock cites Alan West (Comet Research Group) warning the next 30 years include a 'lumpy and dangerous' Taurid-stream crossing period."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dfPfPB601hw-REFERENCES-claim-dfPfPB601hw-taurid-stream-ongoing-threat",
+      "from_node_id": "video-dfPfPB601hw",
+      "to_node_id": "claim-dfPfPB601hw-taurid-stream-ongoing-threat",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 58
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-dfPfPB601hw-taurid-stream-ongoing-threat-REFERENCES-person-allan-west",
+      "from_node_id": "claim-dfPfPB601hw-taurid-stream-ongoing-threat",
+      "to_node_id": "person-allan-west",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 58
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-dfPfPB601hw-taurid-stream-ongoing-threat-REFERENCES-concept-torrid-meteor-stream",
+      "from_node_id": "claim-dfPfPB601hw-taurid-stream-ongoing-threat",
+      "to_node_id": "concept-torrid-meteor-stream",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 58
+        }
+      ]
+    },
+    {
+      "id": "edge-person-graham-hancock-ASSERTED-claim-dfPfPB601hw-shoemaker-levy-scale",
+      "from_node_id": "person-graham-hancock",
+      "to_node_id": "claim-dfPfPB601hw-shoemaker-levy-scale",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 62,
+          "quote": "Shoemaker-Levy 9's 1994 Jupiter impact released ~6 million megatons — 600× the destructive force of Earth's entire nuclear arsenal — despite being only half a mile wide."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dfPfPB601hw-REFERENCES-claim-dfPfPB601hw-shoemaker-levy-scale",
+      "from_node_id": "video-dfPfPB601hw",
+      "to_node_id": "claim-dfPfPB601hw-shoemaker-levy-scale",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 62
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-dfPfPB601hw-shoemaker-levy-scale-REFERENCES-event-shoemaker-levy-9-jupiter",
+      "from_node_id": "claim-dfPfPB601hw-shoemaker-levy-scale",
+      "to_node_id": "event-shoemaker-levy-9-jupiter",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 62
+        }
+      ]
+    },
+    {
+      "id": "edge-person-graham-hancock-ASSERTED-claim-dfPfPB601hw-tunguska-taurid-origin",
+      "from_node_id": "person-graham-hancock",
+      "to_node_id": "claim-dfPfPB601hw-tunguska-taurid-origin",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 64,
+          "quote": "Tunguska 1908 (30 June) airburst's timing coincides with the Taurid-stream peak, suggesting Taurid origin per Hancock."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dfPfPB601hw-REFERENCES-claim-dfPfPB601hw-tunguska-taurid-origin",
+      "from_node_id": "video-dfPfPB601hw",
+      "to_node_id": "claim-dfPfPB601hw-tunguska-taurid-origin",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 64
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-dfPfPB601hw-tunguska-taurid-origin-REFERENCES-event-tunguska-1908",
+      "from_node_id": "claim-dfPfPB601hw-tunguska-taurid-origin",
+      "to_node_id": "event-tunguska-1908",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 64
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-dfPfPB601hw-tunguska-taurid-origin-REFERENCES-concept-torrid-meteor-stream",
+      "from_node_id": "claim-dfPfPB601hw-tunguska-taurid-origin",
+      "to_node_id": "concept-torrid-meteor-stream",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 64
+        }
+      ]
+    },
+    {
+      "id": "edge-person-graham-hancock-ASSERTED-claim-dfPfPB601hw-shermer-concession-hancock",
+      "from_node_id": "person-graham-hancock",
+      "to_node_id": "claim-dfPfPB601hw-shermer-concession-hancock",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 42,
+          "quote": "Michael Shermer — once a dogmatic Hancock skeptic — privately conceded by email that Hancock's Ancient Apocalypse made a good case for a forgotten ice-age civilization chapter."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dfPfPB601hw-REFERENCES-claim-dfPfPB601hw-shermer-concession-hancock",
+      "from_node_id": "video-dfPfPB601hw",
+      "to_node_id": "claim-dfPfPB601hw-shermer-concession-hancock",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 42
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-dfPfPB601hw-shermer-concession-hancock-REFERENCES-person-michael-shermer",
+      "from_node_id": "claim-dfPfPB601hw-shermer-concession-hancock",
+      "to_node_id": "person-michael-shermer",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 42
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-dfPfPB601hw-nasa-dart-comet-deflection",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-dfPfPB601hw-nasa-dart-comet-deflection",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 66,
+          "quote": "NASA's DART mission (2021-2022) successfully altered asteroid Dimorphos' orbit, proving human ability to deflect small objects — but Dimorphos' 200m diameter is far below civilization-threatening scal"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dfPfPB601hw-REFERENCES-claim-dfPfPB601hw-nasa-dart-comet-deflection",
+      "from_node_id": "video-dfPfPB601hw",
+      "to_node_id": "claim-dfPfPB601hw-nasa-dart-comet-deflection",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 66
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-dfPfPB601hw-nasa-dart-comet-deflection-REFERENCES-organization-nasa",
+      "from_node_id": "claim-dfPfPB601hw-nasa-dart-comet-deflection",
+      "to_node_id": "organization-nasa",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 66
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-dfPfPB601hw-nasa-dart-comet-deflection-REFERENCES-concept-torrid-meteor-stream",
+      "from_node_id": "claim-dfPfPB601hw-nasa-dart-comet-deflection",
+      "to_node_id": "concept-torrid-meteor-stream",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 66
+        }
+      ]
+    },
+    {
+      "id": "edge-person-graham-hancock-ASSERTED-claim-dfPfPB601hw-hancock-skeptic-reaction-dogmatic",
+      "from_node_id": "person-graham-hancock",
+      "to_node_id": "claim-dfPfPB601hw-hancock-skeptic-reaction-dogmatic",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 48,
+          "quote": "Hancock argues mainstream archaeology reflexively dismisses pre-Younger-Dryas civilization evidence because it dovetails with biblical flood narratives, which researchers feel they must oppose as unsc"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dfPfPB601hw-REFERENCES-claim-dfPfPB601hw-hancock-skeptic-reaction-dogmatic",
+      "from_node_id": "video-dfPfPB601hw",
+      "to_node_id": "claim-dfPfPB601hw-hancock-skeptic-reaction-dogmatic",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 48
+        }
+      ]
+    },
+    {
+      "id": "edge-person-graham-hancock-ASSERTED-claim-dfPfPB601hw-supernatural-dmt-alien-contact",
+      "from_node_id": "person-graham-hancock",
+      "to_node_id": "claim-dfPfPB601hw-supernatural-dmt-alien-contact",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 30,
+          "quote": "Hancock's 2005 book Supernatural documents his argument that DMT / ayahuasca states access the same class of 'other beings' classically interpreted as aliens or spirits across cultures."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dfPfPB601hw-REFERENCES-claim-dfPfPB601hw-supernatural-dmt-alien-contact",
+      "from_node_id": "video-dfPfPB601hw",
+      "to_node_id": "claim-dfPfPB601hw-supernatural-dmt-alien-contact",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 30
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-dfPfPB601hw-supernatural-dmt-alien-contact-REFERENCES-document-hancock-supernatural",
+      "from_node_id": "claim-dfPfPB601hw-supernatural-dmt-alien-contact",
+      "to_node_id": "document-hancock-supernatural",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 30
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-dfPfPB601hw-supernatural-dmt-alien-contact-REFERENCES-concept-nhi",
+      "from_node_id": "claim-dfPfPB601hw-supernatural-dmt-alien-contact",
+      "to_node_id": "concept-nhi",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dfPfPB601hw",
+          "timestamp_start": 30
+        }
+      ]
+    }
+  ],
+  "extracted_at": "2026-04-17T12:05:09.451517+00:00",
+  "extractor_version": "v1-inline-claude"
+}

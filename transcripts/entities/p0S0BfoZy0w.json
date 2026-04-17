@@ -1,0 +1,2513 @@
+{
+  "video_id": "p0S0BfoZy0w",
+  "nodes": [
+    {
+      "id": "video-p0S0BfoZy0w",
+      "node_type": "video",
+      "label": "Life on Mars Destroyed by Nuclear War! (Ft. Dr. John Brandenburg)",
+      "summary": "Join Jesse Michels on today’s episode of American Alchemy as he sits down with Dr. John Brandenburg, a top Department of Energy scientist, to discuss the suppressed truth about an ancient...",
+      "tags": [
+        "video",
+        "american-alchemy"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:49.837726+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 0,
+          "timestamp_end": 6404.0,
+          "quote": "Video: Life on Mars Destroyed by Nuclear War! (Ft. Dr. John Brandenburg)"
+        }
+      ],
+      "type_specific": {
+        "video_id": "p0S0BfoZy0w",
+        "title": "Life on Mars Destroyed by Nuclear War! (Ft. Dr. John Brandenburg)",
+        "url": "https://www.youtube.com/watch?v=p0S0BfoZy0w",
+        "view_count": 337602,
+        "duration_seconds": 6404.0,
+        "host_id": "person-jesse-michels"
+      }
+    },
+    {
+      "id": "person-jesse-michels",
+      "node_type": "person",
+      "label": "Jesse Michels",
+      "summary": "Host of American Alchemy podcast/show. Independent journalist and UFO/NHI researcher.",
+      "tags": [
+        "journalist",
+        "interviewer",
+        "researcher",
+        "host"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:49.837738+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 0,
+          "quote": "Host of American Alchemy podcast/show."
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Jesse",
+          "Michels"
+        ],
+        "profession": "journalist",
+        "notability_tags": [
+          "journalist",
+          "interviewer",
+          "researcher",
+          "host"
+        ]
+      }
+    },
+    {
+      "id": "person-kenneth-arnold",
+      "node_type": "person",
+      "label": "Kenneth Arnold",
+      "summary": "Kenneth Arnold entity extracted from cross-source archival records.",
+      "tags": [
+        "pipeline-generated",
+        "entity-extracted"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:50.343748+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 0,
+          "quote": "g all the UFOs. That's where we got the name flying saucer. Kenneth Arnold saw them in over two months before two months before and th"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Arnold",
+          "KENNETH ARNOLD",
+          "kenneth arnold"
+        ],
+        "notability_tags": [
+          "pipeline-generated",
+          "entity-extracted"
+        ]
+      }
+    },
+    {
+      "id": "person-eric-weinstein",
+      "node_type": "person",
+      "label": "Eric Weinstein",
+      "summary": "",
+      "tags": [
+        "mathematician",
+        "physicist"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:50.343770+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 0,
+          "quote": "a new form of energy. I sat down a couple of years ago with Eric Weinstein, an old colleague of mine, and Hal Putoff, who's a kind of "
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Weinstein"
+        ],
+        "notability_tags": [
+          "mathematician",
+          "physicist"
+        ]
+      }
+    },
+    {
+      "id": "person-james-mcdonald",
+      "node_type": "person",
+      "label": "James McDonald",
+      "summary": "",
+      "tags": [
+        "physicist",
+        "researcher"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:50.343775+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 0,
+          "quote": "r, and he claimed to flip, you know, and you had, you know, James McDonald, who's this Arizona State, you know, physicist. Yes. who wa"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Dr. McDonald",
+          "McDonald"
+        ],
+        "notability_tags": [
+          "physicist",
+          "researcher"
+        ]
+      }
+    },
+    {
+      "id": "person-stephen-greer",
+      "node_type": "person",
+      "label": "Stephen Greer",
+      "summary": "",
+      "tags": [
+        "researcher",
+        "disclosure"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:50.343780+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 0,
+          "quote": " energy, you know, you have people in UFO world like Steven Greer who are like, \"It's the last century. We figured this out a"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Dr. Greer",
+          "Greer"
+        ],
+        "notability_tags": [
+          "researcher",
+          "disclosure"
+        ]
+      }
+    },
+    {
+      "id": "person-bill-clinton",
+      "node_type": "person",
+      "label": "Bill Clinton",
+      "summary": "Bill Clinton entity extracted from cross-source archival records.",
+      "tags": [
+        "pipeline-generated",
+        "entity-extracted"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:50.343785+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 0,
+          "quote": "t there a meteorite found in Alaska as well in the '9s that Clinton then spoke about publicly? actually actually was found in A"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "BILL CLINTON",
+          "Clinton",
+          "bill clinton"
+        ],
+        "notability_tags": [
+          "pipeline-generated",
+          "entity-extracted"
+        ]
+      }
+    },
+    {
+      "id": "person-love-has-won",
+      "node_type": "person",
+      "label": "Love Has Won",
+      "summary": "Love Has Won (LHW), also known as the Galactic Federation of Light, is an American new religious movement that was led by Amy Carlson until her death in 2021. Carlson was referred to within the group as \"Mother God\", who described herself as, among other things, the creator of the universe, with the",
+      "tags": [
+        "wikipedia",
+        "2007 establishments in colorado",
+        "ancient astronaut speculation",
+        "covid-19 vaccine misinformation and hesitancy",
+        "climate change denial in the united states",
+        "holocaust denial in the united states",
+        "new age organizations",
+        "new religious movements established in the 2000s",
+        "qanon",
+        "religious belief systems founded in the united states",
+        "religious controversies in the united states",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:50.343790+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 0,
+          "quote": "z if we do, Joseph Stalin will get the hydrogen bomb and we won't have it.\" And Oenheimer was suffering from a great deal o"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "LOVE HAS WON",
+          "Won",
+          "love has won"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "2007 establishments in colorado",
+          "ancient astronaut speculation",
+          "covid-19 vaccine misinformation and hesitancy",
+          "climate change denial in the united states",
+          "holocaust denial in the united states",
+          "new age organizations",
+          "new religious movements established in the 2000s",
+          "qanon",
+          "religious belief systems founded in the united states",
+          "religious controversies in the united states",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "person-timothy-good",
+      "node_type": "person",
+      "label": "Timothy Good",
+      "summary": "",
+      "tags": [
+        "researcher",
+        "author"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:50.343794+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 0,
+          "quote": "d I've you know I followed your follow your work. It's very good. Well, you're among the most awesome and why don't we start"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Tim Good",
+          "Good"
+        ],
+        "notability_tags": [
+          "researcher",
+          "author"
+        ]
+      }
+    },
+    {
+      "id": "person-philip-corso",
+      "node_type": "person",
+      "label": "Philip Corso",
+      "summary": "",
+      "tags": [
+        "military",
+        "author",
+        "Roswell"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:50.343798+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 0,
+          "quote": "hrough tropical. That's the conventional story in Philip J. Corso's account and others is that it's some sort of high-powered"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Corso"
+        ],
+        "notability_tags": [
+          "military",
+          "author",
+          "Roswell"
+        ]
+      }
+    },
+    {
+      "id": "person-kid-cosmic",
+      "node_type": "person",
+      "label": "Kid Cosmic",
+      "summary": "Kid Cosmic is an American animated superhero television series created by Craig McCracken and developed by McCracken, his wife Lauren Faust and Francisco Angones for Netflix. The series was based on his 2009 comic The Kid from Planet Earth. Produced in-house by Netflix Animation, the show is McCrack",
+      "tags": [
+        "wikipedia",
+        "2020s american animated comedy television series",
+        "2020s american children's comedy television series",
+        "2020s american science fiction comedy television series",
+        "2020s american superhero comedy television series",
+        "2021 american animated television series debuts",
+        "2022 american television series endings",
+        "american english-language television shows",
+        "american children's animated action television series",
+        "american children's animated adventure television series",
+        "american children's animated comic science fiction television series",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:50.343802+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 0,
+          "quote": " year anniversary sale. So, get up to 40%  off at ridge.com/cosmic. Just head to ridge.com/cosmic to see their biggest sale of"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Cosmic",
+          "KID COSMIC",
+          "kid cosmic"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "2020s american animated comedy television series",
+          "2020s american children's comedy television series",
+          "2020s american science fiction comedy television series",
+          "2020s american superhero comedy television series",
+          "2021 american animated television series debuts",
+          "2022 american television series endings",
+          "american english-language television shows",
+          "american children's animated action television series",
+          "american children's animated adventure television series",
+          "american children's animated comic science fiction television series",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "person-carl-sagan",
+      "node_type": "person",
+      "label": "Carl Sagan",
+      "summary": "",
+      "tags": [
+        "astronomer",
+        "skeptic"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:50.343807+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 0,
+          "quote": "e  office manager, who's this really nice lady, says, \"John Carl Sagan called and wants to talk to you.\" And I would get on the ph"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Sagan"
+        ],
+        "notability_tags": [
+          "astronomer",
+          "skeptic"
+        ]
+      }
+    },
+    {
+      "id": "organization-international-ufo-museum-and-research-center",
+      "node_type": "organization",
+      "label": "International UFO Museum and Research Center",
+      "summary": "The International UFO Museum and Research Center is located in Roswell, New Mexico, United States, in the downtown district, and is focused largely on the 1947 Roswell Crash and later supposed UFO incidents in the United States and elsewhere. It was founded in 1991 as a 501c3 nonprofit educational o",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:50.343813+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 0,
+          "quote": "ed up working at Lawrence Liverour National Lab which was a center for fusion research at the time. It's also where they had t"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-the-report-on-unidentified-flying-objects",
+      "node_type": "organization",
+      "label": "The Report on Unidentified Flying Objects",
+      "summary": "The Report on Unidentified Flying Objects is a 1956 book by then-retired Air Force UFO investigator Edward J. Ruppelt, detailing his experience running Project Blue Book. The book was noted for its suggestion that a few UFO sightings might be linked to spikes of atomic radiation. Contemporary media ",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:50.343818+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 0,
+          "quote": " the zero point some of the zero point. So, if you have two objects in a room or a weightless, let's say you have a box on the "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-identification-studies-of-ufos",
+      "node_type": "organization",
+      "label": "Identification studies of UFOs",
+      "summary": "Identifying unidentified flying objects (UFOs) is a difficult task due to the normally poor quality of the evidence provided by those who report sighting the unknown object. Observations and subsequent reporting are often made by those untrained in astronomy, atmospheric phenomena, aeronautics, phys",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:50.343822+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 0,
+          "quote": " and the intel agencies and at the time I didn't believe in UFOs but by after working there for about a year  suddenly it wa"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-flying-saucer-working-party",
+      "node_type": "organization",
+      "label": "Flying Saucer Working Party",
+      "summary": "Flying Saucer Working Party (or FSWP) was the name of the United Kingdom Ministry of Defence’s (MOD) first \"official study into UFOs\", which has its roots in a study commissioned in 1950 by the MOD’s then Chief Scientific Adviser, the eminent radar scientist Sir Henry Tizard. As a result of his insi",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:50.343827+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 0,
+          "quote": "took over Hollister, California for a day and had a drunken party downtown and that kind of stole all  the headlines that wee"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-the-flying-saucers-are-real",
+      "node_type": "organization",
+      "label": "The Flying Saucers Are Real",
+      "summary": "The Flying Saucers Are Real, by Donald Keyhoe, is a book that investigated reports of UFOs by United States Air Force fighters, personnel, and other aircraft, between 1947 and 1950.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:50.343832+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 0,
+          "quote": "ience that has been hidden in the black but could amount to real civil side updates in the way we live our lives, the way ou"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-unidentified-flying-object",
+      "node_type": "organization",
+      "label": "Unidentified flying object",
+      "summary": "An unidentified flying object (UFO) is an object or phenomenon seen in the sky but not yet identified or explained. The term was coined when United States Air Force (USAF) investigations into flying saucers found too broad a range of shapes reported to consider them all saucers or discs. UFOs are al",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:50.343836+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 0,
+          "quote": " apparently we get the lines of force to move away from the object and just be surround just concentrate in the areas around t"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-us-department-of-defense",
+      "node_type": "organization",
+      "label": "US Department of Defense",
+      "summary": "US Department of Defense entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:50.343841+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 0,
+          "quote": "o I then I went from there to Washington DC and worked as a defense contractor as a consulting physicist to the Pentagon and th"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-leonard-h-stringfield",
+      "node_type": "organization",
+      "label": "Leonard H. Stringfield",
+      "summary": "Leonard Stringfield (1920–1994) was an American ufologist who took particular interest in crashed flying saucer stories. Stringfield was director of Civilian Research, Interplanetary Flying Objects (CRIFO), and published a monthly newsletter, ORBIT. In 1957 he became public relations adviser for the",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:50.343845+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 0,
+          "quote": "ted But the reports I heard several reports of it in DC and Leonard Stringfield talked to me about it and he said he'd heard three differen"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-roswell-that-ends-well",
+      "node_type": "organization",
+      "label": "Roswell That Ends Well",
+      "summary": "\"Roswell That Ends Well\" is the nineteenth episode in the third season of the American animated television series Futurama, and the 51st episode of the series overall. It originally aired on the Fox network in the United States on December 9, 2001. The plot centers on an accidental time travel event",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:50.343849+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 0,
+          "quote": "suddenly Carl Sean is trying to get a hold of me and I said well Carl what you think of the pictures why are you causing thi"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-the-galileo-project",
+      "node_type": "organization",
+      "label": "The Galileo Project",
+      "summary": "The Galileo Project is an international scientific research project to search for extraterrestrial intelligence or extraterrestrial technology on and near Earth and to identify the nature of anomalous Unidentified Flying Objects/Unidentified Aerial Phenomena (UFOs/UAP). It was launched in 2021 by Ha",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:50.343853+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 0,
+          "quote": " math. and inspired by my uncle who worked on the Manhattan project during World War II. I wanted to   go on for my PhD and the"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-project-blue-book",
+      "node_type": "organization",
+      "label": "Project Blue Book",
+      "summary": "USAF UFO investigation program active from 1952 to 1969.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:50.343857+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 0,
+          "quote": "e human beings miscalculating. apparently because I wrote a book on this recently called cosmic awakening and I have this al"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-world-contact-day",
+      "node_type": "organization",
+      "label": "World Contact Day",
+      "summary": "World Contact Day was first declared in March 1953 by an organization called the International Flying Saucer Bureau (IFSB), as a day on which all IFSB members would attempt to send a telepathic message into space. The IFSB voted to hold such a day in 1953, theorising that if both telepathy and alien",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:50.343861+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 0,
+          "quote": " you know, there was probably a magneettosphere back in the day and that would allow for a biosphere. Yes, it would. And th"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-manhattan-project",
+      "node_type": "organization",
+      "label": "Manhattan Project",
+      "summary": "",
+      "tags": [
+        "government_agency"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:50.343865+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 0,
+          "quote": "hysics and math. and inspired by my uncle who worked on the Manhattan project during World War II. I wanted to   go on for my PhD and the"
+        }
+      ],
+      "type_specific": {
+        "org_type": "government_agency"
+      }
+    },
+    {
+      "id": "organization-steven-m-greer",
+      "node_type": "organization",
+      "label": "Steven M. Greer",
+      "summary": "Steven Macon Greer (born 1955) is an American ufologist and a retired physician. He founded the Center for the Study of Extraterrestrial Intelligence (CSETI) and the Disclosure Project, which claims to seek the disclosure of alleged classified UFO information.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:50.343870+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 0,
+          "quote": "ed free energy, you know, you have people in UFO world like Steven Greer who are like, \"It's the last century. We figured this out a"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-scp-foundation",
+      "node_type": "organization",
+      "label": "SCP Foundation",
+      "summary": "The SCP Foundation is a fictional organization featured in stories created by contributors on the SCP Wiki, a wiki-based collaborative writing project, launched in 2008. Within the project's shared universe, the SCP (Special Containment Procedures) Foundation is a secret organization that is respons",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:50.343874+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 0,
+          "quote": "e, the U Gravity essay came along from the Gravity Research Foundation in Boston, right? And so it looked like it was going to be "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-us-air-force",
+      "node_type": "organization",
+      "label": "US Air Force",
+      "summary": "US Air Force entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:50.343878+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 0,
+          "quote": "ne is electromagnetism, one is gravity. The weak the strong force. They run things at the size of the nucleus in the atom. An"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-big-sur-ufo",
+      "node_type": "organization",
+      "label": "Big Sur UFO",
+      "summary": "The Big Sur UFO is a reported UFO incident that took place during a 1964 Air Force deployment to a mountaintop near Big Sur, California. The deployment was a mission was to film Atlas missile tests from Vandenberg Air Force Base. Since 1982, Robert Jacobs, who had overseen the mountaintop team, has ",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:50.343882+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 0,
+          "quote": "0S0BfoZy0w  I asked this fellow, I said, \"Is there really a UFO cover up?\" And he said, \"Yes.\" He said, \"That's all I can t"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-mirage-men",
+      "node_type": "organization",
+      "label": "Mirage Men",
+      "summary": "Mirage Men is a 2013 documentary film directed by John Lundberg, written by Mark Pilkington and co-directed by Roland Denning and Kypros Kyprianou. Mirage Men suggests there was a conspiracy by the U.S. military to fabricate UFO folklore in order to deflect attention from classified military project",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:50.343886+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 0,
+          "quote": "eresting. The faces look human. They don't look like lizard men. They don't look like manises. They don't look like little "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-us-navy",
+      "node_type": "organization",
+      "label": "US Navy",
+      "summary": "US Navy entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:50.343889+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 0,
+          "quote": "of energy but maybe there are ways to amplify that per this Navy scientist Sal Py's work can you via very high amounts of el"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-nasa",
+      "node_type": "organization",
+      "label": "NASA",
+      "summary": "NASA entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:50.343894+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 0,
+          "quote": "ere there's the face and then there's a five-sided pyramid. NASA never shows that picture of the face beside the pyramid tog"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other",
+        "acronym": "NASA"
+      }
+    },
+    {
+      "id": "location-pacific-training-area",
+      "node_type": "location",
+      "label": "Pacific Training Area",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:50.343899+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 0,
+          "quote": "s the work going though when it gets funneled? Oh, site 51. Area 51. Yeah. I mean, they probably found some parts of my theo"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-roswell-new-mexico",
+      "node_type": "location",
+      "label": "Roswell, New Mexico",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:50.343903+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 0,
+          "quote": "ddenly dried up for fusion research. and so I worked in New Mexico for about   3 years and that's when the lab the laboratory "
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-united-states",
+      "node_type": "location",
+      "label": "United States",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:50.343907+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 0,
+          "quote": "ose night fighter squadrons  from Europe and Japan into the United States and apparently into the southwest around Roswell. So it app"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-roswell",
+      "node_type": "location",
+      "label": "Roswell",
+      "summary": "",
+      "tags": [
+        "city"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:50.343911+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 0,
+          "quote": "ure, sure, sure. What you know a lot about what happened at Roswell in 1947. so, so what happened there? you know, it's known a"
+        }
+      ],
+      "type_specific": {
+        "location_type": "city",
+        "country": "US",
+        "state_or_region": "New Mexico"
+      }
+    },
+    {
+      "id": "location-area-51",
+      "node_type": "location",
+      "label": "Area 51",
+      "summary": "",
+      "tags": [
+        "military_base"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:50.343915+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 0,
+          "quote": "s the work going though when it gets funneled? Oh, site 51. Area 51. Yeah. I mean, they probably found some parts of my theory "
+        }
+      ],
+      "type_specific": {
+        "location_type": "military_base",
+        "country": "US",
+        "state_or_region": "Nevada"
+      }
+    },
+    {
+      "id": "location-mexico",
+      "node_type": "location",
+      "label": "Mexico",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:50.343919+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 0,
+          "quote": "ddenly dried up for fusion research. and so I worked in New Mexico for about   3 years and that's when the lab the laboratory "
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-russia",
+      "node_type": "location",
+      "label": "Russia",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:50.343922+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 0,
+          "quote": "tinct and he was from Hungary, which has a bad history with Russia. And he just intuitively felt that the  Russians were worki"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "program-mj-12",
+      "node_type": "program",
+      "label": "MJ-12",
+      "summary": "",
+      "tags": [
+        "program"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:50.343927+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 0,
+          "quote": "e where Stan Moore, who had been the original leaker of the MJ12, got up and confessed to being a government agent whose job"
+        }
+      ]
+    },
+    {
+      "id": "document-the-day-after-roswell",
+      "node_type": "document",
+      "label": "The Day After Roswell",
+      "summary": "",
+      "tags": [
+        "book"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:50.343932+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 0,
+          "quote": "they were all over the country and if you read Philip Caros the day after Roswell the US government went into panic mode because they  starte"
+        }
+      ],
+      "type_specific": {
+        "document_type": "book",
+        "author": "Philip Corso"
+      }
+    },
+    {
+      "id": "claim-p0S0BfoZy0w-discussion-summary",
+      "node_type": "claim",
+      "label": "Video p0S0BfoZy0w features extended discussion of Kenneth Arnold, Eric Weinstein, James McDonald and",
+      "summary": "Video p0S0BfoZy0w features extended discussion of Kenneth Arnold, Eric Weinstein, James McDonald and related UAP research topics, hosted by Jesse Michels.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:50.343942+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 0,
+          "quote": "Episode title: Life on Mars Destroyed by Nuclear War! (Ft. Dr. John Brandenburg)"
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Video p0S0BfoZy0w features extended discussion of Kenneth Arnold, Eric Weinstein, James McDonald and related UAP research topics, hosted by Jesse Michels.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "p0S0BfoZy0w",
+        "timestamp_start_seconds": 0,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-kenneth-arnold",
+          "person-eric-weinstein",
+          "person-james-mcdonald",
+          "video-p0S0BfoZy0w"
+        ]
+      }
+    },
+    {
+      "id": "person-john-brandenburg",
+      "node_type": "person",
+      "label": "Dr. John Brandenburg",
+      "summary": "Plasma physicist. PhD; worked at Lawrence Livermore (fusion research under Edward Teller), then Sandia National Labs (directed energy weapons). Author of GEM (Gravity-Electromagnetism) unified-field theory. Discovered isotopic evidence for ancient thermonuclear-scale event on Mars.",
+      "tags": [
+        "scientist",
+        "physicist",
+        "Mars-researcher"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.687436+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 53,
+          "quote": "Plasma physicist; GEM theory; Mars nuclear-war evidence"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Brandenburg"
+        ],
+        "profession": "physicist",
+        "notability_tags": [
+          "scientist",
+          "physicist",
+          "Mars-researcher"
+        ]
+      }
+    },
+    {
+      "id": "concept-gem-gravity-em-theory",
+      "node_type": "concept",
+      "label": "GEM Theory (Gravity-Electromagnetism)",
+      "summary": "John Brandenburg's GEM (Gravity-Electromagnetism) theoretical framework attempting to marry gravity and electromagnetism from experimental perspective — extending Townsend Brown's work into a formal unified theory.",
+      "tags": [
+        "physics"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.687439+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 57,
+          "timestamp_end": "Brandenburg's unified-field framework marrying gravity and EM"
+        }
+      ],
+      "type_specific": {
+        "concept_domain": "physics"
+      }
+    },
+    {
+      "id": "concept-mars-nuclear-war-isotopes",
+      "node_type": "concept",
+      "label": "Mars Thermonuclear-Holocaust Hypothesis",
+      "summary": "Brandenburg's hypothesis: isotopic evidence (Xenon-129 enrichment) on Mars indicates an ancient thermonuclear-scale event that destroyed a Martian civilization. 'When it all hit me I wept like a child.'",
+      "tags": [
+        "physics"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.687441+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 53,
+          "timestamp_end": "Isotopic evidence for ancient Mars nuclear event per Brandenburg"
+        }
+      ],
+      "type_specific": {
+        "concept_domain": "physics"
+      }
+    },
+    {
+      "id": "location-cydonia-mensae-mars",
+      "node_type": "location",
+      "label": "Cydonia Mensae (Mars)",
+      "summary": "",
+      "tags": [
+        "region"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.687447+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 51,
+          "timestamp_end": "Mars site containing the Face, five-sided pyramid, and alleged ocean evidence"
+        }
+      ],
+      "type_specific": {
+        "location_type": "region",
+        "country": "MARS"
+      }
+    },
+    {
+      "id": "location-lawrence-livermore",
+      "node_type": "location",
+      "label": "Lawrence Livermore National Lab",
+      "summary": "",
+      "tags": [
+        "research_facility"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.687450+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 63,
+          "timestamp_end": "Fusion research + H-bomb development; Brandenburg's first lab"
+        }
+      ],
+      "type_specific": {
+        "location_type": "research_facility",
+        "country": "US",
+        "state_or_region": "California"
+      }
+    },
+    {
+      "id": "location-sandia-national-lab",
+      "node_type": "location",
+      "label": "Sandia National Laboratories",
+      "summary": "",
+      "tags": [
+        "research_facility"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.687452+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 65,
+          "timestamp_end": "Directed-energy weapons lab; Brandenburg's second lab"
+        }
+      ],
+      "type_specific": {
+        "location_type": "research_facility",
+        "country": "US",
+        "state_or_region": "New Mexico"
+      }
+    },
+    {
+      "id": "event-able-archer-1983-crisis",
+      "node_type": "event",
+      "label": "Able Archer 1983 Nuclear Crisis",
+      "summary": "November 1983 classified nuclear war brinkmanship during NATO Able Archer exercise — US was as close to nuclear war as during Cuban Missile Crisis. Only lab-fence personnel knew at the time.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.687454+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 67,
+          "timestamp_end": "Classified near-nuclear-war event Brandenburg lived through"
+        }
+      ],
+      "type_specific": {
+        "event_type": "other",
+        "date_approximate": "1983-11-02"
+      }
+    },
+    {
+      "id": "claim-p0S0BfoZy0w-brandenburg-mars-xenon-isotopes",
+      "node_type": "claim",
+      "label": "Brandenburg analyzed Mars isotopic evidence — Xenon-129 enrichment consistent with ancient thermonuc",
+      "summary": "Brandenburg analyzed Mars isotopic evidence — Xenon-129 enrichment consistent with ancient thermonuclear-scale event — corroborating a dead-civilization-destroyed-by-nuclear-war hypothesis. 'I wept like a child.'",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.692382+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 53,
+          "quote": "I found and digested the isotopic evidence and when it all hit me I wept like a child. It looked like a thermonuclear holocaust. We were so afraid it would happen on Earth."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Brandenburg analyzed Mars isotopic evidence — Xenon-129 enrichment consistent with ancient thermonuclear-scale event — corroborating a dead-civilization-destroyed-by-nuclear-war hypothesis. 'I wept like a child.'",
+        "asserted_by_id": "person-john-brandenburg",
+        "source_video_id": "p0S0BfoZy0w",
+        "timestamp_start_seconds": 53,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-john-brandenburg",
+          "concept-mars-nuclear-war-isotopes",
+          "location-cydonia-mensae-mars"
+        ]
+      }
+    },
+    {
+      "id": "claim-p0S0BfoZy0w-brandenburg-martian-ocean-discovery",
+      "node_type": "claim",
+      "label": "Brandenburg was the researcher who found evidence of a Martian ocean: 'Mars was covered with liquid ",
+      "summary": "Brandenburg was the researcher who found evidence of a Martian ocean: 'Mars was covered with liquid water. I was the one to find the Martian ocean.'",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.692402+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 51,
+          "quote": "Mars was covered with liquid water. I was the one to find the Martian ocean."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Brandenburg was the researcher who found evidence of a Martian ocean: 'Mars was covered with liquid water. I was the one to find the Martian ocean.'",
+        "asserted_by_id": "person-john-brandenburg",
+        "source_video_id": "p0S0BfoZy0w",
+        "timestamp_start_seconds": 51,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-john-brandenburg",
+          "location-cydonia-mensae-mars"
+        ]
+      }
+    },
+    {
+      "id": "claim-p0S0BfoZy0w-brandenburg-cydonia-face-pyramid-suppressed",
+      "node_type": "claim",
+      "label": "Per Brandenburg: NASA never shows the 'Face' on Mars and the five-sided pyramid together in public p",
+      "summary": "Per Brandenburg: NASA never shows the 'Face' on Mars and the five-sided pyramid together in public photos — because juxtaposition makes archaeological origin obvious. Brandenburg saw Carl Sagan push him on the evidence when colleagues mocked it.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.692410+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 51,
+          "quote": "Cydonia Mensae is a site where there's the face and then there's a five-sided pyramid. NASA never shows that picture of the face beside the pyramid together in any of their public photos. Carl Sagan is trying to get hold of me and I said, 'What you think of the pictures? Why are you causing this trouble?'"
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Per Brandenburg: NASA never shows the 'Face' on Mars and the five-sided pyramid together in public photos — because juxtaposition makes archaeological origin obvious. Brandenburg saw Carl Sagan push him on the evidence when colleagues mocked it.",
+        "asserted_by_id": "person-john-brandenburg",
+        "source_video_id": "p0S0BfoZy0w",
+        "timestamp_start_seconds": 51,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-john-brandenburg",
+          "location-cydonia-mensae-mars",
+          "person-carl-sagan",
+          "organization-nasa"
+        ]
+      }
+    },
+    {
+      "id": "claim-p0S0BfoZy0w-brandenburg-joint-chiefs-staff-confirm",
+      "node_type": "claim",
+      "label": "At a staff level of the Joint Chiefs during the Reagan administration, a colonel Brandenburg knew di",
+      "summary": "At a staff level of the Joint Chiefs during the Reagan administration, a colonel Brandenburg knew directly confirmed: 'Is there really a UFO coverup? Yes. That's all I can tell you. The rest you can figure out for yourself.'",
+      "tags": [
+        "hearsay",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.692420+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 77,
+          "quote": "A friend of a friend worked for the Joint Chiefs of Staff. He was a colonel. I asked this fellow, 'Is there really a UFO cover up?' And he said, 'Yes. And that's all I can tell you. The rest you can figure out for yourself.'"
+        }
+      ],
+      "type_specific": {
+        "statement_text": "At a staff level of the Joint Chiefs during the Reagan administration, a colonel Brandenburg knew directly confirmed: 'Is there really a UFO coverup? Yes. That's all I can tell you. The rest you can figure out for yourself.'",
+        "asserted_by_id": "person-john-brandenburg",
+        "source_video_id": "p0S0BfoZy0w",
+        "timestamp_start_seconds": 77,
+        "assertability": "hearsay",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-john-brandenburg"
+        ]
+      }
+    },
+    {
+      "id": "claim-p0S0BfoZy0w-brandenburg-able-archer-1983",
+      "node_type": "claim",
+      "label": "Brandenburg lived through the classified November 1983 Able Archer near-nuclear-war crisis at Sandia",
+      "summary": "Brandenburg lived through the classified November 1983 Able Archer near-nuclear-war crisis at Sandia — 'only people on the lab premises inside the fence knew how bad things were.'",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.692427+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 67,
+          "quote": "The Able Archer crisis of 1983 which was classified. We were as close to a nuclear war as we were during the Cuban missile crisis but it was secret. Only people on the lab premises inside the fence knew how bad things were."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Brandenburg lived through the classified November 1983 Able Archer near-nuclear-war crisis at Sandia — 'only people on the lab premises inside the fence knew how bad things were.'",
+        "asserted_by_id": "person-john-brandenburg",
+        "source_video_id": "p0S0BfoZy0w",
+        "timestamp_start_seconds": 67,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-john-brandenburg",
+          "event-able-archer-1983-crisis",
+          "location-sandia-national-lab"
+        ]
+      }
+    },
+    {
+      "id": "claim-p0S0BfoZy0w-brandenburg-teller-conscience",
+      "node_type": "claim",
+      "label": "Brandenburg personally knew Edward Teller at Livermore; describes Teller (contrary to post-Oppenheim",
+      "summary": "Brandenburg personally knew Edward Teller at Livermore; describes Teller (contrary to post-Oppenheimer villain framing) as 'creative, enlightened, conscience-driven' — H-bomb motivated by Hungarian Russia-fear and Western defense necessity.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:21:38.692435+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 83,
+          "quote": "He had big eyebrows. He's Hungarian and Jewish. I considered him a very creative, enlightened person. He was acting on instinct — from Hungary which has a bad history with Russia."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Brandenburg personally knew Edward Teller at Livermore; describes Teller (contrary to post-Oppenheimer villain framing) as 'creative, enlightened, conscience-driven' — H-bomb motivated by Hungarian Russia-fear and Western defense necessity.",
+        "asserted_by_id": "person-john-brandenburg",
+        "source_video_id": "p0S0BfoZy0w",
+        "timestamp_start_seconds": 83,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-john-brandenburg",
+          "person-edward-teller"
+        ]
+      }
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge-video-p0S0BfoZy0w-HOSTED_BY-person-jesse-michels",
+      "from_node_id": "video-p0S0BfoZy0w",
+      "to_node_id": "person-jesse-michels",
+      "relationship": "HOSTED_BY",
+      "confidence": 0.99,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 0,
+          "quote": "Jesse hosting"
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-APPEARED_IN-video-p0S0BfoZy0w",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "video-p0S0BfoZy0w",
+      "relationship": "APPEARED_IN",
+      "confidence": 0.99,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 0,
+          "quote": "Host"
+        }
+      ],
+      "properties": {
+        "appearance_type": "host"
+      }
+    },
+    {
+      "id": "edge-video-p0S0BfoZy0w-MENTIONS-person-kenneth-arnold",
+      "from_node_id": "video-p0S0BfoZy0w",
+      "to_node_id": "person-kenneth-arnold",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 0,
+          "quote": "g all the UFOs. That's where we got the name flying saucer. Kenneth Arnold saw them in over two months before two months before and th"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-p0S0BfoZy0w-MENTIONS-person-eric-weinstein",
+      "from_node_id": "video-p0S0BfoZy0w",
+      "to_node_id": "person-eric-weinstein",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 0,
+          "quote": "a new form of energy. I sat down a couple of years ago with Eric Weinstein, an old colleague of mine, and Hal Putoff, who's a kind of "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-p0S0BfoZy0w-MENTIONS-person-james-mcdonald",
+      "from_node_id": "video-p0S0BfoZy0w",
+      "to_node_id": "person-james-mcdonald",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 0,
+          "quote": "r, and he claimed to flip, you know, and you had, you know, James McDonald, who's this Arizona State, you know, physicist. Yes. who wa"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-p0S0BfoZy0w-MENTIONS-person-stephen-greer",
+      "from_node_id": "video-p0S0BfoZy0w",
+      "to_node_id": "person-stephen-greer",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 0,
+          "quote": " energy, you know, you have people in UFO world like Steven Greer who are like, \"It's the last century. We figured this out a"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-p0S0BfoZy0w-MENTIONS-person-bill-clinton",
+      "from_node_id": "video-p0S0BfoZy0w",
+      "to_node_id": "person-bill-clinton",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 0,
+          "quote": "t there a meteorite found in Alaska as well in the '9s that Clinton then spoke about publicly? actually actually was found in A"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-p0S0BfoZy0w-MENTIONS-person-love-has-won",
+      "from_node_id": "video-p0S0BfoZy0w",
+      "to_node_id": "person-love-has-won",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 0,
+          "quote": "z if we do, Joseph Stalin will get the hydrogen bomb and we won't have it.\" And Oenheimer was suffering from a great deal o"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-p0S0BfoZy0w-MENTIONS-person-timothy-good",
+      "from_node_id": "video-p0S0BfoZy0w",
+      "to_node_id": "person-timothy-good",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 0,
+          "quote": "d I've you know I followed your follow your work. It's very good. Well, you're among the most awesome and why don't we start"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-p0S0BfoZy0w-MENTIONS-person-philip-corso",
+      "from_node_id": "video-p0S0BfoZy0w",
+      "to_node_id": "person-philip-corso",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 0,
+          "quote": "hrough tropical. That's the conventional story in Philip J. Corso's account and others is that it's some sort of high-powered"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-p0S0BfoZy0w-MENTIONS-person-kid-cosmic",
+      "from_node_id": "video-p0S0BfoZy0w",
+      "to_node_id": "person-kid-cosmic",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 0,
+          "quote": " year anniversary sale. So, get up to 40%  off at ridge.com/cosmic. Just head to ridge.com/cosmic to see their biggest sale of"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-p0S0BfoZy0w-MENTIONS-person-carl-sagan",
+      "from_node_id": "video-p0S0BfoZy0w",
+      "to_node_id": "person-carl-sagan",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 0,
+          "quote": "e  office manager, who's this really nice lady, says, \"John Carl Sagan called and wants to talk to you.\" And I would get on the ph"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-p0S0BfoZy0w-MENTIONS-organization-international-ufo-museum-and-research-center",
+      "from_node_id": "video-p0S0BfoZy0w",
+      "to_node_id": "organization-international-ufo-museum-and-research-center",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 0,
+          "quote": "ed up working at Lawrence Liverour National Lab which was a center for fusion research at the time. It's also where they had t"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-p0S0BfoZy0w-MENTIONS-organization-the-report-on-unidentified-flying-objects",
+      "from_node_id": "video-p0S0BfoZy0w",
+      "to_node_id": "organization-the-report-on-unidentified-flying-objects",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 0,
+          "quote": " the zero point some of the zero point. So, if you have two objects in a room or a weightless, let's say you have a box on the "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-p0S0BfoZy0w-MENTIONS-organization-identification-studies-of-ufos",
+      "from_node_id": "video-p0S0BfoZy0w",
+      "to_node_id": "organization-identification-studies-of-ufos",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 0,
+          "quote": " and the intel agencies and at the time I didn't believe in UFOs but by after working there for about a year  suddenly it wa"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-p0S0BfoZy0w-MENTIONS-organization-flying-saucer-working-party",
+      "from_node_id": "video-p0S0BfoZy0w",
+      "to_node_id": "organization-flying-saucer-working-party",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 0,
+          "quote": "took over Hollister, California for a day and had a drunken party downtown and that kind of stole all  the headlines that wee"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-p0S0BfoZy0w-MENTIONS-organization-the-flying-saucers-are-real",
+      "from_node_id": "video-p0S0BfoZy0w",
+      "to_node_id": "organization-the-flying-saucers-are-real",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 0,
+          "quote": "ience that has been hidden in the black but could amount to real civil side updates in the way we live our lives, the way ou"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-p0S0BfoZy0w-MENTIONS-organization-unidentified-flying-object",
+      "from_node_id": "video-p0S0BfoZy0w",
+      "to_node_id": "organization-unidentified-flying-object",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 0,
+          "quote": " apparently we get the lines of force to move away from the object and just be surround just concentrate in the areas around t"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-p0S0BfoZy0w-MENTIONS-organization-us-department-of-defense",
+      "from_node_id": "video-p0S0BfoZy0w",
+      "to_node_id": "organization-us-department-of-defense",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 0,
+          "quote": "o I then I went from there to Washington DC and worked as a defense contractor as a consulting physicist to the Pentagon and th"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-p0S0BfoZy0w-MENTIONS-organization-leonard-h-stringfield",
+      "from_node_id": "video-p0S0BfoZy0w",
+      "to_node_id": "organization-leonard-h-stringfield",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 0,
+          "quote": "ted But the reports I heard several reports of it in DC and Leonard Stringfield talked to me about it and he said he'd heard three differen"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-p0S0BfoZy0w-MENTIONS-organization-roswell-that-ends-well",
+      "from_node_id": "video-p0S0BfoZy0w",
+      "to_node_id": "organization-roswell-that-ends-well",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 0,
+          "quote": "suddenly Carl Sean is trying to get a hold of me and I said well Carl what you think of the pictures why are you causing thi"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-p0S0BfoZy0w-MENTIONS-organization-the-galileo-project",
+      "from_node_id": "video-p0S0BfoZy0w",
+      "to_node_id": "organization-the-galileo-project",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 0,
+          "quote": " math. and inspired by my uncle who worked on the Manhattan project during World War II. I wanted to   go on for my PhD and the"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-p0S0BfoZy0w-MENTIONS-organization-project-blue-book",
+      "from_node_id": "video-p0S0BfoZy0w",
+      "to_node_id": "organization-project-blue-book",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 0,
+          "quote": "e human beings miscalculating. apparently because I wrote a book on this recently called cosmic awakening and I have this al"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-p0S0BfoZy0w-MENTIONS-organization-world-contact-day",
+      "from_node_id": "video-p0S0BfoZy0w",
+      "to_node_id": "organization-world-contact-day",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 0,
+          "quote": " you know, there was probably a magneettosphere back in the day and that would allow for a biosphere. Yes, it would. And th"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-p0S0BfoZy0w-MENTIONS-organization-manhattan-project",
+      "from_node_id": "video-p0S0BfoZy0w",
+      "to_node_id": "organization-manhattan-project",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 0,
+          "quote": "hysics and math. and inspired by my uncle who worked on the Manhattan project during World War II. I wanted to   go on for my PhD and the"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-p0S0BfoZy0w-MENTIONS-organization-steven-m-greer",
+      "from_node_id": "video-p0S0BfoZy0w",
+      "to_node_id": "organization-steven-m-greer",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 0,
+          "quote": "ed free energy, you know, you have people in UFO world like Steven Greer who are like, \"It's the last century. We figured this out a"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-p0S0BfoZy0w-MENTIONS-organization-scp-foundation",
+      "from_node_id": "video-p0S0BfoZy0w",
+      "to_node_id": "organization-scp-foundation",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 0,
+          "quote": "e, the U Gravity essay came along from the Gravity Research Foundation in Boston, right? And so it looked like it was going to be "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-p0S0BfoZy0w-MENTIONS-organization-us-air-force",
+      "from_node_id": "video-p0S0BfoZy0w",
+      "to_node_id": "organization-us-air-force",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 0,
+          "quote": "ne is electromagnetism, one is gravity. The weak the strong force. They run things at the size of the nucleus in the atom. An"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-p0S0BfoZy0w-MENTIONS-organization-big-sur-ufo",
+      "from_node_id": "video-p0S0BfoZy0w",
+      "to_node_id": "organization-big-sur-ufo",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 0,
+          "quote": "0S0BfoZy0w  I asked this fellow, I said, \"Is there really a UFO cover up?\" And he said, \"Yes.\" He said, \"That's all I can t"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-p0S0BfoZy0w-MENTIONS-organization-mirage-men",
+      "from_node_id": "video-p0S0BfoZy0w",
+      "to_node_id": "organization-mirage-men",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 0,
+          "quote": "eresting. The faces look human. They don't look like lizard men. They don't look like manises. They don't look like little "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-p0S0BfoZy0w-MENTIONS-organization-us-navy",
+      "from_node_id": "video-p0S0BfoZy0w",
+      "to_node_id": "organization-us-navy",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 0,
+          "quote": "of energy but maybe there are ways to amplify that per this Navy scientist Sal Py's work can you via very high amounts of el"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-p0S0BfoZy0w-MENTIONS-organization-nasa",
+      "from_node_id": "video-p0S0BfoZy0w",
+      "to_node_id": "organization-nasa",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 0,
+          "quote": "ere there's the face and then there's a five-sided pyramid. NASA never shows that picture of the face beside the pyramid tog"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-p0S0BfoZy0w-MENTIONS-location-pacific-training-area",
+      "from_node_id": "video-p0S0BfoZy0w",
+      "to_node_id": "location-pacific-training-area",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 0,
+          "quote": "s the work going though when it gets funneled? Oh, site 51. Area 51. Yeah. I mean, they probably found some parts of my theo"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-p0S0BfoZy0w-MENTIONS-location-roswell-new-mexico",
+      "from_node_id": "video-p0S0BfoZy0w",
+      "to_node_id": "location-roswell-new-mexico",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 0,
+          "quote": "ddenly dried up for fusion research. and so I worked in New Mexico for about   3 years and that's when the lab the laboratory "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-p0S0BfoZy0w-MENTIONS-location-united-states",
+      "from_node_id": "video-p0S0BfoZy0w",
+      "to_node_id": "location-united-states",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 0,
+          "quote": "ose night fighter squadrons  from Europe and Japan into the United States and apparently into the southwest around Roswell. So it app"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-p0S0BfoZy0w-MENTIONS-location-roswell",
+      "from_node_id": "video-p0S0BfoZy0w",
+      "to_node_id": "location-roswell",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 0,
+          "quote": "ure, sure, sure. What you know a lot about what happened at Roswell in 1947. so, so what happened there? you know, it's known a"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-p0S0BfoZy0w-MENTIONS-location-area-51",
+      "from_node_id": "video-p0S0BfoZy0w",
+      "to_node_id": "location-area-51",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 0,
+          "quote": "s the work going though when it gets funneled? Oh, site 51. Area 51. Yeah. I mean, they probably found some parts of my theory "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-p0S0BfoZy0w-MENTIONS-location-mexico",
+      "from_node_id": "video-p0S0BfoZy0w",
+      "to_node_id": "location-mexico",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 0,
+          "quote": "ddenly dried up for fusion research. and so I worked in New Mexico for about   3 years and that's when the lab the laboratory "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-p0S0BfoZy0w-MENTIONS-location-russia",
+      "from_node_id": "video-p0S0BfoZy0w",
+      "to_node_id": "location-russia",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 0,
+          "quote": "tinct and he was from Hungary, which has a bad history with Russia. And he just intuitively felt that the  Russians were worki"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-p0S0BfoZy0w-MENTIONS-program-mj-12",
+      "from_node_id": "video-p0S0BfoZy0w",
+      "to_node_id": "program-mj-12",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 0,
+          "quote": "e where Stan Moore, who had been the original leaker of the MJ12, got up and confessed to being a government agent whose job"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-p0S0BfoZy0w-CITES-document-the-day-after-roswell",
+      "from_node_id": "video-p0S0BfoZy0w",
+      "to_node_id": "document-the-day-after-roswell",
+      "relationship": "CITES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 0,
+          "quote": "they were all over the country and if you read Philip Caros the day after Roswell the US government went into panic mode because they  starte"
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-p0S0BfoZy0w-discussion-summary",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-p0S0BfoZy0w-discussion-summary",
+      "relationship": "ASSERTED",
+      "confidence": 0.9,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 0,
+          "quote": "Episode: Life on Mars Destroyed by Nuclear War! (Ft. Dr. John Brandenburg)"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-p0S0BfoZy0w-REFERENCES-claim-p0S0BfoZy0w-discussion-summary",
+      "from_node_id": "video-p0S0BfoZy0w",
+      "to_node_id": "claim-p0S0BfoZy0w-discussion-summary",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 0
+        }
+      ]
+    },
+    {
+      "id": "edge-person-john-brandenburg-ASSERTED-claim-p0S0BfoZy0w-brandenburg-mars-xenon-isotopes",
+      "from_node_id": "person-john-brandenburg",
+      "to_node_id": "claim-p0S0BfoZy0w-brandenburg-mars-xenon-isotopes",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 53,
+          "quote": "Brandenburg analyzed Mars isotopic evidence — Xenon-129 enrichment consistent with ancient thermonuclear-scale event — corroborating a dead-civilization-destroyed-by-nuclear-war hypothesis. 'I wept li"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-p0S0BfoZy0w-REFERENCES-claim-p0S0BfoZy0w-brandenburg-mars-xenon-isotopes",
+      "from_node_id": "video-p0S0BfoZy0w",
+      "to_node_id": "claim-p0S0BfoZy0w-brandenburg-mars-xenon-isotopes",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 53
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-p0S0BfoZy0w-brandenburg-mars-xenon-isotopes-REFERENCES-concept-mars-nuclear-war-isotopes",
+      "from_node_id": "claim-p0S0BfoZy0w-brandenburg-mars-xenon-isotopes",
+      "to_node_id": "concept-mars-nuclear-war-isotopes",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 53
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-p0S0BfoZy0w-brandenburg-mars-xenon-isotopes-REFERENCES-location-cydonia-mensae-mars",
+      "from_node_id": "claim-p0S0BfoZy0w-brandenburg-mars-xenon-isotopes",
+      "to_node_id": "location-cydonia-mensae-mars",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 53
+        }
+      ]
+    },
+    {
+      "id": "edge-person-john-brandenburg-ASSERTED-claim-p0S0BfoZy0w-brandenburg-martian-ocean-discovery",
+      "from_node_id": "person-john-brandenburg",
+      "to_node_id": "claim-p0S0BfoZy0w-brandenburg-martian-ocean-discovery",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 51,
+          "quote": "Brandenburg was the researcher who found evidence of a Martian ocean: 'Mars was covered with liquid water. I was the one to find the Martian ocean.'"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-p0S0BfoZy0w-REFERENCES-claim-p0S0BfoZy0w-brandenburg-martian-ocean-discovery",
+      "from_node_id": "video-p0S0BfoZy0w",
+      "to_node_id": "claim-p0S0BfoZy0w-brandenburg-martian-ocean-discovery",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 51
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-p0S0BfoZy0w-brandenburg-martian-ocean-discovery-REFERENCES-location-cydonia-mensae-mars",
+      "from_node_id": "claim-p0S0BfoZy0w-brandenburg-martian-ocean-discovery",
+      "to_node_id": "location-cydonia-mensae-mars",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 51
+        }
+      ]
+    },
+    {
+      "id": "edge-person-john-brandenburg-ASSERTED-claim-p0S0BfoZy0w-brandenburg-cydonia-face-pyramid-suppressed",
+      "from_node_id": "person-john-brandenburg",
+      "to_node_id": "claim-p0S0BfoZy0w-brandenburg-cydonia-face-pyramid-suppressed",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 51,
+          "quote": "Per Brandenburg: NASA never shows the 'Face' on Mars and the five-sided pyramid together in public photos — because juxtaposition makes archaeological origin obvious. Brandenburg saw Carl Sagan push h"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-p0S0BfoZy0w-REFERENCES-claim-p0S0BfoZy0w-brandenburg-cydonia-face-pyramid-suppressed",
+      "from_node_id": "video-p0S0BfoZy0w",
+      "to_node_id": "claim-p0S0BfoZy0w-brandenburg-cydonia-face-pyramid-suppressed",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 51
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-p0S0BfoZy0w-brandenburg-cydonia-face-pyramid-suppressed-REFERENCES-location-cydonia-mensae-mars",
+      "from_node_id": "claim-p0S0BfoZy0w-brandenburg-cydonia-face-pyramid-suppressed",
+      "to_node_id": "location-cydonia-mensae-mars",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 51
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-p0S0BfoZy0w-brandenburg-cydonia-face-pyramid-suppressed-REFERENCES-person-carl-sagan",
+      "from_node_id": "claim-p0S0BfoZy0w-brandenburg-cydonia-face-pyramid-suppressed",
+      "to_node_id": "person-carl-sagan",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 51
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-p0S0BfoZy0w-brandenburg-cydonia-face-pyramid-suppressed-REFERENCES-organization-nasa",
+      "from_node_id": "claim-p0S0BfoZy0w-brandenburg-cydonia-face-pyramid-suppressed",
+      "to_node_id": "organization-nasa",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 51
+        }
+      ]
+    },
+    {
+      "id": "edge-person-john-brandenburg-ASSERTED-claim-p0S0BfoZy0w-brandenburg-joint-chiefs-staff-confirm",
+      "from_node_id": "person-john-brandenburg",
+      "to_node_id": "claim-p0S0BfoZy0w-brandenburg-joint-chiefs-staff-confirm",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 77,
+          "quote": "At a staff level of the Joint Chiefs during the Reagan administration, a colonel Brandenburg knew directly confirmed: 'Is there really a UFO coverup? Yes. That's all I can tell you. The rest you can f"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-p0S0BfoZy0w-REFERENCES-claim-p0S0BfoZy0w-brandenburg-joint-chiefs-staff-confirm",
+      "from_node_id": "video-p0S0BfoZy0w",
+      "to_node_id": "claim-p0S0BfoZy0w-brandenburg-joint-chiefs-staff-confirm",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 77
+        }
+      ]
+    },
+    {
+      "id": "edge-person-john-brandenburg-ASSERTED-claim-p0S0BfoZy0w-brandenburg-able-archer-1983",
+      "from_node_id": "person-john-brandenburg",
+      "to_node_id": "claim-p0S0BfoZy0w-brandenburg-able-archer-1983",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 67,
+          "quote": "Brandenburg lived through the classified November 1983 Able Archer near-nuclear-war crisis at Sandia — 'only people on the lab premises inside the fence knew how bad things were.'"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-p0S0BfoZy0w-REFERENCES-claim-p0S0BfoZy0w-brandenburg-able-archer-1983",
+      "from_node_id": "video-p0S0BfoZy0w",
+      "to_node_id": "claim-p0S0BfoZy0w-brandenburg-able-archer-1983",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 67
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-p0S0BfoZy0w-brandenburg-able-archer-1983-REFERENCES-event-able-archer-1983-crisis",
+      "from_node_id": "claim-p0S0BfoZy0w-brandenburg-able-archer-1983",
+      "to_node_id": "event-able-archer-1983-crisis",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 67
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-p0S0BfoZy0w-brandenburg-able-archer-1983-REFERENCES-location-sandia-national-lab",
+      "from_node_id": "claim-p0S0BfoZy0w-brandenburg-able-archer-1983",
+      "to_node_id": "location-sandia-national-lab",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 67
+        }
+      ]
+    },
+    {
+      "id": "edge-person-john-brandenburg-ASSERTED-claim-p0S0BfoZy0w-brandenburg-teller-conscience",
+      "from_node_id": "person-john-brandenburg",
+      "to_node_id": "claim-p0S0BfoZy0w-brandenburg-teller-conscience",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 83,
+          "quote": "Brandenburg personally knew Edward Teller at Livermore; describes Teller (contrary to post-Oppenheimer villain framing) as 'creative, enlightened, conscience-driven' — H-bomb motivated by Hungarian Ru"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-p0S0BfoZy0w-REFERENCES-claim-p0S0BfoZy0w-brandenburg-teller-conscience",
+      "from_node_id": "video-p0S0BfoZy0w",
+      "to_node_id": "claim-p0S0BfoZy0w-brandenburg-teller-conscience",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 83
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-p0S0BfoZy0w-brandenburg-teller-conscience-REFERENCES-person-edward-teller",
+      "from_node_id": "claim-p0S0BfoZy0w-brandenburg-teller-conscience",
+      "to_node_id": "person-edward-teller",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "p0S0BfoZy0w",
+          "timestamp_start": 83
+        }
+      ]
+    }
+  ],
+  "extracted_at": "2026-04-17T13:21:38.692442+00:00",
+  "extractor_version": "v1-inline-claude"
+}

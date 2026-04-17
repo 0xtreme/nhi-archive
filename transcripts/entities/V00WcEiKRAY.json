@@ -1,0 +1,3646 @@
+{
+  "video_id": "V00WcEiKRAY",
+  "nodes": [
+    {
+      "id": "video-V00WcEiKRAY",
+      "node_type": "video",
+      "label": "\"I Located A UFO Base In Arizona!\" (Ft. Ross Coulthart)",
+      "summary": "I sat down with award-winning investigative journalist Ross Coulthart for a deep and personal conversation about the UFO phenomenon, secrecy, and the weight of uncovering truths long hidden...",
+      "tags": [
+        "video",
+        "american-alchemy"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.193908+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "timestamp_end": 6704.0,
+          "quote": "Video: \"I Located A UFO Base In Arizona!\" (Ft. Ross Coulthart)"
+        }
+      ],
+      "type_specific": {
+        "video_id": "V00WcEiKRAY",
+        "title": "\"I Located A UFO Base In Arizona!\" (Ft. Ross Coulthart)",
+        "url": "https://www.youtube.com/watch?v=V00WcEiKRAY",
+        "view_count": 1075223,
+        "duration_seconds": 6704.0,
+        "host_id": "person-jesse-michels",
+        "guest_ids": [
+          "person-ross-coulthart"
+        ]
+      }
+    },
+    {
+      "id": "person-jesse-michels",
+      "node_type": "person",
+      "label": "Jesse Michels",
+      "summary": "Host of American Alchemy podcast/show. Independent journalist and UFO/NHI researcher.",
+      "tags": [
+        "journalist",
+        "interviewer",
+        "researcher",
+        "host"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.193945+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "Host of American Alchemy podcast/show."
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Jesse",
+          "Michels"
+        ],
+        "profession": "journalist",
+        "notability_tags": [
+          "journalist",
+          "interviewer",
+          "researcher",
+          "host"
+        ]
+      }
+    },
+    {
+      "id": "person-anna-paulina-luna",
+      "node_type": "person",
+      "label": "Anna Paulina Luna",
+      "summary": "",
+      "tags": [
+        "politician",
+        "congress"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.715653+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "hink it's any coincidence that Representative Anna  Paulina Luna when she was tweeting earlier this week about what a hopele"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Luna",
+          "Congresswoman Luna"
+        ],
+        "notability_tags": [
+          "politician",
+          "congress"
+        ]
+      }
+    },
+    {
+      "id": "person-robert-hastings",
+      "node_type": "person",
+      "label": "Robert Hastings",
+      "summary": "",
+      "tags": [
+        "researcher",
+        "author",
+        "UFOs and Nukes"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.715669+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "l doumented you know nuclear connection. You've interviewed Robert Hastings. I've interviewed Robert Hastings and I do think it's inter"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Hastings"
+        ],
+        "notability_tags": [
+          "researcher",
+          "author",
+          "UFOs and Nukes"
+        ]
+      }
+    },
+    {
+      "id": "person-john-f-kennedy",
+      "node_type": "person",
+      "label": "John F. Kennedy",
+      "summary": "",
+      "tags": [
+        "president",
+        "historical"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.715674+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "e that probably believes that the CIA had a hand in killing JFK. Then you ask people I have no doubt.  No doubt right yeah "
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "JFK",
+          "Kennedy"
+        ],
+        "notability_tags": [
+          "president",
+          "historical"
+        ]
+      }
+    },
+    {
+      "id": "person-ross-coulthart",
+      "node_type": "person",
+      "label": "Ross Coulthart",
+      "summary": "",
+      "tags": [
+        "journalist",
+        "investigator"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.715679+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "# \"I Located A UFO Base In Arizona!\" (Ft. Ross Coulthart) https://www.youtube.com/watch?v=V00WcEiKRAY views: 1,075,2"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Coulthart"
+        ],
+        "notability_tags": [
+          "journalist",
+          "investigator"
+        ]
+      }
+    },
+    {
+      "id": "person-e-howard-hunt",
+      "node_type": "person",
+      "label": "E. Howard Hunt",
+      "summary": "",
+      "tags": [
+        "CIA",
+        "Watergate"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.715684+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "ense and it was only a matter of time. I'd read Nick Cook's hunt for zero point and you know he'd implied very strongly that"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Howard Hunt",
+          "Hunt"
+        ],
+        "notability_tags": [
+          "CIA",
+          "Watergate"
+        ]
+      }
+    },
+    {
+      "id": "person-brandon-fugal",
+      "node_type": "person",
+      "label": "Brandon Fugal",
+      "summary": "Brandon Daniel Fugal (born April 3, 1973) is an American businessman, real estate developer, venture capitalist, philanthropist, and entrepreneur. He is chairman and co-owner of the Utah office of Colliers International. He owns the 512-acre rural property in Utah known as Skinwalker Ranch and is ex",
+      "tags": [
+        "wikipedia",
+        "20th-century american businesspeople",
+        "21st-century american businesspeople",
+        "21st-century american philanthropists",
+        "american company founders",
+        "american real estate brokers",
+        "american venture capitalists",
+        "businesspeople from utah",
+        "people associated with ufology",
+        "twitter username not in wikidata",
+        "utah valley university alumni",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.715689+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "may be the case that his sphere is now in the possession of Brandon Fugal and the Skinwalker Ranch show is going to be paying to have"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "BRANDON FUGAL",
+          "Fugal",
+          "brandon fugal"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "20th-century american businesspeople",
+          "21st-century american businesspeople",
+          "21st-century american philanthropists",
+          "american company founders",
+          "american real estate brokers",
+          "american venture capitalists",
+          "businesspeople from utah",
+          "people associated with ufology",
+          "twitter username not in wikidata",
+          "utah valley university alumni",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "person-donald-menzel",
+      "node_type": "person",
+      "label": "Donald Menzel",
+      "summary": "",
+      "tags": [
+        "astronomer",
+        "skeptic"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.715693+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "ctions. And in my head I'm thinking that's exactly what Don Menzel would say in the 50s to throw people off the trail. And Dav"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Menzel"
+        ],
+        "notability_tags": [
+          "astronomer",
+          "skeptic"
+        ]
+      }
+    },
+    {
+      "id": "person-love-has-won",
+      "node_type": "person",
+      "label": "Love Has Won",
+      "summary": "Love Has Won (LHW), also known as the Galactic Federation of Light, is an American new religious movement that was led by Amy Carlson until her death in 2021. Carlson was referred to within the group as \"Mother God\", who described herself as, among other things, the creator of the universe, with the",
+      "tags": [
+        "wikipedia",
+        "2007 establishments in colorado",
+        "ancient astronaut speculation",
+        "covid-19 vaccine misinformation and hesitancy",
+        "climate change denial in the united states",
+        "holocaust denial in the united states",
+        "new age organizations",
+        "new religious movements established in the 2000s",
+        "qanon",
+        "religious belief systems founded in the united states",
+        "religious controversies in the united states",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.715698+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "y who will allow us to do the testing on the sphere cuz Jim won't let us cut into it for obvious reasons. And he told me, \""
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "LOVE HAS WON",
+          "Won",
+          "love has won"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "2007 establishments in colorado",
+          "ancient astronaut speculation",
+          "covid-19 vaccine misinformation and hesitancy",
+          "climate change denial in the united states",
+          "holocaust denial in the united states",
+          "new age organizations",
+          "new religious movements established in the 2000s",
+          "qanon",
+          "religious belief systems founded in the united states",
+          "religious controversies in the united states",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "person-paul-r-hill",
+      "node_type": "person",
+      "label": "Paul R. Hill",
+      "summary": "Paul Richard Hill (1909–1990) was a mid–twentieth-century American aerodynamicist. He was a leading research and development engineer and manager for NASA (National Aeronautics and Space Administration) and its predecessor, NACA (the National Advisory Council for Aeronautics) between 1939 and 1970, ",
+      "tags": [
+        "wikipedia",
+        "aerodynamicists",
+        "nasa people",
+        "scientists from iowa",
+        "uc berkeley college of engineering alumni",
+        "ufologists",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.715702+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "g this. It talks about University of North Carolina, Chapel Hill, where we know that they were funding Thomas Towns and Brow"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Hill",
+          "PAUL R. HILL",
+          "Paul Hill",
+          "paul r. hill"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "aerodynamicists",
+          "nasa people",
+          "scientists from iowa",
+          "uc berkeley college of engineering alumni",
+          "ufologists",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "person-riley-martin",
+      "node_type": "person",
+      "label": "Riley Martin",
+      "summary": "Riley Lee Martin (May 9, 1946 – December 22, 2015) was an American self-described alien contactee, author and radio host. Martin was the author of the book The Coming of Tan, which describes his life and his alleged alien visitation. He hosted The Riley Martin Show on the Sirius XM Radio channel How",
+      "tags": [
+        "wikipedia",
+        "20th-century african-american people",
+        "african-american radio personalities",
+        "american conspiracy theorists",
+        "american outsider artists",
+        "american people who self-identify as being of native american descent",
+        "contactees",
+        "people from natchez, mississippi",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.715706+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "sentially it was an implicit acknowledgement by that Loheed Martin executive that they are holding alien technology. And I jus"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Martin",
+          "RILEY MARTIN",
+          "riley martin"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "20th-century african-american people",
+          "african-american radio personalities",
+          "american conspiracy theorists",
+          "american outsider artists",
+          "american people who self-identify as being of native american descent",
+          "contactees",
+          "people from natchez, mississippi",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "person-timothy-good",
+      "node_type": "person",
+      "label": "Timothy Good",
+      "summary": "",
+      "tags": [
+        "researcher",
+        "author"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.715710+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "nt domain in the home of a  beautiful man in Texas who is a good soul. And I can tell you it may be the case that his sphere"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Tim Good",
+          "Good"
+        ],
+        "notability_tags": [
+          "researcher",
+          "author"
+        ]
+      }
+    },
+    {
+      "id": "person-allen-dulles",
+      "node_type": "person",
+      "label": "Allen Dulles",
+      "summary": "",
+      "tags": [
+        "CIA",
+        "historical"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.715714+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "nated? Who called the shots? They're like oh it's it's Alan Dulles. Where was Alan Dulles at the time? Was he at the CIA? No h"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Dulles"
+        ],
+        "notability_tags": [
+          "CIA",
+          "historical"
+        ]
+      }
+    },
+    {
+      "id": "person-chan-thomas",
+      "node_type": "person",
+      "label": "Chan Thomas",
+      "summary": "Chan Thomas (1920–1998) was an American engineer, ufologist, writer on ancient cataclysms, and self-proclaimed polymath whose ideas have influenced conspiracy theorists in the 21st century.",
+      "tags": [
+        "wikipedia",
+        "20th-century american engineers",
+        "mcdonnell douglas people",
+        "ufologists",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.715719+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "Carolina, Chapel Hill, where we know that they were funding Thomas Towns and Brown and all sorts of other, you  know, anti-gra"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "CHAN THOMAS",
+          "Thomas",
+          "chan thomas"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "20th-century american engineers",
+          "mcdonnell douglas people",
+          "ufologists",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "person-betty-hill",
+      "node_type": "person",
+      "label": "Betty Hill",
+      "summary": "Betty Hill entity extracted from cross-source archival records.",
+      "tags": [
+        "pipeline-generated",
+        "entity-extracted"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.715723+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "g this. It talks about University of North Carolina, Chapel Hill, where we know that they were funding Thomas Towns and Brow"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "BETTY HILL",
+          "Hill",
+          "betty hill"
+        ],
+        "notability_tags": [
+          "pipeline-generated",
+          "entity-extracted"
+        ]
+      }
+    },
+    {
+      "id": "person-bob-jacobs",
+      "node_type": "person",
+      "label": "Bob Jacobs",
+      "summary": "",
+      "tags": [
+        "witness",
+        "Big Sur"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.715727+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "t to mention, you'd appreciate this. You have you spoken to Bob Jacobs ever 64? Yeah, many times. So yeah, I'm sure you have some "
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Jacobs",
+          "Professor Jacobs"
+        ],
+        "notability_tags": [
+          "witness",
+          "Big Sur"
+        ]
+      }
+    },
+    {
+      "id": "organization-international-ufo-museum-and-research-center",
+      "node_type": "organization",
+      "label": "International UFO Museum and Research Center",
+      "summary": "The International UFO Museum and Research Center is located in Roswell, New Mexico, United States, in the downtown district, and is focused largely on the 1947 Roswell Crash and later supposed UFO incidents in the United States and elsewhere. It was founded in 1991 as a 501c3 nonprofit educational o",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.715733+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": " he was also at a federally funded research and development center called Aerospace Corporation. So that is the backdrop. That"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-the-report-on-unidentified-flying-objects",
+      "node_type": "organization",
+      "label": "The Report on Unidentified Flying Objects",
+      "summary": "The Report on Unidentified Flying Objects is a 1956 book by then-retired Air Force UFO investigator Edward J. Ruppelt, detailing his experience running Project Blue Book. The book was noted for its suggestion that a few UFO sightings might be linked to spikes of atomic radiation. Contemporary media ",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.715738+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "ddle of the night. And the pilot and the co-pilot had these objects clearly in their view elliptical metallic discshaped object"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-1952-washington-d-c-ufo-incident",
+      "node_type": "organization",
+      "label": "1952 Washington, D.C. UFO incident",
+      "summary": "From July 12 to 29, 1952, a series of unidentified flying object (UFO) sightings were reported in Washington, D.C., and later became known as the Washington flap, the Washington National Airport Sightings, or the Invasion of Washington. The most publicized sightings took place on consecutive weekend",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.715743+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "d where I was living as a kid, I there was a really big UFO incident in 1978 when I was 16 years old in a place called Kikura on"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-identification-studies-of-ufos",
+      "node_type": "organization",
+      "label": "Identification studies of UFOs",
+      "summary": "Identifying unidentified flying objects (UFOs) is a difficult task due to the normally poor quality of the evidence provided by those who report sighting the unknown object. Observations and subsequent reporting are often made by those untrained in astronomy, atmospheric phenomena, aeronautics, phys",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.715747+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "urveillance state in Australia, right? How did you get into UFOs to begin with? [gasps] Like every kid, I was obsessed with "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-lakenheath-bentwaters-incident",
+      "node_type": "organization",
+      "label": "Lakenheath-Bentwaters incident",
+      "summary": "The Lakenheath-Bentwaters Incident was a series of radar and visual contacts with unidentified flying objects over airbases in eastern England on the night of 13–14 August 1956, involving personnel from the Royal Air Force (RAF) and the United States Air Force (USAF). The incident has since gained s",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.715755+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "d where I was living as a kid, I there was a really big UFO incident in 1978 when I was 16 years old in a place called Kikura on"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-the-flying-saucers-are-real",
+      "node_type": "organization",
+      "label": "The Flying Saucers Are Real",
+      "summary": "The Flying Saucers Are Real, by Donald Keyhoe, is a book that investigated reports of UFOs by United States Air Force fighters, personnel, and other aircraft, between 1947 and 1950.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.715760+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": " I've got to know what's your preliminary assessment. Is it real? It's so hard to say. Did you see what did you see what my "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-unidentified-flying-object",
+      "node_type": "organization",
+      "label": "Unidentified flying object",
+      "summary": "An unidentified flying object (UFO) is an object or phenomenon seen in the sky but not yet identified or explained. The term was coined when United States Air Force (USAF) investigations into flying saucers found too broad a range of shapes reported to consider them all saucers or discs. UFOs are al",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.715764+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": " is that this is some sort of global control system. Got an object about a mile behind us and it's following us.  Let's hope t"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-us-department-of-defense",
+      "node_type": "organization",
+      "label": "US Department of Defense",
+      "summary": "US Department of Defense entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.715769+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "Patrick's theory is that these spheres are part of a global defense system by some alien civilization to keep the bad guys out "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-lonnie-zamora-incident",
+      "node_type": "organization",
+      "label": "Lonnie Zamora incident",
+      "summary": "The Lonnie Zamora incident was an alleged UFO sighting that occurred on April 24, 1964 near Socorro, New Mexico when Socorro police officer Lonnie Zamora claimed he saw two people beside a shiny object that later rose into the air accompanied by a roaring blue and orange flame. Zamora's claims were ",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.715773+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "d where I was living as a kid, I there was a really big UFO incident in 1978 when I was 16 years old in a place called Kikura on"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-roswell-that-ends-well",
+      "node_type": "organization",
+      "label": "Roswell That Ends Well",
+      "summary": "\"Roswell That Ends Well\" is the nineteenth episode in the third season of the American animated television series Futurama, and the 51st episode of the series overall. It originally aired on the Fox network in the United States on December 9, 2001. The plot centers on an accidental time travel event",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.715778+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "h I owe you a debt and I think humanity owes you  a debt as well and so I'm grateful for you sitting down. It's a mutual adm"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-the-galileo-project",
+      "node_type": "organization",
+      "label": "The Galileo Project",
+      "summary": "The Galileo Project is an international scientific research project to search for extraterrestrial intelligence or extraterrestrial technology on and near Earth and to identify the nature of anomalous Unidentified Flying Objects/Unidentified Aerial Phenomena (UFOs/UAP). It was launched in 2021 by Ha",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.715782+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "borative relationship with America providing information to Project Blue Book handing over some of the more interesting news Au"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-thornton-leigh-page",
+      "node_type": "organization",
+      "label": "Thornton Leigh Page",
+      "summary": "Thornton Leigh Page was an American professor of astronomy at the University of Chicago and at Wesleyan University. He became embroiled in the controversy over unidentified flying objects (UFOs) after serving briefly on the Robertson Panel, a Central Intelligence Agency–sponsored committee of scient",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.715787+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": " ] solution as fast as possible. We want this off the front page.\" And it was quite clear enormous amounts of pressure was b"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-project-blue-book",
+      "node_type": "organization",
+      "label": "Project Blue Book",
+      "summary": "USAF UFO investigation program active from 1952 to 1969.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.715791+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "t go any further. And then much later when I was writing my book, I discovered that there'd been this release of the New Zea"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-world-contact-day",
+      "node_type": "organization",
+      "label": "World Contact Day",
+      "summary": "World Contact Day was first declared in March 1953 by an organization called the International Flying Saucer Bureau (IFSB), as a day on which all IFSB members would attempt to send a telepathic message into space. The IFSB voted to hold such a day in 1953, theorising that if both telepathy and alien",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.715795+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "that and it just got more and more interesting and then one day I rang him and he was getting really ill and I could hear a"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-manhattan-project",
+      "node_type": "organization",
+      "label": "Manhattan Project",
+      "summary": "",
+      "tags": [
+        "government_agency"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.715799+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "m do. Right. Oh wow. That's scary that there's some subrosa Manhattan project 2.0 going on. Oh, I'm sure there's a Manhattan project 2.0 "
+        }
+      ],
+      "type_specific": {
+        "org_type": "government_agency"
+      }
+    },
+    {
+      "id": "organization-condon-committee",
+      "node_type": "organization",
+      "label": "Condon Committee",
+      "summary": "Condon Committee entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.715804+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "nd verse. How many subpoenas have been issued Senate Select Committee for Intelligence for any of that information? Natada. So cr"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-scp-foundation",
+      "node_type": "organization",
+      "label": "SCP Foundation",
+      "summary": "The SCP Foundation is a fictional organization featured in stories created by contributors on the SCP Wiki, a wiki-based collaborative writing project, launched in 2008. Within the project's shared universe, the SCP (Special Containment Procedures) Foundation is a secret organization that is respons",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.715808+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": " UAP review panel in 2023, but he happens to run the Simons Foundation, you know, and you know, as a  scientific adviser and is ve"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-bill-chalker",
+      "node_type": "organization",
+      "label": "Bill Chalker",
+      "summary": "Bill Chalker is an Australian author and UFO researcher. He is a contributing editor for the International UFO Reporter and has been the Australian representative for the Aerial Phenomena Research Organisation (1978 to 1986) and a New South Wales state representative for the Mutual UFO Network (1976",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.715812+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "ner. Tell us about Harry Turner. Well, good friend of mine, Bill Chalker,  who's probably Australia's preeminent UAP researcher. He "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-jerome-clark",
+      "node_type": "organization",
+      "label": "Jerome Clark",
+      "summary": "Jerome Clark (born November 27, 1946) is an American writer, specializing in unidentified flying objects and other paranormal subjects. He has appeared on ABC News Special Report, Unsolved Mysteries, Sightings and the A&E Network discussing UFOs and other oddities. Clark is also a country and folk m",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.715816+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": " an egress point into this whole secret facility called the Clark Dale Cement Plant. And the weird thing about it is it's now"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-us-air-force",
+      "node_type": "organization",
+      "label": "US Air Force",
+      "summary": "US Air Force entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.715820+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "oods and to Randy Anderson. Mario Woods, 1977 Ellsworth Air Force Base Experiencer. And then Randy Anderson is this guy who w"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-big-sur-ufo",
+      "node_type": "organization",
+      "label": "Big Sur UFO",
+      "summary": "The Big Sur UFO is a reported UFO incident that took place during a 1964 Air Force deployment to a mountaintop near Big Sur, California. The deployment was a mission was to film Atlas missile tests from Vandenberg Air Force Base. Since 1982, Robert Jacobs, who had overseen the mountaintop team, has ",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.715824+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "# \"I Located A UFO Base In Arizona!\" (Ft. Ross Coulthart) https://www.youtube."
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-mirage-men",
+      "node_type": "organization",
+      "label": "Mirage Men",
+      "summary": "Mirage Men is a 2013 documentary film directed by John Lundberg, written by Mark Pilkington and co-directed by Roland Denning and Kypros Kyprianou. Mirage Men suggests there was a conspiracy by the U.S. military to fabricate UFO folklore in order to deflect attention from classified military project",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.715828+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": " deniable favors of secret services exchanging each other's men to do dirty tricks on each other. And that woke me up. I kn"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-us-navy",
+      "node_type": "organization",
+      "label": "US Navy",
+      "summary": "US Navy entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.715832+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "s the former head of science technology development for the US Navy and I'd written to him as an active brazen cheek to be perf"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-nasa",
+      "node_type": "organization",
+      "label": "NASA",
+      "summary": "NASA entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.715836+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "w people off the trail. And David Spurggle not only did the NASA UAP review panel in 2023, but he happens to run the Simons "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other",
+        "acronym": "NASA"
+      }
+    },
+    {
+      "id": "organization-cia",
+      "node_type": "organization",
+      "label": "CIA",
+      "summary": "CIA entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.715840+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "ngman craft in 3. Yeah. And so the interesting thing is the CIA intervened to stop that from happening or at least the Offi"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other",
+        "acronym": "CIA"
+      }
+    },
+    {
+      "id": "organization-dia",
+      "node_type": "organization",
+      "label": "DIA",
+      "summary": "DIA entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.715850+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "e that work, Harry went on to work in the equivalent of the DIA, the Defense Intelligence Agency in Australia, which at the"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other",
+        "acronym": "DIA"
+      }
+    },
+    {
+      "id": "organization-fbi",
+      "node_type": "organization",
+      "label": "FBI",
+      "summary": "FBI entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.715854+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "have been murdered cuz I'm told that the briefing that the  FBI gave in Congress really blew people away. I have no doubt t"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other",
+        "acronym": "FBI"
+      }
+    },
+    {
+      "id": "organization-dod",
+      "node_type": "organization",
+      "label": "DoD",
+      "summary": "",
+      "tags": [
+        "government_agency"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.715858+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "illions of dollars missing from the federal budget from the DoD budget to go towards these these projects. So and then Nat "
+        }
+      ],
+      "type_specific": {
+        "org_type": "government_agency",
+        "full_name": "Department of Defense"
+      }
+    },
+    {
+      "id": "location-wright-patterson-air-force-base",
+      "node_type": "location",
+      "label": "Wright-Patterson Air Force Base",
+      "summary": "",
+      "tags": [
+        "military_base"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.715863+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "ing didn't. And so he was contacted on his own admission by Wright Patterson Air Force Base. And I think it was even whatever the techno"
+        }
+      ],
+      "type_specific": {
+        "location_type": "military_base",
+        "country": "US",
+        "state_or_region": "Ohio"
+      }
+    },
+    {
+      "id": "location-edwards-air-force-base",
+      "node_type": "location",
+      "label": "Edwards Air Force Base",
+      "summary": "",
+      "tags": [
+        "military_base"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.715868+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "airly mundane launch of an ICBM test prototype missile from Edwards Air Force Base. In the course of the launch of that missile, they didn't k"
+        }
+      ],
+      "type_specific": {
+        "location_type": "military_base",
+        "country": "US",
+        "state_or_region": "California"
+      }
+    },
+    {
+      "id": "location-pacific-training-area",
+      "node_type": "location",
+      "label": "Pacific Training Area",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.715873+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "t might be interesting who'd been involved in litigation at Area 51. And in a layering and iterative process of doing what I"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-roswell-new-mexico",
+      "node_type": "location",
+      "label": "Roswell, New Mexico",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.715877+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "from Peru. And then on the way back up to the US, I stop in Mexico City to meet with Haime Mousan, who's a big proponent of th"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-rendlesham-forest",
+      "node_type": "location",
+      "label": "Rendlesham Forest",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.715881+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "e air. You've seen the video and then he picks it up in the forest and there is a little gap in the video.  So, that does bege"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-skinwalker-ranch",
+      "node_type": "location",
+      "label": "Skinwalker Ranch",
+      "summary": "",
+      "tags": [
+        "ranch"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.715884+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "is sphere is now in the possession of Brandon Fugal and the Skinwalker Ranch show is going to be paying to have that sphere properly inv"
+        }
+      ],
+      "type_specific": {
+        "location_type": "ranch",
+        "country": "US",
+        "state_or_region": "Utah"
+      }
+    },
+    {
+      "id": "location-united-states",
+      "node_type": "location",
+      "label": "United States",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.715888+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "now about. What he told me was that he'd been told that the United States had recovered multiple craft. Multiple craft. And he implie"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-new-zealand",
+      "node_type": "location",
+      "label": "New Zealand",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.715892+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "was fiction. I never believed it was true. And even when in New Zealand where I was living as a kid, I there was a really big UFO i"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-australia",
+      "node_type": "location",
+      "label": "Australia",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.715896+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "ynchronistic? No. And so when I ran that story on Channel 7 Australia, Mhm. they, as usual, as TV networks are want  to do, beat "
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-germany",
+      "node_type": "location",
+      "label": "Germany",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.715899+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "there is this fandom. there's even a guy, God bless him, in Germany who's done a three-dimensional model of me with far too muc"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-roswell",
+      "node_type": "location",
+      "label": "Roswell",
+      "summary": "",
+      "tags": [
+        "city"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.715903+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "le craft. Multiple craft. And he implied very strongly that Roswell and another case I'm interested in Aztec and Kingman were a"
+        }
+      ],
+      "type_specific": {
+        "location_type": "city",
+        "country": "US",
+        "state_or_region": "New Mexico"
+      }
+    },
+    {
+      "id": "location-area-51",
+      "node_type": "location",
+      "label": "Area 51",
+      "summary": "",
+      "tags": [
+        "military_base"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.715906+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "t might be interesting who'd been involved in litigation at Area 51. And in a layering and iterative process of doing what I do"
+        }
+      ],
+      "type_specific": {
+        "location_type": "military_base",
+        "country": "US",
+        "state_or_region": "Nevada"
+      }
+    },
+    {
+      "id": "location-france",
+      "node_type": "location",
+      "label": "France",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.715910+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "tate to  explode their nuclear weapons. and both the US and France used the South Pacific and or the Pacific and it was a big "
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-mexico",
+      "node_type": "location",
+      "label": "Mexico",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.715914+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "from Peru. And then on the way back up to the US, I stop in Mexico City to meet with Haime Mousan, who's a big proponent of th"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-russia",
+      "node_type": "location",
+      "label": "Russia",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.715917+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "ry that came up was that in the early days of Glasnost when Russia and America were kind of friends again. Mhm. Russia imparte"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-iran",
+      "node_type": "location",
+      "label": "Iran",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.715920+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": " surprised at all if Israel launched a preemptive attack on Iran in the next few weeks. I wouldn't either. It's a it's a the"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-peru",
+      "node_type": "location",
+      "label": "Peru",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.715924+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "tridactyl, you know, three toaded and fingered mummies from Peru. And then on the way back up to the US, I stop in Mexico Ci"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "program-project-blue-book",
+      "node_type": "program",
+      "label": "Project Blue Book",
+      "summary": "",
+      "tags": [
+        "program"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.715928+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "borative relationship with America providing information to Project Blue Book handing over some of the more interesting news Australian a"
+        }
+      ],
+      "type_specific": {
+        "acronym": "Blue Book"
+      }
+    },
+    {
+      "id": "claim-V00WcEiKRAY-discussion-summary",
+      "node_type": "claim",
+      "label": "Video V00WcEiKRAY features extended discussion of Anna Paulina Luna, Robert Hastings, John F. Kenned",
+      "summary": "Video V00WcEiKRAY features extended discussion of Anna Paulina Luna, Robert Hastings, John F. Kennedy and related UAP research topics, hosted by Jesse Michels.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:10.715939+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "Episode title: \"I Located A UFO Base In Arizona!\" (Ft. Ross Coulthart)"
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Video V00WcEiKRAY features extended discussion of Anna Paulina Luna, Robert Hastings, John F. Kennedy and related UAP research topics, hosted by Jesse Michels.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "V00WcEiKRAY",
+        "timestamp_start_seconds": 0,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-anna-paulina-luna",
+          "person-robert-hastings",
+          "person-john-f-kennedy",
+          "video-V00WcEiKRAY"
+        ]
+      }
+    },
+    {
+      "id": "person-jaime-maussan",
+      "node_type": "person",
+      "label": "Jaime Maussan",
+      "summary": "Mexican UFO journalist; central proponent of Peruvian tridactyl mummies and receiver of the Bogota sphere.",
+      "tags": [
+        "journalist"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.737276+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 70,
+          "quote": "Mexican UFO journalist central to Peru mummies and Bogota sphere cases"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Maussan"
+        ],
+        "profession": "journalist",
+        "notability_tags": [
+          "journalist"
+        ]
+      }
+    },
+    {
+      "id": "person-patrick-jackson",
+      "node_type": "person",
+      "label": "Patrick Jackson",
+      "summary": "Individual featured in a Ross Coulthart story who possessed a sphere similar to the Bogota UAP sphere.",
+      "tags": [
+        "witness"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.737278+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 87,
+          "quote": "Possessed a sphere similar to the Bogota sphere"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Jackson"
+        ],
+        "notability_tags": [
+          "witness"
+        ]
+      }
+    },
+    {
+      "id": "person-mario-woods",
+      "node_type": "person",
+      "label": "Mario Woods",
+      "summary": "1977 Ellsworth AFB experiencer who recognized symbols photographed on the Bogota sphere from his own NHI encounter.",
+      "tags": [
+        "witness",
+        "experiencer",
+        "USAF"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.737280+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 80,
+          "quote": "1977 Ellsworth AFB experiencer; recognized Bogota sphere symbols"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Woods"
+        ],
+        "profession": "military veteran",
+        "notability_tags": [
+          "witness",
+          "experiencer",
+          "USAF"
+        ]
+      }
+    },
+    {
+      "id": "person-randy-anderson",
+      "node_type": "person",
+      "label": "Randy Anderson",
+      "summary": "Experiencer said to have been taken underground at Naval Surface Warfare Center Crane and possibly shown off-world technology; recognized symbols on the Bogota sphere.",
+      "tags": [
+        "witness",
+        "experiencer"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.737282+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 82,
+          "quote": "Crane NSWC experiencer shown off-world tech"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Anderson"
+        ],
+        "notability_tags": [
+          "witness",
+          "experiencer"
+        ]
+      }
+    },
+    {
+      "id": "person-jim-marrs",
+      "node_type": "person",
+      "label": "Jim Marrs",
+      "summary": "Former rock promoter (worked with Willie Nelson) whose Texas home contained an alleged self-moving anomalous sphere featured in Coulthart's Channel 7 Australia 2021 segment.",
+      "tags": [
+        "witness",
+        "collector"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.737285+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 89,
+          "quote": "Rock promoter with alleged anomalous sphere"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Marrs",
+          "Jim Maron"
+        ],
+        "profession": "promoter / author",
+        "notability_tags": [
+          "witness",
+          "collector"
+        ]
+      }
+    },
+    {
+      "id": "technology-bogota-sphere",
+      "node_type": "technology",
+      "label": "Bogota Sphere",
+      "summary": "Alleged sphere found in Colombia; aluminum-alloy reportedly 3× harder than conventional aerospace alloys; symbol set matched by two independent NHI experiencers per Coulthart.",
+      "tags": [
+        "material"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.737289+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 70,
+          "timestamp_end": "Alleged NHI-origin aluminum-alloy sphere from Colombia"
+        }
+      ],
+      "type_specific": {
+        "technology_type": "material"
+      }
+    },
+    {
+      "id": "location-secret-mountain-arizona",
+      "node_type": "location",
+      "label": "Secret Mountain, Arizona",
+      "summary": "",
+      "tags": [
+        "observation_site"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.737291+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 59,
+          "timestamp_end": "Reported site of pulsing golden orb escorted by helicopters"
+        }
+      ],
+      "type_specific": {
+        "location_type": "observation_site",
+        "country": "US",
+        "state_or_region": "Arizona"
+      }
+    },
+    {
+      "id": "location-ellsworth-afb",
+      "node_type": "location",
+      "label": "Ellsworth Air Force Base",
+      "summary": "",
+      "tags": [
+        "military_base"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.737294+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 80,
+          "timestamp_end": "Site of Mario Woods' 1977 NHI encounter"
+        }
+      ],
+      "type_specific": {
+        "location_type": "military_base",
+        "country": "US",
+        "state_or_region": "South Dakota"
+      }
+    },
+    {
+      "id": "claim-V00WcEiKRAY-coulthart-secret-mountain-orb",
+      "node_type": "claim",
+      "label": "Coulthart personally witnessed a gigantic golden plasmatic orb escorted by helicopters rising from b",
+      "summary": "Coulthart personally witnessed a gigantic golden plasmatic orb escorted by helicopters rising from behind Secret Mountain in Arizona at 1:30 AM.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.740836+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 59,
+          "quote": "You would see this big orb being escorted by helicopters rising from behind Secret Mountain. Up comes this beautiful golden orb, gigantic. It pulses. It's plasmatic."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Coulthart personally witnessed a gigantic golden plasmatic orb escorted by helicopters rising from behind Secret Mountain in Arizona at 1:30 AM.",
+        "asserted_by_id": "person-ross-coulthart",
+        "source_video_id": "V00WcEiKRAY",
+        "timestamp_start_seconds": 59,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-ross-coulthart",
+          "location-secret-mountain-arizona"
+        ]
+      }
+    },
+    {
+      "id": "claim-V00WcEiKRAY-bogota-sphere-symbols-match",
+      "node_type": "claim",
+      "label": "Coulthart shared photos of symbols on the Bogota sphere with two independent experiencers (Mario Woo",
+      "summary": "Coulthart shared photos of symbols on the Bogota sphere with two independent experiencers (Mario Woods 1977 Ellsworth; Randy Anderson Crane NSWC) — both recognized the same symbols from their own NHI encounters.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.740851+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 80,
+          "quote": "I showed photos of the symbols to Mario Woods and to Randy Anderson. Both of them freaked out because these were the symbols that they had both seen."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Coulthart shared photos of symbols on the Bogota sphere with two independent experiencers (Mario Woods 1977 Ellsworth; Randy Anderson Crane NSWC) — both recognized the same symbols from their own NHI encounters.",
+        "asserted_by_id": "person-ross-coulthart",
+        "source_video_id": "V00WcEiKRAY",
+        "timestamp_start_seconds": 80,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-ross-coulthart",
+          "person-mario-woods",
+          "person-randy-anderson",
+          "technology-bogota-sphere"
+        ]
+      }
+    },
+    {
+      "id": "claim-V00WcEiKRAY-bogota-sphere-fueltank-match",
+      "node_type": "claim",
+      "label": "Roney Vernet has noted that a particular 9-liter fuel tank is a near-exact visual match to the Bogot",
+      "summary": "Roney Vernet has noted that a particular 9-liter fuel tank is a near-exact visual match to the Bogota sphere, raising cosmetic-alteration hoax possibility.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.740862+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 73,
+          "quote": "There's a particular shape of fuel tank that is exactly 9 liters and it's got similar holes. It looks like a direct visual match with a few changes as if somebody's cosmetically altered it."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Roney Vernet has noted that a particular 9-liter fuel tank is a near-exact visual match to the Bogota sphere, raising cosmetic-alteration hoax possibility.",
+        "asserted_by_id": "person-ross-coulthart",
+        "source_video_id": "V00WcEiKRAY",
+        "timestamp_start_seconds": 73,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "technology-bogota-sphere"
+        ]
+      }
+    },
+    {
+      "id": "claim-V00WcEiKRAY-marrs-self-moving-sphere-texas",
+      "node_type": "claim",
+      "label": "Coulthart observed Jim Marrs' sphere moving under its own power on a verified-level floor in Texas; ",
+      "summary": "Coulthart observed Jim Marrs' sphere moving under its own power on a verified-level floor in Texas; he is trying to get industrial X-ray and CT scanning done.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.740870+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 90,
+          "quote": "The ball is sitting stationary on the floor and then all of a sudden it starts moving. It goes up to the bar and from memory it might have even circled the pole."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Coulthart observed Jim Marrs' sphere moving under its own power on a verified-level floor in Texas; he is trying to get industrial X-ray and CT scanning done.",
+        "asserted_by_id": "person-ross-coulthart",
+        "source_video_id": "V00WcEiKRAY",
+        "timestamp_start_seconds": 90,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-ross-coulthart",
+          "person-jim-marrs",
+          "technology-bogota-sphere"
+        ]
+      }
+    },
+    {
+      "id": "claim-V00WcEiKRAY-fugal-sphere-utah-testing",
+      "node_type": "claim",
+      "label": "Brandon Fugal (Skinwalker Ranch) will fly Jim Marrs' sphere to Utah in his private jet for lab testi",
+      "summary": "Brandon Fugal (Skinwalker Ranch) will fly Jim Marrs' sphere to Utah in his private jet for lab testing.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.740879+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 101,
+          "quote": "Brandon Fugal agreed to fly it in his private jet to Utah where he's going to have it tested in the lab."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Brandon Fugal (Skinwalker Ranch) will fly Jim Marrs' sphere to Utah in his private jet for lab testing.",
+        "asserted_by_id": "person-ross-coulthart",
+        "source_video_id": "V00WcEiKRAY",
+        "timestamp_start_seconds": 101,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-ross-coulthart",
+          "person-brandon-fugal",
+          "person-jim-marrs",
+          "technology-bogota-sphere"
+        ]
+      }
+    },
+    {
+      "id": "claim-V00WcEiKRAY-consciousness-central-2018",
+      "node_type": "claim",
+      "label": "In 2018, one of Coulthart's sources (during a Georgetown pub conversation) told him that the UAP phe",
+      "summary": "In 2018, one of Coulthart's sources (during a Georgetown pub conversation) told him that the UAP phenomenon is 'all about consciousness'.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.740890+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 61,
+          "quote": "One of the first things that one of my sources in that Georgetown pub back in probably 2018 told me was, 'It's all about consciousness.'"
+        }
+      ],
+      "type_specific": {
+        "statement_text": "In 2018, one of Coulthart's sources (during a Georgetown pub conversation) told him that the UAP phenomenon is 'all about consciousness'.",
+        "asserted_by_id": "person-ross-coulthart",
+        "source_video_id": "V00WcEiKRAY",
+        "timestamp_start_seconds": 61,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-ross-coulthart",
+          "concept-nhi"
+        ]
+      }
+    },
+    {
+      "id": "claim-V00WcEiKRAY-fbi-congress-briefing-bombshell",
+      "node_type": "claim",
+      "label": "Coulthart reports that an FBI briefing to Congress on UAPs 'really blew people away' — implication b",
+      "summary": "Coulthart reports that an FBI briefing to Congress on UAPs 'really blew people away' — implication being material evidence of murder or corruption tied to covert programs.",
+      "tags": [
+        "hearsay",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:13:23.740899+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 63,
+          "quote": "People have been murdered cuz I'm told that the briefing that the FBI gave in Congress really blew people away. I have no doubt they think they're going to get away with it."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Coulthart reports that an FBI briefing to Congress on UAPs 'really blew people away' — implication being material evidence of murder or corruption tied to covert programs.",
+        "asserted_by_id": "person-ross-coulthart",
+        "source_video_id": "V00WcEiKRAY",
+        "timestamp_start_seconds": 63,
+        "assertability": "hearsay",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-ross-coulthart",
+          "organization-fbi",
+          "organization-congress"
+        ]
+      }
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge-video-V00WcEiKRAY-HOSTED_BY-person-jesse-michels",
+      "from_node_id": "video-V00WcEiKRAY",
+      "to_node_id": "person-jesse-michels",
+      "relationship": "HOSTED_BY",
+      "confidence": 0.99,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "Jesse hosting"
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-APPEARED_IN-video-V00WcEiKRAY",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "video-V00WcEiKRAY",
+      "relationship": "APPEARED_IN",
+      "confidence": 0.99,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "Host"
+        }
+      ],
+      "properties": {
+        "appearance_type": "host"
+      }
+    },
+    {
+      "id": "edge-video-V00WcEiKRAY-MENTIONS-person-anna-paulina-luna",
+      "from_node_id": "video-V00WcEiKRAY",
+      "to_node_id": "person-anna-paulina-luna",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "hink it's any coincidence that Representative Anna  Paulina Luna when she was tweeting earlier this week about what a hopele"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-V00WcEiKRAY-MENTIONS-person-robert-hastings",
+      "from_node_id": "video-V00WcEiKRAY",
+      "to_node_id": "person-robert-hastings",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "l doumented you know nuclear connection. You've interviewed Robert Hastings. I've interviewed Robert Hastings and I do think it's inter"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-V00WcEiKRAY-MENTIONS-person-john-f-kennedy",
+      "from_node_id": "video-V00WcEiKRAY",
+      "to_node_id": "person-john-f-kennedy",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "e that probably believes that the CIA had a hand in killing JFK. Then you ask people I have no doubt.  No doubt right yeah "
+        }
+      ]
+    },
+    {
+      "id": "edge-person-ross-coulthart-APPEARED_IN-video-V00WcEiKRAY",
+      "from_node_id": "person-ross-coulthart",
+      "to_node_id": "video-V00WcEiKRAY",
+      "relationship": "APPEARED_IN",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "# \"I Located A UFO Base In Arizona!\" (Ft. Ross Coulthart) https://www.youtube.com/watch?v=V00WcEiKRAY views: 1,075,2"
+        }
+      ],
+      "properties": {
+        "appearance_type": "guest"
+      }
+    },
+    {
+      "id": "edge-video-V00WcEiKRAY-DISCUSSES-person-ross-coulthart",
+      "from_node_id": "video-V00WcEiKRAY",
+      "to_node_id": "person-ross-coulthart",
+      "relationship": "DISCUSSES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "# \"I Located A UFO Base In Arizona!\" (Ft. Ross Coulthart) https://www.youtube.com/watch?v=V00WcEiKRAY views: 1,075,2"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-V00WcEiKRAY-MENTIONS-person-e-howard-hunt",
+      "from_node_id": "video-V00WcEiKRAY",
+      "to_node_id": "person-e-howard-hunt",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "ense and it was only a matter of time. I'd read Nick Cook's hunt for zero point and you know he'd implied very strongly that"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-V00WcEiKRAY-MENTIONS-person-brandon-fugal",
+      "from_node_id": "video-V00WcEiKRAY",
+      "to_node_id": "person-brandon-fugal",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "may be the case that his sphere is now in the possession of Brandon Fugal and the Skinwalker Ranch show is going to be paying to have"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-V00WcEiKRAY-MENTIONS-person-donald-menzel",
+      "from_node_id": "video-V00WcEiKRAY",
+      "to_node_id": "person-donald-menzel",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "ctions. And in my head I'm thinking that's exactly what Don Menzel would say in the 50s to throw people off the trail. And Dav"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-V00WcEiKRAY-MENTIONS-person-love-has-won",
+      "from_node_id": "video-V00WcEiKRAY",
+      "to_node_id": "person-love-has-won",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "y who will allow us to do the testing on the sphere cuz Jim won't let us cut into it for obvious reasons. And he told me, \""
+        }
+      ]
+    },
+    {
+      "id": "edge-video-V00WcEiKRAY-MENTIONS-person-paul-r-hill",
+      "from_node_id": "video-V00WcEiKRAY",
+      "to_node_id": "person-paul-r-hill",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "g this. It talks about University of North Carolina, Chapel Hill, where we know that they were funding Thomas Towns and Brow"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-V00WcEiKRAY-MENTIONS-person-riley-martin",
+      "from_node_id": "video-V00WcEiKRAY",
+      "to_node_id": "person-riley-martin",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "sentially it was an implicit acknowledgement by that Loheed Martin executive that they are holding alien technology. And I jus"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-V00WcEiKRAY-MENTIONS-person-timothy-good",
+      "from_node_id": "video-V00WcEiKRAY",
+      "to_node_id": "person-timothy-good",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "nt domain in the home of a  beautiful man in Texas who is a good soul. And I can tell you it may be the case that his sphere"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-V00WcEiKRAY-MENTIONS-person-allen-dulles",
+      "from_node_id": "video-V00WcEiKRAY",
+      "to_node_id": "person-allen-dulles",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "nated? Who called the shots? They're like oh it's it's Alan Dulles. Where was Alan Dulles at the time? Was he at the CIA? No h"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-V00WcEiKRAY-MENTIONS-person-chan-thomas",
+      "from_node_id": "video-V00WcEiKRAY",
+      "to_node_id": "person-chan-thomas",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "Carolina, Chapel Hill, where we know that they were funding Thomas Towns and Brown and all sorts of other, you  know, anti-gra"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-V00WcEiKRAY-MENTIONS-person-betty-hill",
+      "from_node_id": "video-V00WcEiKRAY",
+      "to_node_id": "person-betty-hill",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "g this. It talks about University of North Carolina, Chapel Hill, where we know that they were funding Thomas Towns and Brow"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-V00WcEiKRAY-MENTIONS-person-bob-jacobs",
+      "from_node_id": "video-V00WcEiKRAY",
+      "to_node_id": "person-bob-jacobs",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "t to mention, you'd appreciate this. You have you spoken to Bob Jacobs ever 64? Yeah, many times. So yeah, I'm sure you have some "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-V00WcEiKRAY-MENTIONS-organization-international-ufo-museum-and-research-center",
+      "from_node_id": "video-V00WcEiKRAY",
+      "to_node_id": "organization-international-ufo-museum-and-research-center",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": " he was also at a federally funded research and development center called Aerospace Corporation. So that is the backdrop. That"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-V00WcEiKRAY-MENTIONS-organization-the-report-on-unidentified-flying-objects",
+      "from_node_id": "video-V00WcEiKRAY",
+      "to_node_id": "organization-the-report-on-unidentified-flying-objects",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "ddle of the night. And the pilot and the co-pilot had these objects clearly in their view elliptical metallic discshaped object"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-V00WcEiKRAY-MENTIONS-organization-1952-washington-d-c-ufo-incident",
+      "from_node_id": "video-V00WcEiKRAY",
+      "to_node_id": "organization-1952-washington-d-c-ufo-incident",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "d where I was living as a kid, I there was a really big UFO incident in 1978 when I was 16 years old in a place called Kikura on"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-V00WcEiKRAY-MENTIONS-organization-identification-studies-of-ufos",
+      "from_node_id": "video-V00WcEiKRAY",
+      "to_node_id": "organization-identification-studies-of-ufos",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "urveillance state in Australia, right? How did you get into UFOs to begin with? [gasps] Like every kid, I was obsessed with "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-V00WcEiKRAY-MENTIONS-organization-lakenheath-bentwaters-incident",
+      "from_node_id": "video-V00WcEiKRAY",
+      "to_node_id": "organization-lakenheath-bentwaters-incident",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "d where I was living as a kid, I there was a really big UFO incident in 1978 when I was 16 years old in a place called Kikura on"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-V00WcEiKRAY-MENTIONS-organization-the-flying-saucers-are-real",
+      "from_node_id": "video-V00WcEiKRAY",
+      "to_node_id": "organization-the-flying-saucers-are-real",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": " I've got to know what's your preliminary assessment. Is it real? It's so hard to say. Did you see what did you see what my "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-V00WcEiKRAY-MENTIONS-organization-unidentified-flying-object",
+      "from_node_id": "video-V00WcEiKRAY",
+      "to_node_id": "organization-unidentified-flying-object",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": " is that this is some sort of global control system. Got an object about a mile behind us and it's following us.  Let's hope t"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-V00WcEiKRAY-MENTIONS-organization-us-department-of-defense",
+      "from_node_id": "video-V00WcEiKRAY",
+      "to_node_id": "organization-us-department-of-defense",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "Patrick's theory is that these spheres are part of a global defense system by some alien civilization to keep the bad guys out "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-V00WcEiKRAY-MENTIONS-organization-lonnie-zamora-incident",
+      "from_node_id": "video-V00WcEiKRAY",
+      "to_node_id": "organization-lonnie-zamora-incident",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "d where I was living as a kid, I there was a really big UFO incident in 1978 when I was 16 years old in a place called Kikura on"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-V00WcEiKRAY-MENTIONS-organization-roswell-that-ends-well",
+      "from_node_id": "video-V00WcEiKRAY",
+      "to_node_id": "organization-roswell-that-ends-well",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "h I owe you a debt and I think humanity owes you  a debt as well and so I'm grateful for you sitting down. It's a mutual adm"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-V00WcEiKRAY-MENTIONS-organization-the-galileo-project",
+      "from_node_id": "video-V00WcEiKRAY",
+      "to_node_id": "organization-the-galileo-project",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "borative relationship with America providing information to Project Blue Book handing over some of the more interesting news Au"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-V00WcEiKRAY-MENTIONS-organization-thornton-leigh-page",
+      "from_node_id": "video-V00WcEiKRAY",
+      "to_node_id": "organization-thornton-leigh-page",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": " ] solution as fast as possible. We want this off the front page.\" And it was quite clear enormous amounts of pressure was b"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-V00WcEiKRAY-MENTIONS-organization-project-blue-book",
+      "from_node_id": "video-V00WcEiKRAY",
+      "to_node_id": "organization-project-blue-book",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "t go any further. And then much later when I was writing my book, I discovered that there'd been this release of the New Zea"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-V00WcEiKRAY-MENTIONS-organization-world-contact-day",
+      "from_node_id": "video-V00WcEiKRAY",
+      "to_node_id": "organization-world-contact-day",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "that and it just got more and more interesting and then one day I rang him and he was getting really ill and I could hear a"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-V00WcEiKRAY-MENTIONS-organization-manhattan-project",
+      "from_node_id": "video-V00WcEiKRAY",
+      "to_node_id": "organization-manhattan-project",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "m do. Right. Oh wow. That's scary that there's some subrosa Manhattan project 2.0 going on. Oh, I'm sure there's a Manhattan project 2.0 "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-V00WcEiKRAY-MENTIONS-organization-condon-committee",
+      "from_node_id": "video-V00WcEiKRAY",
+      "to_node_id": "organization-condon-committee",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "nd verse. How many subpoenas have been issued Senate Select Committee for Intelligence for any of that information? Natada. So cr"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-V00WcEiKRAY-MENTIONS-organization-scp-foundation",
+      "from_node_id": "video-V00WcEiKRAY",
+      "to_node_id": "organization-scp-foundation",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": " UAP review panel in 2023, but he happens to run the Simons Foundation, you know, and you know, as a  scientific adviser and is ve"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-V00WcEiKRAY-MENTIONS-organization-bill-chalker",
+      "from_node_id": "video-V00WcEiKRAY",
+      "to_node_id": "organization-bill-chalker",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "ner. Tell us about Harry Turner. Well, good friend of mine, Bill Chalker,  who's probably Australia's preeminent UAP researcher. He "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-V00WcEiKRAY-MENTIONS-organization-jerome-clark",
+      "from_node_id": "video-V00WcEiKRAY",
+      "to_node_id": "organization-jerome-clark",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": " an egress point into this whole secret facility called the Clark Dale Cement Plant. And the weird thing about it is it's now"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-V00WcEiKRAY-MENTIONS-organization-us-air-force",
+      "from_node_id": "video-V00WcEiKRAY",
+      "to_node_id": "organization-us-air-force",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "oods and to Randy Anderson. Mario Woods, 1977 Ellsworth Air Force Base Experiencer. And then Randy Anderson is this guy who w"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-V00WcEiKRAY-MENTIONS-organization-big-sur-ufo",
+      "from_node_id": "video-V00WcEiKRAY",
+      "to_node_id": "organization-big-sur-ufo",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "# \"I Located A UFO Base In Arizona!\" (Ft. Ross Coulthart) https://www.youtube."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-V00WcEiKRAY-MENTIONS-organization-mirage-men",
+      "from_node_id": "video-V00WcEiKRAY",
+      "to_node_id": "organization-mirage-men",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": " deniable favors of secret services exchanging each other's men to do dirty tricks on each other. And that woke me up. I kn"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-V00WcEiKRAY-MENTIONS-organization-us-navy",
+      "from_node_id": "video-V00WcEiKRAY",
+      "to_node_id": "organization-us-navy",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "s the former head of science technology development for the US Navy and I'd written to him as an active brazen cheek to be perf"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-V00WcEiKRAY-MENTIONS-organization-nasa",
+      "from_node_id": "video-V00WcEiKRAY",
+      "to_node_id": "organization-nasa",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "w people off the trail. And David Spurggle not only did the NASA UAP review panel in 2023, but he happens to run the Simons "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-V00WcEiKRAY-MENTIONS-organization-cia",
+      "from_node_id": "video-V00WcEiKRAY",
+      "to_node_id": "organization-cia",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "ngman craft in 3. Yeah. And so the interesting thing is the CIA intervened to stop that from happening or at least the Offi"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-V00WcEiKRAY-MENTIONS-organization-dia",
+      "from_node_id": "video-V00WcEiKRAY",
+      "to_node_id": "organization-dia",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "e that work, Harry went on to work in the equivalent of the DIA, the Defense Intelligence Agency in Australia, which at the"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-V00WcEiKRAY-MENTIONS-organization-fbi",
+      "from_node_id": "video-V00WcEiKRAY",
+      "to_node_id": "organization-fbi",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "have been murdered cuz I'm told that the briefing that the  FBI gave in Congress really blew people away. I have no doubt t"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-V00WcEiKRAY-MENTIONS-organization-dod",
+      "from_node_id": "video-V00WcEiKRAY",
+      "to_node_id": "organization-dod",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "illions of dollars missing from the federal budget from the DoD budget to go towards these these projects. So and then Nat "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-V00WcEiKRAY-MENTIONS-location-wright-patterson-air-force-base",
+      "from_node_id": "video-V00WcEiKRAY",
+      "to_node_id": "location-wright-patterson-air-force-base",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "ing didn't. And so he was contacted on his own admission by Wright Patterson Air Force Base. And I think it was even whatever the techno"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-V00WcEiKRAY-MENTIONS-location-edwards-air-force-base",
+      "from_node_id": "video-V00WcEiKRAY",
+      "to_node_id": "location-edwards-air-force-base",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "airly mundane launch of an ICBM test prototype missile from Edwards Air Force Base. In the course of the launch of that missile, they didn't k"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-V00WcEiKRAY-MENTIONS-location-pacific-training-area",
+      "from_node_id": "video-V00WcEiKRAY",
+      "to_node_id": "location-pacific-training-area",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "t might be interesting who'd been involved in litigation at Area 51. And in a layering and iterative process of doing what I"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-V00WcEiKRAY-MENTIONS-location-roswell-new-mexico",
+      "from_node_id": "video-V00WcEiKRAY",
+      "to_node_id": "location-roswell-new-mexico",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "from Peru. And then on the way back up to the US, I stop in Mexico City to meet with Haime Mousan, who's a big proponent of th"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-V00WcEiKRAY-MENTIONS-location-rendlesham-forest",
+      "from_node_id": "video-V00WcEiKRAY",
+      "to_node_id": "location-rendlesham-forest",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "e air. You've seen the video and then he picks it up in the forest and there is a little gap in the video.  So, that does bege"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-V00WcEiKRAY-MENTIONS-location-skinwalker-ranch",
+      "from_node_id": "video-V00WcEiKRAY",
+      "to_node_id": "location-skinwalker-ranch",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "is sphere is now in the possession of Brandon Fugal and the Skinwalker Ranch show is going to be paying to have that sphere properly inv"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-V00WcEiKRAY-MENTIONS-location-united-states",
+      "from_node_id": "video-V00WcEiKRAY",
+      "to_node_id": "location-united-states",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "now about. What he told me was that he'd been told that the United States had recovered multiple craft. Multiple craft. And he implie"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-V00WcEiKRAY-MENTIONS-location-new-zealand",
+      "from_node_id": "video-V00WcEiKRAY",
+      "to_node_id": "location-new-zealand",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "was fiction. I never believed it was true. And even when in New Zealand where I was living as a kid, I there was a really big UFO i"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-V00WcEiKRAY-MENTIONS-location-australia",
+      "from_node_id": "video-V00WcEiKRAY",
+      "to_node_id": "location-australia",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "ynchronistic? No. And so when I ran that story on Channel 7 Australia, Mhm. they, as usual, as TV networks are want  to do, beat "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-V00WcEiKRAY-MENTIONS-location-germany",
+      "from_node_id": "video-V00WcEiKRAY",
+      "to_node_id": "location-germany",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "there is this fandom. there's even a guy, God bless him, in Germany who's done a three-dimensional model of me with far too muc"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-V00WcEiKRAY-MENTIONS-location-roswell",
+      "from_node_id": "video-V00WcEiKRAY",
+      "to_node_id": "location-roswell",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "le craft. Multiple craft. And he implied very strongly that Roswell and another case I'm interested in Aztec and Kingman were a"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-V00WcEiKRAY-MENTIONS-location-area-51",
+      "from_node_id": "video-V00WcEiKRAY",
+      "to_node_id": "location-area-51",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "t might be interesting who'd been involved in litigation at Area 51. And in a layering and iterative process of doing what I do"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-V00WcEiKRAY-MENTIONS-location-france",
+      "from_node_id": "video-V00WcEiKRAY",
+      "to_node_id": "location-france",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "tate to  explode their nuclear weapons. and both the US and France used the South Pacific and or the Pacific and it was a big "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-V00WcEiKRAY-MENTIONS-location-mexico",
+      "from_node_id": "video-V00WcEiKRAY",
+      "to_node_id": "location-mexico",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "from Peru. And then on the way back up to the US, I stop in Mexico City to meet with Haime Mousan, who's a big proponent of th"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-V00WcEiKRAY-MENTIONS-location-russia",
+      "from_node_id": "video-V00WcEiKRAY",
+      "to_node_id": "location-russia",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "ry that came up was that in the early days of Glasnost when Russia and America were kind of friends again. Mhm. Russia imparte"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-V00WcEiKRAY-MENTIONS-location-iran",
+      "from_node_id": "video-V00WcEiKRAY",
+      "to_node_id": "location-iran",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": " surprised at all if Israel launched a preemptive attack on Iran in the next few weeks. I wouldn't either. It's a it's a the"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-V00WcEiKRAY-MENTIONS-location-peru",
+      "from_node_id": "video-V00WcEiKRAY",
+      "to_node_id": "location-peru",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "tridactyl, you know, three toaded and fingered mummies from Peru. And then on the way back up to the US, I stop in Mexico Ci"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-V00WcEiKRAY-MENTIONS-program-project-blue-book",
+      "from_node_id": "video-V00WcEiKRAY",
+      "to_node_id": "program-project-blue-book",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "borative relationship with America providing information to Project Blue Book handing over some of the more interesting news Australian a"
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-V00WcEiKRAY-discussion-summary",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-V00WcEiKRAY-discussion-summary",
+      "relationship": "ASSERTED",
+      "confidence": 0.9,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0,
+          "quote": "Episode: \"I Located A UFO Base In Arizona!\" (Ft. Ross Coulthart)"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-V00WcEiKRAY-REFERENCES-claim-V00WcEiKRAY-discussion-summary",
+      "from_node_id": "video-V00WcEiKRAY",
+      "to_node_id": "claim-V00WcEiKRAY-discussion-summary",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 0
+        }
+      ]
+    },
+    {
+      "id": "edge-person-ross-coulthart-ASSERTED-claim-V00WcEiKRAY-coulthart-secret-mountain-orb",
+      "from_node_id": "person-ross-coulthart",
+      "to_node_id": "claim-V00WcEiKRAY-coulthart-secret-mountain-orb",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 59,
+          "quote": "Coulthart personally witnessed a gigantic golden plasmatic orb escorted by helicopters rising from behind Secret Mountain in Arizona at 1:30 AM."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-V00WcEiKRAY-REFERENCES-claim-V00WcEiKRAY-coulthart-secret-mountain-orb",
+      "from_node_id": "video-V00WcEiKRAY",
+      "to_node_id": "claim-V00WcEiKRAY-coulthart-secret-mountain-orb",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 59
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-V00WcEiKRAY-coulthart-secret-mountain-orb-REFERENCES-location-secret-mountain-arizona",
+      "from_node_id": "claim-V00WcEiKRAY-coulthart-secret-mountain-orb",
+      "to_node_id": "location-secret-mountain-arizona",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 59
+        }
+      ]
+    },
+    {
+      "id": "edge-person-ross-coulthart-ASSERTED-claim-V00WcEiKRAY-bogota-sphere-symbols-match",
+      "from_node_id": "person-ross-coulthart",
+      "to_node_id": "claim-V00WcEiKRAY-bogota-sphere-symbols-match",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 80,
+          "quote": "Coulthart shared photos of symbols on the Bogota sphere with two independent experiencers (Mario Woods 1977 Ellsworth; Randy Anderson Crane NSWC) — both recognized the same symbols from their own NHI "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-V00WcEiKRAY-REFERENCES-claim-V00WcEiKRAY-bogota-sphere-symbols-match",
+      "from_node_id": "video-V00WcEiKRAY",
+      "to_node_id": "claim-V00WcEiKRAY-bogota-sphere-symbols-match",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 80
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-V00WcEiKRAY-bogota-sphere-symbols-match-REFERENCES-person-mario-woods",
+      "from_node_id": "claim-V00WcEiKRAY-bogota-sphere-symbols-match",
+      "to_node_id": "person-mario-woods",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 80
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-V00WcEiKRAY-bogota-sphere-symbols-match-REFERENCES-person-randy-anderson",
+      "from_node_id": "claim-V00WcEiKRAY-bogota-sphere-symbols-match",
+      "to_node_id": "person-randy-anderson",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 80
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-V00WcEiKRAY-bogota-sphere-symbols-match-REFERENCES-technology-bogota-sphere",
+      "from_node_id": "claim-V00WcEiKRAY-bogota-sphere-symbols-match",
+      "to_node_id": "technology-bogota-sphere",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 80
+        }
+      ]
+    },
+    {
+      "id": "edge-person-ross-coulthart-ASSERTED-claim-V00WcEiKRAY-bogota-sphere-fueltank-match",
+      "from_node_id": "person-ross-coulthart",
+      "to_node_id": "claim-V00WcEiKRAY-bogota-sphere-fueltank-match",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 73,
+          "quote": "Roney Vernet has noted that a particular 9-liter fuel tank is a near-exact visual match to the Bogota sphere, raising cosmetic-alteration hoax possibility."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-V00WcEiKRAY-REFERENCES-claim-V00WcEiKRAY-bogota-sphere-fueltank-match",
+      "from_node_id": "video-V00WcEiKRAY",
+      "to_node_id": "claim-V00WcEiKRAY-bogota-sphere-fueltank-match",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 73
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-V00WcEiKRAY-bogota-sphere-fueltank-match-REFERENCES-technology-bogota-sphere",
+      "from_node_id": "claim-V00WcEiKRAY-bogota-sphere-fueltank-match",
+      "to_node_id": "technology-bogota-sphere",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 73
+        }
+      ]
+    },
+    {
+      "id": "edge-person-ross-coulthart-ASSERTED-claim-V00WcEiKRAY-marrs-self-moving-sphere-texas",
+      "from_node_id": "person-ross-coulthart",
+      "to_node_id": "claim-V00WcEiKRAY-marrs-self-moving-sphere-texas",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 90,
+          "quote": "Coulthart observed Jim Marrs' sphere moving under its own power on a verified-level floor in Texas; he is trying to get industrial X-ray and CT scanning done."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-V00WcEiKRAY-REFERENCES-claim-V00WcEiKRAY-marrs-self-moving-sphere-texas",
+      "from_node_id": "video-V00WcEiKRAY",
+      "to_node_id": "claim-V00WcEiKRAY-marrs-self-moving-sphere-texas",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 90
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-V00WcEiKRAY-marrs-self-moving-sphere-texas-REFERENCES-person-jim-marrs",
+      "from_node_id": "claim-V00WcEiKRAY-marrs-self-moving-sphere-texas",
+      "to_node_id": "person-jim-marrs",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 90
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-V00WcEiKRAY-marrs-self-moving-sphere-texas-REFERENCES-technology-bogota-sphere",
+      "from_node_id": "claim-V00WcEiKRAY-marrs-self-moving-sphere-texas",
+      "to_node_id": "technology-bogota-sphere",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 90
+        }
+      ]
+    },
+    {
+      "id": "edge-person-ross-coulthart-ASSERTED-claim-V00WcEiKRAY-fugal-sphere-utah-testing",
+      "from_node_id": "person-ross-coulthart",
+      "to_node_id": "claim-V00WcEiKRAY-fugal-sphere-utah-testing",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 101,
+          "quote": "Brandon Fugal (Skinwalker Ranch) will fly Jim Marrs' sphere to Utah in his private jet for lab testing."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-V00WcEiKRAY-REFERENCES-claim-V00WcEiKRAY-fugal-sphere-utah-testing",
+      "from_node_id": "video-V00WcEiKRAY",
+      "to_node_id": "claim-V00WcEiKRAY-fugal-sphere-utah-testing",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 101
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-V00WcEiKRAY-fugal-sphere-utah-testing-REFERENCES-person-brandon-fugal",
+      "from_node_id": "claim-V00WcEiKRAY-fugal-sphere-utah-testing",
+      "to_node_id": "person-brandon-fugal",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 101
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-V00WcEiKRAY-fugal-sphere-utah-testing-REFERENCES-person-jim-marrs",
+      "from_node_id": "claim-V00WcEiKRAY-fugal-sphere-utah-testing",
+      "to_node_id": "person-jim-marrs",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 101
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-V00WcEiKRAY-fugal-sphere-utah-testing-REFERENCES-technology-bogota-sphere",
+      "from_node_id": "claim-V00WcEiKRAY-fugal-sphere-utah-testing",
+      "to_node_id": "technology-bogota-sphere",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 101
+        }
+      ]
+    },
+    {
+      "id": "edge-person-ross-coulthart-ASSERTED-claim-V00WcEiKRAY-consciousness-central-2018",
+      "from_node_id": "person-ross-coulthart",
+      "to_node_id": "claim-V00WcEiKRAY-consciousness-central-2018",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 61,
+          "quote": "In 2018, one of Coulthart's sources (during a Georgetown pub conversation) told him that the UAP phenomenon is 'all about consciousness'."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-V00WcEiKRAY-REFERENCES-claim-V00WcEiKRAY-consciousness-central-2018",
+      "from_node_id": "video-V00WcEiKRAY",
+      "to_node_id": "claim-V00WcEiKRAY-consciousness-central-2018",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 61
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-V00WcEiKRAY-consciousness-central-2018-REFERENCES-concept-nhi",
+      "from_node_id": "claim-V00WcEiKRAY-consciousness-central-2018",
+      "to_node_id": "concept-nhi",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 61
+        }
+      ]
+    },
+    {
+      "id": "edge-person-ross-coulthart-ASSERTED-claim-V00WcEiKRAY-fbi-congress-briefing-bombshell",
+      "from_node_id": "person-ross-coulthart",
+      "to_node_id": "claim-V00WcEiKRAY-fbi-congress-briefing-bombshell",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 63,
+          "quote": "Coulthart reports that an FBI briefing to Congress on UAPs 'really blew people away' — implication being material evidence of murder or corruption tied to covert programs."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-V00WcEiKRAY-REFERENCES-claim-V00WcEiKRAY-fbi-congress-briefing-bombshell",
+      "from_node_id": "video-V00WcEiKRAY",
+      "to_node_id": "claim-V00WcEiKRAY-fbi-congress-briefing-bombshell",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 63
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-V00WcEiKRAY-fbi-congress-briefing-bombshell-REFERENCES-organization-fbi",
+      "from_node_id": "claim-V00WcEiKRAY-fbi-congress-briefing-bombshell",
+      "to_node_id": "organization-fbi",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 63
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-V00WcEiKRAY-fbi-congress-briefing-bombshell-REFERENCES-organization-congress",
+      "from_node_id": "claim-V00WcEiKRAY-fbi-congress-briefing-bombshell",
+      "to_node_id": "organization-congress",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "V00WcEiKRAY",
+          "timestamp_start": 63
+        }
+      ]
+    }
+  ],
+  "extracted_at": "2026-04-17T12:13:23.740908+00:00",
+  "extractor_version": "v1-inline-claude"
+}

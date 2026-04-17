@@ -51,6 +51,10 @@ This refresh now includes:
 - `ingest:wikipedia`: expanded UFO/UAP category crawl with tag-noise filtering and country centroid fallback for missing article coordinates
 - `ingest:global`: Scrubbed global sightings feed (Hugging Face mirror of NUFORC-derived records) with country-balanced selection
 
+## Transcript corpus (parallel data source)
+
+Separate from the graph ingestion pipeline, `transcripts/` contains a cleaned YouTube interview corpus from the Jesse Michels (American Alchemy) channel — 98 long-form episodes with ≥100k views. This corpus is not yet wired into the graph; see `docs/Transcript_Archive_Pipeline.md` for the full pipeline (fetch → text conversion → pattern-based cleaning) and the planned path to entity extraction and a dedicated archive view.
+
 Inputs:
 
 - `pipeline/registry/sources.json`

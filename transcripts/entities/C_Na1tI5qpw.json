@@ -1,0 +1,4944 @@
+{
+  "video_id": "C_Na1tI5qpw",
+  "nodes": [
+    {
+      "id": "video-C_Na1tI5qpw",
+      "node_type": "video",
+      "label": "Joe Rogan: The Truth About Aliens (He Finally Says It)",
+      "summary": "Visit https://ketone.com/ALCHEMY for 30% OFF your subscription order PLUS receive a free gift with your second shipment—or find Ketone-IQ at Target stores nationwide and get your first shot...",
+      "tags": [
+        "video",
+        "american-alchemy"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:03:43.119768+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "timestamp_end": 11177.0,
+          "quote": "Video: Joe Rogan: The Truth About Aliens (He Finally Says It)"
+        }
+      ],
+      "type_specific": {
+        "video_id": "C_Na1tI5qpw",
+        "title": "Joe Rogan: The Truth About Aliens (He Finally Says It)",
+        "url": "https://www.youtube.com/watch?v=C_Na1tI5qpw",
+        "view_count": 2702244,
+        "duration_seconds": 11177.0,
+        "host_id": "person-jesse-michels"
+      }
+    },
+    {
+      "id": "person-jesse-michels",
+      "node_type": "person",
+      "label": "Jesse Michels",
+      "summary": "Host of American Alchemy podcast/show. Independent journalist and UFO/NHI researcher.",
+      "tags": [
+        "journalist",
+        "interviewer",
+        "researcher",
+        "host"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:03:43.120009+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "Host of American Alchemy podcast/show."
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Jesse",
+          "Michels"
+        ],
+        "profession": "journalist",
+        "notability_tags": [
+          "journalist",
+          "interviewer",
+          "researcher",
+          "host"
+        ]
+      }
+    },
+    {
+      "id": "person-james-herbert-brennan",
+      "node_type": "person",
+      "label": "James Herbert Brennan",
+      "summary": "James Herbert Brennan (5 July 1940 – 1 January 2024) was an Irish lecturer and the author of over 100 fiction and non-fiction books for adults, teens and children, as well as several role-playing games.",
+      "tags": [
+        "wikipedia",
+        "ancient astronauts proponents",
+        "irish fantasy writers",
+        "irish occult writers",
+        "new age writers",
+        "people educated at portadown college",
+        "pseudohistorians",
+        "role-playing game designers",
+        "writers from county down"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:03:44.124249+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "e like DNI level like overseeing all of the intel agencies  Brennan you know all these people and  >> and Marco Rubio to his cr"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Brennan",
+          "JAMES HERBERT BRENNAN",
+          "james herbert brennan"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "ancient astronauts proponents",
+          "irish fantasy writers",
+          "irish occult writers",
+          "new age writers",
+          "people educated at portadown college",
+          "pseudohistorians",
+          "role-playing game designers",
+          "writers from county down"
+        ]
+      }
+    },
+    {
+      "id": "person-anna-paulina-luna",
+      "node_type": "person",
+      "label": "Anna Paulina Luna",
+      "summary": "",
+      "tags": [
+        "politician",
+        "congress"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:03:44.124271+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "bio are  sticking their neck out and Tulsi Gabbard and Rep. Luna and she came on my podcast too and she  >> she was telling "
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Luna",
+          "Congresswoman Luna"
+        ],
+        "notability_tags": [
+          "politician",
+          "congress"
+        ]
+      }
+    },
+    {
+      "id": "person-bob-oppenheimer",
+      "node_type": "person",
+      "label": "Bob Oppenheimer",
+      "summary": "",
+      "tags": [
+        "physicist",
+        "Manhattan Project"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:03:44.124276+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "It was bigger and bigger bombs. And there's even a scene in Oppenheimer  where he's criticizing Teller because he's like there is n"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "J. Robert Oppenheimer",
+          "Oppenheimer"
+        ],
+        "notability_tags": [
+          "physicist",
+          "Manhattan Project"
+        ]
+      }
+    },
+    {
+      "id": "person-john-f-kennedy",
+      "node_type": "person",
+      "label": "John F. Kennedy",
+      "summary": "",
+      "tags": [
+        "president",
+        "historical"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:03:44.124281+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "nment? Nixon apparently had been saying, \"I know who killed JFK and I know why they did it.\"  >> And then you have people l"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "JFK",
+          "Kennedy"
+        ],
+        "notability_tags": [
+          "president",
+          "historical"
+        ]
+      }
+    },
+    {
+      "id": "person-kenneth-arnold",
+      "node_type": "person",
+      "label": "Kenneth Arnold",
+      "summary": "Kenneth Arnold entity extracted from cross-source archival records.",
+      "tags": [
+        "pipeline-generated",
+        "entity-extracted"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:03:44.124286+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": " involved in the Mory Island incident in 1947, right around Kenneth Arnold seeing his UFO.  >> Super bizarre, weird. And then I interv"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Arnold",
+          "KENNETH ARNOLD",
+          "kenneth arnold"
+        ],
+        "notability_tags": [
+          "pipeline-generated",
+          "entity-extracted"
+        ]
+      }
+    },
+    {
+      "id": "person-eric-weinstein",
+      "node_type": "person",
+      "label": "Eric Weinstein",
+      "summary": "",
+      "tags": [
+        "mathematician",
+        "physicist"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:03:44.124290+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "ad a dream.  >> and this was a few weeks ago. You had Brett Weinstein on great evolutionary biologist and you started off the epi"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Weinstein"
+        ],
+        "notability_tags": [
+          "mathematician",
+          "physicist"
+        ]
+      }
+    },
+    {
+      "id": "person-graham-hancock",
+      "node_type": "person",
+      "label": "Graham Hancock",
+      "summary": "",
+      "tags": [
+        "author",
+        "ancient history"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:03:44.124294+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "ations, which is what I believe. I'm in the Randall Carlson Graham Hancock school. I don't think this is our first goound. I think anc"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Hancock"
+        ],
+        "notability_tags": [
+          "author",
+          "ancient history"
+        ]
+      }
+    },
+    {
+      "id": "person-travis-walton",
+      "node_type": "person",
+      "label": "Travis Walton",
+      "summary": "Travis Walton entity extracted from cross-source archival records.",
+      "tags": [
+        "pipeline-generated",
+        "entity-extracted"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:03:44.124298+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "w I'm the chosen one. But there's something like to Travis  Walton's story like  >> Oh yeah,  >> they didn't choose Travis Wal"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "TRAVIS WALTON",
+          "Walton",
+          "travis walton"
+        ],
+        "notability_tags": [
+          "pipeline-generated",
+          "entity-extracted"
+        ]
+      }
+    },
+    {
+      "id": "person-chuck-schumer",
+      "node_type": "person",
+      "label": "Chuck Schumer",
+      "summary": "",
+      "tags": [
+        "politician",
+        "senator"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:03:44.124303+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "urrent administration, his involvement and his urgency.  >> Schumer, Rubio, all those guys are like, \"Look, a bunch of freaking"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Schumer",
+          "Senator Schumer"
+        ],
+        "notability_tags": [
+          "politician",
+          "senator"
+        ]
+      }
+    },
+    {
+      "id": "person-stephen-greer",
+      "node_type": "person",
+      "label": "Stephen Greer",
+      "summary": "",
+      "tags": [
+        "researcher",
+        "disclosure"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:03:44.124306+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "He was he's a John Max lawyer. Lou Alzando's lawyer, Steven Greer's lawyer.  He was represented the Pentagon or so the New Yo"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Dr. Greer",
+          "Greer"
+        ],
+        "notability_tags": [
+          "researcher",
+          "disclosure"
+        ]
+      }
+    },
+    {
+      "id": "person-bill-clinton",
+      "node_type": "person",
+      "label": "Bill Clinton",
+      "summary": "Bill Clinton entity extracted from cross-source archival records.",
+      "tags": [
+        "pipeline-generated",
+        "entity-extracted"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:03:44.124313+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "> like our president where he has the dress on the mural of Bill Clinton and then and then the jingga blocks of the two towers for 9"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "BILL CLINTON",
+          "Clinton",
+          "bill clinton"
+        ],
+        "notability_tags": [
+          "pipeline-generated",
+          "entity-extracted"
+        ]
+      }
+    },
+    {
+      "id": "person-love-has-won",
+      "node_type": "person",
+      "label": "Love Has Won",
+      "summary": "Love Has Won (LHW), also known as the Galactic Federation of Light, is an American new religious movement that was led by Amy Carlson until her death in 2021. Carlson was referred to within the group as \"Mother God\", who described herself as, among other things, the creator of the universe, with the",
+      "tags": [
+        "wikipedia",
+        "2007 establishments in colorado",
+        "ancient astronaut speculation",
+        "covid-19 vaccine misinformation and hesitancy",
+        "climate change denial in the united states",
+        "holocaust denial in the united states",
+        "new age organizations",
+        "new religious movements established in the 2000s",
+        "qanon",
+        "religious belief systems founded in the united states",
+        "religious controversies in the united states",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:03:44.124319+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "ability to the name Harvard when you've got digital god. It won't mean anything that you graduated from Yale. So I'm tellin"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "LOVE HAS WON",
+          "Won",
+          "love has won"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "2007 establishments in colorado",
+          "ancient astronaut speculation",
+          "covid-19 vaccine misinformation and hesitancy",
+          "climate change denial in the united states",
+          "holocaust denial in the united states",
+          "new age organizations",
+          "new religious movements established in the 2000s",
+          "qanon",
+          "religious belief systems founded in the united states",
+          "religious controversies in the united states",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "person-paul-r-hill",
+      "node_type": "person",
+      "label": "Paul R. Hill",
+      "summary": "Paul Richard Hill (1909–1990) was a mid–twentieth-century American aerodynamicist. He was a leading research and development engineer and manager for NASA (National Aeronautics and Space Administration) and its predecessor, NACA (the National Advisory Council for Aeronautics) between 1939 and 1970, ",
+      "tags": [
+        "wikipedia",
+        "aerodynamicists",
+        "nasa people",
+        "scientists from iowa",
+        "uc berkeley college of engineering alumni",
+        "ufologists",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:03:44.124324+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "lling you outside you're wearing this epic Betty and Barney Hill.  >> Oh jeez.  >> Oh jeez. First abductees 1961.  >> No, I "
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Hill",
+          "PAUL R. HILL",
+          "Paul Hill",
+          "paul r. hill"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "aerodynamicists",
+          "nasa people",
+          "scientists from iowa",
+          "uc berkeley college of engineering alumni",
+          "ufologists",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "person-timothy-good",
+      "node_type": "person",
+      "label": "Timothy Good",
+      "summary": "",
+      "tags": [
+        "researcher",
+        "author"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:03:44.124328+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": " an iPhone 11 that I've had forever and I keep it because a good friend of mine who died, he left me a voicemail and it's on"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Tim Good",
+          "Good"
+        ],
+        "notability_tags": [
+          "researcher",
+          "author"
+        ]
+      }
+    },
+    {
+      "id": "person-philip-corso",
+      "node_type": "person",
+      "label": "Philip Corso",
+      "summary": "",
+      "tags": [
+        "military",
+        "author",
+        "Roswell"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:03:44.124332+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "t of the stuff on Jay Allen Heinik and you know and all the Philip Corso stuff and the stuff from Roswell and I just became obsessed"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Corso"
+        ],
+        "notability_tags": [
+          "military",
+          "author",
+          "Roswell"
+        ]
+      }
+    },
+    {
+      "id": "person-allen-dulles",
+      "node_type": "person",
+      "label": "Allen Dulles",
+      "summary": "",
+      "tags": [
+        "CIA",
+        "historical"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:03:44.124336+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "hese groups post Bay of Pigs that were reoperationalized by Allen Dulles cuz you know obviously JFK had fired Allen Dulles. Alan Del"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Dulles"
+        ],
+        "notability_tags": [
+          "CIA",
+          "historical"
+        ]
+      }
+    },
+    {
+      "id": "person-chan-thomas",
+      "node_type": "person",
+      "label": "Chan Thomas",
+      "summary": "Chan Thomas (1920–1998) was an American engineer, ufologist, writer on ancient cataclysms, and self-proclaimed polymath whose ideas have influenced conspiracy theorists in the 21st century.",
+      "tags": [
+        "wikipedia",
+        "20th-century american engineers",
+        "mcdonnell douglas people",
+        "ufologists",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:03:44.124341+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "wers to the inspector general of the intelligence community Thomas Mannheim. He says it's urgent, incredible. It's this crazy "
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "CHAN THOMAS",
+          "Thomas",
+          "chan thomas"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "20th-century american engineers",
+          "mcdonnell douglas people",
+          "ufologists",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "person-garry-nolan",
+      "node_type": "person",
+      "label": "Garry Nolan",
+      "summary": "Garry P. Nolan (born c. 1961) is a British-American immunologist, academic, inventor, and business executive. He holds the Rachford and Carlota A. Harris Professor Endowed Chair in the Department of Pathology at Stanford University School of Medicine. Nolan has founded biotechnology companies. Since",
+      "tags": [
+        "wikipedia",
+        "1960s births",
+        "american cancer researchers",
+        "american immunologists",
+        "american pathologists",
+        "british cancer researchers",
+        "british immunologists",
+        "cornell university alumni",
+        "pages with broken reference names",
+        "pages with reference errors",
+        "serologists",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:03:44.124345+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "where if you watch the age of disclosure and you  hear Gary Nolan who's a tenure professor at Stanford who's looking at the b"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "GARRY NOLAN",
+          "Nolan",
+          "garry nolan"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "1960s births",
+          "american cancer researchers",
+          "american immunologists",
+          "american pathologists",
+          "british cancer researchers",
+          "british immunologists",
+          "cornell university alumni",
+          "pages with broken reference names",
+          "pages with reference errors",
+          "serologists",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "person-marco-rubio",
+      "node_type": "person",
+      "label": "Marco Rubio",
+      "summary": "",
+      "tags": [
+        "politician",
+        "senator"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:03:44.124349+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "tel agencies  Brennan you know all these people and  >> and Marco Rubio to his credit I think him his involvement was huge you know"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Rubio",
+          "Senator Rubio"
+        ],
+        "notability_tags": [
+          "politician",
+          "senator"
+        ]
+      }
+    },
+    {
+      "id": "person-ed-mitchell",
+      "node_type": "person",
+      "label": "Ed Mitchell",
+      "summary": "",
+      "tags": [
+        "astronaut",
+        "Apollo 14"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:03:44.124353+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "iens, like wouldn't be into this at all. Like, you think of Edgar Mitchell as the only Apollo astronaut who's into aliens, right? His "
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Edgar Mitchell",
+          "Mitchell"
+        ],
+        "notability_tags": [
+          "astronaut",
+          "Apollo 14"
+        ]
+      }
+    },
+    {
+      "id": "person-betty-hill",
+      "node_type": "person",
+      "label": "Betty Hill",
+      "summary": "Betty Hill entity extracted from cross-source archival records.",
+      "tags": [
+        "pipeline-generated",
+        "entity-extracted"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:03:44.124357+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "lling you outside you're wearing this epic Betty and Barney Hill.  >> Oh jeez.  >> Oh jeez. First abductees 1961.  >> No, I "
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "BETTY HILL",
+          "Hill",
+          "betty hill"
+        ],
+        "notability_tags": [
+          "pipeline-generated",
+          "entity-extracted"
+        ]
+      }
+    },
+    {
+      "id": "person-bob-lazar",
+      "node_type": "person",
+      "label": "Bob Lazar",
+      "summary": "Bob Lazar entity extracted from cross-source archival records.",
+      "tags": [
+        "pipeline-generated",
+        "entity-extracted"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:03:44.124361+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "\" And then really Jeremy Corbel's Roswell excuse me Area 51 Bob Lazar documentary is what really brought me back in.  >> Yeah. An"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "BOB LAZAR",
+          "Lazar",
+          "bob lazar"
+        ],
+        "notability_tags": [
+          "pipeline-generated",
+          "entity-extracted"
+        ]
+      }
+    },
+    {
+      "id": "person-art-bell",
+      "node_type": "person",
+      "label": "Art Bell",
+      "summary": "Arthur William Bell III (June 17, 1945 – April 13, 2018) was an American broadcaster and author. He was the founder and the original host of the paranormal-themed radio program Coast to Coast AM, which is syndicated on hundreds of radio stations in the United States and Canada. He also created and h",
+      "tags": [
+        "wikipedia",
+        "20th-century american businesspeople",
+        "accidental deaths in nevada",
+        "amateur radio people",
+        "american non-fiction environmental writers",
+        "american radio djs",
+        "american radio executives",
+        "american talk radio hosts",
+        "businesspeople from monterey, california",
+        "businesspeople from nevada",
+        "coast to coast am",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:03:44.124366+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "ntertain any idea. Also another huge inspiration for me was Art Bell. Yeah.  >> You know I love Coast to Coast with Art  Bell fr"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "ART BELL",
+          "Bell",
+          "art bell"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "20th-century american businesspeople",
+          "accidental deaths in nevada",
+          "amateur radio people",
+          "american non-fiction environmental writers",
+          "american radio djs",
+          "american radio executives",
+          "american talk radio hosts",
+          "businesspeople from monterey, california",
+          "businesspeople from nevada",
+          "coast to coast am",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "organization-international-ufo-museum-and-research-center",
+      "node_type": "organization",
+      "label": "International UFO Museum and Research Center",
+      "summary": "The International UFO Museum and Research Center is located in Roswell, New Mexico, United States, in the downtown district, and is focused largely on the 1947 Roswell Crash and later supposed UFO incidents in the United States and elsewhere. It was founded in 1991 as a 501c3 nonprofit educational o",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:03:44.124381+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "going to be thinking about using an LLM and building a data center.  I'll tell you that.  >> Exactly. So, if that happens toda"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-the-report-on-unidentified-flying-objects",
+      "node_type": "organization",
+      "label": "The Report on Unidentified Flying Objects",
+      "summary": "The Report on Unidentified Flying Objects is a 1956 book by then-retired Air Force UFO investigator Edward J. Ruppelt, detailing his experience running Project Blue Book. The book was noted for its suggestion that a few UFO sightings might be linked to spikes of atomic radiation. Contemporary media ",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:03:44.124390+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "tter things.  >> You should stop your need for accumulating objects and stop your need for, you know, a big car and a big house"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-ufo-sightings-in-the-united-kingdom",
+      "node_type": "organization",
+      "label": "UFO sightings in the United Kingdom",
+      "summary": "This is a list of notable alleged sightings of unidentified flying objects (UFOs) in the United Kingdom. Many more sightings have become known since the gradual release, between 2008 and 2013, of the Ministry of Defence's UFO sighting reports by the National Archives. In recent years, there have bee",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:03:44.124395+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "  >> You know I love Coast to Coast with Art  Bell from the Kingdom of Nine. I love that show. because I used to go drive home "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-1952-washington-d-c-ufo-incident",
+      "node_type": "organization",
+      "label": "1952 Washington, D.C. UFO incident",
+      "summary": "From July 12 to 29, 1952, a series of unidentified flying object (UFO) sightings were reported in Washington, D.C., and later became known as the Washington flap, the Washington National Airport Sightings, or the Invasion of Washington. The most publicized sightings took place on consecutive weekend",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:03:44.124401+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": " had three networks.  >> They lied about the Gulf of Tonkan incident that led us into Vietnam. They lied about who killed JFK. T"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-identification-studies-of-ufos",
+      "node_type": "organization",
+      "label": "Identification studies of UFOs",
+      "summary": "Identifying unidentified flying objects (UFOs) is a difficult task due to the normally poor quality of the evidence provided by those who report sighting the unknown object. Observations and subsequent reporting are often made by those untrained in astronomy, atmospheric phenomena, aeronautics, phys",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:03:44.124406+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": " up. And as much as I can be cynical and anybody who's into UFOs  is probably cynical about the intel world, it kind of make"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-lakenheath-bentwaters-incident",
+      "node_type": "organization",
+      "label": "Lakenheath-Bentwaters incident",
+      "summary": "The Lakenheath-Bentwaters Incident was a series of radar and visual contacts with unidentified flying objects over airbases in eastern England on the night of 13–14 August 1956, involving personnel from the Royal Air Force (RAF) and the United States Air Force (USAF). The incident has since gained s",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:03:44.124411+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": " had three networks.  >> They lied about the Gulf of Tonkan incident that led us into Vietnam. They lied about who killed JFK. T"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-chiles-whitted-ufo-encounter",
+      "node_type": "organization",
+      "label": "Chiles-Whitted UFO encounter",
+      "summary": "The Chiles-Whitted UFO encounter occurred at approximately 2:45 AM on July 24, 1948, in the skies near Montgomery, Alabama, United States. Two commercial pilots, Clarence S. Chiles and John B. Whitted, claimed to have observed a \"glowing object\" pass by their plane before it appeared to pull up into",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:03:44.124415+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "fe form that seems to be exactly like the beings from Close Encounter.  >> 100%. And feeling so unqualified being like why am I h"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-flying-saucer-working-party",
+      "node_type": "organization",
+      "label": "Flying Saucer Working Party",
+      "summary": "Flying Saucer Working Party (or FSWP) was the name of the United Kingdom Ministry of Defence’s (MOD) first \"official study into UFOs\", which has its roots in a study commissioned in 1950 by the MOD’s then Chief Scientific Adviser, the eminent radar scientist Sir Henry Tizard. As a result of his insi",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:03:44.124420+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": " to not even say Epstein let's say someone else you go to a party and you find out oh Chris Rock's going to be there George  "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-the-flying-saucers-are-real",
+      "node_type": "organization",
+      "label": "The Flying Saucers Are Real",
+      "summary": "The Flying Saucers Are Real, by Donald Keyhoe, is a book that investigated reports of UFOs by United States Air Force fighters, personnel, and other aircraft, between 1947 and 1950.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:03:44.124425+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "0,000 years, but it doesn't. Here's why it doesn't. There's real evidence that there's structures under the pyramids that mi"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-archives-of-the-impossible",
+      "node_type": "organization",
+      "label": "Archives of the Impossible",
+      "summary": "The Archives of the Impossible (AOTI), sometimes called the Center for the Impossible, is a special collection at Rice University in Houston, Texas, United States. Founded in 2014 by Jeffrey J. Kripal, AOTI is based at the Woodson Research Center in the Fondren Library. It stewards collections on UF",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:03:44.124430+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "re I think Warner von Brown's on record saying like this is impossible like you can't do this.  >> Not only that, we'll say oh the"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-unidentified-flying-object",
+      "node_type": "organization",
+      "label": "Unidentified flying object",
+      "summary": "An unidentified flying object (UFO) is an object or phenomenon seen in the sky but not yet identified or explained. The term was coined when United States Air Force (USAF) investigations into flying saucers found too broad a range of shapes reported to consider them all saucers or discs. UFOs are al",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:03:44.124434+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": " underground city that they're studying. There's a 40 meter object that's in that labyrinth that's in some vast corridor that'"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-the-spaceships-of-ezekiel",
+      "node_type": "organization",
+      "label": "The Spaceships of Ezekiel",
+      "summary": "The Spaceships of Ezekiel (1974) is a book by German engineer Josef F. Blumrich (March 17, 1913 – February 10, 2002) about a spaceship that was supposedly observed by the prophet Ezekiel as described in Book of Ezekiel in the Tanakh. Blumrich wrote it while chief of NASA's systems layout branch of t",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:03:44.124438+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "raditions and various traditions and you know the wheels of Ezekiel or you know some people think in the book of Acts Jesus doe"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-us-department-of-defense",
+      "node_type": "organization",
+      "label": "US Department of Defense",
+      "summary": "US Department of Defense entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:03:44.124442+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": " not going to give this stuff evenly to all these different defense contractors. So if you give one  defense contractor one obj"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-lonnie-zamora-incident",
+      "node_type": "organization",
+      "label": "Lonnie Zamora incident",
+      "summary": "The Lonnie Zamora incident was an alleged UFO sighting that occurred on April 24, 1964 near Socorro, New Mexico when Socorro police officer Lonnie Zamora claimed he saw two people beside a shiny object that later rose into the air accompanied by a roaring blue and orange flame. Zamora's claims were ",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:03:44.124448+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": " had three networks.  >> They lied about the Gulf of Tonkan incident that led us into Vietnam. They lied about who killed JFK. T"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-roswell-that-ends-well",
+      "node_type": "organization",
+      "label": "Roswell That Ends Well",
+      "summary": "\"Roswell That Ends Well\" is the nineteenth episode in the third season of the American animated television series Futurama, and the 51st episode of the series overall. It originally aired on the Fox network in the United States on December 9, 2001. The plot centers on an accidental time travel event",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:03:44.124452+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": " that you're here. So, I really really appreciate  you.  >> Well, it's my pleasure. I really love your show. So, it's exciti"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-the-galileo-project",
+      "node_type": "organization",
+      "label": "The Galileo Project",
+      "summary": "The Galileo Project is an international scientific research project to search for extraterrestrial intelligence or extraterrestrial technology on and near Earth and to identify the nature of anomalous Unidentified Flying Objects/Unidentified Aerial Phenomena (UFOs/UAP). It was launched in 2021 by Ha",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:03:44.124456+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "n us? Would they visit? And you know then I got really into Project Blue Book and I read a lot of the stuff on Jay Allen Heinik"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-thornton-leigh-page",
+      "node_type": "organization",
+      "label": "Thornton Leigh Page",
+      "summary": "Thornton Leigh Page was an American professor of astronomy at the University of Chicago and at Wesleyan University. He became embroiled in the controversy over unidentified flying objects (UFOs) after serving briefly on the Robertson Panel, a Central Intelligence Agency–sponsored committee of scient",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:03:44.124461+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "ally I told you know when I worked there I was on the front page of the paper so they were still able to archive you know br"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-project-blue-book",
+      "node_type": "organization",
+      "label": "Project Blue Book",
+      "summary": "USAF UFO investigation program active from 1952 to 1969.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:03:44.124465+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "n us? Would they visit? And you know then I got really into Project Blue Book and I read a lot of the stuff on Jay Allen Heinik and you k"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-raymond-a-palmer",
+      "node_type": "organization",
+      "label": "Raymond A. Palmer",
+      "summary": "Raymond Alfred Palmer (August 1, 1910 – August 15, 1977) was an American author and magazine editor. Influential in the first wave of science fiction fandom, his first fiction stories were published in 1935. Ziff Davis named him editor of the science fiction magazine Amazing Stories in 1938 and edit",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:03:44.124470+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "people. There's levels to this thing, you know? Like, I had Palmer Lucky on the podcast the other day. Yeah. You start talking"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-world-contact-day",
+      "node_type": "organization",
+      "label": "World Contact Day",
+      "summary": "World Contact Day was first declared in March 1953 by an organization called the International Flying Saucer Bureau (IFSB), as a day on which all IFSB members would attempt to send a telepathic message into space. The IFSB voted to hold such a day in 1953, theorising that if both telepathy and alien",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:03:44.124474+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": " for the UFC. I'm around dudes who can kill me every single day I work there. Every one of them could kill me. No questions"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-manhattan-project",
+      "node_type": "organization",
+      "label": "Manhattan Project",
+      "summary": "",
+      "tags": [
+        "government_agency"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:03:44.124478+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": ">> and he's he you know people talk about  it like it's the Manhattan project on steroids but I've heard that about AI too, right?  >> Bu"
+        }
+      ],
+      "type_specific": {
+        "org_type": "government_agency"
+      }
+    },
+    {
+      "id": "organization-steven-m-greer",
+      "node_type": "organization",
+      "label": "Steven M. Greer",
+      "summary": "Steven Macon Greer (born 1955) is an American ufologist and a retired physician. He founded the Center for the Study of Extraterrestrial Intelligence (CSETI) and the Disclosure Project, which claims to seek the disclosure of alleged classified UFO information.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:03:44.124482+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "hehan. He was he's a John Max lawyer. Lou Alzando's lawyer, Steven Greer's lawyer.  He was represented the Pentagon or so the New Yo"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-scp-foundation",
+      "node_type": "organization",
+      "label": "SCP Foundation",
+      "summary": "The SCP Foundation is a fictional organization featured in stories created by contributors on the SCP Wiki, a wiki-based collaborative writing project, launched in 2008. Within the project's shared universe, the SCP (Special Containment Procedures) Foundation is a secret organization that is respons",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:03:44.124488+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "mething underneath them.  >> There's something is that Oh,  foundation. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. So at the bottom we pr"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-jerome-clark",
+      "node_type": "organization",
+      "label": "Jerome Clark",
+      "summary": "Jerome Clark (born November 27, 1946) is an American writer, specializing in unidentified flying objects and other paranormal subjects. He has appeared on ABC News Special Report, Unsolved Mysteries, Sightings and the A&E Network discussing UFOs and other oddities. Clark is also a country and folk m",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:03:44.124492+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "ai Dickens. Yeah.  >> And there's a great book by Arthur C. Clark called Childhood's End. And in that book, the aliens first "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-us-air-force",
+      "node_type": "organization",
+      "label": "US Air Force",
+      "summary": "US Air Force entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:03:44.124496+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "doing? What is the predominant? What does the dominant life force on this planet do? It makes better things. That's all it do"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-big-sur-ufo",
+      "node_type": "organization",
+      "label": "Big Sur UFO",
+      "summary": "The Big Sur UFO is a reported UFO incident that took place during a 1964 Air Force deployment to a mountaintop near Big Sur, California. The deployment was a mission was to film Atlas missile tests from Vandenberg Air Force Base. Since 1982, Robert Jacobs, who had overseen the mountaintop team, has ",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:03:44.124500+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "yrinth that's in some vast corridor that's metallic. It's a UFO.  >> And now we have three-fingered mummies in Peru.  >> We"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-mirage-men",
+      "node_type": "organization",
+      "label": "Mirage Men",
+      "summary": "Mirage Men is a 2013 documentary film directed by John Lundberg, written by Mark Pilkington and co-directed by Roland Denning and Kypros Kyprianou. Mirage Men suggests there was a conspiracy by the U.S. military to fabricate UFO folklore in order to deflect attention from classified military project",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:03:44.124506+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "e would want to mate with. And that's really all it is like men and women want to be desired by the opposite sex or the sam"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-bob-lazar",
+      "node_type": "organization",
+      "label": "Bob Lazar",
+      "summary": "Robert Scott Lazar () is an American who, since 1989, has claimed to have been part of a classified US government project concerned with the reverse engineering of extraterrestrial technology; he also purported to have read government briefing documents that described alien involvement in human affa",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:03:44.124509+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "\" And then really Jeremy Corbel's Roswell excuse me Area 51 Bob Lazar documentary is what really brought me back in.  >> Yeah. An"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-nasa",
+      "node_type": "organization",
+      "label": "NASA",
+      "summary": "NASA entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:03:44.124516+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "ous grants and you're building rockets. You're working with NASA, you know?  >> Your whole business.  >> Grush has the suspi"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other",
+        "acronym": "NASA"
+      }
+    },
+    {
+      "id": "organization-cia",
+      "node_type": "organization",
+      "label": "CIA",
+      "summary": "CIA entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:03:44.124520+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "ating like in a room with David Grush on your show,  >> the CIA guy was like, \"Look at the Grush stuff. Quantum and AI. Do "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other",
+        "acronym": "CIA"
+      }
+    },
+    {
+      "id": "organization-fbi",
+      "node_type": "organization",
+      "label": "FBI",
+      "summary": "FBI entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:03:44.124523+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "e any sense of like the Epste stuff's so crazy? You had the FBI director on your show and it's like he's so clearly lying t"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other",
+        "acronym": "FBI"
+      }
+    },
+    {
+      "id": "location-pacific-training-area",
+      "node_type": "location",
+      "label": "Pacific Training Area",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:03:44.124528+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "my life.\" And then really Jeremy Corbel's Roswell excuse me Area 51 Bob Lazar documentary is what really brought me back in."
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-roswell-new-mexico",
+      "node_type": "location",
+      "label": "Roswell, New Mexico",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:03:44.124532+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "ville.  >> I think so. In Texas.  >> Yeah. On the border of Mexico. Yeah. I watched the launch.  >> Insane.  >> Is it Falcon 9"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-united-kingdom",
+      "node_type": "location",
+      "label": "United Kingdom",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:03:44.124537+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "  >> You know I love Coast to Coast with Art  Bell from the Kingdom of Nine. I love that show. because I used to go drive home "
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-united-states",
+      "node_type": "location",
+      "label": "United States",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:03:44.124540+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "at Dan and I talked about. He firmly believes that both the United States and China has retrieved these crashed vehicles and that the"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-south-africa",
+      "node_type": "location",
+      "label": "South Africa",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:03:44.124544+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": " and a society as sophisticated as the people that lived in Africa that were able to move stones that weighed 80, 90 tons, 500"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-australia",
+      "node_type": "location",
+      "label": "Australia",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:03:44.124549+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": " don't even know how many Aboriginal languages there are in Australia. Totally.  >> Do you know that they like they have  these m"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-roswell",
+      "node_type": "location",
+      "label": "Roswell",
+      "summary": "",
+      "tags": [
+        "city"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:03:44.124553+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": " you know and all the Philip Corso stuff and the stuff from Roswell and I just became obsessed with reading and watching whatev"
+        }
+      ],
+      "type_specific": {
+        "location_type": "city",
+        "country": "US",
+        "state_or_region": "New Mexico"
+      }
+    },
+    {
+      "id": "location-area-51",
+      "node_type": "location",
+      "label": "Area 51",
+      "summary": "",
+      "tags": [
+        "military_base"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:03:44.124557+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "my life.\" And then really Jeremy Corbel's Roswell excuse me Area 51 Bob Lazar documentary is what really brought me back in.  >"
+        }
+      ],
+      "type_specific": {
+        "location_type": "military_base",
+        "country": "US",
+        "state_or_region": "Nevada"
+      }
+    },
+    {
+      "id": "location-mexico",
+      "node_type": "location",
+      "label": "Mexico",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:03:44.124561+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "ville.  >> I think so. In Texas.  >> Yeah. On the border of Mexico. Yeah. I watched the launch.  >> Insane.  >> Is it Falcon 9"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-russia",
+      "node_type": "location",
+      "label": "Russia",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:03:44.124565+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": " you're reading about this guy like what his experiences in Russia and you're like it's a different world man but  >> it's not"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-italy",
+      "node_type": "location",
+      "label": "Italy",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:03:44.124571+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "s. The Italian guys? Yeah, the Italian guys. This I went to Italy actually.  >> Oh, Filipo Beyondi.  >> There are these struc"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-peru",
+      "node_type": "location",
+      "label": "Peru",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:03:44.124574+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": ". It's a UFO.  >> And now we have three-fingered mummies in Peru.  >> We might have actual evidence that there's another spe"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "program-project-blue-book",
+      "node_type": "program",
+      "label": "Project Blue Book",
+      "summary": "",
+      "tags": [
+        "program"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:03:44.124579+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "n us? Would they visit? And you know then I got really into Project Blue Book and I read a lot of the stuff on Jay Allen Heinik and you k"
+        }
+      ],
+      "type_specific": {
+        "acronym": "Blue Book"
+      }
+    },
+    {
+      "id": "claim-C_Na1tI5qpw-discussion-summary",
+      "node_type": "claim",
+      "label": "Video C_Na1tI5qpw features extended discussion of James Herbert Brennan, Anna Paulina Luna, Bob Oppe",
+      "summary": "Video C_Na1tI5qpw features extended discussion of James Herbert Brennan, Anna Paulina Luna, Bob Oppenheimer and related UAP research topics, hosted by Jesse Michels.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:03:44.124593+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "Episode title: Joe Rogan: The Truth About Aliens (He Finally Says It)"
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Video C_Na1tI5qpw features extended discussion of James Herbert Brennan, Anna Paulina Luna, Bob Oppenheimer and related UAP research topics, hosted by Jesse Michels.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "C_Na1tI5qpw",
+        "timestamp_start_seconds": 0,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-james-herbert-brennan",
+          "person-anna-paulina-luna",
+          "person-bob-oppenheimer",
+          "video-C_Na1tI5qpw"
+        ]
+      }
+    },
+    {
+      "id": "person-joe-rogan",
+      "node_type": "person",
+      "label": "Joe Rogan",
+      "summary": "Comedian and host of The Joe Rogan Experience podcast. His Bob Lazar interview became one of the most-watched UFO-topic podcast episodes on YouTube (63M views).",
+      "tags": [
+        "podcaster",
+        "interviewer"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:51:45.087670+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "Joe Rogan guest on this episode"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Rogan"
+        ],
+        "profession": "podcaster",
+        "notability_tags": [
+          "podcaster",
+          "interviewer"
+        ]
+      }
+    },
+    {
+      "id": "person-jeremy-corbell",
+      "node_type": "person",
+      "label": "Jeremy Corbell",
+      "summary": "Filmmaker whose 2018 Bob Lazar: Area 51 & Flying Saucers documentary renewed mainstream attention on Lazar's claims.",
+      "tags": [
+        "filmmaker",
+        "investigator"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:51:45.087860+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 220,
+          "quote": "Jeremy Corbell's Area 51 Bob Lazar documentary"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Corbell"
+        ],
+        "profession": "filmmaker",
+        "notability_tags": [
+          "filmmaker",
+          "investigator"
+        ]
+      }
+    },
+    {
+      "id": "person-palmer-luckey",
+      "node_type": "person",
+      "label": "Palmer Luckey",
+      "summary": "Founder of Oculus VR and Anduril; periodically weighed in on UAP technology race.",
+      "tags": [
+        "engineer",
+        "entrepreneur"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:51:45.087864+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 328,
+          "quote": "Rogan references Palmer Luckey as smart friend"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Luckey"
+        ],
+        "profession": "engineer",
+        "notability_tags": [
+          "engineer",
+          "entrepreneur"
+        ]
+      }
+    },
+    {
+      "id": "person-angela-hill",
+      "node_type": "person",
+      "label": "Angela Hill",
+      "summary": "UFC strawweight fighter; granddaughter of Barney Hill, one of the 1961 Betty & Barney Hill abduction witnesses.",
+      "tags": [
+        "athlete",
+        "ufc",
+        "family-of-witness"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:51:45.087869+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 90,
+          "quote": "Granddaughter of Barney Hill, UFC fighter"
+        }
+      ],
+      "type_specific": {
+        "aliases": [],
+        "profession": "athlete",
+        "notability_tags": [
+          "athlete",
+          "ufc",
+          "family-of-witness"
+        ]
+      }
+    },
+    {
+      "id": "person-james-clapper",
+      "node_type": "person",
+      "label": "James Clapper",
+      "summary": "Former US Director of National Intelligence (2010-2017). Featured as interviewee in the Age of Disclosure documentary.",
+      "tags": [
+        "intelligence",
+        "official",
+        "DNI"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:51:45.087872+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 294,
+          "quote": "Former DNI interviewed in Age of Disclosure"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "DNI Clapper"
+        ],
+        "profession": "official",
+        "notability_tags": [
+          "intelligence",
+          "official",
+          "DNI"
+        ]
+      }
+    },
+    {
+      "id": "person-john-brennan",
+      "node_type": "person",
+      "label": "John Brennan",
+      "summary": "Former US CIA Director (2013-2017). Featured as interviewee in the Age of Disclosure documentary.",
+      "tags": [
+        "intelligence",
+        "official",
+        "CIA"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:51:45.087874+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 296,
+          "quote": "Former CIA Director interviewed in Age of Disclosure"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "DCI Brennan"
+        ],
+        "profession": "official",
+        "notability_tags": [
+          "intelligence",
+          "official",
+          "CIA"
+        ]
+      }
+    },
+    {
+      "id": "person-james-woolsey",
+      "node_type": "person",
+      "label": "James Woolsey",
+      "summary": "Former US CIA Director (1993-1995). Featured as interviewee in the Age of Disclosure documentary.",
+      "tags": [
+        "intelligence",
+        "official",
+        "CIA"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:51:45.087877+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 294,
+          "quote": "Former CIA Director interviewed in Age of Disclosure"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Woolsey",
+          "R. James Woolsey"
+        ],
+        "profession": "official",
+        "notability_tags": [
+          "intelligence",
+          "official",
+          "CIA"
+        ]
+      }
+    },
+    {
+      "id": "person-whitley-strieber",
+      "node_type": "person",
+      "label": "Whitley Strieber",
+      "summary": "Author of Communion and other works recounting alleged alien contact experiences. Rogan notes his career ostracism in 'legitimate literature' circles.",
+      "tags": [
+        "author",
+        "experiencer"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:51:45.087881+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 332,
+          "quote": "Author of Communion, dismissed as kook per Rogan"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Strieber"
+        ],
+        "profession": "author",
+        "notability_tags": [
+          "author",
+          "experiencer"
+        ]
+      }
+    },
+    {
+      "id": "incident-1961-hill-abduction",
+      "node_type": "incident",
+      "label": "Betty and Barney Hill Abduction",
+      "summary": "First widely-publicized abduction case; imagery may have been shaped by preceding Outer Limits episode.",
+      "tags": [
+        "abduction"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:51:45.087886+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 85,
+          "quote": "Rogan is wearing a Betty and Barney Hill t-shirt"
+        }
+      ],
+      "type_specific": {
+        "incident_type": "abduction",
+        "date_approximate": "1961-09-19"
+      }
+    },
+    {
+      "id": "technology-tall-pinkish-slender-nhi",
+      "node_type": "technology",
+      "label": "Tall Pinkish Slender Humanoid",
+      "summary": "Category Rogan described from his dream: tall, slender, pinkish skin, not gray, larger eyes and head than normal but not exaggerated like Close Encounters grays.",
+      "tags": [
+        "craft"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:51:45.087889+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 56,
+          "quote": "Rogan's dream featured tall slender pinkish humanoid entities"
+        }
+      ],
+      "type_specific": {
+        "technology_type": "craft"
+      }
+    },
+    {
+      "id": "claim-C_Na1tI5qpw-rogan-dream-tall-nhi",
+      "node_type": "claim",
+      "label": "Joe Rogan recounts a uniquely vivid dream featuring tall slender pinkish humanoid entities with larg",
+      "summary": "Joe Rogan recounts a uniquely vivid dream featuring tall slender pinkish humanoid entities with larger eyes, described as non-gray NHI interacting with him in an altered environment.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:51:45.087898+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 80,
+          "quote": "It was the most vivid dream I've ever had in my life. There were these very slender, tall humanlike things that were talking to me. They weren't gray. They were kind of like pinkish."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Joe Rogan recounts a uniquely vivid dream featuring tall slender pinkish humanoid entities with larger eyes, described as non-gray NHI interacting with him in an altered environment.",
+        "asserted_by_id": "person-joe-rogan",
+        "source_video_id": "C_Na1tI5qpw",
+        "timestamp_start_seconds": 80,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-joe-rogan",
+          "technology-tall-pinkish-slender-nhi",
+          "concept-nhi"
+        ]
+      }
+    },
+    {
+      "id": "claim-C_Na1tI5qpw-angela-hill-granddaughter",
+      "node_type": "claim",
+      "label": "UFC fighter Angela Hill is Barney Hill's granddaughter and appeared on Rogan's podcast; she disclose",
+      "summary": "UFC fighter Angela Hill is Barney Hill's granddaughter and appeared on Rogan's podcast; she disclosed the family connection only after the podcast.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:51:45.087914+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 90,
+          "quote": "She did my podcast and didn't tell me until after the podcast was over."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "UFC fighter Angela Hill is Barney Hill's granddaughter and appeared on Rogan's podcast; she disclosed the family connection only after the podcast.",
+        "asserted_by_id": "person-joe-rogan",
+        "source_video_id": "C_Na1tI5qpw",
+        "timestamp_start_seconds": 90,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-angela-hill",
+          "person-joe-rogan",
+          "incident-1961-hill-abduction"
+        ]
+      }
+    },
+    {
+      "id": "claim-C_Na1tI5qpw-rogan-lazar-63m-views",
+      "node_type": "claim",
+      "label": "Rogan states Jeremy Corbell's Bob Lazar episode on his podcast is his highest-viewed YouTube episode",
+      "summary": "Rogan states Jeremy Corbell's Bob Lazar episode on his podcast is his highest-viewed YouTube episode with approximately 63 million views.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:51:45.087925+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 220,
+          "quote": "It might be the highest one on YouTube. I think it has like 63 million views on YouTube."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Rogan states Jeremy Corbell's Bob Lazar episode on his podcast is his highest-viewed YouTube episode with approximately 63 million views.",
+        "asserted_by_id": "person-joe-rogan",
+        "source_video_id": "C_Na1tI5qpw",
+        "timestamp_start_seconds": 220,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-joe-rogan",
+          "person-bob-lazar",
+          "person-jeremy-corbell"
+        ]
+      }
+    },
+    {
+      "id": "claim-C_Na1tI5qpw-rogan-lazar-story-substantiated",
+      "node_type": "claim",
+      "label": "Rogan asserts that subsequent whistleblower accounts (Grusch, Puthoff) substantiate Bob Lazar's 1980",
+      "summary": "Rogan asserts that subsequent whistleblower accounts (Grusch, Puthoff) substantiate Bob Lazar's 1980s claims about gravity-manipulation craft propulsion.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:51:45.087936+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 225,
+          "quote": "That's what we're hearing over and over again now from these whistleblowers. What he's saying is very accurate."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Rogan asserts that subsequent whistleblower accounts (Grusch, Puthoff) substantiate Bob Lazar's 1980s claims about gravity-manipulation craft propulsion.",
+        "asserted_by_id": "person-joe-rogan",
+        "source_video_id": "C_Na1tI5qpw",
+        "timestamp_start_seconds": 225,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-bob-lazar",
+          "person-david-grusch",
+          "person-hal-puthoff",
+          "concept-reverse-engineering"
+        ]
+      }
+    },
+    {
+      "id": "claim-C_Na1tI5qpw-lazar-los-alamos-paper-directory",
+      "node_type": "claim",
+      "label": "Bob Lazar's employment at Los Alamos was discreditation-resistant because he appeared on the front p",
+      "summary": "Bob Lazar's employment at Los Alamos was discreditation-resistant because he appeared on the front page of the local paper and George (Knapp) later obtained the phone directory confirming his presence.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:51:45.087950+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 238,
+          "quote": "Somehow George came up with the phone directory and then Bob took George with cameras into Los Alamos."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Bob Lazar's employment at Los Alamos was discreditation-resistant because he appeared on the front page of the local paper and George (Knapp) later obtained the phone directory confirming his presence.",
+        "asserted_by_id": "person-joe-rogan",
+        "source_video_id": "C_Na1tI5qpw",
+        "timestamp_start_seconds": 238,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-bob-lazar",
+          "person-george-knapp",
+          "location-los-alamos"
+        ]
+      }
+    },
+    {
+      "id": "claim-C_Na1tI5qpw-area-51-obama-confirmation",
+      "node_type": "claim",
+      "label": "Area 51's existence was only officially confirmed during the Obama administration, when the governme",
+      "summary": "Area 51's existence was only officially confirmed during the Obama administration, when the government needed to expand restricted access zones due to photographers reaching non-secure land.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:51:45.087961+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 248,
+          "quote": "It actually wasn't even confirmed until the Obama administration. They wanted to expand the barriers for entry."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Area 51's existence was only officially confirmed during the Obama administration, when the government needed to expand restricted access zones due to photographers reaching non-secure land.",
+        "asserted_by_id": "person-joe-rogan",
+        "source_video_id": "C_Na1tI5qpw",
+        "timestamp_start_seconds": 248,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "location-groom-lake",
+          "concept-disclosure"
+        ]
+      }
+    },
+    {
+      "id": "claim-C_Na1tI5qpw-age-of-disclosure-doc",
+      "node_type": "claim",
+      "label": "The 'Age of Disclosure' documentary (directed by Dan Farah) features high-level intelligence intervi",
+      "summary": "The 'Age of Disclosure' documentary (directed by Dan Farah) features high-level intelligence interviewees including James Woolsey, James Clapper, John Brennan and Marco Rubio.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:51:45.087972+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 290,
+          "quote": "Dan made this new documentary, The Age of Disclosure, which is excellent. Extremely high level people like Woolsey and James Clapper like these guys who are like DNI level."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "The 'Age of Disclosure' documentary (directed by Dan Farah) features high-level intelligence interviewees including James Woolsey, James Clapper, John Brennan and Marco Rubio.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "C_Na1tI5qpw",
+        "timestamp_start_seconds": 290,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-james-clapper",
+          "person-john-brennan",
+          "person-james-woolsey",
+          "person-marco-rubio",
+          "concept-disclosure"
+        ]
+      }
+    },
+    {
+      "id": "claim-C_Na1tI5qpw-rubio-disclosure-urgency",
+      "node_type": "claim",
+      "label": "Senator Marco Rubio's involvement and stated urgency in the current administration is framed by Mich",
+      "summary": "Senator Marco Rubio's involvement and stated urgency in the current administration is framed by Michels and Rogan as significant in mainstreaming UAP disclosure.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:51:45.088059+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 298,
+          "quote": "Marco Rubio to his credit, I think him his involvement was huge because it's the current administration, his involvement and his urgency."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Senator Marco Rubio's involvement and stated urgency in the current administration is framed by Michels and Rogan as significant in mainstreaming UAP disclosure.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "C_Na1tI5qpw",
+        "timestamp_start_seconds": 298,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-marco-rubio",
+          "concept-disclosure"
+        ]
+      }
+    },
+    {
+      "id": "claim-C_Na1tI5qpw-china-us-reverse-engineering-race",
+      "node_type": "claim",
+      "label": "Per Dan Farah's position summarized by Rogan, both the United States and China have recovered crashe",
+      "summary": "Per Dan Farah's position summarized by Rogan, both the United States and China have recovered crashed vehicles and are in competing reverse-engineering programs — a 'Manhattan Project on steroids'.",
+      "tags": [
+        "hearsay",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:51:45.088070+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 308,
+          "quote": "He firmly believes that both the United States and China has retrieved these crashed vehicles and that they are also in this back engineering program."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Per Dan Farah's position summarized by Rogan, both the United States and China have recovered crashed vehicles and are in competing reverse-engineering programs — a 'Manhattan Project on steroids'.",
+        "asserted_by_id": "person-joe-rogan",
+        "source_video_id": "C_Na1tI5qpw",
+        "timestamp_start_seconds": 308,
+        "assertability": "hearsay",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "program-manhattan-project",
+          "concept-reverse-engineering",
+          "concept-crash-retrieval"
+        ]
+      }
+    },
+    {
+      "id": "claim-C_Na1tI5qpw-rubio-china-tech-catchup",
+      "node_type": "claim",
+      "label": "Rubio's core concern (per Rogan's reading) is that China develops recovered-craft technology first; ",
+      "summary": "Rubio's core concern (per Rogan's reading) is that China develops recovered-craft technology first; US catchup requires opening the programs up and removing stigma.",
+      "tags": [
+        "speculation",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:51:45.088082+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 314,
+          "quote": "I think what Rubio is concerned with is that China develops this technology first. The only way that the United States is really going to catch up is if we open this up."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Rubio's core concern (per Rogan's reading) is that China develops recovered-craft technology first; US catchup requires opening the programs up and removing stigma.",
+        "asserted_by_id": "person-joe-rogan",
+        "source_video_id": "C_Na1tI5qpw",
+        "timestamp_start_seconds": 314,
+        "assertability": "speculation",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-marco-rubio",
+          "concept-reverse-engineering",
+          "concept-disclosure"
+        ]
+      }
+    },
+    {
+      "id": "claim-C_Na1tI5qpw-whistleblower-amnesty-requirement",
+      "node_type": "claim",
+      "label": "Rogan argues any meaningful disclosure will require programmatic amnesty because lying to Congress a",
+      "summary": "Rogan argues any meaningful disclosure will require programmatic amnesty because lying to Congress and misappropriation of funds have certainly occurred in the covert crash-retrieval programs.",
+      "tags": [
+        "speculation",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:51:45.088095+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 342,
+          "quote": "First of all, they're going to need some sort of an amnesty thing. For sure there was lying to Congress. For sure there's misappropriate misappropriation of funds and probably some corruption."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Rogan argues any meaningful disclosure will require programmatic amnesty because lying to Congress and misappropriation of funds have certainly occurred in the covert crash-retrieval programs.",
+        "asserted_by_id": "person-joe-rogan",
+        "source_video_id": "C_Na1tI5qpw",
+        "timestamp_start_seconds": 342,
+        "assertability": "speculation",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-joe-rogan",
+          "concept-disclosure",
+          "concept-crash-retrieval"
+        ]
+      }
+    },
+    {
+      "id": "claim-C_Na1tI5qpw-defense-contractor-lawsuit-risk",
+      "node_type": "claim",
+      "label": "Rogan notes that if reverse-engineering programs succeeded and technology was allocated unevenly acr",
+      "summary": "Rogan notes that if reverse-engineering programs succeeded and technology was allocated unevenly across defense contractors, the disclosure event creates massive civil-litigation risk.",
+      "tags": [
+        "speculation",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:51:45.088106+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 346,
+          "quote": "If you give one defense contractor one object and all a sudden they have this massive advantage and then the other defense contractor winds up going under, now you have a major lawsuit."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Rogan notes that if reverse-engineering programs succeeded and technology was allocated unevenly across defense contractors, the disclosure event creates massive civil-litigation risk.",
+        "asserted_by_id": "person-joe-rogan",
+        "source_video_id": "C_Na1tI5qpw",
+        "timestamp_start_seconds": 346,
+        "assertability": "speculation",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-joe-rogan",
+          "concept-disclosure",
+          "concept-reverse-engineering"
+        ]
+      }
+    },
+    {
+      "id": "claim-C_Na1tI5qpw-burchett-five-underwater-hotspots",
+      "node_type": "claim",
+      "label": "Congressman Tim Burchett has publicly identified five deep-water areas in the oceans where UAP sight",
+      "summary": "Congressman Tim Burchett has publicly identified five deep-water areas in the oceans where UAP sightings are concentrated.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:51:45.088117+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 336,
+          "quote": "Tim Burchett recently said that there's they've identified five areas in the oceans of the world where these things are coming out of on a regular basis."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Congressman Tim Burchett has publicly identified five deep-water areas in the oceans where UAP sightings are concentrated.",
+        "asserted_by_id": "person-joe-rogan",
+        "source_video_id": "C_Na1tI5qpw",
+        "timestamp_start_seconds": 336,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-tim-burchett",
+          "concept-nhi"
+        ]
+      }
+    },
+    {
+      "id": "claim-C_Na1tI5qpw-pyramid-underground-labyrinth",
+      "node_type": "claim",
+      "label": "Pyramid research referenced by Michels alleges structures up to 2 km deep beneath the pyramids — an ",
+      "summary": "Pyramid research referenced by Michels alleges structures up to 2 km deep beneath the pyramids — an 'energy grid' with columns, a 40-meter metallic object in a vast corridor, and links to an underground city.",
+      "tags": [
+        "speculation",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:51:45.088130+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 16,
+          "quote": "There's real evidence that there's structures under the pyramids that might go as deep as 2 km that look like an energy grid. There's a 40 meter object that's in that labyrinth."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Pyramid research referenced by Michels alleges structures up to 2 km deep beneath the pyramids — an 'energy grid' with columns, a 40-meter metallic object in a vast corridor, and links to an underground city.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "C_Na1tI5qpw",
+        "timestamp_start_seconds": 16,
+        "assertability": "speculation",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "concept-disclosure",
+          "person-jesse-michels"
+        ]
+      }
+    },
+    {
+      "id": "claim-C_Na1tI5qpw-peru-three-fingered-mummies",
+      "node_type": "claim",
+      "label": "Claim (discussed in episode) of three-fingered mummies from Peru as potential evidence of a non-huma",
+      "summary": "Claim (discussed in episode) of three-fingered mummies from Peru as potential evidence of a non-human species sharing the planet.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:51:45.088141+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 18,
+          "quote": "Now we have three-fingered mummies in Peru. We might have actual evidence that there's another species that shares this planet."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Claim (discussed in episode) of three-fingered mummies from Peru as potential evidence of a non-human species sharing the planet.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "C_Na1tI5qpw",
+        "timestamp_start_seconds": 18,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "concept-nhi",
+          "phenomenon-nhi-biologics"
+        ]
+      }
+    },
+    {
+      "id": "claim-C_Na1tI5qpw-agi-as-cosmos-gateway",
+      "node_type": "claim",
+      "label": "Michels speculates that achieving artificial general superintelligence is the 'legitimate gateway to",
+      "summary": "Michels speculates that achieving artificial general superintelligence is the 'legitimate gateway to the cosmos' and potentially the mechanism by which technological curiosity drives humanity to contact — with a comparison to the virgin birth (AI as virgin 'mother').",
+      "tags": [
+        "speculation",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:51:45.088153+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 32,
+          "quote": "When we achieve sentience with artificial general super intelligence that is the legitimate gateway to the cosmos. That might be how God gets formed."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Michels speculates that achieving artificial general superintelligence is the 'legitimate gateway to the cosmos' and potentially the mechanism by which technological curiosity drives humanity to contact — with a comparison to the virgin birth (AI as virgin 'mother').",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "C_Na1tI5qpw",
+        "timestamp_start_seconds": 32,
+        "assertability": "speculation",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-jesse-michels",
+          "concept-nhi"
+        ]
+      }
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge-video-C_Na1tI5qpw-HOSTED_BY-person-jesse-michels",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "person-jesse-michels",
+      "relationship": "HOSTED_BY",
+      "confidence": 0.99,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "Jesse hosting"
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-APPEARED_IN-video-C_Na1tI5qpw",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "video-C_Na1tI5qpw",
+      "relationship": "APPEARED_IN",
+      "confidence": 0.99,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "Host"
+        }
+      ],
+      "properties": {
+        "appearance_type": "host"
+      }
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-MENTIONS-person-james-herbert-brennan",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "person-james-herbert-brennan",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "e like DNI level like overseeing all of the intel agencies  Brennan you know all these people and  >> and Marco Rubio to his cr"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-MENTIONS-person-anna-paulina-luna",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "person-anna-paulina-luna",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "bio are  sticking their neck out and Tulsi Gabbard and Rep. Luna and she came on my podcast too and she  >> she was telling "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-MENTIONS-person-bob-oppenheimer",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "person-bob-oppenheimer",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "It was bigger and bigger bombs. And there's even a scene in Oppenheimer  where he's criticizing Teller because he's like there is n"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-MENTIONS-person-john-f-kennedy",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "person-john-f-kennedy",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "nment? Nixon apparently had been saying, \"I know who killed JFK and I know why they did it.\"  >> And then you have people l"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-MENTIONS-person-kenneth-arnold",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "person-kenneth-arnold",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": " involved in the Mory Island incident in 1947, right around Kenneth Arnold seeing his UFO.  >> Super bizarre, weird. And then I interv"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-MENTIONS-person-eric-weinstein",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "person-eric-weinstein",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "ad a dream.  >> and this was a few weeks ago. You had Brett Weinstein on great evolutionary biologist and you started off the epi"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-MENTIONS-person-graham-hancock",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "person-graham-hancock",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "ations, which is what I believe. I'm in the Randall Carlson Graham Hancock school. I don't think this is our first goound. I think anc"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-MENTIONS-person-travis-walton",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "person-travis-walton",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "w I'm the chosen one. But there's something like to Travis  Walton's story like  >> Oh yeah,  >> they didn't choose Travis Wal"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-MENTIONS-person-chuck-schumer",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "person-chuck-schumer",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "urrent administration, his involvement and his urgency.  >> Schumer, Rubio, all those guys are like, \"Look, a bunch of freaking"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-MENTIONS-person-stephen-greer",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "person-stephen-greer",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "He was he's a John Max lawyer. Lou Alzando's lawyer, Steven Greer's lawyer.  He was represented the Pentagon or so the New Yo"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-MENTIONS-person-bill-clinton",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "person-bill-clinton",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "> like our president where he has the dress on the mural of Bill Clinton and then and then the jingga blocks of the two towers for 9"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-MENTIONS-person-love-has-won",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "person-love-has-won",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "ability to the name Harvard when you've got digital god. It won't mean anything that you graduated from Yale. So I'm tellin"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-MENTIONS-person-paul-r-hill",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "person-paul-r-hill",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "lling you outside you're wearing this epic Betty and Barney Hill.  >> Oh jeez.  >> Oh jeez. First abductees 1961.  >> No, I "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-MENTIONS-person-timothy-good",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "person-timothy-good",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": " an iPhone 11 that I've had forever and I keep it because a good friend of mine who died, he left me a voicemail and it's on"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-MENTIONS-person-philip-corso",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "person-philip-corso",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "t of the stuff on Jay Allen Heinik and you know and all the Philip Corso stuff and the stuff from Roswell and I just became obsessed"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-MENTIONS-person-allen-dulles",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "person-allen-dulles",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "hese groups post Bay of Pigs that were reoperationalized by Allen Dulles cuz you know obviously JFK had fired Allen Dulles. Alan Del"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-MENTIONS-person-chan-thomas",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "person-chan-thomas",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "wers to the inspector general of the intelligence community Thomas Mannheim. He says it's urgent, incredible. It's this crazy "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-MENTIONS-person-garry-nolan",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "person-garry-nolan",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "where if you watch the age of disclosure and you  hear Gary Nolan who's a tenure professor at Stanford who's looking at the b"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-MENTIONS-person-marco-rubio",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "person-marco-rubio",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "tel agencies  Brennan you know all these people and  >> and Marco Rubio to his credit I think him his involvement was huge you know"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-MENTIONS-person-ed-mitchell",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "person-ed-mitchell",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "iens, like wouldn't be into this at all. Like, you think of Edgar Mitchell as the only Apollo astronaut who's into aliens, right? His "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-MENTIONS-person-betty-hill",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "person-betty-hill",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "lling you outside you're wearing this epic Betty and Barney Hill.  >> Oh jeez.  >> Oh jeez. First abductees 1961.  >> No, I "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-MENTIONS-person-bob-lazar",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "person-bob-lazar",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "\" And then really Jeremy Corbel's Roswell excuse me Area 51 Bob Lazar documentary is what really brought me back in.  >> Yeah. An"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-MENTIONS-person-art-bell",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "person-art-bell",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "ntertain any idea. Also another huge inspiration for me was Art Bell. Yeah.  >> You know I love Coast to Coast with Art  Bell fr"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-MENTIONS-organization-international-ufo-museum-and-research-center",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "organization-international-ufo-museum-and-research-center",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "going to be thinking about using an LLM and building a data center.  I'll tell you that.  >> Exactly. So, if that happens toda"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-MENTIONS-organization-the-report-on-unidentified-flying-objects",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "organization-the-report-on-unidentified-flying-objects",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "tter things.  >> You should stop your need for accumulating objects and stop your need for, you know, a big car and a big house"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-MENTIONS-organization-ufo-sightings-in-the-united-kingdom",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "organization-ufo-sightings-in-the-united-kingdom",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "  >> You know I love Coast to Coast with Art  Bell from the Kingdom of Nine. I love that show. because I used to go drive home "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-MENTIONS-organization-1952-washington-d-c-ufo-incident",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "organization-1952-washington-d-c-ufo-incident",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": " had three networks.  >> They lied about the Gulf of Tonkan incident that led us into Vietnam. They lied about who killed JFK. T"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-MENTIONS-organization-identification-studies-of-ufos",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "organization-identification-studies-of-ufos",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": " up. And as much as I can be cynical and anybody who's into UFOs  is probably cynical about the intel world, it kind of make"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-MENTIONS-organization-lakenheath-bentwaters-incident",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "organization-lakenheath-bentwaters-incident",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": " had three networks.  >> They lied about the Gulf of Tonkan incident that led us into Vietnam. They lied about who killed JFK. T"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-MENTIONS-organization-chiles-whitted-ufo-encounter",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "organization-chiles-whitted-ufo-encounter",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "fe form that seems to be exactly like the beings from Close Encounter.  >> 100%. And feeling so unqualified being like why am I h"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-MENTIONS-organization-flying-saucer-working-party",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "organization-flying-saucer-working-party",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": " to not even say Epstein let's say someone else you go to a party and you find out oh Chris Rock's going to be there George  "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-MENTIONS-organization-the-flying-saucers-are-real",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "organization-the-flying-saucers-are-real",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "0,000 years, but it doesn't. Here's why it doesn't. There's real evidence that there's structures under the pyramids that mi"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-MENTIONS-organization-archives-of-the-impossible",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "organization-archives-of-the-impossible",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "re I think Warner von Brown's on record saying like this is impossible like you can't do this.  >> Not only that, we'll say oh the"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-MENTIONS-organization-unidentified-flying-object",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "organization-unidentified-flying-object",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": " underground city that they're studying. There's a 40 meter object that's in that labyrinth that's in some vast corridor that'"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-MENTIONS-organization-the-spaceships-of-ezekiel",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "organization-the-spaceships-of-ezekiel",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "raditions and various traditions and you know the wheels of Ezekiel or you know some people think in the book of Acts Jesus doe"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-MENTIONS-organization-us-department-of-defense",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "organization-us-department-of-defense",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": " not going to give this stuff evenly to all these different defense contractors. So if you give one  defense contractor one obj"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-MENTIONS-organization-lonnie-zamora-incident",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "organization-lonnie-zamora-incident",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": " had three networks.  >> They lied about the Gulf of Tonkan incident that led us into Vietnam. They lied about who killed JFK. T"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-MENTIONS-organization-roswell-that-ends-well",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "organization-roswell-that-ends-well",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": " that you're here. So, I really really appreciate  you.  >> Well, it's my pleasure. I really love your show. So, it's exciti"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-MENTIONS-organization-the-galileo-project",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "organization-the-galileo-project",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "n us? Would they visit? And you know then I got really into Project Blue Book and I read a lot of the stuff on Jay Allen Heinik"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-MENTIONS-organization-thornton-leigh-page",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "organization-thornton-leigh-page",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "ally I told you know when I worked there I was on the front page of the paper so they were still able to archive you know br"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-MENTIONS-organization-project-blue-book",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "organization-project-blue-book",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "n us? Would they visit? And you know then I got really into Project Blue Book and I read a lot of the stuff on Jay Allen Heinik and you k"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-MENTIONS-organization-raymond-a-palmer",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "organization-raymond-a-palmer",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "people. There's levels to this thing, you know? Like, I had Palmer Lucky on the podcast the other day. Yeah. You start talking"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-MENTIONS-organization-world-contact-day",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "organization-world-contact-day",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": " for the UFC. I'm around dudes who can kill me every single day I work there. Every one of them could kill me. No questions"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-MENTIONS-organization-manhattan-project",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "organization-manhattan-project",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": ">> and he's he you know people talk about  it like it's the Manhattan project on steroids but I've heard that about AI too, right?  >> Bu"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-MENTIONS-organization-steven-m-greer",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "organization-steven-m-greer",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "hehan. He was he's a John Max lawyer. Lou Alzando's lawyer, Steven Greer's lawyer.  He was represented the Pentagon or so the New Yo"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-MENTIONS-organization-scp-foundation",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "organization-scp-foundation",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "mething underneath them.  >> There's something is that Oh,  foundation. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. So at the bottom we pr"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-MENTIONS-organization-jerome-clark",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "organization-jerome-clark",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "ai Dickens. Yeah.  >> And there's a great book by Arthur C. Clark called Childhood's End. And in that book, the aliens first "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-MENTIONS-organization-us-air-force",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "organization-us-air-force",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "doing? What is the predominant? What does the dominant life force on this planet do? It makes better things. That's all it do"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-MENTIONS-organization-big-sur-ufo",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "organization-big-sur-ufo",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "yrinth that's in some vast corridor that's metallic. It's a UFO.  >> And now we have three-fingered mummies in Peru.  >> We"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-MENTIONS-organization-mirage-men",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "organization-mirage-men",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "e would want to mate with. And that's really all it is like men and women want to be desired by the opposite sex or the sam"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-MENTIONS-organization-bob-lazar",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "organization-bob-lazar",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "\" And then really Jeremy Corbel's Roswell excuse me Area 51 Bob Lazar documentary is what really brought me back in.  >> Yeah. An"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-MENTIONS-organization-nasa",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "organization-nasa",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "ous grants and you're building rockets. You're working with NASA, you know?  >> Your whole business.  >> Grush has the suspi"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-MENTIONS-organization-cia",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "organization-cia",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "ating like in a room with David Grush on your show,  >> the CIA guy was like, \"Look at the Grush stuff. Quantum and AI. Do "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-MENTIONS-organization-fbi",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "organization-fbi",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "e any sense of like the Epste stuff's so crazy? You had the FBI director on your show and it's like he's so clearly lying t"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-MENTIONS-location-pacific-training-area",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "location-pacific-training-area",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "my life.\" And then really Jeremy Corbel's Roswell excuse me Area 51 Bob Lazar documentary is what really brought me back in."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-MENTIONS-location-roswell-new-mexico",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "location-roswell-new-mexico",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "ville.  >> I think so. In Texas.  >> Yeah. On the border of Mexico. Yeah. I watched the launch.  >> Insane.  >> Is it Falcon 9"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-MENTIONS-location-united-kingdom",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "location-united-kingdom",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "  >> You know I love Coast to Coast with Art  Bell from the Kingdom of Nine. I love that show. because I used to go drive home "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-MENTIONS-location-united-states",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "location-united-states",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "at Dan and I talked about. He firmly believes that both the United States and China has retrieved these crashed vehicles and that the"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-MENTIONS-location-south-africa",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "location-south-africa",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": " and a society as sophisticated as the people that lived in Africa that were able to move stones that weighed 80, 90 tons, 500"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-MENTIONS-location-australia",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "location-australia",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": " don't even know how many Aboriginal languages there are in Australia. Totally.  >> Do you know that they like they have  these m"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-MENTIONS-location-roswell",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "location-roswell",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": " you know and all the Philip Corso stuff and the stuff from Roswell and I just became obsessed with reading and watching whatev"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-MENTIONS-location-area-51",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "location-area-51",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "my life.\" And then really Jeremy Corbel's Roswell excuse me Area 51 Bob Lazar documentary is what really brought me back in.  >"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-MENTIONS-location-mexico",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "location-mexico",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "ville.  >> I think so. In Texas.  >> Yeah. On the border of Mexico. Yeah. I watched the launch.  >> Insane.  >> Is it Falcon 9"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-MENTIONS-location-russia",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "location-russia",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": " you're reading about this guy like what his experiences in Russia and you're like it's a different world man but  >> it's not"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-MENTIONS-location-italy",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "location-italy",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "s. The Italian guys? Yeah, the Italian guys. This I went to Italy actually.  >> Oh, Filipo Beyondi.  >> There are these struc"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-MENTIONS-location-peru",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "location-peru",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": ". It's a UFO.  >> And now we have three-fingered mummies in Peru.  >> We might have actual evidence that there's another spe"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-MENTIONS-program-project-blue-book",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "program-project-blue-book",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "n us? Would they visit? And you know then I got really into Project Blue Book and I read a lot of the stuff on Jay Allen Heinik and you k"
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-C_Na1tI5qpw-discussion-summary",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-C_Na1tI5qpw-discussion-summary",
+      "relationship": "ASSERTED",
+      "confidence": 0.9,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0,
+          "quote": "Episode: Joe Rogan: The Truth About Aliens (He Finally Says It)"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-REFERENCES-claim-C_Na1tI5qpw-discussion-summary",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "claim-C_Na1tI5qpw-discussion-summary",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 0
+        }
+      ]
+    },
+    {
+      "id": "edge-person-joe-rogan-ASSERTED-claim-C_Na1tI5qpw-rogan-dream-tall-nhi",
+      "from_node_id": "person-joe-rogan",
+      "to_node_id": "claim-C_Na1tI5qpw-rogan-dream-tall-nhi",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 80,
+          "quote": "Joe Rogan recounts a uniquely vivid dream featuring tall slender pinkish humanoid entities with larger eyes, described as non-gray NHI interacting with him in an altered environment."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-REFERENCES-claim-C_Na1tI5qpw-rogan-dream-tall-nhi",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "claim-C_Na1tI5qpw-rogan-dream-tall-nhi",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 80
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-C_Na1tI5qpw-rogan-dream-tall-nhi-REFERENCES-technology-tall-pinkish-slender-nhi",
+      "from_node_id": "claim-C_Na1tI5qpw-rogan-dream-tall-nhi",
+      "to_node_id": "technology-tall-pinkish-slender-nhi",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 80
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-C_Na1tI5qpw-rogan-dream-tall-nhi-REFERENCES-concept-nhi",
+      "from_node_id": "claim-C_Na1tI5qpw-rogan-dream-tall-nhi",
+      "to_node_id": "concept-nhi",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 80
+        }
+      ]
+    },
+    {
+      "id": "edge-person-joe-rogan-ASSERTED-claim-C_Na1tI5qpw-angela-hill-granddaughter",
+      "from_node_id": "person-joe-rogan",
+      "to_node_id": "claim-C_Na1tI5qpw-angela-hill-granddaughter",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 90,
+          "quote": "UFC fighter Angela Hill is Barney Hill's granddaughter and appeared on Rogan's podcast; she disclosed the family connection only after the podcast."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-REFERENCES-claim-C_Na1tI5qpw-angela-hill-granddaughter",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "claim-C_Na1tI5qpw-angela-hill-granddaughter",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 90
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-C_Na1tI5qpw-angela-hill-granddaughter-REFERENCES-person-angela-hill",
+      "from_node_id": "claim-C_Na1tI5qpw-angela-hill-granddaughter",
+      "to_node_id": "person-angela-hill",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 90
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-C_Na1tI5qpw-angela-hill-granddaughter-REFERENCES-incident-1961-hill-abduction",
+      "from_node_id": "claim-C_Na1tI5qpw-angela-hill-granddaughter",
+      "to_node_id": "incident-1961-hill-abduction",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 90
+        }
+      ]
+    },
+    {
+      "id": "edge-person-joe-rogan-ASSERTED-claim-C_Na1tI5qpw-rogan-lazar-63m-views",
+      "from_node_id": "person-joe-rogan",
+      "to_node_id": "claim-C_Na1tI5qpw-rogan-lazar-63m-views",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 220,
+          "quote": "Rogan states Jeremy Corbell's Bob Lazar episode on his podcast is his highest-viewed YouTube episode with approximately 63 million views."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-REFERENCES-claim-C_Na1tI5qpw-rogan-lazar-63m-views",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "claim-C_Na1tI5qpw-rogan-lazar-63m-views",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 220
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-C_Na1tI5qpw-rogan-lazar-63m-views-REFERENCES-person-bob-lazar",
+      "from_node_id": "claim-C_Na1tI5qpw-rogan-lazar-63m-views",
+      "to_node_id": "person-bob-lazar",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 220
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-C_Na1tI5qpw-rogan-lazar-63m-views-REFERENCES-person-jeremy-corbell",
+      "from_node_id": "claim-C_Na1tI5qpw-rogan-lazar-63m-views",
+      "to_node_id": "person-jeremy-corbell",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 220
+        }
+      ]
+    },
+    {
+      "id": "edge-person-joe-rogan-ASSERTED-claim-C_Na1tI5qpw-rogan-lazar-story-substantiated",
+      "from_node_id": "person-joe-rogan",
+      "to_node_id": "claim-C_Na1tI5qpw-rogan-lazar-story-substantiated",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 225,
+          "quote": "Rogan asserts that subsequent whistleblower accounts (Grusch, Puthoff) substantiate Bob Lazar's 1980s claims about gravity-manipulation craft propulsion."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-REFERENCES-claim-C_Na1tI5qpw-rogan-lazar-story-substantiated",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "claim-C_Na1tI5qpw-rogan-lazar-story-substantiated",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 225
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-C_Na1tI5qpw-rogan-lazar-story-substantiated-REFERENCES-person-bob-lazar",
+      "from_node_id": "claim-C_Na1tI5qpw-rogan-lazar-story-substantiated",
+      "to_node_id": "person-bob-lazar",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 225
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-C_Na1tI5qpw-rogan-lazar-story-substantiated-REFERENCES-person-david-grusch",
+      "from_node_id": "claim-C_Na1tI5qpw-rogan-lazar-story-substantiated",
+      "to_node_id": "person-david-grusch",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 225
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-C_Na1tI5qpw-rogan-lazar-story-substantiated-REFERENCES-person-hal-puthoff",
+      "from_node_id": "claim-C_Na1tI5qpw-rogan-lazar-story-substantiated",
+      "to_node_id": "person-hal-puthoff",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 225
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-C_Na1tI5qpw-rogan-lazar-story-substantiated-REFERENCES-concept-reverse-engineering",
+      "from_node_id": "claim-C_Na1tI5qpw-rogan-lazar-story-substantiated",
+      "to_node_id": "concept-reverse-engineering",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 225
+        }
+      ]
+    },
+    {
+      "id": "edge-person-joe-rogan-ASSERTED-claim-C_Na1tI5qpw-lazar-los-alamos-paper-directory",
+      "from_node_id": "person-joe-rogan",
+      "to_node_id": "claim-C_Na1tI5qpw-lazar-los-alamos-paper-directory",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 238,
+          "quote": "Bob Lazar's employment at Los Alamos was discreditation-resistant because he appeared on the front page of the local paper and George (Knapp) later obtained the phone directory confirming his presence"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-REFERENCES-claim-C_Na1tI5qpw-lazar-los-alamos-paper-directory",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "claim-C_Na1tI5qpw-lazar-los-alamos-paper-directory",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 238
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-C_Na1tI5qpw-lazar-los-alamos-paper-directory-REFERENCES-person-bob-lazar",
+      "from_node_id": "claim-C_Na1tI5qpw-lazar-los-alamos-paper-directory",
+      "to_node_id": "person-bob-lazar",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 238
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-C_Na1tI5qpw-lazar-los-alamos-paper-directory-REFERENCES-person-george-knapp",
+      "from_node_id": "claim-C_Na1tI5qpw-lazar-los-alamos-paper-directory",
+      "to_node_id": "person-george-knapp",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 238
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-C_Na1tI5qpw-lazar-los-alamos-paper-directory-REFERENCES-location-los-alamos",
+      "from_node_id": "claim-C_Na1tI5qpw-lazar-los-alamos-paper-directory",
+      "to_node_id": "location-los-alamos",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 238
+        }
+      ]
+    },
+    {
+      "id": "edge-person-joe-rogan-ASSERTED-claim-C_Na1tI5qpw-area-51-obama-confirmation",
+      "from_node_id": "person-joe-rogan",
+      "to_node_id": "claim-C_Na1tI5qpw-area-51-obama-confirmation",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 248,
+          "quote": "Area 51's existence was only officially confirmed during the Obama administration, when the government needed to expand restricted access zones due to photographers reaching non-secure land."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-REFERENCES-claim-C_Na1tI5qpw-area-51-obama-confirmation",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "claim-C_Na1tI5qpw-area-51-obama-confirmation",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 248
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-C_Na1tI5qpw-area-51-obama-confirmation-REFERENCES-location-groom-lake",
+      "from_node_id": "claim-C_Na1tI5qpw-area-51-obama-confirmation",
+      "to_node_id": "location-groom-lake",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 248
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-C_Na1tI5qpw-area-51-obama-confirmation-REFERENCES-concept-disclosure",
+      "from_node_id": "claim-C_Na1tI5qpw-area-51-obama-confirmation",
+      "to_node_id": "concept-disclosure",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 248
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-C_Na1tI5qpw-age-of-disclosure-doc",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-C_Na1tI5qpw-age-of-disclosure-doc",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 290,
+          "quote": "The 'Age of Disclosure' documentary (directed by Dan Farah) features high-level intelligence interviewees including James Woolsey, James Clapper, John Brennan and Marco Rubio."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-REFERENCES-claim-C_Na1tI5qpw-age-of-disclosure-doc",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "claim-C_Na1tI5qpw-age-of-disclosure-doc",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 290
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-C_Na1tI5qpw-age-of-disclosure-doc-REFERENCES-person-james-clapper",
+      "from_node_id": "claim-C_Na1tI5qpw-age-of-disclosure-doc",
+      "to_node_id": "person-james-clapper",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 290
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-C_Na1tI5qpw-age-of-disclosure-doc-REFERENCES-person-john-brennan",
+      "from_node_id": "claim-C_Na1tI5qpw-age-of-disclosure-doc",
+      "to_node_id": "person-john-brennan",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 290
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-C_Na1tI5qpw-age-of-disclosure-doc-REFERENCES-person-james-woolsey",
+      "from_node_id": "claim-C_Na1tI5qpw-age-of-disclosure-doc",
+      "to_node_id": "person-james-woolsey",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 290
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-C_Na1tI5qpw-age-of-disclosure-doc-REFERENCES-person-marco-rubio",
+      "from_node_id": "claim-C_Na1tI5qpw-age-of-disclosure-doc",
+      "to_node_id": "person-marco-rubio",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 290
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-C_Na1tI5qpw-age-of-disclosure-doc-REFERENCES-concept-disclosure",
+      "from_node_id": "claim-C_Na1tI5qpw-age-of-disclosure-doc",
+      "to_node_id": "concept-disclosure",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 290
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-C_Na1tI5qpw-rubio-disclosure-urgency",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-C_Na1tI5qpw-rubio-disclosure-urgency",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 298,
+          "quote": "Senator Marco Rubio's involvement and stated urgency in the current administration is framed by Michels and Rogan as significant in mainstreaming UAP disclosure."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-REFERENCES-claim-C_Na1tI5qpw-rubio-disclosure-urgency",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "claim-C_Na1tI5qpw-rubio-disclosure-urgency",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 298
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-C_Na1tI5qpw-rubio-disclosure-urgency-REFERENCES-person-marco-rubio",
+      "from_node_id": "claim-C_Na1tI5qpw-rubio-disclosure-urgency",
+      "to_node_id": "person-marco-rubio",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 298
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-C_Na1tI5qpw-rubio-disclosure-urgency-REFERENCES-concept-disclosure",
+      "from_node_id": "claim-C_Na1tI5qpw-rubio-disclosure-urgency",
+      "to_node_id": "concept-disclosure",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 298
+        }
+      ]
+    },
+    {
+      "id": "edge-person-joe-rogan-ASSERTED-claim-C_Na1tI5qpw-china-us-reverse-engineering-race",
+      "from_node_id": "person-joe-rogan",
+      "to_node_id": "claim-C_Na1tI5qpw-china-us-reverse-engineering-race",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 308,
+          "quote": "Per Dan Farah's position summarized by Rogan, both the United States and China have recovered crashed vehicles and are in competing reverse-engineering programs — a 'Manhattan Project on steroids'."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-REFERENCES-claim-C_Na1tI5qpw-china-us-reverse-engineering-race",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "claim-C_Na1tI5qpw-china-us-reverse-engineering-race",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 308
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-C_Na1tI5qpw-china-us-reverse-engineering-race-REFERENCES-program-manhattan-project",
+      "from_node_id": "claim-C_Na1tI5qpw-china-us-reverse-engineering-race",
+      "to_node_id": "program-manhattan-project",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 308
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-C_Na1tI5qpw-china-us-reverse-engineering-race-REFERENCES-concept-reverse-engineering",
+      "from_node_id": "claim-C_Na1tI5qpw-china-us-reverse-engineering-race",
+      "to_node_id": "concept-reverse-engineering",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 308
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-C_Na1tI5qpw-china-us-reverse-engineering-race-REFERENCES-concept-crash-retrieval",
+      "from_node_id": "claim-C_Na1tI5qpw-china-us-reverse-engineering-race",
+      "to_node_id": "concept-crash-retrieval",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 308
+        }
+      ]
+    },
+    {
+      "id": "edge-person-joe-rogan-ASSERTED-claim-C_Na1tI5qpw-rubio-china-tech-catchup",
+      "from_node_id": "person-joe-rogan",
+      "to_node_id": "claim-C_Na1tI5qpw-rubio-china-tech-catchup",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 314,
+          "quote": "Rubio's core concern (per Rogan's reading) is that China develops recovered-craft technology first; US catchup requires opening the programs up and removing stigma."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-REFERENCES-claim-C_Na1tI5qpw-rubio-china-tech-catchup",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "claim-C_Na1tI5qpw-rubio-china-tech-catchup",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 314
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-C_Na1tI5qpw-rubio-china-tech-catchup-REFERENCES-person-marco-rubio",
+      "from_node_id": "claim-C_Na1tI5qpw-rubio-china-tech-catchup",
+      "to_node_id": "person-marco-rubio",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 314
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-C_Na1tI5qpw-rubio-china-tech-catchup-REFERENCES-concept-reverse-engineering",
+      "from_node_id": "claim-C_Na1tI5qpw-rubio-china-tech-catchup",
+      "to_node_id": "concept-reverse-engineering",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 314
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-C_Na1tI5qpw-rubio-china-tech-catchup-REFERENCES-concept-disclosure",
+      "from_node_id": "claim-C_Na1tI5qpw-rubio-china-tech-catchup",
+      "to_node_id": "concept-disclosure",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 314
+        }
+      ]
+    },
+    {
+      "id": "edge-person-joe-rogan-ASSERTED-claim-C_Na1tI5qpw-whistleblower-amnesty-requirement",
+      "from_node_id": "person-joe-rogan",
+      "to_node_id": "claim-C_Na1tI5qpw-whistleblower-amnesty-requirement",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 342,
+          "quote": "Rogan argues any meaningful disclosure will require programmatic amnesty because lying to Congress and misappropriation of funds have certainly occurred in the covert crash-retrieval programs."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-REFERENCES-claim-C_Na1tI5qpw-whistleblower-amnesty-requirement",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "claim-C_Na1tI5qpw-whistleblower-amnesty-requirement",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 342
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-C_Na1tI5qpw-whistleblower-amnesty-requirement-REFERENCES-concept-disclosure",
+      "from_node_id": "claim-C_Na1tI5qpw-whistleblower-amnesty-requirement",
+      "to_node_id": "concept-disclosure",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 342
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-C_Na1tI5qpw-whistleblower-amnesty-requirement-REFERENCES-concept-crash-retrieval",
+      "from_node_id": "claim-C_Na1tI5qpw-whistleblower-amnesty-requirement",
+      "to_node_id": "concept-crash-retrieval",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 342
+        }
+      ]
+    },
+    {
+      "id": "edge-person-joe-rogan-ASSERTED-claim-C_Na1tI5qpw-defense-contractor-lawsuit-risk",
+      "from_node_id": "person-joe-rogan",
+      "to_node_id": "claim-C_Na1tI5qpw-defense-contractor-lawsuit-risk",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 346,
+          "quote": "Rogan notes that if reverse-engineering programs succeeded and technology was allocated unevenly across defense contractors, the disclosure event creates massive civil-litigation risk."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-REFERENCES-claim-C_Na1tI5qpw-defense-contractor-lawsuit-risk",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "claim-C_Na1tI5qpw-defense-contractor-lawsuit-risk",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 346
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-C_Na1tI5qpw-defense-contractor-lawsuit-risk-REFERENCES-concept-disclosure",
+      "from_node_id": "claim-C_Na1tI5qpw-defense-contractor-lawsuit-risk",
+      "to_node_id": "concept-disclosure",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 346
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-C_Na1tI5qpw-defense-contractor-lawsuit-risk-REFERENCES-concept-reverse-engineering",
+      "from_node_id": "claim-C_Na1tI5qpw-defense-contractor-lawsuit-risk",
+      "to_node_id": "concept-reverse-engineering",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 346
+        }
+      ]
+    },
+    {
+      "id": "edge-person-joe-rogan-ASSERTED-claim-C_Na1tI5qpw-burchett-five-underwater-hotspots",
+      "from_node_id": "person-joe-rogan",
+      "to_node_id": "claim-C_Na1tI5qpw-burchett-five-underwater-hotspots",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 336,
+          "quote": "Congressman Tim Burchett has publicly identified five deep-water areas in the oceans where UAP sightings are concentrated."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-REFERENCES-claim-C_Na1tI5qpw-burchett-five-underwater-hotspots",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "claim-C_Na1tI5qpw-burchett-five-underwater-hotspots",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 336
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-C_Na1tI5qpw-burchett-five-underwater-hotspots-REFERENCES-person-tim-burchett",
+      "from_node_id": "claim-C_Na1tI5qpw-burchett-five-underwater-hotspots",
+      "to_node_id": "person-tim-burchett",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 336
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-C_Na1tI5qpw-burchett-five-underwater-hotspots-REFERENCES-concept-nhi",
+      "from_node_id": "claim-C_Na1tI5qpw-burchett-five-underwater-hotspots",
+      "to_node_id": "concept-nhi",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 336
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-C_Na1tI5qpw-pyramid-underground-labyrinth",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-C_Na1tI5qpw-pyramid-underground-labyrinth",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 16,
+          "quote": "Pyramid research referenced by Michels alleges structures up to 2 km deep beneath the pyramids — an 'energy grid' with columns, a 40-meter metallic object in a vast corridor, and links to an undergrou"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-REFERENCES-claim-C_Na1tI5qpw-pyramid-underground-labyrinth",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "claim-C_Na1tI5qpw-pyramid-underground-labyrinth",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 16
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-C_Na1tI5qpw-pyramid-underground-labyrinth-REFERENCES-concept-disclosure",
+      "from_node_id": "claim-C_Na1tI5qpw-pyramid-underground-labyrinth",
+      "to_node_id": "concept-disclosure",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 16
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-C_Na1tI5qpw-peru-three-fingered-mummies",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-C_Na1tI5qpw-peru-three-fingered-mummies",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 18,
+          "quote": "Claim (discussed in episode) of three-fingered mummies from Peru as potential evidence of a non-human species sharing the planet."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-REFERENCES-claim-C_Na1tI5qpw-peru-three-fingered-mummies",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "claim-C_Na1tI5qpw-peru-three-fingered-mummies",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 18
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-C_Na1tI5qpw-peru-three-fingered-mummies-REFERENCES-concept-nhi",
+      "from_node_id": "claim-C_Na1tI5qpw-peru-three-fingered-mummies",
+      "to_node_id": "concept-nhi",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 18
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-C_Na1tI5qpw-peru-three-fingered-mummies-REFERENCES-phenomenon-nhi-biologics",
+      "from_node_id": "claim-C_Na1tI5qpw-peru-three-fingered-mummies",
+      "to_node_id": "phenomenon-nhi-biologics",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 18
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-C_Na1tI5qpw-agi-as-cosmos-gateway",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-C_Na1tI5qpw-agi-as-cosmos-gateway",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 32,
+          "quote": "Michels speculates that achieving artificial general superintelligence is the 'legitimate gateway to the cosmos' and potentially the mechanism by which technological curiosity drives humanity to conta"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-C_Na1tI5qpw-REFERENCES-claim-C_Na1tI5qpw-agi-as-cosmos-gateway",
+      "from_node_id": "video-C_Na1tI5qpw",
+      "to_node_id": "claim-C_Na1tI5qpw-agi-as-cosmos-gateway",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 32
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-C_Na1tI5qpw-agi-as-cosmos-gateway-REFERENCES-concept-nhi",
+      "from_node_id": "claim-C_Na1tI5qpw-agi-as-cosmos-gateway",
+      "to_node_id": "concept-nhi",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "C_Na1tI5qpw",
+          "timestamp_start": 32
+        }
+      ]
+    }
+  ],
+  "extracted_at": "2026-04-17T11:51:45.088190+00:00",
+  "extractor_version": "v1-inline-claude"
+}

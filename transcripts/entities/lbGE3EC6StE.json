@@ -1,0 +1,1832 @@
+{
+  "video_id": "lbGE3EC6StE",
+  "nodes": [
+    {
+      "id": "video-lbGE3EC6StE",
+      "node_type": "video",
+      "label": "Meet the Astronomer Tracking UFOs",
+      "summary": "Join Jesse Michels on today's episode of American Alchemy as he sits down with Beatriz Villarroel to discuss the Baltic Sea anomaly, vanishing stars, hunting for UFO crash retrievals and the...",
+      "tags": [
+        "video",
+        "american-alchemy"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:02.302848+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 0,
+          "timestamp_end": 3257.0,
+          "quote": "Video: Meet the Astronomer Tracking UFOs"
+        }
+      ],
+      "type_specific": {
+        "video_id": "lbGE3EC6StE",
+        "title": "Meet the Astronomer Tracking UFOs",
+        "url": "https://www.youtube.com/watch?v=lbGE3EC6StE",
+        "view_count": 193936,
+        "duration_seconds": 3257.0,
+        "host_id": "person-jesse-michels"
+      }
+    },
+    {
+      "id": "person-jesse-michels",
+      "node_type": "person",
+      "label": "Jesse Michels",
+      "summary": "Host of American Alchemy podcast/show. Independent journalist and UFO/NHI researcher.",
+      "tags": [
+        "journalist",
+        "interviewer",
+        "researcher",
+        "host"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:02.302861+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 0,
+          "quote": "Host of American Alchemy podcast/show."
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Jesse",
+          "Michels"
+        ],
+        "profession": "journalist",
+        "notability_tags": [
+          "journalist",
+          "interviewer",
+          "researcher",
+          "host"
+        ]
+      }
+    },
+    {
+      "id": "person-stanton-friedman",
+      "node_type": "person",
+      "label": "Stanton Friedman",
+      "summary": "",
+      "tags": [
+        "researcher",
+        "nuclear physicist"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:02.572439+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 0,
+          "quote": "ime which is like wild. I mean maybe I'm wrong, right? Like Stanton Friedman unfortunately would have been wrong. Like I don't think thi"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Friedman"
+        ],
+        "notability_tags": [
+          "researcher",
+          "nuclear physicist"
+        ]
+      }
+    },
+    {
+      "id": "person-john-f-kennedy",
+      "node_type": "person",
+      "label": "John F. Kennedy",
+      "summary": "",
+      "tags": [
+        "president",
+        "historical"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:02.572456+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 0,
+          "quote": " the 1950s. And actually the same time as Mensel was there, JFK was the on the board of overseers for the astronomer depart"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "JFK",
+          "Kennedy"
+        ],
+        "notability_tags": [
+          "president",
+          "historical"
+        ]
+      }
+    },
+    {
+      "id": "person-donald-menzel",
+      "node_type": "person",
+      "label": "Donald Menzel",
+      "summary": "",
+      "tags": [
+        "astronomer",
+        "skeptic"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:02.572461+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 0,
+          "quote": "ren't you just having satellite lints?\" Do you remember Don Menzel? Do you know that name by any chance? Yeah. Famous astronom"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Menzel"
+        ],
+        "notability_tags": [
+          "astronomer",
+          "skeptic"
+        ]
+      }
+    },
+    {
+      "id": "person-timothy-good",
+      "node_type": "person",
+      "label": "Timothy Good",
+      "summary": "",
+      "tags": [
+        "researcher",
+        "author"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:02.572465+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 0,
+          "quote": " actually need a hypothesis going in that's actually really good that's good science having an idea of what you're looking f"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Tim Good",
+          "Good"
+        ],
+        "notability_tags": [
+          "researcher",
+          "author"
+        ]
+      }
+    },
+    {
+      "id": "person-allen-dulles",
+      "node_type": "person",
+      "label": "Allen Dulles",
+      "summary": "",
+      "tags": [
+        "CIA",
+        "historical"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:02.572470+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 0,
+          "quote": "or of the CIA John McCone. It was after JFK had fired Allan Dulles and he's asking for data on unknowns because he's worried t"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Dulles"
+        ],
+        "notability_tags": [
+          "CIA",
+          "historical"
+        ]
+      }
+    },
+    {
+      "id": "person-chan-thomas",
+      "node_type": "person",
+      "label": "Chan Thomas",
+      "summary": "Chan Thomas (1920–1998) was an American engineer, ufologist, writer on ancient cataclysms, and self-proclaimed polymath whose ideas have influenced conspiracy theorists in the 21st century.",
+      "tags": [
+        "wikipedia",
+        "20th-century american engineers",
+        "mcdonnell douglas people",
+        "ufologists",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:02.572474+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 0,
+          "quote": "Atomic Energy Act of 1954 and was very close confidant with Thomas Townsen Brown  who's working on anomalous gravity research."
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "CHAN THOMAS",
+          "Thomas",
+          "chan thomas"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "20th-century american engineers",
+          "mcdonnell douglas people",
+          "ufologists",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "person-garry-nolan",
+      "node_type": "person",
+      "label": "Garry Nolan",
+      "summary": "Garry P. Nolan (born c. 1961) is a British-American immunologist, academic, inventor, and business executive. He holds the Rachford and Carlota A. Harris Professor Endowed Chair in the Department of Pathology at Stanford University School of Medicine. Nolan has founded biotechnology companies. Since",
+      "tags": [
+        "wikipedia",
+        "1960s births",
+        "american cancer researchers",
+        "american immunologists",
+        "american pathologists",
+        "british cancer researchers",
+        "british immunologists",
+        "cornell university alumni",
+        "pages with broken reference names",
+        "pages with reference errors",
+        "serologists",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:02.572479+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 0,
+          "quote": " somebody you know having like at least a larger craft Gary Nolan has in his possession because they were mailed to Jacqu Val"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "GARRY NOLAN",
+          "Nolan",
+          "garry nolan"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "1960s births",
+          "american cancer researchers",
+          "american immunologists",
+          "american pathologists",
+          "british cancer researchers",
+          "british immunologists",
+          "cornell university alumni",
+          "pages with broken reference names",
+          "pages with reference errors",
+          "serologists",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "organization-the-report-on-unidentified-flying-objects",
+      "node_type": "organization",
+      "label": "The Report on Unidentified Flying Objects",
+      "summary": "The Report on Unidentified Flying Objects is a 1956 book by then-retired Air Force UFO investigator Edward J. Ruppelt, detailing his experience running Project Blue Book. The book was noted for its suggestion that a few UFO sightings might be linked to spikes of atomic radiation. Contemporary media ",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:02.572485+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 0,
+          "quote": "really believe that we need to seriously study this kind of objects. Yeah, absolutely. I'm here with Dr. Beatatrice Vioale who "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-identification-studies-of-ufos",
+      "node_type": "organization",
+      "label": "Identification studies of UFOs",
+      "summary": "Identifying unidentified flying objects (UFOs) is a difficult task due to the normally poor quality of the evidence provided by those who report sighting the unknown object. Observations and subsequent reporting are often made by those untrained in astronomy, atmospheric phenomena, aeronautics, phys",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:02.572489+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 0,
+          "quote": "# Meet the Astronomer Tracking UFOs https://www.youtube.com/watch?v=lbGE3EC6StE views: 193,936 "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-the-flying-saucers-are-real",
+      "node_type": "organization",
+      "label": "The Flying Saucers Are Real",
+      "summary": "The Flying Saucers Are Real, by Donald Keyhoe, is a book that investigated reports of UFOs by United States Air Force fighters, personnel, and other aircraft, between 1947 and 1950.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:02.572494+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 0,
+          "quote": "I think there are a lot of reasons to think it might not be real, but it's it's interesting cuz I there were some people in "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-archives-of-the-impossible",
+      "node_type": "organization",
+      "label": "Archives of the Impossible",
+      "summary": "The Archives of the Impossible (AOTI), sometimes called the Center for the Impossible, is a special collection at Rice University in Houston, Texas, United States. Founded in 2014 by Jeffrey J. Kripal, AOTI is based at the Woodson Research Center in the Fondren Library. It stewards collections on UF",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:02.572499+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 0,
+          "quote": "he entire sky that wasn't possible in the 60s. All that was impossible for them that time or extremely difficult. And today you ha"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-unidentified-flying-object",
+      "node_type": "organization",
+      "label": "Unidentified flying object",
+      "summary": "An unidentified flying object (UFO) is an object or phenomenon seen in the sky but not yet identified or explained. The term was coined when United States Air Force (USAF) investigations into flying saucers found too broad a range of shapes reported to consider them all saucers or discs. UFOs are al",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:02.572503+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 0,
+          "quote": "something. Wow. So, it there's there are no samples of that object because it was so hard. So, they couldn't get a piece out o"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-roswell-that-ends-well",
+      "node_type": "organization",
+      "label": "Roswell That Ends Well",
+      "summary": "\"Roswell That Ends Well\" is the nineteenth episode in the third season of the American animated television series Futurama, and the 51st episode of the series overall. It originally aired on the Fox network in the United States on December 9, 2001. The plot centers on an accidental time travel event",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:02.572507+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 0,
+          "quote": " appreciate it. It's my pleasure and it's a true honor. Oh, well, thank you. how did you get  into space to begin with? Were"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-stanton-t-friedman",
+      "node_type": "organization",
+      "label": "Stanton T. Friedman",
+      "summary": "Stanton Terry Friedman (July 29, 1934 – May 13, 2019) was an American–Canadian nuclear physicist and professional ufologist who was based in Fredericton, New Brunswick, Canada.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:02.572512+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 0,
+          "quote": "ime which is like wild. I mean maybe I'm wrong, right? Like Stanton Friedman unfortunately would have been wrong. Like I don't think thi"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-the-galileo-project",
+      "node_type": "organization",
+      "label": "The Galileo Project",
+      "summary": "The Galileo Project is an international scientific research project to search for extraterrestrial intelligence or extraterrestrial technology on and near Earth and to identify the nature of anomalous Unidentified Flying Objects/Unidentified Aerial Phenomena (UFOs/UAP). It was launched in 2021 by Ha",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:02.572516+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 0,
+          "quote": "for extraterrestrial intelligence, which we did through the project by looking for vanishing objects. Mhm. [clears throat] that"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-thornton-leigh-page",
+      "node_type": "organization",
+      "label": "Thornton Leigh Page",
+      "summary": "Thornton Leigh Page was an American professor of astronomy at the University of Chicago and at Wesleyan University. He became embroiled in the controversy over unidentified flying objects (UFOs) after serving briefly on the Robertson Panel, a Central Intelligence Agency–sponsored committee of scient",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:02.572520+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 0,
+          "quote": "alist, just testified in front of Congress, put out this 12-page report, Immaculate Constellation, this program that seemed "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-project-blue-book",
+      "node_type": "organization",
+      "label": "Project Blue Book",
+      "summary": "USAF UFO investigation program active from 1952 to 1969.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:02.572525+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 0,
+          "quote": "tween Truman and Edward J. Rupelt, who was the head of Blue Book at the time. And it was, you had this Washington invasion o"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-raymond-a-palmer",
+      "node_type": "organization",
+      "label": "Raymond A. Palmer",
+      "summary": "Raymond Alfred Palmer (August 1, 1910 – August 15, 1977) was an American author and magazine editor. Influential in the first wave of science fiction fandom, his first fiction stories were published in 1935. Ziff Davis named him editor of the science fiction magazine Amazing Stories in 1938 and edit",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:02.572529+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 0,
+          "quote": "itially but later we just went to the directly to the Mount Palmer images. Got it. And so you're seeing images you're seeing t"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-world-contact-day",
+      "node_type": "organization",
+      "label": "World Contact Day",
+      "summary": "World Contact Day was first declared in March 1953 by an organization called the International Flying Saucer Bureau (IFSB), as a day on which all IFSB members would attempt to send a telepathic message into space. The IFSB voted to hold such a day in 1953, theorising that if both telepathy and alien",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:02.572533+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 0,
+          "quote": "super famous astronomer for a very long while who s who one day observed he could see like he found couples of galaxies tha"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-condon-committee",
+      "node_type": "organization",
+      "label": "Condon Committee",
+      "summary": "Condon Committee entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:02.572537+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 0,
+          "quote": "ard Condan  went on to do a hit job on UFOs with the Condan Committee, which killed Blue Book. So it was literally Menzel's like "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-us-air-force",
+      "node_type": "organization",
+      "label": "US Air Force",
+      "summary": "US Air Force entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:02.572541+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 0,
+          "quote": "the most famous UFO debunker. Absolutely. And he helped the US Air Force to debunk the Washington 1952 flap. Y and two or 3 months a"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-big-sur-ufo",
+      "node_type": "organization",
+      "label": "Big Sur UFO",
+      "summary": "The Big Sur UFO is a reported UFO incident that took place during a 1964 Air Force deployment to a mountaintop near Big Sur, California. The deployment was a mission was to film Atlas missile tests from Vandenberg Air Force Base. Since 1982, Robert Jacobs, who had overseen the mountaintop team, has ",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:02.572545+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 0,
+          "quote": "ocean. So, they found this thing that looked like a crashed UFO or looked like an artificial structure outside the Swedish "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-majestic-12",
+      "node_type": "organization",
+      "label": "Majestic 12",
+      "summary": "Majestic 12, also known as Majic-12, and MJ-12 for short, is a purported organization that appeared in fake documents first circulated by ufologists in 1984, and that some UFO conspiracy theories still claim to have existed. The organization is claimed to be the code name of an alleged secret commit",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:02.572550+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 0,
+          "quote": "nly you find that his name is famous for the so-called MJ12 majestic 12 and you start wondering of course I mean I can't help it bu"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-us-navy",
+      "node_type": "organization",
+      "label": "US Navy",
+      "summary": "US Navy entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:02.572554+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 0,
+          "quote": "ike lots of imagery from 1950 and also a catalog called the US Navy catalog and then we had images of the sky as it looks today"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-cia",
+      "node_type": "organization",
+      "label": "CIA",
+      "summary": "CIA entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:02.572558+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 0,
+          "quote": "ment in 2005 and it was  from JFK to acting director of the CIA John McCone. It was after JFK had fired Allan Dulles and he"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other",
+        "acronym": "CIA"
+      }
+    },
+    {
+      "id": "location-pacific-training-area",
+      "node_type": "location",
+      "label": "Pacific Training Area",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:02.572563+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 0,
+          "quote": "eally weird because we don't have volcanic activity in that area. We need the actual physical proof and I don't think any go"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-roswell-new-mexico",
+      "node_type": "location",
+      "label": "Roswell, New Mexico",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:02.572567+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 0,
+          "quote": " looking for more  support to set up more telescopes in New Mexico where we have our telescope. I think I didn't [clears throa"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-united-states",
+      "node_type": "location",
+      "label": "United States",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:02.572571+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 0,
+          "quote": "se that one discusses those that I want discussed regarding United States. So where is the information and what can we learn about al"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-roswell",
+      "node_type": "location",
+      "label": "Roswell",
+      "summary": "",
+      "tags": [
+        "city"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:02.572575+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 0,
+          "quote": "objects from  an Uba tuba crash in Brazil and you know from Roswell you have bits and pieces of you know possible stuff but you"
+        }
+      ],
+      "type_specific": {
+        "location_type": "city",
+        "country": "US",
+        "state_or_region": "New Mexico"
+      }
+    },
+    {
+      "id": "location-brazil",
+      "node_type": "location",
+      "label": "Brazil",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:02.572578+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 0,
+          "quote": "ectrometry on them these objects from  an Uba tuba crash in Brazil and you know from Roswell you have bits and pieces of you k"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-mexico",
+      "node_type": "location",
+      "label": "Mexico",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:02.572582+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 0,
+          "quote": " looking for more  support to set up more telescopes in New Mexico where we have our telescope. I think I didn't [clears throa"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "program-mj-12",
+      "node_type": "program",
+      "label": "MJ-12",
+      "summary": "",
+      "tags": [
+        "program"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:02.572587+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 0,
+          "quote": "suddenly you find that his name is famous for the so-called MJ12 majestic 12 and you start wondering of course I mean I can'"
+        }
+      ]
+    },
+    {
+      "id": "claim-lbGE3EC6StE-discussion-summary",
+      "node_type": "claim",
+      "label": "Video lbGE3EC6StE features extended discussion of Stanton Friedman, John F. Kennedy, Donald Menzel a",
+      "summary": "Video lbGE3EC6StE features extended discussion of Stanton Friedman, John F. Kennedy, Donald Menzel and related UAP research topics, hosted by Jesse Michels.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:05:02.572596+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 0,
+          "quote": "Episode title: Meet the Astronomer Tracking UFOs"
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Video lbGE3EC6StE features extended discussion of Stanton Friedman, John F. Kennedy, Donald Menzel and related UAP research topics, hosted by Jesse Michels.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "lbGE3EC6StE",
+        "timestamp_start_seconds": 0,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-stanton-friedman",
+          "person-john-f-kennedy",
+          "person-donald-menzel",
+          "video-lbGE3EC6StE"
+        ]
+      }
+    },
+    {
+      "id": "person-halton-arp",
+      "node_type": "person",
+      "label": "Halton Arp",
+      "summary": "American astronomer; found pairs of galaxies exchanging gas with completely different redshifts — challenging the standard cosmological-distance interpretation of redshift. Marginalized by mainstream astronomy.",
+      "tags": [
+        "astronomer",
+        "heretic"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.111231+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 25,
+          "quote": "Astronomer who found non-cosmological redshifts"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Arp",
+          "Heltonarp"
+        ],
+        "profession": "astronomer",
+        "notability_tags": [
+          "astronomer",
+          "heretic"
+        ]
+      }
+    },
+    {
+      "id": "concept-non-cosmological-redshift",
+      "node_type": "concept",
+      "label": "Non-Cosmological (Anomalous) Redshift",
+      "summary": "Halton Arp's observations of interacting galaxy pairs with discordant redshifts — contradicting the Doppler-expansion framework that underlies the Big Bang. Villarroel was fascinated by this in her youth.",
+      "tags": [
+        "physics"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.111702+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 27,
+          "timestamp_end": "Arp's anomalous redshift discoveries"
+        }
+      ],
+      "type_specific": {
+        "concept_domain": "physics"
+      }
+    },
+    {
+      "id": "incident-baltic-sea-burned-biological-material",
+      "node_type": "incident",
+      "label": "Baltic Coast 'Crashed UFO' Burned Biological Material",
+      "summary": "Alleged crashed UFO / artificial structure off the Swedish coast covered in burned biological material. Hard to sample — even scientists claiming it was 'just a rock' never actually studied physical samples. Villarroel argues this is possibly the best-candidate non-human artifact available for analysis.",
+      "tags": [
+        "crash_retrieval"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.111706+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 7,
+          "timestamp_end": "Swedish coast object covered in burned biological material"
+        }
+      ],
+      "type_specific": {
+        "incident_type": "crash_retrieval",
+        "date_approximate": "2020-01-01"
+      }
+    },
+    {
+      "id": "claim-lbGE3EC6StE-villarroel-baltic-artifact-worth-study",
+      "node_type": "claim",
+      "label": "Per Villarroel: the alleged Swedish-coast crashed structure — covered in burned biological material,",
+      "summary": "Per Villarroel: the alleged Swedish-coast crashed structure — covered in burned biological material, sliding into the ocean — may be the best-candidate non-human artifact available for scientific analysis. Scientists claiming 'it's just a rock' never actually studied samples.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.112558+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 7,
+          "quote": "There's something that looks like it has been sliding into the ocean. They found this thing that looked like a crashed UFO covered in burned biological material. The scientists who had claimed it was just a rock never studied the actual samples. There's no paper and no open data."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Per Villarroel: the alleged Swedish-coast crashed structure — covered in burned biological material, sliding into the ocean — may be the best-candidate non-human artifact available for scientific analysis. Scientists claiming 'it's just a rock' never actually studied samples.",
+        "asserted_by_id": "person-beatriz-villarroel",
+        "source_video_id": "lbGE3EC6StE",
+        "timestamp_start_seconds": 7,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-beatriz-villarroel",
+          "incident-baltic-sea-burned-biological-material",
+          "incident-2011-baltic-sea-anomaly"
+        ]
+      }
+    },
+    {
+      "id": "claim-lbGE3EC6StE-villarroel-flying-saucer-cats-child-essay",
+      "node_type": "claim",
+      "label": "Villarroel's charming backstory: at age 6-7 she had already written and illustrated a small essay ab",
+      "summary": "Villarroel's charming backstory: at age 6-7 she had already written and illustrated a small essay about 'cats in flying saucers' — her UAP interest is life-long.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.112577+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 15,
+          "quote": "When I was six or seven I had written a small little essay about cats in flying saucers. I still like cats as well."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Villarroel's charming backstory: at age 6-7 she had already written and illustrated a small essay about 'cats in flying saucers' — her UAP interest is life-long.",
+        "asserted_by_id": "person-beatriz-villarroel",
+        "source_video_id": "lbGE3EC6StE",
+        "timestamp_start_seconds": 15,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-beatriz-villarroel"
+        ]
+      }
+    },
+    {
+      "id": "claim-lbGE3EC6StE-villarroel-arp-anomalous-redshift-inspiration",
+      "node_type": "claim",
+      "label": "Villarroel was fascinated by Halton Arp's non-cosmological redshift discoveries — interacting galaxy",
+      "summary": "Villarroel was fascinated by Halton Arp's non-cosmological redshift discoveries — interacting galaxy pairs with discordant redshifts challenging Big Bang cosmology. 'The verdict on redshifts is still out.'",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T23:20:40.112584+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 25,
+          "quote": "I was so influenced and fascinated by Halton Arp. He found couples of galaxies exchanging gas but they had completely different redshifts. The verdict on redshifts is still out."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Villarroel was fascinated by Halton Arp's non-cosmological redshift discoveries — interacting galaxy pairs with discordant redshifts challenging Big Bang cosmology. 'The verdict on redshifts is still out.'",
+        "asserted_by_id": "person-beatriz-villarroel",
+        "source_video_id": "lbGE3EC6StE",
+        "timestamp_start_seconds": 25,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-beatriz-villarroel",
+          "person-halton-arp",
+          "concept-non-cosmological-redshift"
+        ]
+      }
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge-video-lbGE3EC6StE-HOSTED_BY-person-jesse-michels",
+      "from_node_id": "video-lbGE3EC6StE",
+      "to_node_id": "person-jesse-michels",
+      "relationship": "HOSTED_BY",
+      "confidence": 0.99,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 0,
+          "quote": "Jesse hosting"
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-APPEARED_IN-video-lbGE3EC6StE",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "video-lbGE3EC6StE",
+      "relationship": "APPEARED_IN",
+      "confidence": 0.99,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 0,
+          "quote": "Host"
+        }
+      ],
+      "properties": {
+        "appearance_type": "host"
+      }
+    },
+    {
+      "id": "edge-video-lbGE3EC6StE-MENTIONS-person-stanton-friedman",
+      "from_node_id": "video-lbGE3EC6StE",
+      "to_node_id": "person-stanton-friedman",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 0,
+          "quote": "ime which is like wild. I mean maybe I'm wrong, right? Like Stanton Friedman unfortunately would have been wrong. Like I don't think thi"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-lbGE3EC6StE-MENTIONS-person-john-f-kennedy",
+      "from_node_id": "video-lbGE3EC6StE",
+      "to_node_id": "person-john-f-kennedy",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 0,
+          "quote": " the 1950s. And actually the same time as Mensel was there, JFK was the on the board of overseers for the astronomer depart"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-lbGE3EC6StE-MENTIONS-person-donald-menzel",
+      "from_node_id": "video-lbGE3EC6StE",
+      "to_node_id": "person-donald-menzel",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 0,
+          "quote": "ren't you just having satellite lints?\" Do you remember Don Menzel? Do you know that name by any chance? Yeah. Famous astronom"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-lbGE3EC6StE-MENTIONS-person-timothy-good",
+      "from_node_id": "video-lbGE3EC6StE",
+      "to_node_id": "person-timothy-good",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 0,
+          "quote": " actually need a hypothesis going in that's actually really good that's good science having an idea of what you're looking f"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-lbGE3EC6StE-MENTIONS-person-allen-dulles",
+      "from_node_id": "video-lbGE3EC6StE",
+      "to_node_id": "person-allen-dulles",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 0,
+          "quote": "or of the CIA John McCone. It was after JFK had fired Allan Dulles and he's asking for data on unknowns because he's worried t"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-lbGE3EC6StE-MENTIONS-person-chan-thomas",
+      "from_node_id": "video-lbGE3EC6StE",
+      "to_node_id": "person-chan-thomas",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 0,
+          "quote": "Atomic Energy Act of 1954 and was very close confidant with Thomas Townsen Brown  who's working on anomalous gravity research."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-lbGE3EC6StE-MENTIONS-person-garry-nolan",
+      "from_node_id": "video-lbGE3EC6StE",
+      "to_node_id": "person-garry-nolan",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 0,
+          "quote": " somebody you know having like at least a larger craft Gary Nolan has in his possession because they were mailed to Jacqu Val"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-lbGE3EC6StE-MENTIONS-organization-the-report-on-unidentified-flying-objects",
+      "from_node_id": "video-lbGE3EC6StE",
+      "to_node_id": "organization-the-report-on-unidentified-flying-objects",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 0,
+          "quote": "really believe that we need to seriously study this kind of objects. Yeah, absolutely. I'm here with Dr. Beatatrice Vioale who "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-lbGE3EC6StE-MENTIONS-organization-identification-studies-of-ufos",
+      "from_node_id": "video-lbGE3EC6StE",
+      "to_node_id": "organization-identification-studies-of-ufos",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 0,
+          "quote": "# Meet the Astronomer Tracking UFOs https://www.youtube.com/watch?v=lbGE3EC6StE views: 193,936 "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-lbGE3EC6StE-MENTIONS-organization-the-flying-saucers-are-real",
+      "from_node_id": "video-lbGE3EC6StE",
+      "to_node_id": "organization-the-flying-saucers-are-real",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 0,
+          "quote": "I think there are a lot of reasons to think it might not be real, but it's it's interesting cuz I there were some people in "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-lbGE3EC6StE-MENTIONS-organization-archives-of-the-impossible",
+      "from_node_id": "video-lbGE3EC6StE",
+      "to_node_id": "organization-archives-of-the-impossible",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 0,
+          "quote": "he entire sky that wasn't possible in the 60s. All that was impossible for them that time or extremely difficult. And today you ha"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-lbGE3EC6StE-MENTIONS-organization-unidentified-flying-object",
+      "from_node_id": "video-lbGE3EC6StE",
+      "to_node_id": "organization-unidentified-flying-object",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 0,
+          "quote": "something. Wow. So, it there's there are no samples of that object because it was so hard. So, they couldn't get a piece out o"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-lbGE3EC6StE-MENTIONS-organization-roswell-that-ends-well",
+      "from_node_id": "video-lbGE3EC6StE",
+      "to_node_id": "organization-roswell-that-ends-well",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 0,
+          "quote": " appreciate it. It's my pleasure and it's a true honor. Oh, well, thank you. how did you get  into space to begin with? Were"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-lbGE3EC6StE-MENTIONS-organization-stanton-t-friedman",
+      "from_node_id": "video-lbGE3EC6StE",
+      "to_node_id": "organization-stanton-t-friedman",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 0,
+          "quote": "ime which is like wild. I mean maybe I'm wrong, right? Like Stanton Friedman unfortunately would have been wrong. Like I don't think thi"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-lbGE3EC6StE-MENTIONS-organization-the-galileo-project",
+      "from_node_id": "video-lbGE3EC6StE",
+      "to_node_id": "organization-the-galileo-project",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 0,
+          "quote": "for extraterrestrial intelligence, which we did through the project by looking for vanishing objects. Mhm. [clears throat] that"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-lbGE3EC6StE-MENTIONS-organization-thornton-leigh-page",
+      "from_node_id": "video-lbGE3EC6StE",
+      "to_node_id": "organization-thornton-leigh-page",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 0,
+          "quote": "alist, just testified in front of Congress, put out this 12-page report, Immaculate Constellation, this program that seemed "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-lbGE3EC6StE-MENTIONS-organization-project-blue-book",
+      "from_node_id": "video-lbGE3EC6StE",
+      "to_node_id": "organization-project-blue-book",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 0,
+          "quote": "tween Truman and Edward J. Rupelt, who was the head of Blue Book at the time. And it was, you had this Washington invasion o"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-lbGE3EC6StE-MENTIONS-organization-raymond-a-palmer",
+      "from_node_id": "video-lbGE3EC6StE",
+      "to_node_id": "organization-raymond-a-palmer",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 0,
+          "quote": "itially but later we just went to the directly to the Mount Palmer images. Got it. And so you're seeing images you're seeing t"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-lbGE3EC6StE-MENTIONS-organization-world-contact-day",
+      "from_node_id": "video-lbGE3EC6StE",
+      "to_node_id": "organization-world-contact-day",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 0,
+          "quote": "super famous astronomer for a very long while who s who one day observed he could see like he found couples of galaxies tha"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-lbGE3EC6StE-MENTIONS-organization-condon-committee",
+      "from_node_id": "video-lbGE3EC6StE",
+      "to_node_id": "organization-condon-committee",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 0,
+          "quote": "ard Condan  went on to do a hit job on UFOs with the Condan Committee, which killed Blue Book. So it was literally Menzel's like "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-lbGE3EC6StE-MENTIONS-organization-us-air-force",
+      "from_node_id": "video-lbGE3EC6StE",
+      "to_node_id": "organization-us-air-force",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 0,
+          "quote": "the most famous UFO debunker. Absolutely. And he helped the US Air Force to debunk the Washington 1952 flap. Y and two or 3 months a"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-lbGE3EC6StE-MENTIONS-organization-big-sur-ufo",
+      "from_node_id": "video-lbGE3EC6StE",
+      "to_node_id": "organization-big-sur-ufo",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 0,
+          "quote": "ocean. So, they found this thing that looked like a crashed UFO or looked like an artificial structure outside the Swedish "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-lbGE3EC6StE-MENTIONS-organization-majestic-12",
+      "from_node_id": "video-lbGE3EC6StE",
+      "to_node_id": "organization-majestic-12",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 0,
+          "quote": "nly you find that his name is famous for the so-called MJ12 majestic 12 and you start wondering of course I mean I can't help it bu"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-lbGE3EC6StE-MENTIONS-organization-us-navy",
+      "from_node_id": "video-lbGE3EC6StE",
+      "to_node_id": "organization-us-navy",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 0,
+          "quote": "ike lots of imagery from 1950 and also a catalog called the US Navy catalog and then we had images of the sky as it looks today"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-lbGE3EC6StE-MENTIONS-organization-cia",
+      "from_node_id": "video-lbGE3EC6StE",
+      "to_node_id": "organization-cia",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 0,
+          "quote": "ment in 2005 and it was  from JFK to acting director of the CIA John McCone. It was after JFK had fired Allan Dulles and he"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-lbGE3EC6StE-MENTIONS-location-pacific-training-area",
+      "from_node_id": "video-lbGE3EC6StE",
+      "to_node_id": "location-pacific-training-area",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 0,
+          "quote": "eally weird because we don't have volcanic activity in that area. We need the actual physical proof and I don't think any go"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-lbGE3EC6StE-MENTIONS-location-roswell-new-mexico",
+      "from_node_id": "video-lbGE3EC6StE",
+      "to_node_id": "location-roswell-new-mexico",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 0,
+          "quote": " looking for more  support to set up more telescopes in New Mexico where we have our telescope. I think I didn't [clears throa"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-lbGE3EC6StE-MENTIONS-location-united-states",
+      "from_node_id": "video-lbGE3EC6StE",
+      "to_node_id": "location-united-states",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 0,
+          "quote": "se that one discusses those that I want discussed regarding United States. So where is the information and what can we learn about al"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-lbGE3EC6StE-MENTIONS-location-roswell",
+      "from_node_id": "video-lbGE3EC6StE",
+      "to_node_id": "location-roswell",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 0,
+          "quote": "objects from  an Uba tuba crash in Brazil and you know from Roswell you have bits and pieces of you know possible stuff but you"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-lbGE3EC6StE-MENTIONS-location-brazil",
+      "from_node_id": "video-lbGE3EC6StE",
+      "to_node_id": "location-brazil",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 0,
+          "quote": "ectrometry on them these objects from  an Uba tuba crash in Brazil and you know from Roswell you have bits and pieces of you k"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-lbGE3EC6StE-MENTIONS-location-mexico",
+      "from_node_id": "video-lbGE3EC6StE",
+      "to_node_id": "location-mexico",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 0,
+          "quote": " looking for more  support to set up more telescopes in New Mexico where we have our telescope. I think I didn't [clears throa"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-lbGE3EC6StE-MENTIONS-program-mj-12",
+      "from_node_id": "video-lbGE3EC6StE",
+      "to_node_id": "program-mj-12",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 0,
+          "quote": "suddenly you find that his name is famous for the so-called MJ12 majestic 12 and you start wondering of course I mean I can'"
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-lbGE3EC6StE-discussion-summary",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-lbGE3EC6StE-discussion-summary",
+      "relationship": "ASSERTED",
+      "confidence": 0.9,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 0,
+          "quote": "Episode: Meet the Astronomer Tracking UFOs"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-lbGE3EC6StE-REFERENCES-claim-lbGE3EC6StE-discussion-summary",
+      "from_node_id": "video-lbGE3EC6StE",
+      "to_node_id": "claim-lbGE3EC6StE-discussion-summary",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 0
+        }
+      ]
+    },
+    {
+      "id": "edge-person-beatriz-villarroel-ASSERTED-claim-lbGE3EC6StE-villarroel-baltic-artifact-worth-study",
+      "from_node_id": "person-beatriz-villarroel",
+      "to_node_id": "claim-lbGE3EC6StE-villarroel-baltic-artifact-worth-study",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 7,
+          "quote": "Per Villarroel: the alleged Swedish-coast crashed structure — covered in burned biological material, sliding into the ocean — may be the best-candidate non-human artifact available for scientific anal"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-lbGE3EC6StE-REFERENCES-claim-lbGE3EC6StE-villarroel-baltic-artifact-worth-study",
+      "from_node_id": "video-lbGE3EC6StE",
+      "to_node_id": "claim-lbGE3EC6StE-villarroel-baltic-artifact-worth-study",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 7
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-lbGE3EC6StE-villarroel-baltic-artifact-worth-study-REFERENCES-incident-baltic-sea-burned-biological-material",
+      "from_node_id": "claim-lbGE3EC6StE-villarroel-baltic-artifact-worth-study",
+      "to_node_id": "incident-baltic-sea-burned-biological-material",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 7
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-lbGE3EC6StE-villarroel-baltic-artifact-worth-study-REFERENCES-incident-2011-baltic-sea-anomaly",
+      "from_node_id": "claim-lbGE3EC6StE-villarroel-baltic-artifact-worth-study",
+      "to_node_id": "incident-2011-baltic-sea-anomaly",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 7
+        }
+      ]
+    },
+    {
+      "id": "edge-person-beatriz-villarroel-ASSERTED-claim-lbGE3EC6StE-villarroel-flying-saucer-cats-child-essay",
+      "from_node_id": "person-beatriz-villarroel",
+      "to_node_id": "claim-lbGE3EC6StE-villarroel-flying-saucer-cats-child-essay",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 15,
+          "quote": "Villarroel's charming backstory: at age 6-7 she had already written and illustrated a small essay about 'cats in flying saucers' — her UAP interest is life-long."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-lbGE3EC6StE-REFERENCES-claim-lbGE3EC6StE-villarroel-flying-saucer-cats-child-essay",
+      "from_node_id": "video-lbGE3EC6StE",
+      "to_node_id": "claim-lbGE3EC6StE-villarroel-flying-saucer-cats-child-essay",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 15
+        }
+      ]
+    },
+    {
+      "id": "edge-person-beatriz-villarroel-ASSERTED-claim-lbGE3EC6StE-villarroel-arp-anomalous-redshift-inspiration",
+      "from_node_id": "person-beatriz-villarroel",
+      "to_node_id": "claim-lbGE3EC6StE-villarroel-arp-anomalous-redshift-inspiration",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 25,
+          "quote": "Villarroel was fascinated by Halton Arp's non-cosmological redshift discoveries — interacting galaxy pairs with discordant redshifts challenging Big Bang cosmology. 'The verdict on redshifts is still "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-lbGE3EC6StE-REFERENCES-claim-lbGE3EC6StE-villarroel-arp-anomalous-redshift-inspiration",
+      "from_node_id": "video-lbGE3EC6StE",
+      "to_node_id": "claim-lbGE3EC6StE-villarroel-arp-anomalous-redshift-inspiration",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 25
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-lbGE3EC6StE-villarroel-arp-anomalous-redshift-inspiration-REFERENCES-person-halton-arp",
+      "from_node_id": "claim-lbGE3EC6StE-villarroel-arp-anomalous-redshift-inspiration",
+      "to_node_id": "person-halton-arp",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 25
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-lbGE3EC6StE-villarroel-arp-anomalous-redshift-inspiration-REFERENCES-concept-non-cosmological-redshift",
+      "from_node_id": "claim-lbGE3EC6StE-villarroel-arp-anomalous-redshift-inspiration",
+      "to_node_id": "concept-non-cosmological-redshift",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "lbGE3EC6StE",
+          "timestamp_start": 25
+        }
+      ]
+    }
+  ],
+  "extracted_at": "2026-04-17T23:20:40.112591+00:00",
+  "extractor_version": "v1-inline-claude"
+}

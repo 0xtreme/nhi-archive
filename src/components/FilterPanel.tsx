@@ -7,10 +7,12 @@ interface FilterPanelProps {
   maxYear: number;
   availableTags: string[];
   availableClassifications: string[];
+  availablePipelineSources: string[];
   onToggleNodeType: (nodeType: NodeType) => void;
   onToggleConfidence: (confidence: Confidence) => void;
   onToggleClassification: (classification: string) => void;
   onToggleTag: (tag: string) => void;
+  onTogglePipelineSource: (pipelineSource: string) => void;
   onDateFromChange: (year: number) => void;
   onDateToChange: (year: number) => void;
   onGraphNodeCapChange: (value: number) => void;
@@ -23,10 +25,12 @@ export function FilterPanel({
   maxYear,
   availableTags,
   availableClassifications,
+  availablePipelineSources,
   onToggleNodeType,
   onToggleConfidence,
   onToggleClassification,
   onToggleTag,
+  onTogglePipelineSource,
   onDateFromChange,
   onDateToChange,
   onGraphNodeCapChange,
@@ -115,6 +119,25 @@ export function FilterPanel({
           <small>Limits visible graph nodes to keep navigation responsive.</small>
         </div>
       </section>
+
+      {availablePipelineSources.length > 0 && (
+        <section>
+          <h3>Data Source</h3>
+          <div className="chip-grid">
+            {availablePipelineSources.map((src) => (
+              <button
+                key={src}
+                className={filters.pipelineSources.includes(src) ? 'chip active' : 'chip'}
+                onClick={() => onTogglePipelineSource(src)}
+                title={src}
+              >
+                {src}
+              </button>
+            ))}
+          </div>
+          <small>Toggle pipelines (e.g. transcripts vs wikipedia vs global feed).</small>
+        </section>
+      )}
 
       {availableClassifications.length > 0 && (
         <section>

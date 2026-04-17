@@ -17,6 +17,16 @@ export const NODE_TYPE_ORDER: NodeType[] = [
   'designation',
   'event',
   'media',
+  'video',
+  'program',
+  'document',
+  'concept',
+  'phenomenon',
+  'technology',
+  'claim',
+  'role',
+  'testimony',
+  'citation',
 ];
 
 export const CONFIDENCE_ORDER: Confidence[] = ['high', 'medium', 'low', 'disputed'];
@@ -32,6 +42,16 @@ export const NODE_COLORS: Record<NodeType, string> = {
   designation: '#A892B8',
   event: '#8FB07A',
   media: '#6FA9B8',
+  video: '#E08A8A',
+  program: '#B887D8',
+  document: '#D8C987',
+  concept: '#87D8C8',
+  phenomenon: '#C987D8',
+  technology: '#87A5D8',
+  claim: '#D8B087',
+  role: '#A0A0A0',
+  testimony: '#B0B0B0',
+  citation: '#C0C0C0',
 };
 
 export const RELATION_COLORS: Record<string, string> = {
@@ -167,6 +187,14 @@ export function buildDefaultFilters(nodes: ArchiveNode[]): FilterState {
   const minYear = years.length ? Math.min(...years) : 1900;
   const maxYear = years.length ? Math.max(...years) : new Date().getFullYear();
 
+  const pipelineSources = Array.from(
+    new Set(
+      nodes
+        .map((n) => (n as ArchiveNode & { pipeline_source?: string }).pipeline_source)
+        .filter((s): s is string => typeof s === 'string' && s.length > 0),
+    ),
+  );
+
   return {
     nodeTypes: [...NODE_TYPE_ORDER],
     confidences: [...CONFIDENCE_ORDER],
@@ -174,8 +202,18 @@ export function buildDefaultFilters(nodes: ArchiveNode[]): FilterState {
     dateTo: maxYear,
     classifications: [],
     tags: [],
+    pipelineSources,
     graphNodeCap: DEFAULT_GRAPH_NODE_CAP,
   };
+}
+
+export function collectPipelineSources(nodes: ArchiveNode[]): string[] {
+  const set = new Set<string>();
+  for (const n of nodes) {
+    const ps = (n as ArchiveNode & { pipeline_source?: string }).pipeline_source;
+    if (typeof ps === 'string' && ps.length > 0) set.add(ps);
+  }
+  return Array.from(set).sort();
 }
 
 export function filterGraph(
@@ -212,6 +250,13 @@ export function filterGraph(
     if (filters.tags.length > 0) {
       const hasAnyTag = filters.tags.some((tag) => node.tags.includes(tag));
       if (!hasAnyTag) {
+        return false;
+      }
+    }
+
+    if (filters.pipelineSources && filters.pipelineSources.length > 0) {
+      const ps = (node as ArchiveNode & { pipeline_source?: string }).pipeline_source;
+      if (ps && !filters.pipelineSources.includes(ps)) {
         return false;
       }
     }

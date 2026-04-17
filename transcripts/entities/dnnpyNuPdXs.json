@@ -1,0 +1,2895 @@
+{
+  "video_id": "dnnpyNuPdXs",
+  "nodes": [
+    {
+      "id": "video-dnnpyNuPdXs",
+      "node_type": "video",
+      "label": "\"I Retrieved a UFO With My Helicopter!\" -Jake Barber Tells All",
+      "summary": "Join Jesse Michels as he sits down for an exclusive interview with Jake Barber, a former intelligence officer and whistleblower who shares his experiences with Unidentified Aerial Phenomena...",
+      "tags": [
+        "video",
+        "american-alchemy"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:14.703422+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "timestamp_end": 11051.0,
+          "quote": "Video: \"I Retrieved a UFO With My Helicopter!\" -Jake Barber Tells All"
+        }
+      ],
+      "type_specific": {
+        "video_id": "dnnpyNuPdXs",
+        "title": "\"I Retrieved a UFO With My Helicopter!\" -Jake Barber Tells All",
+        "url": "https://www.youtube.com/watch?v=dnnpyNuPdXs",
+        "view_count": 878978,
+        "duration_seconds": 11051.0,
+        "host_id": "person-jesse-michels"
+      }
+    },
+    {
+      "id": "person-jesse-michels",
+      "node_type": "person",
+      "label": "Jesse Michels",
+      "summary": "Host of American Alchemy podcast/show. Independent journalist and UFO/NHI researcher.",
+      "tags": [
+        "journalist",
+        "interviewer",
+        "researcher",
+        "host"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:14.703448+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": "Host of American Alchemy podcast/show."
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Jesse",
+          "Michels"
+        ],
+        "profession": "journalist",
+        "notability_tags": [
+          "journalist",
+          "interviewer",
+          "researcher",
+          "host"
+        ]
+      }
+    },
+    {
+      "id": "person-robert-hastings",
+      "node_type": "person",
+      "label": "Robert Hastings",
+      "summary": "",
+      "tags": [
+        "researcher",
+        "author",
+        "UFOs and Nukes"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:15.637533+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": " You have a great book called UFOs and nukes by a guy named Robert Hastings. Hastings. Yeah. 167 ICBM security personnel, radar  operat"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Hastings"
+        ],
+        "notability_tags": [
+          "researcher",
+          "author",
+          "UFOs and Nukes"
+        ]
+      }
+    },
+    {
+      "id": "person-john-f-kennedy",
+      "node_type": "person",
+      "label": "John F. Kennedy",
+      "summary": "",
+      "tags": [
+        "president",
+        "historical"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:15.637550+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": "ure. Obviously, the proverbally famous example would be the JFK case. Was that somewhat of an inside job? Are there any det"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "JFK",
+          "Kennedy"
+        ],
+        "notability_tags": [
+          "president",
+          "historical"
+        ]
+      }
+    },
+    {
+      "id": "person-eric-weinstein",
+      "node_type": "person",
+      "label": "Eric Weinstein",
+      "summary": "",
+      "tags": [
+        "mathematician",
+        "physicist"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:15.637555+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": " completely uncut, heated discussion between Hal Putoff and Eric Weinstein on remote viewing. Yeah, you heard that right. I still can'"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Weinstein"
+        ],
+        "notability_tags": [
+          "mathematician",
+          "physicist"
+        ]
+      }
+    },
+    {
+      "id": "person-stephen-greer",
+      "node_type": "person",
+      "label": "Stephen Greer",
+      "summary": "",
+      "tags": [
+        "researcher",
+        "disclosure"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:15.637560+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": " there was this at the National Press Club hosted by Steven Greer. there were several whistleblowers that had decided to come"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Dr. Greer",
+          "Greer"
+        ],
+        "notability_tags": [
+          "researcher",
+          "disclosure"
+        ]
+      }
+    },
+    {
+      "id": "person-bill-clinton",
+      "node_type": "person",
+      "label": "Bill Clinton",
+      "summary": "Bill Clinton entity extracted from cross-source archival records.",
+      "tags": [
+        "pipeline-generated",
+        "entity-extracted"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:15.637564+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": " was working as an airplane mechanic., I came in during the Clinton era and that's no coincidence. that had a lot to do with th"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "BILL CLINTON",
+          "Clinton",
+          "bill clinton"
+        ],
+        "notability_tags": [
+          "pipeline-generated",
+          "entity-extracted"
+        ]
+      }
+    },
+    {
+      "id": "person-james-harder",
+      "node_type": "person",
+      "label": "James Harder",
+      "summary": "James Albert Harder, Ph.D., (December 2, 1926 – December 30, 2006) was a professor of civil and hydraulic engineering at the University of California, Berkeley. He was a professor emeritus there. Harder also had interest in ufology.",
+      "tags": [
+        "wikipedia",
+        "california institute of technology alumni",
+        "people from fullerton, california",
+        "uc berkeley college of engineering faculty",
+        "ufologists",
+        "university of california, berkeley alumni"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:15.637569+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": "bout what information and why and then begin to either push harder and assume that when we hit walls and limitations that secr"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Harder",
+          "JAMES HARDER",
+          "james harder"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "california institute of technology alumni",
+          "people from fullerton, california",
+          "uc berkeley college of engineering faculty",
+          "ufologists",
+          "university of california, berkeley alumni"
+        ]
+      }
+    },
+    {
+      "id": "person-love-has-won",
+      "node_type": "person",
+      "label": "Love Has Won",
+      "summary": "Love Has Won (LHW), also known as the Galactic Federation of Light, is an American new religious movement that was led by Amy Carlson until her death in 2021. Carlson was referred to within the group as \"Mother God\", who described herself as, among other things, the creator of the universe, with the",
+      "tags": [
+        "wikipedia",
+        "2007 establishments in colorado",
+        "ancient astronaut speculation",
+        "covid-19 vaccine misinformation and hesitancy",
+        "climate change denial in the united states",
+        "holocaust denial in the united states",
+        "new age organizations",
+        "new religious movements established in the 2000s",
+        "qanon",
+        "religious belief systems founded in the united states",
+        "religious controversies in the united states",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:15.637573+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": "d to do art and music and had entered a science contest and won a state science fair based on a project I had done. What wa"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "LOVE HAS WON",
+          "Won",
+          "love has won"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "2007 establishments in colorado",
+          "ancient astronaut speculation",
+          "covid-19 vaccine misinformation and hesitancy",
+          "climate change denial in the united states",
+          "holocaust denial in the united states",
+          "new age organizations",
+          "new religious movements established in the 2000s",
+          "qanon",
+          "religious belief systems founded in the united states",
+          "religious controversies in the united states",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "person-riley-martin",
+      "node_type": "person",
+      "label": "Riley Martin",
+      "summary": "Riley Lee Martin (May 9, 1946 – December 22, 2015) was an American self-described alien contactee, author and radio host. Martin was the author of the book The Coming of Tan, which describes his life and his alleged alien visitation. He hosted The Riley Martin Show on the Sirius XM Radio channel How",
+      "tags": [
+        "wikipedia",
+        "20th-century african-american people",
+        "african-american radio personalities",
+        "american conspiracy theorists",
+        "american outsider artists",
+        "american people who self-identify as being of native american descent",
+        "contactees",
+        "people from natchez, mississippi",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:15.637577+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": "orical faction where he's dealing with executives at Loheed Martin and other places and writing about crash retrievals and oth"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Martin",
+          "RILEY MARTIN",
+          "riley martin"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "20th-century african-american people",
+          "african-american radio personalities",
+          "american conspiracy theorists",
+          "american outsider artists",
+          "american people who self-identify as being of native american descent",
+          "contactees",
+          "people from natchez, mississippi",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "person-timothy-good",
+      "node_type": "person",
+      "label": "Timothy Good",
+      "summary": "",
+      "tags": [
+        "researcher",
+        "author"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:15.637582+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": "O firsthand, a firsthand witness. The energy is just really good. It's perfect for How are you, dude? Not at all. A lot of s"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Tim Good",
+          "Good"
+        ],
+        "notability_tags": [
+          "researcher",
+          "author"
+        ]
+      }
+    },
+    {
+      "id": "person-allen-dulles",
+      "node_type": "person",
+      "label": "Allen Dulles",
+      "summary": "",
+      "tags": [
+        "CIA",
+        "historical"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:15.637586+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": "John McCone, who is the new CIA director. he had just fired Dulles and he's saying we actually need to coordinate with the Rus"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Dulles"
+        ],
+        "notability_tags": [
+          "CIA",
+          "historical"
+        ]
+      }
+    },
+    {
+      "id": "person-chan-thomas",
+      "node_type": "person",
+      "label": "Chan Thomas",
+      "summary": "Chan Thomas (1920–1998) was an American engineer, ufologist, writer on ancient cataclysms, and self-proclaimed polymath whose ideas have influenced conspiracy theorists in the 21st century.",
+      "tags": [
+        "wikipedia",
+        "20th-century american engineers",
+        "mcdonnell douglas people",
+        "ufologists",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:15.637591+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": "of entrepreneurs and he said go just watch Jesse's video on Thomas Towns and Brown. And so to me that is as much confirmation "
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "CHAN THOMAS",
+          "Thomas",
+          "chan thomas"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "20th-century american engineers",
+          "mcdonnell douglas people",
+          "ufologists",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "person-garry-nolan",
+      "node_type": "person",
+      "label": "Garry Nolan",
+      "summary": "Garry P. Nolan (born c. 1961) is a British-American immunologist, academic, inventor, and business executive. He holds the Rachford and Carlota A. Harris Professor Endowed Chair in the Department of Pathology at Stanford University School of Medicine. Nolan has founded biotechnology companies. Since",
+      "tags": [
+        "wikipedia",
+        "1960s births",
+        "american cancer researchers",
+        "american immunologists",
+        "american pathologists",
+        "british cancer researchers",
+        "british immunologists",
+        "cornell university alumni",
+        "pages with broken reference names",
+        "pages with reference errors",
+        "serologists",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:15.637595+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": "le when I tell this story, especially friends like Dr. Gary Nolan, who's who helps me with this issue now., but real quick, j"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "GARRY NOLAN",
+          "Nolan",
+          "garry nolan"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "1960s births",
+          "american cancer researchers",
+          "american immunologists",
+          "american pathologists",
+          "british cancer researchers",
+          "british immunologists",
+          "cornell university alumni",
+          "pages with broken reference names",
+          "pages with reference errors",
+          "serologists",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "person-harry-reid",
+      "node_type": "person",
+      "label": "Harry Reid",
+      "summary": "Harry Reid entity extracted from cross-source archival records.",
+      "tags": [
+        "pipeline-generated",
+        "entity-extracted"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:15.637599+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": "SAP program which ran from 2007 to 2012 under the opices of Harry Reid a lot of these guys were digging holes and looking into kin"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "HARRY REID",
+          "Reid",
+          "harry reid"
+        ],
+        "notability_tags": [
+          "pipeline-generated",
+          "entity-extracted"
+        ]
+      }
+    },
+    {
+      "id": "person-nick-pope",
+      "node_type": "person",
+      "label": "Nick Pope",
+      "summary": "Nick Pope entity extracted from cross-source archival records.",
+      "tags": [
+        "pipeline-generated",
+        "entity-extracted"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:15.637603+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": "chanic school. Upon completing that, I reported directly to Pope Air Force Base in North Carolina., when I was there, you kn"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "NICK POPE",
+          "Pope",
+          "nick pope"
+        ],
+        "notability_tags": [
+          "pipeline-generated",
+          "entity-extracted"
+        ]
+      }
+    },
+    {
+      "id": "organization-the-report-on-unidentified-flying-objects",
+      "node_type": "organization",
+      "label": "The Report on Unidentified Flying Objects",
+      "summary": "The Report on Unidentified Flying Objects is a 1956 book by then-retired Air Force UFO investigator Edward J. Ruppelt, detailing his experience running Project Blue Book. The book was noted for its suggestion that a few UFO sightings might be linked to spikes of atomic radiation. Contemporary media ",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:15.637609+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": "nnpyNuPdXs  For thousands of years, people have been seeing objects in the sky that they can't identify. And today, we have som"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-1952-washington-d-c-ufo-incident",
+      "node_type": "organization",
+      "label": "1952 Washington, D.C. UFO incident",
+      "summary": "From July 12 to 29, 1952, a series of unidentified flying object (UFO) sightings were reported in Washington, D.C., and later became known as the Washington flap, the Washington National Airport Sightings, or the Invasion of Washington. The most publicized sightings took place on consecutive weekend",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:15.637614+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": ", since its inception in 1947, like two weeks after Roswell incident, you get the National Security  Act, you get the formation "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-identification-studies-of-ufos",
+      "node_type": "organization",
+      "label": "Identification studies of UFOs",
+      "summary": "Identifying unidentified flying objects (UFOs) is a difficult task due to the normally poor quality of the evidence provided by those who report sighting the unknown object. Observations and subsequent reporting are often made by those untrained in astronomy, atmospheric phenomena, aeronautics, phys",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:15.637619+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": "to American government, other government's involvement with UFOs. And today, we have somebody who has actually witness. And "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-lakenheath-bentwaters-incident",
+      "node_type": "organization",
+      "label": "Lakenheath-Bentwaters incident",
+      "summary": "The Lakenheath-Bentwaters Incident was a series of radar and visual contacts with unidentified flying objects over airbases in eastern England on the night of 13–14 August 1956, involving personnel from the Royal Air Force (RAF) and the United States Air Force (USAF). The incident has since gained s",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:15.637624+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": ", since its inception in 1947, like two weeks after Roswell incident, you get the National Security  Act, you get the formation "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-the-flying-saucers-are-real",
+      "node_type": "organization",
+      "label": "The Flying Saucers Are Real",
+      "summary": "The Flying Saucers Are Real, by Donald Keyhoe, is a book that investigated reports of UFOs by United States Air Force fighters, personnel, and other aircraft, between 1947 and 1950.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:15.637628+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": "et read a description of what it is I'm picking up. It's so real when you look at it. It's not like in the background you're"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-unidentified-flying-object",
+      "node_type": "organization",
+      "label": "Unidentified flying object",
+      "summary": "An unidentified flying object (UFO) is an object or phenomenon seen in the sky but not yet identified or explained. The term was coined when United States Air Force (USAF) investigations into flying saucers found too broad a range of shapes reported to consider them all saucers or discs. UFOs are al",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:15.637632+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": "ard or what we call sobs, souls on board and it was just an object and yeah took it to a drop point which was about 15 miles a"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-us-department-of-defense",
+      "node_type": "organization",
+      "label": "US Department of Defense",
+      "summary": "US Department of Defense entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:15.637636+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": "ation of the Air Force, CIA at the same time, Department of Defense, and the Air Force has been that agency that straddled the "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-lonnie-zamora-incident",
+      "node_type": "organization",
+      "label": "Lonnie Zamora incident",
+      "summary": "The Lonnie Zamora incident was an alleged UFO sighting that occurred on April 24, 1964 near Socorro, New Mexico when Socorro police officer Lonnie Zamora claimed he saw two people beside a shiny object that later rose into the air accompanied by a roaring blue and orange flame. Zamora's claims were ",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:15.637641+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": ", since its inception in 1947, like two weeks after Roswell incident, you get the National Security  Act, you get the formation "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-roswell-that-ends-well",
+      "node_type": "organization",
+      "label": "Roswell That Ends Well",
+      "summary": "\"Roswell That Ends Well\" is the nineteenth episode in the third season of the American animated television series Futurama, and the 51st episode of the series overall. It originally aired on the Fox network in the United States on December 9, 2001. The plot centers on an accidental time travel event",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:15.637645+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": "s bring it all the way back to your childhoods. Okay. Yeah. Well, man, I mean, first thing I should say is like looking back"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-the-galileo-project",
+      "node_type": "organization",
+      "label": "The Galileo Project",
+      "summary": "The Galileo Project is an international scientific research project to search for extraterrestrial intelligence or extraterrestrial technology on and near Earth and to identify the nature of anomalous Unidentified Flying Objects/Unidentified Aerial Phenomena (UFOs/UAP). It was launched in 2021 by Ha",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:15.637650+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": "d a science contest and won a state science fair based on a project I had done. What was the project? it's called color cords. "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-project-blue-book",
+      "node_type": "organization",
+      "label": "Project Blue Book",
+      "summary": "USAF UFO investigation program active from 1952 to 1969.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:15.637654+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": " get asked that a lot is like, you know, I'll paraphrase a  book from Matthew. I think it is like you will know me by my fru"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-world-contact-day",
+      "node_type": "organization",
+      "label": "World Contact Day",
+      "summary": "World Contact Day was first declared in March 1953 by an organization called the International Flying Saucer Bureau (IFSB), as a day on which all IFSB members would attempt to send a telepathic message into space. The IFSB voted to hold such a day in 1953, theorising that if both telepathy and alien",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:15.637659+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": "reak out on  News Nation hopefully with this week and every day that it doesn't go live there's more danger is life. So tel"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-condon-committee",
+      "node_type": "organization",
+      "label": "Condon Committee",
+      "summary": "Condon Committee entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:15.637663+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": "ice of arrow directly to members of the Senate Intelligence Committee that it did in fact happen exactly as reported by Michael H"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-steven-m-greer",
+      "node_type": "organization",
+      "label": "Steven M. Greer",
+      "summary": "Steven Macon Greer (born 1955) is an American ufologist and a retired physician. He founded the Center for the Study of Extraterrestrial Intelligence (CSETI) and the Disclosure Project, which claims to seek the disclosure of alleged classified UFO information.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:15.637667+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": "nd then there was this at the National Press Club hosted by Steven Greer. there were several whistleblowers that had decided to come"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-scp-foundation",
+      "node_type": "organization",
+      "label": "SCP Foundation",
+      "summary": "The SCP Foundation is a fictional organization featured in stories created by contributors on the SCP Wiki, a wiki-based collaborative writing project, launched in 2008. Within the project's shared universe, the SCP (Special Containment Procedures) Foundation is a secret organization that is respons",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:15.637671+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": "., he and my other grandfather, Army grandpa. they laid the foundation to our fam literally put the cornerstone in took had their "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-us-air-force",
+      "node_type": "organization",
+      "label": "US Air Force",
+      "summary": "US Air Force entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:15.637675+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": "my house and think you're going to be successful with brute force because that's going to go south for you really quickly. It"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-big-sur-ufo",
+      "node_type": "organization",
+      "label": "Big Sur UFO",
+      "summary": "The Big Sur UFO is a reported UFO incident that took place during a 1964 Air Force deployment to a mountaintop near Big Sur, California. The deployment was a mission was to film Atlas missile tests from Vandenberg Air Force Base. Since 1982, Robert Jacobs, who had overseen the mountaintop team, has ",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:15.637679+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": "# \"I Retrieved a UFO With My Helicopter!\" -Jake Barber Tells All https://www.you"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-mirage-men",
+      "node_type": "organization",
+      "label": "Mirage Men",
+      "summary": "Mirage Men is a 2013 documentary film directed by John Lundberg, written by Mark Pilkington and co-directed by Roland Denning and Kypros Kyprianou. Mirage Men suggests there was a conspiracy by the U.S. military to fabricate UFO folklore in order to deflect attention from classified military project",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:15.637684+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": "t, intuition, and instincts. my grandfathers were the  best men you could ever imagine., I had, you know, we could call him"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-us-navy",
+      "node_type": "organization",
+      "label": "US Navy",
+      "summary": "US Navy entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:15.637688+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": "you could ever imagine., I had, you know, we could call him Navy grandpa and army grandpa. Let's do that. So, Navy grandpa w"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-cia",
+      "node_type": "organization",
+      "label": "CIA",
+      "summary": "CIA entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:15.637693+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": "onal Security  Act, you get the formation of the Air Force, CIA at the same time, Department of Defense, and the Air Force "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other",
+        "acronym": "CIA"
+      }
+    },
+    {
+      "id": "organization-fbi",
+      "node_type": "organization",
+      "label": "FBI",
+      "summary": "FBI entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:15.637697+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": "istleblowers that we were trying to basically report to the FBI and get arrested because at that time I was in this weird p"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other",
+        "acronym": "FBI"
+      }
+    },
+    {
+      "id": "organization-dod",
+      "node_type": "organization",
+      "label": "DoD",
+      "summary": "",
+      "tags": [
+        "government_agency"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:15.637701+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": "copter operating companies and held many contracts with the DoD, Department of Interior, State Department and other other l"
+        }
+      ],
+      "type_specific": {
+        "org_type": "government_agency",
+        "full_name": "Department of Defense"
+      }
+    },
+    {
+      "id": "location-pacific-training-area",
+      "node_type": "location",
+      "label": "Pacific Training Area",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:15.637706+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": " same emotions? It was really cool. I did well in our local area and I kept I went on to county and then I went on to the st"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-roswell-new-mexico",
+      "node_type": "location",
+      "label": "Roswell, New Mexico",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:15.637710+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": " sovereign nation close to White Sands missile range in New Mexico. And lest the audience be skeptical of this left turn into "
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-rendlesham-forest",
+      "node_type": "location",
+      "label": "Rendlesham Forest",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:15.637714+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": "Yeah, he did. Specifically, what's the guy from Rendlessham Forest in 1980?, John Burroughs. John Burroughs and Jim Penniston."
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-skinwalker-ranch",
+      "node_type": "location",
+      "label": "Skinwalker Ranch",
+      "summary": "",
+      "tags": [
+        "ranch"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:15.637718+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": "king into kind of exotic weaponry and they were doing it on Skinwalker Ranch and a lot of them reported this quote unquote hitchhiker ef"
+        }
+      ],
+      "type_specific": {
+        "location_type": "ranch",
+        "country": "US",
+        "state_or_region": "Utah"
+      }
+    },
+    {
+      "id": "location-united-states",
+      "node_type": "location",
+      "label": "United States",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:15.637722+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": "operators, guys that work at these nuclear bases across the United States and in some cases they're joint nuclear bases in the UK and"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-roswell",
+      "node_type": "location",
+      "label": "Roswell",
+      "summary": "",
+      "tags": [
+        "city"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:15.637725+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": " call it, since its inception in 1947, like two weeks after Roswell incident, you get the National Security  Act, you get the f"
+        }
+      ],
+      "type_specific": {
+        "location_type": "city",
+        "country": "US",
+        "state_or_region": "New Mexico"
+      }
+    },
+    {
+      "id": "location-brazil",
+      "node_type": "location",
+      "label": "Brazil",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:15.637729+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": " called Moment of Contact. Everybody in this little town in Brazil reports seeing an egg landing and it seems to be emitting t"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-mexico",
+      "node_type": "location",
+      "label": "Mexico",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:15.637733+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": " sovereign nation close to White Sands missile range in New Mexico. And lest the audience be skeptical of this left turn into "
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-russia",
+      "node_type": "location",
+      "label": "Russia",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:15.637737+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": "these disperate pockets and you're competing with China and Russia that it's actually maladaptive from a national security sta"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "document-ufos-and-nukes",
+      "node_type": "document",
+      "label": "UFOs and Nukes",
+      "summary": "",
+      "tags": [
+        "book"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:15.637741+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": "didn't take place in a vacuum. You have a great book called UFOs and nukes by a guy named Robert Hastings. Hastings. Yeah. 167 ICBM se"
+        }
+      ],
+      "type_specific": {
+        "document_type": "book",
+        "author": "Robert Hastings"
+      }
+    },
+    {
+      "id": "claim-dnnpyNuPdXs-discussion-summary",
+      "node_type": "claim",
+      "label": "Video dnnpyNuPdXs features extended discussion of Robert Hastings, John F. Kennedy, Eric Weinstein a",
+      "summary": "Video dnnpyNuPdXs features extended discussion of Robert Hastings, John F. Kennedy, Eric Weinstein and related UAP research topics, hosted by Jesse Michels.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:15.637752+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": "Episode title: \"I Retrieved a UFO With My Helicopter!\" -Jake Barber Tells All"
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Video dnnpyNuPdXs features extended discussion of Robert Hastings, John F. Kennedy, Eric Weinstein and related UAP research topics, hosted by Jesse Michels.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "dnnpyNuPdXs",
+        "timestamp_start_seconds": 0,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-robert-hastings",
+          "person-john-f-kennedy",
+          "person-eric-weinstein",
+          "video-dnnpyNuPdXs"
+        ]
+      }
+    },
+    {
+      "id": "person-jake-barber",
+      "node_type": "person",
+      "label": "Jake Barber",
+      "summary": "Former USAF Combat Control operator. Claims he piloted helicopters to retrieve non-human-origin craft ('eggs'); signed a 10-year Guaranteed Training Education (GTE) contract in 1994 at age 17.",
+      "tags": [
+        "whistleblower",
+        "USAF",
+        "pilot",
+        "AARO"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.485608+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 157,
+          "quote": "Former USAF Combat Control helicopter pilot claiming firsthand UFO retrieval"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Barber"
+        ],
+        "profession": "military veteran / pilot",
+        "notability_tags": [
+          "whistleblower",
+          "USAF",
+          "pilot",
+          "AARO"
+        ]
+      }
+    },
+    {
+      "id": "program-gte-air-force-10year",
+      "node_type": "program",
+      "label": "USAF Guaranteed Training Education (GTE)",
+      "summary": "USAF Guaranteed Training Education program — a 10-year fasttrack contract for special-operations/Combat-Control training, historically unusual. Barber signed at age 17 in 1994.",
+      "tags": [
+        "program"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.485610+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 207,
+          "timestamp_end": "Brand-new 10-year contract fasttracking Barber into Combat Control"
+        }
+      ],
+      "type_specific": {
+        "acronym": "GTE"
+      }
+    },
+    {
+      "id": "concept-egg-craft-retrieval",
+      "node_type": "concept",
+      "label": "Egg-shape NHI Craft Retrieval",
+      "summary": "Class of non-human-origin craft with egg morphology, ~20ft in size, which Barber claims to have retrieved via helicopter operations — and demonstrated post-program in broad daylight in August (reportedly with AARO involvement).",
+      "tags": [
+        "technology"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.485612+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 167,
+          "timestamp_end": "Barber describes retrieving 20ft egg-shaped craft via helicopter"
+        }
+      ],
+      "type_specific": {
+        "concept_domain": "technology"
+      }
+    },
+    {
+      "id": "concept-four-eyes-intel-profile",
+      "node_type": "concept",
+      "label": "Four-I Intel Recruitment Profile",
+      "summary": "Barber's term for the cognitive profile (imagination, intellect, intuition, instincts) that the US intelligence community allegedly targets for recruitment into covert programs.",
+      "tags": [
+        "psychology"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.485614+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 179,
+          "timestamp_end": "Imagination, intellect, intuition, instincts"
+        }
+      ],
+      "type_specific": {
+        "concept_domain": "psychology"
+      }
+    },
+    {
+      "id": "concept-comfort-and-chaos",
+      "node_type": "concept",
+      "label": "Comfort-and-Chaos",
+      "summary": "Barber's psychological model derived from scoring 152 on an oxygen-deprived stress IQ test (vs 138 baseline); suggests chaos-mode cognition is his functional mode — characteristic targeted by intel recruiters.",
+      "tags": [
+        "psychology"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.485615+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 205,
+          "timestamp_end": "Barber scored higher on stressed IQ test than baseline"
+        }
+      ],
+      "type_specific": {
+        "concept_domain": "psychology"
+      }
+    },
+    {
+      "id": "claim-dnnpyNuPdXs-barber-retrieved-nhi-craft",
+      "node_type": "claim",
+      "label": "Barber states on camera he has piloted helicopters to retrieve non-human-origin craft; operations us",
+      "summary": "Barber states on camera he has piloted helicopters to retrieve non-human-origin craft; operations use GPS coordinates fed to him at the last moment with a terse description enroute.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.490713+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 163,
+          "quote": "Have you retrieved a non-human craft? Yes, I have. I sit back at a separate location. I get GPS coordinates at the very last second. I get dispatched."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Barber states on camera he has piloted helicopters to retrieve non-human-origin craft; operations use GPS coordinates fed to him at the last moment with a terse description enroute.",
+        "asserted_by_id": "person-jake-barber",
+        "source_video_id": "dnnpyNuPdXs",
+        "timestamp_start_seconds": 163,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-jake-barber",
+          "concept-crash-retrieval",
+          "concept-egg-craft-retrieval"
+        ]
+      }
+    },
+    {
+      "id": "claim-dnnpyNuPdXs-barber-egg-demonstrated-aaro-august",
+      "node_type": "claim",
+      "label": "Post-program, working now with AARO, Barber claims he 'elicited' an egg-shaped craft that flew by in",
+      "summary": "Post-program, working now with AARO, Barber claims he 'elicited' an egg-shaped craft that flew by in broad daylight at ~10,000 mph silently, demonstrated in August.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.490725+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 169,
+          "quote": "Since we've left the program and reorganized and are now working with AARO, I can make the egg show up. The egg flies by in dead silence, moving at 10,000 miles an hour."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Post-program, working now with AARO, Barber claims he 'elicited' an egg-shaped craft that flew by in broad daylight at ~10,000 mph silently, demonstrated in August.",
+        "asserted_by_id": "person-jake-barber",
+        "source_video_id": "dnnpyNuPdXs",
+        "timestamp_start_seconds": 169,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-jake-barber",
+          "program-aaro",
+          "concept-egg-craft-retrieval"
+        ]
+      }
+    },
+    {
+      "id": "claim-dnnpyNuPdXs-barber-gte-contract-age-17",
+      "node_type": "claim",
+      "label": "Barber signed a 10-year GTE contract in 1994 at age 17 — two and a half years of pre-selected specia",
+      "summary": "Barber signed a 10-year GTE contract in 1994 at age 17 — two and a half years of pre-selected special-operations training, historically unprecedented.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.490733+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 207,
+          "quote": "I signed a contract for combat control in 1994. I was recruited to a brand new program that was called GTE. 10-year contract that would fasttrack me through special operations training."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Barber signed a 10-year GTE contract in 1994 at age 17 — two and a half years of pre-selected special-operations training, historically unprecedented.",
+        "asserted_by_id": "person-jake-barber",
+        "source_video_id": "dnnpyNuPdXs",
+        "timestamp_start_seconds": 207,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-jake-barber",
+          "program-gte-air-force-10year"
+        ]
+      }
+    },
+    {
+      "id": "claim-dnnpyNuPdXs-barber-stress-iq-152",
+      "node_type": "claim",
+      "label": "Barber scored 138 baseline but 152 on a stressed IQ test (oxygen-mask-sealed) — leading to the 'comf",
+      "summary": "Barber scored 138 baseline but 152 on a stressed IQ test (oxygen-mask-sealed) — leading to the 'comfort-and-chaos' recruitment framework.",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.490742+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 203,
+          "quote": "The first time I took an IQ test it was like 138. Second thing which is a stress IQ test — oxygen mask that sealed my face with no air coming to it. I tested 152."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Barber scored 138 baseline but 152 on a stressed IQ test (oxygen-mask-sealed) — leading to the 'comfort-and-chaos' recruitment framework.",
+        "asserted_by_id": "person-jake-barber",
+        "source_video_id": "dnnpyNuPdXs",
+        "timestamp_start_seconds": 203,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-jake-barber",
+          "concept-comfort-and-chaos"
+        ]
+      }
+    },
+    {
+      "id": "claim-dnnpyNuPdXs-air-force-blue-black-line-1947",
+      "node_type": "claim",
+      "label": "Barber frames the USAF as the 'blue-black line' agency since its 1947 inception — created alongside ",
+      "summary": "Barber frames the USAF as the 'blue-black line' agency since its 1947 inception — created alongside CIA, NSA, and DoD right after the Roswell incident.",
+      "tags": [
+        "speculation",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.490750+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 211,
+          "quote": "The Air Force is this agency that straddled the blue black line since its inception in 1947, like two weeks after Roswell incident you get the National Security Act, you get the formation of the Air Force, CIA at the same time."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Barber frames the USAF as the 'blue-black line' agency since its 1947 inception — created alongside CIA, NSA, and DoD right after the Roswell incident.",
+        "asserted_by_id": "person-jake-barber",
+        "source_video_id": "dnnpyNuPdXs",
+        "timestamp_start_seconds": 211,
+        "assertability": "speculation",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-jake-barber",
+          "organization-us-air-force",
+          "organization-cia",
+          "incident-1947-roswell"
+        ]
+      }
+    },
+    {
+      "id": "claim-dnnpyNuPdXs-barber-deaths-in-program",
+      "node_type": "claim",
+      "label": "Barber states people connected to the retrieval programs who tried to come public have died; an acti",
+      "summary": "Barber states people connected to the retrieval programs who tried to come public have died; an active investigation constrains what he can disclose.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.490758+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 171,
+          "quote": "There are people that have died who were coming out and who were speaking out on our activities."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Barber states people connected to the retrieval programs who tried to come public have died; an active investigation constrains what he can disclose.",
+        "asserted_by_id": "person-jake-barber",
+        "source_video_id": "dnnpyNuPdXs",
+        "timestamp_start_seconds": 171,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-jake-barber",
+          "concept-crash-retrieval"
+        ]
+      }
+    },
+    {
+      "id": "claim-dnnpyNuPdXs-barber-inner-not-outer-space",
+      "node_type": "claim",
+      "label": "Barber reframes NHI not as purely extraterrestrial: 'outer space versus inner space is all the same'",
+      "summary": "Barber reframes NHI not as purely extraterrestrial: 'outer space versus inner space is all the same' — implying consciousness-based interpretation.",
+      "tags": [
+        "speculation",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T12:31:49.490766+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 175,
+          "quote": "The real implications are way more powerful. It's realizing that there is something else out there that's maybe not extra at all. It's something that's part of us."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Barber reframes NHI not as purely extraterrestrial: 'outer space versus inner space is all the same' — implying consciousness-based interpretation.",
+        "asserted_by_id": "person-jake-barber",
+        "source_video_id": "dnnpyNuPdXs",
+        "timestamp_start_seconds": 175,
+        "assertability": "speculation",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-jake-barber",
+          "concept-nhi"
+        ]
+      }
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge-video-dnnpyNuPdXs-HOSTED_BY-person-jesse-michels",
+      "from_node_id": "video-dnnpyNuPdXs",
+      "to_node_id": "person-jesse-michels",
+      "relationship": "HOSTED_BY",
+      "confidence": 0.99,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": "Jesse hosting"
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-APPEARED_IN-video-dnnpyNuPdXs",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "video-dnnpyNuPdXs",
+      "relationship": "APPEARED_IN",
+      "confidence": 0.99,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": "Host"
+        }
+      ],
+      "properties": {
+        "appearance_type": "host"
+      }
+    },
+    {
+      "id": "edge-video-dnnpyNuPdXs-MENTIONS-person-robert-hastings",
+      "from_node_id": "video-dnnpyNuPdXs",
+      "to_node_id": "person-robert-hastings",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": " You have a great book called UFOs and nukes by a guy named Robert Hastings. Hastings. Yeah. 167 ICBM security personnel, radar  operat"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dnnpyNuPdXs-MENTIONS-person-john-f-kennedy",
+      "from_node_id": "video-dnnpyNuPdXs",
+      "to_node_id": "person-john-f-kennedy",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": "ure. Obviously, the proverbally famous example would be the JFK case. Was that somewhat of an inside job? Are there any det"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dnnpyNuPdXs-MENTIONS-person-eric-weinstein",
+      "from_node_id": "video-dnnpyNuPdXs",
+      "to_node_id": "person-eric-weinstein",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": " completely uncut, heated discussion between Hal Putoff and Eric Weinstein on remote viewing. Yeah, you heard that right. I still can'"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dnnpyNuPdXs-MENTIONS-person-stephen-greer",
+      "from_node_id": "video-dnnpyNuPdXs",
+      "to_node_id": "person-stephen-greer",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": " there was this at the National Press Club hosted by Steven Greer. there were several whistleblowers that had decided to come"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dnnpyNuPdXs-MENTIONS-person-bill-clinton",
+      "from_node_id": "video-dnnpyNuPdXs",
+      "to_node_id": "person-bill-clinton",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": " was working as an airplane mechanic., I came in during the Clinton era and that's no coincidence. that had a lot to do with th"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dnnpyNuPdXs-MENTIONS-person-james-harder",
+      "from_node_id": "video-dnnpyNuPdXs",
+      "to_node_id": "person-james-harder",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": "bout what information and why and then begin to either push harder and assume that when we hit walls and limitations that secr"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dnnpyNuPdXs-MENTIONS-person-love-has-won",
+      "from_node_id": "video-dnnpyNuPdXs",
+      "to_node_id": "person-love-has-won",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": "d to do art and music and had entered a science contest and won a state science fair based on a project I had done. What wa"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dnnpyNuPdXs-MENTIONS-person-riley-martin",
+      "from_node_id": "video-dnnpyNuPdXs",
+      "to_node_id": "person-riley-martin",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": "orical faction where he's dealing with executives at Loheed Martin and other places and writing about crash retrievals and oth"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dnnpyNuPdXs-MENTIONS-person-timothy-good",
+      "from_node_id": "video-dnnpyNuPdXs",
+      "to_node_id": "person-timothy-good",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": "O firsthand, a firsthand witness. The energy is just really good. It's perfect for How are you, dude? Not at all. A lot of s"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dnnpyNuPdXs-MENTIONS-person-allen-dulles",
+      "from_node_id": "video-dnnpyNuPdXs",
+      "to_node_id": "person-allen-dulles",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": "John McCone, who is the new CIA director. he had just fired Dulles and he's saying we actually need to coordinate with the Rus"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dnnpyNuPdXs-MENTIONS-person-chan-thomas",
+      "from_node_id": "video-dnnpyNuPdXs",
+      "to_node_id": "person-chan-thomas",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": "of entrepreneurs and he said go just watch Jesse's video on Thomas Towns and Brown. And so to me that is as much confirmation "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dnnpyNuPdXs-MENTIONS-person-garry-nolan",
+      "from_node_id": "video-dnnpyNuPdXs",
+      "to_node_id": "person-garry-nolan",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": "le when I tell this story, especially friends like Dr. Gary Nolan, who's who helps me with this issue now., but real quick, j"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dnnpyNuPdXs-MENTIONS-person-harry-reid",
+      "from_node_id": "video-dnnpyNuPdXs",
+      "to_node_id": "person-harry-reid",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": "SAP program which ran from 2007 to 2012 under the opices of Harry Reid a lot of these guys were digging holes and looking into kin"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dnnpyNuPdXs-MENTIONS-person-nick-pope",
+      "from_node_id": "video-dnnpyNuPdXs",
+      "to_node_id": "person-nick-pope",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": "chanic school. Upon completing that, I reported directly to Pope Air Force Base in North Carolina., when I was there, you kn"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dnnpyNuPdXs-MENTIONS-organization-the-report-on-unidentified-flying-objects",
+      "from_node_id": "video-dnnpyNuPdXs",
+      "to_node_id": "organization-the-report-on-unidentified-flying-objects",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": "nnpyNuPdXs  For thousands of years, people have been seeing objects in the sky that they can't identify. And today, we have som"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dnnpyNuPdXs-MENTIONS-organization-1952-washington-d-c-ufo-incident",
+      "from_node_id": "video-dnnpyNuPdXs",
+      "to_node_id": "organization-1952-washington-d-c-ufo-incident",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": ", since its inception in 1947, like two weeks after Roswell incident, you get the National Security  Act, you get the formation "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dnnpyNuPdXs-MENTIONS-organization-identification-studies-of-ufos",
+      "from_node_id": "video-dnnpyNuPdXs",
+      "to_node_id": "organization-identification-studies-of-ufos",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": "to American government, other government's involvement with UFOs. And today, we have somebody who has actually witness. And "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dnnpyNuPdXs-MENTIONS-organization-lakenheath-bentwaters-incident",
+      "from_node_id": "video-dnnpyNuPdXs",
+      "to_node_id": "organization-lakenheath-bentwaters-incident",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": ", since its inception in 1947, like two weeks after Roswell incident, you get the National Security  Act, you get the formation "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dnnpyNuPdXs-MENTIONS-organization-the-flying-saucers-are-real",
+      "from_node_id": "video-dnnpyNuPdXs",
+      "to_node_id": "organization-the-flying-saucers-are-real",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": "et read a description of what it is I'm picking up. It's so real when you look at it. It's not like in the background you're"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dnnpyNuPdXs-MENTIONS-organization-unidentified-flying-object",
+      "from_node_id": "video-dnnpyNuPdXs",
+      "to_node_id": "organization-unidentified-flying-object",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": "ard or what we call sobs, souls on board and it was just an object and yeah took it to a drop point which was about 15 miles a"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dnnpyNuPdXs-MENTIONS-organization-us-department-of-defense",
+      "from_node_id": "video-dnnpyNuPdXs",
+      "to_node_id": "organization-us-department-of-defense",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": "ation of the Air Force, CIA at the same time, Department of Defense, and the Air Force has been that agency that straddled the "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dnnpyNuPdXs-MENTIONS-organization-lonnie-zamora-incident",
+      "from_node_id": "video-dnnpyNuPdXs",
+      "to_node_id": "organization-lonnie-zamora-incident",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": ", since its inception in 1947, like two weeks after Roswell incident, you get the National Security  Act, you get the formation "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dnnpyNuPdXs-MENTIONS-organization-roswell-that-ends-well",
+      "from_node_id": "video-dnnpyNuPdXs",
+      "to_node_id": "organization-roswell-that-ends-well",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": "s bring it all the way back to your childhoods. Okay. Yeah. Well, man, I mean, first thing I should say is like looking back"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dnnpyNuPdXs-MENTIONS-organization-the-galileo-project",
+      "from_node_id": "video-dnnpyNuPdXs",
+      "to_node_id": "organization-the-galileo-project",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": "d a science contest and won a state science fair based on a project I had done. What was the project? it's called color cords. "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dnnpyNuPdXs-MENTIONS-organization-project-blue-book",
+      "from_node_id": "video-dnnpyNuPdXs",
+      "to_node_id": "organization-project-blue-book",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": " get asked that a lot is like, you know, I'll paraphrase a  book from Matthew. I think it is like you will know me by my fru"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dnnpyNuPdXs-MENTIONS-organization-world-contact-day",
+      "from_node_id": "video-dnnpyNuPdXs",
+      "to_node_id": "organization-world-contact-day",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": "reak out on  News Nation hopefully with this week and every day that it doesn't go live there's more danger is life. So tel"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dnnpyNuPdXs-MENTIONS-organization-condon-committee",
+      "from_node_id": "video-dnnpyNuPdXs",
+      "to_node_id": "organization-condon-committee",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": "ice of arrow directly to members of the Senate Intelligence Committee that it did in fact happen exactly as reported by Michael H"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dnnpyNuPdXs-MENTIONS-organization-steven-m-greer",
+      "from_node_id": "video-dnnpyNuPdXs",
+      "to_node_id": "organization-steven-m-greer",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": "nd then there was this at the National Press Club hosted by Steven Greer. there were several whistleblowers that had decided to come"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dnnpyNuPdXs-MENTIONS-organization-scp-foundation",
+      "from_node_id": "video-dnnpyNuPdXs",
+      "to_node_id": "organization-scp-foundation",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": "., he and my other grandfather, Army grandpa. they laid the foundation to our fam literally put the cornerstone in took had their "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dnnpyNuPdXs-MENTIONS-organization-us-air-force",
+      "from_node_id": "video-dnnpyNuPdXs",
+      "to_node_id": "organization-us-air-force",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": "my house and think you're going to be successful with brute force because that's going to go south for you really quickly. It"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dnnpyNuPdXs-MENTIONS-organization-big-sur-ufo",
+      "from_node_id": "video-dnnpyNuPdXs",
+      "to_node_id": "organization-big-sur-ufo",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": "# \"I Retrieved a UFO With My Helicopter!\" -Jake Barber Tells All https://www.you"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dnnpyNuPdXs-MENTIONS-organization-mirage-men",
+      "from_node_id": "video-dnnpyNuPdXs",
+      "to_node_id": "organization-mirage-men",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": "t, intuition, and instincts. my grandfathers were the  best men you could ever imagine., I had, you know, we could call him"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dnnpyNuPdXs-MENTIONS-organization-us-navy",
+      "from_node_id": "video-dnnpyNuPdXs",
+      "to_node_id": "organization-us-navy",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": "you could ever imagine., I had, you know, we could call him Navy grandpa and army grandpa. Let's do that. So, Navy grandpa w"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dnnpyNuPdXs-MENTIONS-organization-cia",
+      "from_node_id": "video-dnnpyNuPdXs",
+      "to_node_id": "organization-cia",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": "onal Security  Act, you get the formation of the Air Force, CIA at the same time, Department of Defense, and the Air Force "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dnnpyNuPdXs-MENTIONS-organization-fbi",
+      "from_node_id": "video-dnnpyNuPdXs",
+      "to_node_id": "organization-fbi",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": "istleblowers that we were trying to basically report to the FBI and get arrested because at that time I was in this weird p"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dnnpyNuPdXs-MENTIONS-organization-dod",
+      "from_node_id": "video-dnnpyNuPdXs",
+      "to_node_id": "organization-dod",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": "copter operating companies and held many contracts with the DoD, Department of Interior, State Department and other other l"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dnnpyNuPdXs-MENTIONS-location-pacific-training-area",
+      "from_node_id": "video-dnnpyNuPdXs",
+      "to_node_id": "location-pacific-training-area",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": " same emotions? It was really cool. I did well in our local area and I kept I went on to county and then I went on to the st"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dnnpyNuPdXs-MENTIONS-location-roswell-new-mexico",
+      "from_node_id": "video-dnnpyNuPdXs",
+      "to_node_id": "location-roswell-new-mexico",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": " sovereign nation close to White Sands missile range in New Mexico. And lest the audience be skeptical of this left turn into "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dnnpyNuPdXs-MENTIONS-location-rendlesham-forest",
+      "from_node_id": "video-dnnpyNuPdXs",
+      "to_node_id": "location-rendlesham-forest",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": "Yeah, he did. Specifically, what's the guy from Rendlessham Forest in 1980?, John Burroughs. John Burroughs and Jim Penniston."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dnnpyNuPdXs-MENTIONS-location-skinwalker-ranch",
+      "from_node_id": "video-dnnpyNuPdXs",
+      "to_node_id": "location-skinwalker-ranch",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": "king into kind of exotic weaponry and they were doing it on Skinwalker Ranch and a lot of them reported this quote unquote hitchhiker ef"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dnnpyNuPdXs-MENTIONS-location-united-states",
+      "from_node_id": "video-dnnpyNuPdXs",
+      "to_node_id": "location-united-states",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": "operators, guys that work at these nuclear bases across the United States and in some cases they're joint nuclear bases in the UK and"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dnnpyNuPdXs-MENTIONS-location-roswell",
+      "from_node_id": "video-dnnpyNuPdXs",
+      "to_node_id": "location-roswell",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": " call it, since its inception in 1947, like two weeks after Roswell incident, you get the National Security  Act, you get the f"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dnnpyNuPdXs-MENTIONS-location-brazil",
+      "from_node_id": "video-dnnpyNuPdXs",
+      "to_node_id": "location-brazil",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": " called Moment of Contact. Everybody in this little town in Brazil reports seeing an egg landing and it seems to be emitting t"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dnnpyNuPdXs-MENTIONS-location-mexico",
+      "from_node_id": "video-dnnpyNuPdXs",
+      "to_node_id": "location-mexico",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": " sovereign nation close to White Sands missile range in New Mexico. And lest the audience be skeptical of this left turn into "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dnnpyNuPdXs-MENTIONS-location-russia",
+      "from_node_id": "video-dnnpyNuPdXs",
+      "to_node_id": "location-russia",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": "these disperate pockets and you're competing with China and Russia that it's actually maladaptive from a national security sta"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dnnpyNuPdXs-CITES-document-ufos-and-nukes",
+      "from_node_id": "video-dnnpyNuPdXs",
+      "to_node_id": "document-ufos-and-nukes",
+      "relationship": "CITES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": "didn't take place in a vacuum. You have a great book called UFOs and nukes by a guy named Robert Hastings. Hastings. Yeah. 167 ICBM se"
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-dnnpyNuPdXs-discussion-summary",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-dnnpyNuPdXs-discussion-summary",
+      "relationship": "ASSERTED",
+      "confidence": 0.9,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0,
+          "quote": "Episode: \"I Retrieved a UFO With My Helicopter!\" -Jake Barber Tells All"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dnnpyNuPdXs-REFERENCES-claim-dnnpyNuPdXs-discussion-summary",
+      "from_node_id": "video-dnnpyNuPdXs",
+      "to_node_id": "claim-dnnpyNuPdXs-discussion-summary",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 0
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jake-barber-ASSERTED-claim-dnnpyNuPdXs-barber-retrieved-nhi-craft",
+      "from_node_id": "person-jake-barber",
+      "to_node_id": "claim-dnnpyNuPdXs-barber-retrieved-nhi-craft",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 163,
+          "quote": "Barber states on camera he has piloted helicopters to retrieve non-human-origin craft; operations use GPS coordinates fed to him at the last moment with a terse description enroute."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dnnpyNuPdXs-REFERENCES-claim-dnnpyNuPdXs-barber-retrieved-nhi-craft",
+      "from_node_id": "video-dnnpyNuPdXs",
+      "to_node_id": "claim-dnnpyNuPdXs-barber-retrieved-nhi-craft",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 163
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-dnnpyNuPdXs-barber-retrieved-nhi-craft-REFERENCES-concept-crash-retrieval",
+      "from_node_id": "claim-dnnpyNuPdXs-barber-retrieved-nhi-craft",
+      "to_node_id": "concept-crash-retrieval",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 163
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-dnnpyNuPdXs-barber-retrieved-nhi-craft-REFERENCES-concept-egg-craft-retrieval",
+      "from_node_id": "claim-dnnpyNuPdXs-barber-retrieved-nhi-craft",
+      "to_node_id": "concept-egg-craft-retrieval",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 163
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jake-barber-ASSERTED-claim-dnnpyNuPdXs-barber-egg-demonstrated-aaro-august",
+      "from_node_id": "person-jake-barber",
+      "to_node_id": "claim-dnnpyNuPdXs-barber-egg-demonstrated-aaro-august",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 169,
+          "quote": "Post-program, working now with AARO, Barber claims he 'elicited' an egg-shaped craft that flew by in broad daylight at ~10,000 mph silently, demonstrated in August."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dnnpyNuPdXs-REFERENCES-claim-dnnpyNuPdXs-barber-egg-demonstrated-aaro-august",
+      "from_node_id": "video-dnnpyNuPdXs",
+      "to_node_id": "claim-dnnpyNuPdXs-barber-egg-demonstrated-aaro-august",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 169
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-dnnpyNuPdXs-barber-egg-demonstrated-aaro-august-REFERENCES-program-aaro",
+      "from_node_id": "claim-dnnpyNuPdXs-barber-egg-demonstrated-aaro-august",
+      "to_node_id": "program-aaro",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 169
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-dnnpyNuPdXs-barber-egg-demonstrated-aaro-august-REFERENCES-concept-egg-craft-retrieval",
+      "from_node_id": "claim-dnnpyNuPdXs-barber-egg-demonstrated-aaro-august",
+      "to_node_id": "concept-egg-craft-retrieval",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 169
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jake-barber-ASSERTED-claim-dnnpyNuPdXs-barber-gte-contract-age-17",
+      "from_node_id": "person-jake-barber",
+      "to_node_id": "claim-dnnpyNuPdXs-barber-gte-contract-age-17",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 207,
+          "quote": "Barber signed a 10-year GTE contract in 1994 at age 17 — two and a half years of pre-selected special-operations training, historically unprecedented."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dnnpyNuPdXs-REFERENCES-claim-dnnpyNuPdXs-barber-gte-contract-age-17",
+      "from_node_id": "video-dnnpyNuPdXs",
+      "to_node_id": "claim-dnnpyNuPdXs-barber-gte-contract-age-17",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 207
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-dnnpyNuPdXs-barber-gte-contract-age-17-REFERENCES-program-gte-air-force-10year",
+      "from_node_id": "claim-dnnpyNuPdXs-barber-gte-contract-age-17",
+      "to_node_id": "program-gte-air-force-10year",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 207
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jake-barber-ASSERTED-claim-dnnpyNuPdXs-barber-stress-iq-152",
+      "from_node_id": "person-jake-barber",
+      "to_node_id": "claim-dnnpyNuPdXs-barber-stress-iq-152",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 203,
+          "quote": "Barber scored 138 baseline but 152 on a stressed IQ test (oxygen-mask-sealed) — leading to the 'comfort-and-chaos' recruitment framework."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dnnpyNuPdXs-REFERENCES-claim-dnnpyNuPdXs-barber-stress-iq-152",
+      "from_node_id": "video-dnnpyNuPdXs",
+      "to_node_id": "claim-dnnpyNuPdXs-barber-stress-iq-152",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 203
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-dnnpyNuPdXs-barber-stress-iq-152-REFERENCES-concept-comfort-and-chaos",
+      "from_node_id": "claim-dnnpyNuPdXs-barber-stress-iq-152",
+      "to_node_id": "concept-comfort-and-chaos",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 203
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jake-barber-ASSERTED-claim-dnnpyNuPdXs-air-force-blue-black-line-1947",
+      "from_node_id": "person-jake-barber",
+      "to_node_id": "claim-dnnpyNuPdXs-air-force-blue-black-line-1947",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 211,
+          "quote": "Barber frames the USAF as the 'blue-black line' agency since its 1947 inception — created alongside CIA, NSA, and DoD right after the Roswell incident."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dnnpyNuPdXs-REFERENCES-claim-dnnpyNuPdXs-air-force-blue-black-line-1947",
+      "from_node_id": "video-dnnpyNuPdXs",
+      "to_node_id": "claim-dnnpyNuPdXs-air-force-blue-black-line-1947",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 211
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-dnnpyNuPdXs-air-force-blue-black-line-1947-REFERENCES-organization-us-air-force",
+      "from_node_id": "claim-dnnpyNuPdXs-air-force-blue-black-line-1947",
+      "to_node_id": "organization-us-air-force",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 211
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-dnnpyNuPdXs-air-force-blue-black-line-1947-REFERENCES-organization-cia",
+      "from_node_id": "claim-dnnpyNuPdXs-air-force-blue-black-line-1947",
+      "to_node_id": "organization-cia",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 211
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-dnnpyNuPdXs-air-force-blue-black-line-1947-REFERENCES-incident-1947-roswell",
+      "from_node_id": "claim-dnnpyNuPdXs-air-force-blue-black-line-1947",
+      "to_node_id": "incident-1947-roswell",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 211
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jake-barber-ASSERTED-claim-dnnpyNuPdXs-barber-deaths-in-program",
+      "from_node_id": "person-jake-barber",
+      "to_node_id": "claim-dnnpyNuPdXs-barber-deaths-in-program",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 171,
+          "quote": "Barber states people connected to the retrieval programs who tried to come public have died; an active investigation constrains what he can disclose."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dnnpyNuPdXs-REFERENCES-claim-dnnpyNuPdXs-barber-deaths-in-program",
+      "from_node_id": "video-dnnpyNuPdXs",
+      "to_node_id": "claim-dnnpyNuPdXs-barber-deaths-in-program",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 171
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-dnnpyNuPdXs-barber-deaths-in-program-REFERENCES-concept-crash-retrieval",
+      "from_node_id": "claim-dnnpyNuPdXs-barber-deaths-in-program",
+      "to_node_id": "concept-crash-retrieval",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 171
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jake-barber-ASSERTED-claim-dnnpyNuPdXs-barber-inner-not-outer-space",
+      "from_node_id": "person-jake-barber",
+      "to_node_id": "claim-dnnpyNuPdXs-barber-inner-not-outer-space",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 175,
+          "quote": "Barber reframes NHI not as purely extraterrestrial: 'outer space versus inner space is all the same' — implying consciousness-based interpretation."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-dnnpyNuPdXs-REFERENCES-claim-dnnpyNuPdXs-barber-inner-not-outer-space",
+      "from_node_id": "video-dnnpyNuPdXs",
+      "to_node_id": "claim-dnnpyNuPdXs-barber-inner-not-outer-space",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 175
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-dnnpyNuPdXs-barber-inner-not-outer-space-REFERENCES-concept-nhi",
+      "from_node_id": "claim-dnnpyNuPdXs-barber-inner-not-outer-space",
+      "to_node_id": "concept-nhi",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "dnnpyNuPdXs",
+          "timestamp_start": 175
+        }
+      ]
+    }
+  ],
+  "extracted_at": "2026-04-17T12:31:49.490773+00:00",
+  "extractor_version": "v1-inline-claude"
+}

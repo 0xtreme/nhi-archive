@@ -1,0 +1,4122 @@
+{
+  "video_id": "nTiFs8LudUo",
+  "nodes": [
+    {
+      "id": "video-nTiFs8LudUo",
+      "node_type": "video",
+      "label": "UAPGerb: “The New Area51 Is HERE in Utah!”",
+      "summary": "Join Jesse Michels on today's episode of American Alchemy as he sits down with researcher UAP Gerb. UAP Gerb's YouTube ➤ https://www.youtube.com/@UCXr8USOuzZN_3y_efZpryrg \n\nThis was one of...",
+      "tags": [
+        "video",
+        "american-alchemy"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:40.089540+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "timestamp_end": 8787.0,
+          "quote": "Video: UAPGerb: “The New Area51 Is HERE in Utah!”"
+        }
+      ],
+      "type_specific": {
+        "video_id": "nTiFs8LudUo",
+        "title": "UAPGerb: “The New Area51 Is HERE in Utah!”",
+        "url": "https://www.youtube.com/watch?v=nTiFs8LudUo",
+        "view_count": 429902,
+        "duration_seconds": 8787.0,
+        "host_id": "person-jesse-michels"
+      }
+    },
+    {
+      "id": "person-jesse-michels",
+      "node_type": "person",
+      "label": "Jesse Michels",
+      "summary": "Host of American Alchemy podcast/show. Independent journalist and UFO/NHI researcher.",
+      "tags": [
+        "journalist",
+        "interviewer",
+        "researcher",
+        "host"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:40.089552+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "Host of American Alchemy podcast/show."
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Jesse",
+          "Michels"
+        ],
+        "profession": "journalist",
+        "notability_tags": [
+          "journalist",
+          "interviewer",
+          "researcher",
+          "host"
+        ]
+      }
+    },
+    {
+      "id": "person-wilbert-brockhouse-smith",
+      "node_type": "person",
+      "label": "Wilbert Brockhouse Smith",
+      "summary": "William Brockhouse Smith (1910 – December 27, 1962) was a Canadian engineer, government scientist, ufologist, and author of various patents and technical papers.",
+      "tags": [
+        "wikipedia",
+        "20th-century canadian engineers",
+        "canadian electrical engineers",
+        "contactees",
+        "date of birth missing",
+        "date of birth not in wikidata",
+        "engineers from alberta",
+        "pages where birth or death is being automatically determined",
+        "people from lethbridge",
+        "ufologists",
+        "university of british columbia alumni"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:40.884728+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "lker, Robert Sarbacher, Dr. Robert Sarbacher and Wilbert B. Smith. So this t this story takes place around  1950. Wilbur B. S"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Smith",
+          "WILBERT BROCKHOUSE SMITH",
+          "wilbert brockhouse smith"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "20th-century canadian engineers",
+          "canadian electrical engineers",
+          "contactees",
+          "date of birth missing",
+          "date of birth not in wikidata",
+          "engineers from alberta",
+          "pages where birth or death is being automatically determined",
+          "people from lethbridge",
+          "ufologists",
+          "university of british columbia alumni"
+        ]
+      }
+    },
+    {
+      "id": "person-kirsten-gillibrand",
+      "node_type": "person",
+      "label": "Kirsten Gillibrand",
+      "summary": "",
+      "tags": [
+        "politician",
+        "senator"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:40.884748+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "e said that to S when Susan go sitting  right behind him to Gillibrand at the 2024 Arrow hearing. Whoa. And then of course when Se"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Gillibrand",
+          "Senator Gillibrand"
+        ],
+        "notability_tags": [
+          "politician",
+          "senator"
+        ]
+      }
+    },
+    {
+      "id": "person-whitley-strieber",
+      "node_type": "person",
+      "label": "Whitley Strieber",
+      "summary": "Whitley Strieber entity extracted from cross-source archival records.",
+      "tags": [
+        "pipeline-generated",
+        "entity-extracted"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:40.884754+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "le lot to do with this I believe Robert Sarbacher also told Whitley Strieber so Sarbacher I just interviewed Whitley Strieber he talked "
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Strieber",
+          "WHITLEY STRIEBER",
+          "whitley strieber"
+        ],
+        "notability_tags": [
+          "pipeline-generated",
+          "entity-extracted"
+        ]
+      }
+    },
+    {
+      "id": "person-stanton-friedman",
+      "node_type": "person",
+      "label": "Stanton Friedman",
+      "summary": "",
+      "tags": [
+        "researcher",
+        "nuclear physicist"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:40.884759+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": " varying quality documents. I tend to adhere to the work of Stanton Friedman who spent a bunch of time authenticating the special operat"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Friedman"
+        ],
+        "notability_tags": [
+          "researcher",
+          "nuclear physicist"
+        ]
+      }
+    },
+    {
+      "id": "person-robert-hastings",
+      "node_type": "person",
+      "label": "Robert Hastings",
+      "summary": "",
+      "tags": [
+        "researcher",
+        "author",
+        "UFOs and Nukes"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:40.884764+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "ike with those kind of old school like UFO researchers like Robert Hastings, you know, who wrote UFOs and nukes is that these were p th"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Hastings"
+        ],
+        "notability_tags": [
+          "researcher",
+          "author",
+          "UFOs and Nukes"
+        ]
+      }
+    },
+    {
+      "id": "person-john-f-kennedy",
+      "node_type": "person",
+      "label": "John F. Kennedy",
+      "summary": "",
+      "tags": [
+        "president",
+        "historical"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:40.884769+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "ow pretty classified info  and admitted as much actually to Kennedy and Stanton Friedman actually writes about this was sort of"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "JFK",
+          "Kennedy"
+        ],
+        "notability_tags": [
+          "president",
+          "historical"
+        ]
+      }
+    },
+    {
+      "id": "person-eric-weinstein",
+      "node_type": "person",
+      "label": "Eric Weinstein",
+      "summary": "",
+      "tags": [
+        "mathematician",
+        "physicist"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:40.884773+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "nd the AI just like we classified physics and like you have Eric Weinstein, my for former  colleague is you know constantly kind of op"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Weinstein"
+        ],
+        "notability_tags": [
+          "mathematician",
+          "physicist"
+        ]
+      }
+    },
+    {
+      "id": "person-james-mcdonald",
+      "node_type": "person",
+      "label": "James McDonald",
+      "summary": "",
+      "tags": [
+        "physicist",
+        "researcher"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:40.884778+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "ce forensic artists I've talked about this a few times Bill McDonald who's done a lot of work on drawing the Roswell craft. He a"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Dr. McDonald",
+          "McDonald"
+        ],
+        "notability_tags": [
+          "physicist",
+          "researcher"
+        ]
+      }
+    },
+    {
+      "id": "person-e-howard-hunt",
+      "node_type": "person",
+      "label": "E. Howard Hunt",
+      "summary": "",
+      "tags": [
+        "CIA",
+        "Watergate"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:40.884783+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": " it's called Zero point something about zero point yeah the hunt for it's not the hunt for zero point but something about li"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Howard Hunt",
+          "Hunt"
+        ],
+        "notability_tags": [
+          "CIA",
+          "Watergate"
+        ]
+      }
+    },
+    {
+      "id": "person-alex-dietrich",
+      "node_type": "person",
+      "label": "Alex Dietrich",
+      "summary": "Retired US Navy aviator and eyewitness to the Nimitz event.",
+      "tags": [
+        "Nimitz",
+        "US Navy",
+        "witness"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:40.884788+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": " they run some sort of biological materials lab out of Fort Dietrich. And also a lot of really interesting classified work out a"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "ALEX DIETRICH",
+          "Dietrich",
+          "alex dietrich"
+        ],
+        "notability_tags": [
+          "Nimitz",
+          "US Navy",
+          "witness"
+        ]
+      }
+    },
+    {
+      "id": "person-richard-dolan",
+      "node_type": "person",
+      "label": "Richard Dolan",
+      "summary": "",
+      "tags": [
+        "historian",
+        "author"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:40.884793+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": " forth. and guys like   really great researchers today like Richard Dolan, he still focuses more on like sightings and kind of flaps "
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Dolan"
+        ],
+        "notability_tags": [
+          "historian",
+          "author"
+        ]
+      }
+    },
+    {
+      "id": "person-stephen-greer",
+      "node_type": "person",
+      "label": "Stephen Greer",
+      "summary": "",
+      "tags": [
+        "researcher",
+        "disclosure"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:40.884797+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "w,  UFOs and crash retrievals. It kind of vindicates Steven Greer as well. And so, it's kind of hard to poke holes in actuall"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Dr. Greer",
+          "Greer"
+        ],
+        "notability_tags": [
+          "researcher",
+          "disclosure"
+        ]
+      }
+    },
+    {
+      "id": "person-donald-menzel",
+      "node_type": "person",
+      "label": "Donald Menzel",
+      "summary": "",
+      "tags": [
+        "astronomer",
+        "skeptic"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:40.884801+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "ar Bush, including Dr. Ros or including Rosco Hilloder, Dr. Donald Menzel, I think his name is Vonoman. Vonman, Jerome Hunaker, who e"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Menzel"
+        ],
+        "notability_tags": [
+          "astronomer",
+          "skeptic"
+        ]
+      }
+    },
+    {
+      "id": "person-love-has-won",
+      "node_type": "person",
+      "label": "Love Has Won",
+      "summary": "Love Has Won (LHW), also known as the Galactic Federation of Light, is an American new religious movement that was led by Amy Carlson until her death in 2021. Carlson was referred to within the group as \"Mother God\", who described herself as, among other things, the creator of the universe, with the",
+      "tags": [
+        "wikipedia",
+        "2007 establishments in colorado",
+        "ancient astronaut speculation",
+        "covid-19 vaccine misinformation and hesitancy",
+        "climate change denial in the united states",
+        "holocaust denial in the united states",
+        "new age organizations",
+        "new religious movements established in the 2000s",
+        "qanon",
+        "religious belief systems founded in the united states",
+        "religious controversies in the united states",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:40.884806+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "icated after after McMongle sort of figured this out and he won the Legion of Merit due to you know the very productive act"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "LOVE HAS WON",
+          "Won",
+          "love has won"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "2007 establishments in colorado",
+          "ancient astronaut speculation",
+          "covid-19 vaccine misinformation and hesitancy",
+          "climate change denial in the united states",
+          "holocaust denial in the united states",
+          "new age organizations",
+          "new religious movements established in the 2000s",
+          "qanon",
+          "religious belief systems founded in the united states",
+          "religious controversies in the united states",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "person-paul-r-hill",
+      "node_type": "person",
+      "label": "Paul R. Hill",
+      "summary": "Paul Richard Hill (1909–1990) was a mid–twentieth-century American aerodynamicist. He was a leading research and development engineer and manager for NASA (National Aeronautics and Space Administration) and its predecessor, NACA (the National Advisory Council for Aeronautics) between 1939 and 1970, ",
+      "tags": [
+        "wikipedia",
+        "aerodynamicists",
+        "nasa people",
+        "scientists from iowa",
+        "uc berkeley college of engineering alumni",
+        "ufologists",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:40.884811+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "on  Philip J. Corso he says that material is taken to Rosco Hill or Hill Encoder. Rosco Hiller is the first director of the "
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Hill",
+          "PAUL R. HILL",
+          "Paul Hill",
+          "paul r. hill"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "aerodynamicists",
+          "nasa people",
+          "scientists from iowa",
+          "uc berkeley college of engineering alumni",
+          "ufologists",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "person-riley-martin",
+      "node_type": "person",
+      "label": "Riley Martin",
+      "summary": "Riley Lee Martin (May 9, 1946 – December 22, 2015) was an American self-described alien contactee, author and radio host. Martin was the author of the book The Coming of Tan, which describes his life and his alleged alien visitation. He hosted The Riley Martin Show on the Sirius XM Radio channel How",
+      "tags": [
+        "wikipedia",
+        "20th-century african-american people",
+        "african-american radio personalities",
+        "american conspiracy theorists",
+        "american outsider artists",
+        "american people who self-identify as being of native american descent",
+        "contactees",
+        "people from natchez, mississippi",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:40.884816+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "ch went defunct and its divisions went to  Northrup, Loheed Martin, Rathon and others. And so Philip Corso actually has a manu"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Martin",
+          "RILEY MARTIN",
+          "riley martin"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "20th-century african-american people",
+          "african-american radio personalities",
+          "american conspiracy theorists",
+          "american outsider artists",
+          "american people who self-identify as being of native american descent",
+          "contactees",
+          "people from natchez, mississippi",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "person-timothy-good",
+      "node_type": "person",
+      "label": "Timothy Good",
+      "summary": "",
+      "tags": [
+        "researcher",
+        "author"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:40.884820+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "icest people I've ever met in my entire life. he's a really good guy. Do you find him beyond reproach as a person? Yes, I fu"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Tim Good",
+          "Good"
+        ],
+        "notability_tags": [
+          "researcher",
+          "author"
+        ]
+      }
+    },
+    {
+      "id": "person-philip-corso",
+      "node_type": "person",
+      "label": "Philip Corso",
+      "summary": "",
+      "tags": [
+        "military",
+        "author",
+        "Roswell"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:40.884824+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "ff I do that hearken back to this. one example is Philip J. Corso. I recently did a project on Corso., Corso stated that in 1"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Corso"
+        ],
+        "notability_tags": [
+          "military",
+          "author",
+          "Roswell"
+        ]
+      }
+    },
+    {
+      "id": "person-allen-dulles",
+      "node_type": "person",
+      "label": "Allen Dulles",
+      "summary": "",
+      "tags": [
+        "CIA",
+        "historical"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:40.884828+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": " a bunch of guys at the time along with Paul Melon and Alan Dulles. There's a story of Paul Melon kind of spilling the beans t"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Dulles"
+        ],
+        "notability_tags": [
+          "CIA",
+          "historical"
+        ]
+      }
+    },
+    {
+      "id": "person-chan-thomas",
+      "node_type": "person",
+      "label": "Chan Thomas",
+      "summary": "Chan Thomas (1920–1998) was an American engineer, ufologist, writer on ancient cataclysms, and self-proclaimed polymath whose ideas have influenced conspiracy theorists in the 21st century.",
+      "tags": [
+        "wikipedia",
+        "20th-century american engineers",
+        "mcdonnell douglas people",
+        "ufologists",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:40.884832+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "ust this fascinating  character who is also very close with Thomas Towns and Brown who's this anti-gravity inventor at the tim"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "CHAN THOMAS",
+          "Thomas",
+          "chan thomas"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "20th-century american engineers",
+          "mcdonnell douglas people",
+          "ufologists",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "person-garry-nolan",
+      "node_type": "person",
+      "label": "Garry Nolan",
+      "summary": "Garry P. Nolan (born c. 1961) is a British-American immunologist, academic, inventor, and business executive. He holds the Rachford and Carlota A. Harris Professor Endowed Chair in the Department of Pathology at Stanford University School of Medicine. Nolan has founded biotechnology companies. Since",
+      "tags": [
+        "wikipedia",
+        "1960s births",
+        "american cancer researchers",
+        "american immunologists",
+        "american pathologists",
+        "british cancer researchers",
+        "british immunologists",
+        "cornell university alumni",
+        "pages with broken reference names",
+        "pages with reference errors",
+        "serologists",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:40.884836+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "rather rushed and overhyped just like you said you know Dr. Nolan came  out beforehand said people would be very happy with t"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "GARRY NOLAN",
+          "Nolan",
+          "garry nolan"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "1960s births",
+          "american cancer researchers",
+          "american immunologists",
+          "american pathologists",
+          "british cancer researchers",
+          "british immunologists",
+          "cornell university alumni",
+          "pages with broken reference names",
+          "pages with reference errors",
+          "serologists",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "person-ed-mitchell",
+      "node_type": "person",
+      "label": "Ed Mitchell",
+      "summary": "",
+      "tags": [
+        "astronaut",
+        "Apollo 14"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:40.884841+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "ction. And in that document that I believe was found in the Edgar Mitchell estate. In that document it says JA is a liar and I think J"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Edgar Mitchell",
+          "Mitchell"
+        ],
+        "notability_tags": [
+          "astronaut",
+          "Apollo 14"
+        ]
+      }
+    },
+    {
+      "id": "person-betty-hill",
+      "node_type": "person",
+      "label": "Betty Hill",
+      "summary": "Betty Hill entity extracted from cross-source archival records.",
+      "tags": [
+        "pipeline-generated",
+        "entity-extracted"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:40.884845+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "on  Philip J. Corso he says that material is taken to Rosco Hill or Hill Encoder. Rosco Hiller is the first director of the "
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "BETTY HILL",
+          "Hill",
+          "betty hill"
+        ],
+        "notability_tags": [
+          "pipeline-generated",
+          "entity-extracted"
+        ]
+      }
+    },
+    {
+      "id": "person-kid-cosmic",
+      "node_type": "person",
+      "label": "Kid Cosmic",
+      "summary": "Kid Cosmic is an American animated superhero television series created by Craig McCracken and developed by McCracken, his wife Lauren Faust and Francisco Angones for Netflix. The series was based on his 2009 comic The Kid from Planet Earth. Produced in-house by Netflix Animation, the show is McCrack",
+      "tags": [
+        "wikipedia",
+        "2020s american animated comedy television series",
+        "2020s american children's comedy television series",
+        "2020s american science fiction comedy television series",
+        "2020s american superhero comedy television series",
+        "2021 american animated television series debuts",
+        "2022 american television series endings",
+        "american english-language television shows",
+        "american children's animated action television series",
+        "american children's animated adventure television series",
+        "american children's animated comic science fiction television series",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:40.884849+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "in his 2024 September event that he was contacted by like a cosmic intelligence and told to basically save the world. He's bro"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Cosmic",
+          "KID COSMIC",
+          "kid cosmic"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "2020s american animated comedy television series",
+          "2020s american children's comedy television series",
+          "2020s american science fiction comedy television series",
+          "2020s american superhero comedy television series",
+          "2021 american animated television series debuts",
+          "2022 american television series endings",
+          "american english-language television shows",
+          "american children's animated action television series",
+          "american children's animated adventure television series",
+          "american children's animated comic science fiction television series",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "person-bob-lazar",
+      "node_type": "person",
+      "label": "Bob Lazar",
+      "summary": "Bob Lazar entity extracted from cross-source archival records.",
+      "tags": [
+        "pipeline-generated",
+        "entity-extracted"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:40.884854+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": " We know EG&G from the Wilson Davis memo, from the story of Bob Lazar, Edgar Fuche, so forth seeped in and UFO lore. Yes, it seem"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "BOB LAZAR",
+          "Lazar",
+          "bob lazar"
+        ],
+        "notability_tags": [
+          "pipeline-generated",
+          "entity-extracted"
+        ]
+      }
+    },
+    {
+      "id": "person-art-bell",
+      "node_type": "person",
+      "label": "Art Bell",
+      "summary": "Arthur William Bell III (June 17, 1945 – April 13, 2018) was an American broadcaster and author. He was the founder and the original host of the paranormal-themed radio program Coast to Coast AM, which is syndicated on hundreds of radio stations in the United States and Canada. He also created and h",
+      "tags": [
+        "wikipedia",
+        "20th-century american businesspeople",
+        "accidental deaths in nevada",
+        "amateur radio people",
+        "american non-fiction environmental writers",
+        "american radio djs",
+        "american radio executives",
+        "american talk radio hosts",
+        "businesspeople from monterey, california",
+        "businesspeople from nevada",
+        "coast to coast am",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:40.884858+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "es, you know, to you know, for commercial purposes. So like Bell Labs would be like the main place. Bell Labs, Sperry Rand, "
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "ART BELL",
+          "Bell",
+          "art bell"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "20th-century american businesspeople",
+          "accidental deaths in nevada",
+          "amateur radio people",
+          "american non-fiction environmental writers",
+          "american radio djs",
+          "american radio executives",
+          "american talk radio hosts",
+          "businesspeople from monterey, california",
+          "businesspeople from nevada",
+          "coast to coast am",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "organization-international-ufo-museum-and-research-center",
+      "node_type": "organization",
+      "label": "International UFO Museum and Research Center",
+      "summary": "The International UFO Museum and Research Center is located in Roswell, New Mexico, United States, in the downtown district, and is focused largely on the 1947 Roswell Crash and later supposed UFO incidents in the United States and elsewhere. It was founded in 1991 as a 501c3 nonprofit educational o",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:40.884865+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "know as a as a Green Beret was at the Naval Surface Warfare Center crane went underground via contractor SIC and was shown tec"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-1952-washington-d-c-ufo-incident",
+      "node_type": "organization",
+      "label": "1952 Washington, D.C. UFO incident",
+      "summary": "From July 12 to 29, 1952, a series of unidentified flying object (UFO) sightings were reported in Washington, D.C., and later became known as the Washington flap, the Washington National Airport Sightings, or the Invasion of Washington. The most publicized sightings took place on consecutive weekend",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:40.884870+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "sport or what do you mean good research? Oh, just that this incident. Yeah, there there's a because of course this guy when I st"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-identification-studies-of-ufos",
+      "node_type": "organization",
+      "label": "Identification studies of UFOs",
+      "summary": "Identifying unidentified flying objects (UFOs) is a difficult task due to the normally poor quality of the evidence provided by those who report sighting the unknown object. Observations and subsequent reporting are often made by those untrained in astronomy, atmospheric phenomena, aeronautics, phys",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:40.884875+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "who runs I think my favorite channel on YouTube that covers UFOs literally the information density of your channel is second"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-lakenheath-bentwaters-incident",
+      "node_type": "organization",
+      "label": "Lakenheath-Bentwaters incident",
+      "summary": "The Lakenheath-Bentwaters Incident was a series of radar and visual contacts with unidentified flying objects over airbases in eastern England on the night of 13–14 August 1956, involving personnel from the Royal Air Force (RAF) and the United States Air Force (USAF). The incident has since gained s",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:40.884879+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "sport or what do you mean good research? Oh, just that this incident. Yeah, there there's a because of course this guy when I st"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-chiles-whitted-ufo-encounter",
+      "node_type": "organization",
+      "label": "Chiles-Whitted UFO encounter",
+      "summary": "The Chiles-Whitted UFO encounter occurred at approximately 2:45 AM on July 24, 1948, in the skies near Montgomery, Alabama, United States. Two commercial pilots, Clarence S. Chiles and John B. Whitted, claimed to have observed a \"glowing object\" pass by their plane before it appeared to pull up into",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:40.884884+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "reproach as a person? Yes, I fully believe Jonathan Wayan's encounter. Why? There's small details that kind of prove to aid in ot"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-the-flying-saucers-are-real",
+      "node_type": "organization",
+      "label": "The Flying Saucers Are Real",
+      "summary": "The Flying Saucers Are Real, by Donald Keyhoe, is a book that investigated reports of UFOs by United States Air Force fighters, personnel, and other aircraft, between 1947 and 1950.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:40.884889+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "de craft that he encountered. But let's Yeah, let's back up real quick. So you're saying so ways this Peru case and then jus"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-archives-of-the-impossible",
+      "node_type": "organization",
+      "label": "Archives of the Impossible",
+      "summary": "The Archives of the Impossible (AOTI), sometimes called the Center for the Impossible, is a special collection at Rice University in Houston, Texas, United States. Founded in 2014 by Jeffrey J. Kripal, AOTI is based at the Woodson Research Center in the Fondren Library. It stewards collections on UF",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:40.884894+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "te impersonation. You're chasing after windmills. It's it's impossible to chase after the Majestic 12. The Majestic documents were"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-unidentified-flying-object",
+      "node_type": "organization",
+      "label": "Unidentified flying object",
+      "summary": "An unidentified flying object (UFO) is an object or phenomenon seen in the sky but not yet identified or explained. The term was coined when United States Air Force (USAF) investigations into flying saucers found too broad a range of shapes reported to consider them all saucers or discs. UFOs are al",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:40.884898+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "hing was just a higher level of detail, you know. the first object was a metallic basketball-sized sphere  and it was above a "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-us-department-of-defense",
+      "node_type": "organization",
+      "label": "US Department of Defense",
+      "summary": "US Department of Defense entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:40.884903+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "al. And then there's also stories about the  1983 strategic defense initiative instituted by Ronald Reagan, which was to act ag"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-leonard-h-stringfield",
+      "node_type": "organization",
+      "label": "Leonard H. Stringfield",
+      "summary": "Leonard Stringfield (1920–1994) was an American ufologist who took particular interest in crashed flying saucer stories. Stringfield was director of Civilian Research, Interplanetary Flying Objects (CRIFO), and published a monthly newsletter, ORBIT. In 1957 he became public relations adviser for the",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:40.884907+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "else and then another thing I'm sure many viewers will know Leonard Stringfield who's one of the greatest crash retrieval researchers proba"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-lonnie-zamora-incident",
+      "node_type": "organization",
+      "label": "Lonnie Zamora incident",
+      "summary": "The Lonnie Zamora incident was an alleged UFO sighting that occurred on April 24, 1964 near Socorro, New Mexico when Socorro police officer Lonnie Zamora claimed he saw two people beside a shiny object that later rose into the air accompanied by a roaring blue and orange flame. Zamora's claims were ",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:40.884912+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "sport or what do you mean good research? Oh, just that this incident. Yeah, there there's a because of course this guy when I st"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-roswell-that-ends-well",
+      "node_type": "organization",
+      "label": "Roswell That Ends Well",
+      "summary": "\"Roswell That Ends Well\" is the nineteenth episode in the third season of the American animated television series Futurama, and the 51st episode of the series overall. It originally aired on the Fox network in the United States on December 9, 2001. The plot centers on an accidental time travel event",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:40.884916+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "and crash retrievals. It kind of vindicates Steven Greer as well. And so, it's kind of hard to poke holes in actually just t"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-stanton-t-friedman",
+      "node_type": "organization",
+      "label": "Stanton T. Friedman",
+      "summary": "Stanton Terry Friedman (July 29, 1934 – May 13, 2019) was an American–Canadian nuclear physicist and professional ufologist who was based in Fredericton, New Brunswick, Canada.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:40.884921+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": " varying quality documents. I tend to adhere to the work of Stanton Friedman who spent a bunch of time authenticating the special operat"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-the-galileo-project",
+      "node_type": "organization",
+      "label": "The Galileo Project",
+      "summary": "The Galileo Project is an international scientific research project to search for extraterrestrial intelligence or extraterrestrial technology on and near Earth and to identify the nature of anomalous Unidentified Flying Objects/Unidentified Aerial Phenomena (UFOs/UAP). It was launched in 2021 by Ha",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:40.884925+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "for like alien signals and it's part of this thing he calls project preserve destiny and he says that he's genetically been man"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-thornton-leigh-page",
+      "node_type": "organization",
+      "label": "Thornton Leigh Page",
+      "summary": "Thornton Leigh Page was an American professor of astronomy at the University of Chicago and at Wesleyan University. He became embroiled in the controversy over unidentified flying objects (UFOs) after serving briefly on the Robertson Panel, a Central Intelligence Agency–sponsored committee of scient",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:40.884930+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "erplanetary phenomenon unit reports. One of them is a seven-page report that sounds very similar to the Eisenhower briefing "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-project-blue-book",
+      "node_type": "organization",
+      "label": "Project Blue Book",
+      "summary": "USAF UFO investigation program active from 1952 to 1969.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:40.884934+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "robably getting downloads and stuff. And actually there's a book called Above Black by a guy named Dan Sherman and he goes h"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-world-contact-day",
+      "node_type": "organization",
+      "label": "World Contact Day",
+      "summary": "World Contact Day was first declared in March 1953 by an organization called the International Flying Saucer Bureau (IFSB), as a day on which all IFSB members would attempt to send a telepathic message into space. The IFSB voted to hold such a day in 1953, theorising that if both telepathy and alien",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:40.884938+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "goes back to investigating Michael Herrera. way back in the day, I think this was like February of 2024, I made a video on "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-manhattan-project",
+      "node_type": "organization",
+      "label": "Manhattan Project",
+      "summary": "",
+      "tags": [
+        "government_agency"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:40.884943+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": " Harvard and he was like the number two guy in you know the Manhattan project at the time. So yeah, I don't know. It's it's hard to say b"
+        }
+      ],
+      "type_specific": {
+        "org_type": "government_agency"
+      }
+    },
+    {
+      "id": "organization-condon-committee",
+      "node_type": "organization",
+      "label": "Condon Committee",
+      "summary": "Condon Committee entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:40.884947+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "ess Ed. He was going to bring him in front of Senate Select Committee on Intelligence to testify. The guy got cold feet right bef"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-steven-m-greer",
+      "node_type": "organization",
+      "label": "Steven M. Greer",
+      "summary": "Steven Macon Greer (born 1955) is an American ufologist and a retired physician. He founded the Center for the Study of Extraterrestrial Intelligence (CSETI) and the Disclosure Project, which claims to seek the disclosure of alleged classified UFO information.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:40.884951+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "you know,  UFOs and crash retrievals. It kind of vindicates Steven Greer as well. And so, it's kind of hard to poke holes in actuall"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-scp-foundation",
+      "node_type": "organization",
+      "label": "SCP Foundation",
+      "summary": "The SCP Foundation is a fictional organization featured in stories created by contributors on the SCP Wiki, a wiki-based collaborative writing project, launched in 2008. Within the project's shared universe, the SCP (Special Containment Procedures) Foundation is a secret organization that is respons",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:40.884956+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "ber. Since then, we had the  hearings, we had like the Soul Foundation, we had Jake coming forward. We've had so much to touch on."
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-edward-condon",
+      "node_type": "organization",
+      "label": "Edward Condon",
+      "summary": "Edward Uhler Condon (March 2, 1902 – March 26, 1974) was an American nuclear physicist, a pioneer in quantum mechanics, and a participant during World War II in the development of radar and, very briefly, of nuclear weapons as part of the Manhattan Project. The Franck–Condon principle and the Slater",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:40.884960+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "here. I mean, there's the not the Condan Committee, but the Condon report from England, Project Magnet, Project Second Story, "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-us-air-force",
+      "node_type": "organization",
+      "label": "US Air Force",
+      "summary": "US Air Force entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:40.884964+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "technology division. This isn't to be confused with the Air Force's Foreign  Technology Division. Two separate things., under"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-big-sur-ufo",
+      "node_type": "organization",
+      "label": "Big Sur UFO",
+      "summary": "The Big Sur UFO is a reported UFO incident that took place during a 1964 Air Force deployment to a mountaintop near Big Sur, California. The deployment was a mission was to film Atlas missile tests from Vandenberg Air Force Base. Since 1982, Robert Jacobs, who had overseen the mountaintop team, has ",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:40.884968+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "omes to UFOs. But this follow-up should get crazier because UFO world has gone nuts since we last spoke. So, it's an honor "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-majestic-12",
+      "node_type": "organization",
+      "label": "Majestic 12",
+      "summary": "Majestic 12, also known as Majic-12, and MJ-12 for short, is a purported organization that appeared in fake documents first circulated by ufologists in 1984, and that some UFO conspiracy theories still claim to have existed. The organization is claimed to be the code name of an alleged secret commit",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:40.884972+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "UFO working group which there's reason to suggest maybe the Majestic 12 changed into that along the way. But what I wanted to say a"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-mirage-men",
+      "node_type": "organization",
+      "label": "Mirage Men",
+      "summary": "Mirage Men is a 2013 documentary film directed by John Lundberg, written by Mark Pilkington and co-directed by Roland Denning and Kypros Kyprianou. Mirage Men suggests there was a conspiracy by the U.S. military to fabricate UFO folklore in order to deflect attention from classified military project",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:40.884976+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "d. Michael described a little further by stating that these men back in 2009 had really advanced M4 rifles with, you know, "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-bob-lazar",
+      "node_type": "organization",
+      "label": "Bob Lazar",
+      "summary": "Robert Scott Lazar () is an American who, since 1989, has claimed to have been part of a classified US government project concerned with the reverse engineering of extraterrestrial technology; he also purported to have read government briefing documents that described alien involvement in human affa",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:40.884980+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": " We know EG&G from the Wilson Davis memo, from the story of Bob Lazar, Edgar Fuche, so forth seeped in and UFO lore. Yes, it seem"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-us-navy",
+      "node_type": "organization",
+      "label": "US Navy",
+      "summary": "US Navy entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:40.884984+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "up top and that was odd. Now anybody who's  saying that the Navy hasn't studied this stuff is not fully knowledgeable on the"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-nasa",
+      "node_type": "organization",
+      "label": "NASA",
+      "summary": "NASA entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:40.884989+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "this community. It's an app and website created by a former NASA engineer to tackle a problem we all face. How the way we co"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other",
+        "acronym": "NASA"
+      }
+    },
+    {
+      "id": "organization-cia",
+      "node_type": "organization",
+      "label": "CIA",
+      "summary": "CIA entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:40.884993+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "he government does this roll up to? You hear stuff like the CIA's director of science and technology, you know, somebody li"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other",
+        "acronym": "CIA"
+      }
+    },
+    {
+      "id": "organization-fbi",
+      "node_type": "organization",
+      "label": "FBI",
+      "summary": "FBI entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:40.884997+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "o talk to  Jake about this and it's like there's an ongoing FBI investigation, so he can't say much. And then I did get him"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other",
+        "acronym": "FBI"
+      }
+    },
+    {
+      "id": "organization-nsa",
+      "node_type": "organization",
+      "label": "NSA",
+      "summary": "",
+      "tags": [
+        "intelligence_agency"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:40.885001+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": " more so than CIA modern day, the National Security Agency, NSA. Y we know that the CIA deals with human or  human intellig"
+        }
+      ],
+      "type_specific": {
+        "org_type": "intelligence_agency",
+        "acronym": "NSA",
+        "full_name": "National Security Agency"
+      }
+    },
+    {
+      "id": "organization-dod",
+      "node_type": "organization",
+      "label": "DoD",
+      "summary": "",
+      "tags": [
+        "government_agency"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:40.885004+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "the breaking points you know guys he admitted that like the DoD and IC like tipped him off on the story basically. Yeah. So"
+        }
+      ],
+      "type_specific": {
+        "org_type": "government_agency",
+        "full_name": "Department of Defense"
+      }
+    },
+    {
+      "id": "location-wright-patterson-air-force-base",
+      "node_type": "location",
+      "label": "Wright-Patterson Air Force Base",
+      "summary": "",
+      "tags": [
+        "military_base"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:40.885010+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "as the chief of the foreign technology division, not out of Wright Patterson Air Force Base., but the crux of his testimony is that unde"
+        }
+      ],
+      "type_specific": {
+        "location_type": "military_base",
+        "country": "US",
+        "state_or_region": "Ohio"
+      }
+    },
+    {
+      "id": "location-edwards-air-force-base",
+      "node_type": "location",
+      "label": "Edwards Air Force Base",
+      "summary": "",
+      "tags": [
+        "military_base"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:40.885015+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "oday, including naming naming sites where programs operate. Edwards Air Force Base, not really Wright Patterson, China Lake, Dougway Proving G"
+        }
+      ],
+      "type_specific": {
+        "location_type": "military_base",
+        "country": "US",
+        "state_or_region": "California"
+      }
+    },
+    {
+      "id": "location-pacific-training-area",
+      "node_type": "location",
+      "label": "Pacific Training Area",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:40.885019+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "After that we moved on down another hallway and got into an area that had a marking on the wall and said off-world technolog"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-united-states",
+      "node_type": "location",
+      "label": "United States",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:40.885023+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "h we can parallel today and talk about later but Corso also states during this time that the foreign technology guide ICBM mis"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-roswell",
+      "node_type": "location",
+      "label": "Roswell",
+      "summary": "",
+      "tags": [
+        "city"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:40.885028+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "f Army R&D. And this is  where materials recovered from the Roswell crash and possibly other crashes, maybe Aztec, maybe crash "
+        }
+      ],
+      "type_specific": {
+        "location_type": "city",
+        "country": "US",
+        "state_or_region": "New Mexico"
+      }
+    },
+    {
+      "id": "location-area-51",
+      "node_type": "location",
+      "label": "Area 51",
+      "summary": "",
+      "tags": [
+        "military_base"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:40.885031+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": " Utah saw  much saw a lot of UFO programs shipped over from Area 51. And he always quotes that 35 to 40% of programs at Area 51"
+        }
+      ],
+      "type_specific": {
+        "location_type": "military_base",
+        "country": "US",
+        "state_or_region": "Nevada"
+      }
+    },
+    {
+      "id": "location-canada",
+      "node_type": "location",
+      "label": "Canada",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:40.885035+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "t Smith relayed that in a 1950 Department of Transportation Canada memo that was then reduced from top secret to I think restr"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-france",
+      "node_type": "location",
+      "label": "France",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:40.885039+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "d Jay Allen Heinik. Jacqu Valet's played as a  character by France watch. You see crates that say Locked in Northrup. No, don'"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-russia",
+      "node_type": "location",
+      "label": "Russia",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:40.885043+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": " in the event in which you know we're at par with China and Russia why wouldn't you let out some like basic surface area that "
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-italy",
+      "node_type": "location",
+      "label": "Italy",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:40.885047+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "d Grush says that there's this magenta crash in Lombardi in Italy in 1933. Exactly. I've now made the connection through some"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-peru",
+      "node_type": "location",
+      "label": "Peru",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:40.885050+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "poral in the Marines who claimed in 1997 while stationed in Peru  under Operation Laser Strike that he encountered a crashed"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-s-4",
+      "node_type": "location",
+      "label": "S-4",
+      "summary": "",
+      "tags": [
+        "military_base"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:40.885054+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "th of or just southwest of Papoose mountain range, right by Papoose Lake is a is a real place. Well, and what's what's your good rea"
+        }
+      ],
+      "type_specific": {
+        "location_type": "military_base",
+        "country": "US",
+        "state_or_region": "Nevada"
+      }
+    },
+    {
+      "id": "program-project-blue-book",
+      "node_type": "program",
+      "label": "Project Blue Book",
+      "summary": "",
+      "tags": [
+        "program"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:40.885059+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "ital study of UFOs the public facing stuff was relegated to project blue book and the air force and then all the private stuff was manage"
+        }
+      ],
+      "type_specific": {
+        "acronym": "Blue Book"
+      }
+    },
+    {
+      "id": "program-mj-12",
+      "node_type": "program",
+      "label": "MJ-12",
+      "summary": "",
+      "tags": [
+        "program"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:40.885063+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "UFO working group which there's reason to suggest maybe the Majestic 12 changed into that along the way. But what I wanted to say a"
+        }
+      ]
+    },
+    {
+      "id": "document-the-day-after-roswell",
+      "node_type": "document",
+      "label": "The Day After Roswell",
+      "summary": "",
+      "tags": [
+        "book"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:40.885068+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "or a limited time, you can get the same plan I use  97. But the day after Roswell has a bunch of fluff added by its coowwriter. That's intere"
+        }
+      ],
+      "type_specific": {
+        "document_type": "book",
+        "author": "Philip Corso"
+      }
+    },
+    {
+      "id": "document-ufos-and-nukes",
+      "node_type": "document",
+      "label": "UFOs and Nukes",
+      "summary": "",
+      "tags": [
+        "book"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:40.885073+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "e UFO researchers like Robert Hastings, you know, who wrote UFOs and nukes is that these were p this was passage material. So it was l"
+        }
+      ],
+      "type_specific": {
+        "document_type": "book",
+        "author": "Robert Hastings"
+      }
+    },
+    {
+      "id": "claim-nTiFs8LudUo-discussion-summary",
+      "node_type": "claim",
+      "label": "Video nTiFs8LudUo features extended discussion of Wilbert Brockhouse Smith, Kirsten Gillibrand, Whit",
+      "summary": "Video nTiFs8LudUo features extended discussion of Wilbert Brockhouse Smith, Kirsten Gillibrand, Whitley Strieber and related UAP research topics, hosted by Jesse Michels.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:40.885086+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "Episode title: UAPGerb: “The New Area51 Is HERE in Utah!”"
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Video nTiFs8LudUo features extended discussion of Wilbert Brockhouse Smith, Kirsten Gillibrand, Whitley Strieber and related UAP research topics, hosted by Jesse Michels.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "nTiFs8LudUo",
+        "timestamp_start_seconds": 0,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-wilbert-brockhouse-smith",
+          "person-kirsten-gillibrand",
+          "person-whitley-strieber",
+          "video-nTiFs8LudUo"
+        ]
+      }
+    },
+    {
+      "id": "person-sammy-gerb-extended",
+      "node_type": "person",
+      "label": "Sammy 'UAPGerb' Gerb (Utah episode)",
+      "summary": "UAPGerb channel operator; in this episode deep-dives JSOC Tier One teams (Delta, SEAL Team 6, ISA, 24th STS) and DOE-NEST crash-retrieval team structure.",
+      "tags": [
+        "researcher"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:07:01.191301+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 479,
+          "quote": "UAPGerb re-extension; this episode deep on Jake Barber, Skywatcher, NEST teams"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "UAPGerb",
+          "Gerb"
+        ],
+        "profession": "researcher",
+        "notability_tags": [
+          "researcher"
+        ]
+      }
+    },
+    {
+      "id": "program-nest-nuclear-emergency-search-team",
+      "node_type": "program",
+      "label": "Nuclear Emergency Search Team (NEST)",
+      "summary": "Department of Energy Nuclear Emergency Search Team (NEST) — elite operators responding to nuclear-technology/secret events. Per Gerb, NEST teams work crash retrievals containing hazardous biological or radiological material and have EG&G contractor support.",
+      "tags": [
+        "program"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:07:01.191303+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 513,
+          "timestamp_end": "DOE specialized team containing biologics spillage at crash sites"
+        }
+      ],
+      "type_specific": {
+        "acronym": "NEST"
+      }
+    },
+    {
+      "id": "person-eggg-contractor",
+      "node_type": "person",
+      "label": "EG&G (Contractor)",
+      "summary": "Private defense contractor supporting US Nuclear Emergency Search Teams and UAP-adjacent programs (Wilson-Davis memo, Bob Lazar, Edgar Fouche).",
+      "tags": [
+        "contractor",
+        "historical"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:07:01.191305+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 517,
+          "quote": "Private contractor supporting NEST teams and UAP programs"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "EG&G",
+          "Edgerton Germeshausen Grier"
+        ],
+        "profession": "contractor",
+        "notability_tags": [
+          "contractor",
+          "historical"
+        ]
+      }
+    },
+    {
+      "id": "incident-1974-coyame-mexico-crash",
+      "node_type": "incident",
+      "label": "1974 Coyame Mexico UFO Crash",
+      "summary": "Alleged August 1974 UFO crash near Coyame Chihuahua Mexico; per Gerb and the 'Majestic' documents, toxic elements seeped from the crash site — explaining NEST-style hazmat response protocol.",
+      "tags": [
+        "crash_retrieval"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:07:01.191307+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 515,
+          "timestamp_end": "Alleged UFO crash in Coyame Mexico with toxic biological seepage"
+        }
+      ],
+      "type_specific": {
+        "incident_type": "crash_retrieval",
+        "date_approximate": "1974-08-25"
+      }
+    },
+    {
+      "id": "program-sdi-star-wars",
+      "node_type": "program",
+      "label": "Strategic Defense Initiative (SDI) / Star Wars",
+      "summary": "Ronald Reagan's 1983 Strategic Defense Initiative — anti-Soviet-ICBM program. Per Gerb, 'Star Wars' likely had a back door to fund UAP programs and act offensively against UAPs.",
+      "tags": [
+        "program"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:07:01.191309+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 476,
+          "timestamp_end": "Reagan 1983 anti-ICBM program possibly back-door to UAP programs"
+        }
+      ],
+      "type_specific": {
+        "acronym": "SDI"
+      }
+    },
+    {
+      "id": "claim-nTiFs8LudUo-gerb-jsoc-tier-one-crash-retrieval",
+      "node_type": "claim",
+      "label": "Per Gerb: the crash-retrieval team Barber and Herrera encountered is deep-black former JSOC Tier One",
+      "summary": "Per Gerb: the crash-retrieval team Barber and Herrera encountered is deep-black former JSOC Tier One — former Delta, SEAL Team 6, ISA (Gray Fox), and 24th STS operators willing to use force against civilians.",
+      "tags": [
+        "speculation",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:07:01.215627+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 519,
+          "quote": "This is likely a deep black former JSOC Joint Special Operations Command, Tier One Operators, former Delta, SEAL Team 6, Intelligence Support Activity, 24th STS. These guys are bad eggs who are okay with hurting people."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Per Gerb: the crash-retrieval team Barber and Herrera encountered is deep-black former JSOC Tier One — former Delta, SEAL Team 6, ISA (Gray Fox), and 24th STS operators willing to use force against civilians.",
+        "asserted_by_id": "person-sammy-gerb-extended",
+        "source_video_id": "nTiFs8LudUo",
+        "timestamp_start_seconds": 519,
+        "assertability": "speculation",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-sammy-gerb-extended",
+          "program-gray-fox-isa",
+          "person-jake-barber",
+          "person-michael-herrera",
+          "concept-crash-retrieval"
+        ]
+      }
+    },
+    {
+      "id": "claim-nTiFs8LudUo-gerb-sdi-star-wars-uap-backdoor",
+      "node_type": "claim",
+      "label": "Gerb posits Reagan's 1983 SDI ('Star Wars') likely had a back door to fund UAP programs and act offe",
+      "summary": "Gerb posits Reagan's 1983 SDI ('Star Wars') likely had a back door to fund UAP programs and act offensively against UAP — not just against Soviet ICBMs.",
+      "tags": [
+        "speculation",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:07:01.215649+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 477,
+          "quote": "There's also stories about the 1983 strategic defense initiative instituted by Ronald Reagan, which was to act against Soviet ICBMs. Star Wars. This likely had a back door to fund UAP programs and act offensively against UAP."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Gerb posits Reagan's 1983 SDI ('Star Wars') likely had a back door to fund UAP programs and act offensively against UAP — not just against Soviet ICBMs.",
+        "asserted_by_id": "person-sammy-gerb-extended",
+        "source_video_id": "nTiFs8LudUo",
+        "timestamp_start_seconds": 477,
+        "assertability": "speculation",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-sammy-gerb-extended",
+          "program-sdi-star-wars"
+        ]
+      }
+    },
+    {
+      "id": "claim-nTiFs8LudUo-gerb-army-icbm-brainwave",
+      "node_type": "claim",
+      "label": "Gerb notes the golden age of Army R&D investigated using human brain waves to guide ICBM missiles vi",
+      "summary": "Gerb notes the golden age of Army R&D investigated using human brain waves to guide ICBM missiles via recovered NHI technology — mind-machine interface applied to strategic weapons.",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:07:01.215704+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 475,
+          "quote": "The foreign technology division was trying to use recovered technology to use human brain waves to guide ICBM missiles. And wow, it is not only possible, it is essential."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Gerb notes the golden age of Army R&D investigated using human brain waves to guide ICBM missiles via recovered NHI technology — mind-machine interface applied to strategic weapons.",
+        "asserted_by_id": "person-sammy-gerb-extended",
+        "source_video_id": "nTiFs8LudUo",
+        "timestamp_start_seconds": 475,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-sammy-gerb-extended",
+          "concept-reverse-engineering"
+        ]
+      }
+    },
+    {
+      "id": "claim-nTiFs8LudUo-gerb-nest-doe-hazmat-team",
+      "node_type": "claim",
+      "label": "The crash-retrieval team Wagant encountered (DOE rain jackets, hazmat suits) matches DOE's NEST (Nuc",
+      "summary": "The crash-retrieval team Wagant encountered (DOE rain jackets, hazmat suits) matches DOE's NEST (Nuclear Emergency Search Team) profile — which handles nuclear-and-NHI-hazard containment.",
+      "tags": [
+        "speculation",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:07:01.215715+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 513,
+          "quote": "Some of them wore DOE lettered rain jackets and there were other military operators in black fatigues. This must have been a specialized crash retrieval team to contain biologics spillage. I think this is likely a DOE NEST team, nuclear emergency search teams."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "The crash-retrieval team Wagant encountered (DOE rain jackets, hazmat suits) matches DOE's NEST (Nuclear Emergency Search Team) profile — which handles nuclear-and-NHI-hazard containment.",
+        "asserted_by_id": "person-sammy-gerb-extended",
+        "source_video_id": "nTiFs8LudUo",
+        "timestamp_start_seconds": 513,
+        "assertability": "speculation",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-sammy-gerb-extended",
+          "person-jonathan-wagant",
+          "program-nest-nuclear-emergency-search-team"
+        ]
+      }
+    },
+    {
+      "id": "claim-nTiFs8LudUo-gerb-herrera-psionic-asset-trafficking",
+      "node_type": "claim",
+      "label": "Herrera's core hypothesis: UFO legacy programs engage in 'psionic asset trafficking' — kidnapping ci",
+      "summary": "Herrera's core hypothesis: UFO legacy programs engage in 'psionic asset trafficking' — kidnapping citizens of third-world countries (Indonesia in his 2009 case) and transporting them to US to summon NHI craft.",
+      "tags": [
+        "hearsay",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:07:01.215725+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 503,
+          "quote": "He thinks that this whole thing is part of some sort of psionic asset trafficking scheme where UFO legacy programs are actually taking people in third world countries like Indonesia back to the US in order to summon craft."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Herrera's core hypothesis: UFO legacy programs engage in 'psionic asset trafficking' — kidnapping citizens of third-world countries (Indonesia in his 2009 case) and transporting them to US to summon NHI craft.",
+        "asserted_by_id": "person-sammy-gerb-extended",
+        "source_video_id": "nTiFs8LudUo",
+        "timestamp_start_seconds": 503,
+        "assertability": "hearsay",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-sammy-gerb-extended",
+          "person-michael-herrera"
+        ]
+      }
+    },
+    {
+      "id": "claim-nTiFs8LudUo-gerb-herrera-2009-vantablack-octagon",
+      "node_type": "claim",
+      "label": "Michael Herrera 2009 Indonesia: saw 'vantablack octagon' craft hovering above treetops; his unit int",
+      "summary": "Michael Herrera 2009 Indonesia: saw 'vantablack octagon' craft hovering above treetops; his unit intercepted by elite paramilitary team carrying advanced M4 rifles with bioscanners (foreshadowing iPhone-like technology at that time).",
+      "tags": [
+        "cited_from_document",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:07:01.215736+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 501,
+          "quote": "Michael Herrera is this case in Indonesia with this marine unit and they see this vantablack octagon shape craft hovering above the treetops. These men back in 2009 had really advanced M4 rifles with beautiful rangefinders and bioscanners. Like a modern cell phone to scan their identification."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Michael Herrera 2009 Indonesia: saw 'vantablack octagon' craft hovering above treetops; his unit intercepted by elite paramilitary team carrying advanced M4 rifles with bioscanners (foreshadowing iPhone-like technology at that time).",
+        "asserted_by_id": "person-sammy-gerb-extended",
+        "source_video_id": "nTiFs8LudUo",
+        "timestamp_start_seconds": 501,
+        "assertability": "cited_from_document",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-sammy-gerb-extended",
+          "person-michael-herrera"
+        ]
+      }
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge-video-nTiFs8LudUo-HOSTED_BY-person-jesse-michels",
+      "from_node_id": "video-nTiFs8LudUo",
+      "to_node_id": "person-jesse-michels",
+      "relationship": "HOSTED_BY",
+      "confidence": 0.99,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "Jesse hosting"
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-APPEARED_IN-video-nTiFs8LudUo",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "video-nTiFs8LudUo",
+      "relationship": "APPEARED_IN",
+      "confidence": 0.99,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "Host"
+        }
+      ],
+      "properties": {
+        "appearance_type": "host"
+      }
+    },
+    {
+      "id": "edge-video-nTiFs8LudUo-MENTIONS-person-wilbert-brockhouse-smith",
+      "from_node_id": "video-nTiFs8LudUo",
+      "to_node_id": "person-wilbert-brockhouse-smith",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "lker, Robert Sarbacher, Dr. Robert Sarbacher and Wilbert B. Smith. So this t this story takes place around  1950. Wilbur B. S"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-nTiFs8LudUo-MENTIONS-person-kirsten-gillibrand",
+      "from_node_id": "video-nTiFs8LudUo",
+      "to_node_id": "person-kirsten-gillibrand",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "e said that to S when Susan go sitting  right behind him to Gillibrand at the 2024 Arrow hearing. Whoa. And then of course when Se"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-nTiFs8LudUo-MENTIONS-person-whitley-strieber",
+      "from_node_id": "video-nTiFs8LudUo",
+      "to_node_id": "person-whitley-strieber",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "le lot to do with this I believe Robert Sarbacher also told Whitley Strieber so Sarbacher I just interviewed Whitley Strieber he talked "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-nTiFs8LudUo-MENTIONS-person-stanton-friedman",
+      "from_node_id": "video-nTiFs8LudUo",
+      "to_node_id": "person-stanton-friedman",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": " varying quality documents. I tend to adhere to the work of Stanton Friedman who spent a bunch of time authenticating the special operat"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-nTiFs8LudUo-MENTIONS-person-robert-hastings",
+      "from_node_id": "video-nTiFs8LudUo",
+      "to_node_id": "person-robert-hastings",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "ike with those kind of old school like UFO researchers like Robert Hastings, you know, who wrote UFOs and nukes is that these were p th"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-nTiFs8LudUo-MENTIONS-person-john-f-kennedy",
+      "from_node_id": "video-nTiFs8LudUo",
+      "to_node_id": "person-john-f-kennedy",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "ow pretty classified info  and admitted as much actually to Kennedy and Stanton Friedman actually writes about this was sort of"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-nTiFs8LudUo-MENTIONS-person-eric-weinstein",
+      "from_node_id": "video-nTiFs8LudUo",
+      "to_node_id": "person-eric-weinstein",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "nd the AI just like we classified physics and like you have Eric Weinstein, my for former  colleague is you know constantly kind of op"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-nTiFs8LudUo-MENTIONS-person-james-mcdonald",
+      "from_node_id": "video-nTiFs8LudUo",
+      "to_node_id": "person-james-mcdonald",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "ce forensic artists I've talked about this a few times Bill McDonald who's done a lot of work on drawing the Roswell craft. He a"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-nTiFs8LudUo-MENTIONS-person-e-howard-hunt",
+      "from_node_id": "video-nTiFs8LudUo",
+      "to_node_id": "person-e-howard-hunt",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": " it's called Zero point something about zero point yeah the hunt for it's not the hunt for zero point but something about li"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-nTiFs8LudUo-MENTIONS-person-alex-dietrich",
+      "from_node_id": "video-nTiFs8LudUo",
+      "to_node_id": "person-alex-dietrich",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": " they run some sort of biological materials lab out of Fort Dietrich. And also a lot of really interesting classified work out a"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-nTiFs8LudUo-MENTIONS-person-richard-dolan",
+      "from_node_id": "video-nTiFs8LudUo",
+      "to_node_id": "person-richard-dolan",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": " forth. and guys like   really great researchers today like Richard Dolan, he still focuses more on like sightings and kind of flaps "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-nTiFs8LudUo-MENTIONS-person-stephen-greer",
+      "from_node_id": "video-nTiFs8LudUo",
+      "to_node_id": "person-stephen-greer",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "w,  UFOs and crash retrievals. It kind of vindicates Steven Greer as well. And so, it's kind of hard to poke holes in actuall"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-nTiFs8LudUo-MENTIONS-person-donald-menzel",
+      "from_node_id": "video-nTiFs8LudUo",
+      "to_node_id": "person-donald-menzel",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "ar Bush, including Dr. Ros or including Rosco Hilloder, Dr. Donald Menzel, I think his name is Vonoman. Vonman, Jerome Hunaker, who e"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-nTiFs8LudUo-MENTIONS-person-love-has-won",
+      "from_node_id": "video-nTiFs8LudUo",
+      "to_node_id": "person-love-has-won",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "icated after after McMongle sort of figured this out and he won the Legion of Merit due to you know the very productive act"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-nTiFs8LudUo-MENTIONS-person-paul-r-hill",
+      "from_node_id": "video-nTiFs8LudUo",
+      "to_node_id": "person-paul-r-hill",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "on  Philip J. Corso he says that material is taken to Rosco Hill or Hill Encoder. Rosco Hiller is the first director of the "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-nTiFs8LudUo-MENTIONS-person-riley-martin",
+      "from_node_id": "video-nTiFs8LudUo",
+      "to_node_id": "person-riley-martin",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "ch went defunct and its divisions went to  Northrup, Loheed Martin, Rathon and others. And so Philip Corso actually has a manu"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-nTiFs8LudUo-MENTIONS-person-timothy-good",
+      "from_node_id": "video-nTiFs8LudUo",
+      "to_node_id": "person-timothy-good",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "icest people I've ever met in my entire life. he's a really good guy. Do you find him beyond reproach as a person? Yes, I fu"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-nTiFs8LudUo-MENTIONS-person-philip-corso",
+      "from_node_id": "video-nTiFs8LudUo",
+      "to_node_id": "person-philip-corso",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "ff I do that hearken back to this. one example is Philip J. Corso. I recently did a project on Corso., Corso stated that in 1"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-nTiFs8LudUo-MENTIONS-person-allen-dulles",
+      "from_node_id": "video-nTiFs8LudUo",
+      "to_node_id": "person-allen-dulles",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": " a bunch of guys at the time along with Paul Melon and Alan Dulles. There's a story of Paul Melon kind of spilling the beans t"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-nTiFs8LudUo-MENTIONS-person-chan-thomas",
+      "from_node_id": "video-nTiFs8LudUo",
+      "to_node_id": "person-chan-thomas",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "ust this fascinating  character who is also very close with Thomas Towns and Brown who's this anti-gravity inventor at the tim"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-nTiFs8LudUo-MENTIONS-person-garry-nolan",
+      "from_node_id": "video-nTiFs8LudUo",
+      "to_node_id": "person-garry-nolan",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "rather rushed and overhyped just like you said you know Dr. Nolan came  out beforehand said people would be very happy with t"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-nTiFs8LudUo-MENTIONS-person-ed-mitchell",
+      "from_node_id": "video-nTiFs8LudUo",
+      "to_node_id": "person-ed-mitchell",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "ction. And in that document that I believe was found in the Edgar Mitchell estate. In that document it says JA is a liar and I think J"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-nTiFs8LudUo-MENTIONS-person-betty-hill",
+      "from_node_id": "video-nTiFs8LudUo",
+      "to_node_id": "person-betty-hill",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "on  Philip J. Corso he says that material is taken to Rosco Hill or Hill Encoder. Rosco Hiller is the first director of the "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-nTiFs8LudUo-MENTIONS-person-kid-cosmic",
+      "from_node_id": "video-nTiFs8LudUo",
+      "to_node_id": "person-kid-cosmic",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "in his 2024 September event that he was contacted by like a cosmic intelligence and told to basically save the world. He's bro"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-nTiFs8LudUo-MENTIONS-person-bob-lazar",
+      "from_node_id": "video-nTiFs8LudUo",
+      "to_node_id": "person-bob-lazar",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": " We know EG&G from the Wilson Davis memo, from the story of Bob Lazar, Edgar Fuche, so forth seeped in and UFO lore. Yes, it seem"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-nTiFs8LudUo-MENTIONS-person-art-bell",
+      "from_node_id": "video-nTiFs8LudUo",
+      "to_node_id": "person-art-bell",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "es, you know, to you know, for commercial purposes. So like Bell Labs would be like the main place. Bell Labs, Sperry Rand, "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-nTiFs8LudUo-MENTIONS-organization-international-ufo-museum-and-research-center",
+      "from_node_id": "video-nTiFs8LudUo",
+      "to_node_id": "organization-international-ufo-museum-and-research-center",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "know as a as a Green Beret was at the Naval Surface Warfare Center crane went underground via contractor SIC and was shown tec"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-nTiFs8LudUo-MENTIONS-organization-1952-washington-d-c-ufo-incident",
+      "from_node_id": "video-nTiFs8LudUo",
+      "to_node_id": "organization-1952-washington-d-c-ufo-incident",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "sport or what do you mean good research? Oh, just that this incident. Yeah, there there's a because of course this guy when I st"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-nTiFs8LudUo-MENTIONS-organization-identification-studies-of-ufos",
+      "from_node_id": "video-nTiFs8LudUo",
+      "to_node_id": "organization-identification-studies-of-ufos",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "who runs I think my favorite channel on YouTube that covers UFOs literally the information density of your channel is second"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-nTiFs8LudUo-MENTIONS-organization-lakenheath-bentwaters-incident",
+      "from_node_id": "video-nTiFs8LudUo",
+      "to_node_id": "organization-lakenheath-bentwaters-incident",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "sport or what do you mean good research? Oh, just that this incident. Yeah, there there's a because of course this guy when I st"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-nTiFs8LudUo-MENTIONS-organization-chiles-whitted-ufo-encounter",
+      "from_node_id": "video-nTiFs8LudUo",
+      "to_node_id": "organization-chiles-whitted-ufo-encounter",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "reproach as a person? Yes, I fully believe Jonathan Wayan's encounter. Why? There's small details that kind of prove to aid in ot"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-nTiFs8LudUo-MENTIONS-organization-the-flying-saucers-are-real",
+      "from_node_id": "video-nTiFs8LudUo",
+      "to_node_id": "organization-the-flying-saucers-are-real",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "de craft that he encountered. But let's Yeah, let's back up real quick. So you're saying so ways this Peru case and then jus"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-nTiFs8LudUo-MENTIONS-organization-archives-of-the-impossible",
+      "from_node_id": "video-nTiFs8LudUo",
+      "to_node_id": "organization-archives-of-the-impossible",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "te impersonation. You're chasing after windmills. It's it's impossible to chase after the Majestic 12. The Majestic documents were"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-nTiFs8LudUo-MENTIONS-organization-unidentified-flying-object",
+      "from_node_id": "video-nTiFs8LudUo",
+      "to_node_id": "organization-unidentified-flying-object",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "hing was just a higher level of detail, you know. the first object was a metallic basketball-sized sphere  and it was above a "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-nTiFs8LudUo-MENTIONS-organization-us-department-of-defense",
+      "from_node_id": "video-nTiFs8LudUo",
+      "to_node_id": "organization-us-department-of-defense",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "al. And then there's also stories about the  1983 strategic defense initiative instituted by Ronald Reagan, which was to act ag"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-nTiFs8LudUo-MENTIONS-organization-leonard-h-stringfield",
+      "from_node_id": "video-nTiFs8LudUo",
+      "to_node_id": "organization-leonard-h-stringfield",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "else and then another thing I'm sure many viewers will know Leonard Stringfield who's one of the greatest crash retrieval researchers proba"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-nTiFs8LudUo-MENTIONS-organization-lonnie-zamora-incident",
+      "from_node_id": "video-nTiFs8LudUo",
+      "to_node_id": "organization-lonnie-zamora-incident",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "sport or what do you mean good research? Oh, just that this incident. Yeah, there there's a because of course this guy when I st"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-nTiFs8LudUo-MENTIONS-organization-roswell-that-ends-well",
+      "from_node_id": "video-nTiFs8LudUo",
+      "to_node_id": "organization-roswell-that-ends-well",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "and crash retrievals. It kind of vindicates Steven Greer as well. And so, it's kind of hard to poke holes in actually just t"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-nTiFs8LudUo-MENTIONS-organization-stanton-t-friedman",
+      "from_node_id": "video-nTiFs8LudUo",
+      "to_node_id": "organization-stanton-t-friedman",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": " varying quality documents. I tend to adhere to the work of Stanton Friedman who spent a bunch of time authenticating the special operat"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-nTiFs8LudUo-MENTIONS-organization-the-galileo-project",
+      "from_node_id": "video-nTiFs8LudUo",
+      "to_node_id": "organization-the-galileo-project",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "for like alien signals and it's part of this thing he calls project preserve destiny and he says that he's genetically been man"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-nTiFs8LudUo-MENTIONS-organization-thornton-leigh-page",
+      "from_node_id": "video-nTiFs8LudUo",
+      "to_node_id": "organization-thornton-leigh-page",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "erplanetary phenomenon unit reports. One of them is a seven-page report that sounds very similar to the Eisenhower briefing "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-nTiFs8LudUo-MENTIONS-organization-project-blue-book",
+      "from_node_id": "video-nTiFs8LudUo",
+      "to_node_id": "organization-project-blue-book",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "robably getting downloads and stuff. And actually there's a book called Above Black by a guy named Dan Sherman and he goes h"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-nTiFs8LudUo-MENTIONS-organization-world-contact-day",
+      "from_node_id": "video-nTiFs8LudUo",
+      "to_node_id": "organization-world-contact-day",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "goes back to investigating Michael Herrera. way back in the day, I think this was like February of 2024, I made a video on "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-nTiFs8LudUo-MENTIONS-organization-manhattan-project",
+      "from_node_id": "video-nTiFs8LudUo",
+      "to_node_id": "organization-manhattan-project",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": " Harvard and he was like the number two guy in you know the Manhattan project at the time. So yeah, I don't know. It's it's hard to say b"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-nTiFs8LudUo-MENTIONS-organization-condon-committee",
+      "from_node_id": "video-nTiFs8LudUo",
+      "to_node_id": "organization-condon-committee",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "ess Ed. He was going to bring him in front of Senate Select Committee on Intelligence to testify. The guy got cold feet right bef"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-nTiFs8LudUo-MENTIONS-organization-steven-m-greer",
+      "from_node_id": "video-nTiFs8LudUo",
+      "to_node_id": "organization-steven-m-greer",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "you know,  UFOs and crash retrievals. It kind of vindicates Steven Greer as well. And so, it's kind of hard to poke holes in actuall"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-nTiFs8LudUo-MENTIONS-organization-scp-foundation",
+      "from_node_id": "video-nTiFs8LudUo",
+      "to_node_id": "organization-scp-foundation",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "ber. Since then, we had the  hearings, we had like the Soul Foundation, we had Jake coming forward. We've had so much to touch on."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-nTiFs8LudUo-MENTIONS-organization-edward-condon",
+      "from_node_id": "video-nTiFs8LudUo",
+      "to_node_id": "organization-edward-condon",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "here. I mean, there's the not the Condan Committee, but the Condon report from England, Project Magnet, Project Second Story, "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-nTiFs8LudUo-MENTIONS-organization-us-air-force",
+      "from_node_id": "video-nTiFs8LudUo",
+      "to_node_id": "organization-us-air-force",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "technology division. This isn't to be confused with the Air Force's Foreign  Technology Division. Two separate things., under"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-nTiFs8LudUo-MENTIONS-organization-big-sur-ufo",
+      "from_node_id": "video-nTiFs8LudUo",
+      "to_node_id": "organization-big-sur-ufo",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "omes to UFOs. But this follow-up should get crazier because UFO world has gone nuts since we last spoke. So, it's an honor "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-nTiFs8LudUo-MENTIONS-organization-majestic-12",
+      "from_node_id": "video-nTiFs8LudUo",
+      "to_node_id": "organization-majestic-12",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "UFO working group which there's reason to suggest maybe the Majestic 12 changed into that along the way. But what I wanted to say a"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-nTiFs8LudUo-MENTIONS-organization-mirage-men",
+      "from_node_id": "video-nTiFs8LudUo",
+      "to_node_id": "organization-mirage-men",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "d. Michael described a little further by stating that these men back in 2009 had really advanced M4 rifles with, you know, "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-nTiFs8LudUo-MENTIONS-organization-bob-lazar",
+      "from_node_id": "video-nTiFs8LudUo",
+      "to_node_id": "organization-bob-lazar",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": " We know EG&G from the Wilson Davis memo, from the story of Bob Lazar, Edgar Fuche, so forth seeped in and UFO lore. Yes, it seem"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-nTiFs8LudUo-MENTIONS-organization-us-navy",
+      "from_node_id": "video-nTiFs8LudUo",
+      "to_node_id": "organization-us-navy",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "up top and that was odd. Now anybody who's  saying that the Navy hasn't studied this stuff is not fully knowledgeable on the"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-nTiFs8LudUo-MENTIONS-organization-nasa",
+      "from_node_id": "video-nTiFs8LudUo",
+      "to_node_id": "organization-nasa",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "this community. It's an app and website created by a former NASA engineer to tackle a problem we all face. How the way we co"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-nTiFs8LudUo-MENTIONS-organization-cia",
+      "from_node_id": "video-nTiFs8LudUo",
+      "to_node_id": "organization-cia",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "he government does this roll up to? You hear stuff like the CIA's director of science and technology, you know, somebody li"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-nTiFs8LudUo-MENTIONS-organization-fbi",
+      "from_node_id": "video-nTiFs8LudUo",
+      "to_node_id": "organization-fbi",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "o talk to  Jake about this and it's like there's an ongoing FBI investigation, so he can't say much. And then I did get him"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-nTiFs8LudUo-MENTIONS-organization-nsa",
+      "from_node_id": "video-nTiFs8LudUo",
+      "to_node_id": "organization-nsa",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": " more so than CIA modern day, the National Security Agency, NSA. Y we know that the CIA deals with human or  human intellig"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-nTiFs8LudUo-MENTIONS-organization-dod",
+      "from_node_id": "video-nTiFs8LudUo",
+      "to_node_id": "organization-dod",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "the breaking points you know guys he admitted that like the DoD and IC like tipped him off on the story basically. Yeah. So"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-nTiFs8LudUo-MENTIONS-location-wright-patterson-air-force-base",
+      "from_node_id": "video-nTiFs8LudUo",
+      "to_node_id": "location-wright-patterson-air-force-base",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "as the chief of the foreign technology division, not out of Wright Patterson Air Force Base., but the crux of his testimony is that unde"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-nTiFs8LudUo-MENTIONS-location-edwards-air-force-base",
+      "from_node_id": "video-nTiFs8LudUo",
+      "to_node_id": "location-edwards-air-force-base",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "oday, including naming naming sites where programs operate. Edwards Air Force Base, not really Wright Patterson, China Lake, Dougway Proving G"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-nTiFs8LudUo-MENTIONS-location-pacific-training-area",
+      "from_node_id": "video-nTiFs8LudUo",
+      "to_node_id": "location-pacific-training-area",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "After that we moved on down another hallway and got into an area that had a marking on the wall and said off-world technolog"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-nTiFs8LudUo-MENTIONS-location-united-states",
+      "from_node_id": "video-nTiFs8LudUo",
+      "to_node_id": "location-united-states",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "h we can parallel today and talk about later but Corso also states during this time that the foreign technology guide ICBM mis"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-nTiFs8LudUo-MENTIONS-location-roswell",
+      "from_node_id": "video-nTiFs8LudUo",
+      "to_node_id": "location-roswell",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "f Army R&D. And this is  where materials recovered from the Roswell crash and possibly other crashes, maybe Aztec, maybe crash "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-nTiFs8LudUo-MENTIONS-location-area-51",
+      "from_node_id": "video-nTiFs8LudUo",
+      "to_node_id": "location-area-51",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": " Utah saw  much saw a lot of UFO programs shipped over from Area 51. And he always quotes that 35 to 40% of programs at Area 51"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-nTiFs8LudUo-MENTIONS-location-canada",
+      "from_node_id": "video-nTiFs8LudUo",
+      "to_node_id": "location-canada",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "t Smith relayed that in a 1950 Department of Transportation Canada memo that was then reduced from top secret to I think restr"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-nTiFs8LudUo-MENTIONS-location-france",
+      "from_node_id": "video-nTiFs8LudUo",
+      "to_node_id": "location-france",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "d Jay Allen Heinik. Jacqu Valet's played as a  character by France watch. You see crates that say Locked in Northrup. No, don'"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-nTiFs8LudUo-MENTIONS-location-russia",
+      "from_node_id": "video-nTiFs8LudUo",
+      "to_node_id": "location-russia",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": " in the event in which you know we're at par with China and Russia why wouldn't you let out some like basic surface area that "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-nTiFs8LudUo-MENTIONS-location-italy",
+      "from_node_id": "video-nTiFs8LudUo",
+      "to_node_id": "location-italy",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "d Grush says that there's this magenta crash in Lombardi in Italy in 1933. Exactly. I've now made the connection through some"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-nTiFs8LudUo-MENTIONS-location-peru",
+      "from_node_id": "video-nTiFs8LudUo",
+      "to_node_id": "location-peru",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "poral in the Marines who claimed in 1997 while stationed in Peru  under Operation Laser Strike that he encountered a crashed"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-nTiFs8LudUo-MENTIONS-location-s-4",
+      "from_node_id": "video-nTiFs8LudUo",
+      "to_node_id": "location-s-4",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "th of or just southwest of Papoose mountain range, right by Papoose Lake is a is a real place. Well, and what's what's your good rea"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-nTiFs8LudUo-MENTIONS-program-project-blue-book",
+      "from_node_id": "video-nTiFs8LudUo",
+      "to_node_id": "program-project-blue-book",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "ital study of UFOs the public facing stuff was relegated to project blue book and the air force and then all the private stuff was manage"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-nTiFs8LudUo-MENTIONS-program-mj-12",
+      "from_node_id": "video-nTiFs8LudUo",
+      "to_node_id": "program-mj-12",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "UFO working group which there's reason to suggest maybe the Majestic 12 changed into that along the way. But what I wanted to say a"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-nTiFs8LudUo-CITES-document-the-day-after-roswell",
+      "from_node_id": "video-nTiFs8LudUo",
+      "to_node_id": "document-the-day-after-roswell",
+      "relationship": "CITES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "or a limited time, you can get the same plan I use  97. But the day after Roswell has a bunch of fluff added by its coowwriter. That's intere"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-nTiFs8LudUo-CITES-document-ufos-and-nukes",
+      "from_node_id": "video-nTiFs8LudUo",
+      "to_node_id": "document-ufos-and-nukes",
+      "relationship": "CITES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "e UFO researchers like Robert Hastings, you know, who wrote UFOs and nukes is that these were p this was passage material. So it was l"
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-nTiFs8LudUo-discussion-summary",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-nTiFs8LudUo-discussion-summary",
+      "relationship": "ASSERTED",
+      "confidence": 0.9,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0,
+          "quote": "Episode: UAPGerb: “The New Area51 Is HERE in Utah!”"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-nTiFs8LudUo-REFERENCES-claim-nTiFs8LudUo-discussion-summary",
+      "from_node_id": "video-nTiFs8LudUo",
+      "to_node_id": "claim-nTiFs8LudUo-discussion-summary",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 0
+        }
+      ]
+    },
+    {
+      "id": "edge-person-sammy-gerb-extended-ASSERTED-claim-nTiFs8LudUo-gerb-jsoc-tier-one-crash-retrieval",
+      "from_node_id": "person-sammy-gerb-extended",
+      "to_node_id": "claim-nTiFs8LudUo-gerb-jsoc-tier-one-crash-retrieval",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 519,
+          "quote": "Per Gerb: the crash-retrieval team Barber and Herrera encountered is deep-black former JSOC Tier One — former Delta, SEAL Team 6, ISA (Gray Fox), and 24th STS operators willing to use force against ci"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-nTiFs8LudUo-REFERENCES-claim-nTiFs8LudUo-gerb-jsoc-tier-one-crash-retrieval",
+      "from_node_id": "video-nTiFs8LudUo",
+      "to_node_id": "claim-nTiFs8LudUo-gerb-jsoc-tier-one-crash-retrieval",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 519
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-nTiFs8LudUo-gerb-jsoc-tier-one-crash-retrieval-REFERENCES-program-gray-fox-isa",
+      "from_node_id": "claim-nTiFs8LudUo-gerb-jsoc-tier-one-crash-retrieval",
+      "to_node_id": "program-gray-fox-isa",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 519
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-nTiFs8LudUo-gerb-jsoc-tier-one-crash-retrieval-REFERENCES-person-jake-barber",
+      "from_node_id": "claim-nTiFs8LudUo-gerb-jsoc-tier-one-crash-retrieval",
+      "to_node_id": "person-jake-barber",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 519
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-nTiFs8LudUo-gerb-jsoc-tier-one-crash-retrieval-REFERENCES-person-michael-herrera",
+      "from_node_id": "claim-nTiFs8LudUo-gerb-jsoc-tier-one-crash-retrieval",
+      "to_node_id": "person-michael-herrera",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 519
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-nTiFs8LudUo-gerb-jsoc-tier-one-crash-retrieval-REFERENCES-concept-crash-retrieval",
+      "from_node_id": "claim-nTiFs8LudUo-gerb-jsoc-tier-one-crash-retrieval",
+      "to_node_id": "concept-crash-retrieval",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 519
+        }
+      ]
+    },
+    {
+      "id": "edge-person-sammy-gerb-extended-ASSERTED-claim-nTiFs8LudUo-gerb-sdi-star-wars-uap-backdoor",
+      "from_node_id": "person-sammy-gerb-extended",
+      "to_node_id": "claim-nTiFs8LudUo-gerb-sdi-star-wars-uap-backdoor",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 477,
+          "quote": "Gerb posits Reagan's 1983 SDI ('Star Wars') likely had a back door to fund UAP programs and act offensively against UAP — not just against Soviet ICBMs."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-nTiFs8LudUo-REFERENCES-claim-nTiFs8LudUo-gerb-sdi-star-wars-uap-backdoor",
+      "from_node_id": "video-nTiFs8LudUo",
+      "to_node_id": "claim-nTiFs8LudUo-gerb-sdi-star-wars-uap-backdoor",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 477
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-nTiFs8LudUo-gerb-sdi-star-wars-uap-backdoor-REFERENCES-program-sdi-star-wars",
+      "from_node_id": "claim-nTiFs8LudUo-gerb-sdi-star-wars-uap-backdoor",
+      "to_node_id": "program-sdi-star-wars",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 477
+        }
+      ]
+    },
+    {
+      "id": "edge-person-sammy-gerb-extended-ASSERTED-claim-nTiFs8LudUo-gerb-army-icbm-brainwave",
+      "from_node_id": "person-sammy-gerb-extended",
+      "to_node_id": "claim-nTiFs8LudUo-gerb-army-icbm-brainwave",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 475,
+          "quote": "Gerb notes the golden age of Army R&D investigated using human brain waves to guide ICBM missiles via recovered NHI technology — mind-machine interface applied to strategic weapons."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-nTiFs8LudUo-REFERENCES-claim-nTiFs8LudUo-gerb-army-icbm-brainwave",
+      "from_node_id": "video-nTiFs8LudUo",
+      "to_node_id": "claim-nTiFs8LudUo-gerb-army-icbm-brainwave",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 475
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-nTiFs8LudUo-gerb-army-icbm-brainwave-REFERENCES-concept-reverse-engineering",
+      "from_node_id": "claim-nTiFs8LudUo-gerb-army-icbm-brainwave",
+      "to_node_id": "concept-reverse-engineering",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 475
+        }
+      ]
+    },
+    {
+      "id": "edge-person-sammy-gerb-extended-ASSERTED-claim-nTiFs8LudUo-gerb-nest-doe-hazmat-team",
+      "from_node_id": "person-sammy-gerb-extended",
+      "to_node_id": "claim-nTiFs8LudUo-gerb-nest-doe-hazmat-team",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 513,
+          "quote": "The crash-retrieval team Wagant encountered (DOE rain jackets, hazmat suits) matches DOE's NEST (Nuclear Emergency Search Team) profile — which handles nuclear-and-NHI-hazard containment."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-nTiFs8LudUo-REFERENCES-claim-nTiFs8LudUo-gerb-nest-doe-hazmat-team",
+      "from_node_id": "video-nTiFs8LudUo",
+      "to_node_id": "claim-nTiFs8LudUo-gerb-nest-doe-hazmat-team",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 513
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-nTiFs8LudUo-gerb-nest-doe-hazmat-team-REFERENCES-person-jonathan-wagant",
+      "from_node_id": "claim-nTiFs8LudUo-gerb-nest-doe-hazmat-team",
+      "to_node_id": "person-jonathan-wagant",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 513
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-nTiFs8LudUo-gerb-nest-doe-hazmat-team-REFERENCES-program-nest-nuclear-emergency-search-team",
+      "from_node_id": "claim-nTiFs8LudUo-gerb-nest-doe-hazmat-team",
+      "to_node_id": "program-nest-nuclear-emergency-search-team",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 513
+        }
+      ]
+    },
+    {
+      "id": "edge-person-sammy-gerb-extended-ASSERTED-claim-nTiFs8LudUo-gerb-herrera-psionic-asset-trafficking",
+      "from_node_id": "person-sammy-gerb-extended",
+      "to_node_id": "claim-nTiFs8LudUo-gerb-herrera-psionic-asset-trafficking",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 503,
+          "quote": "Herrera's core hypothesis: UFO legacy programs engage in 'psionic asset trafficking' — kidnapping citizens of third-world countries (Indonesia in his 2009 case) and transporting them to US to summon N"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-nTiFs8LudUo-REFERENCES-claim-nTiFs8LudUo-gerb-herrera-psionic-asset-trafficking",
+      "from_node_id": "video-nTiFs8LudUo",
+      "to_node_id": "claim-nTiFs8LudUo-gerb-herrera-psionic-asset-trafficking",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 503
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-nTiFs8LudUo-gerb-herrera-psionic-asset-trafficking-REFERENCES-person-michael-herrera",
+      "from_node_id": "claim-nTiFs8LudUo-gerb-herrera-psionic-asset-trafficking",
+      "to_node_id": "person-michael-herrera",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 503
+        }
+      ]
+    },
+    {
+      "id": "edge-person-sammy-gerb-extended-ASSERTED-claim-nTiFs8LudUo-gerb-herrera-2009-vantablack-octagon",
+      "from_node_id": "person-sammy-gerb-extended",
+      "to_node_id": "claim-nTiFs8LudUo-gerb-herrera-2009-vantablack-octagon",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 501,
+          "quote": "Michael Herrera 2009 Indonesia: saw 'vantablack octagon' craft hovering above treetops; his unit intercepted by elite paramilitary team carrying advanced M4 rifles with bioscanners (foreshadowing iPho"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-nTiFs8LudUo-REFERENCES-claim-nTiFs8LudUo-gerb-herrera-2009-vantablack-octagon",
+      "from_node_id": "video-nTiFs8LudUo",
+      "to_node_id": "claim-nTiFs8LudUo-gerb-herrera-2009-vantablack-octagon",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 501
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-nTiFs8LudUo-gerb-herrera-2009-vantablack-octagon-REFERENCES-person-michael-herrera",
+      "from_node_id": "claim-nTiFs8LudUo-gerb-herrera-2009-vantablack-octagon",
+      "to_node_id": "person-michael-herrera",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "nTiFs8LudUo",
+          "timestamp_start": 501
+        }
+      ]
+    }
+  ],
+  "extracted_at": "2026-04-17T13:07:01.215745+00:00",
+  "extractor_version": "v1-inline-claude"
+}

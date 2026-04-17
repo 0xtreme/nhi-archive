@@ -1,0 +1,2561 @@
+{
+  "video_id": "8TYMQOUDQBo",
+  "nodes": [
+    {
+      "id": "video-8TYMQOUDQBo",
+      "node_type": "video",
+      "label": "Meet the Navy Scientist With UFO Patents (Ft. Salvatore Pais)",
+      "summary": "Today's American Alchemist is Navy physicist Salvatore Pais. Enjoy!\n\nNavy scientist Salvatore Pais reveals his patents on UFO-like tech and an exotic spacetime-warping “superforce”. Are...",
+      "tags": [
+        "video",
+        "american-alchemy"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:45.177529+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 0,
+          "timestamp_end": 7015.0,
+          "quote": "Video: Meet the Navy Scientist With UFO Patents (Ft. Salvatore Pais)"
+        }
+      ],
+      "type_specific": {
+        "video_id": "8TYMQOUDQBo",
+        "title": "Meet the Navy Scientist With UFO Patents (Ft. Salvatore Pais)",
+        "url": "https://www.youtube.com/watch?v=8TYMQOUDQBo",
+        "view_count": 367754,
+        "duration_seconds": 7015.0,
+        "host_id": "person-jesse-michels"
+      }
+    },
+    {
+      "id": "person-jesse-michels",
+      "node_type": "person",
+      "label": "Jesse Michels",
+      "summary": "Host of American Alchemy podcast/show. Independent journalist and UFO/NHI researcher.",
+      "tags": [
+        "journalist",
+        "interviewer",
+        "researcher",
+        "host"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:45.177541+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 0,
+          "quote": "Host of American Alchemy podcast/show."
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Jesse",
+          "Michels"
+        ],
+        "profession": "journalist",
+        "notability_tags": [
+          "journalist",
+          "interviewer",
+          "researcher",
+          "host"
+        ]
+      }
+    },
+    {
+      "id": "person-robert-hastings",
+      "node_type": "person",
+      "label": "Robert Hastings",
+      "summary": "",
+      "tags": [
+        "researcher",
+        "author",
+        "UFOs and Nukes"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:45.741042+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 0,
+          "quote": "here's good factions and bad factions? Like when I speak to Robert Hastings, I'm praying for that because otherwise we do not have a ch"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Hastings"
+        ],
+        "notability_tags": [
+          "researcher",
+          "author",
+          "UFOs and Nukes"
+        ]
+      }
+    },
+    {
+      "id": "person-eric-weinstein",
+      "node_type": "person",
+      "label": "Eric Weinstein",
+      "summary": "",
+      "tags": [
+        "mathematician",
+        "physicist"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:45.741059+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 0,
+          "quote": "ic frameworks. And so I'll my interview with how punoff and Eric Weinstein. Sometimes I get out of my depth scientifically and I defin"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Weinstein"
+        ],
+        "notability_tags": [
+          "mathematician",
+          "physicist"
+        ]
+      }
+    },
+    {
+      "id": "person-graham-hancock",
+      "node_type": "person",
+      "label": "Graham Hancock",
+      "summary": "",
+      "tags": [
+        "author",
+        "ancient history"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:45.741064+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 0,
+          "quote": "tance, the Toba event and the Randall Carlson stuff and the Graham Hancock stuff, the reset 12,000 years ago, but that might be have j"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Hancock"
+        ],
+        "notability_tags": [
+          "author",
+          "ancient history"
+        ]
+      }
+    },
+    {
+      "id": "person-e-howard-hunt",
+      "node_type": "person",
+      "label": "E. Howard Hunt",
+      "summary": "",
+      "tags": [
+        "CIA",
+        "Watergate"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:45.741069+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 0,
+          "quote": "ctors and I didn't realize this but Nick Cook who wrote the hunt for zero point in great book great he went up to they were "
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Howard Hunt",
+          "Hunt"
+        ],
+        "notability_tags": [
+          "CIA",
+          "Watergate"
+        ]
+      }
+    },
+    {
+      "id": "person-richard-dolan",
+      "node_type": "person",
+      "label": "Richard Dolan",
+      "summary": "",
+      "tags": [
+        "historian",
+        "author"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:45.741073+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 0,
+          "quote": " on Dr. Ferrell's ideas on the breakaway civilization. also Dolan. Don't forget Richard and Dolan. But who is who in the 1890"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Dolan"
+        ],
+        "notability_tags": [
+          "historian",
+          "author"
+        ]
+      }
+    },
+    {
+      "id": "person-stephen-greer",
+      "node_type": "person",
+      "label": "Stephen Greer",
+      "summary": "",
+      "tags": [
+        "researcher",
+        "disclosure"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:45.741077+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 0,
+          "quote": " things it was a lot of things that were done by Dr. Steven Greer. Okay. And a great deal of things. As a matter of fact, I h"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Dr. Greer",
+          "Greer"
+        ],
+        "notability_tags": [
+          "researcher",
+          "disclosure"
+        ]
+      }
+    },
+    {
+      "id": "person-love-has-won",
+      "node_type": "person",
+      "label": "Love Has Won",
+      "summary": "Love Has Won (LHW), also known as the Galactic Federation of Light, is an American new religious movement that was led by Amy Carlson until her death in 2021. Carlson was referred to within the group as \"Mother God\", who described herself as, among other things, the creator of the universe, with the",
+      "tags": [
+        "wikipedia",
+        "2007 establishments in colorado",
+        "ancient astronaut speculation",
+        "covid-19 vaccine misinformation and hesitancy",
+        "climate change denial in the united states",
+        "holocaust denial in the united states",
+        "new age organizations",
+        "new religious movements established in the 2000s",
+        "qanon",
+        "religious belief systems founded in the united states",
+        "religious controversies in the united states",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:45.741081+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 0,
+          "quote": "years. They're all saying you know like Leonard Suskin just won on theories of everything. Kurt J great interviewer was lik"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "LOVE HAS WON",
+          "Won",
+          "love has won"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "2007 establishments in colorado",
+          "ancient astronaut speculation",
+          "covid-19 vaccine misinformation and hesitancy",
+          "climate change denial in the united states",
+          "holocaust denial in the united states",
+          "new age organizations",
+          "new religious movements established in the 2000s",
+          "qanon",
+          "religious belief systems founded in the united states",
+          "religious controversies in the united states",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "person-paul-r-hill",
+      "node_type": "person",
+      "label": "Paul R. Hill",
+      "summary": "Paul Richard Hill (1909–1990) was a mid–twentieth-century American aerodynamicist. He was a leading research and development engineer and manager for NASA (National Aeronautics and Space Administration) and its predecessor, NACA (the National Advisory Council for Aeronautics) between 1939 and 1970, ",
+      "tags": [
+        "wikipedia",
+        "aerodynamicists",
+        "nasa people",
+        "scientists from iowa",
+        "uc berkeley college of engineering alumni",
+        "ufologists",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:45.741086+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 0,
+          "quote": "t is a famous quote of Agnu Bon who's sponsoring the Chapel Hill conference and kind of creates quantum gravity which sends "
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Hill",
+          "PAUL R. HILL",
+          "Paul Hill",
+          "paul r. hill"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "aerodynamicists",
+          "nasa people",
+          "scientists from iowa",
+          "uc berkeley college of engineering alumni",
+          "ufologists",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "person-timothy-good",
+      "node_type": "person",
+      "label": "Timothy Good",
+      "summary": "",
+      "tags": [
+        "researcher",
+        "author"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:45.741090+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 0,
+          "quote": "eady in the public domain. However, it's also ecubed. Not a good idea. Well, okay. So, you also have written a lot about hig"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Tim Good",
+          "Good"
+        ],
+        "notability_tags": [
+          "researcher",
+          "author"
+        ]
+      }
+    },
+    {
+      "id": "person-betty-hill",
+      "node_type": "person",
+      "label": "Betty Hill",
+      "summary": "Betty Hill entity extracted from cross-source archival records.",
+      "tags": [
+        "pipeline-generated",
+        "entity-extracted"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:45.741095+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 0,
+          "quote": "t is a famous quote of Agnu Bon who's sponsoring the Chapel Hill conference and kind of creates quantum gravity which sends "
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "BETTY HILL",
+          "Hill",
+          "betty hill"
+        ],
+        "notability_tags": [
+          "pipeline-generated",
+          "entity-extracted"
+        ]
+      }
+    },
+    {
+      "id": "person-bob-lazar",
+      "node_type": "person",
+      "label": "Bob Lazar",
+      "summary": "Bob Lazar entity extracted from cross-source archival records.",
+      "tags": [
+        "pipeline-generated",
+        "entity-extracted"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:45.741099+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 0,
+          "quote": "l field equations right talks to this talks to the and then Bob Lazar mentioned at one point that it seemed to him that the so-ca"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "BOB LAZAR",
+          "Lazar",
+          "bob lazar"
+        ],
+        "notability_tags": [
+          "pipeline-generated",
+          "entity-extracted"
+        ]
+      }
+    },
+    {
+      "id": "person-nick-pope",
+      "node_type": "person",
+      "label": "Nick Pope",
+      "summary": "Nick Pope entity extracted from cross-source archival records.",
+      "tags": [
+        "pipeline-generated",
+        "entity-extracted"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:45.741104+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 0,
+          "quote": "r macroscopic spin visav something called the poems theory, Pope Osborne angular momentum synergy theory, something that Ric"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "NICK POPE",
+          "Pope",
+          "nick pope"
+        ],
+        "notability_tags": [
+          "pipeline-generated",
+          "entity-extracted"
+        ]
+      }
+    },
+    {
+      "id": "person-art-bell",
+      "node_type": "person",
+      "label": "Art Bell",
+      "summary": "Arthur William Bell III (June 17, 1945 – April 13, 2018) was an American broadcaster and author. He was the founder and the original host of the paranormal-themed radio program Coast to Coast AM, which is syndicated on hundreds of radio stations in the United States and Canada. He also created and h",
+      "tags": [
+        "wikipedia",
+        "20th-century american businesspeople",
+        "accidental deaths in nevada",
+        "amateur radio people",
+        "american non-fiction environmental writers",
+        "american radio djs",
+        "american radio executives",
+        "american talk radio hosts",
+        "businesspeople from monterey, california",
+        "businesspeople from nevada",
+        "coast to coast am",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:45.741108+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 0,
+          "quote": "n't know but like in 1933 you don't have some sophisticated bell on that you're building like bro again the vice effect Yeah"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "ART BELL",
+          "Bell",
+          "art bell"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "20th-century american businesspeople",
+          "accidental deaths in nevada",
+          "amateur radio people",
+          "american non-fiction environmental writers",
+          "american radio djs",
+          "american radio executives",
+          "american talk radio hosts",
+          "businesspeople from monterey, california",
+          "businesspeople from nevada",
+          "coast to coast am",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "organization-the-report-on-unidentified-flying-objects",
+      "node_type": "organization",
+      "label": "The Report on Unidentified Flying Objects",
+      "summary": "The Report on Unidentified Flying Objects is a 1956 book by then-retired Air Force UFO investigator Edward J. Ruppelt, detailing his experience running Project Blue Book. The book was noted for its suggestion that a few UFO sightings might be linked to spikes of atomic radiation. Contemporary media ",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:45.741114+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 0,
+          "quote": "t we operate in the gravitational field for example to make objects have diminished inertia? Since inertial mass and gravitatio"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-1952-washington-d-c-ufo-incident",
+      "node_type": "organization",
+      "label": "1952 Washington, D.C. UFO incident",
+      "summary": "From July 12 to 29, 1952, a series of unidentified flying object (UFO) sightings were reported in Washington, D.C., and later became known as the Washington flap, the Washington National Airport Sightings, or the Invasion of Washington. The most publicized sightings took place on consecutive weekend",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:45.741119+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 0,
+          "quote": "es, including a breach of the national public database. The incident compromised over 2.9 billion records used for background ch"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-identification-studies-of-ufos",
+      "node_type": "organization",
+      "label": "Identification studies of UFOs",
+      "summary": "Identifying unidentified flying objects (UFOs) is a difficult task due to the normally poor quality of the evidence provided by those who report sighting the unknown object. Observations and subsequent reporting are often made by those untrained in astronomy, atmospheric phenomena, aeronautics, phys",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:45.741124+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 0,
+          "quote": "son himself, who's the patron, writes a book about man-made UFOs called the stars are too high. Actually, it's about this pl"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-lakenheath-bentwaters-incident",
+      "node_type": "organization",
+      "label": "Lakenheath-Bentwaters incident",
+      "summary": "The Lakenheath-Bentwaters Incident was a series of radar and visual contacts with unidentified flying objects over airbases in eastern England on the night of 13–14 August 1956, involving personnel from the Royal Air Force (RAF) and the United States Air Force (USAF). The incident has since gained s",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:45.741129+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 0,
+          "quote": "es, including a breach of the national public database. The incident compromised over 2.9 billion records used for background ch"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-flying-saucer-working-party",
+      "node_type": "organization",
+      "label": "Flying Saucer Working Party",
+      "summary": "Flying Saucer Working Party (or FSWP) was the name of the United Kingdom Ministry of Defence’s (MOD) first \"official study into UFOs\", which has its roots in a study commissioned in 1950 by the MOD’s then Chief Scientific Adviser, the eminent radar scientist Sir Henry Tizard. As a result of his insi",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:45.741133+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 0,
+          "quote": "e sitting in decaying weaponization by, god forbid, a third party, not even a country. I don't think this is hard to engineer"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-the-flying-saucers-are-real",
+      "node_type": "organization",
+      "label": "The Flying Saucers Are Real",
+      "summary": "The Flying Saucers Are Real, by Donald Keyhoe, is a book that investigated reports of UFOs by United States Air Force fighters, personnel, and other aircraft, between 1947 and 1950.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:45.741137+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 0,
+          "quote": "an alternate current to move it to move it to manipulate it real temperature and yet no one has touched on either the Victor"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-unidentified-flying-object",
+      "node_type": "organization",
+      "label": "Unidentified flying object",
+      "summary": "An unidentified flying object (UFO) is an object or phenomenon seen in the sky but not yet identified or explained. The term was coined when United States Air Force (USAF) investigations into flying saucers found too broad a range of shapes reported to consider them all saucers or discs. UFOs are al",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:45.741142+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 0,
+          "quote": "t's using kind of creating a brainia basically to propel an object is that some of your work has cited Max Borne Paul Durac an"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-us-department-of-defense",
+      "node_type": "organization",
+      "label": "US Department of Defense",
+      "summary": "US Department of Defense entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:45.741146+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 0,
+          "quote": "le tech trees that could be filtering their way through the defense intelligence space? Some of them, some of them approachably"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-lonnie-zamora-incident",
+      "node_type": "organization",
+      "label": "Lonnie Zamora incident",
+      "summary": "The Lonnie Zamora incident was an alleged UFO sighting that occurred on April 24, 1964 near Socorro, New Mexico when Socorro police officer Lonnie Zamora claimed he saw two people beside a shiny object that later rose into the air accompanied by a roaring blue and orange flame. Zamora's claims were ",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:45.741150+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 0,
+          "quote": "es, including a breach of the national public database. The incident compromised over 2.9 billion records used for background ch"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-roswell-that-ends-well",
+      "node_type": "organization",
+      "label": "Roswell That Ends Well",
+      "summary": "\"Roswell That Ends Well\" is the nineteenth episode in the third season of the American animated television series Futurama, and the 51st episode of the series overall. It originally aired on the Fox network in the United States on December 9, 2001. The plot centers on an accidental time travel event",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:45.741155+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 0,
+          "quote": "n many podcasts and you're one of the best. So, absolutely. Well, we can kudos to you, brother. Agree to disagree. But I'm I"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-the-galileo-project",
+      "node_type": "organization",
+      "label": "The Galileo Project",
+      "summary": "The Galileo Project is an international scientific research project to search for extraterrestrial intelligence or extraterrestrial technology on and near Earth and to identify the nature of anomalous Unidentified Flying Objects/Unidentified Aerial Phenomena (UFOs/UAP). It was launched in 2021 by Ha",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:45.741159+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 0,
+          "quote": "z, Luis Walter Alvarez, the father who was in the Manhattan Project, they had this theory that, you know, an asteroid hit the e"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-thornton-leigh-page",
+      "node_type": "organization",
+      "label": "Thornton Leigh Page",
+      "summary": "Thornton Leigh Page was an American professor of astronomy at the University of Chicago and at Wesleyan University. He became embroiled in the controversy over unidentified flying objects (UFOs) after serving briefly on the Robertson Panel, a Central Intelligence Agency–sponsored committee of scient",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:45.741163+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 0,
+          "quote": "chanism that Dr. I believe in his paper it's a just a three-page paper but on the third page he gives the mechanism and he s"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-project-blue-book",
+      "node_type": "organization",
+      "label": "Project Blue Book",
+      "summary": "USAF UFO investigation program active from 1952 to 1969.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:45.741167+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 0,
+          "quote": "is but Nick Cook who wrote the hunt for zero point in great book great he went up to they were speaking and for whatever rea"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-world-contact-day",
+      "node_type": "organization",
+      "label": "World Contact Day",
+      "summary": "World Contact Day was first declared in March 1953 by an organization called the International Flying Saucer Bureau (IFSB), as a day on which all IFSB members would attempt to send a telepathic message into space. The IFSB voted to hold such a day in 1953, theorising that if both telepathy and alien",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:45.741172+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 0,
+          "quote": "iews: 367,754 video_id: 8TYMQOUDQBo  I truly think that one day we must unite the factions because I think one day we shall"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-manhattan-project",
+      "node_type": "organization",
+      "label": "Manhattan Project",
+      "summary": "",
+      "tags": [
+        "government_agency"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:45.741176+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 0,
+          "quote": "er  Alvarez, Luis Walter Alvarez, the father who was in the Manhattan Project, they had this theory that, you know, an asteroid hit the e"
+        }
+      ],
+      "type_specific": {
+        "org_type": "government_agency"
+      }
+    },
+    {
+      "id": "organization-steven-m-greer",
+      "node_type": "organization",
+      "label": "Steven M. Greer",
+      "summary": "Steven Macon Greer (born 1955) is an American ufologist and a retired physician. He founded the Center for the Study of Extraterrestrial Intelligence (CSETI) and the Disclosure Project, which claims to seek the disclosure of alleged classified UFO information.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:45.741180+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 0,
+          "quote": "ries or things it was a lot of things that were done by Dr. Steven Greer. Okay. And a great deal of things. As a matter of fact, I h"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-us-air-force",
+      "node_type": "organization",
+      "label": "US Air Force",
+      "summary": "US Air Force entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:45.741184+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 0,
+          "quote": "ted States Navy. I used to work for the United States Space Force. Let me say at this time that I  come on this podcast as a "
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-big-sur-ufo",
+      "node_type": "organization",
+      "label": "Big Sur UFO",
+      "summary": "The Big Sur UFO is a reported UFO incident that took place during a 1964 Air Force deployment to a mountaintop near Big Sur, California. The deployment was a mission was to film Atlas missile tests from Vandenberg Air Force Base. Since 1982, Robert Jacobs, who had overseen the mountaintop team, has ",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:45.741188+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 0,
+          "quote": "# Meet the Navy Scientist With UFO Patents (Ft. Salvatore Pais) https://www.youtube.com/watch?"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-majestic-12",
+      "node_type": "organization",
+      "label": "Majestic 12",
+      "summary": "Majestic 12, also known as Majic-12, and MJ-12 for short, is a purported organization that appeared in fake documents first circulated by ufologists in 1984, and that some UFO conspiracy theories still claim to have existed. The organization is claimed to be the code name of an alleged secret commit",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:45.741193+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 0,
+          "quote": "orge Knap but and so maybe it was like at the time that the Majestic 12 was coming out. I  think a lot more about the Majestic 12 w"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-bob-lazar",
+      "node_type": "organization",
+      "label": "Bob Lazar",
+      "summary": "Robert Scott Lazar () is an American who, since 1989, has claimed to have been part of a classified US government project concerned with the reverse engineering of extraterrestrial technology; he also purported to have read government briefing documents that described alien involvement in human affa",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:45.741197+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 0,
+          "quote": "l field equations right talks to this talks to the and then Bob Lazar mentioned at one point that it seemed to him that the so-ca"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-us-navy",
+      "node_type": "organization",
+      "label": "US Navy",
+      "summary": "US Navy entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:45.741201+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 0,
+          "quote": "# Meet the Navy Scientist With UFO Patents (Ft. Salvatore Pais) https://www"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-nasa",
+      "node_type": "organization",
+      "label": "NASA",
+      "summary": "NASA entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:45.741205+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 0,
+          "quote": "s, man. Yeah. So, you think Sunny White, you know, is was a NASA engineer. Eagle was trying Eagle works, sir.  And he was tr"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other",
+        "acronym": "NASA"
+      }
+    },
+    {
+      "id": "organization-cia",
+      "node_type": "organization",
+      "label": "CIA",
+      "summary": "CIA entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:45.741209+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 0,
+          "quote": "hat's scary. That's some scary [ __ ] Anyway, who needs the CIA's heart stopping gone when you can do it with a thought? We"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other",
+        "acronym": "CIA"
+      }
+    },
+    {
+      "id": "organization-dia",
+      "node_type": "organization",
+      "label": "DIA",
+      "summary": "DIA entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:45.741213+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 0,
+          "quote": "mething to that Dr. Eric W. Davis published in one of those DIA reports that I saw in teleportage more to do with a certain"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other",
+        "acronym": "DIA"
+      }
+    },
+    {
+      "id": "location-pacific-training-area",
+      "node_type": "location",
+      "label": "Pacific Training Area",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:45.741218+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 0,
+          "quote": "ncursion where it seems like drones are swarming around the area in our airspace. We have no defense against this., it seems"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-united-states",
+      "node_type": "location",
+      "label": "United States",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:45.741222+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 0,
+          "quote": "at with yes my name is Salvatore Chesar Pis. I work for the United States Navy. I used to work for the United States Space Force. Let"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-germany",
+      "node_type": "location",
+      "label": "Germany",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:45.741226+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 0,
+          "quote": "o the US. So, well, I think it we do think it maybe went to Germany, but we don't know when for sure or whatever, but and GR wo"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-roswell",
+      "node_type": "location",
+      "label": "Roswell",
+      "summary": "",
+      "tags": [
+        "city"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:45.741230+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 0,
+          "quote": "as a first oneoff vehicle that we had at some  point before Roswell that, you know, was at Rightfield or something like that. S"
+        }
+      ],
+      "type_specific": {
+        "location_type": "city",
+        "country": "US",
+        "state_or_region": "New Mexico"
+      }
+    },
+    {
+      "id": "location-russia",
+      "node_type": "location",
+      "label": "Russia",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:45.741234+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 0,
+          "quote": " do  you need to get the first? I if I had to guess between Russia and China, I'd say China. That's yeah they have they're not"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-italy",
+      "node_type": "location",
+      "label": "Italy",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:45.741237+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 0,
+          "quote": " audience magenta was a rumored crash I believe in Bolognia Italy that ended up it was in Italy's hands  for like the next 11"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "program-mj-12",
+      "node_type": "program",
+      "label": "MJ-12",
+      "summary": "",
+      "tags": [
+        "program"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:45.741242+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 0,
+          "quote": "orge Knap but and so maybe it was like at the time that the Majestic 12 was coming out. I  think a lot more about the Majestic 12 w"
+        }
+      ]
+    },
+    {
+      "id": "claim-8TYMQOUDQBo-discussion-summary",
+      "node_type": "claim",
+      "label": "Video 8TYMQOUDQBo features extended discussion of Robert Hastings, Eric Weinstein, Graham Hancock an",
+      "summary": "Video 8TYMQOUDQBo features extended discussion of Robert Hastings, Eric Weinstein, Graham Hancock and related UAP research topics, hosted by Jesse Michels.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:45.741252+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 0,
+          "quote": "Episode title: Meet the Navy Scientist With UFO Patents (Ft. Salvatore Pais)"
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Video 8TYMQOUDQBo features extended discussion of Robert Hastings, Eric Weinstein, Graham Hancock and related UAP research topics, hosted by Jesse Michels.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "8TYMQOUDQBo",
+        "timestamp_start_seconds": 0,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-robert-hastings",
+          "person-eric-weinstein",
+          "person-graham-hancock",
+          "video-8TYMQOUDQBo"
+        ]
+      }
+    },
+    {
+      "id": "person-salvatore-pais",
+      "node_type": "person",
+      "label": "Salvatore Pais",
+      "summary": "US Navy and former US Space Force scientist. Filed patents (2017+) on 'Hybrid Aerospace-Underwater Craft Using Inertial Mass Modification' and related UFO-adjacent technologies. The 'Pais Effect' is named after him.",
+      "tags": [
+        "scientist",
+        "Navy",
+        "Space Force"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.912137+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 229,
+          "quote": "US Navy scientist; filed patents on UFO-like propulsion"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Pais",
+          "Sal Pais"
+        ],
+        "profession": "physicist / engineer",
+        "notability_tags": [
+          "scientist",
+          "Navy",
+          "Space Force"
+        ]
+      }
+    },
+    {
+      "id": "concept-pais-effect",
+      "node_type": "concept",
+      "label": "Pais Effect",
+      "summary": "Salvatore Pais' proposed effect: modifying inertial/gravitational mass of an object via controlled electromagnetic fields (based on Oliver Heaviside's formulation of Maxwell's equations). If real, enables non-Newtonian propulsion.",
+      "tags": [
+        "physics"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.912140+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 219,
+          "timestamp_end": "Inertial-mass modification via controlled electromagnetic fields"
+        }
+      ],
+      "type_specific": {
+        "concept_domain": "physics"
+      }
+    },
+    {
+      "id": "document-pais-patents",
+      "node_type": "document",
+      "label": "Pais Navy UFO Patents",
+      "summary": "Patents filed by Salvatore Pais through the US Navy: Hybrid Aerospace-Underwater Craft Using Inertial Mass Modification Device; Room Temperature Superconductor; Force-Field Generator; High-Frequency Gravitational-Wave Generator.",
+      "tags": [
+        "patent"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.912142+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 225,
+          "timestamp_end": "2017+ Navy patents on mass-modification hybrid craft"
+        }
+      ],
+      "type_specific": {
+        "document_type": "patent",
+        "author": "Salvatore Pais"
+      }
+    },
+    {
+      "id": "incident-mh370-pais-effect-sighting",
+      "node_type": "incident",
+      "label": "MH370 Pais-Effect Sighting",
+      "summary": "Pais claims the Malaysian Airlines MH370 2014 disappearance videos show a craft opening up which he identifies as the Pais Effect in action — i.e., NHI craft intervention.",
+      "tags": [
+        "sighting"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.912144+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 217,
+          "timestamp_end": "Pais attributes MH370 disappearance to Pais-Effect signature"
+        }
+      ],
+      "type_specific": {
+        "incident_type": "sighting",
+        "date_approximate": "2014-03-08"
+      }
+    },
+    {
+      "id": "claim-8TYMQOUDQBo-pais-mh370-sighting",
+      "node_type": "claim",
+      "label": "Pais states publicly that he saw the Pais Effect in the MH370 disappearance videos — 'when I saw tha",
+      "summary": "Pais states publicly that he saw the Pais Effect in the MH370 disappearance videos — 'when I saw that thing open up, I saw the Pais Effect, man. This is the Pais Effect. I'm gone.'",
+      "tags": [
+        "personal_account",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.931026+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 217,
+          "quote": "You have spoken publicly with these MH370 videos. When I saw that thing open up, I saw the Pais Effect, man. This is the Pais Effect. I'm gone."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Pais states publicly that he saw the Pais Effect in the MH370 disappearance videos — 'when I saw that thing open up, I saw the Pais Effect, man. This is the Pais Effect. I'm gone.'",
+        "asserted_by_id": "person-salvatore-pais",
+        "source_video_id": "8TYMQOUDQBo",
+        "timestamp_start_seconds": 217,
+        "assertability": "personal_account",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-salvatore-pais",
+          "concept-pais-effect",
+          "incident-mh370-pais-effect-sighting"
+        ]
+      }
+    },
+    {
+      "id": "claim-8TYMQOUDQBo-pais-external-enemy-warning",
+      "node_type": "claim",
+      "label": "Pais warns: 'We must unite the factions because one day we shall have an external enemy — and by ext",
+      "summary": "Pais warns: 'We must unite the factions because one day we shall have an external enemy — and by external I mean very external, ni. Think of the earth, we are a very yummy apple.'",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.931046+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 217,
+          "quote": "I truly think that one day we must unite the factions because one day we shall have an external enemy and by external enemy I mean very external. Think of the earth, we are a very yummy apple."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Pais warns: 'We must unite the factions because one day we shall have an external enemy — and by external I mean very external, ni. Think of the earth, we are a very yummy apple.'",
+        "asserted_by_id": "person-salvatore-pais",
+        "source_video_id": "8TYMQOUDQBo",
+        "timestamp_start_seconds": 217,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-salvatore-pais"
+        ]
+      }
+    },
+    {
+      "id": "claim-8TYMQOUDQBo-pais-remote-action-at-distance",
+      "node_type": "claim",
+      "label": "Pais contends 'remote action is possible — can you imagine stopping a heart just by thinking about i",
+      "summary": "Pais contends 'remote action is possible — can you imagine stopping a heart just by thinking about it, say from Qatar? That's some scary stuff.'",
+      "tags": [
+        "speculation",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.931054+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 217,
+          "quote": "I think remote action is possible. Can you imagine stopping a heart just by thinking about it? Say from Qatar? That's some scary stuff."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Pais contends 'remote action is possible — can you imagine stopping a heart just by thinking about it, say from Qatar? That's some scary stuff.'",
+        "asserted_by_id": "person-salvatore-pais",
+        "source_video_id": "8TYMQOUDQBo",
+        "timestamp_start_seconds": 217,
+        "assertability": "speculation",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-salvatore-pais"
+        ]
+      }
+    },
+    {
+      "id": "claim-8TYMQOUDQBo-pais-patents-maxwell-heaviside",
+      "node_type": "claim",
+      "label": "Pais' patents are based on Oliver Heaviside's four-equation-four-unknown formulation of Maxwell's eq",
+      "summary": "Pais' patents are based on Oliver Heaviside's four-equation-four-unknown formulation of Maxwell's equations (not the original 21-variable quaternion formalism) — engineering reality of non-Newtonian propulsion via field manipulation.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.931061+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 251,
+          "quote": "Everything I've done is really based on Oliver Heaviside's version of Maxwell's equations. The four equation four unknowns that electrical engineers have grown up to love and use."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Pais' patents are based on Oliver Heaviside's four-equation-four-unknown formulation of Maxwell's equations (not the original 21-variable quaternion formalism) — engineering reality of non-Newtonian propulsion via field manipulation.",
+        "asserted_by_id": "person-salvatore-pais",
+        "source_video_id": "8TYMQOUDQBo",
+        "timestamp_start_seconds": 251,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-salvatore-pais",
+          "document-pais-patents",
+          "concept-pais-effect"
+        ]
+      }
+    },
+    {
+      "id": "claim-8TYMQOUDQBo-pais-expected-classified-contact",
+      "node_type": "claim",
+      "label": "Pais expected to be contacted by classified US programs after filing his patents — his lack of conta",
+      "summary": "Pais expected to be contacted by classified US programs after filing his patents — his lack of contact leads him to conclude the programs already have this technology figured out and operational.",
+      "tags": [
+        "speculation",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:13:43.931070+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 249,
+          "quote": "At one point in time, I almost expected to be contacted. The idea occurred to me almost instantaneously that they must have this somewhere — they've already figured it out and they're already operating certain devices."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Pais expected to be contacted by classified US programs after filing his patents — his lack of contact leads him to conclude the programs already have this technology figured out and operational.",
+        "asserted_by_id": "person-salvatore-pais",
+        "source_video_id": "8TYMQOUDQBo",
+        "timestamp_start_seconds": 249,
+        "assertability": "speculation",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-salvatore-pais",
+          "document-pais-patents",
+          "concept-reverse-engineering"
+        ]
+      }
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge-video-8TYMQOUDQBo-HOSTED_BY-person-jesse-michels",
+      "from_node_id": "video-8TYMQOUDQBo",
+      "to_node_id": "person-jesse-michels",
+      "relationship": "HOSTED_BY",
+      "confidence": 0.99,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 0,
+          "quote": "Jesse hosting"
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-APPEARED_IN-video-8TYMQOUDQBo",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "video-8TYMQOUDQBo",
+      "relationship": "APPEARED_IN",
+      "confidence": 0.99,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 0,
+          "quote": "Host"
+        }
+      ],
+      "properties": {
+        "appearance_type": "host"
+      }
+    },
+    {
+      "id": "edge-video-8TYMQOUDQBo-MENTIONS-person-robert-hastings",
+      "from_node_id": "video-8TYMQOUDQBo",
+      "to_node_id": "person-robert-hastings",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 0,
+          "quote": "here's good factions and bad factions? Like when I speak to Robert Hastings, I'm praying for that because otherwise we do not have a ch"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-8TYMQOUDQBo-MENTIONS-person-eric-weinstein",
+      "from_node_id": "video-8TYMQOUDQBo",
+      "to_node_id": "person-eric-weinstein",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 0,
+          "quote": "ic frameworks. And so I'll my interview with how punoff and Eric Weinstein. Sometimes I get out of my depth scientifically and I defin"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-8TYMQOUDQBo-MENTIONS-person-graham-hancock",
+      "from_node_id": "video-8TYMQOUDQBo",
+      "to_node_id": "person-graham-hancock",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 0,
+          "quote": "tance, the Toba event and the Randall Carlson stuff and the Graham Hancock stuff, the reset 12,000 years ago, but that might be have j"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-8TYMQOUDQBo-MENTIONS-person-e-howard-hunt",
+      "from_node_id": "video-8TYMQOUDQBo",
+      "to_node_id": "person-e-howard-hunt",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 0,
+          "quote": "ctors and I didn't realize this but Nick Cook who wrote the hunt for zero point in great book great he went up to they were "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-8TYMQOUDQBo-MENTIONS-person-richard-dolan",
+      "from_node_id": "video-8TYMQOUDQBo",
+      "to_node_id": "person-richard-dolan",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 0,
+          "quote": " on Dr. Ferrell's ideas on the breakaway civilization. also Dolan. Don't forget Richard and Dolan. But who is who in the 1890"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-8TYMQOUDQBo-MENTIONS-person-stephen-greer",
+      "from_node_id": "video-8TYMQOUDQBo",
+      "to_node_id": "person-stephen-greer",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 0,
+          "quote": " things it was a lot of things that were done by Dr. Steven Greer. Okay. And a great deal of things. As a matter of fact, I h"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-8TYMQOUDQBo-MENTIONS-person-love-has-won",
+      "from_node_id": "video-8TYMQOUDQBo",
+      "to_node_id": "person-love-has-won",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 0,
+          "quote": "years. They're all saying you know like Leonard Suskin just won on theories of everything. Kurt J great interviewer was lik"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-8TYMQOUDQBo-MENTIONS-person-paul-r-hill",
+      "from_node_id": "video-8TYMQOUDQBo",
+      "to_node_id": "person-paul-r-hill",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 0,
+          "quote": "t is a famous quote of Agnu Bon who's sponsoring the Chapel Hill conference and kind of creates quantum gravity which sends "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-8TYMQOUDQBo-MENTIONS-person-timothy-good",
+      "from_node_id": "video-8TYMQOUDQBo",
+      "to_node_id": "person-timothy-good",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 0,
+          "quote": "eady in the public domain. However, it's also ecubed. Not a good idea. Well, okay. So, you also have written a lot about hig"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-8TYMQOUDQBo-MENTIONS-person-betty-hill",
+      "from_node_id": "video-8TYMQOUDQBo",
+      "to_node_id": "person-betty-hill",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 0,
+          "quote": "t is a famous quote of Agnu Bon who's sponsoring the Chapel Hill conference and kind of creates quantum gravity which sends "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-8TYMQOUDQBo-MENTIONS-person-bob-lazar",
+      "from_node_id": "video-8TYMQOUDQBo",
+      "to_node_id": "person-bob-lazar",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 0,
+          "quote": "l field equations right talks to this talks to the and then Bob Lazar mentioned at one point that it seemed to him that the so-ca"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-8TYMQOUDQBo-MENTIONS-person-nick-pope",
+      "from_node_id": "video-8TYMQOUDQBo",
+      "to_node_id": "person-nick-pope",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 0,
+          "quote": "r macroscopic spin visav something called the poems theory, Pope Osborne angular momentum synergy theory, something that Ric"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-8TYMQOUDQBo-MENTIONS-person-art-bell",
+      "from_node_id": "video-8TYMQOUDQBo",
+      "to_node_id": "person-art-bell",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 0,
+          "quote": "n't know but like in 1933 you don't have some sophisticated bell on that you're building like bro again the vice effect Yeah"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-8TYMQOUDQBo-MENTIONS-organization-the-report-on-unidentified-flying-objects",
+      "from_node_id": "video-8TYMQOUDQBo",
+      "to_node_id": "organization-the-report-on-unidentified-flying-objects",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 0,
+          "quote": "t we operate in the gravitational field for example to make objects have diminished inertia? Since inertial mass and gravitatio"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-8TYMQOUDQBo-MENTIONS-organization-1952-washington-d-c-ufo-incident",
+      "from_node_id": "video-8TYMQOUDQBo",
+      "to_node_id": "organization-1952-washington-d-c-ufo-incident",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 0,
+          "quote": "es, including a breach of the national public database. The incident compromised over 2.9 billion records used for background ch"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-8TYMQOUDQBo-MENTIONS-organization-identification-studies-of-ufos",
+      "from_node_id": "video-8TYMQOUDQBo",
+      "to_node_id": "organization-identification-studies-of-ufos",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 0,
+          "quote": "son himself, who's the patron, writes a book about man-made UFOs called the stars are too high. Actually, it's about this pl"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-8TYMQOUDQBo-MENTIONS-organization-lakenheath-bentwaters-incident",
+      "from_node_id": "video-8TYMQOUDQBo",
+      "to_node_id": "organization-lakenheath-bentwaters-incident",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 0,
+          "quote": "es, including a breach of the national public database. The incident compromised over 2.9 billion records used for background ch"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-8TYMQOUDQBo-MENTIONS-organization-flying-saucer-working-party",
+      "from_node_id": "video-8TYMQOUDQBo",
+      "to_node_id": "organization-flying-saucer-working-party",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 0,
+          "quote": "e sitting in decaying weaponization by, god forbid, a third party, not even a country. I don't think this is hard to engineer"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-8TYMQOUDQBo-MENTIONS-organization-the-flying-saucers-are-real",
+      "from_node_id": "video-8TYMQOUDQBo",
+      "to_node_id": "organization-the-flying-saucers-are-real",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 0,
+          "quote": "an alternate current to move it to move it to manipulate it real temperature and yet no one has touched on either the Victor"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-8TYMQOUDQBo-MENTIONS-organization-unidentified-flying-object",
+      "from_node_id": "video-8TYMQOUDQBo",
+      "to_node_id": "organization-unidentified-flying-object",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 0,
+          "quote": "t's using kind of creating a brainia basically to propel an object is that some of your work has cited Max Borne Paul Durac an"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-8TYMQOUDQBo-MENTIONS-organization-us-department-of-defense",
+      "from_node_id": "video-8TYMQOUDQBo",
+      "to_node_id": "organization-us-department-of-defense",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 0,
+          "quote": "le tech trees that could be filtering their way through the defense intelligence space? Some of them, some of them approachably"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-8TYMQOUDQBo-MENTIONS-organization-lonnie-zamora-incident",
+      "from_node_id": "video-8TYMQOUDQBo",
+      "to_node_id": "organization-lonnie-zamora-incident",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 0,
+          "quote": "es, including a breach of the national public database. The incident compromised over 2.9 billion records used for background ch"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-8TYMQOUDQBo-MENTIONS-organization-roswell-that-ends-well",
+      "from_node_id": "video-8TYMQOUDQBo",
+      "to_node_id": "organization-roswell-that-ends-well",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 0,
+          "quote": "n many podcasts and you're one of the best. So, absolutely. Well, we can kudos to you, brother. Agree to disagree. But I'm I"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-8TYMQOUDQBo-MENTIONS-organization-the-galileo-project",
+      "from_node_id": "video-8TYMQOUDQBo",
+      "to_node_id": "organization-the-galileo-project",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 0,
+          "quote": "z, Luis Walter Alvarez, the father who was in the Manhattan Project, they had this theory that, you know, an asteroid hit the e"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-8TYMQOUDQBo-MENTIONS-organization-thornton-leigh-page",
+      "from_node_id": "video-8TYMQOUDQBo",
+      "to_node_id": "organization-thornton-leigh-page",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 0,
+          "quote": "chanism that Dr. I believe in his paper it's a just a three-page paper but on the third page he gives the mechanism and he s"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-8TYMQOUDQBo-MENTIONS-organization-project-blue-book",
+      "from_node_id": "video-8TYMQOUDQBo",
+      "to_node_id": "organization-project-blue-book",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 0,
+          "quote": "is but Nick Cook who wrote the hunt for zero point in great book great he went up to they were speaking and for whatever rea"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-8TYMQOUDQBo-MENTIONS-organization-world-contact-day",
+      "from_node_id": "video-8TYMQOUDQBo",
+      "to_node_id": "organization-world-contact-day",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 0,
+          "quote": "iews: 367,754 video_id: 8TYMQOUDQBo  I truly think that one day we must unite the factions because I think one day we shall"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-8TYMQOUDQBo-MENTIONS-organization-manhattan-project",
+      "from_node_id": "video-8TYMQOUDQBo",
+      "to_node_id": "organization-manhattan-project",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 0,
+          "quote": "er  Alvarez, Luis Walter Alvarez, the father who was in the Manhattan Project, they had this theory that, you know, an asteroid hit the e"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-8TYMQOUDQBo-MENTIONS-organization-steven-m-greer",
+      "from_node_id": "video-8TYMQOUDQBo",
+      "to_node_id": "organization-steven-m-greer",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 0,
+          "quote": "ries or things it was a lot of things that were done by Dr. Steven Greer. Okay. And a great deal of things. As a matter of fact, I h"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-8TYMQOUDQBo-MENTIONS-organization-us-air-force",
+      "from_node_id": "video-8TYMQOUDQBo",
+      "to_node_id": "organization-us-air-force",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 0,
+          "quote": "ted States Navy. I used to work for the United States Space Force. Let me say at this time that I  come on this podcast as a "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-8TYMQOUDQBo-MENTIONS-organization-big-sur-ufo",
+      "from_node_id": "video-8TYMQOUDQBo",
+      "to_node_id": "organization-big-sur-ufo",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 0,
+          "quote": "# Meet the Navy Scientist With UFO Patents (Ft. Salvatore Pais) https://www.youtube.com/watch?"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-8TYMQOUDQBo-MENTIONS-organization-majestic-12",
+      "from_node_id": "video-8TYMQOUDQBo",
+      "to_node_id": "organization-majestic-12",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 0,
+          "quote": "orge Knap but and so maybe it was like at the time that the Majestic 12 was coming out. I  think a lot more about the Majestic 12 w"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-8TYMQOUDQBo-MENTIONS-organization-bob-lazar",
+      "from_node_id": "video-8TYMQOUDQBo",
+      "to_node_id": "organization-bob-lazar",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 0,
+          "quote": "l field equations right talks to this talks to the and then Bob Lazar mentioned at one point that it seemed to him that the so-ca"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-8TYMQOUDQBo-MENTIONS-organization-us-navy",
+      "from_node_id": "video-8TYMQOUDQBo",
+      "to_node_id": "organization-us-navy",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 0,
+          "quote": "# Meet the Navy Scientist With UFO Patents (Ft. Salvatore Pais) https://www"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-8TYMQOUDQBo-MENTIONS-organization-nasa",
+      "from_node_id": "video-8TYMQOUDQBo",
+      "to_node_id": "organization-nasa",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 0,
+          "quote": "s, man. Yeah. So, you think Sunny White, you know, is was a NASA engineer. Eagle was trying Eagle works, sir.  And he was tr"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-8TYMQOUDQBo-MENTIONS-organization-cia",
+      "from_node_id": "video-8TYMQOUDQBo",
+      "to_node_id": "organization-cia",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 0,
+          "quote": "hat's scary. That's some scary [ __ ] Anyway, who needs the CIA's heart stopping gone when you can do it with a thought? We"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-8TYMQOUDQBo-MENTIONS-organization-dia",
+      "from_node_id": "video-8TYMQOUDQBo",
+      "to_node_id": "organization-dia",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 0,
+          "quote": "mething to that Dr. Eric W. Davis published in one of those DIA reports that I saw in teleportage more to do with a certain"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-8TYMQOUDQBo-MENTIONS-location-pacific-training-area",
+      "from_node_id": "video-8TYMQOUDQBo",
+      "to_node_id": "location-pacific-training-area",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 0,
+          "quote": "ncursion where it seems like drones are swarming around the area in our airspace. We have no defense against this., it seems"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-8TYMQOUDQBo-MENTIONS-location-united-states",
+      "from_node_id": "video-8TYMQOUDQBo",
+      "to_node_id": "location-united-states",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 0,
+          "quote": "at with yes my name is Salvatore Chesar Pis. I work for the United States Navy. I used to work for the United States Space Force. Let"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-8TYMQOUDQBo-MENTIONS-location-germany",
+      "from_node_id": "video-8TYMQOUDQBo",
+      "to_node_id": "location-germany",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 0,
+          "quote": "o the US. So, well, I think it we do think it maybe went to Germany, but we don't know when for sure or whatever, but and GR wo"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-8TYMQOUDQBo-MENTIONS-location-roswell",
+      "from_node_id": "video-8TYMQOUDQBo",
+      "to_node_id": "location-roswell",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 0,
+          "quote": "as a first oneoff vehicle that we had at some  point before Roswell that, you know, was at Rightfield or something like that. S"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-8TYMQOUDQBo-MENTIONS-location-russia",
+      "from_node_id": "video-8TYMQOUDQBo",
+      "to_node_id": "location-russia",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 0,
+          "quote": " do  you need to get the first? I if I had to guess between Russia and China, I'd say China. That's yeah they have they're not"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-8TYMQOUDQBo-MENTIONS-location-italy",
+      "from_node_id": "video-8TYMQOUDQBo",
+      "to_node_id": "location-italy",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 0,
+          "quote": " audience magenta was a rumored crash I believe in Bolognia Italy that ended up it was in Italy's hands  for like the next 11"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-8TYMQOUDQBo-MENTIONS-program-mj-12",
+      "from_node_id": "video-8TYMQOUDQBo",
+      "to_node_id": "program-mj-12",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 0,
+          "quote": "orge Knap but and so maybe it was like at the time that the Majestic 12 was coming out. I  think a lot more about the Majestic 12 w"
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-8TYMQOUDQBo-discussion-summary",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-8TYMQOUDQBo-discussion-summary",
+      "relationship": "ASSERTED",
+      "confidence": 0.9,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 0,
+          "quote": "Episode: Meet the Navy Scientist With UFO Patents (Ft. Salvatore Pais)"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-8TYMQOUDQBo-REFERENCES-claim-8TYMQOUDQBo-discussion-summary",
+      "from_node_id": "video-8TYMQOUDQBo",
+      "to_node_id": "claim-8TYMQOUDQBo-discussion-summary",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 0
+        }
+      ]
+    },
+    {
+      "id": "edge-person-salvatore-pais-ASSERTED-claim-8TYMQOUDQBo-pais-mh370-sighting",
+      "from_node_id": "person-salvatore-pais",
+      "to_node_id": "claim-8TYMQOUDQBo-pais-mh370-sighting",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 217,
+          "quote": "Pais states publicly that he saw the Pais Effect in the MH370 disappearance videos — 'when I saw that thing open up, I saw the Pais Effect, man. This is the Pais Effect. I'm gone.'"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-8TYMQOUDQBo-REFERENCES-claim-8TYMQOUDQBo-pais-mh370-sighting",
+      "from_node_id": "video-8TYMQOUDQBo",
+      "to_node_id": "claim-8TYMQOUDQBo-pais-mh370-sighting",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 217
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-8TYMQOUDQBo-pais-mh370-sighting-REFERENCES-concept-pais-effect",
+      "from_node_id": "claim-8TYMQOUDQBo-pais-mh370-sighting",
+      "to_node_id": "concept-pais-effect",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 217
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-8TYMQOUDQBo-pais-mh370-sighting-REFERENCES-incident-mh370-pais-effect-sighting",
+      "from_node_id": "claim-8TYMQOUDQBo-pais-mh370-sighting",
+      "to_node_id": "incident-mh370-pais-effect-sighting",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 217
+        }
+      ]
+    },
+    {
+      "id": "edge-person-salvatore-pais-ASSERTED-claim-8TYMQOUDQBo-pais-external-enemy-warning",
+      "from_node_id": "person-salvatore-pais",
+      "to_node_id": "claim-8TYMQOUDQBo-pais-external-enemy-warning",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 217,
+          "quote": "Pais warns: 'We must unite the factions because one day we shall have an external enemy — and by external I mean very external, ni. Think of the earth, we are a very yummy apple.'"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-8TYMQOUDQBo-REFERENCES-claim-8TYMQOUDQBo-pais-external-enemy-warning",
+      "from_node_id": "video-8TYMQOUDQBo",
+      "to_node_id": "claim-8TYMQOUDQBo-pais-external-enemy-warning",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 217
+        }
+      ]
+    },
+    {
+      "id": "edge-person-salvatore-pais-ASSERTED-claim-8TYMQOUDQBo-pais-remote-action-at-distance",
+      "from_node_id": "person-salvatore-pais",
+      "to_node_id": "claim-8TYMQOUDQBo-pais-remote-action-at-distance",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 217,
+          "quote": "Pais contends 'remote action is possible — can you imagine stopping a heart just by thinking about it, say from Qatar? That's some scary stuff.'"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-8TYMQOUDQBo-REFERENCES-claim-8TYMQOUDQBo-pais-remote-action-at-distance",
+      "from_node_id": "video-8TYMQOUDQBo",
+      "to_node_id": "claim-8TYMQOUDQBo-pais-remote-action-at-distance",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 217
+        }
+      ]
+    },
+    {
+      "id": "edge-person-salvatore-pais-ASSERTED-claim-8TYMQOUDQBo-pais-patents-maxwell-heaviside",
+      "from_node_id": "person-salvatore-pais",
+      "to_node_id": "claim-8TYMQOUDQBo-pais-patents-maxwell-heaviside",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 251,
+          "quote": "Pais' patents are based on Oliver Heaviside's four-equation-four-unknown formulation of Maxwell's equations (not the original 21-variable quaternion formalism) — engineering reality of non-Newtonian p"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-8TYMQOUDQBo-REFERENCES-claim-8TYMQOUDQBo-pais-patents-maxwell-heaviside",
+      "from_node_id": "video-8TYMQOUDQBo",
+      "to_node_id": "claim-8TYMQOUDQBo-pais-patents-maxwell-heaviside",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 251
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-8TYMQOUDQBo-pais-patents-maxwell-heaviside-REFERENCES-document-pais-patents",
+      "from_node_id": "claim-8TYMQOUDQBo-pais-patents-maxwell-heaviside",
+      "to_node_id": "document-pais-patents",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 251
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-8TYMQOUDQBo-pais-patents-maxwell-heaviside-REFERENCES-concept-pais-effect",
+      "from_node_id": "claim-8TYMQOUDQBo-pais-patents-maxwell-heaviside",
+      "to_node_id": "concept-pais-effect",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 251
+        }
+      ]
+    },
+    {
+      "id": "edge-person-salvatore-pais-ASSERTED-claim-8TYMQOUDQBo-pais-expected-classified-contact",
+      "from_node_id": "person-salvatore-pais",
+      "to_node_id": "claim-8TYMQOUDQBo-pais-expected-classified-contact",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 249,
+          "quote": "Pais expected to be contacted by classified US programs after filing his patents — his lack of contact leads him to conclude the programs already have this technology figured out and operational."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-8TYMQOUDQBo-REFERENCES-claim-8TYMQOUDQBo-pais-expected-classified-contact",
+      "from_node_id": "video-8TYMQOUDQBo",
+      "to_node_id": "claim-8TYMQOUDQBo-pais-expected-classified-contact",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 249
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-8TYMQOUDQBo-pais-expected-classified-contact-REFERENCES-document-pais-patents",
+      "from_node_id": "claim-8TYMQOUDQBo-pais-expected-classified-contact",
+      "to_node_id": "document-pais-patents",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 249
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-8TYMQOUDQBo-pais-expected-classified-contact-REFERENCES-concept-reverse-engineering",
+      "from_node_id": "claim-8TYMQOUDQBo-pais-expected-classified-contact",
+      "to_node_id": "concept-reverse-engineering",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "8TYMQOUDQBo",
+          "timestamp_start": 249
+        }
+      ]
+    }
+  ],
+  "extracted_at": "2026-04-17T13:13:43.931078+00:00",
+  "extractor_version": "v1-inline-claude"
+}

@@ -1,0 +1,3042 @@
+{
+  "video_id": "LpLFWdsIU7M",
+  "nodes": [
+    {
+      "id": "video-LpLFWdsIU7M",
+      "node_type": "video",
+      "label": "UFO Physics & Disclosure Under Trump (ft. Matthew Pines)",
+      "summary": "In today's episode of American Alchemy, Jesse Michels sits down with Matthew Pines, a national security expert and Fellow at the Bitcoin Policy Institute, to explore the intersections of secret...",
+      "tags": [
+        "video",
+        "american-alchemy"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:56.516328+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "timestamp_end": 15436.0,
+          "quote": "Video: UFO Physics & Disclosure Under Trump (ft. Matthew Pines)"
+        }
+      ],
+      "type_specific": {
+        "video_id": "LpLFWdsIU7M",
+        "title": "UFO Physics & Disclosure Under Trump (ft. Matthew Pines)",
+        "url": "https://www.youtube.com/watch?v=LpLFWdsIU7M",
+        "view_count": 250800,
+        "duration_seconds": 15436.0,
+        "host_id": "person-jesse-michels"
+      }
+    },
+    {
+      "id": "person-jesse-michels",
+      "node_type": "person",
+      "label": "Jesse Michels",
+      "summary": "Host of American Alchemy podcast/show. Independent journalist and UFO/NHI researcher.",
+      "tags": [
+        "journalist",
+        "interviewer",
+        "researcher",
+        "host"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:56.516353+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": "Host of American Alchemy podcast/show."
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Jesse",
+          "Michels"
+        ],
+        "profession": "journalist",
+        "notability_tags": [
+          "journalist",
+          "interviewer",
+          "researcher",
+          "host"
+        ]
+      }
+    },
+    {
+      "id": "person-wilbert-brockhouse-smith",
+      "node_type": "person",
+      "label": "Wilbert Brockhouse Smith",
+      "summary": "William Brockhouse Smith (1910 – December 27, 1962) was a Canadian engineer, government scientist, ufologist, and author of various patents and technical papers.",
+      "tags": [
+        "wikipedia",
+        "20th-century canadian engineers",
+        "canadian electrical engineers",
+        "contactees",
+        "date of birth missing",
+        "date of birth not in wikidata",
+        "engineers from alberta",
+        "pages where birth or death is being automatically determined",
+        "people from lethbridge",
+        "ufologists",
+        "university of british columbia alumni"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:58.036193+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": " own state, right? Our own sort of theocratic state. Joseph Smith actually may have been  assassinated by agents of the gover"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Smith",
+          "WILBERT BROCKHOUSE SMITH",
+          "wilbert brockhouse smith"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "20th-century canadian engineers",
+          "canadian electrical engineers",
+          "contactees",
+          "date of birth missing",
+          "date of birth not in wikidata",
+          "engineers from alberta",
+          "pages where birth or death is being automatically determined",
+          "people from lethbridge",
+          "ufologists",
+          "university of british columbia alumni"
+        ]
+      }
+    },
+    {
+      "id": "person-kirsten-gillibrand",
+      "node_type": "person",
+      "label": "Kirsten Gillibrand",
+      "summary": "",
+      "tags": [
+        "politician",
+        "senator"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:58.036210+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": " from this you know that's why it came from Schumer rounds  Gillibrand you know Heinrich Todd Young etc. because its basic functio"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Gillibrand",
+          "Senator Gillibrand"
+        ],
+        "notability_tags": [
+          "politician",
+          "senator"
+        ]
+      }
+    },
+    {
+      "id": "person-john-f-kennedy",
+      "node_type": "person",
+      "label": "John F. Kennedy",
+      "summary": "",
+      "tags": [
+        "president",
+        "historical"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:58.036215+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": ", getting us out of wars, crypto reform, you know, UFOs and JFK like how would you slap probabilities on, you know, all of "
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "JFK",
+          "Kennedy"
+        ],
+        "notability_tags": [
+          "president",
+          "historical"
+        ]
+      }
+    },
+    {
+      "id": "person-eric-weinstein",
+      "node_type": "person",
+      "label": "Eric Weinstein",
+      "summary": "",
+      "tags": [
+        "mathematician",
+        "physicist"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:58.036219+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": "ions to these programs. Speaking of which, my old colleague Eric Weinstein went on Joe Rogan and I think exasperated at the lack of re"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Weinstein"
+        ],
+        "notability_tags": [
+          "mathematician",
+          "physicist"
+        ]
+      }
+    },
+    {
+      "id": "person-e-howard-hunt",
+      "node_type": "person",
+      "label": "E. Howard Hunt",
+      "summary": "",
+      "tags": [
+        "CIA",
+        "Watergate"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:58.036224+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": "t into the wilderness of the bureaucratic system and try to hunt down these alleged legacy programs.  And that's essentially"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Howard Hunt",
+          "Hunt"
+        ],
+        "notability_tags": [
+          "CIA",
+          "Watergate"
+        ]
+      }
+    },
+    {
+      "id": "person-chuck-schumer",
+      "node_type": "person",
+      "label": "Chuck Schumer",
+      "summary": "",
+      "tags": [
+        "politician",
+        "senator"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:58.036228+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": "'s why that came from this you know that's why it came from Schumer rounds  Gillibrand you know Heinrich Todd Young etc. becaus"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Schumer",
+          "Senator Schumer"
+        ],
+        "notability_tags": [
+          "politician",
+          "senator"
+        ]
+      }
+    },
+    {
+      "id": "person-james-harder",
+      "node_type": "person",
+      "label": "James Harder",
+      "summary": "James Albert Harder, Ph.D., (December 2, 1926 – December 30, 2006) was a professor of civil and hydraulic engineering at the University of California, Berkeley. He was a professor emeritus there. Harder also had interest in ufology.",
+      "tags": [
+        "wikipedia",
+        "california institute of technology alumni",
+        "people from fullerton, california",
+        "uc berkeley college of engineering faculty",
+        "ufologists",
+        "university of california, berkeley alumni"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:58.036233+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": "ome of those solving those principalation problems actually harder, right? because you actually can't get too much reporting c"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Harder",
+          "JAMES HARDER",
+          "james harder"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "california institute of technology alumni",
+          "people from fullerton, california",
+          "uc berkeley college of engineering faculty",
+          "ufologists",
+          "university of california, berkeley alumni"
+        ]
+      }
+    },
+    {
+      "id": "person-jimmy-carter",
+      "node_type": "person",
+      "label": "Jimmy Carter",
+      "summary": "Jimmy Carter entity extracted from cross-source archival records.",
+      "tags": [
+        "pipeline-generated",
+        "entity-extracted"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:58.036237+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": " the CIA, just to take that as  a concrete example, you had Carter essentially purge like the entire senior ranks of the CIA w"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Carter",
+          "JIMMY CARTER",
+          "jimmy carter"
+        ],
+        "notability_tags": [
+          "pipeline-generated",
+          "entity-extracted"
+        ]
+      }
+    },
+    {
+      "id": "person-love-has-won",
+      "node_type": "person",
+      "label": "Love Has Won",
+      "summary": "Love Has Won (LHW), also known as the Galactic Federation of Light, is an American new religious movement that was led by Amy Carlson until her death in 2021. Carlson was referred to within the group as \"Mother God\", who described herself as, among other things, the creator of the universe, with the",
+      "tags": [
+        "wikipedia",
+        "2007 establishments in colorado",
+        "ancient astronaut speculation",
+        "covid-19 vaccine misinformation and hesitancy",
+        "climate change denial in the united states",
+        "holocaust denial in the united states",
+        "new age organizations",
+        "new religious movements established in the 2000s",
+        "qanon",
+        "religious belief systems founded in the united states",
+        "religious controversies in the united states",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:58.036241+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": "seems like the you know more structural paristroka argument won out right. Yeah. And that's I think what we're going to hea"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "LOVE HAS WON",
+          "Won",
+          "love has won"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "2007 establishments in colorado",
+          "ancient astronaut speculation",
+          "covid-19 vaccine misinformation and hesitancy",
+          "climate change denial in the united states",
+          "holocaust denial in the united states",
+          "new age organizations",
+          "new religious movements established in the 2000s",
+          "qanon",
+          "religious belief systems founded in the united states",
+          "religious controversies in the united states",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "person-paul-r-hill",
+      "node_type": "person",
+      "label": "Paul R. Hill",
+      "summary": "Paul Richard Hill (1909–1990) was a mid–twentieth-century American aerodynamicist. He was a leading research and development engineer and manager for NASA (National Aeronautics and Space Administration) and its predecessor, NACA (the National Advisory Council for Aeronautics) between 1939 and 1970, ",
+      "tags": [
+        "wikipedia",
+        "aerodynamicists",
+        "nasa people",
+        "scientists from iowa",
+        "uc berkeley college of engineering alumni",
+        "ufologists",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:58.036246+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": "pee hall book that you know we'd be the shining city on the hill for the rest of the world or whatever  and it doesn't take "
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Hill",
+          "PAUL R. HILL",
+          "Paul Hill",
+          "paul r. hill"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "aerodynamicists",
+          "nasa people",
+          "scientists from iowa",
+          "uc berkeley college of engineering alumni",
+          "ufologists",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "person-riley-martin",
+      "node_type": "person",
+      "label": "Riley Martin",
+      "summary": "Riley Lee Martin (May 9, 1946 – December 22, 2015) was an American self-described alien contactee, author and radio host. Martin was the author of the book The Coming of Tan, which describes his life and his alleged alien visitation. He hosted The Riley Martin Show on the Sirius XM Radio channel How",
+      "tags": [
+        "wikipedia",
+        "20th-century african-american people",
+        "african-american radio personalities",
+        "american conspiracy theorists",
+        "american outsider artists",
+        "american people who self-identify as being of native american descent",
+        "contactees",
+        "people from natchez, mississippi",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:58.036250+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": "tend to bucket in these bland terms of like the CIA, Loheed Martin, you know, the Vatican. It's just these blobs of institutio"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Martin",
+          "RILEY MARTIN",
+          "riley martin"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "20th-century african-american people",
+          "african-american radio personalities",
+          "american conspiracy theorists",
+          "american outsider artists",
+          "american people who self-identify as being of native american descent",
+          "contactees",
+          "people from natchez, mississippi",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "person-timothy-good",
+      "node_type": "person",
+      "label": "Timothy Good",
+      "summary": "",
+      "tags": [
+        "researcher",
+        "author"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:58.036254+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": " but I think he understands almost viscerally like what's a good bargaining chip, like where where does he how what leverage"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Tim Good",
+          "Good"
+        ],
+        "notability_tags": [
+          "researcher",
+          "author"
+        ]
+      }
+    },
+    {
+      "id": "person-allen-dulles",
+      "node_type": "person",
+      "label": "Allen Dulles",
+      "summary": "",
+      "tags": [
+        "CIA",
+        "historical"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:58.036258+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": "le resources to do that and you can't just rely on you know dulles brothers to just run around and do weird [ __ ] right you h"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Dulles"
+        ],
+        "notability_tags": [
+          "CIA",
+          "historical"
+        ]
+      }
+    },
+    {
+      "id": "person-garry-nolan",
+      "node_type": "person",
+      "label": "Garry Nolan",
+      "summary": "Garry P. Nolan (born c. 1961) is a British-American immunologist, academic, inventor, and business executive. He holds the Rachford and Carlota A. Harris Professor Endowed Chair in the Department of Pathology at Stanford University School of Medicine. Nolan has founded biotechnology companies. Since",
+      "tags": [
+        "wikipedia",
+        "1960s births",
+        "american cancer researchers",
+        "american immunologists",
+        "american pathologists",
+        "british cancer researchers",
+        "british immunologists",
+        "cornell university alumni",
+        "pages with broken reference names",
+        "pages with reference errors",
+        "serologists",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:58.036263+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": "n one possible candidate, physical candidate, you have Gary Nolan, who's a microbiologist at Stanford, also interested in the"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "GARRY NOLAN",
+          "Nolan",
+          "garry nolan"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "1960s births",
+          "american cancer researchers",
+          "american immunologists",
+          "american pathologists",
+          "british cancer researchers",
+          "british immunologists",
+          "cornell university alumni",
+          "pages with broken reference names",
+          "pages with reference errors",
+          "serologists",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "person-marco-rubio",
+      "node_type": "person",
+      "label": "Marco Rubio",
+      "summary": "",
+      "tags": [
+        "politician",
+        "senator"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:58.036267+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": "t programs. And that from the vantage point of someone like Marco Rubio or someone like Senator Jillan would be kind of like extrem"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Rubio",
+          "Senator Rubio"
+        ],
+        "notability_tags": [
+          "politician",
+          "senator"
+        ]
+      }
+    },
+    {
+      "id": "person-betty-hill",
+      "node_type": "person",
+      "label": "Betty Hill",
+      "summary": "Betty Hill entity extracted from cross-source archival records.",
+      "tags": [
+        "pipeline-generated",
+        "entity-extracted"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:58.036271+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": "pee hall book that you know we'd be the shining city on the hill for the rest of the world or whatever  and it doesn't take "
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "BETTY HILL",
+          "Hill",
+          "betty hill"
+        ],
+        "notability_tags": [
+          "pipeline-generated",
+          "entity-extracted"
+        ]
+      }
+    },
+    {
+      "id": "person-kid-cosmic",
+      "node_type": "person",
+      "label": "Kid Cosmic",
+      "summary": "Kid Cosmic is an American animated superhero television series created by Craig McCracken and developed by McCracken, his wife Lauren Faust and Francisco Angones for Netflix. The series was based on his 2009 comic The Kid from Planet Earth. Produced in-house by Netflix Animation, the show is McCrack",
+      "tags": [
+        "wikipedia",
+        "2020s american animated comedy television series",
+        "2020s american children's comedy television series",
+        "2020s american science fiction comedy television series",
+        "2020s american superhero comedy television series",
+        "2021 american animated television series debuts",
+        "2022 american television series endings",
+        "american english-language television shows",
+        "american children's animated action television series",
+        "american children's animated adventure television series",
+        "american children's animated comic science fiction television series",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:58.036275+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": "his guy, he's not a guy I think truly motivated about these cosmic questions.  I don't know if he even, you know, has a framew"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Cosmic",
+          "KID COSMIC",
+          "kid cosmic"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "2020s american animated comedy television series",
+          "2020s american children's comedy television series",
+          "2020s american science fiction comedy television series",
+          "2020s american superhero comedy television series",
+          "2021 american animated television series debuts",
+          "2022 american television series endings",
+          "american english-language television shows",
+          "american children's animated action television series",
+          "american children's animated adventure television series",
+          "american children's animated comic science fiction television series",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "person-nick-pope",
+      "node_type": "person",
+      "label": "Nick Pope",
+      "summary": "Nick Pope entity extracted from cross-source archival records.",
+      "tags": [
+        "pipeline-generated",
+        "entity-extracted"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:58.036279+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": "'re not I don't look to you to like you know you're not the pope right you're not you're not but it's also not the job to su"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "NICK POPE",
+          "Pope",
+          "nick pope"
+        ],
+        "notability_tags": [
+          "pipeline-generated",
+          "entity-extracted"
+        ]
+      }
+    },
+    {
+      "id": "person-art-bell",
+      "node_type": "person",
+      "label": "Art Bell",
+      "summary": "Arthur William Bell III (June 17, 1945 – April 13, 2018) was an American broadcaster and author. He was the founder and the original host of the paranormal-themed radio program Coast to Coast AM, which is syndicated on hundreds of radio stations in the United States and Canada. He also created and h",
+      "tags": [
+        "wikipedia",
+        "20th-century american businesspeople",
+        "accidental deaths in nevada",
+        "amateur radio people",
+        "american non-fiction environmental writers",
+        "american radio djs",
+        "american radio executives",
+        "american talk radio hosts",
+        "businesspeople from monterey, california",
+        "businesspeople from nevada",
+        "coast to coast am",
+        "country:us"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:58.036283+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": " flux liner or an alien reproduction vehicle. And these are bell-shaped or acornshaped vehicles. There are three of them. Th"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "ART BELL",
+          "Bell",
+          "art bell"
+        ],
+        "notability_tags": [
+          "wikipedia",
+          "20th-century american businesspeople",
+          "accidental deaths in nevada",
+          "amateur radio people",
+          "american non-fiction environmental writers",
+          "american radio djs",
+          "american radio executives",
+          "american talk radio hosts",
+          "businesspeople from monterey, california",
+          "businesspeople from nevada",
+          "coast to coast am",
+          "country:us"
+        ]
+      }
+    },
+    {
+      "id": "organization-international-ufo-museum-and-research-center",
+      "node_type": "organization",
+      "label": "International UFO Museum and Research Center",
+      "summary": "The International UFO Museum and Research Center is located in Roswell, New Mexico, United States, in the downtown district, and is focused largely on the 1947 Roswell Crash and later supposed UFO incidents in the United States and elsewhere. It was founded in 1991 as a 501c3 nonprofit educational o",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:58.036289+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": "okke nobody like that, right? At you know, he had to be the center of the of the attention. Yeah. You could easily see a world"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-the-report-on-unidentified-flying-objects",
+      "node_type": "organization",
+      "label": "The Report on Unidentified Flying Objects",
+      "summary": "The Report on Unidentified Flying Objects is a 1956 book by then-retired Air Force UFO investigator Edward J. Ruppelt, detailing his experience running Project Blue Book. The book was noted for its suggestion that a few UFO sightings might be linked to spikes of atomic radiation. Contemporary media ",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:58.036294+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": "write them, right? and that is equivalent to another set of objects called string set substitution systems which you can actual"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-identification-studies-of-ufos",
+      "node_type": "organization",
+      "label": "Identification studies of UFOs",
+      "summary": "Identifying unidentified flying objects (UFOs) is a difficult task due to the normally poor quality of the evidence provided by those who report sighting the unknown object. Observations and subsequent reporting are often made by those untrained in astronomy, atmospheric phenomena, aeronautics, phys",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:58.036298+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": "and drugs, getting us out of wars, crypto reform, you know, UFOs and JFK like how would you slap probabilities on, you know,"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-chiles-whitted-ufo-encounter",
+      "node_type": "organization",
+      "label": "Chiles-Whitted UFO encounter",
+      "summary": "The Chiles-Whitted UFO encounter occurred at approximately 2:45 AM on July 24, 1948, in the skies near Montgomery, Alabama, United States. Two commercial pilots, Clarence S. Chiles and John B. Whitted, claimed to have observed a \"glowing object\" pass by their plane before it appeared to pull up into",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:58.036303+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": "ike that observer traveled back in time. It just happens to encounter in its future causal graph a structure of states that is id"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-flying-saucer-working-party",
+      "node_type": "organization",
+      "label": "Flying Saucer Working Party",
+      "summary": "Flying Saucer Working Party (or FSWP) was the name of the United Kingdom Ministry of Defence’s (MOD) first \"official study into UFOs\", which has its roots in a study commissioned in 1950 by the MOD’s then Chief Scientific Adviser, the eminent radar scientist Sir Henry Tizard. As a result of his insi",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:58.036307+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": "20s that sewed the seeds if not directly catalyzed the Nazi party. Yeah. Right. Which is what happened. The Union Bank funded"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-the-flying-saucers-are-real",
+      "node_type": "organization",
+      "label": "The Flying Saucers Are Real",
+      "summary": "The Flying Saucers Are Real, by Donald Keyhoe, is a book that investigated reports of UFOs by United States Air Force fighters, personnel, and other aircraft, between 1947 and 1950.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:58.036312+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": " of political economy that we're we're witnessing evolve in real time is  sort of this new anti-establishment kind of this h"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-archives-of-the-impossible",
+      "node_type": "organization",
+      "label": "Archives of the Impossible",
+      "summary": "The Archives of the Impossible (AOTI), sometimes called the Center for the Impossible, is a special collection at Rice University in Houston, Texas, United States. Founded in 2014 by Jeffrey J. Kripal, AOTI is based at the Woodson Research Center in the Fondren Library. It stewards collections on UF",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:58.036316+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": "he sub  other side of the earth can get the go-k physically impossible to me. You really need to run the numbers and do the engine"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-unidentified-flying-object",
+      "node_type": "organization",
+      "label": "Unidentified flying object",
+      "summary": "An unidentified flying object (UFO) is an object or phenomenon seen in the sky but not yet identified or explained. The term was coined when United States Air Force (USAF) investigations into flying saucers found too broad a range of shapes reported to consider them all saucers or discs. UFOs are al",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:58.036320+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": "essentially have an embedded  memory which is like what the object is just their history embodied in their present configurati"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-us-department-of-defense",
+      "node_type": "organization",
+      "label": "US Department of Defense",
+      "summary": "US Department of Defense entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:58.036325+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": "FTA where it's like you get the same sort of you know maybe defense opice or whatever but very different kind of you know monet"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-roswell-that-ends-well",
+      "node_type": "organization",
+      "label": "Roswell That Ends Well",
+      "summary": "\"Roswell That Ends Well\" is the nineteenth episode in the third season of the American animated television series Futurama, and the 51st episode of the series overall. It originally aired on the Fox network in the United States on December 9, 2001. The plot centers on an accidental time travel event",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:58.036329+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": "dy. Woo! They think, \"How could they get here?\" It's like, \"Well, are they coming here from the planet over there or are the"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-the-galileo-project",
+      "node_type": "organization",
+      "label": "The Galileo Project",
+      "summary": "The Galileo Project is an international scientific research project to search for extraterrestrial intelligence or extraterrestrial technology on and near Earth and to identify the nature of anomalous Unidentified Flying Objects/Unidentified Aerial Phenomena (UFOs/UAP). It was launched in 2021 by Ha",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:58.036333+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": "d underneath the  architecture of secrecy for the Manhattan Project, you know, the Atomic Energy Act, you know, that sort of se"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-project-blue-book",
+      "node_type": "organization",
+      "label": "Project Blue Book",
+      "summary": "USAF UFO investigation program active from 1952 to 1969.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:58.036337+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": " all these hawks who were you know extremely you Josh Rogan book, Chaos Under Heaven, that describes this sort of split., an"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-world-contact-day",
+      "node_type": "organization",
+      "label": "World Contact Day",
+      "summary": "World Contact Day was first declared in March 1953 by an organization called the International Flying Saucer Bureau (IFSB), as a day on which all IFSB members would attempt to send a telepathic message into space. The IFSB voted to hold such a day in 1953, theorising that if both telepathy and alien",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:58.036342+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": "dsIU7M views: 250,800 video_id: LpLFWdsIU7M  Just the other day, some people inside DoD Intel and I was told one of the thi"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-manhattan-project",
+      "node_type": "organization",
+      "label": "Manhattan Project",
+      "summary": "",
+      "tags": [
+        "government_agency"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:58.036346+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": "were tucked underneath the  architecture of secrecy for the Manhattan Project, you know, the Atomic Energy Act, you know, that sort of se"
+        }
+      ],
+      "type_specific": {
+        "org_type": "government_agency"
+      }
+    },
+    {
+      "id": "organization-condon-committee",
+      "node_type": "organization",
+      "label": "Condon Committee",
+      "summary": "Condon Committee entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:58.036350+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": "ng like a 10-minute briefing  from a 24-year-old before the committee hearing is not the person you want to make these like impor"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-scp-foundation",
+      "node_type": "organization",
+      "label": "SCP Foundation",
+      "summary": "The SCP Foundation is a fictional organization featured in stories created by contributors on the SCP Wiki, a wiki-based collaborative writing project, launched in 2008. Within the project's shared universe, the SCP (Special Containment Procedures) Foundation is a secret organization that is respons",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:58.036354+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": "pulling the rug on the Treasury market, right, which is the foundation of US geopolitical dominance the last 70 years. So, we'd es"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-jerome-clark",
+      "node_type": "organization",
+      "label": "Jerome Clark",
+      "summary": "Jerome Clark (born November 27, 1946) is an American writer, specializing in unidentified flying objects and other paranormal subjects. He has appeared on ABC News Special Report, Unsolved Mysteries, Sightings and the A&E Network discussing UFOs and other oddities. Clark is also a country and folk m",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:58.036358+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": "ah. It's sort of like the book Childhood's End by Arthur C. Clark or something that wouldn't land on the White House lawn. Th"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-us-air-force",
+      "node_type": "organization",
+      "label": "US Air Force",
+      "summary": "US Air Force entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:58.036362+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": " a  structural reform it's kind of coming in like a hostile force and you know purging essentially elements of the bureaucrac"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-big-sur-ufo",
+      "node_type": "organization",
+      "label": "Big Sur UFO",
+      "summary": "The Big Sur UFO is a reported UFO incident that took place during a 1964 Air Force deployment to a mountaintop near Big Sur, California. The deployment was a mission was to film Atlas missile tests from Vandenberg Air Force Base. Since 1982, Robert Jacobs, who had overseen the mountaintop team, has ",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:58.036365+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": "# UFO Physics & Disclosure Under Trump (ft. Matthew Pines) https:"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-us-navy",
+      "node_type": "organization",
+      "label": "US Navy",
+      "summary": "US Navy entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:58.036370+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": "ause well one Jim Simons used to work for the NSA. He was a Navy he was a cryptologic you know codereaker and you know nobod"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other"
+      }
+    },
+    {
+      "id": "organization-nasa",
+      "node_type": "organization",
+      "label": "NASA",
+      "summary": "NASA entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:58.036374+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": "ed Dr. David Spurggle. He was tapped to be the chair of the NASA UAP working group. and Stony Brook University was engineere"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other",
+        "acronym": "NASA"
+      }
+    },
+    {
+      "id": "organization-cia",
+      "node_type": "organization",
+      "label": "CIA",
+      "summary": "CIA entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:58.036378+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": "The privatization of a lot of functions. And you had in the CIA, just to take that as  a concrete example, you had Carter e"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other",
+        "acronym": "CIA"
+      }
+    },
+    {
+      "id": "organization-fbi",
+      "node_type": "organization",
+      "label": "FBI",
+      "summary": "FBI entity extracted from cross-source archival records.",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:58.036382+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": "h more like depersonalized fashion now like the CIA and the FBI and all these administrative systems and they are like they"
+        }
+      ],
+      "type_specific": {
+        "org_type": "other",
+        "acronym": "FBI"
+      }
+    },
+    {
+      "id": "organization-nsa",
+      "node_type": "organization",
+      "label": "NSA",
+      "summary": "",
+      "tags": [
+        "intelligence_agency"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:58.036385+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": "st. Right. because well one Jim Simons used to work for the NSA. He was a Navy he was a cryptologic you know codereaker and"
+        }
+      ],
+      "type_specific": {
+        "org_type": "intelligence_agency",
+        "acronym": "NSA",
+        "full_name": "National Security Agency"
+      }
+    },
+    {
+      "id": "organization-dod",
+      "node_type": "organization",
+      "label": "DoD",
+      "summary": "",
+      "tags": [
+        "government_agency"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:58.036389+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": "deo_id: LpLFWdsIU7M  Just the other day, some people inside DoD Intel and I was told one of the things came out of the wate"
+        }
+      ],
+      "type_specific": {
+        "org_type": "government_agency",
+        "full_name": "Department of Defense"
+      }
+    },
+    {
+      "id": "location-wright-patterson-air-force-base",
+      "node_type": "location",
+      "label": "Wright-Patterson Air Force Base",
+      "summary": "",
+      "tags": [
+        "military_base"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:58.036394+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": "crash in 1948. Talks about this head of special projects at Wright Patterson who came over with Operation Paperclip. His name is Eric He"
+        }
+      ],
+      "type_specific": {
+        "location_type": "military_base",
+        "country": "US",
+        "state_or_region": "Ohio"
+      }
+    },
+    {
+      "id": "location-pacific-training-area",
+      "node_type": "location",
+      "label": "Pacific Training Area",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:58.036398+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": "NRO as well he created in a row. He scouted and established Area 51. You know, Rich Bissell was in charge of all that stuff "
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-roswell-new-mexico",
+      "node_type": "location",
+      "label": "Roswell, New Mexico",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:58.036402+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": "them and yeah hey if you're going to reshore Frenchshore to Mexico well actually no you're in a French shore to Ohio now right"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-rendlesham-forest",
+      "node_type": "location",
+      "label": "Rendlesham Forest",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:58.036406+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": "s the dimension reduction necessary to zoom out and see the forest for the trees and say no actually this just doesn't work. A"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-united-states",
+      "node_type": "location",
+      "label": "United States",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:58.036410+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": "epeatable, inspectable, accountable, etc. And you know when states decay, they tend to become more personalized. They can beco"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-south-africa",
+      "node_type": "location",
+      "label": "South Africa",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:58.036414+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": "f it? Can we It seems like in the horn in the, you know, of Africa and the Middle East that like the Houthies can basically bl"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-germany",
+      "node_type": "location",
+      "label": "Germany",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:58.036418+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": "tarted to help fund you know aligned interest groups in say Germany in the 20s that sewed the seeds if not directly catalyzed t"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-area-51",
+      "node_type": "location",
+      "label": "Area 51",
+      "summary": "",
+      "tags": [
+        "military_base"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:58.036422+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": "NRO as well he created in a row. He scouted and established Area 51. You know, Rich Bissell was in charge of all that stuff fro"
+        }
+      ],
+      "type_specific": {
+        "location_type": "military_base",
+        "country": "US",
+        "state_or_region": "Nevada"
+      }
+    },
+    {
+      "id": "location-mexico",
+      "node_type": "location",
+      "label": "Mexico",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:58.036425+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": "them and yeah hey if you're going to reshore Frenchshore to Mexico well actually no you're in a French shore to Ohio now right"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-russia",
+      "node_type": "location",
+      "label": "Russia",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:58.036429+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": "as that he would he would always say things like, you know, Russia Ukraine  wouldn't have happened if I were president. like y"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "location-iran",
+      "node_type": "location",
+      "label": "Iran",
+      "summary": "",
+      "tags": [
+        "other"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:58.036432+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": " of quote maximum pressure campaign gets restarted against  Iran. Again, you know, unclear how that would whether reach a an"
+        }
+      ],
+      "type_specific": {
+        "location_type": "other"
+      }
+    },
+    {
+      "id": "claim-LpLFWdsIU7M-discussion-summary",
+      "node_type": "claim",
+      "label": "Video LpLFWdsIU7M features extended discussion of Wilbert Brockhouse Smith, Kirsten Gillibrand, John",
+      "summary": "Video LpLFWdsIU7M features extended discussion of Wilbert Brockhouse Smith, Kirsten Gillibrand, John F. Kennedy and related UAP research topics, hosted by Jesse Michels.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T11:04:58.036443+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": "Episode title: UFO Physics & Disclosure Under Trump (ft. Matthew Pines)"
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Video LpLFWdsIU7M features extended discussion of Wilbert Brockhouse Smith, Kirsten Gillibrand, John F. Kennedy and related UAP research topics, hosted by Jesse Michels.",
+        "asserted_by_id": "person-jesse-michels",
+        "source_video_id": "LpLFWdsIU7M",
+        "timestamp_start_seconds": 0,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-wilbert-brockhouse-smith",
+          "person-kirsten-gillibrand",
+          "person-john-f-kennedy",
+          "video-LpLFWdsIU7M"
+        ]
+      }
+    },
+    {
+      "id": "person-matthew-pines-extended",
+      "node_type": "person",
+      "label": "Matthew Pines (extended)",
+      "summary": "Director of Intelligence at Sentinel One; crypto background. Near-perfect photographic memory; commands UAP literature exhaustively across physics, geopolitics, and program structure. Frequent Jesse Michels guest.",
+      "tags": [
+        "analyst",
+        "researcher"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:30:03.999356+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 13,
+          "quote": "Sentinel One Dir of Intelligence; UAP disclosure policy analyst"
+        }
+      ],
+      "type_specific": {
+        "aliases": [
+          "Pines"
+        ],
+        "profession": "analyst",
+        "notability_tags": [
+          "analyst",
+          "researcher"
+        ]
+      }
+    },
+    {
+      "id": "concept-perestroika-american-analog",
+      "node_type": "concept",
+      "label": "American Perestroika Framework",
+      "summary": "Matthew Pines' analogy framework: 2024-2025 US political phase-shift best understood as American perestroika — alliance of ejected technocrats (Thiel, Musk), tech oligarchs, and security-state insiders against decaying managerial establishment. Soviet parallels. UFO disclosure may be part of opening-up.",
+      "tags": [
+        "politics"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:30:03.999557+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 19,
+          "timestamp_end": "Pines framework: Trump era = US perestroika / glasnost analog"
+        }
+      ],
+      "type_specific": {
+        "concept_domain": "politics"
+      }
+    },
+    {
+      "id": "concept-ai-quantum-uap-triangle",
+      "node_type": "concept",
+      "label": "AI / Quantum / UAP Convergence Triangle",
+      "summary": "Per Pines' DoD Intel sources: there is a triangle convergence — AI, quantum computing, and the Grusch-disclosure UAP material. Deep-state insiders are increasingly recognizing these are not separable research threads.",
+      "tags": [
+        "politics"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:30:03.999561+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 12,
+          "timestamp_end": "Convergence of three previously separate domains flagged by DoD insiders"
+        }
+      ],
+      "type_specific": {
+        "concept_domain": "politics"
+      }
+    },
+    {
+      "id": "claim-LpLFWdsIU7M-pines-perestroika-us-parallel",
+      "node_type": "claim",
+      "label": "Pines' framing: 2024-2025 American political phase-shift is best modeled as a US perestroika — allia",
+      "summary": "Pines' framing: 2024-2025 American political phase-shift is best modeled as a US perestroika — alliance of ejected technocrats, tech oligarchs, and security-state insiders displacing managerial establishment. UFO disclosure is part of the opening.",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:30:04.000529+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 19,
+          "quote": "The closest analogy is sort of America's perestroika. Perestroika in the Soviet system came with glasnost — reform and opening up. You're witnessing a new anti-establishment heterogeneous alignment displacing the old establishment."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Pines' framing: 2024-2025 American political phase-shift is best modeled as a US perestroika — alliance of ejected technocrats, tech oligarchs, and security-state insiders displacing managerial establishment. UFO disclosure is part of the opening.",
+        "asserted_by_id": "person-matthew-pines-extended",
+        "source_video_id": "LpLFWdsIU7M",
+        "timestamp_start_seconds": 19,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-matthew-pines-extended",
+          "concept-perestroika-american-analog"
+        ]
+      }
+    },
+    {
+      "id": "claim-LpLFWdsIU7M-pines-dod-intel-water-medium-zap",
+      "node_type": "claim",
+      "label": "Pines reports DoD Intel sources told him just recently: 'one of the things came out of the water med",
+      "summary": "Pines reports DoD Intel sources told him just recently: 'one of the things came out of the water medium and zapped hit somebody' — direct-effect UAP incident in active reporting.",
+      "tags": [
+        "hearsay",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:30:04.000543+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 7,
+          "quote": "Just the other day, some people inside DoD Intel told me one of the things came out of the water medium and zapped hit somebody."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Pines reports DoD Intel sources told him just recently: 'one of the things came out of the water medium and zapped hit somebody' — direct-effect UAP incident in active reporting.",
+        "asserted_by_id": "person-matthew-pines-extended",
+        "source_video_id": "LpLFWdsIU7M",
+        "timestamp_start_seconds": 7,
+        "assertability": "hearsay",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-matthew-pines-extended"
+        ]
+      }
+    },
+    {
+      "id": "claim-LpLFWdsIU7M-pines-ai-quantum-uap-triangle",
+      "node_type": "claim",
+      "label": "Pines: DoD Intel insiders explicitly name the convergence — 'they said it's a triangle. AI, quantum,",
+      "summary": "Pines: DoD Intel insiders explicitly name the convergence — 'they said it's a triangle. AI, quantum, and the Grusch stuff. What the hell is actually happening?'",
+      "tags": [
+        "hearsay",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:30:04.000551+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 12,
+          "quote": "They said it's a triangle. AI, quantum, and the Grush stuff. What the hell is actually happening?"
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Pines: DoD Intel insiders explicitly name the convergence — 'they said it's a triangle. AI, quantum, and the Grusch stuff. What the hell is actually happening?'",
+        "asserted_by_id": "person-matthew-pines-extended",
+        "source_video_id": "LpLFWdsIU7M",
+        "timestamp_start_seconds": 12,
+        "assertability": "hearsay",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-matthew-pines-extended",
+          "concept-ai-quantum-uap-triangle"
+        ]
+      }
+    },
+    {
+      "id": "claim-LpLFWdsIU7M-pines-brain-room-temp-quantum",
+      "node_type": "claim",
+      "label": "Pines: 'I think the brain itself is probably maybe a room-temperature quantum system' — aligning con",
+      "summary": "Pines: 'I think the brain itself is probably maybe a room-temperature quantum system' — aligning consciousness-physics with UAP detection/interaction mechanisms.",
+      "tags": [
+        "speculation",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:30:04.000559+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 9,
+          "quote": "I think the brain itself is probably, you know, maybe a room temperature quantum system."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Pines: 'I think the brain itself is probably maybe a room-temperature quantum system' — aligning consciousness-physics with UAP detection/interaction mechanisms.",
+        "asserted_by_id": "person-matthew-pines-extended",
+        "source_video_id": "LpLFWdsIU7M",
+        "timestamp_start_seconds": 9,
+        "assertability": "speculation",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-matthew-pines-extended"
+        ]
+      }
+    },
+    {
+      "id": "claim-LpLFWdsIU7M-pines-cannibalize-periphery",
+      "node_type": "claim",
+      "label": "Pines geopolitical aphorism: 'Any imperial system when it runs into trouble, first thing it does is ",
+      "summary": "Pines geopolitical aphorism: 'Any imperial system when it runs into trouble, first thing it does is it cannibalizes the periphery. Things seem to be unraveling quickly.'",
+      "tags": [
+        "on_record_statement",
+        "factual_assertion"
+      ],
+      "pipeline_source": "transcripts",
+      "pipeline_confidence": 0.9,
+      "status": "auto_ingest",
+      "crawled_at": "2026-04-17T13:30:04.000567+00:00",
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 9,
+          "quote": "Any imperial system when it runs into trouble, first thing it does is it cannibalizes the periphery. Things seem to be kind of unraveling quickly."
+        }
+      ],
+      "type_specific": {
+        "statement_text": "Pines geopolitical aphorism: 'Any imperial system when it runs into trouble, first thing it does is it cannibalizes the periphery. Things seem to be unraveling quickly.'",
+        "asserted_by_id": "person-matthew-pines-extended",
+        "source_video_id": "LpLFWdsIU7M",
+        "timestamp_start_seconds": 9,
+        "assertability": "on_record_statement",
+        "claim_type": "factual_assertion",
+        "subject_entities": [
+          "person-matthew-pines-extended"
+        ]
+      }
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge-video-LpLFWdsIU7M-HOSTED_BY-person-jesse-michels",
+      "from_node_id": "video-LpLFWdsIU7M",
+      "to_node_id": "person-jesse-michels",
+      "relationship": "HOSTED_BY",
+      "confidence": 0.99,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": "Jesse hosting"
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-APPEARED_IN-video-LpLFWdsIU7M",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "video-LpLFWdsIU7M",
+      "relationship": "APPEARED_IN",
+      "confidence": 0.99,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": "Host"
+        }
+      ],
+      "properties": {
+        "appearance_type": "host"
+      }
+    },
+    {
+      "id": "edge-video-LpLFWdsIU7M-MENTIONS-person-wilbert-brockhouse-smith",
+      "from_node_id": "video-LpLFWdsIU7M",
+      "to_node_id": "person-wilbert-brockhouse-smith",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": " own state, right? Our own sort of theocratic state. Joseph Smith actually may have been  assassinated by agents of the gover"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-LpLFWdsIU7M-MENTIONS-person-kirsten-gillibrand",
+      "from_node_id": "video-LpLFWdsIU7M",
+      "to_node_id": "person-kirsten-gillibrand",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": " from this you know that's why it came from Schumer rounds  Gillibrand you know Heinrich Todd Young etc. because its basic functio"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-LpLFWdsIU7M-MENTIONS-person-john-f-kennedy",
+      "from_node_id": "video-LpLFWdsIU7M",
+      "to_node_id": "person-john-f-kennedy",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": ", getting us out of wars, crypto reform, you know, UFOs and JFK like how would you slap probabilities on, you know, all of "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-LpLFWdsIU7M-MENTIONS-person-eric-weinstein",
+      "from_node_id": "video-LpLFWdsIU7M",
+      "to_node_id": "person-eric-weinstein",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": "ions to these programs. Speaking of which, my old colleague Eric Weinstein went on Joe Rogan and I think exasperated at the lack of re"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-LpLFWdsIU7M-MENTIONS-person-e-howard-hunt",
+      "from_node_id": "video-LpLFWdsIU7M",
+      "to_node_id": "person-e-howard-hunt",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": "t into the wilderness of the bureaucratic system and try to hunt down these alleged legacy programs.  And that's essentially"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-LpLFWdsIU7M-MENTIONS-person-chuck-schumer",
+      "from_node_id": "video-LpLFWdsIU7M",
+      "to_node_id": "person-chuck-schumer",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": "'s why that came from this you know that's why it came from Schumer rounds  Gillibrand you know Heinrich Todd Young etc. becaus"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-LpLFWdsIU7M-MENTIONS-person-james-harder",
+      "from_node_id": "video-LpLFWdsIU7M",
+      "to_node_id": "person-james-harder",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": "ome of those solving those principalation problems actually harder, right? because you actually can't get too much reporting c"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-LpLFWdsIU7M-MENTIONS-person-jimmy-carter",
+      "from_node_id": "video-LpLFWdsIU7M",
+      "to_node_id": "person-jimmy-carter",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": " the CIA, just to take that as  a concrete example, you had Carter essentially purge like the entire senior ranks of the CIA w"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-LpLFWdsIU7M-MENTIONS-person-love-has-won",
+      "from_node_id": "video-LpLFWdsIU7M",
+      "to_node_id": "person-love-has-won",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": "seems like the you know more structural paristroka argument won out right. Yeah. And that's I think what we're going to hea"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-LpLFWdsIU7M-MENTIONS-person-paul-r-hill",
+      "from_node_id": "video-LpLFWdsIU7M",
+      "to_node_id": "person-paul-r-hill",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": "pee hall book that you know we'd be the shining city on the hill for the rest of the world or whatever  and it doesn't take "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-LpLFWdsIU7M-MENTIONS-person-riley-martin",
+      "from_node_id": "video-LpLFWdsIU7M",
+      "to_node_id": "person-riley-martin",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": "tend to bucket in these bland terms of like the CIA, Loheed Martin, you know, the Vatican. It's just these blobs of institutio"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-LpLFWdsIU7M-MENTIONS-person-timothy-good",
+      "from_node_id": "video-LpLFWdsIU7M",
+      "to_node_id": "person-timothy-good",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": " but I think he understands almost viscerally like what's a good bargaining chip, like where where does he how what leverage"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-LpLFWdsIU7M-MENTIONS-person-allen-dulles",
+      "from_node_id": "video-LpLFWdsIU7M",
+      "to_node_id": "person-allen-dulles",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": "le resources to do that and you can't just rely on you know dulles brothers to just run around and do weird [ __ ] right you h"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-LpLFWdsIU7M-MENTIONS-person-garry-nolan",
+      "from_node_id": "video-LpLFWdsIU7M",
+      "to_node_id": "person-garry-nolan",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": "n one possible candidate, physical candidate, you have Gary Nolan, who's a microbiologist at Stanford, also interested in the"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-LpLFWdsIU7M-MENTIONS-person-marco-rubio",
+      "from_node_id": "video-LpLFWdsIU7M",
+      "to_node_id": "person-marco-rubio",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": "t programs. And that from the vantage point of someone like Marco Rubio or someone like Senator Jillan would be kind of like extrem"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-LpLFWdsIU7M-MENTIONS-person-betty-hill",
+      "from_node_id": "video-LpLFWdsIU7M",
+      "to_node_id": "person-betty-hill",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": "pee hall book that you know we'd be the shining city on the hill for the rest of the world or whatever  and it doesn't take "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-LpLFWdsIU7M-MENTIONS-person-kid-cosmic",
+      "from_node_id": "video-LpLFWdsIU7M",
+      "to_node_id": "person-kid-cosmic",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": "his guy, he's not a guy I think truly motivated about these cosmic questions.  I don't know if he even, you know, has a framew"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-LpLFWdsIU7M-MENTIONS-person-nick-pope",
+      "from_node_id": "video-LpLFWdsIU7M",
+      "to_node_id": "person-nick-pope",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": "'re not I don't look to you to like you know you're not the pope right you're not you're not but it's also not the job to su"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-LpLFWdsIU7M-MENTIONS-person-art-bell",
+      "from_node_id": "video-LpLFWdsIU7M",
+      "to_node_id": "person-art-bell",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": " flux liner or an alien reproduction vehicle. And these are bell-shaped or acornshaped vehicles. There are three of them. Th"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-LpLFWdsIU7M-MENTIONS-organization-international-ufo-museum-and-research-center",
+      "from_node_id": "video-LpLFWdsIU7M",
+      "to_node_id": "organization-international-ufo-museum-and-research-center",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": "okke nobody like that, right? At you know, he had to be the center of the of the attention. Yeah. You could easily see a world"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-LpLFWdsIU7M-MENTIONS-organization-the-report-on-unidentified-flying-objects",
+      "from_node_id": "video-LpLFWdsIU7M",
+      "to_node_id": "organization-the-report-on-unidentified-flying-objects",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": "write them, right? and that is equivalent to another set of objects called string set substitution systems which you can actual"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-LpLFWdsIU7M-MENTIONS-organization-identification-studies-of-ufos",
+      "from_node_id": "video-LpLFWdsIU7M",
+      "to_node_id": "organization-identification-studies-of-ufos",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": "and drugs, getting us out of wars, crypto reform, you know, UFOs and JFK like how would you slap probabilities on, you know,"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-LpLFWdsIU7M-MENTIONS-organization-chiles-whitted-ufo-encounter",
+      "from_node_id": "video-LpLFWdsIU7M",
+      "to_node_id": "organization-chiles-whitted-ufo-encounter",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": "ike that observer traveled back in time. It just happens to encounter in its future causal graph a structure of states that is id"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-LpLFWdsIU7M-MENTIONS-organization-flying-saucer-working-party",
+      "from_node_id": "video-LpLFWdsIU7M",
+      "to_node_id": "organization-flying-saucer-working-party",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": "20s that sewed the seeds if not directly catalyzed the Nazi party. Yeah. Right. Which is what happened. The Union Bank funded"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-LpLFWdsIU7M-MENTIONS-organization-the-flying-saucers-are-real",
+      "from_node_id": "video-LpLFWdsIU7M",
+      "to_node_id": "organization-the-flying-saucers-are-real",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": " of political economy that we're we're witnessing evolve in real time is  sort of this new anti-establishment kind of this h"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-LpLFWdsIU7M-MENTIONS-organization-archives-of-the-impossible",
+      "from_node_id": "video-LpLFWdsIU7M",
+      "to_node_id": "organization-archives-of-the-impossible",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": "he sub  other side of the earth can get the go-k physically impossible to me. You really need to run the numbers and do the engine"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-LpLFWdsIU7M-MENTIONS-organization-unidentified-flying-object",
+      "from_node_id": "video-LpLFWdsIU7M",
+      "to_node_id": "organization-unidentified-flying-object",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": "essentially have an embedded  memory which is like what the object is just their history embodied in their present configurati"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-LpLFWdsIU7M-MENTIONS-organization-us-department-of-defense",
+      "from_node_id": "video-LpLFWdsIU7M",
+      "to_node_id": "organization-us-department-of-defense",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": "FTA where it's like you get the same sort of you know maybe defense opice or whatever but very different kind of you know monet"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-LpLFWdsIU7M-MENTIONS-organization-roswell-that-ends-well",
+      "from_node_id": "video-LpLFWdsIU7M",
+      "to_node_id": "organization-roswell-that-ends-well",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": "dy. Woo! They think, \"How could they get here?\" It's like, \"Well, are they coming here from the planet over there or are the"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-LpLFWdsIU7M-MENTIONS-organization-the-galileo-project",
+      "from_node_id": "video-LpLFWdsIU7M",
+      "to_node_id": "organization-the-galileo-project",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": "d underneath the  architecture of secrecy for the Manhattan Project, you know, the Atomic Energy Act, you know, that sort of se"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-LpLFWdsIU7M-MENTIONS-organization-project-blue-book",
+      "from_node_id": "video-LpLFWdsIU7M",
+      "to_node_id": "organization-project-blue-book",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": " all these hawks who were you know extremely you Josh Rogan book, Chaos Under Heaven, that describes this sort of split., an"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-LpLFWdsIU7M-MENTIONS-organization-world-contact-day",
+      "from_node_id": "video-LpLFWdsIU7M",
+      "to_node_id": "organization-world-contact-day",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": "dsIU7M views: 250,800 video_id: LpLFWdsIU7M  Just the other day, some people inside DoD Intel and I was told one of the thi"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-LpLFWdsIU7M-MENTIONS-organization-manhattan-project",
+      "from_node_id": "video-LpLFWdsIU7M",
+      "to_node_id": "organization-manhattan-project",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": "were tucked underneath the  architecture of secrecy for the Manhattan Project, you know, the Atomic Energy Act, you know, that sort of se"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-LpLFWdsIU7M-MENTIONS-organization-condon-committee",
+      "from_node_id": "video-LpLFWdsIU7M",
+      "to_node_id": "organization-condon-committee",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": "ng like a 10-minute briefing  from a 24-year-old before the committee hearing is not the person you want to make these like impor"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-LpLFWdsIU7M-MENTIONS-organization-scp-foundation",
+      "from_node_id": "video-LpLFWdsIU7M",
+      "to_node_id": "organization-scp-foundation",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": "pulling the rug on the Treasury market, right, which is the foundation of US geopolitical dominance the last 70 years. So, we'd es"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-LpLFWdsIU7M-MENTIONS-organization-jerome-clark",
+      "from_node_id": "video-LpLFWdsIU7M",
+      "to_node_id": "organization-jerome-clark",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": "ah. It's sort of like the book Childhood's End by Arthur C. Clark or something that wouldn't land on the White House lawn. Th"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-LpLFWdsIU7M-MENTIONS-organization-us-air-force",
+      "from_node_id": "video-LpLFWdsIU7M",
+      "to_node_id": "organization-us-air-force",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": " a  structural reform it's kind of coming in like a hostile force and you know purging essentially elements of the bureaucrac"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-LpLFWdsIU7M-MENTIONS-organization-big-sur-ufo",
+      "from_node_id": "video-LpLFWdsIU7M",
+      "to_node_id": "organization-big-sur-ufo",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": "# UFO Physics & Disclosure Under Trump (ft. Matthew Pines) https:"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-LpLFWdsIU7M-MENTIONS-organization-us-navy",
+      "from_node_id": "video-LpLFWdsIU7M",
+      "to_node_id": "organization-us-navy",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": "ause well one Jim Simons used to work for the NSA. He was a Navy he was a cryptologic you know codereaker and you know nobod"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-LpLFWdsIU7M-MENTIONS-organization-nasa",
+      "from_node_id": "video-LpLFWdsIU7M",
+      "to_node_id": "organization-nasa",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": "ed Dr. David Spurggle. He was tapped to be the chair of the NASA UAP working group. and Stony Brook University was engineere"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-LpLFWdsIU7M-MENTIONS-organization-cia",
+      "from_node_id": "video-LpLFWdsIU7M",
+      "to_node_id": "organization-cia",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": "The privatization of a lot of functions. And you had in the CIA, just to take that as  a concrete example, you had Carter e"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-LpLFWdsIU7M-MENTIONS-organization-fbi",
+      "from_node_id": "video-LpLFWdsIU7M",
+      "to_node_id": "organization-fbi",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": "h more like depersonalized fashion now like the CIA and the FBI and all these administrative systems and they are like they"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-LpLFWdsIU7M-MENTIONS-organization-nsa",
+      "from_node_id": "video-LpLFWdsIU7M",
+      "to_node_id": "organization-nsa",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": "st. Right. because well one Jim Simons used to work for the NSA. He was a Navy he was a cryptologic you know codereaker and"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-LpLFWdsIU7M-MENTIONS-organization-dod",
+      "from_node_id": "video-LpLFWdsIU7M",
+      "to_node_id": "organization-dod",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": "deo_id: LpLFWdsIU7M  Just the other day, some people inside DoD Intel and I was told one of the things came out of the wate"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-LpLFWdsIU7M-MENTIONS-location-wright-patterson-air-force-base",
+      "from_node_id": "video-LpLFWdsIU7M",
+      "to_node_id": "location-wright-patterson-air-force-base",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": "crash in 1948. Talks about this head of special projects at Wright Patterson who came over with Operation Paperclip. His name is Eric He"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-LpLFWdsIU7M-MENTIONS-location-pacific-training-area",
+      "from_node_id": "video-LpLFWdsIU7M",
+      "to_node_id": "location-pacific-training-area",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": "NRO as well he created in a row. He scouted and established Area 51. You know, Rich Bissell was in charge of all that stuff "
+        }
+      ]
+    },
+    {
+      "id": "edge-video-LpLFWdsIU7M-MENTIONS-location-roswell-new-mexico",
+      "from_node_id": "video-LpLFWdsIU7M",
+      "to_node_id": "location-roswell-new-mexico",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": "them and yeah hey if you're going to reshore Frenchshore to Mexico well actually no you're in a French shore to Ohio now right"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-LpLFWdsIU7M-MENTIONS-location-rendlesham-forest",
+      "from_node_id": "video-LpLFWdsIU7M",
+      "to_node_id": "location-rendlesham-forest",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": "s the dimension reduction necessary to zoom out and see the forest for the trees and say no actually this just doesn't work. A"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-LpLFWdsIU7M-MENTIONS-location-united-states",
+      "from_node_id": "video-LpLFWdsIU7M",
+      "to_node_id": "location-united-states",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": "epeatable, inspectable, accountable, etc. And you know when states decay, they tend to become more personalized. They can beco"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-LpLFWdsIU7M-MENTIONS-location-south-africa",
+      "from_node_id": "video-LpLFWdsIU7M",
+      "to_node_id": "location-south-africa",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": "f it? Can we It seems like in the horn in the, you know, of Africa and the Middle East that like the Houthies can basically bl"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-LpLFWdsIU7M-MENTIONS-location-germany",
+      "from_node_id": "video-LpLFWdsIU7M",
+      "to_node_id": "location-germany",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": "tarted to help fund you know aligned interest groups in say Germany in the 20s that sewed the seeds if not directly catalyzed t"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-LpLFWdsIU7M-MENTIONS-location-area-51",
+      "from_node_id": "video-LpLFWdsIU7M",
+      "to_node_id": "location-area-51",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": "NRO as well he created in a row. He scouted and established Area 51. You know, Rich Bissell was in charge of all that stuff fro"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-LpLFWdsIU7M-MENTIONS-location-mexico",
+      "from_node_id": "video-LpLFWdsIU7M",
+      "to_node_id": "location-mexico",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": "them and yeah hey if you're going to reshore Frenchshore to Mexico well actually no you're in a French shore to Ohio now right"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-LpLFWdsIU7M-MENTIONS-location-russia",
+      "from_node_id": "video-LpLFWdsIU7M",
+      "to_node_id": "location-russia",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": "as that he would he would always say things like, you know, Russia Ukraine  wouldn't have happened if I were president. like y"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-LpLFWdsIU7M-MENTIONS-location-iran",
+      "from_node_id": "video-LpLFWdsIU7M",
+      "to_node_id": "location-iran",
+      "relationship": "MENTIONS",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": " of quote maximum pressure campaign gets restarted against  Iran. Again, you know, unclear how that would whether reach a an"
+        }
+      ]
+    },
+    {
+      "id": "edge-person-jesse-michels-ASSERTED-claim-LpLFWdsIU7M-discussion-summary",
+      "from_node_id": "person-jesse-michels",
+      "to_node_id": "claim-LpLFWdsIU7M-discussion-summary",
+      "relationship": "ASSERTED",
+      "confidence": 0.9,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0,
+          "quote": "Episode: UFO Physics & Disclosure Under Trump (ft. Matthew Pines)"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-LpLFWdsIU7M-REFERENCES-claim-LpLFWdsIU7M-discussion-summary",
+      "from_node_id": "video-LpLFWdsIU7M",
+      "to_node_id": "claim-LpLFWdsIU7M-discussion-summary",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 0
+        }
+      ]
+    },
+    {
+      "id": "edge-person-matthew-pines-extended-ASSERTED-claim-LpLFWdsIU7M-pines-perestroika-us-parallel",
+      "from_node_id": "person-matthew-pines-extended",
+      "to_node_id": "claim-LpLFWdsIU7M-pines-perestroika-us-parallel",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 19,
+          "quote": "Pines' framing: 2024-2025 American political phase-shift is best modeled as a US perestroika — alliance of ejected technocrats, tech oligarchs, and security-state insiders displacing managerial establ"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-LpLFWdsIU7M-REFERENCES-claim-LpLFWdsIU7M-pines-perestroika-us-parallel",
+      "from_node_id": "video-LpLFWdsIU7M",
+      "to_node_id": "claim-LpLFWdsIU7M-pines-perestroika-us-parallel",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 19
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-LpLFWdsIU7M-pines-perestroika-us-parallel-REFERENCES-concept-perestroika-american-analog",
+      "from_node_id": "claim-LpLFWdsIU7M-pines-perestroika-us-parallel",
+      "to_node_id": "concept-perestroika-american-analog",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 19
+        }
+      ]
+    },
+    {
+      "id": "edge-person-matthew-pines-extended-ASSERTED-claim-LpLFWdsIU7M-pines-dod-intel-water-medium-zap",
+      "from_node_id": "person-matthew-pines-extended",
+      "to_node_id": "claim-LpLFWdsIU7M-pines-dod-intel-water-medium-zap",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 7,
+          "quote": "Pines reports DoD Intel sources told him just recently: 'one of the things came out of the water medium and zapped hit somebody' — direct-effect UAP incident in active reporting."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-LpLFWdsIU7M-REFERENCES-claim-LpLFWdsIU7M-pines-dod-intel-water-medium-zap",
+      "from_node_id": "video-LpLFWdsIU7M",
+      "to_node_id": "claim-LpLFWdsIU7M-pines-dod-intel-water-medium-zap",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 7
+        }
+      ]
+    },
+    {
+      "id": "edge-person-matthew-pines-extended-ASSERTED-claim-LpLFWdsIU7M-pines-ai-quantum-uap-triangle",
+      "from_node_id": "person-matthew-pines-extended",
+      "to_node_id": "claim-LpLFWdsIU7M-pines-ai-quantum-uap-triangle",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 12,
+          "quote": "Pines: DoD Intel insiders explicitly name the convergence — 'they said it's a triangle. AI, quantum, and the Grusch stuff. What the hell is actually happening?'"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-LpLFWdsIU7M-REFERENCES-claim-LpLFWdsIU7M-pines-ai-quantum-uap-triangle",
+      "from_node_id": "video-LpLFWdsIU7M",
+      "to_node_id": "claim-LpLFWdsIU7M-pines-ai-quantum-uap-triangle",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 12
+        }
+      ]
+    },
+    {
+      "id": "edge-claim-LpLFWdsIU7M-pines-ai-quantum-uap-triangle-REFERENCES-concept-ai-quantum-uap-triangle",
+      "from_node_id": "claim-LpLFWdsIU7M-pines-ai-quantum-uap-triangle",
+      "to_node_id": "concept-ai-quantum-uap-triangle",
+      "relationship": "REFERENCES",
+      "confidence": 0.85,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 12
+        }
+      ]
+    },
+    {
+      "id": "edge-person-matthew-pines-extended-ASSERTED-claim-LpLFWdsIU7M-pines-brain-room-temp-quantum",
+      "from_node_id": "person-matthew-pines-extended",
+      "to_node_id": "claim-LpLFWdsIU7M-pines-brain-room-temp-quantum",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 9,
+          "quote": "Pines: 'I think the brain itself is probably maybe a room-temperature quantum system' — aligning consciousness-physics with UAP detection/interaction mechanisms."
+        }
+      ]
+    },
+    {
+      "id": "edge-video-LpLFWdsIU7M-REFERENCES-claim-LpLFWdsIU7M-pines-brain-room-temp-quantum",
+      "from_node_id": "video-LpLFWdsIU7M",
+      "to_node_id": "claim-LpLFWdsIU7M-pines-brain-room-temp-quantum",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 9
+        }
+      ]
+    },
+    {
+      "id": "edge-person-matthew-pines-extended-ASSERTED-claim-LpLFWdsIU7M-pines-cannibalize-periphery",
+      "from_node_id": "person-matthew-pines-extended",
+      "to_node_id": "claim-LpLFWdsIU7M-pines-cannibalize-periphery",
+      "relationship": "ASSERTED",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 9,
+          "quote": "Pines geopolitical aphorism: 'Any imperial system when it runs into trouble, first thing it does is it cannibalizes the periphery. Things seem to be unraveling quickly.'"
+        }
+      ]
+    },
+    {
+      "id": "edge-video-LpLFWdsIU7M-REFERENCES-claim-LpLFWdsIU7M-pines-cannibalize-periphery",
+      "from_node_id": "video-LpLFWdsIU7M",
+      "to_node_id": "claim-LpLFWdsIU7M-pines-cannibalize-periphery",
+      "relationship": "REFERENCES",
+      "confidence": 0.95,
+      "sources": [
+        {
+          "source_type": "transcript",
+          "video_id": "LpLFWdsIU7M",
+          "timestamp_start": 9
+        }
+      ]
+    }
+  ],
+  "extracted_at": "2026-04-17T13:30:04.000575+00:00",
+  "extractor_version": "v1-inline-claude"
+}
