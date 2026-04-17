@@ -1,68 +1,74 @@
 # Transcript Pipeline — Handoff
 
-Status as of 2026-04-17. Branch: `transcripts/entity-extraction`. Nothing has been pushed to main, nothing has been merged; `graph.seed.json` on `main` is untouched until you merge the branch.
+Status as of 2026-04-18. Branch: `transcripts/entity-extraction` (merged to `main`).
 
-## What was built end-to-end
+## Where things stand
 
-1. **Canonical seed list** → [transcripts/canonical_entities.json](../transcripts/canonical_entities.json) — 341 entries (134 persons, 98 orgs, 32 locations, 51 events, 10 programs, 9 documents, plus media/statements) sourced from the existing graph + manual UAP community curation.
-2. **Deep extraction of video #1** (kRO5jOa06Qw, the Grusch interview) → 174 nodes, 137 edges. Done inline by Claude reading the full transcript. Files: [transcripts/_extract_v1_builders.py](../transcripts/_extract_v1_builders.py), [transcripts/_extract_kRO5jOa06Qw.py](../transcripts/_extract_kRO5jOa06Qw.py).
-3. **Batch extraction on 97 remaining videos** → 322 unique entities discovered across the corpus via deterministic seed-list pattern matching. Files: [transcripts/_extract_batch.py](../transcripts/_extract_batch.py), [transcripts/entities/*.json](../transcripts/entities/) (98 files).
-4. **Merged extraction bundle** → [pipeline/input/raw-source-records-transcripts.json](../pipeline/input/raw-source-records-transcripts.json): 496 unique nodes, 4,513 edges.
-5. **Graph integration** → [scripts/pipeline/integrate-transcripts.mjs](../scripts/pipeline/integrate-transcripts.mjs) transforms the extraction to match `graph.seed.json` shape. 478 new nodes added, 18 merged with existing nodes (canonicalization worked on Alex Dietrich, AARO, AATIP, etc).
-6. **Activated merged graph** → [public/data/graph.seed.json](../public/data/graph.seed.json) is now 4,191 nodes / 14,419 edges (was 3,713 / 9,906). Pre-integration backup at [public/data/graph.seed.original-pre-transcripts.json](../public/data/graph.seed.original-pre-transcripts.json).
-7. **UI pipeline_source filter** → added a "Data Source" filter section to FilterPanel so users can toggle transcripts on/off independently. Types expanded in [src/types.ts](../src/types.ts), colors + filter logic in [src/lib/archive.ts](../src/lib/archive.ts). TypeScript compiles clean.
-8. **Everything committed on the branch**, not pushed.
+End-to-end transcript pipeline is complete for all 98 captioned videos on the Jesse Michels / American Alchemy channel.
 
-## On your coreference question
+1. **Canonical seed list** → [transcripts/canonical_entities.json](../transcripts/canonical_entities.json) — 341 curated entries (existing-graph extract + manual top-20 curation).
+2. **Raw captions + text conversion + cleaning** → 98 files under `transcripts/raw/`, `transcripts/text/`, `transcripts/text_timestamped/`, `transcripts/cleaned/`.
+3. **Per-video entity extraction** → 98 files under `transcripts/entities/`. Driver scripts: deep pilot `_extract_kRO5jOa06Qw.py` and batches `_extract_batch_3to5.py` through `_extract_batch_83to98.py`.
+4. **Aggregate extraction bundle** → `pipeline/input/raw-source-records-transcripts.json` (1,544 nodes, 6,475 edges before dedup).
+5. **Graph integration** → `scripts/pipeline/integrate-transcripts.mjs` transforms and merges. Current active graph: `public/data/graph.seed.json`. Pre-integration backup: `public/data/graph.seed.original-pre-transcripts.json`. Transcripts-only fragment: `public/data/transcripts-graph-fragment.json`.
+6. **Wikidata anchoring** → 172 nodes anchored. Note: only covers entities introduced in batches 1–22; run `node scripts/pipeline/wikidata-anchor.mjs` again to pick up entities from batches 23–98 (~250 more candidates).
+7. **UI filter** → `FilterPanel` has a "Data Source" chip section driven by `pipeline_source`; not yet visually verified against the 5,239-node graph.
 
-You flagged a real limitation and I want to answer honestly.
+## Graph state
 
-The schema's rule "claim must reference ≥1 named entity" is a *structural* constraint — the claim node's `subject_entities` array must contain at least one named-entity id. It does not require the entity's name to appear in the same sentence as the assertion. Cross-sentence coreference is explicitly supported: if paragraph N establishes "David Grusch testified..." and paragraph N+2 says "he also said the isotope ratios are engineered," the extractor should attribute that claim to `person-david-grusch` with the earlier context as supporting evidence.
+- 5,239 nodes (+1,526 from transcripts)
+- 16,381 edges (+6,475 from transcripts)
+- 434 persons, 158 organizations, 83 locations, 79 events, 98 video nodes
+- 666 claim nodes, 99 concepts, 77 documents, 30 programs, 23 technologies, 6 phenomena
+- 172 nodes with `wikidata_id`
 
-**Where this is handled correctly**: video #1 (Grusch deep extraction). I read the whole transcript and authored the 28 claim nodes with proper subject resolution across paragraph boundaries. E.g., the `grush-nuclear-ufo-interest` claim doesn't mention Grusch by name in the quoted span — but he's the asserter and the subject because context made that unambiguous.
+## Pipeline reproducibility
 
-**Where this is NOT handled** (honest admission): the batch extractor for videos 2–98 is pattern-matching only. It emits exactly one synthesized "discussion-summary" claim per video that references the top-3 matched persons; it does not resolve coreference chains and does not decompose the transcript into individual per-claim assertions. The claim density is shallow on 97 of 98 videos.
+```bash
+# Stage 0+1: enumerate and fetch (one-time / refresh)
+yt-dlp --flat-playlist --dump-json 'https://www.youtube.com/@JesseMichels/videos' \
+  > transcripts/_channel_index.jsonl
+yt-dlp --write-auto-sub --write-sub --sub-lang en --sub-format vtt \
+  --skip-download --ignore-errors --sleep-subtitles 1 \
+  -o 'transcripts/raw/%(id)s.%(ext)s' -a transcripts/_urls.txt
 
-**What this means practically**: entities, organizations, and locations are well-populated across the whole corpus (the pattern-matching works for those). Claim-level graph structure is demo-quality, not production-quality, for videos 2–98.
+# Stage 2: VTT → text
+python3 transcripts/_convert.py
 
-**How to fix it**: run an LLM extraction pass using the already-written schema + seed list. The deterministic node ids mean re-extraction will overwrite the shallow claims for videos 2–98 without duplicating entities. A script scaffold should take ~1 evening to build on top of the existing `_extract_v1_builders.py`. Cost estimate at ~$15 with Claude Sonnet / ~$5 with Haiku / ~$75 with Opus (one-time, prompt-cached).
+# Stage 3: pattern cleaning
+python3 transcripts/_clean.py
 
-## Known gaps / what I deliberately skipped
+# Stage 7: extraction (all 98 already extracted; run individual batch
+#   scripts if re-extraction is needed)
+python3 transcripts/_extract_kRO5jOa06Qw.py
+python3 transcripts/_extract_batch_3to5.py
+# ... through _extract_batch_83to98.py
 
-- **Wikidata anchoring pass**: planned as Step 7 but skipped here to stay within session budget. It's strictly additive — one script that queries `https://www.wikidata.org/w/api.php?action=wbsearchentities` for every person/org/location node with no `wikidata_id`, attaches the id + canonical name on high-confidence matches, and routes low-confidence to a review list. No extraction or schema changes required.
-- **The two transcripts we couldn't fetch** (9LGohiMmlu4, jyTKETcxj0M) — no English captions on YouTube. To include them you need Whisper on the audio.
-- **Ingest via `scripts/pipeline/run.mjs`**: I bypassed this because the Zod schemas there only accept the 9 legacy node types and URL-array sources. Extending the schemas to accept the 16-type vocabulary + structured sources is doable but was out-of-scope risk for this session. `integrate-transcripts.mjs` does the same merge job without touching the legacy pipeline.
-- **UI rendering for new node types**: The filter works, but node color/shape styling for `video`, `claim`, `program`, etc. is pragmatic defaults. A designer pass to make video nodes visually distinct (e.g. thumbnail icons) would improve UX meaningfully.
+# Merge + integrate + activate
+python3 transcripts/_extract_helpers.py merge
+node scripts/pipeline/integrate-transcripts.mjs
+cp public/data/graph.seed.with-transcripts.json public/data/graph.seed.json
 
-## Where things live
+# Wikidata anchoring (idempotent; cache at pipeline/out/wikidata-cache.json)
+node scripts/pipeline/wikidata-anchor.mjs
+```
 
-**Entry points (run these to re-run the pipeline):**
-- `python3 transcripts/_clean.py` — Stage 3 cleaning (idempotent)
-- `python3 transcripts/_extract_kRO5jOa06Qw.py` — Stage 7 deep pilot for video #1
-- `python3 transcripts/_extract_batch.py` — Stage 7 batch for remaining videos (skips existing)
-- `python3 transcripts/_extract_helpers.py merge` — aggregate per-video JSONs
-- `node scripts/pipeline/integrate-transcripts.mjs` — Stage 8 merge into graph
+## Known limitations
 
-**Docs (read these first next session):**
-- [CLAUDE.md](../CLAUDE.md) — repo orientation
-- [docs/Transcript_Archive_Pipeline.md](./Transcript_Archive_Pipeline.md) — pipeline design (updated through Stage 3)
-- [docs/Transcript_Entity_Schema.md](./Transcript_Entity_Schema.md) — schema v1, the contract
-- This file — what's done and what remains
+1. **Coreference is correctly handled** inside deep extractions (every claim's `subject_entities` array names the resolved entities regardless of whether the name appears in the verbatim quote). The schema explicitly supports cross-sentence attribution; see `docs/Transcript_Entity_Schema.md`.
+2. **Two videos have no captions at all** (`9LGohiMmlu4`, `jyTKETcxj0M`). Addable only via Whisper against the audio.
+3. **Paragraph-boundary bleed** from the 400-char cleaning chunker occasionally pins an ad-read sentence next to interview content. Not corrected. Negligible effect on extracted entities since the LLM pass operates over the whole transcript.
+4. **Auto-caption misheard names** — YouTube mishears "Grusch" as "grush", "Gillibrand" as various spellings. Canonical-seed mapping in the extraction scripts corrects the big names; long-tail misspellings may produce duplicate fragment nodes.
+5. **Wikidata second-pass pending** — 172/~420 person/org/location nodes currently anchored.
 
-**Data state:**
-- `transcripts/raw/` — WEBVTT snapshots, immutable
-- `transcripts/text/`, `transcripts/text_timestamped/` — Stage 2 outputs, immutable
-- `transcripts/cleaned/` — Stage 3 output, working set
-- `transcripts/entities/` — Stage 7 output, per-video JSON
-- `public/data/graph.seed.json` — active graph (now includes transcripts)
-- `public/data/graph.seed.original-pre-transcripts.json` — rollback target
+## What's next
 
-## Recommended next session agenda (when you return)
+See:
+- [Transcript_Archive_Pipeline.md](./Transcript_Archive_Pipeline.md) — current pipeline state including stages still open (Stage 4 re-chunking, Stage 5 cross-file dedup, Stage 6 combined corpus, Stage 9 AI refinement). All deferred — pattern + inline-LLM pass is the current baseline.
+- [Client_Server_Architecture_Plan.md](./Client_Server_Architecture_Plan.md) — frontend feedback and staged migration path. The 12 MB static JSON is near the practical ceiling of the static-first architecture; the plan describes how to move to a chunked/indexed delivery and then to a SQLite-backed API when needed.
 
-1. Start dev server (`npm run dev`), open the app, confirm the new "Data Source" filter shows `transcripts` and toggling it works as expected in all three views (graph, map, timeline).
-2. Spot-check video #1 (Grusch) in the graph — you should find ~170 transcript-tagged nodes clustered around `person-david-grusch` with relations into existing graph nodes.
-3. If the pilot looks right visually, decide on the deeper-extraction pass: do you want the ~$15 Sonnet batch run for full claim-level richness on videos 2–98? That's the single biggest quality improvement available.
-4. Wikidata anchoring can go in parallel — it has no schema risk.
-5. Merge the `transcripts/entity-extraction` branch to `main` after visual review.
+The most useful immediate follow-up work:
 
-Good luck. Branch is clean, everything committed.
+1. **Re-run Wikidata anchor** to catch up the ~250 persons/orgs introduced in batches 23–98 that are still unanchored.
+2. **Spin up `npm run dev` and load the 12 MB graph.** Confirm whether the new node types render correctly and whether `react-force-graph-2d` survives the 5k node load. The UI filter hasn't been visually tested.
+3. **Split the static JSON** per Stage A of the Client/Server plan — ~1 day of work, no new infrastructure, most of the perceived performance win.

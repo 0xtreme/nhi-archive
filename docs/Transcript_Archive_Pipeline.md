@@ -145,55 +145,40 @@ python3 transcripts/_clean.py
 4. **No speaker diarization on auto-caption videos**: Only manually-captioned videos have `>>` speaker markers. Auto-caption videos present as a single flow of text with no attribution.
 5. **No cross-video deduplication yet**: Some claims and stock intros repeat across interviews. Not addressed in the current pipeline.
 
-## Next steps
+## Pipeline state (current)
 
-Documented as a staged plan. Later stages depend on earlier ones.
+### Completed stages
 
-### Stage 4: Paragraph re-chunking by natural boundaries
+**Stage 0–3** (fetch + text conversion + cleaning): 98 of 100 qualifying videos have cleaned transcripts under `transcripts/cleaned/`. Pattern-based cleaner removes sponsor reads, fillers, stutters, and CTAs; `_clean_stats.json` tracks per-file reduction.
 
-Re-parse VTTs to build paragraphs at speaker turns (`>>`) or VTT timestamp gaps (>2s pause), rather than fixed 400-char chunks. This addresses limitation #2 above and gives Stage 5 cleaner semantic units to work on.
+**Stage 7 (entity extraction, via inline LLM)**: every cleaned transcript has a structured extraction file at `transcripts/entities/<video_id>.json`. A deep pilot (`_extract_kRO5jOa06Qw.py`) established the schema in practice, then ten batches (`_extract_batch_3to5.py`, `_extract_batch_6to12.py`, ...`_extract_batch_83to98.py`) carried the same envelope forward across the remaining 97 videos. Each batch reads transcript intros, authors typed person/org/location/program/document/concept/technology/phenomenon/incident/event nodes and named-entity-anchored claims, and writes through `_extract_helpers.write_output()` with schema validation.
 
-### Stage 5: Cross-file deduplication
+**Stage 8 (graph integration)**: `transcripts/_extract_helpers.py merge` aggregates all per-video JSON into `pipeline/input/raw-source-records-transcripts.json`. `scripts/pipeline/integrate-transcripts.mjs` then transforms into `graph.seed.json` shape (structured-source → URL-deeplink array, numeric confidence → enum, new node types preserved) and produces both `public/data/transcripts-graph-fragment.json` (transcripts-only) and `public/data/graph.seed.with-transcripts.json` (merged). Activation is `cp` into `public/data/graph.seed.json`.
 
-Detect repeated content across videos:
-- Stock intros ("we're done with the cover up...") that appear as cold-opens in many episodes
-- Identical host bios, sponsor continuations not caught by Stage 3
-- Near-duplicate claim paragraphs
+**Wikidata anchoring** (`scripts/pipeline/wikidata-anchor.mjs`): 172 persons/orgs/locations have `wikidata_id` + `wikipedia_url`. The matcher uses exact normalized label, prefix, middle-initial variant, nickname expansion (hal→harold, etc.), and acronym expansion, plus type-relevant description keywords. **Note: this pass was run after batches 1–22; the 400+ new transcript-origin entities introduced by batches 23–98 have not yet been anchored.** Re-run the script to catch up.
 
-Pattern-matching approach: hash normalized 5-gram windows, flag windows appearing in >1 file. Emit a deduplicated corpus and a `_duplicates.json` report so the user can review before applying.
+### Active graph metrics
 
-### Stage 6: Optional combined corpus
+- **5,239 nodes** (up from 3,713 pre-transcripts) — +1,526 transcript-origin
+- **16,381 edges** (up from 9,906) — +6,475 transcript-origin
+- Node-type distribution:
+  `incident: 3478, person: 434, organization: 158, location: 83, event: 79, video: 98, program: 30, document: 77, claim: 666, concept: 99, technology: 23, phenomenon: 6, statement: 4, media: 3, designation: 1`
+- `pipeline_source: "transcripts"` on 1,526 nodes (filterable via UI)
+- 172 nodes carry `wikidata_id`
 
-After Stage 5, produce `transcripts/cleaned_combined.txt` — single file ordered by video (most viewed first), each section prefixed with title/url/date header. Useful for full-corpus search and LLM-based downstream tasks.
+### Still open
 
-### Stage 7: Entity extraction (first structured pass)
+**Stage 4 — paragraph re-chunking by natural boundaries.** Deferred. The arbitrary 400-char paragraphs occasionally trap ad residue next to interview content; not a blocker for the LLM-extraction path that's now primary, so unresolved.
 
-Pattern-based extraction of:
-- **People**: capitalized name sequences, cross-referenced against a curated seed list of UFO-relevant figures
-- **Organizations**: known acronyms (CIA, NASA, AARO, AAWSAP, AATIP, DIA) + full names
-- **Locations**: known places (Roswell, Skinwalker Ranch, Malmstrom, Area 51) + geographic pattern matching
-- **Dates/years**: 19XX and 20XX patterns
-- **Works cited**: book titles, document names from capitalization/italics patterns
+**Stage 5/6 — cross-file dedup & combined corpus.** Not built. The graph's `ASSERTED` and `REFERENCES` edges already deduplicate by deterministic node id (so "David Grusch" extracted in 20 videos becomes one node with 20 source citations rather than 20 duplicate nodes), but the raw text corpus itself still contains repeated stock intros across files. Useful if someone wants to feed the flat corpus to an LLM without paying for duplicated context.
 
-Output: `transcripts/entities/<video_id>.json` and an aggregated `transcripts/entities_index.json`.
+**Wikidata second-pass.** Re-run `wikidata-anchor.mjs` after new extractions to anchor the ~250 additional persons/orgs from batches 23–98. Script is idempotent and uses `pipeline/out/wikidata-cache.json` so re-runs are cheap.
 
-### Stage 8: Graph integration (separate view)
+**Two uncaptioned videos** (`9LGohiMmlu4`, `jyTKETcxj0M`): YouTube has no English captions. Fetchable only via Whisper against the audio. Would add ~40 more entity nodes plus claims at current density.
 
-Add a new view to the main NHI Archive frontend:
-- Own tab or filter in the existing graph/map/timeline UI
-- Nodes: video, speaker, person/org/location mentioned
-- Edges: `APPEARS_IN`, `MENTIONS`, `CITES`
-- Linkage: when an entity extracted in Stage 7 matches an existing graph node from the core pipeline, create a cross-reference edge
+**Stage 9 — AI-assisted refinement.** Speaker diarization on auto-caption videos; cross-video claim de-duplication at semantic level; name disambiguation (which "John Lear" / which "John"); transcription-error correction against a known-names glossary. Deliberately deferred — pattern + inline-LLM pass is the current state, everything else is refinement.
 
-This stage produces `public/data/transcript-graph.json` following the same contract as `graph.seed.json` but served as a layer the user can toggle independently.
-
-### Stage 9: AI-assisted refinement (out of current scope)
-
-Deliberately **not** planned for the near term per user guidance — pattern matching first. When the deterministic pipeline reaches diminishing returns, LLM-based steps to consider:
-- Speaker diarization on auto-caption videos
-- Claim summarization and de-duplication at semantic level
-- Named entity disambiguation (`John` → which John)
-- Transcription error correction against a glossary of known NHI names
+**Frontend rendering at scale.** The 12 MB `graph.seed.json` is downloaded per visit and rendered fully client-side. Not tested with all 5,239 nodes; force-graph simulation cost on 5k nodes is non-trivial. See [Client_Server_Architecture_Plan.md](./Client_Server_Architecture_Plan.md).
 
 ## Design notes for future maintainers
 
