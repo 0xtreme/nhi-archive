@@ -12,9 +12,10 @@
     "ingest": "node scripts/pipeline/run.mjs",
     "canonicalize": "node scripts/pipeline/canonicalize-dupes.mjs",
     "build:client-artifacts": "node scripts/pipeline/build-client-artifacts.mjs",
-    "build:sqlite": "node scripts/pipeline/build-sqlite.mjs && node scripts/pipeline/detect-communities.mjs && node scripts/pipeline/register-perspectives.mjs",
+    "build:static-overlay": "node scripts/pipeline/build-static-overlay.mjs",
+    "build:sqlite": "node scripts/pipeline/build-sqlite.mjs && node scripts/pipeline/detect-communities.mjs && node scripts/pipeline/register-perspectives.mjs && node scripts/pipeline/build-static-overlay.mjs",
     "refresh:data": "npm run ingest:wikipedia && npm run ingest:global && npm run ingest && npm run canonicalize && npm run build:client-artifacts && npm run build:sqlite",
-    "build": "npm run ingest && npm run canonicalize && npm run build:client-artifacts && npm run build:sqlite && tsc -b && vite build",
+    "build": "npm run build:client-artifacts && tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview"
   },

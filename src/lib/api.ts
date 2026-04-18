@@ -1,82 +1,93 @@
-import type { ArchiveEdge, ArchiveNode } from '../types';
+import { apiStatic } from './api-static';
+import type {
+  ArchiveMeta,
+  CommunityHeader,
+  CommunityPayload,
+  PathPayload,
+  Perspective,
+  PerspectiveScene,
+  ScenePayload,
+  SearchResponse,
+} from './api-types';
+import type { ArchiveNode } from '../types';
+
+export type {
+  ArchiveMeta,
+  CommunityHeader,
+  CommunityPayload,
+  PathPayload,
+  Perspective,
+  PerspectiveScene,
+  ScenePayload,
+  SearchHit,
+  SearchResponse,
+} from './api-types';
 
 /**
- * Client for the Scene Explorer API (server/index.mjs).
+ * Scene Explorer API client with transparent fallback.
  *
- * Every call is a plain fetch against /api/... routes; when running
- * vite dev the proxy forwards to the Fastify server on :8787.
- * Production deploys point VITE_API_BASE at the hosted server, or fall
- * back to the GitHub Pages static path.
+ * Runs against the Fastify server (via /api/... routes + vite proxy on
+ * :8787) when that server is reachable, and falls back to a pure
+ * client-side implementation (api-static.ts) that computes everything
+ * from the chunked JSON + perspectives.json + communities.json overlay
+ * otherwise.
+ *
+ * This is why the GitHub Pages deploy works the same as `npm run dev`
+ * without needing `npm run server`. The server exists as an optional
+ * perf layer for large graphs + a future write path, not as a hard
+ * dependency.
+ *
+ * Probe runs once per session. If /api/healthz answers within 800 ms
+ * the server is preferred; otherwise static for the rest of the
+ * session. Force either side with ?api=server or ?api=static in the
+ * URL bar.
  */
 
 const API_BASE = import.meta.env.VITE_API_BASE ?? '';
+const PROBE_TIMEOUT_MS = 800;
 
-export interface ArchiveMeta {
-  built_at: string | null;
-  source_generated_at: string | null;
-  total_nodes: number;
-  total_edges: number;
-  node_type_counts: Record<string, number>;
-  pipeline_source_counts: Record<string, number>;
-  year_range: { min: number | null; max: number | null };
-  community_count: number;
+type Impl = 'server' | 'static';
+let decidedImpl: Impl | null = null;
+let probePromise: Promise<Impl> | null = null;
+
+function forcedImpl(): Impl | null {
+  if (typeof window === 'undefined') return null;
+  const q = new URLSearchParams(window.location.search);
+  const forced = q.get('api');
+  if (forced === 'server' || forced === 'static') return forced;
+  return null;
 }
 
-export interface SearchHit {
-  id: string;
-  label: string;
-  node_type: string;
-  date_start: string | null;
-  confidence: string | null;
-  community_id: number | null;
-  degree: number;
-  score: number;
+async function probe(): Promise<Impl> {
+  const forced = forcedImpl();
+  if (forced) return forced;
+  try {
+    const ctrl = new AbortController();
+    const t = setTimeout(() => ctrl.abort(), PROBE_TIMEOUT_MS);
+    const res = await fetch(`${API_BASE}/api/healthz`, { signal: ctrl.signal });
+    clearTimeout(t);
+    if (res.ok) return 'server';
+  } catch {
+    // fall through to static
+  }
+  return 'static';
 }
 
-export interface SearchResponse {
-  query: string;
-  strategy?: 'AND' | 'OR';
-  results: SearchHit[];
+export async function whichApi(): Promise<Impl> {
+  if (decidedImpl) return decidedImpl;
+  if (!probePromise) probePromise = probe();
+  decidedImpl = await probePromise;
+  if (typeof console !== 'undefined') {
+    console.info(`[nhi] API impl: ${decidedImpl}`);
+  }
+  return decidedImpl;
 }
 
-export interface ScenePayload {
-  seed_ids: string[];
-  nodes: ArchiveNode[];
-  edges: ArchiveEdge[];
-}
-
-export interface PathPayload {
-  path: string[] | null;
-  nodes: ArchiveNode[];
-  edges: ArchiveEdge[];
-}
-
-export interface Perspective {
-  slug: string;
-  title: string;
-  description: string;
-  sort_order: number;
-}
-
-export interface PerspectiveScene extends ScenePayload {
-  perspective: { slug: string; title: string; description: string };
-}
-
-export interface CommunityHeader {
-  id: number;
-  label: string;
-  size: number;
-}
-
-export interface CommunityPayload {
-  community: CommunityHeader;
-  nodes: ArchiveNode[];
-  edges: ArchiveEdge[];
-}
-
-async function request<T>(path: string, init?: RequestInit): Promise<T> {
-  const url = `${API_BASE}${path}`;
-  const res = await fetch(url, { ...init, headers: { accept: 'application/json', ...(init?.headers ?? {}) } });
+async function serverRequest<T>(path: string, init?: RequestInit): Promise<T> {
+  const res = await fetch(`${API_BASE}${path}`, {
+    ...init,
+    headers: { accept: 'application/json', ...(init?.headers ?? {}) },
+  });
   if (!res.ok) {
     const text = await res.text().catch(() => '');
     throw new Error(`${path} -> ${res.status} ${res.statusText} ${text}`);
@@ -84,74 +95,122 @@ async function request<T>(path: string, init?: RequestInit): Promise<T> {
   return (await res.json()) as T;
 }
 
+function qs(params: Record<string, string | number | undefined>): string {
+  const sp = new URLSearchParams();
+  for (const [k, v] of Object.entries(params)) {
+    if (v === undefined || v === null) continue;
+    sp.set(k, String(v));
+  }
+  const s = sp.toString();
+  return s ? `?${s}` : '';
+}
+
 export const api = {
-  meta: (signal?: AbortSignal) => request<ArchiveMeta>('/api/meta', { signal }),
-
-  search: (q: string, limit = 20, signal?: AbortSignal) =>
-    request<SearchResponse>(
-      `/api/search?q=${encodeURIComponent(q)}&limit=${limit}`,
-      { signal },
-    ),
-
-  entity: (id: string, signal?: AbortSignal) =>
-    request<{ node: ArchiveNode }>(
-      `/api/entity/${encodeURIComponent(id)}`,
-      { signal },
-    ).then((r) => r.node),
-
-  ego: (id: string, opts: { depth?: number; limit?: number; signal?: AbortSignal } = {}) => {
-    const params = new URLSearchParams();
-    if (opts.depth) params.set('depth', String(opts.depth));
-    if (opts.limit) params.set('limit', String(opts.limit));
-    const qs = params.toString();
-    return request<ScenePayload>(
-      `/api/ego/${encodeURIComponent(id)}${qs ? `?${qs}` : ''}`,
-      { signal: opts.signal },
-    );
+  meta: async (signal?: AbortSignal): Promise<ArchiveMeta> => {
+    if ((await whichApi()) === 'server') {
+      return serverRequest<ArchiveMeta>('/api/meta', { signal });
+    }
+    return apiStatic.meta(signal);
   },
 
-  expand: (
+  search: async (q: string, limit = 20, signal?: AbortSignal): Promise<SearchResponse> => {
+    if ((await whichApi()) === 'server') {
+      return serverRequest<SearchResponse>(
+        `/api/search${qs({ q, limit })}`,
+        { signal },
+      );
+    }
+    return apiStatic.search(q, limit);
+  },
+
+  entity: async (id: string, signal?: AbortSignal): Promise<ArchiveNode> => {
+    if ((await whichApi()) === 'server') {
+      const res = await serverRequest<{ node: ArchiveNode }>(
+        `/api/entity/${encodeURIComponent(id)}`,
+        { signal },
+      );
+      return res.node;
+    }
+    return apiStatic.entity(id);
+  },
+
+  ego: async (
+    id: string,
+    opts: { depth?: number; limit?: number; signal?: AbortSignal } = {},
+  ): Promise<ScenePayload> => {
+    if ((await whichApi()) === 'server') {
+      return serverRequest<ScenePayload>(
+        `/api/ego/${encodeURIComponent(id)}${qs({ depth: opts.depth, limit: opts.limit })}`,
+        { signal: opts.signal },
+      );
+    }
+    return apiStatic.ego(id, opts);
+  },
+
+  expand: async (
     id: string,
     opts: { rel?: string; types?: string[]; limit?: number; signal?: AbortSignal } = {},
-  ) => {
-    const params = new URLSearchParams();
-    if (opts.rel) params.set('rel', opts.rel);
-    if (opts.types?.length) params.set('types', opts.types.join(','));
-    if (opts.limit) params.set('limit', String(opts.limit));
-    const qs = params.toString();
-    return request<ScenePayload>(
-      `/api/expand/${encodeURIComponent(id)}${qs ? `?${qs}` : ''}`,
-      { signal: opts.signal },
-    );
+  ): Promise<ScenePayload> => {
+    if ((await whichApi()) === 'server') {
+      return serverRequest<ScenePayload>(
+        `/api/expand/${encodeURIComponent(id)}${qs({
+          rel: opts.rel,
+          types: opts.types?.join(','),
+          limit: opts.limit,
+        })}`,
+        { signal: opts.signal },
+      );
+    }
+    return apiStatic.expand(id, opts);
   },
 
-  path: (from: string, to: string, depth = 4, signal?: AbortSignal) =>
-    request<PathPayload>(
-      `/api/path?from=${encodeURIComponent(from)}&to=${encodeURIComponent(to)}&depth=${depth}`,
-      { signal },
-    ),
+  path: async (from: string, to: string, depth = 4, signal?: AbortSignal): Promise<PathPayload> => {
+    if ((await whichApi()) === 'server') {
+      return serverRequest<PathPayload>(
+        `/api/path${qs({ from, to, depth })}`,
+        { signal },
+      );
+    }
+    return apiStatic.path(from, to, depth);
+  },
 
-  community: (id: number, limit = 50, signal?: AbortSignal) =>
-    request<CommunityPayload>(
-      `/api/community/${id}?limit=${limit}`,
-      { signal },
-    ),
+  community: async (id: number, limit = 50, signal?: AbortSignal): Promise<CommunityPayload> => {
+    if ((await whichApi()) === 'server') {
+      return serverRequest<CommunityPayload>(
+        `/api/community/${id}${qs({ limit })}`,
+        { signal },
+      );
+    }
+    return apiStatic.community(id, limit);
+  },
 
-  topCommunities: (limit = 20, signal?: AbortSignal) =>
-    request<{ communities: CommunityHeader[] }>(
-      `/api/communities/top?limit=${limit}`,
-      { signal },
-    ),
+  topCommunities: async (limit = 20, signal?: AbortSignal): Promise<{ communities: CommunityHeader[] }> => {
+    if ((await whichApi()) === 'server') {
+      return serverRequest<{ communities: CommunityHeader[] }>(
+        `/api/communities/top${qs({ limit })}`,
+        { signal },
+      );
+    }
+    return apiStatic.topCommunities(limit);
+  },
 
-  perspectives: (signal?: AbortSignal) =>
-    request<{ perspectives: Perspective[] }>(
-      '/api/perspectives',
-      { signal },
-    ).then((r) => r.perspectives),
+  perspectives: async (signal?: AbortSignal): Promise<Perspective[]> => {
+    if ((await whichApi()) === 'server') {
+      const res = await serverRequest<{ perspectives: Perspective[] }>('/api/perspectives', {
+        signal,
+      });
+      return res.perspectives;
+    }
+    return apiStatic.perspectives();
+  },
 
-  perspective: (slug: string, signal?: AbortSignal) =>
-    request<PerspectiveScene>(
-      `/api/perspective/${encodeURIComponent(slug)}`,
-      { signal },
-    ),
+  perspective: async (slug: string, signal?: AbortSignal): Promise<PerspectiveScene> => {
+    if ((await whichApi()) === 'server') {
+      return serverRequest<PerspectiveScene>(
+        `/api/perspective/${encodeURIComponent(slug)}`,
+        { signal },
+      );
+    }
+    return apiStatic.perspective(slug);
+  },
 };
