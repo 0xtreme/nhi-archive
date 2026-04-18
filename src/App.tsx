@@ -5,19 +5,18 @@ import { FilterPanel } from './components/FilterPanel';
 import { GraphView } from './components/GraphView';
 import { MapView } from './components/MapView';
 import { TimelineView } from './components/TimelineView';
-import { TopBar } from './components/TopBar';
 import { fallbackGraph } from './data/fallbackGraph';
 import {
   buildDefaultFilters,
-  DEFAULT_GRAPH_NODE_CAP,
   filterGraph,
   getYear,
   normalizeGraphData,
   NODE_TYPE_ORDER,
-  summarizeLoadedNodes,
 } from './lib/archive';
-import { loadChunkedGraph, searchNodeIds, searchNodesRanked } from './lib/chunkedGraph';
+import { loadChunkedGraph, searchNodeIds } from './lib/chunkedGraph';
 import { StatusBar } from './components-new/StatusBar';
+import { Topbar } from './components-new/Topbar';
+import { CommandPalette } from './components-new/CommandPalette';
 import type { ArchiveGraph, ArchiveNode, Confidence, FilterState, NodeType, ViewMode } from './types';
 
 const normalizedFallbackGraph = normalizeGraphData(fallbackGraph);
@@ -31,20 +30,6 @@ function toggle<T>(values: T[], value: T, allValues: T[]): T[] {
   return [...values, value];
 }
 
-function textMatch(node: ArchiveNode, query: string): boolean {
-  const loweredQuery = query.trim().toLowerCase();
-  if (!loweredQuery) {
-    return false;
-  }
-
-  const haystack = [node.label, node.summary, node.location_name, ...node.tags]
-    .filter(Boolean)
-    .join(' ')
-    .toLowerCase();
-
-  return haystack.includes(loweredQuery);
-}
-
 export default function App() {
   const [graphData, setGraphData] = useState<ArchiveGraph>(normalizedFallbackGraph);
   const [searchIndex, setSearchIndex] = useState<MiniSearch | null>(null);
@@ -54,8 +39,47 @@ export default function App() {
   const [filters, setFilters] = useState<FilterState>(() =>
     buildDefaultFilters(normalizedFallbackGraph.nodes),
   );
-  const [isLoadingDataset, setIsLoadingDataset] = useState(true);
-  const [loadingProgress, setLoadingProgress] = useState(0);
+  // eslint-disable-next-line @typescript-eslint/no-unused-vars
+  const [_isLoadingDataset, setIsLoadingDataset] = useState(true);
+  // eslint-disable-next-line @typescript-eslint/no-unused-vars
+  const [_loadingProgress, setLoadingProgress] = useState(0);
+  const [paletteOpen, setPaletteOpen] = useState(false);
+  const [breakpoint, setBreakpoint] = useState<'mobile' | 'tablet' | 'desktop'>(() => {
+    if (typeof window === 'undefined') return 'desktop';
+    if (window.innerWidth < 768) return 'mobile';
+    if (window.innerWidth < 1280) return 'tablet';
+    return 'desktop';
+  });
+
+  useEffect(() => {
+    const onResize = () => {
+      const w = window.innerWidth;
+      setBreakpoint(w < 768 ? 'mobile' : w < 1280 ? 'tablet' : 'desktop');
+    };
+    window.addEventListener('resize', onResize);
+    return () => window.removeEventListener('resize', onResize);
+  }, []);
+
+  useEffect(() => {
+    const onKey = (e: KeyboardEvent) => {
+      if ((e.metaKey || e.ctrlKey) && e.key.toLowerCase() === 'k') {
+        e.preventDefault();
+        setPaletteOpen((p) => !p);
+      }
+      if (
+        e.key === '/' &&
+        !e.metaKey &&
+        !e.ctrlKey &&
+        document.activeElement?.tagName !== 'INPUT' &&
+        document.activeElement?.tagName !== 'TEXTAREA'
+      ) {
+        e.preventDefault();
+        setPaletteOpen(true);
+      }
+    };
+    window.addEventListener('keydown', onKey);
+    return () => window.removeEventListener('keydown', onKey);
+  }, []);
 
   useEffect(() => {
     let isMounted = true;
@@ -253,55 +277,6 @@ export default function App() {
 
   const selectedNode = selectedNodeId ? nodeLookup.get(selectedNodeId) ?? null : null;
 
-  const suggestions = useMemo(() => {
-    const trimmed = query.trim();
-    if (!trimmed) return [];
-
-    if (searchIndex) {
-      const ranked = searchNodesRanked(searchIndex, trimmed, 8);
-      const results: ArchiveNode[] = [];
-      for (const hit of ranked) {
-        const node = nodeLookup.get(hit.id);
-        if (node) results.push(node);
-      }
-      return results;
-    }
-
-    return graphData.nodes.filter((node) => textMatch(node, query)).slice(0, 8);
-  }, [graphData.nodes, nodeLookup, query, searchIndex]);
-
-  const activeFilterCount = useMemo(() => {
-    let count = 0;
-
-    if (filters.nodeTypes.length !== NODE_TYPE_ORDER.length) {
-      count += 1;
-    }
-    if (filters.confidences.length !== 4) {
-      count += 1;
-    }
-    if (filters.classifications.length > 0) {
-      count += 1;
-    }
-    if (filters.tags.length > 0) {
-      count += 1;
-    }
-    if (filters.dateFrom !== minYear || filters.dateTo !== maxYear) {
-      count += 1;
-    }
-    if (filters.graphNodeCap !== DEFAULT_GRAPH_NODE_CAP) {
-      count += 1;
-    }
-    if (query.trim().length > 0) {
-      count += 1;
-    }
-
-    return count;
-  }, [filters, maxYear, minYear, query]);
-
-  const loadedCounter =
-    viewMode === 'graph'
-      ? summarizeLoadedNodes(filteredGraph.nodes.length, graphNodes.length)
-      : summarizeLoadedNodes(graphData.nodes.length, filteredGraph.nodes.length);
 
   const onToggleNodeType = (nodeType: NodeType) => {
     setFilters((previous) => ({
@@ -374,18 +349,6 @@ export default function App() {
     setSelectedNodeId(nodeId);
   };
 
-  const onSelectSearchSuggestion = (node: ArchiveNode) => {
-    setSelectedNodeId(node.id);
-    setQuery(node.label);
-
-    if (node.node_type === 'incident' && typeof node.lat === 'number' && typeof node.lng === 'number') {
-      setViewMode('map');
-      return;
-    }
-
-    setViewMode('graph');
-  };
-
   const renderView = () => {
     if (viewMode === 'map') {
       return (
@@ -438,17 +401,23 @@ export default function App() {
           selectedId={selectedNodeId}
         />
       </div>
-      <TopBar
+      <Topbar
         viewMode={viewMode}
         onViewChange={setViewMode}
-        query={query}
-        onQueryChange={setQuery}
-        suggestions={suggestions}
-        onSuggestionSelect={onSelectSearchSuggestion}
-        activeFilterCount={activeFilterCount}
-        loadedCounter={loadedCounter}
-        isLoading={isLoadingDataset}
-        loadingProgress={loadingProgress}
+        searchIndex={searchIndex}
+        nodeLookup={nodeLookup}
+        onSelectNode={onSelectNode}
+        onOpenCommandPalette={() => setPaletteOpen(true)}
+        breakpoint={breakpoint}
+      />
+
+      <CommandPalette
+        open={paletteOpen}
+        onClose={() => setPaletteOpen(false)}
+        onPick={(n) => onSelectNode(n.id)}
+        searchIndex={searchIndex}
+        nodeLookup={nodeLookup}
+        totalNodes={graphData.nodes.length}
       />
 
       <div className="active-chips" aria-live="polite">
