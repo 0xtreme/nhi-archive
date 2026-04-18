@@ -1,4 +1,5 @@
 import { useEffect, useMemo, useState } from 'react';
+import type MiniSearch from 'minisearch';
 import { DetailPanel } from './components/DetailPanel';
 import { FilterPanel } from './components/FilterPanel';
 import { GraphView } from './components/GraphView';
@@ -15,6 +16,7 @@ import {
   NODE_TYPE_ORDER,
   summarizeLoadedNodes,
 } from './lib/archive';
+import { loadChunkedGraph, searchNodeIds } from './lib/chunkedGraph';
 import type { ArchiveGraph, ArchiveNode, Confidence, FilterState, NodeType, ViewMode } from './types';
 
 const normalizedFallbackGraph = normalizeGraphData(fallbackGraph);
@@ -44,6 +46,7 @@ function textMatch(node: ArchiveNode, query: string): boolean {
 
 export default function App() {
   const [graphData, setGraphData] = useState<ArchiveGraph>(normalizedFallbackGraph);
+  const [searchIndex, setSearchIndex] = useState<MiniSearch | null>(null);
   const [viewMode, setViewMode] = useState<ViewMode>('graph');
   const [query, setQuery] = useState('');
   const [selectedNodeId, setSelectedNodeId] = useState<string | null>(null);
@@ -57,78 +60,53 @@ export default function App() {
     let isMounted = true;
     const controller = new AbortController();
 
-    const loadGraph = async () => {
+    const applyGraph = (payload: ArchiveGraph, index: MiniSearch | null) => {
+      if (!isMounted) return;
+      const normalized = normalizeGraphData(payload);
+      setGraphData(normalized);
+      setSearchIndex(index);
+      setFilters(buildDefaultFilters(normalized.nodes));
+      setLoadingProgress(100);
+    };
+
+    const loadMonolithic = async () => {
+      const response = await fetch('./data/graph.seed.json', {
+        signal: controller.signal,
+        cache: 'no-store',
+      });
+      if (!response.ok) throw new Error(`graph.seed -> ${response.status}`);
+      const payload = (await response.json()) as ArchiveGraph;
+      if (isMounted) setLoadingProgress(95);
+      applyGraph(payload, null);
+    };
+
+    const load = async () => {
       try {
-        const response = await fetch('./data/graph.seed.json', {
-          signal: controller.signal,
-          cache: 'no-store',
+        const { graph, searchIndex: idx } = await loadChunkedGraph(controller.signal, {
+          onProgress: (pct) => {
+            if (isMounted) setLoadingProgress(pct);
+          },
         });
-
-        if (!response.ok) {
-          throw new Error(`Dataset load failed: ${response.status}`);
-        }
-
-        const totalBytes = Number(response.headers.get('content-length') ?? '0');
-        let payload: ArchiveGraph;
-
-        if (response.body && totalBytes > 0) {
-          const reader = response.body.getReader();
-          const chunks: Uint8Array[] = [];
-          let receivedBytes = 0;
-
-          while (true) {
-            const { done, value } = await reader.read();
-            if (done) {
-              break;
-            }
-
-            if (value) {
-              chunks.push(value);
-              receivedBytes += value.byteLength;
-              if (isMounted) {
-                const progress = Math.max(1, Math.min(98, Math.round((receivedBytes / totalBytes) * 100)));
-                setLoadingProgress(progress);
-              }
-            }
-          }
-
-          const merged = new Uint8Array(receivedBytes);
-          let offset = 0;
-          for (const chunk of chunks) {
-            merged.set(chunk, offset);
-            offset += chunk.byteLength;
-          }
-
-          payload = JSON.parse(new TextDecoder().decode(merged)) as ArchiveGraph;
-        } else {
-          payload = (await response.json()) as ArchiveGraph;
-          if (isMounted) {
-            setLoadingProgress(95);
-          }
-        }
-
-        if (!isMounted) {
-          return;
-        }
-
-        const normalized = normalizeGraphData(payload);
-        setGraphData(normalized);
-        setFilters(buildDefaultFilters(normalized.nodes));
-        setLoadingProgress(100);
+        applyGraph(graph, idx);
       } catch {
-        // Falls back to bundled seed data when external data file is unavailable.
+        // Chunked artifacts unavailable (e.g. stale cache, partial deploy).
+        // Fall back to the monolithic seed; if that also fails, the bundled
+        // fallbackGraph already in state stays.
+        try {
+          await loadMonolithic();
+        } catch {
+          // intentionally silent — fallback graph remains in state.
+        }
       } finally {
         if (isMounted) {
           setTimeout(() => {
-            if (isMounted) {
-              setIsLoadingDataset(false);
-            }
+            if (isMounted) setIsLoadingDataset(false);
           }, 220);
         }
       }
     };
 
-    loadGraph();
+    load();
 
     return () => {
       isMounted = false;
@@ -185,9 +163,14 @@ export default function App() {
   const minYear = years.length ? Math.min(...years) : 1900;
   const maxYear = years.length ? Math.max(...years) : new Date().getFullYear();
 
+  const queryMatchedIds = useMemo(() => {
+    if (!searchIndex) return undefined;
+    return searchNodeIds(searchIndex, query);
+  }, [searchIndex, query]);
+
   const filteredGraph = useMemo(
-    () => filterGraph(graphData.nodes, graphData.edges, filters, query),
-    [filters, graphData.edges, graphData.nodes, query],
+    () => filterGraph(graphData.nodes, graphData.edges, filters, query, queryMatchedIds),
+    [filters, graphData.edges, graphData.nodes, query, queryMatchedIds],
   );
 
   const degreeOrderedNodeIds = useMemo(() => {
@@ -270,12 +253,21 @@ export default function App() {
   const selectedNode = selectedNodeId ? nodeLookup.get(selectedNodeId) ?? null : null;
 
   const suggestions = useMemo(() => {
-    if (!query.trim()) {
-      return [];
+    const trimmed = query.trim();
+    if (!trimmed) return [];
+
+    if (searchIndex) {
+      const hits = searchIndex.search(trimmed, { prefix: true }).slice(0, 8);
+      const results: ArchiveNode[] = [];
+      for (const hit of hits) {
+        const node = nodeLookup.get(hit.id as string);
+        if (node) results.push(node);
+      }
+      return results;
     }
 
     return graphData.nodes.filter((node) => textMatch(node, query)).slice(0, 8);
-  }, [graphData.nodes, query]);
+  }, [graphData.nodes, nodeLookup, query, searchIndex]);
 
   const activeFilterCount = useMemo(() => {
     let count = 0;

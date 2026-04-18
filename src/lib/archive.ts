@@ -221,9 +221,11 @@ export function filterGraph(
   edges: ArchiveEdge[],
   filters: FilterState,
   query: string,
+  queryMatchedIds?: Set<string>,
 ): { nodes: ArchiveNode[]; edges: ArchiveEdge[] } {
   const loweredQuery = query.trim().toLowerCase();
   const queryTokens = loweredQuery.split(/\s+/).filter(Boolean);
+  const useIndex = queryMatchedIds !== undefined && queryTokens.length > 0;
 
   const filteredNodes = nodes.filter((node) => {
     if (!filters.nodeTypes.includes(node.node_type)) {
@@ -263,6 +265,10 @@ export function filterGraph(
 
     if (queryTokens.length === 0) {
       return true;
+    }
+
+    if (useIndex) {
+      return queryMatchedIds.has(node.id);
     }
 
     const haystack = [
