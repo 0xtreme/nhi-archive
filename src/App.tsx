@@ -17,6 +17,7 @@ import { loadChunkedGraph, searchNodeIds } from './lib/chunkedGraph';
 import { StatusBar } from './components-new/StatusBar';
 import { Topbar } from './components-new/Topbar';
 import { CommandPalette } from './components-new/CommandPalette';
+import { GraphView as NewGraphView } from './components-new/graph/GraphView';
 import type { ArchiveGraph, ArchiveNode, Confidence, FilterState, NodeType, ViewMode } from './types';
 
 const normalizedFallbackGraph = normalizeGraphData(fallbackGraph);
@@ -44,6 +45,7 @@ export default function App() {
   // eslint-disable-next-line @typescript-eslint/no-unused-vars
   const [_loadingProgress, setLoadingProgress] = useState(0);
   const [paletteOpen, setPaletteOpen] = useState(false);
+  const [filtersOpen, setFiltersOpen] = useState(false);
   const [breakpoint, setBreakpoint] = useState<'mobile' | 'tablet' | 'desktop'>(() => {
     if (typeof window === 'undefined') return 'desktop';
     if (window.innerWidth < 768) return 'mobile';
@@ -349,7 +351,7 @@ export default function App() {
     setSelectedNodeId(nodeId);
   };
 
-  const renderView = () => {
+  const renderLegacyView = () => {
     if (viewMode === 'map') {
       return (
         <MapView
@@ -420,47 +422,68 @@ export default function App() {
         totalNodes={graphData.nodes.length}
       />
 
-      <div className="active-chips" aria-live="polite">
-        {filters.tags.map((tag) => (
-          <button key={tag} onClick={() => onToggleTag(tag)}>
-            tag:{tag}
-          </button>
-        ))}
-        {filters.classifications.map((classification) => (
-          <button key={classification} onClick={() => onToggleClassification(classification)}>
-            class:{classification}
-          </button>
-        ))}
-      </div>
-
-      <main className="layout">
-      <FilterPanel
-        filters={filters}
-        minYear={minYear}
-        maxYear={maxYear}
-        availableTags={availableTags}
-        availableClassifications={availableClassifications}
-        availablePipelineSources={availablePipelineSources}
-        onToggleNodeType={onToggleNodeType}
-        onToggleConfidence={onToggleConfidence}
-        onToggleClassification={onToggleClassification}
-        onToggleTag={onToggleTag}
-        onTogglePipelineSource={onTogglePipelineSource}
-        onDateFromChange={onDateFromChange}
-        onDateToChange={onDateToChange}
-        onGraphNodeCapChange={onGraphNodeCapChange}
-        onReset={onResetFilters}
-      />
-
-        {renderView()}
-
-        <DetailPanel
-          node={selectedNode}
+      {viewMode === 'graph' ? (
+        <NewGraphView
+          nodes={filteredGraph.nodes}
           edges={filteredGraph.edges}
-          nodeLookup={nodeLookup}
-          onSelectNode={onSelectNode}
+          selectedId={selectedNodeId}
+          onSelect={onSelectNode}
+          filters={filters}
+          totalNodes={graphData.nodes.length}
+          availablePipelineSources={availablePipelineSources}
+          onToggleNodeType={onToggleNodeType}
+          onToggleConfidence={onToggleConfidence}
+          onTogglePipelineSource={onTogglePipelineSource}
+          onGraphNodeCapChange={onGraphNodeCapChange}
+          breakpoint={breakpoint}
+          filtersOpen={filtersOpen}
+          setFiltersOpen={setFiltersOpen}
         />
-      </main>
+      ) : (
+        <>
+          <div className="active-chips" aria-live="polite">
+            {filters.tags.map((tag) => (
+              <button key={tag} onClick={() => onToggleTag(tag)}>
+                tag:{tag}
+              </button>
+            ))}
+            {filters.classifications.map((classification) => (
+              <button key={classification} onClick={() => onToggleClassification(classification)}>
+                class:{classification}
+              </button>
+            ))}
+          </div>
+
+          <main className="layout">
+            <FilterPanel
+              filters={filters}
+              minYear={minYear}
+              maxYear={maxYear}
+              availableTags={availableTags}
+              availableClassifications={availableClassifications}
+              availablePipelineSources={availablePipelineSources}
+              onToggleNodeType={onToggleNodeType}
+              onToggleConfidence={onToggleConfidence}
+              onToggleClassification={onToggleClassification}
+              onToggleTag={onToggleTag}
+              onTogglePipelineSource={onTogglePipelineSource}
+              onDateFromChange={onDateFromChange}
+              onDateToChange={onDateToChange}
+              onGraphNodeCapChange={onGraphNodeCapChange}
+              onReset={onResetFilters}
+            />
+
+            {renderLegacyView()}
+
+            <DetailPanel
+              node={selectedNode}
+              edges={filteredGraph.edges}
+              nodeLookup={nodeLookup}
+              onSelectNode={onSelectNode}
+            />
+          </main>
+        </>
+      )}
     </div>
   );
 }
