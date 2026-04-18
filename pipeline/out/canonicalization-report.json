@@ -1,0 +1,3994 @@
+{
+  "generated_at": "2026-04-18T08:16:05.352Z",
+  "input": {
+    "nodes": 5239,
+    "edges": 16381
+  },
+  "output": {
+    "nodes": 5179,
+    "edges": 16271
+  },
+  "merged_nodes": 60,
+  "self_loops_dropped": 10,
+  "dup_edges_dropped": 100,
+  "decisions": [
+    {
+      "label": "1952 washington, d.c. ufo incident",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "organization"
+    },
+    {
+      "label": "aaro",
+      "action": "skip-dual-role-org-program",
+      "node_count": 3
+    },
+    {
+      "label": "aatip",
+      "action": "skip-dual-role-org-program",
+      "node_count": 2
+    },
+    {
+      "label": "abbotsford (canada) sighting (2013)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "aberdeen sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "adelaide (south australia) sighting (2003)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 4,
+      "type": "incident"
+    },
+    {
+      "label": "adelaide (south australia) sighting (2004)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 3,
+      "type": "incident"
+    },
+    {
+      "label": "adelaide (south australia) sighting (2005)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 4,
+      "type": "incident"
+    },
+    {
+      "label": "adelaide (south australia) sighting (2006)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 3,
+      "type": "incident"
+    },
+    {
+      "label": "ajax (canada) sighting (2013)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "albuquerque sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 10,
+      "type": "incident"
+    },
+    {
+      "label": "alpharetta sighting (2014)",
+      "action": "merge-stubs",
+      "canonical": "incident-global-38758",
+      "canonical_type": "incident",
+      "canonical_score": 2,
+      "merged": [
+        {
+          "id": "incident-global-30370",
+          "type": "incident"
+        }
+      ]
+    },
+    {
+      "label": "altoona sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "anaheim sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "anchorage sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 6,
+      "type": "incident"
+    },
+    {
+      "label": "anderson sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "antelope sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "apache junction sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "archives of the impossible",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "organization"
+    },
+    {
+      "label": "area 51",
+      "action": "skip-cross-type-both-rich",
+      "node_count": 2,
+      "types": [
+        "incident",
+        "location"
+      ]
+    },
+    {
+      "label": "argentina",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "location"
+    },
+    {
+      "label": "arlington sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 6,
+      "type": "incident"
+    },
+    {
+      "label": "art bell",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "person"
+    },
+    {
+      "label": "ashburn sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "atwater sighting (2014)",
+      "action": "merge-stubs",
+      "canonical": "incident-global-32637",
+      "canonical_type": "incident",
+      "canonical_score": 6,
+      "merged": [
+        {
+          "id": "incident-global-27152",
+          "type": "incident"
+        }
+      ]
+    },
+    {
+      "label": "auburn sighting (2014)",
+      "action": "merge-stubs",
+      "canonical": "incident-global-24624",
+      "canonical_type": "incident",
+      "canonical_score": 6,
+      "merged": [
+        {
+          "id": "incident-global-19205",
+          "type": "incident"
+        }
+      ]
+    },
+    {
+      "label": "augusta sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 4,
+      "type": "incident"
+    },
+    {
+      "label": "aurora sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "austin sighting (2013)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "austin sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 3,
+      "type": "incident"
+    },
+    {
+      "label": "australia",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "location"
+    },
+    {
+      "label": "avi loeb",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "person"
+    },
+    {
+      "label": "bakersfield sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "barrie (canada) sighting (2012)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "barrie (canada) sighting (2013)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "beaverton sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "belgrade sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "bellingham sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "bend sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "benson sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "berlin (germany) sighting (2008)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 3,
+      "type": "incident"
+    },
+    {
+      "label": "berlin (germany) sighting (2012)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "bethel sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "big sur ufo",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "organization"
+    },
+    {
+      "label": "bill chalker",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "organization"
+    },
+    {
+      "label": "birmingham (uk/england) sighting (2010)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 3,
+      "type": "incident"
+    },
+    {
+      "label": "birmingham (uk/england) sighting (2012)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 3,
+      "type": "incident"
+    },
+    {
+      "label": "birmingham sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "bob lazar",
+      "action": "merge-into-person",
+      "canonical": "person-bob-lazar",
+      "canonical_type": "person",
+      "canonical_score": 98,
+      "merged": [
+        {
+          "id": "organization-bob-lazar-513303",
+          "type": "organization"
+        },
+        {
+          "id": "organization-bob-lazar",
+          "type": "organization"
+        }
+      ]
+    },
+    {
+      "label": "boca raton sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 5,
+      "type": "incident"
+    },
+    {
+      "label": "boise sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 3,
+      "type": "incident"
+    },
+    {
+      "label": "boscawen sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "bowling green sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "boynton beach sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 4,
+      "type": "incident"
+    },
+    {
+      "label": "bradenton sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "brampton (canada) sighting (2012)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "brandon fugal",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "person"
+    },
+    {
+      "label": "brandon sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "brazil",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "location"
+    },
+    {
+      "label": "brentwood sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "brisbane (australia) sighting (2006)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 3,
+      "type": "incident"
+    },
+    {
+      "label": "brisbane (australia) sighting (2007)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "brisbane (australia) sighting (2008)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "brisbane (australia) sighting (2012)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 3,
+      "type": "incident"
+    },
+    {
+      "label": "brisbane (australia) sighting (2013)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "brisbane (australia) sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "brisbane (qld, australia) sighting (2003)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 4,
+      "type": "incident"
+    },
+    {
+      "label": "brisbane (qld, australia) sighting (2004)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 4,
+      "type": "incident"
+    },
+    {
+      "label": "brisbane (qld, australia) sighting (2005)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "bristol (uk/england) sighting (2010)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "bristol (uk/england) sighting (2013)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 3,
+      "type": "incident"
+    },
+    {
+      "label": "buford sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "burlington (canada) sighting (2013)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "burlington sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "burnaby (canada) sighting (2013)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "butler sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "butte sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "calgary (canada) sighting (2012)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "calgary (canada) sighting (2013)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "calgary (canada) sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "campbell river (canada) sighting (2013)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "campbell sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 4,
+      "type": "incident"
+    },
+    {
+      "label": "canada",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "location"
+    },
+    {
+      "label": "canberra (australia) sighting (2003)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 3,
+      "type": "incident"
+    },
+    {
+      "label": "canberra (australia) sighting (2006)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "canton sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "cape canaveral sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "cape coral sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 3,
+      "type": "incident"
+    },
+    {
+      "label": "cape girardeau sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "carl sagan",
+      "action": "merge-into-person",
+      "canonical": "person-carl-sagan",
+      "canonical_type": "person",
+      "canonical_score": 114,
+      "merged": [
+        {
+          "id": "incident-carl-sagan-6824",
+          "type": "incident"
+        }
+      ]
+    },
+    {
+      "label": "cedar falls sighting (2014)",
+      "action": "merge-stubs",
+      "canonical": "incident-global-34286",
+      "canonical_type": "incident",
+      "canonical_score": 6,
+      "merged": [
+        {
+          "id": "incident-global-39124",
+          "type": "incident"
+        }
+      ]
+    },
+    {
+      "label": "cedar rapids sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "centennial sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "chan thomas",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "person"
+    },
+    {
+      "label": "chandler sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "charleston sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 5,
+      "type": "incident"
+    },
+    {
+      "label": "charlotte sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 3,
+      "type": "incident"
+    },
+    {
+      "label": "chatsworth sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 3,
+      "type": "incident"
+    },
+    {
+      "label": "chattanooga sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "chesapeake sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 3,
+      "type": "incident"
+    },
+    {
+      "label": "chesterfield sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "chico sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "chile",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "location"
+    },
+    {
+      "label": "chiles-whitted ufo encounter",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "organization"
+    },
+    {
+      "label": "chilliwack (canada) sighting (2013)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 3,
+      "type": "incident"
+    },
+    {
+      "label": "christopher mellon",
+      "action": "merge-into-person",
+      "canonical": "person-chris-mellon",
+      "canonical_type": "person",
+      "canonical_score": 108.5,
+      "merged": [
+        {
+          "id": "organization-christopher-mellon-79831240",
+          "type": "organization"
+        },
+        {
+          "id": "person-christopher-mellon",
+          "type": "person"
+        },
+        {
+          "id": "organization-christopher-mellon",
+          "type": "organization"
+        }
+      ]
+    },
+    {
+      "label": "cia",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "organization"
+    },
+    {
+      "label": "cincinnati sighting (2013)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "cincinnati sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "clarksburg sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 3,
+      "type": "incident"
+    },
+    {
+      "label": "clarksville sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "clayton sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "clermont sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "clinton sighting (2014)",
+      "action": "merge-stubs",
+      "canonical": "incident-global-25346",
+      "canonical_type": "incident",
+      "canonical_score": 6,
+      "merged": [
+        {
+          "id": "incident-global-27966",
+          "type": "incident"
+        }
+      ]
+    },
+    {
+      "label": "clovis sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 4,
+      "type": "incident"
+    },
+    {
+      "label": "collegeville sighting (2014)",
+      "action": "merge-stubs",
+      "canonical": "incident-global-45837",
+      "canonical_type": "incident",
+      "canonical_score": 2,
+      "merged": [
+        {
+          "id": "incident-global-27159",
+          "type": "incident"
+        }
+      ]
+    },
+    {
+      "label": "colorado springs sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 6,
+      "type": "incident"
+    },
+    {
+      "label": "columbia sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 5,
+      "type": "incident"
+    },
+    {
+      "label": "columbus sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 4,
+      "type": "incident"
+    },
+    {
+      "label": "concord sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "condon committee",
+      "action": "skip-dual-role-org-program",
+      "node_count": 3
+    },
+    {
+      "label": "conway sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "conyers sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "coral springs sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 4,
+      "type": "incident"
+    },
+    {
+      "label": "cornwall (canada) sighting (2013)",
+      "action": "merge-stubs",
+      "canonical": "incident-global-49832",
+      "canonical_type": "incident",
+      "canonical_score": 2,
+      "merged": [
+        {
+          "id": "incident-global-2668",
+          "type": "incident"
+        }
+      ]
+    },
+    {
+      "label": "corona sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "council bluffs sighting (2013)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "covington sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "crescent city sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "cumming sighting (2014)",
+      "action": "merge-stubs",
+      "canonical": "incident-global-35435",
+      "canonical_type": "incident",
+      "canonical_score": 6,
+      "merged": [
+        {
+          "id": "incident-global-34292",
+          "type": "incident"
+        }
+      ]
+    },
+    {
+      "label": "dahlonega sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "dallas sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 3,
+      "type": "incident"
+    },
+    {
+      "label": "danbury sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "danville sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "darwin (australia) sighting (2006)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "dauphin island sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "davie sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 5,
+      "type": "incident"
+    },
+    {
+      "label": "daytona beach sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "decatur sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "deerfield beach sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 3,
+      "type": "incident"
+    },
+    {
+      "label": "deltona sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 3,
+      "type": "incident"
+    },
+    {
+      "label": "denver sighting (2014)",
+      "action": "merge-stubs",
+      "canonical": "incident-global-16287",
+      "canonical_type": "incident",
+      "canonical_score": 6,
+      "merged": [
+        {
+          "id": "incident-global-38056",
+          "type": "incident"
+        }
+      ]
+    },
+    {
+      "label": "des moines sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 3,
+      "type": "incident"
+    },
+    {
+      "label": "dia",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "organization"
+    },
+    {
+      "label": "doncaster (uk/england) sighting (2012)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "drexel sighting (2013)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "duluth sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "dunnville (canada) sighting (2013)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "durham sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 3,
+      "type": "incident"
+    },
+    {
+      "label": "easton sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "edinburgh (uk/scotland) sighting (2010)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "edison sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "edmonton (canada) sighting (2013)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "edmonton (canada) sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "edward condon",
+      "action": "merge-into-person",
+      "canonical": "person-edward-condon",
+      "canonical_type": "person",
+      "canonical_score": 108.5,
+      "merged": [
+        {
+          "id": "organization-edward-condon-1907745",
+          "type": "organization"
+        },
+        {
+          "id": "organization-edward-condon",
+          "type": "organization"
+        }
+      ]
+    },
+    {
+      "label": "el cajon sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 5,
+      "type": "incident"
+    },
+    {
+      "label": "el paso sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 3,
+      "type": "incident"
+    },
+    {
+      "label": "elk grove sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "encinitas sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 3,
+      "type": "incident"
+    },
+    {
+      "label": "enterprise sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "escondido sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "eureka sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "evans sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "evansville sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 3,
+      "type": "incident"
+    },
+    {
+      "label": "everett sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "fairborn sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 3,
+      "type": "incident"
+    },
+    {
+      "label": "fairfax sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "fallbrook sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "fayetteville sighting (2014)",
+      "action": "merge-stubs",
+      "canonical": "incident-global-23707",
+      "canonical_type": "incident",
+      "canonical_score": 2,
+      "merged": [
+        {
+          "id": "incident-global-36558",
+          "type": "incident"
+        }
+      ]
+    },
+    {
+      "label": "fbi",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "organization"
+    },
+    {
+      "label": "finland",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "location"
+    },
+    {
+      "label": "flat rock sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "flying saucer working party",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "organization"
+    },
+    {
+      "label": "fond du lac sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "fort collins sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "fort lauderdale sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "fort myers sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "fort wayne sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 3,
+      "type": "incident"
+    },
+    {
+      "label": "france",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "location"
+    },
+    {
+      "label": "franklin sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 3,
+      "type": "incident"
+    },
+    {
+      "label": "frederick sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "fredericton (canada) sighting (2013)",
+      "action": "merge-stubs",
+      "canonical": "incident-global-9264",
+      "canonical_type": "incident",
+      "canonical_score": 6,
+      "merged": [
+        {
+          "id": "incident-global-55644",
+          "type": "incident"
+        }
+      ]
+    },
+    {
+      "label": "fresno sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 6,
+      "type": "incident"
+    },
+    {
+      "label": "frisco sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "gabe valdez",
+      "action": "skip-legitimately-distinct",
+      "node_count": 3,
+      "type": "person"
+    },
+    {
+      "label": "garden grove sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "garner sighting (2014)",
+      "action": "merge-stubs",
+      "canonical": "incident-global-40949",
+      "canonical_type": "incident",
+      "canonical_score": 6,
+      "merged": [
+        {
+          "id": "incident-global-15160",
+          "type": "incident"
+        },
+        {
+          "id": "incident-global-30795",
+          "type": "incident"
+        }
+      ]
+    },
+    {
+      "label": "garry nolan",
+      "action": "skip-legitimately-distinct",
+      "node_count": 3,
+      "type": "person"
+    },
+    {
+      "label": "gatineau (canada) sighting (2013)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "geelong (australia) sighting (2011)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "georgetown sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "germany",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "location"
+    },
+    {
+      "label": "gila bend sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "gilbert sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "glasgow (uk/scotland) sighting (2010)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "glasgow (uk/scotland) sighting (2013)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "glendale sighting (2014)",
+      "action": "merge-stubs",
+      "canonical": "incident-global-34117",
+      "canonical_type": "incident",
+      "canonical_score": 2,
+      "merged": [
+        {
+          "id": "incident-global-30009",
+          "type": "incident"
+        }
+      ]
+    },
+    {
+      "label": "glenpool sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 3,
+      "type": "incident"
+    },
+    {
+      "label": "gold coast (australia) sighting (2006)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "goodyear sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "goose creek sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "gorham sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "grant morrison",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "organization"
+    },
+    {
+      "label": "green bay sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "greenfield sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "greensboro sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "greenville sighting (2014)",
+      "action": "merge-stubs",
+      "canonical": "incident-global-24132",
+      "canonical_type": "incident",
+      "canonical_score": 6,
+      "merged": [
+        {
+          "id": "incident-global-33670",
+          "type": "incident"
+        }
+      ]
+    },
+    {
+      "label": "gresham sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "guelph (canada) sighting (2013)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "gun barrel city sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "haim eshed",
+      "action": "merge-into-person",
+      "canonical": "person-haim-eshed",
+      "canonical_type": "person",
+      "canonical_score": 106.5,
+      "merged": [
+        {
+          "id": "organization-haim-eshed-66053809",
+          "type": "organization"
+        }
+      ]
+    },
+    {
+      "label": "hamilton (canada) sighting (2013)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 3,
+      "type": "incident"
+    },
+    {
+      "label": "hamilton sighting (2013)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "hartford sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "henderson sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 5,
+      "type": "incident"
+    },
+    {
+      "label": "hernando sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "hilary evans",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "person"
+    },
+    {
+      "label": "hillsboro sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 4,
+      "type": "incident"
+    },
+    {
+      "label": "hollister sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "honolulu sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 4,
+      "type": "incident"
+    },
+    {
+      "label": "houma sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "houston sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 5,
+      "type": "incident"
+    },
+    {
+      "label": "hudson sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 4,
+      "type": "incident"
+    },
+    {
+      "label": "huntersville sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "huntington beach sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 3,
+      "type": "incident"
+    },
+    {
+      "label": "huntington sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "huntsville sighting (2014)",
+      "action": "merge-stubs",
+      "canonical": "incident-global-22138",
+      "canonical_type": "incident",
+      "canonical_score": 6,
+      "merged": [
+        {
+          "id": "incident-global-36562",
+          "type": "incident"
+        }
+      ]
+    },
+    {
+      "label": "idaho falls sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "identification studies of ufos",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "organization"
+    },
+    {
+      "label": "imperial sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "indianapolis sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "international ufo museum and research center",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "organization"
+    },
+    {
+      "label": "inverness sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "iran",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "location"
+    },
+    {
+      "label": "irwin sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "issaquah sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "italy",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "location"
+    },
+    {
+      "label": "j. allen hynek",
+      "action": "merge-into-person",
+      "canonical": "person-j-allen-hynek",
+      "canonical_type": "person",
+      "canonical_score": 9.5,
+      "merged": [
+        {
+          "id": "organization-j-allen-hynek-870284",
+          "type": "organization"
+        }
+      ]
+    },
+    {
+      "label": "jackson sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 5,
+      "type": "incident"
+    },
+    {
+      "label": "jacksonville sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 6,
+      "type": "incident"
+    },
+    {
+      "label": "jacques vallée",
+      "action": "merge-into-person",
+      "canonical": "person-jacques-vallee",
+      "canonical_type": "person",
+      "canonical_score": 20.5,
+      "merged": [
+        {
+          "id": "organization-jacques-vall-e-1553013",
+          "type": "organization"
+        }
+      ]
+    },
+    {
+      "label": "jaime maussan",
+      "action": "merge-into-person",
+      "canonical": "person-jaime-maussan",
+      "canonical_type": "person",
+      "canonical_score": 106.5,
+      "merged": [
+        {
+          "id": "incident-jaime-maussan-9113245",
+          "type": "incident"
+        },
+        {
+          "id": "person-jaime-maussan-peru",
+          "type": "person"
+        }
+      ]
+    },
+    {
+      "label": "james harder",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "person"
+    },
+    {
+      "label": "james herbert brennan",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "person"
+    },
+    {
+      "label": "jason jorjani",
+      "action": "merge-into-person",
+      "canonical": "person-jason-jorjani",
+      "canonical_type": "person",
+      "canonical_score": 111,
+      "merged": [
+        {
+          "id": "incident-jason-jorjani-55532992",
+          "type": "incident"
+        }
+      ]
+    },
+    {
+      "label": "jefferson sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "jeffersonville sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "jerome clark",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "organization"
+    },
+    {
+      "label": "jesse marcel",
+      "action": "merge-into-person",
+      "canonical": "person-jesse-marcel",
+      "canonical_type": "person",
+      "canonical_score": 106.5,
+      "merged": [
+        {
+          "id": "incident-jesse-marcel-65772639",
+          "type": "incident"
+        }
+      ]
+    },
+    {
+      "label": "jim marrs",
+      "action": "merge-into-person",
+      "canonical": "person-jim-marrs",
+      "canonical_type": "person",
+      "canonical_score": 107,
+      "merged": [
+        {
+          "id": "organization-jim-marrs-223203",
+          "type": "organization"
+        }
+      ]
+    },
+    {
+      "label": "jupiter sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 5,
+      "type": "incident"
+    },
+    {
+      "label": "kalamazoo sighting (2013)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "kamloops (canada) sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "kelso sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 3,
+      "type": "incident"
+    },
+    {
+      "label": "kenai sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "kenmore sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 5,
+      "type": "incident"
+    },
+    {
+      "label": "kennesaw sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "kenneth arnold",
+      "action": "merge-into-person",
+      "canonical": "person-kenneth-arnold",
+      "canonical_type": "person",
+      "canonical_score": 29.5,
+      "merged": [
+        {
+          "id": "incident-kenneth-arnold-556393",
+          "type": "incident"
+        }
+      ]
+    },
+    {
+      "label": "kent sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "keswick (canada) sighting (2013)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 3,
+      "type": "incident"
+    },
+    {
+      "label": "kevin knuth",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "person"
+    },
+    {
+      "label": "kid cosmic",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "person"
+    },
+    {
+      "label": "kill devil hills sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "kingston (canada) sighting (2013)",
+      "action": "merge-stubs",
+      "canonical": "incident-global-45283",
+      "canonical_type": "incident",
+      "canonical_score": 2,
+      "merged": [
+        {
+          "id": "incident-global-13554",
+          "type": "incident"
+        }
+      ]
+    },
+    {
+      "label": "kingston sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "kirsan ilyumzhinov",
+      "action": "merge-into-person",
+      "canonical": "person-kirsan-ilyumzhinov",
+      "canonical_type": "person",
+      "canonical_score": 112.5,
+      "merged": [
+        {
+          "id": "incident-kirsan-ilyumzhinov-303988",
+          "type": "incident"
+        }
+      ]
+    },
+    {
+      "label": "kissimmee sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "kitchener (canada) sighting (2013)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "knoxville sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "kokomo sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "la mesa sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "lafayette sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "lake havasu city sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "lakeland sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 6,
+      "type": "incident"
+    },
+    {
+      "label": "lakenheath-bentwaters incident",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "organization"
+    },
+    {
+      "label": "lancaster sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 3,
+      "type": "incident"
+    },
+    {
+      "label": "lansdale sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "las cruces sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 3,
+      "type": "incident"
+    },
+    {
+      "label": "las vegas sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 7,
+      "type": "incident"
+    },
+    {
+      "label": "launceston (tas, australia) sighting (2004)",
+      "action": "merge-stubs",
+      "canonical": "incident-global-74345",
+      "canonical_type": "incident",
+      "canonical_score": 2,
+      "merged": [
+        {
+          "id": "incident-global-72868",
+          "type": "incident"
+        }
+      ]
+    },
+    {
+      "label": "lawrenceville sighting (2014)",
+      "action": "merge-stubs",
+      "canonical": "incident-global-36234",
+      "canonical_type": "incident",
+      "canonical_score": 2,
+      "merged": [
+        {
+          "id": "incident-global-39801",
+          "type": "incident"
+        }
+      ]
+    },
+    {
+      "label": "lawton sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "lehigh acres sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "leonard h. stringfield",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "organization"
+    },
+    {
+      "label": "leslie kean",
+      "action": "merge-into-person",
+      "canonical": "person-leslie-kean",
+      "canonical_type": "person",
+      "canonical_score": 106,
+      "merged": [
+        {
+          "id": "incident-leslie-kean-58626161",
+          "type": "incident"
+        }
+      ]
+    },
+    {
+      "label": "lethbridge (canada) sighting (2013)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "levittown sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "lewisville sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "lexington sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "liberty sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "loganville sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "lombard sighting (2013)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "london (canada) sighting (2013)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 3,
+      "type": "incident"
+    },
+    {
+      "label": "london (uk/england) sighting (2010)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 5,
+      "type": "incident"
+    },
+    {
+      "label": "london (uk/england) sighting (2011)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 6,
+      "type": "incident"
+    },
+    {
+      "label": "london (uk/england) sighting (2012)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 5,
+      "type": "incident"
+    },
+    {
+      "label": "london (uk/england) sighting (2013)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "long beach sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "longview sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "lonnie zamora incident",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "organization"
+    },
+    {
+      "label": "lorton sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "los angeles sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 3,
+      "type": "incident"
+    },
+    {
+      "label": "louisville sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 7,
+      "type": "incident"
+    },
+    {
+      "label": "love has won",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "person"
+    },
+    {
+      "label": "lowell sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "luis elizondo",
+      "action": "merge-into-person",
+      "canonical": "person-luis-elizondo",
+      "canonical_type": "person",
+      "canonical_score": 16.5,
+      "merged": [
+        {
+          "id": "incident-luis-elizondo-59099489",
+          "type": "incident"
+        }
+      ]
+    },
+    {
+      "label": "lynchburg sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "lynden sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "madison sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 3,
+      "type": "incident"
+    },
+    {
+      "label": "majestic 12",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "organization"
+    },
+    {
+      "label": "manchester (uk/england) sighting (2011)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "manchester (uk/england) sighting (2012)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "manchester sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 3,
+      "type": "incident"
+    },
+    {
+      "label": "maricopa sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 4,
+      "type": "incident"
+    },
+    {
+      "label": "marshall sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "mclean sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "medford sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 4,
+      "type": "incident"
+    },
+    {
+      "label": "melbourne (australia) sighting (2005)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "melbourne (australia) sighting (2006)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "melbourne (australia) sighting (2007)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 3,
+      "type": "incident"
+    },
+    {
+      "label": "melbourne (australia) sighting (2008)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 3,
+      "type": "incident"
+    },
+    {
+      "label": "melbourne (australia) sighting (2009)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "melbourne (australia) sighting (2010)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "melbourne (australia) sighting (2013)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "melbourne (vic, australia) sighting (2002)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "melbourne (vic, australia) sighting (2003)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 3,
+      "type": "incident"
+    },
+    {
+      "label": "melbourne (vic, australia) sighting (2004)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 3,
+      "type": "incident"
+    },
+    {
+      "label": "melbourne (vic, australia) sighting (2005)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 3,
+      "type": "incident"
+    },
+    {
+      "label": "melbourne sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "memphis sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "mesa sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 5,
+      "type": "incident"
+    },
+    {
+      "label": "mesquite sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "mexico",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "location"
+    },
+    {
+      "label": "miami beach sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "miami sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 4,
+      "type": "incident"
+    },
+    {
+      "label": "michael persinger",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "person"
+    },
+    {
+      "label": "mick west",
+      "action": "merge-into-person",
+      "canonical": "person-mick-west",
+      "canonical_type": "person",
+      "canonical_score": 111.5,
+      "merged": [
+        {
+          "id": "incident-mick-west-58697895",
+          "type": "incident"
+        }
+      ]
+    },
+    {
+      "label": "middleburg sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "middlesex sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "milford sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "milpitas sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "milton (canada) sighting (2013)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 4,
+      "type": "incident"
+    },
+    {
+      "label": "mirage men",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "organization"
+    },
+    {
+      "label": "mississauga (canada) sighting (2012)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 3,
+      "type": "incident"
+    },
+    {
+      "label": "mississauga (canada) sighting (2013)",
+      "action": "merge-stubs",
+      "canonical": "incident-global-74470",
+      "canonical_type": "incident",
+      "canonical_score": 6,
+      "merged": [
+        {
+          "id": "incident-global-77722",
+          "type": "incident"
+        }
+      ]
+    },
+    {
+      "label": "missoula sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "mobile sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "modesto sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 3,
+      "type": "incident"
+    },
+    {
+      "label": "monroe sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 3,
+      "type": "incident"
+    },
+    {
+      "label": "montreal (canada) sighting (2013)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 4,
+      "type": "incident"
+    },
+    {
+      "label": "moreno valley sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "morgan hill sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "morganton sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 3,
+      "type": "incident"
+    },
+    {
+      "label": "morrisville sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "mount vernon sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "mt. pleasant sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 3,
+      "type": "incident"
+    },
+    {
+      "label": "mukwonago sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "munich (germany) sighting (2010)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "nanaimo (canada) sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "napa sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 3,
+      "type": "incident"
+    },
+    {
+      "label": "nasa",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "organization"
+    },
+    {
+      "label": "nashville sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 4,
+      "type": "incident"
+    },
+    {
+      "label": "new sharon sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "new westminster (canada) sighting (2013)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "new york city (brooklyn) sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 3,
+      "type": "incident"
+    },
+    {
+      "label": "new zealand",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "location"
+    },
+    {
+      "label": "newcastle (australia) sighting (2013)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "newport beach sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "newport sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "nicap",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "organization"
+    },
+    {
+      "label": "nick redfern",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "organization"
+    },
+    {
+      "label": "noblesville sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "norad",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "organization"
+    },
+    {
+      "label": "north arlington sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "north bay (canada) sighting (2012)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "north bay (canada) sighting (2013)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "norwich (uk/england) sighting (2013)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "nottingham (uk/england) sighting (2010)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "novi sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "oakland park sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 3,
+      "type": "incident"
+    },
+    {
+      "label": "oakley sighting (2014)",
+      "action": "merge-stubs",
+      "canonical": "incident-global-37118",
+      "canonical_type": "incident",
+      "canonical_score": 6,
+      "merged": [
+        {
+          "id": "incident-global-17638",
+          "type": "incident"
+        },
+        {
+          "id": "incident-global-39460",
+          "type": "incident"
+        }
+      ]
+    },
+    {
+      "label": "orange sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "oregon city sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 3,
+      "type": "incident"
+    },
+    {
+      "label": "orlando sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 8,
+      "type": "incident"
+    },
+    {
+      "label": "ormond beach sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "oshawa (canada) sighting (2013)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 4,
+      "type": "incident"
+    },
+    {
+      "label": "ottawa (canada) sighting (2012)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "ottawa (canada) sighting (2013)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 5,
+      "type": "incident"
+    },
+    {
+      "label": "ottawa (canada) sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 3,
+      "type": "incident"
+    },
+    {
+      "label": "oxford sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "palm beach gardens sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "palm city sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 5,
+      "type": "incident"
+    },
+    {
+      "label": "palm desert sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "panama city beach sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "park city sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "parker sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "parkville sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "parma sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "pasadena sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "patterson sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "paul bennewitz",
+      "action": "merge-into-person",
+      "canonical": "person-paul-bennewitz",
+      "canonical_type": "person",
+      "canonical_score": 107,
+      "merged": [
+        {
+          "id": "incident-paul-bennewitz-2601677",
+          "type": "incident"
+        }
+      ]
+    },
+    {
+      "label": "paul hellyer",
+      "action": "merge-into-person",
+      "canonical": "person-paul-hellyer",
+      "canonical_type": "person",
+      "canonical_score": 5,
+      "merged": [
+        {
+          "id": "organization-paul-hellyer-396072",
+          "type": "organization"
+        }
+      ]
+    },
+    {
+      "label": "paul r. hill",
+      "action": "skip-legitimately-distinct",
+      "node_count": 3,
+      "type": "person"
+    },
+    {
+      "label": "pembroke sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "perth (australia) sighting (2006)",
+      "action": "merge-stubs",
+      "canonical": "incident-global-37205",
+      "canonical_type": "incident",
+      "canonical_score": 6,
+      "merged": [
+        {
+          "id": "incident-global-26106",
+          "type": "incident"
+        }
+      ]
+    },
+    {
+      "label": "perth (australia) sighting (2007)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 3,
+      "type": "incident"
+    },
+    {
+      "label": "perth (australia) sighting (2008)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 3,
+      "type": "incident"
+    },
+    {
+      "label": "perth (australia) sighting (2012)",
+      "action": "merge-stubs",
+      "canonical": "incident-global-45784",
+      "canonical_type": "incident",
+      "canonical_score": 2,
+      "merged": [
+        {
+          "id": "incident-global-79235",
+          "type": "incident"
+        }
+      ]
+    },
+    {
+      "label": "perth (australia) sighting (2013)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 3,
+      "type": "incident"
+    },
+    {
+      "label": "perth (australia) sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "perth (western australia) sighting (2002)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 3,
+      "type": "incident"
+    },
+    {
+      "label": "perth (western australia) sighting (2004)",
+      "action": "merge-stubs",
+      "canonical": "incident-global-31317",
+      "canonical_type": "incident",
+      "canonical_score": 2,
+      "merged": [
+        {
+          "id": "incident-global-76347",
+          "type": "incident"
+        }
+      ]
+    },
+    {
+      "label": "peru",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "location"
+    },
+    {
+      "label": "peterborough (canada) sighting (2013)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "pevely sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "philadelphia sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 4,
+      "type": "incident"
+    },
+    {
+      "label": "phoenix lights",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "phoenix sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 6,
+      "type": "incident"
+    },
+    {
+      "label": "pickering (canada) sighting (2012)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "pickering (canada) sighting (2013)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "pierrefonds (canada) sighting (2013)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "pittsburgh sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 4,
+      "type": "incident"
+    },
+    {
+      "label": "plano sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "pleasanton sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 3,
+      "type": "incident"
+    },
+    {
+      "label": "pompano beach sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "port alberni (canada) sighting (2013)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "portland sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 6,
+      "type": "incident"
+    },
+    {
+      "label": "princeton sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 3,
+      "type": "incident"
+    },
+    {
+      "label": "project blue book",
+      "action": "skip-dual-role-org-program",
+      "node_count": 3
+    },
+    {
+      "label": "project mogul",
+      "action": "skip-dual-role-org-program",
+      "node_count": 3
+    },
+    {
+      "label": "project serpo",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "organization"
+    },
+    {
+      "label": "pueblo sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "punta gorda sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 3,
+      "type": "incident"
+    },
+    {
+      "label": "puyallup sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "queen creek sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "quincy sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "raleigh sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 6,
+      "type": "incident"
+    },
+    {
+      "label": "raymond a. palmer",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "organization"
+    },
+    {
+      "label": "regina (canada) sighting (2013)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "rendlesham forest",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "location"
+    },
+    {
+      "label": "rendlesham forest incident",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "reseda sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "revere sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "richmond sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 4,
+      "type": "incident"
+    },
+    {
+      "label": "riley martin",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "person"
+    },
+    {
+      "label": "rio rancho sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "riverbank sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "riverdale sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "riverside sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 4,
+      "type": "incident"
+    },
+    {
+      "label": "roanoke sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "robert salas",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "person"
+    },
+    {
+      "label": "rochester sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 3,
+      "type": "incident"
+    },
+    {
+      "label": "rock hill sighting (2014)",
+      "action": "merge-stubs",
+      "canonical": "incident-global-41797",
+      "canonical_type": "incident",
+      "canonical_score": 6,
+      "merged": [
+        {
+          "id": "incident-global-30809",
+          "type": "incident"
+        }
+      ]
+    },
+    {
+      "label": "roseville sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "ross coulthart",
+      "action": "merge-into-person",
+      "canonical": "person-ross-coulthart",
+      "canonical_type": "person",
+      "canonical_score": 114,
+      "merged": [
+        {
+          "id": "incident-ross-coulthart-73980338",
+          "type": "incident"
+        }
+      ]
+    },
+    {
+      "label": "roswell incident",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "roswell that ends well",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "organization"
+    },
+    {
+      "label": "roswell, new mexico",
+      "action": "skip-cross-type-both-rich",
+      "node_count": 3,
+      "types": [
+        "location",
+        "incident"
+      ]
+    },
+    {
+      "label": "rotherham (uk/england) sighting (2011)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "russellville sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "russia",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "location"
+    },
+    {
+      "label": "sacramento sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 5,
+      "type": "incident"
+    },
+    {
+      "label": "salem sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 8,
+      "type": "incident"
+    },
+    {
+      "label": "salt lake city sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 5,
+      "type": "incident"
+    },
+    {
+      "label": "san antonio sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 4,
+      "type": "incident"
+    },
+    {
+      "label": "san clemente sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "san diego sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 4,
+      "type": "incident"
+    },
+    {
+      "label": "san francisco sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "san jose sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 4,
+      "type": "incident"
+    },
+    {
+      "label": "san marcos sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "san rafael sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 3,
+      "type": "incident"
+    },
+    {
+      "label": "sanford sighting (2014)",
+      "action": "merge-stubs",
+      "canonical": "incident-global-32452",
+      "canonical_type": "incident",
+      "canonical_score": 6,
+      "merged": [
+        {
+          "id": "incident-global-25486",
+          "type": "incident"
+        }
+      ]
+    },
+    {
+      "label": "santa ana sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "santa cruz sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 3,
+      "type": "incident"
+    },
+    {
+      "label": "santa rosa sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "sarasota sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 3,
+      "type": "incident"
+    },
+    {
+      "label": "savannah sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 4,
+      "type": "incident"
+    },
+    {
+      "label": "scarborough (canada) sighting (2013)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 4,
+      "type": "incident"
+    },
+    {
+      "label": "schenectady sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "scottsdale sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 4,
+      "type": "incident"
+    },
+    {
+      "label": "scp foundation",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "organization"
+    },
+    {
+      "label": "sean david morton",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "person"
+    },
+    {
+      "label": "seattle sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 3,
+      "type": "incident"
+    },
+    {
+      "label": "seneca sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "sequim sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "shirley sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "shoreline sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "shreveport sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "simi valley sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "skinwalker ranch",
+      "action": "skip-cross-type-both-rich",
+      "node_count": 2,
+      "types": [
+        "incident",
+        "location"
+      ]
+    },
+    {
+      "label": "sonoma sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "south africa",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "location"
+    },
+    {
+      "label": "southfield sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "spokane sighting (2014)",
+      "action": "merge-stubs",
+      "canonical": "incident-global-11483",
+      "canonical_type": "incident",
+      "canonical_score": 6,
+      "merged": [
+        {
+          "id": "incident-global-16839",
+          "type": "incident"
+        }
+      ]
+    },
+    {
+      "label": "spokane valley sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "spring hill sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "spring sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 3,
+      "type": "incident"
+    },
+    {
+      "label": "springfield sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 4,
+      "type": "incident"
+    },
+    {
+      "label": "st. catharines (canada) sighting (2013)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "st. cloud sighting (2014)",
+      "action": "merge-stubs",
+      "canonical": "incident-global-30373",
+      "canonical_type": "incident",
+      "canonical_score": 2,
+      "merged": [
+        {
+          "id": "incident-global-35615",
+          "type": "incident"
+        }
+      ]
+    },
+    {
+      "label": "st. louis sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 4,
+      "type": "incident"
+    },
+    {
+      "label": "st. petersburg sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 3,
+      "type": "incident"
+    },
+    {
+      "label": "st. thomas (canada) sighting (2013)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "stanton t. friedman",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "organization"
+    },
+    {
+      "label": "steven m. greer",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "organization"
+    },
+    {
+      "label": "stockton sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "sumner sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "sunderland (uk/england) sighting (2010)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "sunrise sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 5,
+      "type": "incident"
+    },
+    {
+      "label": "surprise sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 3,
+      "type": "incident"
+    },
+    {
+      "label": "surrey (canada) sighting (2012)",
+      "action": "merge-stubs",
+      "canonical": "incident-global-15804",
+      "canonical_type": "incident",
+      "canonical_score": 6,
+      "merged": [
+        {
+          "id": "incident-global-15472",
+          "type": "incident"
+        }
+      ]
+    },
+    {
+      "label": "sydney (australia) sighting (2005)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "sydney (australia) sighting (2006)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 4,
+      "type": "incident"
+    },
+    {
+      "label": "sydney (australia) sighting (2007)",
+      "action": "merge-stubs",
+      "canonical": "incident-global-7525",
+      "canonical_type": "incident",
+      "canonical_score": 6,
+      "merged": [
+        {
+          "id": "incident-global-63526",
+          "type": "incident"
+        }
+      ]
+    },
+    {
+      "label": "sydney (australia) sighting (2008)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 3,
+      "type": "incident"
+    },
+    {
+      "label": "sydney (australia) sighting (2010)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 4,
+      "type": "incident"
+    },
+    {
+      "label": "sydney (australia) sighting (2011)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "sydney (australia) sighting (2013)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 3,
+      "type": "incident"
+    },
+    {
+      "label": "sydney (nsw, australia) sighting (2003)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 7,
+      "type": "incident"
+    },
+    {
+      "label": "sydney (nsw, australia) sighting (2004)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "tacoma sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "tallahassee sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "tamarac sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "tampa sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 5,
+      "type": "incident"
+    },
+    {
+      "label": "tan hill, whiltshire (uk/england) sighting (2012)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "taylorsville sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "the day after roswell",
+      "action": "merge-into-document",
+      "canonical": "document-the-day-after-roswell",
+      "canonical_type": "document",
+      "canonical_score": 26.5,
+      "merged": [
+        {
+          "id": "incident-the-day-after-roswell-14829665",
+          "type": "incident"
+        }
+      ]
+    },
+    {
+      "label": "the flying saucers are real",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "organization"
+    },
+    {
+      "label": "the galileo project",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "organization"
+    },
+    {
+      "label": "the last halloween",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "person"
+    },
+    {
+      "label": "the report on unidentified flying objects",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "organization"
+    },
+    {
+      "label": "the spaceships of ezekiel",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "organization"
+    },
+    {
+      "label": "theodore sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "thornton leigh page",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "organization"
+    },
+    {
+      "label": "thousand oaks sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "timmins (canada) sighting (2013)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "timothy good",
+      "action": "merge-into-person",
+      "canonical": "person-timothy-good",
+      "canonical_type": "person",
+      "canonical_score": 336.5,
+      "merged": [
+        {
+          "id": "incident-timothy-good-60806364",
+          "type": "incident"
+        }
+      ]
+    },
+    {
+      "label": "toney sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "tonopah sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "toronto (canada) sighting (2012)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "toronto (canada) sighting (2013)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 8,
+      "type": "incident"
+    },
+    {
+      "label": "toronto (canada) sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "townsville (australia) sighting (2005)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 3,
+      "type": "incident"
+    },
+    {
+      "label": "troy sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "tucson sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 7,
+      "type": "incident"
+    },
+    {
+      "label": "tulsa sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "turlock sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "ufo sightings in the united kingdom",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "organization"
+    },
+    {
+      "label": "uk/england sighting (2010)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "uk/england sighting (2012)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "unidentified flying object",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "organization"
+    },
+    {
+      "label": "united kingdom",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "location"
+    },
+    {
+      "label": "united states",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "location"
+    },
+    {
+      "label": "us air force",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "organization"
+    },
+    {
+      "label": "us department of defense",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "organization"
+    },
+    {
+      "label": "us navy",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "organization"
+    },
+    {
+      "label": "vancouver sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 3,
+      "type": "incident"
+    },
+    {
+      "label": "venice sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 3,
+      "type": "incident"
+    },
+    {
+      "label": "vernon (canada) sighting (2013)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 3,
+      "type": "incident"
+    },
+    {
+      "label": "vero beach sighting (2014)",
+      "action": "merge-stubs",
+      "canonical": "incident-global-22817",
+      "canonical_type": "incident",
+      "canonical_score": 6,
+      "merged": [
+        {
+          "id": "incident-global-40264",
+          "type": "incident"
+        }
+      ]
+    },
+    {
+      "label": "victoria (canada) sighting (2013)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 6,
+      "type": "incident"
+    },
+    {
+      "label": "victoria (canada) sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "virginia beach sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 3,
+      "type": "incident"
+    },
+    {
+      "label": "warren sighting (2013)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "warren sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "washington court house sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "wasilla sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "welland (canada) sighting (2013)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "welland (canada) sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "wellington sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 3,
+      "type": "incident"
+    },
+    {
+      "label": "wenatchee sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "west kelowna (canada) sighting (2013)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "west wyalong (australia) sighting (2012)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "westfield sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "westminster sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "whitley strieber",
+      "action": "merge-into-person",
+      "canonical": "person-whitley-strieber",
+      "canonical_type": "person",
+      "canonical_score": 32.5,
+      "merged": [
+        {
+          "id": "incident-whitley-strieber-266991",
+          "type": "incident"
+        }
+      ]
+    },
+    {
+      "label": "wichita sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "wilbert brockhouse smith",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "person"
+    },
+    {
+      "label": "willits sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "wilmington sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 3,
+      "type": "incident"
+    },
+    {
+      "label": "winchester sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 4,
+      "type": "incident"
+    },
+    {
+      "label": "windsor (canada) sighting (2013)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "winnipeg (canada) sighting (2013)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 6,
+      "type": "incident"
+    },
+    {
+      "label": "winter park sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 4,
+      "type": "incident"
+    },
+    {
+      "label": "world contact day",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "organization"
+    },
+    {
+      "label": "yakima sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "york sighting (2014)",
+      "action": "merge-stubs",
+      "canonical": "incident-global-38933",
+      "canonical_type": "incident",
+      "canonical_score": 6,
+      "merged": [
+        {
+          "id": "incident-global-45431",
+          "type": "incident"
+        }
+      ]
+    },
+    {
+      "label": "yuma sighting (2014)",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "incident"
+    },
+    {
+      "label": "zecharia sitchin",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "person"
+    },
+    {
+      "label": "zimbabwe",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "location"
+    },
+    {
+      "label": "john f. kennedy",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "person"
+    },
+    {
+      "label": "manhattan project",
+      "action": "skip-dual-role-org-program",
+      "node_count": 2
+    },
+    {
+      "label": "malmstrom air force base",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "location"
+    },
+    {
+      "label": "wright-patterson air force base",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "location"
+    },
+    {
+      "label": "steven greer",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "person"
+    },
+    {
+      "label": "randy anderson",
+      "action": "skip-legitimately-distinct",
+      "node_count": 2,
+      "type": "person"
+    }
+  ]
+}

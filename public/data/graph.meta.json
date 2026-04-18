@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-04-18T01:19:56.376Z",
-  "source_generated_at": "2026-04-18T01:17:07.489Z",
-  "total_nodes": 5239,
-  "total_edges": 16381,
+  "generated_at": "2026-04-18T08:18:07.978Z",
+  "source_generated_at": "2026-04-18T08:16:05.280Z",
+  "total_nodes": 5179,
+  "total_edges": 16271,
   "node_type_counts": {
-    "incident": 3478,
+    "incident": 3431,
     "event": 79,
-    "organization": 158,
-    "person": 434,
+    "organization": 147,
+    "person": 432,
     "location": 83,
     "designation": 1,
     "statement": 4,
@@ -22,18 +22,18 @@
     "phenomenon": 6
   },
   "pipeline_source_counts": {
-    "wikipedia-uap": 680,
-    "global-ufo-scrubbed": 2963,
+    "wikipedia-uap": 658,
+    "global-ufo-scrubbed": 2930,
     "nuforc": 2,
     "aaro": 2,
     "uk-national-archives": 1,
     "national-archives-foia": 2,
     "mufon": 1,
-    "transcripts": 1526
+    "transcripts": 1522
   },
   "confidence_counts": {
-    "medium": 3694,
-    "high": 1545
+    "medium": 3638,
+    "high": 1541
   },
   "available_classifications": [
     "CE1",
