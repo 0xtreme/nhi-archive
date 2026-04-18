@@ -1,11 +1,5 @@
 import { useEffect, useMemo, useState } from 'react';
 import type MiniSearch from 'minisearch';
-import { DetailPanel } from './components/DetailPanel';
-import { FilterPanel } from './components/FilterPanel';
-import { GraphView } from './components/GraphView';
-import { MapView } from './components/MapView';
-import { TimelineView } from './components/TimelineView';
-import { fallbackGraph } from './data/fallbackGraph';
 import {
   buildDefaultFilters,
   filterGraph,
@@ -14,36 +8,40 @@ import {
   NODE_TYPE_ORDER,
 } from './lib/archive';
 import { loadChunkedGraph, searchNodeIds } from './lib/chunkedGraph';
-import { StatusBar } from './components-new/StatusBar';
-import { Topbar } from './components-new/Topbar';
 import { CommandPalette } from './components-new/CommandPalette';
-import { GraphView as NewGraphView } from './components-new/graph/GraphView';
-import type { ArchiveGraph, ArchiveNode, Confidence, FilterState, NodeType, ViewMode } from './types';
+import { EntityDetail } from './components-new/EntityDetail';
+import { MapView } from './components-new/MapView';
+import { SourcesView } from './components-new/SourcesView';
+import { StatusBar } from './components-new/StatusBar';
+import { TimelineView } from './components-new/TimelineView';
+import { Topbar } from './components-new/Topbar';
+import { GraphView } from './components-new/graph/GraphView';
+import type {
+  ArchiveGraph,
+  ArchiveNode,
+  Confidence,
+  FilterState,
+  NodeType,
+  ViewMode,
+} from './types';
 
-const normalizedFallbackGraph = normalizeGraphData(fallbackGraph);
+const EMPTY_GRAPH: ArchiveGraph = { generated_at: '', nodes: [], edges: [] };
 
 function toggle<T>(values: T[], value: T, allValues: T[]): T[] {
   if (values.includes(value)) {
     const withoutValue = values.filter((item) => item !== value);
     return withoutValue.length === 0 ? [...allValues] : withoutValue;
   }
-
   return [...values, value];
 }
 
 export default function App() {
-  const [graphData, setGraphData] = useState<ArchiveGraph>(normalizedFallbackGraph);
+  const [graphData, setGraphData] = useState<ArchiveGraph>(EMPTY_GRAPH);
   const [searchIndex, setSearchIndex] = useState<MiniSearch | null>(null);
   const [viewMode, setViewMode] = useState<ViewMode>('graph');
   const [query, setQuery] = useState('');
   const [selectedNodeId, setSelectedNodeId] = useState<string | null>(null);
-  const [filters, setFilters] = useState<FilterState>(() =>
-    buildDefaultFilters(normalizedFallbackGraph.nodes),
-  );
-  // eslint-disable-next-line @typescript-eslint/no-unused-vars
-  const [_isLoadingDataset, setIsLoadingDataset] = useState(true);
-  // eslint-disable-next-line @typescript-eslint/no-unused-vars
-  const [_loadingProgress, setLoadingProgress] = useState(0);
+  const [filters, setFilters] = useState<FilterState>(() => buildDefaultFilters([]));
   const [paletteOpen, setPaletteOpen] = useState(false);
   const [filtersOpen, setFiltersOpen] = useState(false);
   const [breakpoint, setBreakpoint] = useState<'mobile' | 'tablet' | 'desktop'>(() => {
@@ -93,7 +91,6 @@ export default function App() {
       setGraphData(normalized);
       setSearchIndex(index);
       setFilters(buildDefaultFilters(normalized.nodes));
-      setLoadingProgress(100);
     };
 
     const loadMonolithic = async () => {
@@ -103,32 +100,18 @@ export default function App() {
       });
       if (!response.ok) throw new Error(`graph.seed -> ${response.status}`);
       const payload = (await response.json()) as ArchiveGraph;
-      if (isMounted) setLoadingProgress(95);
       applyGraph(payload, null);
     };
 
     const load = async () => {
       try {
-        const { graph, searchIndex: idx } = await loadChunkedGraph(controller.signal, {
-          onProgress: (pct) => {
-            if (isMounted) setLoadingProgress(pct);
-          },
-        });
+        const { graph, searchIndex: idx } = await loadChunkedGraph(controller.signal);
         applyGraph(graph, idx);
       } catch {
-        // Chunked artifacts unavailable (e.g. stale cache, partial deploy).
-        // Fall back to the monolithic seed; if that also fails, the bundled
-        // fallbackGraph already in state stays.
         try {
           await loadMonolithic();
         } catch {
-          // intentionally silent — fallback graph remains in state.
-        }
-      } finally {
-        if (isMounted) {
-          setTimeout(() => {
-            if (isMounted) setIsLoadingDataset(false);
-          }, 220);
+          // fallbackGraph already in state
         }
       }
     };
@@ -143,9 +126,7 @@ export default function App() {
 
   const nodeLookup = useMemo(() => {
     const lookup = new Map<string, ArchiveNode>();
-    for (const node of graphData.nodes) {
-      lookup.set(node.id, node);
-    }
+    for (const node of graphData.nodes) lookup.set(node.id, node);
     return lookup;
   }, [graphData.nodes]);
 
@@ -157,26 +138,8 @@ export default function App() {
     [graphData.nodes],
   );
 
-  const availableTags = useMemo(() => {
-    const tags = new Set<string>();
-    for (const node of graphData.nodes) {
-      if (node.node_type !== 'incident') {
-        continue;
-      }
-      node.tags.forEach((tag) => tags.add(tag));
-    }
-    return Array.from(tags).sort((left, right) => left.localeCompare(right));
-  }, [graphData.nodes]);
-
-  const availableClassifications = useMemo(() => {
-    const classifications = new Set<string>();
-    for (const node of graphData.nodes) {
-      if (node.classification) {
-        classifications.add(node.classification);
-      }
-    }
-    return Array.from(classifications).sort((left, right) => left.localeCompare(right));
-  }, [graphData.nodes]);
+  const minYear = years.length ? Math.min(...years) : 1900;
+  const maxYear = years.length ? Math.max(...years) : new Date().getFullYear();
 
   const availablePipelineSources = useMemo(() => {
     const sources = new Set<string>();
@@ -184,11 +147,8 @@ export default function App() {
       const ps = (node as ArchiveNode & { pipeline_source?: string }).pipeline_source;
       if (typeof ps === 'string' && ps.length > 0) sources.add(ps);
     }
-    return Array.from(sources).sort((left, right) => left.localeCompare(right));
+    return Array.from(sources).sort((l, r) => l.localeCompare(r));
   }, [graphData.nodes]);
-
-  const minYear = years.length ? Math.min(...years) : 1900;
-  const maxYear = years.length ? Math.max(...years) : new Date().getFullYear();
 
   const queryMatchedIds = useMemo(() => {
     if (!searchIndex) return undefined;
@@ -196,89 +156,16 @@ export default function App() {
   }, [searchIndex, query]);
 
   const filteredGraph = useMemo(
-    () => filterGraph(graphData.nodes, graphData.edges, filters, query, queryMatchedIds),
+    () =>
+      filterGraph(graphData.nodes, graphData.edges, filters, query, queryMatchedIds),
     [filters, graphData.edges, graphData.nodes, query, queryMatchedIds],
   );
 
-  const degreeOrderedNodeIds = useMemo(() => {
-    const degree = new Map<string, number>();
-    for (const edge of filteredGraph.edges) {
-      degree.set(edge.from_node_id, (degree.get(edge.from_node_id) ?? 0) + 1);
-      degree.set(edge.to_node_id, (degree.get(edge.to_node_id) ?? 0) + 1);
-    }
+  const selectedNode = selectedNodeId ? (nodeLookup.get(selectedNodeId) ?? null) : null;
 
-    return filteredGraph.nodes
-      .map((node) => ({ id: node.id, degree: degree.get(node.id) ?? 0 }))
-      .sort((left, right) => right.degree - left.degree)
-      .map((entry) => entry.id);
-  }, [filteredGraph.edges, filteredGraph.nodes]);
-
-  const baseGraphSkeletonIds = useMemo(
-    () =>
-      new Set(degreeOrderedNodeIds.slice(0, Math.max(80, Math.min(1000, filters.graphNodeCap)))),
-    [degreeOrderedNodeIds, filters.graphNodeCap],
-  );
-
-  const graphSkeletonIds = useMemo(() => {
-    if (!selectedNodeId || baseGraphSkeletonIds.has(selectedNodeId)) {
-      return baseGraphSkeletonIds;
-    }
-
-    const focused = new Set(baseGraphSkeletonIds);
-    focused.add(selectedNodeId);
-    for (const edge of filteredGraph.edges) {
-      if (edge.from_node_id === selectedNodeId) {
-        focused.add(edge.to_node_id);
-      }
-      if (edge.to_node_id === selectedNodeId) {
-        focused.add(edge.from_node_id);
-      }
-    }
-
-    return focused;
-  }, [baseGraphSkeletonIds, filteredGraph.edges, selectedNodeId]);
-
-  const provisionalGraphNodes = useMemo(
-    () => filteredGraph.nodes.filter((node) => graphSkeletonIds.has(node.id)),
-    [filteredGraph.nodes, graphSkeletonIds],
-  );
-
-  const graphEdges = useMemo(
-    () =>
-      filteredGraph.edges.filter(
-        (edge) => graphSkeletonIds.has(edge.from_node_id) && graphSkeletonIds.has(edge.to_node_id),
-      ),
-    [filteredGraph.edges, graphSkeletonIds],
-  );
-
-  const connectedIds = useMemo(() => {
-    const ids = new Set<string>();
-    for (const edge of graphEdges) {
-      ids.add(edge.from_node_id);
-      ids.add(edge.to_node_id);
-    }
-    return ids;
-  }, [graphEdges]);
-
-  const forceIncludeNodeId = useMemo(() => {
-    if (!selectedNodeId || !graphSkeletonIds.has(selectedNodeId)) {
-      return null;
-    }
-    return connectedIds.has(selectedNodeId) ? null : selectedNodeId;
-  }, [connectedIds, graphSkeletonIds, selectedNodeId]);
-
-  const graphNodes = useMemo(() => {
-    if (forceIncludeNodeId === null) {
-      return provisionalGraphNodes.filter((node) => connectedIds.has(node.id));
-    }
-
-    return provisionalGraphNodes.filter(
-      (node) => connectedIds.has(node.id) || node.id === forceIncludeNodeId,
-    );
-  }, [connectedIds, forceIncludeNodeId, provisionalGraphNodes]);
-
-  const selectedNode = selectedNodeId ? nodeLookup.get(selectedNodeId) ?? null : null;
-
+  const onSelectNode = (id: string) => {
+    setSelectedNodeId(id);
+  };
 
   const onToggleNodeType = (nodeType: NodeType) => {
     setFilters((previous) => ({
@@ -290,25 +177,12 @@ export default function App() {
   const onToggleConfidence = (confidence: Confidence) => {
     setFilters((previous) => ({
       ...previous,
-      confidences: toggle(previous.confidences, confidence, ['high', 'medium', 'low', 'disputed']),
-    }));
-  };
-
-  const onToggleClassification = (classification: string) => {
-    setFilters((previous) => ({
-      ...previous,
-      classifications: previous.classifications.includes(classification)
-        ? previous.classifications.filter((item) => item !== classification)
-        : [...previous.classifications, classification],
-    }));
-  };
-
-  const onToggleTag = (tag: string) => {
-    setFilters((previous) => ({
-      ...previous,
-      tags: previous.tags.includes(tag)
-        ? previous.tags.filter((item) => item !== tag)
-        : [...previous.tags, tag],
+      confidences: toggle(previous.confidences, confidence, [
+        'high',
+        'medium',
+        'low',
+        'disputed',
+      ]),
     }));
   };
 
@@ -321,96 +195,47 @@ export default function App() {
     }));
   };
 
-  const onDateFromChange = (year: number) => {
-    setFilters((previous) => ({
-      ...previous,
-      dateFrom: Math.min(year, previous.dateTo),
-    }));
-  };
-
-  const onDateToChange = (year: number) => {
-    setFilters((previous) => ({
-      ...previous,
-      dateTo: Math.max(year, previous.dateFrom),
-    }));
-  };
-
-  const onResetFilters = () => {
-    setFilters(buildDefaultFilters(graphData.nodes));
-    setQuery('');
-  };
-
   const onGraphNodeCapChange = (graphNodeCap: number) => {
-    setFilters((previous) => ({
-      ...previous,
-      graphNodeCap,
-    }));
+    setFilters((previous) => ({ ...previous, graphNodeCap }));
   };
 
-  const onSelectNode = (nodeId: string) => {
-    setSelectedNodeId(nodeId);
-  };
-
-  const renderLegacyView = () => {
-    if (viewMode === 'map') {
-      return (
-        <MapView
-          nodes={filteredGraph.nodes}
-          selectedNodeId={selectedNodeId}
-          onSelectNode={onSelectNode}
-        />
-      );
-    }
-
-    if (viewMode === 'timeline') {
-      return (
-        <TimelineView
-          nodes={filteredGraph.nodes}
-          selectedNodeId={selectedNodeId}
-          onSelectNode={onSelectNode}
-        />
-      );
-    }
-
-    return (
-      <GraphView
-        nodes={graphNodes}
-        edges={graphEdges}
-        selectedNodeId={selectedNodeId}
-        onSelectNode={onSelectNode}
-      />
-    );
-  };
+  // Suppress unused-var warnings for values we may surface again in a later pass
+  void minYear;
+  void maxYear;
+  void setQuery;
 
   const statusNodesVisible =
-    viewMode === 'graph' ? graphNodes.length : filteredGraph.nodes.length;
+    viewMode === 'graph' ? filteredGraph.nodes.length : filteredGraph.nodes.length;
   const statusNodesTotal = graphData.nodes.length;
 
   return (
-    <div className="app-shell" style={{ paddingBottom: 'calc(0.8rem + var(--nhi-statusbar-h, 22px))' }}>
-      <div
-        className="nhi-classbar"
-        style={{ position: 'fixed', top: 0, left: 0, right: 0, zIndex: 200 }}
-      />
-      <div
-        className="nhi-root"
-        style={{ position: 'fixed', bottom: 0, left: 0, right: 0, zIndex: 200 }}
-      >
-        <StatusBar
-          screen={viewMode.toUpperCase()}
-          nodesLoaded={statusNodesVisible}
-          nodesTotal={statusNodesTotal}
-          selectedId={selectedNodeId}
-        />
-      </div>
+    <div
+      className="nhi-root"
+      style={{
+        position: 'fixed',
+        inset: 0,
+        display: 'flex',
+        flexDirection: 'column',
+        background: 'var(--nhi-ink)',
+        overflow: 'hidden',
+      }}
+    >
       <Topbar
         viewMode={viewMode}
-        onViewChange={setViewMode}
+        onViewChange={(v) => {
+          setViewMode(v);
+          setFiltersOpen(false);
+        }}
         searchIndex={searchIndex}
         nodeLookup={nodeLookup}
         onSelectNode={onSelectNode}
         onOpenCommandPalette={() => setPaletteOpen(true)}
         breakpoint={breakpoint}
+        openFilters={
+          breakpoint === 'mobile' && viewMode === 'graph'
+            ? () => setFiltersOpen(true)
+            : undefined
+        }
       />
 
       <CommandPalette
@@ -422,68 +247,61 @@ export default function App() {
         totalNodes={graphData.nodes.length}
       />
 
-      {viewMode === 'graph' ? (
-        <NewGraphView
-          nodes={filteredGraph.nodes}
+      <div style={{ flex: 1, minHeight: 0, display: 'flex', flexDirection: 'column' }}>
+        {viewMode === 'graph' && (
+          <GraphView
+            nodes={filteredGraph.nodes}
+            edges={filteredGraph.edges}
+            selectedId={selectedNodeId}
+            onSelect={onSelectNode}
+            filters={filters}
+            totalNodes={graphData.nodes.length}
+            availablePipelineSources={availablePipelineSources}
+            onToggleNodeType={onToggleNodeType}
+            onToggleConfidence={onToggleConfidence}
+            onTogglePipelineSource={onTogglePipelineSource}
+            onGraphNodeCapChange={onGraphNodeCapChange}
+            breakpoint={breakpoint}
+            filtersOpen={filtersOpen}
+            setFiltersOpen={setFiltersOpen}
+          />
+        )}
+        {viewMode === 'map' && (
+          <MapView
+            nodes={filteredGraph.nodes}
+            onSelect={onSelectNode}
+            breakpoint={breakpoint}
+          />
+        )}
+        {viewMode === 'timeline' && (
+          <TimelineView
+            nodes={filteredGraph.nodes}
+            edges={filteredGraph.edges}
+            selectedId={selectedNodeId}
+            onSelect={onSelectNode}
+            breakpoint={breakpoint}
+          />
+        )}
+        {viewMode === 'sources' && <SourcesView breakpoint={breakpoint} />}
+      </div>
+
+      {selectedNode && (
+        <EntityDetail
+          node={selectedNode}
           edges={filteredGraph.edges}
-          selectedId={selectedNodeId}
-          onSelect={onSelectNode}
-          filters={filters}
-          totalNodes={graphData.nodes.length}
-          availablePipelineSources={availablePipelineSources}
-          onToggleNodeType={onToggleNodeType}
-          onToggleConfidence={onToggleConfidence}
-          onTogglePipelineSource={onTogglePipelineSource}
-          onGraphNodeCapChange={onGraphNodeCapChange}
+          nodeLookup={nodeLookup}
+          onClose={() => setSelectedNodeId(null)}
+          onNavigate={onSelectNode}
           breakpoint={breakpoint}
-          filtersOpen={filtersOpen}
-          setFiltersOpen={setFiltersOpen}
         />
-      ) : (
-        <>
-          <div className="active-chips" aria-live="polite">
-            {filters.tags.map((tag) => (
-              <button key={tag} onClick={() => onToggleTag(tag)}>
-                tag:{tag}
-              </button>
-            ))}
-            {filters.classifications.map((classification) => (
-              <button key={classification} onClick={() => onToggleClassification(classification)}>
-                class:{classification}
-              </button>
-            ))}
-          </div>
-
-          <main className="layout">
-            <FilterPanel
-              filters={filters}
-              minYear={minYear}
-              maxYear={maxYear}
-              availableTags={availableTags}
-              availableClassifications={availableClassifications}
-              availablePipelineSources={availablePipelineSources}
-              onToggleNodeType={onToggleNodeType}
-              onToggleConfidence={onToggleConfidence}
-              onToggleClassification={onToggleClassification}
-              onToggleTag={onToggleTag}
-              onTogglePipelineSource={onTogglePipelineSource}
-              onDateFromChange={onDateFromChange}
-              onDateToChange={onDateToChange}
-              onGraphNodeCapChange={onGraphNodeCapChange}
-              onReset={onResetFilters}
-            />
-
-            {renderLegacyView()}
-
-            <DetailPanel
-              node={selectedNode}
-              edges={filteredGraph.edges}
-              nodeLookup={nodeLookup}
-              onSelectNode={onSelectNode}
-            />
-          </main>
-        </>
       )}
+
+      <StatusBar
+        screen={viewMode.toUpperCase()}
+        nodesLoaded={statusNodesVisible}
+        nodesTotal={statusNodesTotal}
+        selectedId={selectedNodeId}
+      />
     </div>
   );
 }

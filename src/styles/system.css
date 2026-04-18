@@ -1,10 +1,25 @@
 /* NHI Archive — design system
-   Tokens, fonts, and utility classes for the rebuilt UI.
-   Font stack: Space Grotesk (display) + Inter (body) + JetBrains Mono (data).
-   This file is namespaced under .nhi-root / shared utility class names that
-   the rebuild opts into; legacy components keep using index.css for now. */
+   Tokens, fonts, and utility classes. Single source of CSS truth.
+   Font stack: Space Grotesk (display) + Inter (body) + JetBrains Mono (data). */
 
 @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500;600;700&display=swap');
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  background: #05070d;
+  color: #e7ebf7;
+  font-family: 'Inter', system-ui, -apple-system, Segoe UI, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  overflow: hidden;
+}
+
+#root {
+  height: 100%;
+}
 
 :root {
   /* Base surfaces */

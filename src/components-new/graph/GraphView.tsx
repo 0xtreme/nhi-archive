@@ -2,6 +2,8 @@ import { useState } from 'react';
 import type { ArchiveEdge, ArchiveNode, Confidence, FilterState, NodeType } from '../../types';
 import { FilterPanel } from './FilterPanel';
 import { GraphCanvas } from './GraphCanvas';
+import { MatrixView } from './MatrixView';
+import { RadialFocus } from './RadialFocus';
 
 type GraphSubView = 'canvas' | 'focus' | 'matrix';
 
@@ -52,6 +54,7 @@ export function GraphView({
   setFiltersOpen,
 }: GraphViewProps) {
   const [subView, setSubView] = useState<GraphSubView>('canvas');
+  const [focusId, setFocusId] = useState<string | null>(null);
   const isMobile = breakpoint === 'mobile';
 
   const filterPanelProps = {
@@ -173,44 +176,28 @@ export function GraphView({
             totalNodes={totalNodes}
           />
         )}
-        {subView === 'focus' && <ComingSoon label="RADIAL FOCUS" note="1-hop + 2-hop rings around a center node. Lands in the next commit." />}
-        {subView === 'matrix' && <ComingSoon label="ADJACENCY MATRIX" note="Row/column entity grid with relationship-type-colored cells. Lands in the next commit." />}
-      </div>
-    </div>
-  );
-}
-
-function ComingSoon({ label, note }: { label: string; note: string }) {
-  return (
-    <div
-      style={{
-        flex: 1,
-        display: 'flex',
-        alignItems: 'center',
-        justifyContent: 'center',
-        flexDirection: 'column',
-        gap: 12,
-        padding: 20,
-        background: 'var(--nhi-ink)',
-      }}
-    >
-      <div
-        className="nhi-display"
-        style={{ fontSize: 18, color: 'var(--nhi-fog-2)', letterSpacing: '0.18em' }}
-      >
-        {label}
-      </div>
-      <div
-        className="nhi-mono"
-        style={{
-          fontSize: 11,
-          color: 'var(--nhi-fog)',
-          maxWidth: 440,
-          textAlign: 'center',
-          lineHeight: 1.6,
-        }}
-      >
-        {note}
+        {subView === 'focus' && (
+          <RadialFocus
+            nodes={nodes}
+            edges={edges}
+            focusId={focusId ?? selectedId}
+            setFocusId={setFocusId}
+            onSelect={onSelect}
+            breakpoint={breakpoint}
+          />
+        )}
+        {subView === 'matrix' && (
+          <MatrixView
+            nodes={nodes}
+            edges={edges}
+            onSelect={onSelect}
+            setFocusId={(id) => {
+              setFocusId(id);
+              setSubView('focus');
+            }}
+            breakpoint={breakpoint}
+          />
+        )}
       </div>
     </div>
   );
