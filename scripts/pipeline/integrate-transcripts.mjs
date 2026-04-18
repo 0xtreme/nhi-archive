@@ -16,10 +16,21 @@
  *
  * Transformations:
  *   - Structured source objects -> URL array (with ?t=<timestamp>s deeplink)
+ *     AND preserved separately as sources_rich[] (see Layer 1B below)
  *   - Numeric pipeline_confidence -> confidence enum (high/medium/low)
  *   - Empty summary -> safe placeholder to satisfy min(10) constraint
  *   - New node types (video, program, document, concept, phenomenon, technology,
  *     claim) preserved; existing graph frontend can render or filter them.
+ *
+ * Layer 1B (2026-04-18): preserve rich extraction data alongside the lossy
+ * legacy shape so downstream (search index, future detail panel) can surface
+ * quotes, aliases, and type_specific metadata without re-reading the raw
+ * transcripts/entities/*.json files.
+ *   - sources[]       URL strings, existing shape — consumers unchanged
+ *   - sources_rich[]  { source_type, video_id, timestamp_start, timestamp_end, quote }
+ *   - aliases[]       lifted from type_specific.aliases + also_known_as
+ *   - type_specific   preserved as-is (nested object)
+ *   - canonical_forms preserved (wikidata_id, wikipedia_url, etc.)
  */
 import fs from 'node:fs/promises';
 import path from 'node:path';
@@ -52,6 +63,36 @@ function srcsToUrls(sources) {
   return [...new Set(urls)];
 }
 
+function srcsToRich(sources) {
+  const rich = [];
+  for (const s of sources || []) {
+    if (!s || typeof s !== 'object') continue;
+    const entry = {};
+    if (s.source_type) entry.source_type = s.source_type;
+    if (s.video_id) entry.video_id = s.video_id;
+    if (typeof s.timestamp_start === 'number') entry.timestamp_start = s.timestamp_start;
+    if (typeof s.timestamp_end === 'number') entry.timestamp_end = s.timestamp_end;
+    if (s.quote) entry.quote = s.quote;
+    if (s.url) entry.url = s.url;
+    if (Object.keys(entry).length > 0) rich.push(entry);
+  }
+  return rich;
+}
+
+function extractAliases(typeSpecific) {
+  if (!typeSpecific || typeof typeSpecific !== 'object') return [];
+  const out = new Set();
+  if (Array.isArray(typeSpecific.aliases)) {
+    for (const a of typeSpecific.aliases) {
+      if (typeof a === 'string' && a.trim()) out.add(a.trim());
+    }
+  }
+  if (typeof typeSpecific.also_known_as === 'string' && typeSpecific.also_known_as.trim()) {
+    out.add(typeSpecific.also_known_as.trim());
+  }
+  return Array.from(out);
+}
+
 function padSummary(s) {
   const fallback = 'Extracted from Jesse Michels American Alchemy transcript corpus.';
   if (!s || s.length < 10) return fallback;
@@ -65,6 +106,7 @@ function padLabel(s) {
 
 function transformNode(n) {
   const sources = srcsToUrls(n.sources);
+  const sourcesRich = srcsToRich(n.sources);
   // If no URL sources, synthesize from video_id if we can read it from type_specific
   const vidFromTs = n.type_specific?.source_video_id;
   if (sources.length === 0 && vidFromTs) {
@@ -73,6 +115,7 @@ function transformNode(n) {
   if (sources.length === 0) {
     sources.push('https://www.youtube.com/@JesseMichels');
   }
+  const aliases = extractAliases(n.type_specific);
   const out = {
     id: n.id,
     node_type: n.node_type,
@@ -86,6 +129,14 @@ function transformNode(n) {
     status: n.status || 'auto_ingest',
     crawled_at: n.crawled_at || new Date().toISOString(),
   };
+  if (sourcesRich.length > 0) out.sources_rich = sourcesRich;
+  if (aliases.length > 0) out.aliases = aliases;
+  if (n.type_specific && Object.keys(n.type_specific).length > 0) {
+    out.type_specific = n.type_specific;
+  }
+  if (n.canonical_forms && Object.keys(n.canonical_forms).length > 0) {
+    out.canonical_forms = n.canonical_forms;
+  }
   if (n.lat !== undefined && n.lng !== undefined) {
     out.lat = n.lat;
     out.lng = n.lng;
@@ -109,6 +160,7 @@ function transformNode(n) {
 
 function transformEdge(e) {
   const sources = srcsToUrls(e.sources);
+  const sourcesRich = srcsToRich(e.sources);
   if (sources.length === 0) {
     sources.push('https://www.youtube.com/@JesseMichels');
   }
@@ -120,6 +172,7 @@ function transformEdge(e) {
     confidence: confToEnum(e.confidence ?? 0.7),
     sources,
   };
+  if (sourcesRich.length > 0) out.sources_rich = sourcesRich;
   if (e.properties) out.properties = e.properties;
   return out;
 }
@@ -164,6 +217,27 @@ async function main() {
       const srcSet = new Set([...(ex.sources || []), ...(tn.sources || [])]);
       ex.sources = [...srcSet];
       ex.tags = [...new Set([...(ex.tags || []), 'transcripts'])];
+      // Layer 1B: merge rich transcript fields into the existing node so
+      // the detail panel and search index can cite transcript quotes even
+      // for nodes that originated in a different source.
+      if (tn.sources_rich && tn.sources_rich.length > 0) {
+        const existingRich = ex.sources_rich || [];
+        const dedup = new Map();
+        for (const r of [...existingRich, ...tn.sources_rich]) {
+          const key = `${r.video_id || r.url || ''}:${r.timestamp_start ?? ''}:${(r.quote || '').slice(0, 40)}`;
+          if (!dedup.has(key)) dedup.set(key, r);
+        }
+        ex.sources_rich = Array.from(dedup.values());
+      }
+      if (tn.aliases && tn.aliases.length > 0) {
+        ex.aliases = Array.from(new Set([...(ex.aliases || []), ...tn.aliases]));
+      }
+      if (tn.type_specific) {
+        ex.type_specific = { ...(ex.type_specific || {}), ...tn.type_specific };
+      }
+      if (tn.canonical_forms) {
+        ex.canonical_forms = { ...(ex.canonical_forms || {}), ...tn.canonical_forms };
+      }
       mergedNodes++;
     } else {
       existingById.set(tn.id, tn);

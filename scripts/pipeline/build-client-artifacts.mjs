@@ -98,27 +98,59 @@ async function main() {
   const nodeLines = graph.nodes.map((node) => JSON.stringify(node)).join('\n') + '\n';
   const edgeLines = graph.edges.map((edge) => JSON.stringify(edge)).join('\n') + '\n';
 
-  // Search index. Fields chosen to match the existing `textMatch` surface:
-  // label + summary + tags + location_name + sources. Tags flattened to a
-  // single space-separated string so MiniSearch tokenizes them naturally.
-  // storeFields: only id — we rehydrate full nodes from streamed state.
+  // Layer 2: indexed fields expanded to consume Layer 1B data. Search now
+  // covers aliases, profession/notability tags, video titles, and the full
+  // text of transcript quotes — so users typing any name form or content
+  // fragment actually reach the right node.
+  //
+  // Keep in sync with src/lib/chunkedGraph.ts — loadJSON must be called with
+  // identical options.
   const mini = new MiniSearch({
-    fields: ['label', 'summary', 'tags', 'location_name', 'sources'],
-    storeFields: ['id'],
+    fields: ['label', 'aliases', 'tags', 'summary', 'location_name', 'profession', 'video_title', 'quotes', 'sources'],
+    storeFields: ['id', 'matched_field'],
     searchOptions: {
       prefix: true,
+      fuzzy: 0.15,
       combineWith: 'AND',
-      boost: { label: 3, tags: 2 },
+      boost: { label: 5, aliases: 3, tags: 2, video_title: 2, summary: 1, profession: 1, quotes: 0.5 },
     },
   });
+
+  function quotesFrom(node) {
+    if (!Array.isArray(node.sources_rich)) return '';
+    return node.sources_rich
+      .map((r) => (r && typeof r.quote === 'string' ? r.quote : ''))
+      .filter(Boolean)
+      .join(' ');
+  }
+
+  function aliasesFrom(node) {
+    const ts = node.type_specific || {};
+    const collected = new Set();
+    if (Array.isArray(node.aliases)) for (const a of node.aliases) if (a) collected.add(a);
+    if (Array.isArray(ts.aliases)) for (const a of ts.aliases) if (a) collected.add(a);
+    if (typeof ts.also_known_as === 'string' && ts.also_known_as) collected.add(ts.also_known_as);
+    if (Array.isArray(ts.notability_tags)) for (const t of ts.notability_tags) if (t) collected.add(t);
+    return Array.from(collected).join(' ');
+  }
+
+  function videoTitleFrom(node) {
+    if (node.node_type !== 'video') return '';
+    const ts = node.type_specific || {};
+    return typeof ts.title === 'string' ? ts.title : '';
+  }
 
   mini.addAll(
     graph.nodes.map((node) => ({
       id: node.id,
       label: node.label,
-      summary: node.summary,
+      aliases: aliasesFrom(node),
       tags: Array.isArray(node.tags) ? node.tags.join(' ') : '',
+      summary: node.summary,
       location_name: node.location_name ?? '',
+      profession: typeof node.profession === 'string' ? node.profession : '',
+      video_title: videoTitleFrom(node),
+      quotes: quotesFrom(node),
       sources: Array.isArray(node.sources) ? node.sources.join(' ') : '',
     })),
   );

@@ -16,7 +16,7 @@ import {
   NODE_TYPE_ORDER,
   summarizeLoadedNodes,
 } from './lib/archive';
-import { loadChunkedGraph, searchNodeIds } from './lib/chunkedGraph';
+import { loadChunkedGraph, searchNodeIds, searchNodesRanked } from './lib/chunkedGraph';
 import type { ArchiveGraph, ArchiveNode, Confidence, FilterState, NodeType, ViewMode } from './types';
 
 const normalizedFallbackGraph = normalizeGraphData(fallbackGraph);
@@ -257,10 +257,10 @@ export default function App() {
     if (!trimmed) return [];
 
     if (searchIndex) {
-      const hits = searchIndex.search(trimmed, { prefix: true }).slice(0, 8);
+      const ranked = searchNodesRanked(searchIndex, trimmed, 8);
       const results: ArchiveNode[] = [];
-      for (const hit of hits) {
-        const node = nodeLookup.get(hit.id as string);
+      for (const hit of ranked) {
+        const node = nodeLookup.get(hit.id);
         if (node) results.push(node);
       }
       return results;

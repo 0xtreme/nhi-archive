@@ -4,12 +4,13 @@ import type { ArchiveEdge, ArchiveGraph, ArchiveNode } from '../types';
 // Keep in sync with scripts/pipeline/build-client-artifacts.mjs — the index
 // serialized at build time must be loaded with identical field config.
 const MINISEARCH_OPTIONS = {
-  fields: ['label', 'summary', 'tags', 'location_name', 'sources'],
-  storeFields: ['id'],
+  fields: ['label', 'aliases', 'tags', 'summary', 'location_name', 'profession', 'video_title', 'quotes', 'sources'],
+  storeFields: ['id', 'matched_field'],
   searchOptions: {
     prefix: true,
+    fuzzy: 0.15,
     combineWith: 'AND' as const,
-    boost: { label: 3, tags: 2 },
+    boost: { label: 5, aliases: 3, tags: 2, video_title: 2, summary: 1, profession: 1, quotes: 0.5 },
   },
 };
 
@@ -116,9 +117,83 @@ export async function loadChunkedGraph(
   return { graph, meta, searchIndex };
 }
 
+// Cap the OR-fallback result set. Without a cap a query like "James Allen
+// Hynek" matches "James" across every node mentioning any James, returning
+// hundreds of weak hits and drowning the canonical Hynek node. Score-ranked
+// top N keeps the strong matches and drops the noise.
+const LOOSE_FALLBACK_CAP = 25;
+// Require the loose match to score at least this fraction of the best hit.
+// Stops single-token weak matches (e.g. "Dr." alone) from polluting results.
+const LOOSE_SCORE_FLOOR = 0.35;
+
+function filterLooseResults<T extends { id: unknown; score: number }>(
+  results: T[],
+  cap: number,
+): T[] {
+  if (results.length === 0) return results;
+  const top = results[0].score;
+  const floor = top * LOOSE_SCORE_FLOOR;
+  const kept: T[] = [];
+  for (const r of results) {
+    if (kept.length >= cap) break;
+    if (r.score < floor) break;
+    kept.push(r);
+  }
+  return kept;
+}
+
 export function searchNodeIds(index: MiniSearch, query: string): Set<string> {
   const trimmed = query.trim();
   if (!trimmed) return new Set();
-  const results = index.search(trimmed);
-  return new Set(results.map((r) => r.id as string));
+
+  const strict = index.search(trimmed);
+  if (strict.length >= 3) {
+    return new Set(strict.map((r) => r.id as string));
+  }
+
+  // Fall back to OR when strict returned little — broadens to any-token match.
+  // Capped + score-floored so we surface best matches without dragging in the
+  // long tail of weak single-token hits.
+  const loose = filterLooseResults(
+    index.search(trimmed, { combineWith: 'OR' }),
+    LOOSE_FALLBACK_CAP,
+  );
+  const merged = new Set<string>(strict.map((r) => r.id as string));
+  for (const r of loose) merged.add(r.id as string);
+  return merged;
+}
+
+export function searchNodesRanked(
+  index: MiniSearch,
+  query: string,
+  limit = 8,
+): Array<{ id: string; score: number }> {
+  const trimmed = query.trim();
+  if (!trimmed) return [];
+  const strict = index.search(trimmed).slice(0, limit);
+  if (strict.length >= limit) {
+    return strict.map((r) => ({ id: r.id as string, score: r.score }));
+  }
+
+  const looseAll = index.search(trimmed, { combineWith: 'OR' });
+  const loose = filterLooseResults(looseAll, limit * 2);
+
+  const seen = new Set<string>();
+  const out: Array<{ id: string; score: number }> = [];
+  for (const r of strict) {
+    const id = r.id as string;
+    if (!seen.has(id)) {
+      seen.add(id);
+      out.push({ id, score: r.score });
+    }
+  }
+  for (const r of loose) {
+    if (out.length >= limit) break;
+    const id = r.id as string;
+    if (!seen.has(id)) {
+      seen.add(id);
+      out.push({ id, score: r.score });
+    }
+  }
+  return out;
 }
