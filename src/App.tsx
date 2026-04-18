@@ -15,6 +15,7 @@ import { StatusBar } from './components-new/StatusBar';
 import { TimelineView } from './components-new/TimelineView';
 import { Topbar } from './components-new/Topbar';
 import { SceneExplorer } from './components-new/scene/SceneExplorer';
+import { NetworkView } from './components-new/network/NetworkView';
 import type { ArchiveGraph, ArchiveNode, FilterState, ViewMode } from './types';
 
 const EMPTY_GRAPH: ArchiveGraph = { generated_at: '', nodes: [], edges: [] };
@@ -255,6 +256,7 @@ export default function App() {
             breakpoint={breakpoint}
           />
         )}
+        {viewMode === 'network' && <NetworkView breakpoint={breakpoint} />}
         {viewMode === 'sources' && <SourcesView breakpoint={breakpoint} />}
       </div>
 

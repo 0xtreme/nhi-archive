@@ -25,6 +25,7 @@ const VIEW_OPTIONS: ViewOption[] = [
   { k: 'graph',    label: 'Graph',    glyph: '⎔' },
   { k: 'map',      label: 'Map',      glyph: '◉' },
   { k: 'timeline', label: 'Timeline', glyph: '⎍' },
+  { k: 'network',  label: 'Network',  glyph: '⚮' },
   { k: 'sources',  label: 'Sources',  glyph: '☷' },
 ];
 

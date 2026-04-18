@@ -62,7 +62,7 @@ export interface ArchiveGraph {
   edges: ArchiveEdge[];
 }
 
-export type ViewMode = 'graph' | 'map' | 'timeline' | 'sources';
+export type ViewMode = 'graph' | 'map' | 'timeline' | 'network' | 'sources';
 
 export interface FilterState {
   nodeTypes: NodeType[];

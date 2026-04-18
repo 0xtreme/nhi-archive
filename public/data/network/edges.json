@@ -1,0 +1,39 @@
+{
+  "generated_at": "2026-04-18",
+  "notes": "Hand-authored relationships for the Relationship Map view. Five edge types per NHI-ARCH-RELMAP-001 §6.",
+  "edges": [
+    { "id": "e_grusch_fravor_2023",       "source": "grusch_2023",     "target": "fravor_nimitz",   "type": "testified_together", "label": "House Oversight", "year": 2023 },
+    { "id": "e_grusch_graves_2023",       "source": "grusch_2023",     "target": "graves_fa18",     "type": "testified_together", "label": "House Oversight", "year": 2023 },
+    { "id": "e_fravor_graves_2023",       "source": "fravor_nimitz",   "target": "graves_fa18",     "type": "testified_together", "label": "House Oversight", "year": 2023 },
+    { "id": "e_grusch_house_2023",        "source": "grusch_2023",     "target": "house_oversight", "type": "testified_together", "label": "Jul 26, 2023",    "year": 2023 },
+    { "id": "e_fravor_house_2023",        "source": "fravor_nimitz",   "target": "house_oversight", "type": "testified_together", "label": "Jul 26, 2023",    "year": 2023 },
+    { "id": "e_graves_house_2023",        "source": "graves_fa18",     "target": "house_oversight", "type": "testified_together", "label": "Jul 26, 2023",    "year": 2023 },
+    { "id": "e_elizondo_house_2024",      "source": "elizondo_aatip",  "target": "house_oversight", "type": "testified_together", "label": "Nov 13, 2024",    "year": 2024 },
+    { "id": "e_gallaudet_house_2024",     "source": "gallaudet_navy",  "target": "house_oversight", "type": "testified_together", "label": "Nov 13, 2024",    "year": 2024 },
+    { "id": "e_gallaudet_elizondo_2024",  "source": "gallaudet_navy",  "target": "elizondo_aatip",  "type": "testified_together", "label": "Nov 13, 2024",    "year": 2024 },
+    { "id": "e_bray_house_2022",          "source": "bray_navy",       "target": "house_oversight", "type": "testified_together", "label": "May 17, 2022",    "year": 2022 },
+    { "id": "e_moultrie_house_2022",      "source": "moultrie_dod",    "target": "house_oversight", "type": "testified_together", "label": "May 17, 2022",    "year": 2022 },
+
+    { "id": "e_grusch_uaptf",             "source": "grusch_2023",     "target": "uaptf",           "type": "same_program" },
+    { "id": "e_elizondo_aatip",           "source": "elizondo_aatip",  "target": "aatip",           "type": "same_program" },
+    { "id": "e_kirkpatrick_aaro",         "source": "kirkpatrick_aaro","target": "aaro",            "type": "same_program" },
+    { "id": "e_moultrie_aaro",            "source": "moultrie_dod",    "target": "aaro",            "type": "same_program" },
+    { "id": "e_bray_uaptf",               "source": "bray_navy",       "target": "uaptf",           "type": "same_program" },
+    { "id": "e_aatip_uaptf",              "source": "aatip",           "target": "uaptf",           "type": "succeeded_in_role", "label": "Succeeded by", "year": 2020 },
+    { "id": "e_uaptf_aaro",               "source": "uaptf",           "target": "aaro",            "type": "succeeded_in_role", "label": "Succeeded by", "year": 2022 },
+
+    { "id": "e_mellon_luna",              "source": "mellon_osd",      "target": "luna_house",      "type": "advised_advocated" },
+    { "id": "e_mellon_burchett",          "source": "mellon_osd",      "target": "burchett_house",  "type": "advised_advocated" },
+    { "id": "e_mellon_uaptf",             "source": "mellon_osd",      "target": "uaptf",           "type": "advised_advocated" },
+    { "id": "e_reid_aatip",               "source": "reid_senate",     "target": "aatip",           "type": "advised_advocated", "label": "AATIP funding", "year": 2007 },
+    { "id": "e_reid_elizondo",            "source": "reid_senate",     "target": "elizondo_aatip",  "type": "advised_advocated" },
+    { "id": "e_loeb_grusch",              "source": "loeb_galileo",    "target": "grusch_2023",     "type": "advised_advocated" },
+    { "id": "e_graves_mellon",            "source": "graves_fa18",     "target": "mellon_osd",      "type": "advised_advocated" },
+
+    { "id": "e_kirkpatrick_grusch",       "source": "kirkpatrick_aaro","target": "grusch_2023",     "type": "contradicted",      "label": "AARO Historical Report", "year": 2024 },
+    { "id": "e_kirkpatrick_elizondo",     "source": "kirkpatrick_aaro","target": "elizondo_aatip",  "type": "contradicted",      "label": "AARO Historical Report", "year": 2024 },
+
+    { "id": "e_elizondo_kirkpatrick_role","source": "elizondo_aatip",  "target": "kirkpatrick_aaro","type": "succeeded_in_role", "label": "UAP-program lead lineage" },
+    { "id": "e_moultrie_hegseth_role",    "source": "moultrie_dod",    "target": "hegseth_dod",     "type": "succeeded_in_role", "label": "DOD leadership" }
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "generated_at": "2026-04-18",
+  "notes": "Hand-authored roster for the Relationship Map view. Positions are pixel coordinates on a 1600x1200 virtual canvas. Tier clustering: institutions upper-left, witnesses centre, officials upper-right, advocates bottom-centre. See NHI-ARCH-RELMAP-001 §7.",
+  "nodes": [
+    {
+      "id": "aaro",
+      "name": "AARO",
+      "role": "All-domain Anomaly Resolution Office",
+      "tier": "institution",
+      "position": { "x": 200, "y": 200 },
+      "archiveNodeId": "",
+      "hoverSummary": "Pentagon office established Dec 2021 to investigate anomalous phenomena across domains.",
+      "tags": ["dod", "agency"]
+    },
+    {
+      "id": "house_oversight",
+      "name": "House Oversight",
+      "role": "Congressional oversight committee",
+      "tier": "institution",
+      "position": { "x": 420, "y": 200 },
+      "archiveNodeId": "",
+      "hoverSummary": "Held the July 2023 and November 2024 open UAP hearings.",
+      "tags": ["congress"]
+    },
+    {
+      "id": "aatip",
+      "name": "AATIP",
+      "role": "Advanced Aerospace Threat ID Program",
+      "tier": "institution",
+      "position": { "x": 200, "y": 400 },
+      "archiveNodeId": "",
+      "hoverSummary": "Classified Pentagon program (2007–2012), revealed by the NYT in December 2017.",
+      "tags": ["dod", "classified"]
+    },
+    {
+      "id": "uaptf",
+      "name": "UAPTF",
+      "role": "UAP Task Force",
+      "tier": "institution",
+      "position": { "x": 200, "y": 600 },
+      "archiveNodeId": "",
+      "hoverSummary": "Navy-led successor to AATIP, 2020. Later folded into AARO.",
+      "tags": ["navy"]
+    },
+
+    {
+      "id": "gallaudet_navy",
+      "name": "R. Adm. Tim Gallaudet",
+      "role": "Fmr. Oceanographer of the Navy",
+      "tier": "witness",
+      "position": { "x": 760, "y": 200 },
+      "archiveNodeId": "",
+      "hoverSummary": "Testified November 2024 on submerged UAP (USOs).",
+      "tags": ["navy", "2024_hearing"]
+    },
+    {
+      "id": "elizondo_aatip",
+      "name": "Luis Elizondo",
+      "role": "Fmr. AATIP director",
+      "tier": "witness",
+      "position": { "x": 420, "y": 400 },
+      "archiveNodeId": "",
+      "hoverSummary": "Led AATIP before resigning in protest. Testified November 2024.",
+      "tags": ["dod", "whistleblower", "2024_hearing"]
+    },
+    {
+      "id": "grusch_2023",
+      "name": "David Grusch",
+      "role": "Fmr. NRO rep., UAP Task Force",
+      "tier": "witness",
+      "position": { "x": 760, "y": 420 },
+      "archiveNodeId": "",
+      "hoverSummary": "Sworn testimony, July 2023. Alleges government possession of non-human craft and biologics.",
+      "tags": ["intelligence", "whistleblower", "2023_hearing"]
+    },
+    {
+      "id": "mellon_osd",
+      "name": "Chris Mellon",
+      "role": "Fmr. Dep. Asst. Sec. of Defense",
+      "tier": "witness",
+      "position": { "x": 1000, "y": 540 },
+      "archiveNodeId": "",
+      "hoverSummary": "Principal architect of current disclosure legislation.",
+      "tags": ["dod", "policy"]
+    },
+    {
+      "id": "fravor_nimitz",
+      "name": "Cmdr. David Fravor",
+      "role": "U.S. Navy (Ret.), Nimitz 2004",
+      "tier": "witness",
+      "position": { "x": 560, "y": 560 },
+      "archiveNodeId": "",
+      "hoverSummary": "Commanded the Tic Tac encounter off USS Nimitz, November 2004.",
+      "tags": ["navy", "pilot", "2023_hearing"]
+    },
+    {
+      "id": "graves_fa18",
+      "name": "Lt. Ryan Graves",
+      "role": "Fmr. F/A-18 pilot",
+      "tier": "witness",
+      "position": { "x": 820, "y": 640 },
+      "archiveNodeId": "",
+      "hoverSummary": "Documented regular UAP incursions on ATFLIR, 2014–15. Founded Americans for Safe Aerospace.",
+      "tags": ["navy", "pilot", "2023_hearing"]
+    },
+
+    {
+      "id": "moultrie_dod",
+      "name": "Ronald Moultrie",
+      "role": "Fmr. USD(I&S)",
+      "tier": "official",
+      "position": { "x": 1380, "y": 240 },
+      "archiveNodeId": "",
+      "hoverSummary": "Under Sec. of Defense for Intelligence & Security during the 2022 UAP hearings.",
+      "tags": ["dod"]
+    },
+    {
+      "id": "kirkpatrick_aaro",
+      "name": "Sean Kirkpatrick",
+      "role": "Fmr. director, AARO",
+      "tier": "official",
+      "position": { "x": 1180, "y": 320 },
+      "archiveNodeId": "",
+      "hoverSummary": "Authored the 2024 AARO Historical Record Report. Publicly disputed Grusch's allegations.",
+      "tags": ["dod"]
+    },
+    {
+      "id": "hegseth_dod",
+      "name": "Pete Hegseth",
+      "role": "Secretary of Defense",
+      "tier": "official",
+      "position": { "x": 1380, "y": 440 },
+      "archiveNodeId": "",
+      "hoverSummary": "Current SecDef under the 2026 disclosure directive.",
+      "tags": ["dod"]
+    },
+    {
+      "id": "bray_navy",
+      "name": "Scott Bray",
+      "role": "Fmr. Dep. Dir., Naval Intelligence",
+      "tier": "official",
+      "position": { "x": 1180, "y": 540 },
+      "archiveNodeId": "",
+      "hoverSummary": "Testified at the May 2022 House Intel Subcommittee hearing.",
+      "tags": ["navy", "intelligence"]
+    },
+
+    {
+      "id": "luna_house",
+      "name": "Rep. Anna Paulina Luna",
+      "role": "Co-chair, House UAP task force",
+      "tier": "advocate",
+      "position": { "x": 580, "y": 880 },
+      "archiveNodeId": "",
+      "hoverSummary": "Drives the bipartisan House working group on UAP transparency.",
+      "tags": ["congress", "house"]
+    },
+    {
+      "id": "burchett_house",
+      "name": "Rep. Tim Burchett",
+      "role": "UAP hearings sponsor",
+      "tier": "advocate",
+      "position": { "x": 780, "y": 960 },
+      "archiveNodeId": "",
+      "hoverSummary": "Led the charge for the 2023 open House Oversight hearings.",
+      "tags": ["congress", "house"]
+    },
+    {
+      "id": "reid_senate",
+      "name": "Sen. Harry Reid",
+      "role": "Architect of AATIP funding",
+      "tier": "advocate",
+      "position": { "x": 980, "y": 880 },
+      "archiveNodeId": "",
+      "hoverSummary": "Secured the original AATIP appropriation in 2007. Pushed disclosure until his death.",
+      "tags": ["senate", "history"]
+    },
+    {
+      "id": "loeb_galileo",
+      "name": "Dr. Avi Loeb",
+      "role": "Harvard, Galileo Project",
+      "tier": "advocate",
+      "position": { "x": 1200, "y": 800 },
+      "archiveNodeId": "",
+      "hoverSummary": "Leads the Galileo Project's scientific search for anomalous objects.",
+      "tags": ["academic"]
+    }
+  ]
+}

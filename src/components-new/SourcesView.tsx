@@ -27,8 +27,6 @@ interface SourcesViewProps {
   breakpoint: 'mobile' | 'tablet' | 'desktop';
 }
 
-const FEATURED_ID = 'transcripts';
-
 function TinyBar({ pct, color = 'var(--nhi-sky)' }: { pct: number; color?: string }) {
   return (
     <div style={{ width: '100%', height: 4, background: 'var(--nhi-ink-3)', position: 'relative' }}>
@@ -48,7 +46,7 @@ function SourceCard({ s }: { s: SourceEntry }) {
     <div
       style={{
         border: '1px solid var(--nhi-hairline)',
-        background: 'rgba(14,20,36,0.4)',
+        background: 'var(--nhi-panel-bg-soft)',
         padding: '12px 14px',
         display: 'flex',
         flexDirection: 'column',
@@ -169,9 +167,10 @@ function SourceCard({ s }: { s: SourceEntry }) {
 }
 
 /**
- * Sources view — featured American Alchemy hero + grid of the remaining
- * 11 source feeds. Data loads from public/data/source-list.json (the
- * artifact written by the ingest pipeline).
+ * Sources view — flat grid of all ingest feeds. Data loads from
+ * public/data/source-list.json (the artifact written by the ingest
+ * pipeline). No feed is treated as "featured" — the archive is
+ * multi-source, and transcript channels are just one of the inputs.
  */
 export function SourcesView({ breakpoint }: SourcesViewProps) {
   const isMobile = breakpoint === 'mobile';
@@ -227,8 +226,6 @@ export function SourcesView({ breakpoint }: SourcesViewProps) {
   }
 
   const sources = payload.sources ?? [];
-  const featured = sources.find((s) => s.source_id === FEATURED_ID);
-  const rest = sources.filter((s) => s.source_id !== FEATURED_ID);
 
   return (
     <div
@@ -263,157 +260,13 @@ export function SourcesView({ breakpoint }: SourcesViewProps) {
           }}
         >
           Every record in the archive carries a provenance pointer back to one of the feeds below.
-          Transcripts from{' '}
-          <span style={{ color: 'var(--nhi-violet)' }}>American Alchemy</span> are the primary
-          entity-extraction corpus.
+          No single feed is canonical — the archive is the union.
         </div>
       </div>
 
-      {featured && (
-        <div
-          style={{
-            padding: isMobile ? '16px 14px' : '22px 28px',
-            borderBottom: '1px solid var(--nhi-hairline)',
-          }}
-        >
-          <div className="nhi-micro" style={{ marginBottom: 10 }}>
-            FEATURED CORPUS
-          </div>
-          <div
-            style={{
-              border: '1px solid var(--nhi-hairline-hot)',
-              background:
-                'linear-gradient(135deg, rgba(40,26,60,0.7), rgba(14,20,36,0.6))',
-              padding: isMobile ? '18px 16px' : '22px 24px',
-              position: 'relative',
-              overflow: 'hidden',
-            }}
-          >
-            <svg
-              width="220"
-              height="220"
-              style={{ position: 'absolute', right: -40, top: -40, opacity: 0.3 }}
-              viewBox="0 0 220 220"
-            >
-              <circle cx="110" cy="110" r="40" fill="none" stroke="var(--nhi-violet)" strokeWidth="0.5" />
-              <circle
-                cx="110"
-                cy="110"
-                r="70"
-                fill="none"
-                stroke="var(--nhi-violet)"
-                strokeWidth="0.5"
-                strokeDasharray="3 4"
-              />
-              <circle cx="110" cy="110" r="100" fill="none" stroke="var(--nhi-violet)" strokeWidth="0.5" />
-              <circle cx="110" cy="110" r="8" fill="var(--nhi-violet)" />
-            </svg>
-            <div
-              style={{
-                display: isMobile ? 'block' : 'flex',
-                gap: 24,
-                alignItems: 'flex-start',
-              }}
-            >
-              <div style={{ flex: 1, position: 'relative' }}>
-                <div className="nhi-chip" style={{ color: 'var(--nhi-violet)', marginBottom: 10 }}>
-                  <span className="nhi-dot" /> PRIMARY TRANSCRIPT CORPUS
-                </div>
-                <div
-                  className="nhi-display"
-                  style={{
-                    fontSize: isMobile ? 22 : 28,
-                    color: 'var(--nhi-bone)',
-                    letterSpacing: '0.04em',
-                  }}
-                >
-                  {featured.name}
-                </div>
-                <div
-                  style={{
-                    fontFamily: 'var(--nhi-f-body)',
-                    fontSize: 14,
-                    color: 'var(--nhi-fog-2)',
-                    marginTop: 8,
-                    maxWidth: 560,
-                  }}
-                >
-                  {featured.description ??
-                    'Long-form YouTube interviews. Primary transcript corpus for entity extraction.'}
-                </div>
-                <div
-                  style={{
-                    marginTop: 16,
-                    display: 'grid',
-                    gridTemplateColumns: 'repeat(3, 1fr)',
-                    gap: 16,
-                    maxWidth: 460,
-                  }}
-                >
-                  <div>
-                    <div
-                      className="nhi-mono"
-                      style={{
-                        fontSize: 9,
-                        color: 'var(--nhi-fog)',
-                        letterSpacing: '0.14em',
-                      }}
-                    >
-                      RECORDS
-                    </div>
-                    <div
-                      className="nhi-display"
-                      style={{ fontSize: 24, color: 'var(--nhi-sky)', marginTop: 2 }}
-                    >
-                      {(featured.records_processed ?? 0).toLocaleString()}
-                    </div>
-                  </div>
-                  <div>
-                    <div
-                      className="nhi-mono"
-                      style={{
-                        fontSize: 9,
-                        color: 'var(--nhi-fog)',
-                        letterSpacing: '0.14em',
-                      }}
-                    >
-                      NODES CREATED
-                    </div>
-                    <div
-                      className="nhi-display"
-                      style={{ fontSize: 24, color: 'var(--nhi-violet)', marginTop: 2 }}
-                    >
-                      {(featured.records_auto_ingested ?? 0).toLocaleString()}
-                    </div>
-                  </div>
-                  <div>
-                    <div
-                      className="nhi-mono"
-                      style={{
-                        fontSize: 9,
-                        color: 'var(--nhi-fog)',
-                        letterSpacing: '0.14em',
-                      }}
-                    >
-                      IN QUEUE
-                    </div>
-                    <div
-                      className="nhi-display"
-                      style={{ fontSize: 24, color: 'var(--nhi-amber)', marginTop: 2 }}
-                    >
-                      {(featured.records_review_queue ?? 0).toLocaleString()}
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      )}
-
       <div style={{ padding: isMobile ? '16px 14px' : '22px 28px' }}>
         <div className="nhi-micro" style={{ marginBottom: 10 }}>
-          ALL SOURCES · {rest.length} REMAINING
+          ALL SOURCES · {sources.length}
         </div>
         <div
           style={{
@@ -426,7 +279,7 @@ export function SourcesView({ breakpoint }: SourcesViewProps) {
             gap: 10,
           }}
         >
-          {rest.map((s) => (
+          {sources.map((s) => (
             <SourceCard key={s.source_id} s={s} />
           ))}
         </div>
