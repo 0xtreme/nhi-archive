@@ -95,19 +95,60 @@ export function EntityDetail({
     return grouped;
   }, [edges, node, nodeLookup]);
 
-  const quotesByVideo = useMemo(() => {
-    if (!node) return {};
+  // Collapse the per-video source list.
+  // For hub entities like "Jesse Michels" the extractor often produced
+  // one t=0 generic entry per video ("Mentioned throughout the video"),
+  // so 98 "citations all at 0:00" are not 98 distinct timestamped
+  // quotes — they're one "appears in video" reference per video.
+  // We group by video_id, drop duplicates, and detect the "all zero-
+  // timestamp + generic quote" shape so the UI can render a simpler
+  // "appears in N videos" list instead of a pointless timestamp column.
+  const GENERIC_QUOTE_MARKERS = [
+    'mentioned throughout',
+    'mentioned in the video',
+    'mentioned in this video',
+    'appears in the video',
+    'referenced in video',
+  ];
+  const isGenericQuote = (q: string | undefined): boolean => {
+    if (!q) return true;
+    const lower = q.toLowerCase().trim();
+    if (lower.length < 25) return true;
+    return GENERIC_QUOTE_MARKERS.some((m) => lower.includes(m));
+  };
+
+  const videoGroups = useMemo(() => {
+    if (!node) return [];
     const rich: SourceRichEntry[] =
       (node as ArchiveNode & { sources_rich?: SourceRichEntry[] }).sources_rich ?? [];
-    const grouped: Record<string, SourceRichEntry[]> = {};
+    const byVideo = new Map<string, SourceRichEntry[]>();
     for (const r of rich) {
-      if (!r.quote) continue;
       const key = r.video_id ?? r.url ?? 'unknown';
-      if (!grouped[key]) grouped[key] = [];
-      grouped[key].push(r);
+      if (!byVideo.has(key)) byVideo.set(key, []);
+      byVideo.get(key)!.push(r);
     }
-    return grouped;
+    return Array.from(byVideo.entries()).map(([videoKey, entries]) => {
+      // Dedupe by (timestamp_start, quote-head)
+      const seen = new Set<string>();
+      const unique: SourceRichEntry[] = [];
+      for (const e of entries) {
+        const k = `${e.timestamp_start ?? ''}:${(e.quote ?? '').slice(0, 60)}`;
+        if (seen.has(k)) continue;
+        seen.add(k);
+        unique.push(e);
+      }
+      // Split into "substantive" quotes (real timestamp + real text) and
+      // "just a mention" entries (t=0 + generic/empty quote).
+      const substantive = unique.filter(
+        (e) => (e.timestamp_start ?? 0) > 0 && !isGenericQuote(e.quote),
+      );
+      const mentions = unique.filter((e) => !substantive.includes(e));
+      return { videoKey, substantive, mentions, sampleUrl: unique[0]?.url, sampleTs: unique[0]?.timestamp_start };
+    });
   }, [node]);
+
+  const substantiveCitationCount = videoGroups.reduce((n, g) => n + g.substantive.length, 0);
+  const videoReferenceCount = videoGroups.length;
 
   if (!node) return null;
 
@@ -116,7 +157,6 @@ export function EntityDetail({
   const pageBg = PAGE_BG[node.node_type] ?? PAGE_BG.concept;
   const edgeCount = Object.values(related).reduce((acc, items) => acc + items.length, 0);
   const aliases = (node as ArchiveNode & { aliases?: string[] }).aliases ?? [];
-  const quoteCount = Object.values(quotesByVideo).reduce((acc, qs) => acc + qs.length, 0);
 
   const panelStyle: React.CSSProperties = isMobile
     ? {
@@ -253,9 +293,14 @@ export function EntityDetail({
           <span className="nhi-chip" style={{ color: 'var(--nhi-fog-2)' }}>
             DEGREE · {edgeCount}
           </span>
-          {quoteCount > 0 && (
+          {substantiveCitationCount > 0 && (
             <span className="nhi-chip" style={{ color: 'var(--nhi-violet)' }}>
-              CITATIONS · {quoteCount}
+              QUOTES · {substantiveCitationCount}
+            </span>
+          )}
+          {videoReferenceCount > 0 && (
+            <span className="nhi-chip" style={{ color: 'var(--nhi-sky)' }}>
+              APPEARS IN · {videoReferenceCount} VIDEO{videoReferenceCount === 1 ? '' : 'S'}
             </span>
           )}
         </div>
@@ -283,7 +328,7 @@ export function EntityDetail({
 
         <TypeSpecificPanel node={node} />
 
-        {Object.keys(quotesByVideo).length > 0 && (
+        {videoGroups.length > 0 && (
           <section
             style={{ padding: '16px 22px', borderBottom: '1px solid var(--nhi-hairline)' }}
           >
@@ -295,23 +340,27 @@ export function EntityDetail({
                 marginBottom: 10,
               }}
             >
-              <div className="nhi-micro">QUOTE SOURCES · GROUPED BY VIDEO</div>
+              <div className="nhi-micro">SOURCES · BY VIDEO</div>
               <span
                 className="nhi-mono"
                 style={{ fontSize: 10, color: 'var(--nhi-fog)' }}
               >
-                {quoteCount} CITATIONS
+                {videoGroups.length} VIDEO{videoGroups.length === 1 ? '' : 'S'}
+                {substantiveCitationCount > 0 ? ` · ${substantiveCitationCount} QUOTES` : ''}
               </span>
             </div>
-            {Object.entries(quotesByVideo).map(([videoKey, qs]) => {
-              const videoNode = nodeLookup.get(`video-${videoKey}`);
+            {videoGroups.map((group) => {
+              const videoNode = nodeLookup.get(`video-${group.videoKey}`);
               const channelLabel = videoNode
                 ? 'AMERICAN ALCHEMY'
-                : qs[0]?.source_type?.toUpperCase() ?? 'ARCHIVE';
-              const videoTitle = videoNode?.label ?? (qs[0]?.url ?? videoKey);
+                : 'ARCHIVE';
+              const videoTitle = videoNode?.label ?? group.sampleUrl ?? group.videoKey;
+              const videoUrl = group.videoKey
+                ? `https://www.youtube.com/watch?v=${group.videoKey}`
+                : group.sampleUrl;
               return (
                 <div
-                  key={videoKey}
+                  key={group.videoKey}
                   style={{
                     border: '1px solid var(--nhi-hairline)',
                     marginBottom: 10,
@@ -321,7 +370,7 @@ export function EntityDetail({
                   <div
                     style={{
                       padding: '8px 10px',
-                      borderBottom: '1px solid var(--nhi-hairline)',
+                      borderBottom: group.substantive.length > 0 ? '1px solid var(--nhi-hairline)' : 'none',
                       display: 'flex',
                       gap: 8,
                       alignItems: 'center',
@@ -355,9 +404,22 @@ export function EntityDetail({
                     >
                       {videoTitle}
                     </span>
-                    {qs[0]?.video_id && (
+                    {group.substantive.length === 0 && (
+                      <span
+                        className="nhi-mono"
+                        style={{
+                          fontSize: 9,
+                          letterSpacing: '0.14em',
+                          color: 'var(--nhi-fog)',
+                          marginRight: 4,
+                        }}
+                      >
+                        MENTIONED
+                      </span>
+                    )}
+                    {videoUrl && (
                       <a
-                        href={youtubeDeepLink(qs[0].video_id, qs[0].timestamp_start)}
+                        href={videoUrl}
                         target="_blank"
                         rel="noreferrer"
                         className="nhi-mono"
@@ -374,7 +436,7 @@ export function EntityDetail({
                       </a>
                     )}
                   </div>
-                  {qs.map((q, i) => (
+                  {group.substantive.map((q, i) => (
                     <div
                       key={i}
                       style={{
@@ -510,7 +572,7 @@ export function EntityDetail({
           </section>
         )}
 
-        {node.sources && node.sources.length > 0 && Object.keys(quotesByVideo).length === 0 && (
+        {node.sources && node.sources.length > 0 && videoGroups.length === 0 && (
           <section style={{ padding: '16px 22px' }}>
             <div className="nhi-micro" style={{ marginBottom: 6 }}>
               SOURCES

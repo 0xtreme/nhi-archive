@@ -220,11 +220,51 @@ export function TimelineView({ nodes, edges, selectedId, onSelect, breakpoint }:
     return set;
   }, [selected, edges]);
 
+  // Two passes for labels:
+  //   - "forced" labels always render (hover, selected, related-to-selected)
+  //   - other labels ("all" mode) go through a greedy per-lane collision
+  //     pass so we don't stack six names on top of each other.
+  const labelApproxWidth = (s: string) => Math.min(220, 22 + s.length * 6.2);
+
+  const { forcedLabelIds, ambientLabelIds } = useMemo(() => {
+    const forced = new Set<string>();
+    for (const d of laid) {
+      if (d.id === hoverId) forced.add(d.id);
+      if (d.id === selectedId) forced.add(d.id);
+      if (selected && relatedIds.has(d.id)) forced.add(d.id);
+    }
+    if (labelMode !== 'all') {
+      return { forcedLabelIds: forced, ambientLabelIds: new Set<string>() };
+    }
+    // Per-lane greedy placement: keep a label if its horizontal band
+    // doesn't collide with a previously-kept label at a similar y.
+    const ambient = new Set<string>();
+    const byLane = new Map<number, LaidDot[]>();
+    for (const d of laid) {
+      if (!byLane.has(d.lane)) byLane.set(d.lane, []);
+      byLane.get(d.lane)!.push(d);
+    }
+    for (const [, dots] of byLane) {
+      const sorted = [...dots].sort((a, b) => a.x - b.x);
+      const kept: { x0: number; x1: number; y: number }[] = [];
+      for (const d of sorted) {
+        const half = labelApproxWidth(d.node.label) / 2;
+        const x0 = d.x - half;
+        const x1 = d.x + half;
+        const collides = kept.some(
+          (k) => !(x1 < k.x0 - 4 || x0 > k.x1 + 4) && Math.abs(k.y - d.y) < 16,
+        );
+        if (collides && !forced.has(d.id)) continue;
+        ambient.add(d.id);
+        kept.push({ x0, x1, y: d.y });
+      }
+    }
+    return { forcedLabelIds: forced, ambientLabelIds: ambient };
+  }, [laid, hoverId, selectedId, selected, relatedIds, labelMode]);
+
   const labelVisible = (id: string) => {
-    if (id === hoverId) return true;
-    if (id === selectedId) return true;
-    if (selected && relatedIds.has(id)) return true;
-    if (labelMode === 'all') return true;
+    if (forcedLabelIds.has(id)) return true;
+    if (labelMode === 'all' && ambientLabelIds.has(id)) return true;
     return false;
   };
 
@@ -486,10 +526,10 @@ export function TimelineView({ nodes, edges, selectedId, onSelect, breakpoint }:
                   style={{
                     position: 'absolute',
                     left: d.x,
-                    top: absTop - (isSelected || isHover ? 8 : 6),
+                    top: absTop - (isSelected || isHover ? 10 : 7),
                     transform: 'translateX(-50%)',
-                    width: isSelected || isHover ? 16 : 12,
-                    height: isSelected || isHover ? 16 : 12,
+                    width: isSelected || isHover ? 20 : 14,
+                    height: isSelected || isHover ? 20 : 14,
                     border:
                       '1px solid ' +
                       (isSelected

@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useRef, useState } from 'react';
+import { useEffect, useMemo, useRef, useState, type PointerEvent as ReactPointerEvent } from 'react';
 import { CONFIDENCE_META } from '../../lib/taxonomy';
 import type { ArchiveEdge, ArchiveNode } from '../../types';
 import { NodeGlyph } from '../NodeGlyph';
@@ -33,6 +33,10 @@ export function RadialFocus({
   const [hoverId, setHoverId] = useState<string | null>(null);
   const [t, setT] = useState(1);
   const prevPosRef = useRef<Map<string, { x: number; y: number }>>(new Map());
+  // User-dragged positions override the computed ring positions until reset.
+  const [overrides, setOverrides] = useState<Map<string, { x: number; y: number }>>(
+    () => new Map(),
+  );
 
   const isMobile = breakpoint === 'mobile';
 
@@ -166,6 +170,8 @@ export function RadialFocus({
   }, [effectiveFocusId]);
 
   const getPos = (id: string) => {
+    const override = overrides.get(id);
+    if (override) return override;
     const to = positionsNew.get(id);
     if (!to) return null;
     const from = prevPosRef.current.get(id) ?? { x: cx, y: cy };
@@ -176,6 +182,19 @@ export function RadialFocus({
     prevPosRef.current = new Map(positionsNew);
     setFocusId(id);
     onSelect(id);
+    // Refocus clears the drag overrides — new ring positions would make
+    // the old overrides meaningless anyway.
+    setOverrides(new Map());
+  };
+
+  const resetOverrides = () => setOverrides(new Map());
+
+  const setNodeOverride = (id: string, pos: { x: number; y: number }) => {
+    setOverrides((prev) => {
+      const next = new Map(prev);
+      next.set(id, pos);
+      return next;
+    });
   };
 
   const ready = size.w > 0 && size.h > 0;
@@ -283,6 +302,7 @@ export function RadialFocus({
                 size={isMobile ? 36 : 44}
                 rel={rel}
                 onClick={() => pickFocus(node.id)}
+                onDrag={(pos) => setNodeOverride(node.id, pos)}
                 onHover={setHoverId}
                 hover={hoverId === node.id}
               />
@@ -300,6 +320,7 @@ export function RadialFocus({
                 size={isMobile ? 22 : 26}
                 dim
                 onClick={() => pickFocus(n.id)}
+                onDrag={(pos) => setNodeOverride(n.id, pos)}
                 onHover={setHoverId}
                 hover={hoverId === n.id}
               />
@@ -333,8 +354,29 @@ export function RadialFocus({
               letterSpacing: '0.14em',
             }}
           >
-            CLICK ANY NEIGHBOR TO REFOCUS · ⌘K TO SEARCH
+            CLICK → REFOCUS · DRAG → REARRANGE · ⌘K → SEARCH
           </div>
+
+          {overrides.size > 0 && (
+            <button
+              onClick={resetOverrides}
+              className="nhi-mono"
+              title="Reset drag positions to the computed ring layout"
+              style={{
+                position: 'absolute',
+                right: 10,
+                bottom: 10,
+                fontSize: 10,
+                letterSpacing: '0.14em',
+                padding: '4px 10px',
+                color: 'var(--nhi-sky)',
+                background: 'rgba(125,211,252,0.08)',
+                border: '1px solid var(--nhi-hairline-hot)',
+              }}
+            >
+              ↺ RESET LAYOUT · {overrides.size} MOVED
+            </button>
+          )}
         </>
       )}
     </div>
@@ -352,14 +394,71 @@ interface NodeBubbleProps {
   hover?: boolean;
   onClick?: () => void;
   onHover?: (id: string | null) => void;
+  onDrag?: (pos: { x: number; y: number }) => void;
 }
 
-function NodeBubble({ n, x, y, size, isFocus, dim, rel, hover, onClick, onHover }: NodeBubbleProps) {
+function NodeBubble({ n, x, y, size, isFocus, dim, rel, hover, onClick, onHover, onDrag }: NodeBubbleProps) {
   const label = n.label.length > 28 ? n.label.slice(0, 27) + '…' : n.label;
   void CONFIDENCE_META;
+  const dragRef = useRef<{
+    startClientX: number;
+    startClientY: number;
+    startX: number;
+    startY: number;
+    moved: boolean;
+    pointerId: number;
+  } | null>(null);
+
+  const handlePointerDown = (e: ReactPointerEvent<HTMLDivElement>) => {
+    if (!onDrag || isFocus) return;
+    // Only primary button; ignore right-click / middle-click
+    if (e.button !== 0) return;
+    dragRef.current = {
+      startClientX: e.clientX,
+      startClientY: e.clientY,
+      startX: x,
+      startY: y,
+      moved: false,
+      pointerId: e.pointerId,
+    };
+    (e.currentTarget as HTMLDivElement).setPointerCapture(e.pointerId);
+  };
+
+  const handlePointerMove = (e: ReactPointerEvent<HTMLDivElement>) => {
+    const d = dragRef.current;
+    if (!d || !onDrag) return;
+    const dx = e.clientX - d.startClientX;
+    const dy = e.clientY - d.startClientY;
+    if (!d.moved && Math.hypot(dx, dy) < 4) return;
+    d.moved = true;
+    onDrag({ x: d.startX + dx, y: d.startY + dy });
+  };
+
+  const handlePointerUp = (e: ReactPointerEvent<HTMLDivElement>) => {
+    const d = dragRef.current;
+    if (!d) return;
+    try {
+      (e.currentTarget as HTMLDivElement).releasePointerCapture(d.pointerId);
+    } catch {
+      // pointer already released — ignore
+    }
+    const wasDrag = d.moved;
+    dragRef.current = null;
+    if (!wasDrag && onClick) onClick();
+  };
+
   return (
     <div
-      onClick={onClick}
+      onPointerDown={handlePointerDown}
+      onPointerMove={handlePointerMove}
+      onPointerUp={handlePointerUp}
+      onPointerCancel={() => (dragRef.current = null)}
+      onClick={(e) => {
+        // If onDrag is wired, pointerup handles click via wasDrag check.
+        // Without onDrag (e.g. focus node), fall back to a plain click.
+        if (!onDrag && onClick) onClick();
+        e.preventDefault();
+      }}
       onMouseEnter={() => onHover && onHover(n.id)}
       onMouseLeave={() => onHover && onHover(null)}
       style={{
@@ -371,8 +470,9 @@ function NodeBubble({ n, x, y, size, isFocus, dim, rel, hover, onClick, onHover 
         display: 'flex',
         alignItems: 'center',
         justifyContent: 'center',
-        cursor: 'pointer',
+        cursor: onDrag && !isFocus ? 'grab' : 'pointer',
         userSelect: 'none',
+        touchAction: 'none',
         transition: 'transform 120ms ease',
         transform: hover ? 'scale(1.08)' : 'scale(1)',
         zIndex: isFocus ? 20 : hover ? 15 : dim ? 5 : 10,

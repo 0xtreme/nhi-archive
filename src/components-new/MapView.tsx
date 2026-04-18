@@ -18,16 +18,26 @@ interface MapViewProps {
   breakpoint: 'mobile' | 'tablet' | 'desktop';
 }
 
-const HYNEK_COLORS: Record<string, string> = {
-  NL: '#60a5fa',
-  DD: '#a78bfa',
-  RV: '#22d3ee',
-  CE1: '#7dd3fc',
-  CE2: '#38bdf8',
-  CE3: '#c4b5fd',
-  CE4: '#f472b6',
-  CE5: '#fda4af',
+interface HynekLabel {
+  color: string;
+  short: string;
+  long: string;
+}
+
+const HYNEK_LABELS: Record<string, HynekLabel> = {
+  NL:  { color: '#60a5fa', short: 'Nocturnal light',      long: 'Anomalous light in the night sky' },
+  DD:  { color: '#a78bfa', short: 'Daylight disc',        long: 'Disc-shaped craft in daylight' },
+  RV:  { color: '#22d3ee', short: 'Radar / visual',       long: 'Confirmed by radar and visual witness' },
+  CE1: { color: '#7dd3fc', short: 'Close encounter I',    long: 'Sighting within 500 ft · no physical interaction' },
+  CE2: { color: '#38bdf8', short: 'Close encounter II',   long: 'Physical evidence · equipment or biological effects' },
+  CE3: { color: '#c4b5fd', short: 'Close encounter III',  long: 'Occupants observed' },
+  CE4: { color: '#f472b6', short: 'Close encounter IV',   long: 'Abduction account' },
+  CE5: { color: '#fda4af', short: 'Close encounter V',    long: 'Human-initiated contact' },
 };
+
+const HYNEK_COLORS: Record<string, string> = Object.fromEntries(
+  Object.entries(HYNEK_LABELS).map(([k, v]) => [k, v.color]),
+);
 
 function classifyHynek(n: ArchiveNode): string {
   if (n.classification && HYNEK_COLORS[n.classification]) return n.classification;
@@ -158,8 +168,8 @@ export function MapView({ nodes, onSelect, breakpoint }: MapViewProps) {
   }, [cluster, clusterZoom]);
 
   const hynekLegendEntries = isMobile
-    ? Object.entries(HYNEK_COLORS).slice(0, 4)
-    : Object.entries(HYNEK_COLORS);
+    ? Object.entries(HYNEK_LABELS).slice(0, 4)
+    : Object.entries(HYNEK_LABELS);
 
   return (
     <div
@@ -398,13 +408,18 @@ export function MapView({ nodes, onSelect, breakpoint }: MapViewProps) {
             flexWrap: 'wrap',
           }}
         >
-          <div className="nhi-panel" style={{ padding: '6px 10px' }}>
-            <span className="nhi-micro">HYNEK CLASSIFICATION</span>
+          <div
+            className="nhi-panel"
+            style={{ padding: '6px 10px' }}
+            title="Hynek's 8-level classification of UFO reports — from distant lights to abduction claims."
+          >
+            <span className="nhi-micro">HYNEK SCALE</span>
           </div>
-          {hynekLegendEntries.map(([code, color]) => (
+          {hynekLegendEntries.map(([code, meta]) => (
             <div
               key={code}
               className="nhi-panel"
+              title={meta.long}
               style={{
                 padding: '4px 8px',
                 display: 'flex',
@@ -417,8 +432,8 @@ export function MapView({ nodes, onSelect, breakpoint }: MapViewProps) {
                   width: 8,
                   height: 8,
                   borderRadius: '50%',
-                  background: color,
-                  boxShadow: `0 0 6px ${color}`,
+                  background: meta.color,
+                  boxShadow: `0 0 6px ${meta.color}`,
                 }}
               />
               <span
@@ -431,6 +446,19 @@ export function MapView({ nodes, onSelect, breakpoint }: MapViewProps) {
               >
                 {code}
               </span>
+              {!isMobile && (
+                <span
+                  className="nhi-mono"
+                  style={{
+                    fontSize: 9,
+                    color: 'var(--nhi-fog)',
+                    letterSpacing: '0.05em',
+                    textTransform: 'none',
+                  }}
+                >
+                  {meta.short}
+                </span>
+              )}
             </div>
           ))}
           <div

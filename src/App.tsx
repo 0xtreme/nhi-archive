@@ -35,6 +35,8 @@ export default function App() {
   const [selectedNodeId, setSelectedNodeId] = useState<string | null>(null);
   const [filters, setFilters] = useState<FilterState>(() => buildDefaultFilters([]));
   const [paletteOpen, setPaletteOpen] = useState(false);
+  const [pendingSceneSeed, setPendingSceneSeed] = useState<string | null>(null);
+  const [sceneResetToken, setSceneResetToken] = useState(0);
   const [breakpoint, setBreakpoint] = useState<'mobile' | 'tablet' | 'desktop'>(() => {
     if (typeof window === 'undefined') return 'desktop';
     if (window.innerWidth < 768) return 'mobile';
@@ -150,6 +152,24 @@ export default function App() {
     setSelectedNodeId(id);
   };
 
+  // Topbar search result / CommandPalette pick — switch to the Graph view
+  // and ask the Scene Explorer to open an ego scene seeded on this node.
+  // The EntityDetail slide-over also opens because selectedNodeId is set,
+  // but now the actual graph contextualises the entity instead of being a
+  // sidebar-only surprise.
+  const onSearchPick = (id: string) => {
+    setSelectedNodeId(id);
+    setViewMode('graph');
+    setPendingSceneSeed(id);
+  };
+
+  const onBrandClick = () => {
+    setViewMode('graph');
+    setSelectedNodeId(null);
+    setPendingSceneSeed(null);
+    setSceneResetToken((n) => n + 1);
+  };
+
   // Suppress unused-var warnings for values we may surface again in a later pass
   void minYear;
   void maxYear;
@@ -177,15 +197,16 @@ export default function App() {
         onViewChange={setViewMode}
         searchIndex={searchIndex}
         nodeLookup={nodeLookup}
-        onSelectNode={onSelectNode}
+        onSelectNode={onSearchPick}
         onOpenCommandPalette={() => setPaletteOpen(true)}
+        onBrandClick={onBrandClick}
         breakpoint={breakpoint}
       />
 
       <CommandPalette
         open={paletteOpen}
         onClose={() => setPaletteOpen(false)}
-        onPick={(n) => onSelectNode(n.id)}
+        onPick={(n) => onSearchPick(n.id)}
         searchIndex={searchIndex}
         nodeLookup={nodeLookup}
         totalNodes={graphData.nodes.length}
@@ -197,6 +218,9 @@ export default function App() {
             onSelectEntity={onSelectNode}
             selectedId={selectedNodeId}
             breakpoint={breakpoint}
+            pendingSeedId={pendingSceneSeed}
+            onPendingSeedConsumed={() => setPendingSceneSeed(null)}
+            resetToHubToken={sceneResetToken}
           />
         )}
         {viewMode === 'map' && (

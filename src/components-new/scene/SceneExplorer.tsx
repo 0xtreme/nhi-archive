@@ -11,6 +11,14 @@ interface SceneExplorerProps {
   onSelectEntity: (id: string) => void;
   selectedId: string | null;
   breakpoint: 'mobile' | 'tablet' | 'desktop';
+  // When this changes to a non-null id, open an ego scene seeded on
+  // that node. Lets the topbar search/command-palette drive the scene
+  // without the scene state living up in App.
+  pendingSeedId?: string | null;
+  onPendingSeedConsumed?: () => void;
+  // When this counter increments, snap back to the landing hub (brand
+  // click home action).
+  resetToHubToken?: number;
 }
 
 type Mode = 'loading' | 'hub' | 'scene' | 'error';
@@ -40,7 +48,14 @@ interface SceneState {
  *   /api/ego/:id                 (on search-result pick)
  *   /api/expand/:id              (on double-click in scene)
  */
-export function SceneExplorer({ onSelectEntity, selectedId, breakpoint }: SceneExplorerProps) {
+export function SceneExplorer({
+  onSelectEntity,
+  selectedId,
+  breakpoint,
+  pendingSeedId,
+  onPendingSeedConsumed,
+  resetToHubToken,
+}: SceneExplorerProps) {
   const [mode, setMode] = useState<Mode>('loading');
   const [meta, setMeta] = useState<ArchiveMeta | null>(null);
   const [perspectives, setPerspectives] = useState<Perspective[]>([]);
@@ -69,6 +84,22 @@ export function SceneExplorer({ onSelectEntity, selectedId, breakpoint }: SceneE
     })();
     return () => ctrl.abort();
   }, []);
+
+  // Externally requested scene seed (from topbar search / command palette)
+  useEffect(() => {
+    if (!pendingSeedId || mode === 'loading' || mode === 'error') return;
+    pickEntity(pendingSeedId);
+    onPendingSeedConsumed?.();
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [pendingSeedId, mode]);
+
+  // Brand-click reset → back to the hub
+  useEffect(() => {
+    if (resetToHubToken == null) return;
+    if (resetToHubToken === 0) return;
+    setScene(null);
+    setMode('hub');
+  }, [resetToHubToken]);
 
   const applyScenePayload = (
     title: string,
@@ -127,6 +158,7 @@ export function SceneExplorer({ onSelectEntity, selectedId, breakpoint }: SceneE
       applyScenePayload(entity.label, `ego · depth 1 · ${payload.nodes.length} nodes`, payload, [
         { id, label: entity.label },
       ]);
+      setFocalId(id);
     } catch (err) {
       setApiError(err instanceof Error ? err.message : 'failed to load entity');
     } finally {

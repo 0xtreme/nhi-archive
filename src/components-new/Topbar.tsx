@@ -12,6 +12,7 @@ interface TopbarProps {
   nodeLookup: Map<string, ArchiveNode>;
   onSelectNode: (id: string) => void;
   onOpenCommandPalette: () => void;
+  onBrandClick: () => void;
   breakpoint: 'mobile' | 'tablet' | 'desktop';
   openFilters?: () => void;
 }
@@ -37,6 +38,7 @@ export function Topbar({
   nodeLookup,
   onSelectNode,
   onOpenCommandPalette,
+  onBrandClick,
   breakpoint,
   openFilters,
 }: TopbarProps) {
@@ -78,12 +80,20 @@ export function Topbar({
         flexShrink: 0,
       }}
     >
-      <div
+      <button
+        onClick={onBrandClick}
+        title="Back to home"
+        aria-label="Back to home"
         style={{
           display: 'flex',
           alignItems: 'center',
           gap: 8,
           minWidth: isMobile ? 0 : 210,
+          cursor: 'pointer',
+          padding: 0,
+          background: 'transparent',
+          border: 'none',
+          textAlign: 'left',
         }}
       >
         <svg width={22} height={22} viewBox="0 0 22 22" style={{ flexShrink: 0 }}>
@@ -119,7 +129,7 @@ export function Topbar({
             </div>
           </div>
         )}
-      </div>
+      </button>
 
       {isMobile && openFilters && (
         <button
