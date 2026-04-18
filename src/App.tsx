@@ -5,7 +5,6 @@ import {
   filterGraph,
   getYear,
   normalizeGraphData,
-  NODE_TYPE_ORDER,
 } from './lib/archive';
 import { loadChunkedGraph, searchNodeIds } from './lib/chunkedGraph';
 import { CommandPalette } from './components-new/CommandPalette';
@@ -15,15 +14,8 @@ import { SourcesView } from './components-new/SourcesView';
 import { StatusBar } from './components-new/StatusBar';
 import { TimelineView } from './components-new/TimelineView';
 import { Topbar } from './components-new/Topbar';
-import { GraphView } from './components-new/graph/GraphView';
-import type {
-  ArchiveGraph,
-  ArchiveNode,
-  Confidence,
-  FilterState,
-  NodeType,
-  ViewMode,
-} from './types';
+import { SceneExplorer } from './components-new/scene/SceneExplorer';
+import type { ArchiveGraph, ArchiveNode, FilterState, ViewMode } from './types';
 
 const EMPTY_GRAPH: ArchiveGraph = { generated_at: '', nodes: [], edges: [] };
 
@@ -43,7 +35,6 @@ export default function App() {
   const [selectedNodeId, setSelectedNodeId] = useState<string | null>(null);
   const [filters, setFilters] = useState<FilterState>(() => buildDefaultFilters([]));
   const [paletteOpen, setPaletteOpen] = useState(false);
-  const [filtersOpen, setFiltersOpen] = useState(false);
   const [breakpoint, setBreakpoint] = useState<'mobile' | 'tablet' | 'desktop'>(() => {
     if (typeof window === 'undefined') return 'desktop';
     if (window.innerWidth < 768) return 'mobile';
@@ -142,15 +133,6 @@ export default function App() {
   const minYear = years.length ? Math.min(...years) : 1900;
   const maxYear = years.length ? Math.max(...years) : new Date().getFullYear();
 
-  const availablePipelineSources = useMemo(() => {
-    const sources = new Set<string>();
-    for (const node of graphData.nodes) {
-      const ps = (node as ArchiveNode & { pipeline_source?: string }).pipeline_source;
-      if (typeof ps === 'string' && ps.length > 0) sources.add(ps);
-    }
-    return Array.from(sources).sort((l, r) => l.localeCompare(r));
-  }, [graphData.nodes]);
-
   const queryMatchedIds = useMemo(() => {
     if (!searchIndex) return undefined;
     return searchNodeIds(searchIndex, query);
@@ -168,45 +150,14 @@ export default function App() {
     setSelectedNodeId(id);
   };
 
-  const onToggleNodeType = (nodeType: NodeType) => {
-    setFilters((previous) => ({
-      ...previous,
-      nodeTypes: toggle(previous.nodeTypes, nodeType, NODE_TYPE_ORDER),
-    }));
-  };
-
-  const onToggleConfidence = (confidence: Confidence) => {
-    setFilters((previous) => ({
-      ...previous,
-      confidences: toggle(previous.confidences, confidence, [
-        'high',
-        'medium',
-        'low',
-        'disputed',
-      ]),
-    }));
-  };
-
-  const onTogglePipelineSource = (src: string) => {
-    setFilters((previous) => ({
-      ...previous,
-      pipelineSources: previous.pipelineSources.includes(src)
-        ? previous.pipelineSources.filter((item) => item !== src)
-        : [...previous.pipelineSources, src],
-    }));
-  };
-
-  const onGraphNodeCapChange = (graphNodeCap: number) => {
-    setFilters((previous) => ({ ...previous, graphNodeCap }));
-  };
-
   // Suppress unused-var warnings for values we may surface again in a later pass
   void minYear;
   void maxYear;
   void setQuery;
+  void setFilters;
+  void toggle;
 
-  const statusNodesVisible =
-    viewMode === 'graph' ? filteredGraph.nodes.length : filteredGraph.nodes.length;
+  const statusNodesVisible = filteredGraph.nodes.length;
   const statusNodesTotal = graphData.nodes.length;
 
   return (
@@ -223,20 +174,12 @@ export default function App() {
     >
       <Topbar
         viewMode={viewMode}
-        onViewChange={(v) => {
-          setViewMode(v);
-          setFiltersOpen(false);
-        }}
+        onViewChange={setViewMode}
         searchIndex={searchIndex}
         nodeLookup={nodeLookup}
         onSelectNode={onSelectNode}
         onOpenCommandPalette={() => setPaletteOpen(true)}
         breakpoint={breakpoint}
-        openFilters={
-          breakpoint === 'mobile' && viewMode === 'graph'
-            ? () => setFiltersOpen(true)
-            : undefined
-        }
       />
 
       <CommandPalette
@@ -250,22 +193,7 @@ export default function App() {
 
       <div style={{ flex: 1, minHeight: 0, display: 'flex', flexDirection: 'column' }}>
         {viewMode === 'graph' && (
-          <GraphView
-            nodes={filteredGraph.nodes}
-            edges={filteredGraph.edges}
-            selectedId={selectedNodeId}
-            onSelect={onSelectNode}
-            filters={filters}
-            totalNodes={graphData.nodes.length}
-            availablePipelineSources={availablePipelineSources}
-            onToggleNodeType={onToggleNodeType}
-            onToggleConfidence={onToggleConfidence}
-            onTogglePipelineSource={onTogglePipelineSource}
-            onGraphNodeCapChange={onGraphNodeCapChange}
-            breakpoint={breakpoint}
-            filtersOpen={filtersOpen}
-            setFiltersOpen={setFiltersOpen}
-          />
+          <SceneExplorer onSelectEntity={onSelectNode} selectedId={selectedNodeId} />
         )}
         {viewMode === 'map' && (
           <MapView
