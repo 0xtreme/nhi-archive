@@ -17,6 +17,7 @@ import {
   summarizeLoadedNodes,
 } from './lib/archive';
 import { loadChunkedGraph, searchNodeIds, searchNodesRanked } from './lib/chunkedGraph';
+import { StatusBar } from './components-new/StatusBar';
 import type { ArchiveGraph, ArchiveNode, Confidence, FilterState, NodeType, ViewMode } from './types';
 
 const normalizedFallbackGraph = normalizeGraphData(fallbackGraph);
@@ -416,8 +417,27 @@ export default function App() {
     );
   };
 
+  const statusNodesVisible =
+    viewMode === 'graph' ? graphNodes.length : filteredGraph.nodes.length;
+  const statusNodesTotal = graphData.nodes.length;
+
   return (
-    <div className="app-shell">
+    <div className="app-shell" style={{ paddingBottom: 'calc(0.8rem + var(--nhi-statusbar-h, 22px))' }}>
+      <div
+        className="nhi-classbar"
+        style={{ position: 'fixed', top: 0, left: 0, right: 0, zIndex: 200 }}
+      />
+      <div
+        className="nhi-root"
+        style={{ position: 'fixed', bottom: 0, left: 0, right: 0, zIndex: 200 }}
+      >
+        <StatusBar
+          screen={viewMode.toUpperCase()}
+          nodesLoaded={statusNodesVisible}
+          nodesTotal={statusNodesTotal}
+          selectedId={selectedNodeId}
+        />
+      </div>
       <TopBar
         viewMode={viewMode}
         onViewChange={setViewMode}

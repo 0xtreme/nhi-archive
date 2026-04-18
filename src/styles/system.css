@@ -1,0 +1,255 @@
+/* NHI Archive — design system
+   Tokens, fonts, and utility classes for the rebuilt UI.
+   Font stack: Space Grotesk (display) + Inter (body) + JetBrains Mono (data).
+   This file is namespaced under .nhi-root / shared utility class names that
+   the rebuild opts into; legacy components keep using index.css for now. */
+
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500;600;700&display=swap');
+
+:root {
+  /* Base surfaces */
+  --nhi-ink:        #05070d;
+  --nhi-ink-1:      #0a0e1a;
+  --nhi-ink-2:      #0e1424;
+  --nhi-ink-3:      #131b31;
+  --nhi-ink-4:      #1a2340;
+
+  /* Borders / dividers */
+  --nhi-hairline:     rgba(148, 163, 216, 0.12);
+  --nhi-hairline-2:   rgba(148, 163, 216, 0.22);
+  --nhi-hairline-hot: rgba(199, 210, 254, 0.42);
+
+  /* Text */
+  --nhi-fog:    #9aa4c7;
+  --nhi-fog-2:  #c7cfe6;
+  --nhi-bone:   #e7ebf7;
+
+  /* Accents — pastel set */
+  --nhi-sky:    #7dd3fc;
+  --nhi-violet: #c4b5fd;
+  --nhi-rose:   #fda4af;
+  --nhi-amber:  #fbbf24;
+  --nhi-lime:   #86efac;
+
+  /* Semantic confidence */
+  --nhi-confirmed:  var(--nhi-sky);
+  --nhi-probable:   var(--nhi-violet);
+  --nhi-unverified: var(--nhi-rose);
+  --nhi-disputed:   var(--nhi-amber);
+
+  /* Fonts */
+  --nhi-f-display: 'Space Grotesk', system-ui, -apple-system, Segoe UI, sans-serif;
+  --nhi-f-body:    'Inter', system-ui, -apple-system, Segoe UI, sans-serif;
+  --nhi-f-mono:    'JetBrains Mono', ui-monospace, Menlo, Consolas, monospace;
+
+  /* Motion */
+  --nhi-ease: cubic-bezier(.2, .7, .2, 1);
+
+  /* Radii */
+  --nhi-r-s: 2px;
+  --nhi-r-m: 4px;
+  --nhi-r-l: 8px;
+
+  /* Chrome sizes */
+  --nhi-topbar-h:    54px;
+  --nhi-statusbar-h: 22px;
+}
+
+/* Root container — the rebuild mounts inside .nhi-root so legacy CSS
+   can't touch it. */
+.nhi-root {
+  font-family: var(--nhi-f-body);
+  color: var(--nhi-bone);
+  background: var(--nhi-ink);
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+.nhi-root *,
+.nhi-root *::before,
+.nhi-root *::after { box-sizing: border-box; }
+
+.nhi-root button {
+  font-family: inherit;
+  color: inherit;
+  cursor: pointer;
+  background: none;
+  border: none;
+  padding: 0;
+}
+
+.nhi-root input,
+.nhi-root select,
+.nhi-root textarea {
+  font-family: inherit;
+  color: inherit;
+}
+
+/* Typography utilities */
+.nhi-root .nhi-mono    { font-family: var(--nhi-f-mono); letter-spacing: 0.02em; }
+.nhi-root .nhi-display { font-family: var(--nhi-f-display); letter-spacing: 0.01em; font-weight: 600; }
+.nhi-root .nhi-micro   { font-family: var(--nhi-f-mono); font-size: 10px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--nhi-fog); }
+.nhi-root .nhi-nowrap  { white-space: nowrap; }
+
+/* Scrollbars */
+.nhi-root .nhi-scroll::-webkit-scrollbar         { width: 8px; height: 8px; }
+.nhi-root .nhi-scroll::-webkit-scrollbar-track   { background: transparent; }
+.nhi-root .nhi-scroll::-webkit-scrollbar-thumb   { background: rgba(199, 210, 254, 0.12); border-radius: 4px; }
+.nhi-root .nhi-scroll::-webkit-scrollbar-thumb:hover { background: rgba(199, 210, 254, 0.22); }
+
+/* Classification bar — 2px animated top stripe */
+.nhi-classbar {
+  height: 2px;
+  background: repeating-linear-gradient(
+    90deg,
+    var(--nhi-sky) 0 12px,
+    transparent 12px 18px,
+    var(--nhi-violet) 18px 30px,
+    transparent 30px 36px
+  );
+  opacity: 0.65;
+}
+
+/* Noise overlay — very subtle */
+.nhi-noise {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  opacity: 0.03;
+  mix-blend-mode: screen;
+  background-image:
+    radial-gradient(rgba(255, 255, 255, 0.6) 1px, transparent 1px),
+    radial-gradient(rgba(255, 255, 255, 0.4) 1px, transparent 1px);
+  background-size: 3px 3px, 7px 7px;
+  background-position: 0 0, 1px 2px;
+}
+
+/* Observatory grid backdrop */
+.nhi-grid-bg {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  background-image:
+    linear-gradient(to right, rgba(148, 163, 216, 0.05) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(148, 163, 216, 0.05) 1px, transparent 1px);
+  background-size: 48px 48px;
+}
+
+/* Panel */
+.nhi-root .nhi-panel {
+  background: linear-gradient(180deg, rgba(14, 20, 36, 0.82) 0%, rgba(10, 14, 26, 0.88) 100%);
+  border: 1px solid var(--nhi-hairline);
+  backdrop-filter: blur(8px);
+}
+
+/* Chip */
+.nhi-root .nhi-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 3px 8px;
+  border: 1px solid var(--nhi-hairline-2);
+  border-radius: var(--nhi-r-s);
+  font-family: var(--nhi-f-mono);
+  font-size: 10px;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--nhi-fog-2);
+  background: rgba(20, 26, 46, 0.6);
+}
+.nhi-root .nhi-chip .nhi-dot {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: currentColor;
+}
+
+/* Classification stamp */
+.nhi-root .nhi-stamp {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 4px 10px;
+  border: 1px solid currentColor;
+  border-radius: var(--nhi-r-s);
+  font-family: var(--nhi-f-mono);
+  font-size: 10px;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  background: color-mix(in oklab, currentColor 8%, transparent);
+}
+.nhi-root .nhi-stamp::before {
+  content: '';
+  position: absolute;
+  inset: 2px;
+  border: 1px dashed currentColor;
+  border-radius: 2px;
+  opacity: 0.25;
+  pointer-events: none;
+}
+
+/* Scan-line — ambient motion */
+@keyframes nhi-scan {
+  from { transform: translateY(-100%); }
+  to   { transform: translateY(100%); }
+}
+.nhi-scanline {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  overflow: hidden;
+}
+.nhi-scanline::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(180deg, transparent 0%, rgba(125, 211, 252, 0.04) 50%, transparent 100%);
+  animation: nhi-scan 8s linear infinite;
+}
+
+/* Signal bars — confidence indicator */
+.nhi-root .nhi-bars {
+  display: inline-flex;
+  align-items: flex-end;
+  gap: 2px;
+  height: 12px;
+}
+.nhi-root .nhi-bars > i {
+  display: block;
+  width: 3px;
+  background: currentColor;
+  border-radius: 1px;
+}
+.nhi-root .nhi-bars > i:nth-child(1) { height: 25%; }
+.nhi-root .nhi-bars > i:nth-child(2) { height: 50%; }
+.nhi-root .nhi-bars > i:nth-child(3) { height: 75%; }
+.nhi-root .nhi-bars > i:nth-child(4) { height: 100%; }
+
+/* Blink */
+@keyframes nhi-blink { 50% { opacity: 0; } }
+.nhi-root .nhi-blink { animation: nhi-blink 1.2s steps(2) infinite; }
+
+/* Frame corners */
+.nhi-corners {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+}
+.nhi-corners::before,
+.nhi-corners::after {
+  content: '';
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  border: 1px solid var(--nhi-hairline-hot);
+  opacity: 0.55;
+}
+.nhi-corners::before { top: 6px;    left: 6px;    border-right: none; border-bottom: none; }
+.nhi-corners::after  { bottom: 6px; right: 6px;   border-left: none;  border-top: none; }
+
+/* Confidence ink helpers */
+.nhi-root .nhi-ink-confirmed  { color: var(--nhi-confirmed); }
+.nhi-root .nhi-ink-probable   { color: var(--nhi-probable); }
+.nhi-root .nhi-ink-unverified { color: var(--nhi-unverified); }
+.nhi-root .nhi-ink-disputed   { color: var(--nhi-disputed); }
