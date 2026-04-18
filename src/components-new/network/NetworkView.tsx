@@ -137,22 +137,36 @@ export function NetworkView({ breakpoint }: NetworkViewProps) {
     return [...headers, ...portraits];
   }, [nodesData, selectedId]);
 
-  const rfEdges = useMemo<Edge[]>(
-    () =>
-      edgesData.map((e) => ({
+  // React Flow uses Top handle for targets and Bottom handle for sources
+  // on PortraitNode. That only looks right when the source sits *above*
+  // the target — otherwise the edge exits the bottom of a lower node
+  // and has to loop back up to the top of an upper node, producing the
+  // "arrow starts from the top of the box and goes down" swoop. So we
+  // flip source/target here whenever the authored direction runs
+  // upward, and record the original direction on the edge data in case
+  // a future pass wants to render arrowheads.
+  const rfEdges = useMemo<Edge[]>(() => {
+    const posById = new Map(nodesData.map((n) => [n.id, n.position]));
+    return edgesData.map((e) => {
+      const sp = posById.get(e.source);
+      const tp = posById.get(e.target);
+      const flip = !!sp && !!tp && sp.y > tp.y;
+      return {
         id: e.id,
         type: 'typed',
-        source: e.source,
-        target: e.target,
+        source: flip ? e.target : e.source,
+        target: flip ? e.source : e.target,
         data: {
           type: e.type,
           dim: !activeEdgeTypes.has(e.type),
           label: e.label,
           year: e.year,
+          originalSource: e.source,
+          originalTarget: e.target,
         },
-      })),
-    [edgesData, activeEdgeTypes],
-  );
+      };
+    });
+  }, [edgesData, activeEdgeTypes, nodesData]);
 
   const onNodeClick: NodeMouseHandler = useCallback((_, node) => {
     setSelectedId(node.id);
