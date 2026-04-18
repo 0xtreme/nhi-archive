@@ -1,16 +1,20 @@
 import { useCallback, useEffect, useMemo, useState } from 'react';
 import type { ArchiveMeta, Perspective, ScenePayload } from '../../lib/api';
 import { api } from '../../lib/api';
-import type { ArchiveEdge, ArchiveNode } from '../../types';
+import { RadialFocus } from '../graph/RadialFocus';
+import { NodeGlyph } from '../NodeGlyph';
+import type { ArchiveEdge, ArchiveNode, NodeType } from '../../types';
 import { LandingHub } from './LandingHub';
 import { SceneCanvas } from './SceneCanvas';
 
 interface SceneExplorerProps {
   onSelectEntity: (id: string) => void;
   selectedId: string | null;
+  breakpoint: 'mobile' | 'tablet' | 'desktop';
 }
 
 type Mode = 'loading' | 'hub' | 'scene' | 'error';
+type Layout = 'radial' | 'constellation';
 
 interface SceneState {
   title: string;
@@ -36,7 +40,7 @@ interface SceneState {
  *   /api/ego/:id                 (on search-result pick)
  *   /api/expand/:id              (on double-click in scene)
  */
-export function SceneExplorer({ onSelectEntity, selectedId }: SceneExplorerProps) {
+export function SceneExplorer({ onSelectEntity, selectedId, breakpoint }: SceneExplorerProps) {
   const [mode, setMode] = useState<Mode>('loading');
   const [meta, setMeta] = useState<ArchiveMeta | null>(null);
   const [perspectives, setPerspectives] = useState<Perspective[]>([]);
@@ -44,6 +48,8 @@ export function SceneExplorer({ onSelectEntity, selectedId }: SceneExplorerProps
   const [loadingScene, setLoadingScene] = useState(false);
   const [showCommunities, setShowCommunities] = useState(false);
   const [apiError, setApiError] = useState<string | null>(null);
+  const [layout, setLayout] = useState<Layout>('radial');
+  const [focalId, setFocalId] = useState<string | null>(null);
 
   useEffect(() => {
     const ctrl = new AbortController();
@@ -79,6 +85,17 @@ export function SceneExplorer({ onSelectEntity, selectedId }: SceneExplorerProps
       breadcrumb,
     });
     setMode('scene');
+
+    // Default focal = highest-degree seed when multiple, or the single seed
+    const degree = new Map<string, number>();
+    for (const e of payload.edges) {
+      degree.set(e.from_node_id, (degree.get(e.from_node_id) ?? 0) + 1);
+      degree.set(e.to_node_id, (degree.get(e.to_node_id) ?? 0) + 1);
+    }
+    const ranked = [...payload.seed_ids].sort(
+      (a, b) => (degree.get(b) ?? 0) - (degree.get(a) ?? 0),
+    );
+    setFocalId(ranked[0] ?? null);
   };
 
   const pickPerspective = useCallback(
@@ -340,6 +357,26 @@ export function SceneExplorer({ onSelectEntity, selectedId }: SceneExplorerProps
           {loadingScene ? ' · LOADING…' : ''}
         </div>
 
+        <div style={{ display: 'flex', border: '1px solid var(--nhi-hairline-2)' }}>
+          {(['radial', 'constellation'] as const).map((k, i) => (
+            <button
+              key={k}
+              onClick={() => setLayout(k)}
+              className="nhi-mono"
+              style={{
+                fontSize: 10,
+                letterSpacing: '0.14em',
+                padding: '4px 10px',
+                background: layout === k ? 'var(--nhi-ink-4)' : 'transparent',
+                color: layout === k ? 'var(--nhi-sky)' : 'var(--nhi-fog-2)',
+                borderRight: i === 0 ? '1px solid var(--nhi-hairline-2)' : 'none',
+              }}
+            >
+              {k === 'radial' ? '◎ RADIAL' : '⎔ FORCE'}
+            </button>
+          ))}
+        </div>
+
         <button
           onClick={() => setShowCommunities((v) => !v)}
           className="nhi-mono"
@@ -355,6 +392,56 @@ export function SceneExplorer({ onSelectEntity, selectedId }: SceneExplorerProps
           {showCommunities ? '◉' : '○'} COMMUNITY HALOS
         </button>
       </div>
+
+      {scene.seedIds.length > 1 && (
+        <div
+          style={{
+            display: 'flex',
+            alignItems: 'center',
+            gap: 6,
+            padding: '8px 16px',
+            background: 'rgba(10,14,26,0.4)',
+            borderBottom: '1px solid var(--nhi-hairline)',
+            flexShrink: 0,
+            flexWrap: 'wrap',
+          }}
+        >
+          <span className="nhi-micro" style={{ marginRight: 4 }}>
+            FOCAL
+          </span>
+          {scene.seedIds.map((sid) => {
+            const n = scene.nodes.find((x) => x.id === sid);
+            if (!n) return null;
+            const active = focalId === sid;
+            return (
+              <button
+                key={sid}
+                onClick={() => setFocalId(sid)}
+                className="nhi-mono"
+                style={{
+                  display: 'inline-flex',
+                  alignItems: 'center',
+                  gap: 6,
+                  padding: '4px 8px',
+                  fontSize: 10,
+                  letterSpacing: '0.12em',
+                  background: active ? 'rgba(125,211,252,0.12)' : 'transparent',
+                  border: '1px solid ' + (active ? 'var(--nhi-hairline-hot)' : 'var(--nhi-hairline)'),
+                  color: active ? 'var(--nhi-bone)' : 'var(--nhi-fog-2)',
+                }}
+              >
+                <span style={{ color: active ? 'var(--nhi-sky)' : 'var(--nhi-fog)' }}>
+                  <NodeGlyph type={n.node_type as NodeType} size={10} />
+                </span>
+                {n.label.length > 24 ? n.label.slice(0, 22) + '…' : n.label}
+              </button>
+            );
+          })}
+          <span className="nhi-mono" style={{ fontSize: 9, color: 'var(--nhi-fog)', marginLeft: 6 }}>
+            · click any neighbor to refocus, or use the chooser above
+          </span>
+        </div>
+      )}
 
       {scene.subtitle && (
         <div
@@ -372,15 +459,26 @@ export function SceneExplorer({ onSelectEntity, selectedId }: SceneExplorerProps
         </div>
       )}
 
-      <SceneCanvas
-        nodes={scene.nodes}
-        edges={scene.edges}
-        seedIds={scene.seedIds}
-        selectedId={selectedId}
-        onSelect={onSelectEntity}
-        onExpand={expandNode}
-        showCommunities={showCommunities}
-      />
+      {layout === 'radial' ? (
+        <RadialFocus
+          nodes={scene.nodes}
+          edges={scene.edges}
+          focusId={focalId ?? scene.seedIds[0] ?? null}
+          setFocusId={setFocalId}
+          onSelect={onSelectEntity}
+          breakpoint={breakpoint}
+        />
+      ) : (
+        <SceneCanvas
+          nodes={scene.nodes}
+          edges={scene.edges}
+          seedIds={scene.seedIds}
+          selectedId={selectedId}
+          onSelect={onSelectEntity}
+          onExpand={expandNode}
+          showCommunities={showCommunities}
+        />
+      )}
     </div>
   );
 }

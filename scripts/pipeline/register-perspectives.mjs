@@ -164,6 +164,79 @@ function resolveMember(db, label, type) {
   return null;
 }
 
+function registerHubsPerspective(db, insert) {
+  // Top 20 most-connected entities anywhere in the graph.
+  // Excludes incident nodes where possible (NUFORC feed dominates those
+  // with the biggest-degree hubs but they're not the hubs users want to
+  // start from) — we bias toward person / organization / program /
+  // document / video / concept / phenomenon.
+  const rows = db
+    .prepare(
+      `SELECT id, label, node_type, degree
+         FROM node
+         WHERE node_type IN ('person','organization','program','document','video','concept','phenomenon','technology')
+         ORDER BY degree DESC
+         LIMIT 20`,
+    )
+    .all();
+  const ids = rows.map((r) => r.id);
+  insert.run(
+    'hubs',
+    'The hubs',
+    'The twenty most-connected people, programs, documents, and concepts in the archive — the gravity wells the rest of the graph orbits around.',
+    JSON.stringify(ids),
+    5,
+    'auto-hubs',
+  );
+  console.log(`[hubs] ${ids.length} top-degree entities · ${rows.slice(0, 3).map((r) => r.label).join(' · ')}`);
+}
+
+function registerCommunityPerspectives(db, insert) {
+  // Auto-generate perspectives from Louvain communities. We skip:
+  //   - the regional-NUFORC noise clusters (communities where a clear
+  //     majority of members are global-ufo-scrubbed incidents)
+  //   - communities smaller than 15 nodes (not enough structure to be
+  //     interesting)
+  //   - the single biggest community (typically the noisy NUFORC hub)
+  const communities = db
+    .prepare(`SELECT id, label, size, top_node_ids FROM community ORDER BY size DESC`)
+    .all();
+  const incidentRatio = db.prepare(`
+    SELECT
+      SUM(CASE WHEN pipeline_source = 'global-ufo-scrubbed' THEN 1 ELSE 0 END) * 1.0 / COUNT(*) AS ratio,
+      COUNT(*) AS total
+    FROM node WHERE community_id = ?
+  `);
+
+  let registered = 0;
+  let sortOrder = 100;
+  for (const c of communities) {
+    if (c.size < 15) continue;
+    if (c.size > 1200) continue; // skip the single giant NUFORC cluster
+    const { ratio } = incidentRatio.get(c.id);
+    if (ratio > 0.5) continue;
+
+    const ids = JSON.parse(c.top_node_ids ?? '[]').slice(0, 6);
+    if (ids.length < 3) continue;
+
+    const topLabels = c.label?.split(' · ').slice(0, 3).filter(Boolean) ?? [];
+    const title = topLabels.length > 0 ? topLabels[0] + ' cluster' : `Community ${c.id}`;
+    insert.run(
+      `community-${c.id}`,
+      title,
+      `Auto-derived from Louvain community detection — ${c.size.toLocaleString()} entities cluster around ${topLabels.slice(0, 3).join(', ')}.`,
+      JSON.stringify(ids),
+      sortOrder,
+      'auto-community',
+    );
+    console.log(`[community-${c.id}] ${c.size} nodes — ${title}`);
+    registered += 1;
+    sortOrder += 1;
+    if (registered >= 8) break;
+  }
+  console.log(`\n${registered} community perspectives registered.`);
+}
+
 function main() {
   const db = new Database(DB_PATH);
 
@@ -188,6 +261,9 @@ function main() {
     insert.run(p.slug, p.title, p.description, JSON.stringify(ids), p.sort_order, 'curated');
     console.log(`[${p.slug}] ${ids.length}/${p.members.length} resolved${misses.length ? ' — misses: ' + misses.join(', ') : ''}`);
   }
+
+  registerHubsPerspective(db, insert);
+  registerCommunityPerspectives(db, insert);
 
   db.close();
   console.log('\nPerspectives registered.');

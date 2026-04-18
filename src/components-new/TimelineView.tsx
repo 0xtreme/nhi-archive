@@ -23,24 +23,56 @@ const LANE_TYPES: NodeType[] = [
   'organization',
 ];
 
+// Parse date_start into a fractional year (for x positioning) and a
+// precision flag ('year' | 'month' | 'day').
+function parseDate(raw: string | null | undefined): { year: number; frac: number; precision: 'year' | 'month' | 'day' } | null {
+  if (!raw) return null;
+  const s = String(raw).trim();
+  const fullMatch = s.match(/^(\d{4})-(\d{1,2})-(\d{1,2})/);
+  if (fullMatch) {
+    const y = Number(fullMatch[1]);
+    const m = Number(fullMatch[2]);
+    const d = Number(fullMatch[3]);
+    const frac = y + ((m - 1) * 30 + (d - 1)) / 365;
+    return { year: y, frac, precision: 'day' };
+  }
+  const monthMatch = s.match(/^(\d{4})-(\d{1,2})$/);
+  if (monthMatch) {
+    const y = Number(monthMatch[1]);
+    const m = Number(monthMatch[2]);
+    return { year: y, frac: y + (m - 1) / 12, precision: 'month' };
+  }
+  const y = getYear(s);
+  if (y === null) return null;
+  return { year: y, frac: y + 0.5, precision: 'year' };
+}
+
+interface LaidDot {
+  id: string;
+  node: ArchiveNode;
+  year: number;
+  frac: number;
+  precision: 'year' | 'month' | 'day';
+  lane: number;
+  x: number;
+  y: number;
+}
+
 /**
- * Timeline view — chronological swimlanes per node type, density strip
- * colored by era, alternate above/below label staggering to reduce
- * collisions, cross-lane connection lines when a node is selected.
+ * Collision-packed timeline — every record with a parseable date_start
+ * gets a dot in its type swimlane, and within each lane we run a
+ * greedy y-distribution so nodes that share a year (or share a
+ * close-in-time bucket) don't pile onto the same pixel. Dates with
+ * month or day precision get placed at their true fractional x, so
+ * "Nov 14 2004" and "Jun 30 2004" actually sit at different x's.
  *
- * Ported from mockup/screen-views.jsx TimelineView; adapted for real
- * ArchiveNode/ArchiveEdge.
+ * Replaces the prior "same x → stack at same offset" version that the
+ * user correctly called out as unreadable.
  */
-export function TimelineView({
-  nodes,
-  edges,
-  selectedId,
-  onSelect,
-  breakpoint,
-}: TimelineViewProps) {
+export function TimelineView({ nodes, edges, selectedId, onSelect, breakpoint }: TimelineViewProps) {
   const isMobile = breakpoint === 'mobile';
   const [laneSet, setLaneSet] = useState<Set<NodeType>>(() => new Set(LANE_TYPES));
-  const [labelMode, setLabelMode] = useState<'hover' | 'all'>('hover');
+  const [labelMode, setLabelMode] = useState<'hover' | 'all' | 'selected'>('hover');
   const [hoverId, setHoverId] = useState<string | null>(null);
   const [zoom, setZoom] = useState(1);
 
@@ -56,16 +88,6 @@ export function TimelineView({
 
   const lanes = LANE_TYPES.filter((l) => laneSet.has(l));
 
-  const nodesWithYear = useMemo(() => {
-    return nodes
-      .map((n) => ({ n, year: getYear(n.date_start) }))
-      .filter((x): x is { n: ArchiveNode; year: number } => x.year !== null)
-      .filter((x) => laneSet.has(x.n.node_type));
-  }, [nodes, laneSet]);
-
-  const minY = 1945;
-  const maxY = new Date().getFullYear();
-
   const wrapRef = useRef<HTMLDivElement | null>(null);
   const [w, setW] = useState(800);
   useEffect(() => {
@@ -76,25 +98,112 @@ export function TimelineView({
   }, []);
 
   const LANE_LABEL_W = isMobile ? 100 : 132;
+  const LANE_H = 86;
   const baseInner = Math.max(600, w - LANE_LABEL_W - 24);
   const laneInner = baseInner * zoom;
   const fullWidth = LANE_LABEL_W + laneInner + 24;
-  const xAt = (y: number) => LANE_LABEL_W + ((y - minY) / (maxY - minY)) * laneInner;
-  const LANE_H = 72;
 
-  const years = [1950, 1960, 1970, 1980, 1990, 2000, 2010, 2020];
-  const decades = [1940, 1950, 1960, 1970, 1980, 1990, 2000, 2010, 2020];
-  const decadeHot: Record<number, number> = {
-    1940: 0.2,
-    1950: 0.3,
-    1960: 0.4,
-    1970: 0.45,
-    1980: 0.65,
-    1990: 0.7,
-    2000: 0.85,
-    2010: 0.95,
-    2020: 1,
-  };
+  // Year axis domain adapts to the filtered data, but clamped to 1945–now.
+  const dates = useMemo(
+    () =>
+      nodes
+        .map((n) => ({ node: n, parsed: parseDate(n.date_start) }))
+        .filter((x): x is { node: ArchiveNode; parsed: NonNullable<ReturnType<typeof parseDate>> } => !!x.parsed),
+    [nodes],
+  );
+
+  const minY = 1945;
+  const maxY = Math.max(new Date().getFullYear(), ...dates.map((x) => x.parsed.year));
+
+  const xAt = (yearFrac: number) => LANE_LABEL_W + ((yearFrac - minY) / (maxY - minY)) * laneInner;
+
+  // Per-lane collision packing: assign y within each lane so nearby-in-x
+  // nodes distribute vertically. Greedy: seed all at lane center; sort
+  // by x; iterate pushing overlapping neighbors apart.
+  const laid = useMemo<LaidDot[]>(() => {
+    if (dates.length === 0 || laneInner <= 0) return [];
+    const laidByLane: LaidDot[][] = lanes.map(() => []);
+    const perLane = new Map<NodeType, Array<{ node: ArchiveNode; parsed: NonNullable<ReturnType<typeof parseDate>> }>>();
+    for (const l of lanes) perLane.set(l, []);
+    for (const d of dates) {
+      const bucket = perLane.get(d.node.node_type);
+      if (bucket) bucket.push(d);
+    }
+
+    const DOT_R = 6.5;
+    for (let li = 0; li < lanes.length; li += 1) {
+      const lane = lanes[li];
+      const items = (perLane.get(lane) ?? []).slice().sort((a, b) => a.parsed.frac - b.parsed.frac);
+      const laneCenter = li * LANE_H + LANE_H / 2 + 24;
+
+      const dots: LaidDot[] = items.map((d) => ({
+        id: d.node.id,
+        node: d.node,
+        year: d.parsed.year,
+        frac: d.parsed.frac,
+        precision: d.parsed.precision,
+        lane: li,
+        x: xAt(d.parsed.frac),
+        y: laneCenter,
+      }));
+
+      // Greedy resolve: for each dot, look at prior dots whose x is within 2R,
+      // and pick a y offset that doesn't overlap any of them.
+      for (let i = 0; i < dots.length; i += 1) {
+        const a = dots[i];
+        const tried = new Set<number>();
+        let attempt = 0;
+        // offsets in order: 0, -r, +r, -2r, +2r, -3r, +3r, ...
+        const maxBand = (LANE_H - 8) / 2;
+        let ok = false;
+        while (!ok && attempt < 40) {
+          const sign = attempt % 2 === 0 ? 1 : -1;
+          const mag = Math.ceil(attempt / 2);
+          const offset = sign * mag * (DOT_R * 1.6);
+          if (Math.abs(offset) > maxBand) break;
+          const candidate = laneCenter + offset;
+          // Check against prior dots in this lane whose x overlaps
+          let collides = false;
+          for (let j = i - 1; j >= 0; j -= 1) {
+            const b = dots[j];
+            if (a.x - b.x > DOT_R * 2) break;
+            if (Math.abs(b.y - candidate) < DOT_R * 1.8) {
+              collides = true;
+              break;
+            }
+          }
+          if (!collides) {
+            a.y = candidate;
+            ok = true;
+          }
+          tried.add(offset);
+          attempt += 1;
+        }
+        if (!ok) {
+          // Heavy pileup — just place at lane center (and accept overlap visually;
+          // the bucket indicator below flags these ranges).
+          a.y = laneCenter;
+        }
+      }
+
+      laidByLane[li] = dots;
+    }
+    return laidByLane.flat();
+    // xAt is a pure fn of laneInner + minY + maxY so no need to depend on it
+  }, [dates, lanes, laneInner, minY, maxY, LANE_H]);
+
+  // Density buckets — count dots per (lane, 3-year bucket) for the wide-zoom badge.
+  // Used as a "there are N more events within ±1.5 years" hint.
+  const densityByLaneYear = useMemo(() => {
+    const m = new Map<string, LaidDot[]>();
+    for (const d of laid) {
+      const bucket = Math.round(d.frac / 3) * 3;
+      const k = d.lane + ':' + bucket;
+      if (!m.has(k)) m.set(k, []);
+      m.get(k)!.push(d);
+    }
+    return m;
+  }, [laid]);
 
   const selected = useMemo(
     () => (selectedId ? nodes.find((n) => n.id === selectedId) : null),
@@ -111,16 +220,6 @@ export function TimelineView({
     return set;
   }, [selected, edges]);
 
-  const laneMap = useMemo(() => {
-    const m: Record<string, Array<{ n: ArchiveNode; year: number }>> = {};
-    for (const l of lanes) {
-      m[l] = nodesWithYear
-        .filter((x) => x.n.node_type === l)
-        .sort((a, b) => a.year - b.year);
-    }
-    return m;
-  }, [lanes, nodesWithYear]);
-
   const labelVisible = (id: string) => {
     if (id === hoverId) return true;
     if (id === selectedId) return true;
@@ -129,11 +228,7 @@ export function TimelineView({
     return false;
   };
 
-  const offsetFor = (i: number) => {
-    const side = i % 2 === 0 ? -1 : 1;
-    const step = 18;
-    return side === -1 ? -step - 6 : step + 4;
-  };
+  const years = zoom >= 2 ? [1950, 1960, 1970, 1980, 1990, 2000, 2010, 2020] : [1950, 1970, 1990, 2010];
 
   return (
     <div
@@ -158,7 +253,7 @@ export function TimelineView({
         <div style={{ display: 'flex', alignItems: 'baseline', gap: 10 }}>
           <span className="nhi-micro">FILTER · LANES</span>
           <span className="nhi-mono" style={{ fontSize: 9, color: 'var(--nhi-fog)' }}>
-            {lanes.length}/{LANE_TYPES.length} ACTIVE
+            {lanes.length}/{LANE_TYPES.length} ACTIVE · {laid.length} NODES
           </span>
         </div>
         <div style={{ display: 'flex', flexWrap: 'wrap', gap: 6 }}>
@@ -192,7 +287,7 @@ export function TimelineView({
         <div style={{ flex: 1 }} />
         <div style={{ display: 'flex', alignItems: 'center', gap: 6 }}>
           <span className="nhi-micro">LABELS</span>
-          {(['hover', 'all'] as const).map((m) => (
+          {(['hover', 'selected', 'all'] as const).map((m) => (
             <button
               key={m}
               onClick={() => setLabelMode(m)}
@@ -233,7 +328,7 @@ export function TimelineView({
             {zoom.toFixed(2)}×
           </span>
           <button
-            onClick={() => setZoom((z) => Math.min(4, z + 0.25))}
+            onClick={() => setZoom((z) => Math.min(6, z + 0.25))}
             style={{
               width: 24,
               height: 22,
@@ -248,46 +343,6 @@ export function TimelineView({
       </div>
 
       <div
-        style={{
-          padding: isMobile ? '10px 12px 22px' : '12px 20px 22px',
-          borderBottom: '1px solid var(--nhi-hairline)',
-        }}
-      >
-        <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'baseline' }}>
-          <span className="nhi-micro">DENSITY · BY ERA</span>
-          <span className="nhi-mono" style={{ fontSize: 10, color: 'var(--nhi-fog)' }}>
-            {minY} → {maxY} · {nodesWithYear.length} NODES
-          </span>
-        </div>
-        <div style={{ marginTop: 8, height: 14, display: 'flex', gap: 2, position: 'relative' }}>
-          {decades.map((d) => (
-            <div
-              key={d}
-              style={{
-                flex: 1,
-                position: 'relative',
-                background: `linear-gradient(90deg, color-mix(in oklab, var(--nhi-sky) ${decadeHot[d] * 80}%, transparent), color-mix(in oklab, var(--nhi-violet) ${decadeHot[d] * 80}%, transparent))`,
-              }}
-            >
-              <span
-                className="nhi-mono"
-                style={{
-                  position: 'absolute',
-                  bottom: -16,
-                  left: 0,
-                  fontSize: 9,
-                  color: 'var(--nhi-fog)',
-                  letterSpacing: '0.1em',
-                }}
-              >
-                {d}s
-              </span>
-            </div>
-          ))}
-        </div>
-      </div>
-
-      <div
         ref={wrapRef}
         className="nhi-scroll"
         style={{ flex: 1, overflowX: 'auto', overflowY: 'auto' }}
@@ -296,7 +351,7 @@ export function TimelineView({
           style={{
             position: 'relative',
             width: fullWidth,
-            minHeight: lanes.length * LANE_H + 32,
+            minHeight: lanes.length * LANE_H + 50,
           }}
         >
           <div
@@ -356,7 +411,6 @@ export function TimelineView({
           ))}
 
           {lanes.map((lane, li) => {
-            const items = laneMap[lane] ?? [];
             const top = 24 + li * LANE_H;
             return (
               <div
@@ -390,23 +444,15 @@ export function TimelineView({
                   <div>
                     <div
                       className="nhi-mono"
-                      style={{
-                        fontSize: 10,
-                        letterSpacing: '0.14em',
-                        color: 'var(--nhi-fog-2)',
-                      }}
+                      style={{ fontSize: 10, letterSpacing: '0.14em', color: 'var(--nhi-fog-2)' }}
                     >
                       {NODE_TYPE_META[lane]?.label ?? lane}
                     </div>
                     <div
                       className="nhi-mono"
-                      style={{
-                        fontSize: 8,
-                        color: 'var(--nhi-fog)',
-                        letterSpacing: '0.14em',
-                      }}
+                      style={{ fontSize: 8, color: 'var(--nhi-fog)', letterSpacing: '0.14em' }}
                     >
-                      {items.length} NODES
+                      {laid.filter((d) => d.lane === li).length} NODES
                     </div>
                   </div>
                 </div>
@@ -420,103 +466,137 @@ export function TimelineView({
                     background: 'var(--nhi-hairline)',
                   }}
                 />
-                {items.map(({ n, year }, i) => {
-                  const left = xAt(year);
-                  const isSelected = n.id === selectedId;
-                  const rel = selected && relatedIds.has(n.id);
-                  const isHover = n.id === hoverId;
-                  const showLabel = labelVisible(n.id);
-                  const yOffset = offsetFor(i);
-                  return (
-                    <Fragment key={n.id}>
-                      <button
-                        onClick={() => onSelect(n.id)}
-                        onMouseEnter={() => setHoverId(n.id)}
-                        onMouseLeave={() => setHoverId((h) => (h === n.id ? null : h))}
-                        title={`${n.label} · ${year}`}
-                        style={{
-                          position: 'absolute',
-                          left,
-                          top: LANE_H / 2 - (isSelected || isHover ? 8 : 5),
-                          transform: 'translateX(-50%)',
-                          width: isSelected || isHover ? 16 : 10,
-                          height: isSelected || isHover ? 16 : 10,
-                          border:
-                            '1px solid ' +
-                            (isSelected
-                              ? 'var(--nhi-sky)'
-                              : rel
-                                ? 'var(--nhi-violet)'
-                                : isHover
-                                  ? 'var(--nhi-bone)'
-                                  : 'var(--nhi-hairline-hot)'),
-                          background: isSelected
-                            ? 'var(--nhi-sky)'
-                            : rel
-                              ? 'rgba(196,181,253,0.5)'
-                              : 'rgba(14,20,36,0.9)',
-                          boxShadow: isSelected
-                            ? '0 0 12px var(--nhi-sky)'
-                            : isHover
-                              ? '0 0 8px var(--nhi-bone)'
-                              : 'none',
-                          zIndex: isSelected || isHover ? 15 : 5,
-                          transition: 'all 120ms var(--nhi-ease)',
-                        }}
-                      />
-                      {showLabel && (
-                        <div
-                          style={{
-                            position: 'absolute',
-                            left,
-                            top: LANE_H / 2 + yOffset,
-                            transform: 'translateX(-50%)',
-                            fontFamily: 'var(--nhi-f-body)',
-                            fontSize: 11,
-                            lineHeight: 1.2,
-                            color: isSelected
-                              ? 'var(--nhi-sky)'
-                              : rel
-                                ? 'var(--nhi-violet)'
-                                : 'var(--nhi-bone)',
-                            whiteSpace: 'nowrap',
-                            pointerEvents: 'none',
-                            textAlign: 'center',
-                            padding: '2px 6px',
-                            background: 'rgba(10,14,26,0.92)',
-                            border:
-                              '1px solid ' +
-                              (isSelected
-                                ? 'var(--nhi-sky)'
-                                : rel
-                                  ? 'var(--nhi-violet)'
-                                  : 'var(--nhi-hairline-hot)'),
-                            zIndex: 16,
-                            maxWidth: 180,
-                            overflow: 'hidden',
-                            textOverflow: 'ellipsis',
-                          }}
-                        >
-                          {n.label}
-                          <span
-                            className="nhi-mono"
-                            style={{
-                              fontSize: 8,
-                              color: 'var(--nhi-fog)',
-                              marginLeft: 6,
-                              letterSpacing: '0.12em',
-                            }}
-                          >
-                            {year}
-                          </span>
-                        </div>
-                      )}
-                    </Fragment>
-                  );
-                })}
               </div>
             );
           })}
+
+          {laid.map((d) => {
+            const isSelected = d.id === selectedId;
+            const rel = selected ? relatedIds.has(d.id) : false;
+            const isHover = d.id === hoverId;
+            const showLabel = labelVisible(d.id);
+            const absTop = d.y;
+            return (
+              <Fragment key={d.id}>
+                <button
+                  onClick={() => onSelect(d.id)}
+                  onMouseEnter={() => setHoverId(d.id)}
+                  onMouseLeave={() => setHoverId((h) => (h === d.id ? null : h))}
+                  title={`${d.node.label} · ${d.node.date_start ?? d.year}`}
+                  style={{
+                    position: 'absolute',
+                    left: d.x,
+                    top: absTop - (isSelected || isHover ? 8 : 6),
+                    transform: 'translateX(-50%)',
+                    width: isSelected || isHover ? 16 : 12,
+                    height: isSelected || isHover ? 16 : 12,
+                    border:
+                      '1px solid ' +
+                      (isSelected
+                        ? 'var(--nhi-sky)'
+                        : rel
+                          ? 'var(--nhi-violet)'
+                          : isHover
+                            ? 'var(--nhi-bone)'
+                            : 'var(--nhi-hairline-hot)'),
+                    background: isSelected
+                      ? 'var(--nhi-sky)'
+                      : rel
+                        ? 'rgba(196,181,253,0.5)'
+                        : 'rgba(14,20,36,0.9)',
+                    boxShadow: isSelected
+                      ? '0 0 12px var(--nhi-sky)'
+                      : isHover
+                        ? '0 0 8px var(--nhi-bone)'
+                        : 'none',
+                    zIndex: isSelected || isHover ? 15 : 5,
+                    transition: 'all 120ms var(--nhi-ease)',
+                    cursor: 'pointer',
+                    padding: 0,
+                  }}
+                />
+                {showLabel && (
+                  <div
+                    style={{
+                      position: 'absolute',
+                      left: d.x,
+                      top: absTop + (d.y % 16 < 8 ? 14 : -28),
+                      transform: 'translateX(-50%)',
+                      fontFamily: 'var(--nhi-f-body)',
+                      fontSize: 11,
+                      lineHeight: 1.2,
+                      color: isSelected
+                        ? 'var(--nhi-sky)'
+                        : rel
+                          ? 'var(--nhi-violet)'
+                          : 'var(--nhi-bone)',
+                      whiteSpace: 'nowrap',
+                      pointerEvents: 'none',
+                      textAlign: 'center',
+                      padding: '2px 6px',
+                      background: 'rgba(10,14,26,0.92)',
+                      border:
+                        '1px solid ' +
+                        (isSelected
+                          ? 'var(--nhi-sky)'
+                          : rel
+                            ? 'var(--nhi-violet)'
+                            : 'var(--nhi-hairline-hot)'),
+                      zIndex: 16,
+                      maxWidth: 220,
+                      overflow: 'hidden',
+                      textOverflow: 'ellipsis',
+                    }}
+                  >
+                    {d.node.label}
+                    <span
+                      className="nhi-mono"
+                      style={{
+                        fontSize: 8,
+                        color: 'var(--nhi-fog)',
+                        marginLeft: 6,
+                        letterSpacing: '0.12em',
+                      }}
+                    >
+                      {d.node.date_start ?? d.year}
+                    </span>
+                  </div>
+                )}
+              </Fragment>
+            );
+          })}
+
+          {/* Wide-zoom density badges: when zoomed out, show a small
+              "×N" chip next to dense 3-year buckets so users know
+              there's more there than any single dot suggests. */}
+          {zoom < 1.2 &&
+            Array.from(densityByLaneYear.entries()).map(([k, items]) => {
+              if (items.length < 4) return null;
+              const any = items[0];
+              const cx = xAt(any.frac);
+              const laneCenterY = 24 + any.lane * LANE_H + LANE_H / 2;
+              return (
+                <div
+                  key={'bucket-' + k}
+                  style={{
+                    position: 'absolute',
+                    left: cx + 10,
+                    top: laneCenterY + 8,
+                    fontFamily: 'var(--nhi-f-mono)',
+                    fontSize: 9,
+                    padding: '1px 5px',
+                    color: 'var(--nhi-violet)',
+                    border: '1px solid var(--nhi-hairline-2)',
+                    background: 'rgba(196,181,253,0.08)',
+                    letterSpacing: '0.1em',
+                    pointerEvents: 'none',
+                    zIndex: 6,
+                  }}
+                >
+                  ×{items.length}
+                </div>
+              );
+            })}
         </div>
       </div>
     </div>

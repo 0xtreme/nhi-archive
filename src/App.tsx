@@ -193,7 +193,11 @@ export default function App() {
 
       <div style={{ flex: 1, minHeight: 0, display: 'flex', flexDirection: 'column' }}>
         {viewMode === 'graph' && (
-          <SceneExplorer onSelectEntity={onSelectNode} selectedId={selectedNodeId} />
+          <SceneExplorer
+            onSelectEntity={onSelectNode}
+            selectedId={selectedNodeId}
+            breakpoint={breakpoint}
+          />
         )}
         {viewMode === 'map' && (
           <MapView
