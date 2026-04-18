@@ -11,6 +11,7 @@ import {
 } from '@xyflow/react';
 import '@xyflow/react/dist/style.css';
 import { PortraitNode } from './PortraitNode';
+import { TierHeaderNode } from './TierHeaderNode';
 import { TypedEdge, EDGE_META } from './TypedEdge';
 import type {
   NetworkEdge,
@@ -39,6 +40,22 @@ const TIER_COLOR: Record<NetworkTier, string> = {
   advocate: '#86efac',
   institution: '#9aa4c7',
 };
+
+// Matches the y-coordinates in public/data/network/nodes.json. Each
+// tier lives on exactly one horizontal row; the header nodes below sit
+// at the far-left of the canvas so the rows read as an org chart.
+const ROW_HEADERS: Array<{
+  id: string;
+  tier: NetworkTier;
+  y: number;
+  levelLabel: string;
+  tierLabel: string;
+}> = [
+  { id: '__row_institution', tier: 'institution', y: 100, levelLabel: 'LEVEL 1', tierLabel: 'INSTITUTIONS' },
+  { id: '__row_official',    tier: 'official',    y: 340, levelLabel: 'LEVEL 2', tierLabel: 'OFFICIALS' },
+  { id: '__row_witness',     tier: 'witness',     y: 580, levelLabel: 'LEVEL 3', tierLabel: 'WITNESSES' },
+  { id: '__row_advocate',    tier: 'advocate',    y: 820, levelLabel: 'LEVEL 4', tierLabel: 'ADVOCATES' },
+];
 
 /**
  * Relationship Map — 4th view alongside Graph / Map / Timeline. See
@@ -99,18 +116,26 @@ export function NetworkView({ breakpoint }: NetworkViewProps) {
   // Map into React Flow shapes. Edges that fail the current filter get
   // `dim: true` so the TypedEdge component fades them rather than
   // removing — preserves spatial context for the reader.
-  const rfNodes = useMemo<Node[]>(
-    () =>
-      nodesData.map((n) => ({
-        id: n.id,
-        type: 'portrait',
-        position: n.position,
-        data: n as unknown as Record<string, unknown>,
-        selected: n.id === selectedId,
-        draggable: false,
-      })),
-    [nodesData, selectedId],
-  );
+  const rfNodes = useMemo<Node[]>(() => {
+    const headers: Node[] = ROW_HEADERS.map((h) => ({
+      id: h.id,
+      type: 'tierHeader',
+      position: { x: -220, y: h.y },
+      data: { tier: h.tier, levelLabel: h.levelLabel, tierLabel: h.tierLabel },
+      draggable: false,
+      selectable: false,
+      focusable: false,
+    }));
+    const portraits: Node[] = nodesData.map((n) => ({
+      id: n.id,
+      type: 'portrait',
+      position: n.position,
+      data: n as unknown as Record<string, unknown>,
+      selected: n.id === selectedId,
+      draggable: false,
+    }));
+    return [...headers, ...portraits];
+  }, [nodesData, selectedId]);
 
   const rfEdges = useMemo<Edge[]>(
     () =>
@@ -135,7 +160,10 @@ export function NetworkView({ breakpoint }: NetworkViewProps) {
 
   const onPaneClick = useCallback(() => setSelectedId(null), []);
 
-  const nodeTypes = useMemo(() => ({ portrait: PortraitNode }), []);
+  const nodeTypes = useMemo(
+    () => ({ portrait: PortraitNode, tierHeader: TierHeaderNode }),
+    [],
+  );
   const edgeTypes = useMemo(() => ({ typed: TypedEdge }), []);
 
   const selectedNode = selectedId
