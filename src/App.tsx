@@ -16,7 +16,56 @@ import { TimelineView } from './components-new/TimelineView';
 import { Topbar } from './components-new/Topbar';
 import { SceneExplorer } from './components-new/scene/SceneExplorer';
 import { NetworkView } from './components-new/network/NetworkView';
+import { Onboarding } from './components-new/onboarding/Onboarding';
 import type { ArchiveGraph, ArchiveNode, FilterState, ViewMode } from './types';
+
+type Route = 'onboarding' | 'archive';
+
+/**
+ * Hash router — GH Pages can't rewrite paths, so the two entry points
+ * live under `#/onboarding` and `#/archive`. First-time visitors land
+ * on onboarding; returning visitors (who completed it once or set a
+ * preference) land on the archive. The hash also carries handoff
+ * params like `#/archive?view=network&focus=grusch_2023`.
+ */
+function getInitialRoute(): Route {
+  if (typeof window === 'undefined') return 'archive';
+  const raw = window.location.hash.replace(/^#/, '');
+  const [path] = raw.split('?');
+  if (path === '/archive') return 'archive';
+  if (path === '/onboarding') return 'onboarding';
+  // No explicit route in the URL — fall back to the stored preference
+  // or the first-visit default.
+  let preferred: string | null = null;
+  let completed = false;
+  try {
+    preferred = window.localStorage.getItem('nhi_preferred_view');
+    completed = window.localStorage.getItem('nhi_onboarding_complete') === 'true';
+  } catch {
+    // storage blocked — treat as first-time visitor
+  }
+  if (preferred === 'archive') return 'archive';
+  if (preferred === 'onboarding') return 'onboarding';
+  return completed ? 'archive' : 'onboarding';
+}
+
+function parseArchiveHashParams(): { view?: ViewMode; focus?: string | null } {
+  if (typeof window === 'undefined') return {};
+  const raw = window.location.hash.replace(/^#/, '');
+  const [path, query] = raw.split('?');
+  if (path !== '/archive' || !query) return {};
+  const params = new URLSearchParams(query);
+  const view = params.get('view') ?? undefined;
+  const focus = params.get('focus');
+  return {
+    view: (['graph', 'map', 'timeline', 'network', 'sources'] as ViewMode[]).includes(
+      view as ViewMode,
+    )
+      ? (view as ViewMode)
+      : undefined,
+    focus: focus ?? null,
+  };
+}
 
 const EMPTY_GRAPH: ArchiveGraph = { generated_at: '', nodes: [], edges: [] };
 
@@ -29,9 +78,13 @@ function toggle<T>(values: T[], value: T, allValues: T[]): T[] {
 }
 
 export default function App() {
+  const [route, setRoute] = useState<Route>(() => getInitialRoute());
   const [graphData, setGraphData] = useState<ArchiveGraph>(EMPTY_GRAPH);
   const [searchIndex, setSearchIndex] = useState<MiniSearch | null>(null);
-  const [viewMode, setViewMode] = useState<ViewMode>('graph');
+  const [viewMode, setViewMode] = useState<ViewMode>(() => {
+    const p = parseArchiveHashParams();
+    return p.view ?? 'graph';
+  });
   const [query, setQuery] = useState('');
   const [selectedNodeId, setSelectedNodeId] = useState<string | null>(null);
   const [filters, setFilters] = useState<FilterState>(() => buildDefaultFilters([]));
@@ -58,6 +111,28 @@ export default function App() {
       // storage unavailable (private mode, quota) — in-memory state still works
     }
   }, [theme]);
+
+  // React to hash changes — e.g. the Onboarding handoff cards set
+  // window.location.hash to '#/archive?view=network&focus=grusch_2023'
+  // and we need to swap route + viewMode + seed the scene.
+  useEffect(() => {
+    const onHashChange = () => {
+      const nextRoute = getInitialRoute();
+      setRoute(nextRoute);
+      if (nextRoute === 'archive') {
+        const params = parseArchiveHashParams();
+        if (params.view) setViewMode(params.view);
+        if (params.focus) {
+          setSelectedNodeId(params.focus);
+          if (params.view === 'graph' || !params.view) {
+            setPendingSceneSeed(params.focus);
+          }
+        }
+      }
+    };
+    window.addEventListener('hashchange', onHashChange);
+    return () => window.removeEventListener('hashchange', onHashChange);
+  }, []);
 
   useEffect(() => {
     const onResize = () => {
@@ -179,10 +254,59 @@ export default function App() {
   };
 
   const onBrandClick = () => {
+    // Brand always returns to the archive hub — the onboarding has its
+    // own explicit entry via the pill toggle.
+    goToArchive('#/archive');
     setViewMode('graph');
     setSelectedNodeId(null);
     setPendingSceneSeed(null);
     setSceneResetToken((n) => n + 1);
+  };
+
+  const persistPreferredView = (next: Route) => {
+    try {
+      window.localStorage.setItem('nhi_preferred_view', next);
+    } catch {
+      // ignore
+    }
+  };
+
+  // Programmatic navigation helpers — keep hash, preference, and React
+  // state consistent. Called by the pill toggle and the onboarding
+  // handoff cards.
+  const goToOnboarding = () => {
+    persistPreferredView('onboarding');
+    setRoute('onboarding');
+    if (window.location.hash !== '#/onboarding') {
+      window.history.pushState(null, '', '#/onboarding');
+    }
+  };
+
+  const goToArchive = (hash = '#/archive') => {
+    persistPreferredView('archive');
+    try {
+      window.localStorage.setItem('nhi_onboarding_complete', 'true');
+    } catch {
+      // ignore
+    }
+    setRoute('archive');
+    // Parse any ?view/?focus params encoded in the hash the caller supplied.
+    const qIdx = hash.indexOf('?');
+    if (qIdx >= 0) {
+      const params = new URLSearchParams(hash.slice(qIdx + 1));
+      const v = params.get('view');
+      const f = params.get('focus');
+      if (v && (['graph', 'map', 'timeline', 'network', 'sources'] as ViewMode[]).includes(v as ViewMode)) {
+        setViewMode(v as ViewMode);
+      }
+      if (f) {
+        setSelectedNodeId(f);
+        setPendingSceneSeed(f);
+      }
+    }
+    if (window.location.hash !== hash) {
+      window.history.pushState(null, '', hash);
+    }
   };
 
   // Suppress unused-var warnings for values we may surface again in a later pass
@@ -218,6 +342,8 @@ export default function App() {
         breakpoint={breakpoint}
         theme={theme}
         onToggleTheme={() => setTheme((t) => (t === 'dark' ? 'light' : 'dark'))}
+        route={route}
+        onRouteChange={(r) => (r === 'onboarding' ? goToOnboarding() : goToArchive())}
       />
 
       <CommandPalette
@@ -230,7 +356,10 @@ export default function App() {
       />
 
       <div style={{ flex: 1, minHeight: 0, display: 'flex', flexDirection: 'column' }}>
-        {viewMode === 'graph' && (
+        {route === 'onboarding' && (
+          <Onboarding onGoToArchive={goToArchive} breakpoint={breakpoint} />
+        )}
+        {route === 'archive' && viewMode === 'graph' && (
           <SceneExplorer
             onSelectEntity={onSelectNode}
             selectedId={selectedNodeId}
@@ -240,14 +369,14 @@ export default function App() {
             resetToHubToken={sceneResetToken}
           />
         )}
-        {viewMode === 'map' && (
+        {route === 'archive' && viewMode === 'map' && (
           <MapView
             nodes={filteredGraph.nodes}
             onSelect={onSelectNode}
             breakpoint={breakpoint}
           />
         )}
-        {viewMode === 'timeline' && (
+        {route === 'archive' && viewMode === 'timeline' && (
           <TimelineView
             nodes={filteredGraph.nodes}
             edges={filteredGraph.edges}
@@ -256,11 +385,15 @@ export default function App() {
             breakpoint={breakpoint}
           />
         )}
-        {viewMode === 'network' && <NetworkView breakpoint={breakpoint} />}
-        {viewMode === 'sources' && <SourcesView breakpoint={breakpoint} />}
+        {route === 'archive' && viewMode === 'network' && (
+          <NetworkView breakpoint={breakpoint} />
+        )}
+        {route === 'archive' && viewMode === 'sources' && (
+          <SourcesView breakpoint={breakpoint} />
+        )}
       </div>
 
-      {selectedNode && (
+      {route === 'archive' && selectedNode && (
         <EntityDetail
           node={selectedNode}
           edges={filteredGraph.edges}
@@ -272,7 +405,7 @@ export default function App() {
       )}
 
       <StatusBar
-        screen={viewMode.toUpperCase()}
+        screen={route === 'onboarding' ? 'ONBOARDING' : viewMode.toUpperCase()}
         nodesLoaded={statusNodesVisible}
         nodesTotal={statusNodesTotal}
         selectedId={selectedNodeId}

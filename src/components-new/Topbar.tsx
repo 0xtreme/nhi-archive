@@ -17,6 +17,8 @@ interface TopbarProps {
   openFilters?: () => void;
   theme: 'dark' | 'light';
   onToggleTheme: () => void;
+  route: 'onboarding' | 'archive';
+  onRouteChange: (next: 'onboarding' | 'archive') => void;
 }
 
 type ViewOption = { k: ViewMode; label: string; glyph: string };
@@ -46,6 +48,8 @@ export function Topbar({
   openFilters,
   theme,
   onToggleTheme,
+  route,
+  onRouteChange,
 }: TopbarProps) {
   const [q, setQ] = useState('');
   const [focused, setFocused] = useState(false);
@@ -295,42 +299,82 @@ export function Topbar({
         )}
       </div>
 
+      {/* Route pill · Start Here | Archive. Always visible so a user on
+          either route can jump to the other. */}
       <div
         style={{
           display: 'flex',
-          gap: 0,
           border: '1px solid var(--nhi-hairline-2)',
           borderRadius: 2,
           overflow: 'hidden',
           flexShrink: 0,
         }}
       >
-        {VIEW_OPTIONS.map((v, i) => {
-          const active = viewMode === v.k;
+        {([
+          { k: 'onboarding', label: 'Start Here' },
+          { k: 'archive', label: 'Archive' },
+        ] as const).map((r, i) => {
+          const active = route === r.k;
           return (
             <button
-              key={v.k}
-              onClick={() => onViewChange(v.k)}
+              key={r.k}
+              onClick={() => onRouteChange(r.k)}
               style={{
                 padding: isMobile ? '6px 8px' : '7px 12px',
                 background: active ? 'var(--nhi-ink-4)' : 'transparent',
                 color: active ? 'var(--nhi-sky)' : 'var(--nhi-fog-2)',
-                borderRight: i < VIEW_OPTIONS.length - 1 ? '1px solid var(--nhi-hairline-2)' : 'none',
+                borderRight: i === 0 ? '1px solid var(--nhi-hairline-2)' : 'none',
                 fontFamily: 'var(--nhi-f-mono)',
                 fontSize: 10,
                 letterSpacing: '0.14em',
                 textTransform: 'uppercase',
-                display: 'flex',
-                alignItems: 'center',
-                gap: 6,
               }}
             >
-              <span style={{ fontSize: 13 }}>{v.glyph}</span>
-              {!isMobile && v.label}
+              {r.label}
             </button>
           );
         })}
       </div>
+
+      {/* View-mode tabs — only relevant inside the Archive route. */}
+      {route === 'archive' && (
+        <div
+          style={{
+            display: 'flex',
+            gap: 0,
+            border: '1px solid var(--nhi-hairline-2)',
+            borderRadius: 2,
+            overflow: 'hidden',
+            flexShrink: 0,
+          }}
+        >
+          {VIEW_OPTIONS.map((v, i) => {
+            const active = viewMode === v.k;
+            return (
+              <button
+                key={v.k}
+                onClick={() => onViewChange(v.k)}
+                style={{
+                  padding: isMobile ? '6px 8px' : '7px 12px',
+                  background: active ? 'var(--nhi-ink-4)' : 'transparent',
+                  color: active ? 'var(--nhi-sky)' : 'var(--nhi-fog-2)',
+                  borderRight: i < VIEW_OPTIONS.length - 1 ? '1px solid var(--nhi-hairline-2)' : 'none',
+                  fontFamily: 'var(--nhi-f-mono)',
+                  fontSize: 10,
+                  letterSpacing: '0.14em',
+                  textTransform: 'uppercase',
+                  display: 'flex',
+                  alignItems: 'center',
+                  gap: 6,
+                }}
+              >
+                <span style={{ fontSize: 13 }}>{v.glyph}</span>
+                {!isMobile && v.label}
+              </button>
+            );
+          })}
+        </div>
+      )}
 
       <button
         onClick={onToggleTheme}
