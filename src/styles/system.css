@@ -9,8 +9,8 @@ body {
   margin: 0;
   padding: 0;
   height: 100%;
-  background: #05070d;
-  color: #e7ebf7;
+  background: var(--nhi-ink);
+  color: var(--nhi-bone);
   font-family: 'Inter', system-ui, -apple-system, Segoe UI, sans-serif;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
@@ -69,6 +69,33 @@ body {
   --nhi-topbar-h:    54px;
   --nhi-statusbar-h: 22px;
 }
+
+/* Light theme — swap ink surfaces for paper and invert text ramps.
+   Accents stay similar but slightly desaturated so they still read
+   against a near-white ground. Applied by putting .nhi-theme-light
+   on the root <html> element. */
+html.nhi-theme-light {
+  --nhi-ink:        #f5f7fb;
+  --nhi-ink-1:      #eef1f8;
+  --nhi-ink-2:      #e4e9f4;
+  --nhi-ink-3:      #d6deef;
+  --nhi-ink-4:      #c6d0e6;
+
+  --nhi-hairline:     rgba(20, 30, 60, 0.12);
+  --nhi-hairline-2:   rgba(20, 30, 60, 0.26);
+  --nhi-hairline-hot: rgba(40, 80, 180, 0.45);
+
+  --nhi-fog:    #4a5575;
+  --nhi-fog-2:  #202a45;
+  --nhi-bone:   #0b0f1a;
+
+  --nhi-sky:    #0284c7;
+  --nhi-violet: #7c3aed;
+  --nhi-rose:   #e11d48;
+  --nhi-amber:  #b45309;
+  --nhi-lime:   #15803d;
+}
+html.nhi-theme-light body { background: var(--nhi-ink); color: var(--nhi-bone); }
 
 /* Root container — the rebuild mounts inside .nhi-root so legacy CSS
    can't touch it. */

@@ -1,4 +1,4 @@
-import { Fragment, useEffect, useMemo, useRef, useState } from 'react';
+import { useEffect, useMemo, useRef, useState } from 'react';
 import { getYear } from '../lib/archive';
 import { NODE_TYPE_META } from '../lib/taxonomy';
 import type { ArchiveEdge, ArchiveNode, NodeType } from '../types';
@@ -23,58 +23,59 @@ const LANE_TYPES: NodeType[] = [
   'organization',
 ];
 
-// Parse date_start into a fractional year (for x positioning) and a
-// precision flag ('year' | 'month' | 'day').
-function parseDate(raw: string | null | undefined): { year: number; frac: number; precision: 'year' | 'month' | 'day' } | null {
+function parseDate(raw: string | null | undefined): { year: number; frac: number } | null {
   if (!raw) return null;
   const s = String(raw).trim();
-  const fullMatch = s.match(/^(\d{4})-(\d{1,2})-(\d{1,2})/);
-  if (fullMatch) {
-    const y = Number(fullMatch[1]);
-    const m = Number(fullMatch[2]);
-    const d = Number(fullMatch[3]);
-    const frac = y + ((m - 1) * 30 + (d - 1)) / 365;
-    return { year: y, frac, precision: 'day' };
+  const full = s.match(/^(\d{4})-(\d{1,2})-(\d{1,2})/);
+  if (full) {
+    const y = Number(full[1]);
+    const m = Number(full[2]);
+    const d = Number(full[3]);
+    return { year: y, frac: y + ((m - 1) * 30 + (d - 1)) / 365 };
   }
-  const monthMatch = s.match(/^(\d{4})-(\d{1,2})$/);
-  if (monthMatch) {
-    const y = Number(monthMatch[1]);
-    const m = Number(monthMatch[2]);
-    return { year: y, frac: y + (m - 1) / 12, precision: 'month' };
+  const monthOnly = s.match(/^(\d{4})-(\d{1,2})$/);
+  if (monthOnly) {
+    const y = Number(monthOnly[1]);
+    const m = Number(monthOnly[2]);
+    return { year: y, frac: y + (m - 1) / 12 };
   }
   const y = getYear(s);
   if (y === null) return null;
-  return { year: y, frac: y + 0.5, precision: 'year' };
+  return { year: y, frac: y + 0.5 };
 }
 
-interface LaidDot {
-  id: string;
-  node: ArchiveNode;
-  year: number;
-  frac: number;
-  precision: 'year' | 'month' | 'day';
+interface Bucket {
+  key: string;
   lane: number;
-  x: number;
-  y: number;
+  laneType: NodeType;
+  bucketStart: number;
+  bucketEnd: number;
+  nodes: ArchiveNode[];
+  centerFrac: number;
 }
 
 /**
- * Collision-packed timeline — every record with a parseable date_start
- * gets a dot in its type swimlane, and within each lane we run a
- * greedy y-distribution so nodes that share a year (or share a
- * close-in-time bucket) don't pile onto the same pixel. Dates with
- * month or day precision get placed at their true fractional x, so
- * "Nov 14 2004" and "Jun 30 2004" actually sit at different x's.
+ * Rewrite — bucket-first timeline. The previous per-node-dot layout
+ * reliably turned into a dart of tiny squares whenever many records
+ * shared a lane, which the user called unusable.
  *
- * Replaces the prior "same x → stack at same offset" version that the
- * user correctly called out as unreadable.
+ * New model: per lane × year-bucket (size adapts with zoom), render one
+ * tile with the item count. Click it to see the list. Single-item
+ * buckets render as a normal dot with the label inline; multi-item
+ * buckets become a small stack whose height scales with log(count).
  */
-export function TimelineView({ nodes, edges, selectedId, onSelect, breakpoint }: TimelineViewProps) {
+export function TimelineView({
+  nodes,
+  edges,
+  selectedId,
+  onSelect,
+  breakpoint,
+}: TimelineViewProps) {
   const isMobile = breakpoint === 'mobile';
   const [laneSet, setLaneSet] = useState<Set<NodeType>>(() => new Set(LANE_TYPES));
-  const [labelMode, setLabelMode] = useState<'hover' | 'all' | 'selected'>('hover');
-  const [hoverId, setHoverId] = useState<string | null>(null);
   const [zoom, setZoom] = useState(1);
+  const [openBucketKey, setOpenBucketKey] = useState<string | null>(null);
+  const [hoverBucketKey, setHoverBucketKey] = useState<string | null>(null);
 
   const toggleLane = (l: NodeType) => {
     setLaneSet((prev) => {
@@ -97,13 +98,12 @@ export function TimelineView({ nodes, edges, selectedId, onSelect, breakpoint }:
     return () => ro.disconnect();
   }, []);
 
-  const LANE_LABEL_W = isMobile ? 100 : 132;
-  const LANE_H = 86;
+  const LANE_LABEL_W = isMobile ? 104 : 140;
+  const LANE_H = 78;
   const baseInner = Math.max(600, w - LANE_LABEL_W - 24);
   const laneInner = baseInner * zoom;
   const fullWidth = LANE_LABEL_W + laneInner + 24;
 
-  // Year axis domain adapts to the filtered data, but clamped to 1945–now.
   const dates = useMemo(
     () =>
       nodes
@@ -115,95 +115,45 @@ export function TimelineView({ nodes, edges, selectedId, onSelect, breakpoint }:
   const minY = 1945;
   const maxY = Math.max(new Date().getFullYear(), ...dates.map((x) => x.parsed.year));
 
-  const xAt = (yearFrac: number) => LANE_LABEL_W + ((yearFrac - minY) / (maxY - minY)) * laneInner;
+  const xAt = (yearFrac: number) =>
+    LANE_LABEL_W + ((yearFrac - minY) / (maxY - minY)) * laneInner;
 
-  // Per-lane collision packing: assign y within each lane so nearby-in-x
-  // nodes distribute vertically. Greedy: seed all at lane center; sort
-  // by x; iterate pushing overlapping neighbors apart.
-  const laid = useMemo<LaidDot[]>(() => {
+  // Bucket size scales inversely with zoom so at wide view we see
+  // 10-year swathes and zooming in collapses toward single years.
+  const bucketSize = zoom >= 3 ? 1 : zoom >= 1.6 ? 2 : zoom >= 0.9 ? 5 : 10;
+
+  const buckets = useMemo<Bucket[]>(() => {
     if (dates.length === 0 || laneInner <= 0) return [];
-    const laidByLane: LaidDot[][] = lanes.map(() => []);
-    const perLane = new Map<NodeType, Array<{ node: ArchiveNode; parsed: NonNullable<ReturnType<typeof parseDate>> }>>();
-    for (const l of lanes) perLane.set(l, []);
+    const out = new Map<string, Bucket>();
     for (const d of dates) {
-      const bucket = perLane.get(d.node.node_type);
-      if (bucket) bucket.push(d);
-    }
-
-    const DOT_R = 6.5;
-    for (let li = 0; li < lanes.length; li += 1) {
-      const lane = lanes[li];
-      const items = (perLane.get(lane) ?? []).slice().sort((a, b) => a.parsed.frac - b.parsed.frac);
-      const laneCenter = li * LANE_H + LANE_H / 2 + 24;
-
-      const dots: LaidDot[] = items.map((d) => ({
-        id: d.node.id,
-        node: d.node,
-        year: d.parsed.year,
-        frac: d.parsed.frac,
-        precision: d.parsed.precision,
-        lane: li,
-        x: xAt(d.parsed.frac),
-        y: laneCenter,
-      }));
-
-      // Greedy resolve: for each dot, look at prior dots whose x is within 2R,
-      // and pick a y offset that doesn't overlap any of them.
-      for (let i = 0; i < dots.length; i += 1) {
-        const a = dots[i];
-        const tried = new Set<number>();
-        let attempt = 0;
-        // offsets in order: 0, -r, +r, -2r, +2r, -3r, +3r, ...
-        const maxBand = (LANE_H - 8) / 2;
-        let ok = false;
-        while (!ok && attempt < 40) {
-          const sign = attempt % 2 === 0 ? 1 : -1;
-          const mag = Math.ceil(attempt / 2);
-          const offset = sign * mag * (DOT_R * 1.6);
-          if (Math.abs(offset) > maxBand) break;
-          const candidate = laneCenter + offset;
-          // Check against prior dots in this lane whose x overlaps
-          let collides = false;
-          for (let j = i - 1; j >= 0; j -= 1) {
-            const b = dots[j];
-            if (a.x - b.x > DOT_R * 2) break;
-            if (Math.abs(b.y - candidate) < DOT_R * 1.8) {
-              collides = true;
-              break;
-            }
-          }
-          if (!collides) {
-            a.y = candidate;
-            ok = true;
-          }
-          tried.add(offset);
-          attempt += 1;
-        }
-        if (!ok) {
-          // Heavy pileup — just place at lane center (and accept overlap visually;
-          // the bucket indicator below flags these ranges).
-          a.y = laneCenter;
-        }
+      const lane = lanes.indexOf(d.node.node_type);
+      if (lane < 0) continue;
+      const bucketStart = Math.floor(d.parsed.frac / bucketSize) * bucketSize;
+      const bucketEnd = bucketStart + bucketSize;
+      const key = lane + ':' + bucketStart;
+      const existing = out.get(key);
+      if (existing) {
+        existing.nodes.push(d.node);
+      } else {
+        out.set(key, {
+          key,
+          lane,
+          laneType: lanes[lane],
+          bucketStart,
+          bucketEnd,
+          nodes: [d.node],
+          centerFrac: bucketStart + bucketSize / 2,
+        });
       }
-
-      laidByLane[li] = dots;
     }
-    return laidByLane.flat();
-    // xAt is a pure fn of laneInner + minY + maxY so no need to depend on it
-  }, [dates, lanes, laneInner, minY, maxY, LANE_H]);
+    return [...out.values()];
+  }, [dates, lanes, bucketSize, laneInner]);
 
-  // Density buckets — count dots per (lane, 3-year bucket) for the wide-zoom badge.
-  // Used as a "there are N more events within ±1.5 years" hint.
-  const densityByLaneYear = useMemo(() => {
-    const m = new Map<string, LaidDot[]>();
-    for (const d of laid) {
-      const bucket = Math.round(d.frac / 3) * 3;
-      const k = d.lane + ':' + bucket;
-      if (!m.has(k)) m.set(k, []);
-      m.get(k)!.push(d);
-    }
+  const countByLane = useMemo(() => {
+    const m = new Map<number, number>();
+    for (const b of buckets) m.set(b.lane, (m.get(b.lane) ?? 0) + b.nodes.length);
     return m;
-  }, [laid]);
+  }, [buckets]);
 
   const selected = useMemo(
     () => (selectedId ? nodes.find((n) => n.id === selectedId) : null),
@@ -220,55 +170,23 @@ export function TimelineView({ nodes, edges, selectedId, onSelect, breakpoint }:
     return set;
   }, [selected, edges]);
 
-  // Two passes for labels:
-  //   - "forced" labels always render (hover, selected, related-to-selected)
-  //   - other labels ("all" mode) go through a greedy per-lane collision
-  //     pass so we don't stack six names on top of each other.
-  const labelApproxWidth = (s: string) => Math.min(220, 22 + s.length * 6.2);
-
-  const { forcedLabelIds, ambientLabelIds } = useMemo(() => {
-    const forced = new Set<string>();
-    for (const d of laid) {
-      if (d.id === hoverId) forced.add(d.id);
-      if (d.id === selectedId) forced.add(d.id);
-      if (selected && relatedIds.has(d.id)) forced.add(d.id);
-    }
-    if (labelMode !== 'all') {
-      return { forcedLabelIds: forced, ambientLabelIds: new Set<string>() };
-    }
-    // Per-lane greedy placement: keep a label if its horizontal band
-    // doesn't collide with a previously-kept label at a similar y.
-    const ambient = new Set<string>();
-    const byLane = new Map<number, LaidDot[]>();
-    for (const d of laid) {
-      if (!byLane.has(d.lane)) byLane.set(d.lane, []);
-      byLane.get(d.lane)!.push(d);
-    }
-    for (const [, dots] of byLane) {
-      const sorted = [...dots].sort((a, b) => a.x - b.x);
-      const kept: { x0: number; x1: number; y: number }[] = [];
-      for (const d of sorted) {
-        const half = labelApproxWidth(d.node.label) / 2;
-        const x0 = d.x - half;
-        const x1 = d.x + half;
-        const collides = kept.some(
-          (k) => !(x1 < k.x0 - 4 || x0 > k.x1 + 4) && Math.abs(k.y - d.y) < 16,
-        );
-        if (collides && !forced.has(d.id)) continue;
-        ambient.add(d.id);
-        kept.push({ x0, x1, y: d.y });
+  // Close popover on outside click
+  useEffect(() => {
+    if (!openBucketKey) return;
+    const handler = (e: MouseEvent) => {
+      const target = e.target as HTMLElement;
+      if (!target.closest('[data-bucket-popover]') && !target.closest('[data-bucket-tile]')) {
+        setOpenBucketKey(null);
       }
-    }
-    return { forcedLabelIds: forced, ambientLabelIds: ambient };
-  }, [laid, hoverId, selectedId, selected, relatedIds, labelMode]);
+    };
+    window.addEventListener('mousedown', handler);
+    return () => window.removeEventListener('mousedown', handler);
+  }, [openBucketKey]);
 
-  const labelVisible = (id: string) => {
-    if (forcedLabelIds.has(id)) return true;
-    if (labelMode === 'all' && ambientLabelIds.has(id)) return true;
-    return false;
-  };
+  const decades = [1950, 1960, 1970, 1980, 1990, 2000, 2010, 2020];
+  const majorYears = zoom >= 2 ? decades : decades.filter((y) => y % 20 === 0);
 
-  const years = zoom >= 2 ? [1950, 1960, 1970, 1980, 1990, 2000, 2010, 2020] : [1950, 1970, 1990, 2010];
+  const openBucket = buckets.find((b) => b.key === openBucketKey) ?? null;
 
   return (
     <div
@@ -293,7 +211,9 @@ export function TimelineView({ nodes, edges, selectedId, onSelect, breakpoint }:
         <div style={{ display: 'flex', alignItems: 'baseline', gap: 10 }}>
           <span className="nhi-micro">FILTER · LANES</span>
           <span className="nhi-mono" style={{ fontSize: 9, color: 'var(--nhi-fog)' }}>
-            {lanes.length}/{LANE_TYPES.length} ACTIVE · {laid.length} NODES
+            {lanes.length}/{LANE_TYPES.length} ACTIVE ·{' '}
+            {buckets.reduce((acc, b) => acc + b.nodes.length, 0)} DATED NODES ·{' '}
+            {bucketSize}Y BUCKETS
           </span>
         </div>
         <div style={{ display: 'flex', flexWrap: 'wrap', gap: 6 }}>
@@ -308,8 +228,10 @@ export function TimelineView({ nodes, edges, selectedId, onSelect, breakpoint }:
                   alignItems: 'center',
                   gap: 6,
                   padding: '4px 9px',
-                  border: '1px solid ' + (on ? 'var(--nhi-hairline-hot)' : 'var(--nhi-hairline)'),
-                  background: on ? 'rgba(125,211,252,0.08)' : 'transparent',
+                  border:
+                    '1px solid ' +
+                    (on ? 'var(--nhi-hairline-hot)' : 'var(--nhi-hairline)'),
+                  background: on ? 'rgba(125,211,252,0.10)' : 'transparent',
                   color: on ? 'var(--nhi-bone)' : 'var(--nhi-fog)',
                   fontFamily: 'var(--nhi-f-mono)',
                   fontSize: 10,
@@ -325,28 +247,31 @@ export function TimelineView({ nodes, edges, selectedId, onSelect, breakpoint }:
           })}
         </div>
         <div style={{ flex: 1 }} />
+
         <div style={{ display: 'flex', alignItems: 'center', gap: 6 }}>
-          <span className="nhi-micro">LABELS</span>
-          {(['hover', 'selected', 'all'] as const).map((m) => (
+          <span className="nhi-micro">JUMP</span>
+          {decades.map((y) => (
             <button
-              key={m}
-              onClick={() => setLabelMode(m)}
+              key={y}
+              onClick={() => {
+                if (!wrapRef.current) return;
+                const x = xAt(y + 0.5) - LANE_LABEL_W - 40;
+                wrapRef.current.scrollTo({ left: Math.max(0, x), behavior: 'smooth' });
+              }}
+              className="nhi-mono"
               style={{
-                padding: '3px 8px',
-                border:
-                  '1px solid ' +
-                  (labelMode === m ? 'var(--nhi-hairline-hot)' : 'var(--nhi-hairline)'),
-                background: labelMode === m ? 'rgba(196,181,253,0.10)' : 'transparent',
-                fontFamily: 'var(--nhi-f-mono)',
-                fontSize: 10,
-                letterSpacing: '0.14em',
-                color: labelMode === m ? 'var(--nhi-bone)' : 'var(--nhi-fog)',
+                fontSize: 9,
+                padding: '3px 7px',
+                border: '1px solid var(--nhi-hairline)',
+                color: 'var(--nhi-fog-2)',
+                letterSpacing: '0.12em',
               }}
             >
-              {m.toUpperCase()}
+              {`${y}s`}
             </button>
           ))}
         </div>
+
         <div style={{ display: 'flex', alignItems: 'center', gap: 6 }}>
           <span className="nhi-micro">ZOOM</span>
           <button
@@ -385,7 +310,7 @@ export function TimelineView({ nodes, edges, selectedId, onSelect, breakpoint }:
       <div
         ref={wrapRef}
         className="nhi-scroll"
-        style={{ flex: 1, overflowX: 'auto', overflowY: 'auto' }}
+        style={{ flex: 1, overflowX: 'auto', overflowY: 'auto', position: 'relative' }}
       >
         <div
           style={{
@@ -398,13 +323,13 @@ export function TimelineView({ nodes, edges, selectedId, onSelect, breakpoint }:
             style={{
               position: 'sticky',
               top: 0,
-              height: 24,
+              height: 26,
               background: 'var(--nhi-ink)',
               borderBottom: '1px solid var(--nhi-hairline)',
               zIndex: 20,
             }}
           >
-            {years.map((y) => (
+            {majorYears.map((y) => (
               <div
                 key={y}
                 style={{
@@ -425,7 +350,7 @@ export function TimelineView({ nodes, edges, selectedId, onSelect, breakpoint }:
                 <span
                   className="nhi-mono"
                   style={{
-                    fontSize: 9,
+                    fontSize: 10,
                     color: 'var(--nhi-fog-2)',
                     letterSpacing: '0.12em',
                   }}
@@ -436,22 +361,22 @@ export function TimelineView({ nodes, edges, selectedId, onSelect, breakpoint }:
             ))}
           </div>
 
-          {years.map((y) => (
+          {majorYears.map((y) => (
             <div
               key={'g' + y}
               style={{
                 position: 'absolute',
                 left: xAt(y),
-                top: 24,
+                top: 26,
                 bottom: 0,
                 width: 1,
-                background: 'rgba(148,163,216,0.05)',
+                background: 'rgba(148,163,216,0.06)',
               }}
             />
           ))}
 
           {lanes.map((lane, li) => {
-            const top = 24 + li * LANE_H;
+            const top = 26 + li * LANE_H;
             return (
               <div
                 key={lane}
@@ -474,7 +399,8 @@ export function TimelineView({ nodes, edges, selectedId, onSelect, breakpoint }:
                     display: 'flex',
                     gap: 8,
                     alignItems: 'center',
-                    background: 'linear-gradient(90deg, var(--nhi-ink) 85%, transparent)',
+                    background:
+                      'linear-gradient(90deg, var(--nhi-ink) 86%, transparent)',
                     zIndex: 10,
                   }}
                 >
@@ -484,15 +410,23 @@ export function TimelineView({ nodes, edges, selectedId, onSelect, breakpoint }:
                   <div>
                     <div
                       className="nhi-mono"
-                      style={{ fontSize: 10, letterSpacing: '0.14em', color: 'var(--nhi-fog-2)' }}
+                      style={{
+                        fontSize: 10,
+                        letterSpacing: '0.14em',
+                        color: 'var(--nhi-fog-2)',
+                      }}
                     >
                       {NODE_TYPE_META[lane]?.label ?? lane}
                     </div>
                     <div
                       className="nhi-mono"
-                      style={{ fontSize: 8, color: 'var(--nhi-fog)', letterSpacing: '0.14em' }}
+                      style={{
+                        fontSize: 8,
+                        color: 'var(--nhi-fog)',
+                        letterSpacing: '0.14em',
+                      }}
                     >
-                      {laid.filter((d) => d.lane === li).length} NODES
+                      {countByLane.get(li) ?? 0} NODES
                     </div>
                   </div>
                 </div>
@@ -510,135 +444,297 @@ export function TimelineView({ nodes, edges, selectedId, onSelect, breakpoint }:
             );
           })}
 
-          {laid.map((d) => {
-            const isSelected = d.id === selectedId;
-            const rel = selected ? relatedIds.has(d.id) : false;
-            const isHover = d.id === hoverId;
-            const showLabel = labelVisible(d.id);
-            const absTop = d.y;
-            return (
-              <Fragment key={d.id}>
-                <button
-                  onClick={() => onSelect(d.id)}
-                  onMouseEnter={() => setHoverId(d.id)}
-                  onMouseLeave={() => setHoverId((h) => (h === d.id ? null : h))}
-                  title={`${d.node.label} · ${d.node.date_start ?? d.year}`}
-                  style={{
-                    position: 'absolute',
-                    left: d.x,
-                    top: absTop - (isSelected || isHover ? 10 : 7),
-                    transform: 'translateX(-50%)',
-                    width: isSelected || isHover ? 20 : 14,
-                    height: isSelected || isHover ? 20 : 14,
-                    border:
-                      '1px solid ' +
-                      (isSelected
-                        ? 'var(--nhi-sky)'
-                        : rel
-                          ? 'var(--nhi-violet)'
-                          : isHover
-                            ? 'var(--nhi-bone)'
-                            : 'var(--nhi-hairline-hot)'),
-                    background: isSelected
-                      ? 'var(--nhi-sky)'
-                      : rel
-                        ? 'rgba(196,181,253,0.5)'
-                        : 'rgba(14,20,36,0.9)',
-                    boxShadow: isSelected
-                      ? '0 0 12px var(--nhi-sky)'
-                      : isHover
-                        ? '0 0 8px var(--nhi-bone)'
-                        : 'none',
-                    zIndex: isSelected || isHover ? 15 : 5,
-                    transition: 'all 120ms var(--nhi-ease)',
-                    cursor: 'pointer',
-                    padding: 0,
-                  }}
-                />
-                {showLabel && (
-                  <div
-                    style={{
-                      position: 'absolute',
-                      left: d.x,
-                      top: absTop + (d.y % 16 < 8 ? 14 : -28),
-                      transform: 'translateX(-50%)',
-                      fontFamily: 'var(--nhi-f-body)',
-                      fontSize: 11,
-                      lineHeight: 1.2,
-                      color: isSelected
-                        ? 'var(--nhi-sky)'
-                        : rel
-                          ? 'var(--nhi-violet)'
-                          : 'var(--nhi-bone)',
-                      whiteSpace: 'nowrap',
-                      pointerEvents: 'none',
-                      textAlign: 'center',
-                      padding: '2px 6px',
-                      background: 'rgba(10,14,26,0.92)',
-                      border:
-                        '1px solid ' +
-                        (isSelected
-                          ? 'var(--nhi-sky)'
-                          : rel
-                            ? 'var(--nhi-violet)'
-                            : 'var(--nhi-hairline-hot)'),
-                      zIndex: 16,
-                      maxWidth: 220,
-                      overflow: 'hidden',
-                      textOverflow: 'ellipsis',
-                    }}
-                  >
-                    {d.node.label}
-                    <span
-                      className="nhi-mono"
-                      style={{
-                        fontSize: 8,
-                        color: 'var(--nhi-fog)',
-                        marginLeft: 6,
-                        letterSpacing: '0.12em',
-                      }}
-                    >
-                      {d.node.date_start ?? d.year}
-                    </span>
-                  </div>
-                )}
-              </Fragment>
-            );
-          })}
+          {buckets.map((b) => (
+            <BucketTile
+              key={b.key}
+              bucket={b}
+              laneCenter={26 + b.lane * LANE_H + LANE_H / 2}
+              xAt={xAt}
+              selectedId={selectedId}
+              relatedIds={relatedIds}
+              onOpen={() => setOpenBucketKey((k) => (k === b.key ? null : b.key))}
+              isHover={hoverBucketKey === b.key}
+              isOpen={openBucketKey === b.key}
+              onHover={setHoverBucketKey}
+              onSelectSingle={onSelect}
+            />
+          ))}
 
-          {/* Wide-zoom density badges: when zoomed out, show a small
-              "×N" chip next to dense 3-year buckets so users know
-              there's more there than any single dot suggests. */}
-          {zoom < 1.2 &&
-            Array.from(densityByLaneYear.entries()).map(([k, items]) => {
-              if (items.length < 4) return null;
-              const any = items[0];
-              const cx = xAt(any.frac);
-              const laneCenterY = 24 + any.lane * LANE_H + LANE_H / 2;
-              return (
-                <div
-                  key={'bucket-' + k}
-                  style={{
-                    position: 'absolute',
-                    left: cx + 10,
-                    top: laneCenterY + 8,
-                    fontFamily: 'var(--nhi-f-mono)',
-                    fontSize: 9,
-                    padding: '1px 5px',
-                    color: 'var(--nhi-violet)',
-                    border: '1px solid var(--nhi-hairline-2)',
-                    background: 'rgba(196,181,253,0.08)',
-                    letterSpacing: '0.1em',
-                    pointerEvents: 'none',
-                    zIndex: 6,
-                  }}
-                >
-                  ×{items.length}
-                </div>
-              );
-            })}
+          {openBucket && (
+            <BucketPopover
+              bucket={openBucket}
+              x={Math.min(
+                xAt(openBucket.centerFrac) + 14,
+                fullWidth - 312,
+              )}
+              y={26 + openBucket.lane * LANE_H + LANE_H}
+              selectedId={selectedId}
+              relatedIds={relatedIds}
+              onPick={(id) => {
+                onSelect(id);
+                setOpenBucketKey(null);
+              }}
+              onClose={() => setOpenBucketKey(null)}
+            />
+          )}
         </div>
       </div>
+    </div>
+  );
+}
+
+interface BucketTileProps {
+  bucket: Bucket;
+  laneCenter: number;
+  xAt: (f: number) => number;
+  selectedId: string | null;
+  relatedIds: Set<string>;
+  isHover: boolean;
+  isOpen: boolean;
+  onOpen: () => void;
+  onHover: (k: string | null) => void;
+  onSelectSingle: (id: string) => void;
+}
+
+function BucketTile({
+  bucket,
+  laneCenter,
+  xAt,
+  selectedId,
+  relatedIds,
+  isHover,
+  isOpen,
+  onOpen,
+  onHover,
+  onSelectSingle,
+}: BucketTileProps) {
+  const count = bucket.nodes.length;
+  const hasSelected = bucket.nodes.some((n) => n.id === selectedId);
+  const hasRelated = bucket.nodes.some((n) => relatedIds.has(n.id));
+
+  const x0 = xAt(bucket.bucketStart);
+  const x1 = xAt(bucket.bucketEnd);
+  const width = Math.max(14, x1 - x0 - 2);
+
+  // Height scales with log(count), capped so a 50-item bucket stays inside lane.
+  const height = Math.min(52, 12 + Math.round(Math.log2(count + 1) * 6));
+
+  const baseBorder = hasSelected
+    ? 'var(--nhi-sky)'
+    : hasRelated
+      ? 'var(--nhi-violet)'
+      : isOpen || isHover
+        ? 'var(--nhi-hairline-hot)'
+        : 'var(--nhi-hairline-2)';
+
+  const baseBg = hasSelected
+    ? 'rgba(125,211,252,0.32)'
+    : hasRelated
+      ? 'rgba(196,181,253,0.28)'
+      : isOpen || isHover
+        ? 'rgba(125,211,252,0.18)'
+        : 'rgba(20,26,46,0.62)';
+
+  if (count === 1) {
+    const n = bucket.nodes[0];
+    const isSel = n.id === selectedId;
+    const isRel = relatedIds.has(n.id);
+    return (
+      <button
+        data-bucket-tile
+        onClick={() => onSelectSingle(n.id)}
+        onMouseEnter={() => onHover(bucket.key)}
+        onMouseLeave={() => onHover(null)}
+        title={`${n.label} · ${n.date_start ?? bucket.bucketStart}`}
+        style={{
+          position: 'absolute',
+          left: xAt(bucket.centerFrac),
+          top: laneCenter - 8,
+          transform: 'translateX(-50%)',
+          width: 16,
+          height: 16,
+          border:
+            '1px solid ' +
+            (isSel
+              ? 'var(--nhi-sky)'
+              : isRel
+                ? 'var(--nhi-violet)'
+                : isHover
+                  ? 'var(--nhi-bone)'
+                  : 'var(--nhi-hairline-hot)'),
+          background: isSel
+            ? 'var(--nhi-sky)'
+            : isRel
+              ? 'rgba(196,181,253,0.5)'
+              : 'rgba(14,20,36,0.9)',
+          boxShadow: isSel ? '0 0 10px var(--nhi-sky)' : 'none',
+          zIndex: isSel || isHover ? 15 : 5,
+          padding: 0,
+        }}
+      />
+    );
+  }
+
+  return (
+    <>
+      <button
+        data-bucket-tile
+        onClick={onOpen}
+        onMouseEnter={() => onHover(bucket.key)}
+        onMouseLeave={() => onHover(null)}
+        title={`${count} items · ${bucket.bucketStart}–${bucket.bucketEnd - 1}`}
+        style={{
+          position: 'absolute',
+          left: x0 + 1,
+          top: laneCenter - height / 2,
+          width,
+          height,
+          border: '1px solid ' + baseBorder,
+          background: baseBg,
+          color: 'var(--nhi-bone)',
+          fontFamily: 'var(--nhi-f-mono)',
+          fontSize: 11,
+          letterSpacing: '0.08em',
+          display: 'flex',
+          alignItems: 'center',
+          justifyContent: 'center',
+          gap: 6,
+          padding: 0,
+          zIndex: isOpen ? 18 : isHover ? 12 : 6,
+          transition: 'background 120ms var(--nhi-ease), border-color 120ms var(--nhi-ease)',
+          cursor: 'pointer',
+        }}
+      >
+        <span style={{ color: 'var(--nhi-sky)' }}>
+          <NodeGlyph type={bucket.laneType} size={10} />
+        </span>
+        <span>×{count}</span>
+      </button>
+      {(isHover || isOpen) && (
+        <div
+          style={{
+            position: 'absolute',
+            left: xAt(bucket.centerFrac),
+            top: laneCenter - height / 2 - 18,
+            transform: 'translateX(-50%)',
+            fontFamily: 'var(--nhi-f-mono)',
+            fontSize: 9,
+            letterSpacing: '0.14em',
+            color: 'var(--nhi-fog-2)',
+            pointerEvents: 'none',
+            whiteSpace: 'nowrap',
+          }}
+        >
+          {bucket.bucketStart}–{bucket.bucketEnd - 1}
+        </div>
+      )}
+    </>
+  );
+}
+
+interface BucketPopoverProps {
+  bucket: Bucket;
+  x: number;
+  y: number;
+  selectedId: string | null;
+  relatedIds: Set<string>;
+  onPick: (id: string) => void;
+  onClose: () => void;
+}
+
+function BucketPopover({ bucket, x, y, selectedId, relatedIds, onPick, onClose }: BucketPopoverProps) {
+  const sorted = [...bucket.nodes].sort((a, b) => {
+    const da = a.date_start ?? '';
+    const db = b.date_start ?? '';
+    if (da && db) return da.localeCompare(db);
+    return (a.label ?? '').localeCompare(b.label ?? '');
+  });
+  return (
+    <div
+      data-bucket-popover
+      className="nhi-scroll"
+      style={{
+        position: 'absolute',
+        left: x,
+        top: y,
+        width: 300,
+        maxHeight: 300,
+        overflowY: 'auto',
+        background: 'var(--nhi-ink-2)',
+        border: '1px solid var(--nhi-hairline-hot)',
+        boxShadow: '0 6px 24px rgba(5,7,13,0.6)',
+        zIndex: 40,
+      }}
+    >
+      <div
+        style={{
+          display: 'flex',
+          alignItems: 'center',
+          justifyContent: 'space-between',
+          padding: '8px 10px',
+          borderBottom: '1px solid var(--nhi-hairline)',
+          position: 'sticky',
+          top: 0,
+          background: 'var(--nhi-ink-2)',
+        }}
+      >
+        <span className="nhi-mono" style={{ fontSize: 10, letterSpacing: '0.14em', color: 'var(--nhi-fog-2)' }}>
+          {(NODE_TYPE_META[bucket.laneType]?.label ?? bucket.laneType).toUpperCase()} · {bucket.bucketStart}–{bucket.bucketEnd - 1} · {bucket.nodes.length}
+        </span>
+        <button
+          onClick={onClose}
+          className="nhi-mono"
+          style={{ fontSize: 10, color: 'var(--nhi-fog)', padding: '2px 6px' }}
+          aria-label="Close"
+        >
+          ×
+        </button>
+      </div>
+      {sorted.map((n) => {
+        const isSel = n.id === selectedId;
+        const isRel = relatedIds.has(n.id);
+        return (
+          <button
+            key={n.id}
+            onClick={() => onPick(n.id)}
+            style={{
+              display: 'flex',
+              alignItems: 'center',
+              gap: 8,
+              width: '100%',
+              textAlign: 'left',
+              padding: '8px 10px',
+              borderBottom: '1px solid var(--nhi-hairline)',
+              background: isSel ? 'rgba(125,211,252,0.12)' : 'transparent',
+              color: isSel
+                ? 'var(--nhi-sky)'
+                : isRel
+                  ? 'var(--nhi-violet)'
+                  : 'var(--nhi-bone)',
+            }}
+          >
+            <span
+              className="nhi-mono"
+              style={{ fontSize: 9, color: 'var(--nhi-fog)', letterSpacing: '0.12em', width: 72, flexShrink: 0 }}
+            >
+              {n.date_start ?? '—'}
+            </span>
+            <span
+              style={{
+                flex: 1,
+                minWidth: 0,
+                fontFamily: 'var(--nhi-f-body)',
+                fontSize: 13,
+                overflow: 'hidden',
+                textOverflow: 'ellipsis',
+                whiteSpace: 'nowrap',
+              }}
+            >
+              {n.label}
+            </span>
+          </button>
+        );
+      })}
     </div>
   );
 }

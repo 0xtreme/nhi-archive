@@ -34,10 +34,69 @@ Scene Explorer defaults to Radial Focus (commit `374b02d`). Toggle to Constellat
 - **Drag-from-ring2 is small on mobile.** 22px touch target is below the 44px iOS guideline. Fine for desktop; flag for mobile QA pass.
 - **Ambient label collision pass uses `lane` as the only y key.** Nodes packed high-vs-low within the same lane can still overlap labels if their `y` difference is <16px. In practice the collision packer keeps them further apart, but a stricter pass would compare against exact y.
 
-## Pending / next session
+## Second pass (same day)
 
-- Mobile QA pass — touch targets, Topbar cramping, EntityDetail drawer on narrow viewports.
-- Timeline: should the `×N` density chip be clickable (open a mini popover listing the bucket's nodes)? Right now it's decorative.
-- Search result count / "no match" state in CommandPalette. Currently silent on empty.
-- Consider surfacing `HYNEK SCALE` hovers on mobile (no hover). Tap-to-reveal would match how other legend panels behave.
-- GitHub Pages verification after this commit — hit the deployed URL, walk through: brand click → search pick → radial drag → timeline ambient labels → entity drawer on a hub node.
+After review the user pushed back on three things; all landed:
+
+### Timeline — rewritten
+The collision-pack + label-dedup pass wasn't enough. Replaced the per-node-dot layout with a **bucket-first** renderer:
+
+- Per lane × year-bucket (size adapts with zoom: 10 yr at <0.9×, 5 yr at 1×, 2 yr at 1.6×, 1 yr at 3×+), render one tile with `×N` count + glyph.
+- Single-item buckets still render as a small square (so lanes with few events don't look heavier than they are).
+- Click a multi-item bucket → popover (chronologically sorted list with date + label). Picking a row selects it in EntityDetail.
+- `JUMP · 1950s … 2020s` decade chips scroll the view container.
+- The previous density-`×N` chip is now the primary visual, not an overlay.
+
+### Light mode
+New `.nhi-theme-light` class on `<html>` overrides design tokens (`--nhi-ink*`, `--nhi-bone`, `--nhi-fog*`, `--nhi-hairline*`, accents). Body background now reads from `var(--nhi-ink)` so the theme swap sticks. Topbar gets a ☀/☾ button to toggle; preference persists to `localStorage`.
+
+Known gap: many components still use hardcoded `rgba(14,20,36,…)` backgrounds, which look muddy on a light ground. Passed over LandingHub (stat chips, perspective cards); the rest is a known rough edge — see "Light mode v1 scope" below.
+
+### LandingHub
+`maxWidth` 980 → 1400; perspective grid `minmax(260px,1fr)` → `minmax(300px,1fr)` with 14px gap. At 1440px viewport this gives exactly 4 columns. Below ~1280 it flows down to 3, then 2, then 1.
+
+## Light mode v1 scope
+
+Token-responsive: Topbar, LandingHub, Timeline, EntityDetail top bar, Map legend.
+
+Still hardcoded dark — will look muddy in light mode until tokenised:
+- `SceneCanvas` overlay gradient + community halos
+- `RadialFocus` focus-glow gradient + NodeBubble backgrounds (`rgba(20,26,46,…)`)
+- EntityDetail body panels
+- Scene Explorer header bar backgrounds
+- TimelineView bucket tile backgrounds (mostly tokenised, a couple still `rgba(20,26,46,0.62)` — fine against grey-ish light ink-2 but not ideal)
+
+Acceptable as v1 — theme toggle works, obvious views are readable, no infinite-yak-shave before ship.
+
+## Next chapter — onboarding layer
+
+User pointed at `docs/NHI_Archive_Onboarding_Design.md` (NHI-ARCH-ONB-001, v1.0). Read end-to-end. It's a complete spec for a parallel narrative-first entry point.
+
+Key constraints for implementation:
+
+- **Routes.** `/` = onboarding long-scroll, `/archive` = existing expert view. Landing logic uses `localStorage['nhi_onboarding_complete']` / `nhi_preferred_view`. Header pill toggle persists choice.
+- **Five acts, single scroll.** Hook (July 2023 Grusch hearing) → Reframe (stigma trace 1969→2017) → Evidence (3 tiers: Documented / Sworn / Claimed) → Cast (6 named witnesses, institutional) → Handoff (3 doorways: timeline, graph, map).
+- **Deep-link contract to expert view.** `?seed=<node_id>` / `?filter=<tier>` / `?era=<YYYY>` / `?tutorial=on`. Tutorial overlay only on first arrival, gated by `localStorage['nhi_tutorial_seen']`.
+- **Content in static JSON**, not hardcoded JSX. `content/onboarding.ts` with an `OnboardingStep[]` shape. Keeps copy iteration and future i18n cheap.
+- **Phased build (3× ~1 week each).** Phase 1 ships static MVP (5-step flow, real copy, placeholder portraits, only Step 5 doorways wired); Phase 2 wires deep-links + tutorial + real witness cards; Phase 3 adds motion/progress rail.
+- **Ship-early rule explicit in the doc.** Static MVP is 80% of the value — do not block it on polish.
+
+Tech-fit notes against current repo:
+- Doc suggests Next.js App Router. Current stack is Vite + React + GH Pages static deploy. Recommend **keep Vite** and add `/` as a new scene within the existing SPA (react-router or a simple route guard); avoid Next.js migration for a single narrative page. Revisit only if SSR/SEO becomes a requirement.
+- Design tokens (`--nhi-ink`, `--nhi-bone`, `--nhi-sky`, …) already match the doc's "classified intelligence terminal meets deep-space observatory" aesthetic — the components in §8 can be built on the existing system directly without a second CSS layer.
+- Analytics is called out (Plausible/PostHog) — not currently wired. Leave for Phase 3.
+- Performance budget 120KB gz for onboarding JS is easily met if we share the existing React + tokens runtime and keep the onboarding page free of `react-force-graph-2d` / Leaflet / `supercluster` imports.
+
+Suggested Phase 1 slicing for next session:
+1. Add a top-level route switcher (`/` vs `/archive`) without ripping out current `App.tsx`
+2. Build `OnboardingPage` + the 5 Act components from §6 with real copy from §9
+3. Wire Step 5 doorways to `/archive?view=…`
+4. Header pill toggle + localStorage gate
+5. Skip portraits, deep-link seeds, tutorial overlay — those land in Phase 2
+
+## Standing rough edges (not blocking)
+
+- Mobile QA pass — touch targets in RadialFocus, Topbar cramping, EntityDetail drawer on narrow viewports, Timeline bucket tiles below 44px on small lanes.
+- CommandPalette "no match" state is currently silent.
+- Hynek map legend hover-titles don't surface on mobile (no hover). Tap-to-reveal still owed.
+- Light-mode hardcoded-rgba cleanup (see "Light mode v1 scope" above).

@@ -15,6 +15,8 @@ interface TopbarProps {
   onBrandClick: () => void;
   breakpoint: 'mobile' | 'tablet' | 'desktop';
   openFilters?: () => void;
+  theme: 'dark' | 'light';
+  onToggleTheme: () => void;
 }
 
 type ViewOption = { k: ViewMode; label: string; glyph: string };
@@ -41,6 +43,8 @@ export function Topbar({
   onBrandClick,
   breakpoint,
   openFilters,
+  theme,
+  onToggleTheme,
 }: TopbarProps) {
   const [q, setQ] = useState('');
   const [focused, setFocused] = useState(false);
@@ -326,6 +330,25 @@ export function Topbar({
           );
         })}
       </div>
+
+      <button
+        onClick={onToggleTheme}
+        title={theme === 'dark' ? 'Switch to light theme' : 'Switch to dark theme'}
+        aria-label="Toggle theme"
+        className="nhi-mono"
+        style={{
+          padding: isMobile ? '6px 8px' : '6px 10px',
+          border: '1px solid var(--nhi-hairline-2)',
+          borderRadius: 2,
+          color: 'var(--nhi-fog-2)',
+          fontSize: 12,
+          letterSpacing: '0.14em',
+          lineHeight: 1,
+          flexShrink: 0,
+        }}
+      >
+        {theme === 'dark' ? '☀' : '☾'}
+      </button>
 
       {!isMobile && (
         <>

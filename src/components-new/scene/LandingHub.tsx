@@ -76,7 +76,7 @@ export function LandingHub({
         }}
       />
 
-      <div style={{ position: 'relative', maxWidth: 980, width: '100%', margin: '0 auto' }}>
+      <div style={{ position: 'relative', maxWidth: 1400, width: '100%', margin: '0 auto' }}>
         <div className="nhi-micro">START HERE</div>
         <h1
           className="nhi-display"
@@ -130,7 +130,7 @@ export function LandingHub({
                     gap: 6,
                     padding: '6px 12px',
                     border: '1px solid var(--nhi-hairline)',
-                    background: 'rgba(14,20,36,0.35)',
+                    background: 'var(--nhi-ink-2)',
                   }}
                 >
                   <span style={{ color: 'var(--nhi-sky)' }}>
@@ -180,7 +180,7 @@ export function LandingHub({
         </div>
       </div>
 
-      <div style={{ position: 'relative', maxWidth: 980, width: '100%', margin: '0 auto' }}>
+      <div style={{ position: 'relative', maxWidth: 1400, width: '100%', margin: '0 auto' }}>
         <div className="nhi-micro" style={{ marginBottom: 10 }}>
           JUMP TO AN ENTITY
         </div>
@@ -290,15 +290,15 @@ export function LandingHub({
         )}
       </div>
 
-      <div style={{ position: 'relative', maxWidth: 980, width: '100%', margin: '0 auto' }}>
+      <div style={{ position: 'relative', maxWidth: 1400, width: '100%', margin: '0 auto' }}>
         <div className="nhi-micro" style={{ marginBottom: 10 }}>
           CURATED PERSPECTIVES · {perspectives.length}
         </div>
         <div
           style={{
             display: 'grid',
-            gridTemplateColumns: 'repeat(auto-fill, minmax(260px, 1fr))',
-            gap: 12,
+            gridTemplateColumns: 'repeat(auto-fill, minmax(300px, 1fr))',
+            gap: 14,
           }}
         >
           {perspectives.map((p) => (
@@ -308,7 +308,7 @@ export function LandingHub({
               style={{
                 textAlign: 'left',
                 border: '1px solid var(--nhi-hairline-2)',
-                background: 'rgba(14,20,36,0.55)',
+                background: 'var(--nhi-ink-1)',
                 padding: '16px 16px 18px',
                 display: 'flex',
                 flexDirection: 'column',

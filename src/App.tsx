@@ -43,6 +43,20 @@ export default function App() {
     if (window.innerWidth < 1280) return 'tablet';
     return 'desktop';
   });
+  const [theme, setTheme] = useState<'dark' | 'light'>(() => {
+    if (typeof window === 'undefined') return 'dark';
+    const stored = window.localStorage.getItem('nhi-theme');
+    return stored === 'light' ? 'light' : 'dark';
+  });
+
+  useEffect(() => {
+    document.documentElement.classList.toggle('nhi-theme-light', theme === 'light');
+    try {
+      window.localStorage.setItem('nhi-theme', theme);
+    } catch {
+      // storage unavailable (private mode, quota) — in-memory state still works
+    }
+  }, [theme]);
 
   useEffect(() => {
     const onResize = () => {
@@ -201,6 +215,8 @@ export default function App() {
         onOpenCommandPalette={() => setPaletteOpen(true)}
         onBrandClick={onBrandClick}
         breakpoint={breakpoint}
+        theme={theme}
+        onToggleTheme={() => setTheme((t) => (t === 'dark' ? 'light' : 'dark'))}
       />
 
       <CommandPalette
