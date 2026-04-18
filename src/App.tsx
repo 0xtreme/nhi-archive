@@ -111,7 +111,8 @@ export default function App() {
         try {
           await loadMonolithic();
         } catch {
-          // fallbackGraph already in state
+          // Both chunked and monolithic fetches failed — stay on the
+          // empty-graph initial state; UI will show the empty states.
         }
       }
     };
