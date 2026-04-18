@@ -140,13 +140,27 @@ export function SceneCanvas({
     ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
     ctx.clearRect(0, 0, size.w, size.h);
 
+    // Resolve CSS variables once per frame so the canvas tracks the
+    // active theme. Falls back to the dark-mode literals if the token
+    // isn't set yet (first paint before the stylesheet applies).
+    const css = getComputedStyle(document.documentElement);
+    const read = (name: string, fb: string) => {
+      const v = css.getPropertyValue(name).trim();
+      return v || fb;
+    };
+    const edgeDim = read('--nhi-edge-dim', 'rgba(148,163,216,0.14)');
+    const edgeLit = read('--nhi-edge', 'rgba(196,181,253,0.38)');
+    const backdropWash = read('--nhi-backdrop-wash', 'rgba(125,211,252,0.05)');
+    const backdropEdge = read('--nhi-backdrop-edge', 'rgba(5,7,13,0.7)');
+    const boneColor = read('--nhi-bone', '#e7ebf7');
+    const fogColor = read('--nhi-fog', '#9aa4c7');
+
     // Soft backdrop — subtle radial glow
     const cx = size.w / 2;
     const cy = size.h / 2;
     const bg = ctx.createRadialGradient(cx, cy, 0, cx, cy, Math.max(size.w, size.h));
-    bg.addColorStop(0, 'rgba(20,30,60,0.25)');
-    bg.addColorStop(0.7, 'rgba(10,14,26,0.15)');
-    bg.addColorStop(1, 'rgba(5,7,13,0)');
+    bg.addColorStop(0, backdropWash);
+    bg.addColorStop(1, backdropEdge);
     ctx.fillStyle = bg;
     ctx.fillRect(0, 0, size.w, size.h);
 
@@ -178,11 +192,7 @@ export function SceneCanvas({
       if (!a || !b) continue;
       const inHop = hopSet && hopSet.has(e.from_node_id) && hopSet.has(e.to_node_id);
       const dim = hopSet && !inHop;
-      ctx.strokeStyle = inHop
-        ? 'rgba(196,181,253,0.85)'
-        : dim
-          ? 'rgba(125,140,200,0.08)'
-          : 'rgba(125,140,200,0.30)';
+      ctx.strokeStyle = inHop ? edgeLit : dim ? edgeDim : edgeLit;
       ctx.beginPath();
       ctx.moveTo(a.x as number, a.y as number);
       ctx.lineTo(b.x as number, b.y as number);
@@ -194,7 +204,7 @@ export function SceneCanvas({
         const my = ((a.y as number) + (b.y as number)) / 2;
         ctx.save();
         ctx.font = `${8 / view.k}px 'JetBrains Mono', monospace`;
-        ctx.fillStyle = inHop ? 'rgba(196,181,253,0.9)' : 'rgba(148,163,216,0.7)';
+        ctx.fillStyle = inHop ? edgeLit : edgeDim;
         ctx.textAlign = 'center';
         ctx.fillText(e.relationship, mx, my - 2 / view.k);
         ctx.restore();
@@ -214,18 +224,18 @@ export function SceneCanvas({
       const r = baseR / Math.max(0.5, view.k * 0.6);
 
       const color = isSel
-        ? '#ffffff'
+        ? boneColor
         : n.isSeed
           ? '#c4b5fd'
           : n.core && inHop
             ? '#c4b5fd'
             : n.core
               ? '#7dd3fc'
-              : '#9aa4c7';
+              : fogColor;
 
       if (n.isSeed || isSel) {
         ctx.save();
-        ctx.shadowColor = isSel ? '#ffffff' : '#c4b5fd';
+        ctx.shadowColor = isSel ? boneColor : '#c4b5fd';
         ctx.shadowBlur = isSel ? 20 : 12;
         ctx.strokeStyle = color;
         ctx.fillStyle = color;
@@ -239,7 +249,7 @@ export function SceneCanvas({
 
       if (isSel) {
         ctx.save();
-        ctx.strokeStyle = 'rgba(255,255,255,0.9)';
+        ctx.strokeStyle = boneColor;
         ctx.lineWidth = 1 / view.k;
         ctx.setLineDash([3 / view.k, 3 / view.k]);
         ctx.beginPath();
@@ -257,7 +267,7 @@ export function SceneCanvas({
       if (!dim && showLabel) {
         ctx.save();
         ctx.font = `${(isSel || n.isSeed ? 12 : 10) / Math.max(0.8, view.k * 0.8)}px 'JetBrains Mono', monospace`;
-        ctx.fillStyle = isSel ? '#ffffff' : n.isSeed ? '#e7ebf7' : 'rgba(231,235,247,0.9)';
+        ctx.fillStyle = boneColor;
         ctx.textAlign = 'left';
         const labelOffset = r + 6 / view.k;
         ctx.fillText(n.archive.label, (n.x as number) + labelOffset, (n.y as number) + 3 / view.k);

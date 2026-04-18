@@ -90,7 +90,7 @@ export function CommandPalette({
         position: 'fixed',
         inset: 0,
         zIndex: 10000,
-        background: 'rgba(5,7,13,0.85)',
+        background: 'var(--nhi-scrim)',
         backdropFilter: 'blur(8px)',
         display: 'flex',
         flexDirection: 'column',

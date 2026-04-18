@@ -203,7 +203,7 @@ export function EntityDetail({
                 alignItems: 'center',
                 justifyContent: 'center',
                 color: 'var(--nhi-sky)',
-                background: 'rgba(10,14,26,0.6)',
+                background: 'var(--nhi-panel-bg)',
                 position: 'relative',
               }}
             >
@@ -364,7 +364,7 @@ export function EntityDetail({
                   style={{
                     border: '1px solid var(--nhi-hairline)',
                     marginBottom: 10,
-                    background: 'rgba(14,20,36,0.4)',
+                    background: 'var(--nhi-panel-bg-soft)',
                   }}
                 >
                   <div
@@ -534,7 +534,7 @@ export function EntityDetail({
                       padding: '8px 10px',
                       border: '1px solid var(--nhi-hairline)',
                       marginBottom: 4,
-                      background: 'rgba(14,20,36,0.4)',
+                      background: 'var(--nhi-panel-bg-soft)',
                     }}
                   >
                     <span style={{ color: 'var(--nhi-sky)' }}>
@@ -713,7 +713,7 @@ function TypeSpecificPanel({ node }: { node: ArchiveNode }) {
             style={{
               border: '1px dashed var(--nhi-hairline-hot)',
               padding: '10px 12px',
-              background: 'rgba(40,26,60,0.3)',
+              background: 'var(--nhi-panel-bg-soft)',
             }}
           >
             <div

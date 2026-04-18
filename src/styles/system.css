@@ -68,6 +68,26 @@ body {
   /* Chrome sizes */
   --nhi-topbar-h:    54px;
   --nhi-statusbar-h: 22px;
+
+  /* Semantic surfaces — used by panels, chips, bubbles, overlays.
+     These swap with the theme so components stop hardcoding rgba()
+     colors that only work on a dark ground. */
+  --nhi-panel-bg:       rgba(20, 26, 46, 0.62);   /* chips, tiles */
+  --nhi-panel-bg-soft:  rgba(14, 20, 36, 0.40);   /* card wash */
+  --nhi-panel-bg-deep:  rgba(10, 14, 26, 0.82);   /* dropdowns, modal scrims */
+  --nhi-node-bg:        rgba(20, 26, 46, 0.85);   /* node bubble fill */
+  --nhi-node-bg-dim:    rgba(14, 20, 36, 0.70);   /* dimmed neighbors */
+  --nhi-edge:           rgba(196, 181, 253, 0.38); /* 1-hop edges, selected */
+  --nhi-edge-dim:       rgba(148, 163, 216, 0.14); /* 2-hop edges, default */
+  --nhi-backdrop-wash:  rgba(125, 211, 252, 0.05); /* scene gradient focal */
+  --nhi-backdrop-edge:  rgba(5, 7, 13, 0.70);      /* scene gradient outer */
+  --nhi-shadow-lg:      0 6px 24px rgba(5, 7, 13, 0.6);
+  --nhi-scrim:          rgba(5, 7, 13, 0.85);
+  --nhi-map-ocean:      radial-gradient(ellipse at 50% 50%, rgba(18,30,60,0.5) 0%, rgba(5,7,13,0.98) 80%);
+  --nhi-map-land:       rgba(125, 140, 200, 0.06);
+  --nhi-map-coast:      rgba(199, 210, 254, 0.35);
+  --nhi-map-border:     rgba(149, 166, 224, 0.28);
+  --nhi-map-star:       rgba(199, 207, 230, 0.28);
 }
 
 /* Light theme — swap ink surfaces for paper and invert text ramps.
@@ -94,6 +114,27 @@ html.nhi-theme-light {
   --nhi-rose:   #e11d48;
   --nhi-amber:  #b45309;
   --nhi-lime:   #15803d;
+
+  /* Semantic surfaces — light-mode equivalents. Keep translucent so
+     the ink layer underneath still reads, but flipped toward paper.
+     Node + edge values are deliberately high-contrast so circles and
+     lines don't vanish against the paper ground. */
+  --nhi-panel-bg:       rgba(225, 232, 245, 0.92);
+  --nhi-panel-bg-soft:  rgba(215, 225, 242, 0.65);
+  --nhi-panel-bg-deep:  rgba(232, 238, 250, 0.98);
+  --nhi-node-bg:        rgba(150, 170, 210, 0.95);
+  --nhi-node-bg-dim:    rgba(190, 205, 230, 0.85);
+  --nhi-edge:           rgba(60, 80, 140, 0.70);
+  --nhi-edge-dim:       rgba(80, 100, 160, 0.40);
+  --nhi-backdrop-wash:  rgba(40, 110, 190, 0.08);
+  --nhi-backdrop-edge:  rgba(20, 30, 60, 0.06);
+  --nhi-shadow-lg:      0 6px 24px rgba(20, 30, 60, 0.18);
+  --nhi-scrim:          rgba(20, 30, 60, 0.35);
+  --nhi-map-ocean:      radial-gradient(ellipse at 50% 50%, rgba(215, 225, 245, 0.8) 0%, rgba(238, 241, 248, 0.98) 80%);
+  --nhi-map-land:       rgba(60, 80, 140, 0.08);
+  --nhi-map-coast:      rgba(40, 80, 180, 0.42);
+  --nhi-map-border:     rgba(60, 80, 140, 0.35);
+  --nhi-map-star:       rgba(60, 80, 140, 0.05);
 }
 html.nhi-theme-light body { background: var(--nhi-ink); color: var(--nhi-bone); }
 
@@ -179,7 +220,7 @@ html.nhi-theme-light body { background: var(--nhi-ink); color: var(--nhi-bone); 
 
 /* Panel */
 .nhi-root .nhi-panel {
-  background: linear-gradient(180deg, rgba(14, 20, 36, 0.82) 0%, rgba(10, 14, 26, 0.88) 100%);
+  background: var(--nhi-panel-bg-deep);
   border: 1px solid var(--nhi-hairline);
   backdrop-filter: blur(8px);
 }
@@ -197,7 +238,7 @@ html.nhi-theme-light body { background: var(--nhi-ink); color: var(--nhi-bone); 
   letter-spacing: 0.14em;
   text-transform: uppercase;
   color: var(--nhi-fog-2);
-  background: rgba(20, 26, 46, 0.6);
+  background: var(--nhi-panel-bg);
 }
 .nhi-root .nhi-chip .nhi-dot {
   width: 6px;

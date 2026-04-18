@@ -233,7 +233,7 @@ export function RadialFocus({
               position: 'absolute',
               inset: 0,
               background:
-                'radial-gradient(circle at 50% 50%, rgba(125,211,252,0.05), rgba(5,7,13,0.0) 45%, rgba(5,7,13,0.7) 85%)',
+                'radial-gradient(circle at 50% 50%, var(--nhi-backdrop-wash), transparent 45%, var(--nhi-backdrop-edge) 85%)',
               pointerEvents: 'none',
             }}
           />
@@ -244,8 +244,8 @@ export function RadialFocus({
                 <stop offset="60%" stopColor="rgba(125,211,252,0.0)" />
               </radialGradient>
             </defs>
-            <circle cx={cx} cy={cy} r={r1Radius} fill="none" stroke="rgba(149,166,224,0.1)" strokeDasharray="2 4" />
-            <circle cx={cx} cy={cy} r={r2Radius} fill="none" stroke="rgba(149,166,224,0.06)" strokeDasharray="2 6" />
+            <circle cx={cx} cy={cy} r={r1Radius} fill="none" stroke="var(--nhi-edge-dim)" strokeDasharray="2 4" />
+            <circle cx={cx} cy={cy} r={r2Radius} fill="none" stroke="var(--nhi-edge-dim)" strokeDasharray="2 6" />
 
             {sortedR1.map(({ node }) => {
               const p = getPos(node.id);
@@ -257,7 +257,7 @@ export function RadialFocus({
                   y1={cy}
                   x2={p.x}
                   y2={p.y}
-                  stroke="rgba(196,181,253,0.35)"
+                  stroke="var(--nhi-edge)"
                   strokeWidth={1}
                 />
               );
@@ -273,7 +273,7 @@ export function RadialFocus({
                   y1={a.y}
                   x2={b.x}
                   y2={b.y}
-                  stroke="rgba(148,163,216,0.12)"
+                  stroke="var(--nhi-edge-dim)"
                   strokeWidth={0.6}
                 />
               );
@@ -487,8 +487,8 @@ function NodeBubble({ n, x, y, size, isFocus, dim, rel, hover, onClick, onHover,
           background: isFocus
             ? 'radial-gradient(circle, rgba(125,211,252,0.9), rgba(125,211,252,0.15))'
             : dim
-              ? 'rgba(14,20,36,0.7)'
-              : 'rgba(20,26,46,0.85)',
+              ? 'var(--nhi-node-bg-dim)'
+              : 'var(--nhi-node-bg)',
           border:
             '1px solid ' +
             (isFocus
@@ -522,7 +522,7 @@ function NodeBubble({ n, x, y, size, isFocus, dim, rel, hover, onClick, onHover,
           fontFamily: 'var(--nhi-f-body)',
           fontSize: isFocus ? 14 : dim ? 10 : 12,
           color: isFocus ? 'var(--nhi-bone)' : 'var(--nhi-fog-2)',
-          textShadow: '0 1px 4px rgba(5,7,13,0.8)',
+          textShadow: '0 1px 4px var(--nhi-ink)',
           letterSpacing: isFocus ? '0.02em' : 0,
         }}
       >

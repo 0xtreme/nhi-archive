@@ -370,7 +370,7 @@ export function TimelineView({
                 top: 26,
                 bottom: 0,
                 width: 1,
-                background: 'rgba(148,163,216,0.06)',
+                background: 'var(--nhi-edge-dim)',
               }}
             />
           ))}
@@ -533,7 +533,7 @@ function BucketTile({
       ? 'rgba(196,181,253,0.28)'
       : isOpen || isHover
         ? 'rgba(125,211,252,0.18)'
-        : 'rgba(20,26,46,0.62)';
+        : 'var(--nhi-panel-bg)';
 
   if (count === 1) {
     const n = bucket.nodes[0];
@@ -566,7 +566,7 @@ function BucketTile({
             ? 'var(--nhi-sky)'
             : isRel
               ? 'rgba(196,181,253,0.5)'
-              : 'rgba(14,20,36,0.9)',
+              : 'var(--nhi-node-bg)',
           boxShadow: isSel ? '0 0 10px var(--nhi-sky)' : 'none',
           zIndex: isSel || isHover ? 15 : 5,
           padding: 0,
@@ -662,7 +662,7 @@ function BucketPopover({ bucket, x, y, selectedId, relatedIds, onPick, onClose }
         overflowY: 'auto',
         background: 'var(--nhi-ink-2)',
         border: '1px solid var(--nhi-hairline-hot)',
-        boxShadow: '0 6px 24px rgba(5,7,13,0.6)',
+        boxShadow: 'var(--nhi-shadow-lg)',
         zIndex: 40,
       }}
     >

@@ -187,8 +187,7 @@ export function MapView({ nodes, onSelect, breakpoint }: MapViewProps) {
           style={{
             position: 'absolute',
             inset: 0,
-            background:
-              'radial-gradient(ellipse at 50% 50%, rgba(18,30,60,0.5) 0%, rgba(5,7,13,0.98) 80%)',
+            background: 'var(--nhi-map-ocean)',
           }}
         />
         <svg
@@ -201,7 +200,7 @@ export function MapView({ nodes, onSelect, breakpoint }: MapViewProps) {
             const x = (i * 997) % size.w;
             const y = (i * 541 + 29) % size.h;
             const r = i % 7 === 0 ? 1.1 : 0.5;
-            return <circle key={i} cx={x} cy={y} r={r} fill="rgba(199,207,230,0.28)" />;
+            return <circle key={i} cx={x} cy={y} r={r} fill="var(--nhi-map-star)" />;
           })}
         </svg>
 
@@ -219,15 +218,15 @@ export function MapView({ nodes, onSelect, breakpoint }: MapViewProps) {
             <path
               d={derived.graticulePath}
               fill="none"
-              stroke="rgba(148,163,216,0.08)"
+              stroke="var(--nhi-edge-dim)"
               strokeWidth="0.5"
             />
             {derived.countryPaths.map((c) => (
               <path
                 key={String(c.id)}
                 d={c.d}
-                fill="rgba(125,140,200,0.06)"
-                stroke="rgba(149,166,224,0.28)"
+                fill="var(--nhi-map-land)"
+                stroke="var(--nhi-map-border)"
                 strokeWidth="0.5"
                 strokeLinejoin="round"
               />
@@ -235,7 +234,7 @@ export function MapView({ nodes, onSelect, breakpoint }: MapViewProps) {
             <path
               d={derived.landPath}
               fill="none"
-              stroke="rgba(199,210,254,0.35)"
+              stroke="var(--nhi-map-coast)"
               strokeWidth="0.6"
               strokeLinejoin="round"
             />
@@ -340,7 +339,7 @@ export function MapView({ nodes, onSelect, breakpoint }: MapViewProps) {
             style={{
               position: 'absolute',
               inset: 0,
-              background: 'rgba(5,7,13,0.4)',
+              background: 'var(--nhi-scrim)',
               zIndex: 30,
             }}
           >
