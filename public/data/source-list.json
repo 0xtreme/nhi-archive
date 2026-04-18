@@ -1,7 +1,7 @@
 {
   "generated_at": "2026-03-24T09:53:07.632Z",
-  "total_sources": 11,
-  "notes": "Generated from pipeline registry and ingestion run statistics.",
+  "total_sources": 12,
+  "notes": "Generated from pipeline registry and ingestion run statistics. Transcript corpus entry is added by the transcript integration pipeline (scripts/pipeline/integrate-transcripts.mjs), not by the main ingest run.",
   "sources": [
     {
       "source_id": "aaro",
@@ -170,6 +170,24 @@
       "records_review_queue": 0,
       "records_url_duplicate": 4,
       "records_semantic_duplicate": 0
+    },
+    {
+      "source_id": "transcripts",
+      "name": "American Alchemy — Jesse Michels",
+      "url": "https://www.youtube.com/@JesseMichels",
+      "source_type": "transcript_corpus",
+      "trust_level": "secondary",
+      "crawl_frequency": "on_demand",
+      "extraction_method": "llm_extract",
+      "active": true,
+      "records_processed": 1544,
+      "records_auto_ingested": 1526,
+      "records_review_queue": 0,
+      "records_url_duplicate": 0,
+      "records_semantic_duplicate": 18,
+      "host": "Jesse Michels",
+      "channel": "American Alchemy",
+      "description": "Long-form UFO/UAP interviews from the American Alchemy YouTube channel hosted by Jesse Michels. 98 episodes with ≥100k views transcribed and extracted into structured entities, claims, and citations."
     }
   ]
 }

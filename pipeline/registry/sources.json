@@ -111,5 +111,15 @@
     "crawl_frequency": "daily",
     "extraction_method": "api",
     "active": true
+  },
+  {
+    "source_id": "transcripts",
+    "name": "American Alchemy — Jesse Michels",
+    "url": "https://www.youtube.com/@JesseMichels",
+    "source_type": "transcript_corpus",
+    "trust_level": "secondary",
+    "crawl_frequency": "on_demand",
+    "extraction_method": "llm_extract",
+    "active": true
   }
 ]

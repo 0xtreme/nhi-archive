@@ -356,4 +356,21 @@ button.ghost:hover {
   .topbar {
     background: rgba(17, 18, 28, 0.9);
   }
+
+  .layout {
+    grid-template-columns: 1fr;
+  }
+
+  .layout .view {
+    order: 1;
+  }
+
+  .layout .filters {
+    order: 2;
+  }
+
+  .layout .detail-panel {
+    order: 3;
+    grid-column: auto;
+  }
 }

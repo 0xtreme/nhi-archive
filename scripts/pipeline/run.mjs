@@ -32,6 +32,7 @@ const sourceSchema = z.object({
     'forum',
     'pdf_archive',
     'social_feed',
+    'transcript_corpus',
   ]),
   trust_level: z.enum(['primary', 'secondary', 'tertiary']),
   crawl_frequency: z.enum(['daily', 'weekly', 'monthly', 'on_demand']),
