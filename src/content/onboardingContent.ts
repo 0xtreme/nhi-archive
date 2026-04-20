@@ -143,15 +143,15 @@ export const ONBOARDING_CONTENT = {
   },
 
   handoff: {
-    eyebrow: 'OVER TO YOU',
-    headline: "Pick a thread. The archive has the rest.",
-    body: "Three doors in. No account, no email, no gate. You can leave at any time.",
+    eyebrow: 'IF YOU WANT MORE',
+    headline: "The archive is that way.",
+    body: "Same data, different lens. Open whichever you like.",
     doorways: [
-      { title: 'The timeline',  pitch: "What happened, when. 1947 to now.",                                     href: '#/archive?view=timeline', accent: 'sky'    },
-      { title: 'The network',   pitch: "Who knows who. Portrait map of the people in all of this.",             href: '#/archive?view=network',  accent: 'violet' },
-      { title: 'The map',       pitch: "Where it happened. Nimitz, Rendlesham, Varginha, Aguadilla.",           href: '#/archive?view=map',      accent: 'lime'   },
+      { title: 'Timeline', pitch: "What happened, when. 1947 to now.",                                href: '#/archive?view=timeline', accent: 'sky'    },
+      { title: 'Network',  pitch: "Who knows who. Portrait map of the people in the file.",           href: '#/archive?view=network',  accent: 'violet' },
+      { title: 'Map',      pitch: "Where it happened. Nimitz, Rendlesham, Varginha, Aguadilla.",      href: '#/archive?view=map',      accent: 'lime'   },
     ] as HandoffDoorway[],
-    exit: 'Or just start exploring →',
+    exit: 'Or just look around →',
     exitHref: '#/archive',
   },
 };

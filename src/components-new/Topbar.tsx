@@ -313,7 +313,7 @@ export function Topbar({
         }}
       >
         {([
-          { k: 'onboarding', label: isMobile ? 'Start' : 'Start Here' },
+          { k: 'onboarding', label: 'Read' },
           { k: 'archive', label: 'Archive' },
         ] as const).map((r, i) => {
           const active = route === r.k;

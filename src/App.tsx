@@ -405,7 +405,7 @@ export default function App() {
       )}
 
       <StatusBar
-        screen={route === 'onboarding' ? 'ONBOARDING' : viewMode.toUpperCase()}
+        screen={route === 'onboarding' ? 'READING' : viewMode.toUpperCase()}
         nodesLoaded={statusNodesVisible}
         nodesTotal={statusNodesTotal}
         selectedId={selectedNodeId}

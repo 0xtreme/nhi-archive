@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useRef, useState } from 'react';
+import { useEffect, useRef } from 'react';
 import {
   ONBOARDING_CONTENT,
   type EvidenceTier,
@@ -58,40 +58,31 @@ function initials(name: string): string {
  */
 export function Onboarding({ onGoToArchive, breakpoint }: OnboardingProps) {
   const isMobile = breakpoint === 'mobile';
-  const [activeStep, setActiveStep] = useState(1);
   const stepRefs = useRef<(HTMLElement | null)[]>([]);
 
-  // Progress rail — flag the act the viewport has scrolled through.
-  // IntersectionObserver is fine here; we're not competing with heavy
-  // scroll-driven animations in Phase 1.
+  // Once the user has scrolled into the final section, mark the read
+  // complete so the next visit defaults to the archive. No tutorial
+  // progress rail — this is a story, not a checklist.
   useEffect(() => {
     const io = new IntersectionObserver(
       (entries) => {
-        const hit = entries
-          .filter((e) => e.isIntersecting)
-          .sort((a, b) => b.intersectionRatio - a.intersectionRatio)[0];
-        if (!hit) return;
-        const idx = Number((hit.target as HTMLElement).dataset.step);
-        if (!Number.isNaN(idx)) setActiveStep(idx);
+        for (const e of entries) {
+          if (e.isIntersecting && (e.target as HTMLElement).dataset.step === '5') {
+            try {
+              window.localStorage.setItem('nhi_onboarding_complete', 'true');
+            } catch {
+              // storage blocked; ignore
+            }
+            io.disconnect();
+            return;
+          }
+        }
       },
-      { threshold: [0.4, 0.6] },
+      { threshold: 0.4 },
     );
     stepRefs.current.forEach((el) => el && io.observe(el));
     return () => io.disconnect();
   }, []);
-
-  // Mark the user as having seen the onboarding once they reach the
-  // handoff — sets the `returning user` flag read by getRoute() so
-  // next visit lands on /archive.
-  useEffect(() => {
-    if (activeStep >= 5) {
-      try {
-        window.localStorage.setItem('nhi_onboarding_complete', 'true');
-      } catch {
-        // storage unavailable; ignore
-      }
-    }
-  }, [activeStep]);
 
   const setStepRef = (i: number) => (el: HTMLElement | null) => {
     stepRefs.current[i] = el;
@@ -108,8 +99,6 @@ export function Onboarding({ onGoToArchive, breakpoint }: OnboardingProps) {
         position: 'relative',
       }}
     >
-      {!isMobile && <ProgressRail active={activeStep} />}
-
       <Act01Hook
         setRef={setStepRef(0)}
         onGoToArchive={onGoToArchive}
@@ -158,7 +147,6 @@ function Act01Hook({ setRef, onGoToArchive, isMobile }: ActWithArchiveProps) {
       }}
     >
       <div style={{ maxWidth: 1100, width: '100%', margin: '0 auto' }}>
-        <StepHeader number="01" label="THE HOOK" />
         <div
           className="nhi-mono"
           style={{
@@ -194,7 +182,7 @@ function Act01Hook({ setRef, onGoToArchive, isMobile }: ActWithArchiveProps) {
         >
           {c.body}
         </p>
-        <div style={{ marginTop: 28, display: 'flex', flexWrap: 'wrap', gap: 12 }}>
+        <div style={{ marginTop: 28 }}>
           <button
             onClick={() =>
               onGoToArchive(`#/archive?view=network&focus=${c.deepLinkId}`)
@@ -210,23 +198,6 @@ function Act01Hook({ setRef, onGoToArchive, isMobile }: ActWithArchiveProps) {
             }}
           >
             SEE GRUSCH IN THE ARCHIVE →
-          </button>
-          <button
-            onClick={() => {
-              document
-                .querySelector('[data-step="2"]')
-                ?.scrollIntoView({ behavior: 'smooth' });
-            }}
-            className="nhi-mono"
-            style={{
-              fontSize: 11,
-              letterSpacing: '0.18em',
-              padding: '10px 14px',
-              border: '1px solid var(--nhi-hairline-2)',
-              color: 'var(--nhi-fog-2)',
-            }}
-          >
-            CONTINUE ↓
           </button>
         </div>
       </div>
@@ -248,7 +219,6 @@ function Act02Reframe({ setRef, isMobile }: ActProps) {
       }}
     >
       <div style={{ maxWidth: 1100, width: '100%', margin: '0 auto' }}>
-        <StepHeader number="02" label="THE REFRAME" />
         <div
           className="nhi-mono"
           style={{
@@ -401,7 +371,6 @@ function Act03Evidence({ setRef, isMobile }: ActProps) {
       }}
     >
       <div style={{ maxWidth: 1100, width: '100%', margin: '0 auto' }}>
-        <StepHeader number="03" label="THE EVIDENCE" />
         <div
           className="nhi-mono"
           style={{
@@ -566,7 +535,6 @@ function Act04Cast({ setRef, onGoToArchive, isMobile }: ActWithArchiveProps) {
       }}
     >
       <div style={{ maxWidth: 1100, width: '100%', margin: '0 auto' }}>
-        <StepHeader number="04" label="THE CAST" />
         <div
           className="nhi-mono"
           style={{
@@ -576,7 +544,7 @@ function Act04Cast({ setRef, onGoToArchive, isMobile }: ActWithArchiveProps) {
             marginBottom: 14,
           }}
         >
-          INSTITUTIONAL ONLY
+          {c.eyebrow}
         </div>
         <h2
           className="nhi-display"
@@ -754,7 +722,6 @@ function Act05Handoff({ setRef, onGoToArchive, isMobile }: ActWithArchiveProps) 
         }}
       />
       <div style={{ position: 'relative', maxWidth: 1100, width: '100%', margin: '0 auto' }}>
-        <StepHeader number="05" label="THE HANDOFF" />
         <div
           className="nhi-mono"
           style={{
@@ -875,92 +842,3 @@ function Act05Handoff({ setRef, onGoToArchive, isMobile }: ActWithArchiveProps) 
   );
 }
 
-// ─── Chrome: progress rail + step header ───────────────────────────
-
-function StepHeader({ number, label }: { number: string; label: string }) {
-  return (
-    <div
-      className="nhi-mono"
-      style={{
-        fontSize: 9,
-        letterSpacing: '0.24em',
-        color: 'var(--nhi-fog)',
-        marginBottom: 14,
-      }}
-    >
-      STEP · {number} · {label}
-    </div>
-  );
-}
-
-function ProgressRail({ active }: { active: number }) {
-  const steps = useMemo(
-    () => [
-      { n: 1, label: 'Hook' },
-      { n: 2, label: 'Reframe' },
-      { n: 3, label: 'Evidence' },
-      { n: 4, label: 'Cast' },
-      { n: 5, label: 'Handoff' },
-    ],
-    [],
-  );
-  return (
-    <div
-      style={{
-        position: 'fixed',
-        right: 20,
-        top: '50%',
-        transform: 'translateY(-50%)',
-        display: 'flex',
-        flexDirection: 'column',
-        gap: 14,
-        zIndex: 60,
-        pointerEvents: 'auto',
-      }}
-    >
-      {steps.map((s) => {
-        const on = active >= s.n;
-        const current = active === s.n;
-        return (
-          <button
-            key={s.n}
-            onClick={() => {
-              document
-                .querySelector(`[data-step="${s.n}"]`)
-                ?.scrollIntoView({ behavior: 'smooth' });
-            }}
-            style={{
-              display: 'flex',
-              alignItems: 'center',
-              gap: 10,
-              padding: 0,
-            }}
-          >
-            <span
-              style={{
-                width: 10,
-                height: 10,
-                borderRadius: '50%',
-                border: '1px solid ' + (on ? 'var(--nhi-sky)' : 'var(--nhi-hairline-2)'),
-                background: current ? 'var(--nhi-sky)' : 'transparent',
-                display: 'inline-block',
-                transition: 'background 150ms var(--nhi-ease)',
-              }}
-            />
-            <span
-              className="nhi-mono"
-              style={{
-                fontSize: 9,
-                letterSpacing: '0.18em',
-                color: current ? 'var(--nhi-sky)' : 'var(--nhi-fog-2)',
-                opacity: on ? 1 : 0.55,
-              }}
-            >
-              {s.label.toUpperCase()}
-            </span>
-          </button>
-        );
-      })}
-    </div>
-  );
-}
