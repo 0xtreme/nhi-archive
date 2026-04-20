@@ -77,16 +77,18 @@ export function Topbar({
     <div
       className="nhi-root"
       style={{
-        height: 'var(--nhi-topbar-h)',
+        minHeight: 'var(--nhi-topbar-h)',
         borderBottom: '1px solid var(--nhi-hairline)',
         display: 'flex',
         alignItems: 'center',
-        padding: isMobile ? '0 10px' : '0 16px',
+        padding: isMobile ? '8px 10px' : '0 16px',
         gap: isMobile ? 8 : 14,
         background: 'var(--nhi-ink-1)',
         position: 'relative',
         zIndex: 50,
         flexShrink: 0,
+        flexWrap: isMobile ? 'wrap' : 'nowrap',
+        rowGap: isMobile ? 8 : 0,
       }}
     >
       <button
@@ -311,7 +313,7 @@ export function Topbar({
         }}
       >
         {([
-          { k: 'onboarding', label: 'Start Here' },
+          { k: 'onboarding', label: isMobile ? 'Start' : 'Start Here' },
           { k: 'archive', label: 'Archive' },
         ] as const).map((r, i) => {
           const active = route === r.k;
